@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  Formerly ThatchCo
+- project: mindtrip ai
+  role: Beta Tester | Developer
+  duration: 2024 -2025
+  url: "https://mindtrip.ai/s/yGmHvT"
+  description: MindTrip AI is an experimental beta exploring immersive, AI-driven interactions with a focus on accessibility, intuitive design, and sensory-friendly engagement. Blending front-end development expertise with cutting-edge AI solutions, MindTrip AI is redefining how digital spaces adapt to users.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  Girls Who Code
+- project: Code at Home
+  role: Organizer
+  duration: 2012 - Present
+  url: "https://girlswhocode.com/get-involved"
+  description: Girls Who Code is a nonprofit organization dedicated to closing the gender gap in technology. Through coding clubs, mentorship programs, and immersive learning experiences, Girls Who Code empowers young women with the skills, confidence, and support to pursue careers in computer science. By fostering inclusivity and innovation, the organization is building a future where women are equally represented in tech.
