@@ -14,7 +14,7 @@ resume_name:                    "Jennifer Picado"
 resume_title:                   "Travel Creative"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "djinnifer@icloud.com"
+resume_contact_email:           "glitch@jennifer.it.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "504.510.1878"
