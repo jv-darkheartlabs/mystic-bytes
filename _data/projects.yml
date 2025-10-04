@@ -9,3 +9,9 @@
   duration: 2012 - Present
   url: "https://girlswhocode.com/get-involved"
   description: Girls Who Code is a nonprofit organization dedicated to closing the gender gap in technology. Through coding clubs, mentorship programs, and immersive learning experiences, Girls Who Code empowers young women with the skills, confidence, and support to pursue careers in computer science. By fostering inclusivity and innovation, the organization is building a future where women are equally represented in tech.
+
+- project: Warp Terminal
+  role: Alpha Tester | Developer
+  duration: 2024 - Present
+  url: "https://app.warp.dev/referral/545Q84"
+  description: Warp AI Terminal reinvents the command line with AI-powered automation, smart auto-completions, and natural language command execution. Built for speed and efficiency, Warp streamlines workflows with voice commands, proactive error fixing, and a modern, intuitive interface. Ditch the outdated terminal—try Warp and supercharge your development.

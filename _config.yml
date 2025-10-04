@@ -9,19 +9,19 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Jennifer Picado"
-resume_title:                   "Digital Workflow Architect"
+resume_avatar: "true"
+resume_name: "Jennifer Picado"
+resume_title: "Lover of Cascading Style Sheets"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "support@terminaldrift.blog"
+resume_contact_email: "support@terminaldrift.digital"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "504.510.1878"
-resume_contact_address:         "Chalmette, LA"
+resume_contact_telephone: "504.510.1878"
+resume_contact_address: "Chalmette, LA"
 
-resume_header_contact_info:     "3409 Jackson Blvd Chalmette LA 70043 • 504.510.1878 • support@terminaldrift.blog"
-display_header_contact_info:    "false"
+resume_header_contact_info: "3409 Jackson Blvd Chalmette LA 70043 • 504.510.1878 • support@terminaldrift.digital"
+display_header_contact_info: "false"
 
 resume_header_intro: "<p>Experienced in HTML, CSS, JavaScript, Java, Ruby Gems, Docker, GitHub, Slack-based collaboration, and AI-powered solutions. Specializing in UI/UX optimization, system migrations (Windows, macOS, Linux), and scalable IT infrastructures. Passionate about sensory-friendly digital environments, automation, and immersive technology solutions.</p>"
 
@@ -29,30 +29,29 @@ resume_header_intro: "<p>Experienced in HTML, CSS, JavaScript, Java, Ruby Gems, 
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work: "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-resume_section_interests:       true
+resume_section_experience: true
+resume_section_education: true
+resume_section_projects: true
+resume_section_skills: true
+resume_section_recognition: true
+resume_section_links: true
+resume_section_associations: true
+resume_section_interests: true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  alive_shoes_url:         "https://www.aliveshoes.com/brand/wanderlustjourneys"
+  alive_shoes_url: "https://www.aliveshoes.com/brand/terminaldrift"
   foratravel_partners_url: "https://www.foratravel.com/partners/jennifer-picado"
- 
-resume_print_social_links:      true
+
+resume_print_social_links: true
 
 # Design settings
-resume_theme:                   default
-
+resume_theme: default
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
