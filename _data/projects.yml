@@ -1,14 +1,14 @@
-- project: mindtrip ai
-  role: Beta Tester | Developer
-  duration: 2024 - 2025
-  url: "https://mindtrip.ai/s/yGmHvT"
-  description: MindTrip AI is an experimental beta exploring immersive, AI-driven interactions with a focus on accessibility, intuitive design, and sensory-friendly engagement. Blending front-end development expertise with cutting-edge AI solutions, MindTrip AI is redefining how digital spaces adapt to users.
-
 - project: Girls Who Code - Code at Home
   role: Organizer
   duration: 2012 - Present
   url: "https://girlswhocode.com/get-involved"
   description: Girls Who Code is a nonprofit organization dedicated to closing the gender gap in technology. Through coding clubs, mentorship programs, and immersive learning experiences, Girls Who Code empowers young women with the skills, confidence, and support to pursue careers in computer science. By fostering inclusivity and innovation, the organization is building a future where women are equally represented in tech.
+
+- project: mindtrip ai
+  role: Beta Tester | Developer
+  duration: 2024 - 2025
+  url: "https://mindtrip.ai/s/yGmHvT"
+  description: MindTrip AI is an experimental beta exploring immersive, AI-driven interactions with a focus on accessibility, intuitive design, and sensory-friendly engagement. Blending front-end development expertise with cutting-edge AI solutions, MindTrip AI is redefining how digital spaces adapt to users.
 
 - project: Warp Terminal
   role: Alpha Tester | Developer
