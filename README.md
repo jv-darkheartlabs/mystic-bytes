@@ -54,14 +54,21 @@ Transforming digital experiences through innovative AI integration and technical
 **Technical Showcase** • *2024 - Present*  
 
 **🏦 Wellington FinTech Rails API**  
-**🌐 LIVE:** [wellington-fintech-api-production.up.railway.app](https://wellington-fintech-api-production.up.railway.app)  
-Demonstrates NZ regulatory expertise with RBNZ, IRD, and FMA compliance frameworks. Features enterprise-grade audit logging, financial transaction models, and multi-tenant architecture.
+**🚀 LIVE DEMO:** One-click development via GitHub Codespaces  
+**📂 Repository:** [github.com/forestbloomglitch/wellington-fintech-rails-api](https://github.com/forestbloomglitch/wellington-fintech-rails-api)  
+Demonstrates NZ regulatory expertise with RBNZ, IRD, and FMA compliance frameworks. Features enterprise-grade audit logging, financial transaction models, and multi-tenant architecture. **Instant deployment** via GitHub Codespaces with full PostgreSQL + Redis environment.
 
 **♿ Accessibility Rails Components Library**  
-**🌐 LIVE:** [accessibility-components-production.up.railway.app](https://accessibility-components-production.up.railway.app)  
-Showcases WCAG 2.1 AA compliant components with ViewComponent architecture. Includes accessible forms, keyboard navigation, and screen reader optimization.
+**🚀 LIVE DEMO:** One-click development via GitHub Codespaces  
+**📂 Repository:** [github.com/forestbloomglitch/accessibility-rails-components](https://github.com/forestbloomglitch/accessibility-rails-components)  
+Showcases WCAG 2.1 AA compliant components with ViewComponent architecture. Includes accessible forms, keyboard navigation, and screen reader optimization. **Interactive component previews** available instantly via Codespaces.
 
-**Impact:** Live, verifiable code examples demonstrating technical skills for New Zealand immigration application
+**🎯 Employer Demonstration:**  
+**One-click access:** Click "Code" → "Codespaces" → "Create codespace" on either repository  
+**Live in 2-3 minutes:** Fully functional development environment with sample data  
+**Public demos available:** Port forwarding allows instant sharing of live applications  
+
+**Impact:** Live, verifiable code examples with instant deployment demonstrating technical skills for New Zealand immigration application
 
 ### 🧠 MindTrip AI Beta Testing & Development
 **Beta Tester | Developer** • *2024 - 2025*
