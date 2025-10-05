@@ -146,10 +146,10 @@ resume_looking_for_work: "yes"
 #### Projects (_data/projects.yml)
 ```yaml
 - project: "Girls Who Code - Code at Home"
-  role: "Organizer"
+  role: "Advocate"
   duration: "2012 - Present"
   url: "https://girlswhocode.com/get-involved"
-  description: "Project description..."
+  description: "Supporting and mentoring younger girls in coding..."
 ```
 
 #### Skills (_data/skills.yml)

@@ -77,12 +77,12 @@ Next-generation AI-powered terminal with natural language command execution and 
 
 **Impact:** Early adoption expertise in AI-driven development environments
 
-### 👩‍💻 Girls Who Code Community Leadership
-**Organizer** • *2012 - Present*
+### 👩‍💻 Girls Who Code Community Advocacy
+**Advocate** • *2012 - Present*
 
-Leading technology education initiatives to close the gender gap in tech through coding clubs, mentorship programs, and immersive learning experiences.
+Supporting and mentoring younger girls interested in coding through encouragement, guidance, and making myself available to help them navigate their tech journey. Contributing to closing the gender gap in technology through accessible mentorship and community support.
 
-**Impact:** Fostering inclusivity and innovation in technology education
+**Impact:** Fostering inclusivity and providing accessible mentorship in technology education
 
 ---
 
