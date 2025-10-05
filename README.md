@@ -50,6 +50,19 @@ Transforming digital experiences through innovative AI integration and technical
 
 ## 🚀 Featured Projects
 
+### 💼 Live Code Demonstrations - NZ Immigration Portfolio
+**Technical Showcase** • *2024 - Present*  
+
+**🏦 Wellington FinTech Rails API**  
+**🌐 LIVE:** [wellington-fintech-api-production.up.railway.app](https://wellington-fintech-api-production.up.railway.app)  
+Demonstrates NZ regulatory expertise with RBNZ, IRD, and FMA compliance frameworks. Features enterprise-grade audit logging, financial transaction models, and multi-tenant architecture.
+
+**♿ Accessibility Rails Components Library**  
+**🌐 LIVE:** [accessibility-components-production.up.railway.app](https://accessibility-components-production.up.railway.app)  
+Showcases WCAG 2.1 AA compliant components with ViewComponent architecture. Includes accessible forms, keyboard navigation, and screen reader optimization.
+
+**Impact:** Live, verifiable code examples demonstrating technical skills for New Zealand immigration application
+
 ### 🧠 MindTrip AI Beta Testing & Development
 **Beta Tester | Developer** • *2024 - 2025*
 
