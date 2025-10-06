@@ -50,25 +50,25 @@ Transforming digital experiences through innovative AI integration and technical
 
 ## 🚀 Featured Projects
 
-### 💼 Live Code Demonstrations - NZ Immigration Portfolio
-**Technical Showcase** • *2024 - Present*  
+### 💼 Technical Learning Projects - NZ Immigration Portfolio
+**Skills Demonstration** • *2024 - Present*  
 
 **🏦 Wellington FinTech Rails API**  
-**🚀 LIVE DEMO:** One-click development via GitHub Codespaces  
+**🚀 DEMO:** One-click development via GitHub Codespaces  
 **📂 Repository:** [github.com/forestbloomglitch/wellington-fintech-rails-api](https://github.com/forestbloomglitch/wellington-fintech-rails-api)  
-Demonstrates NZ regulatory expertise with RBNZ, IRD, and FMA compliance frameworks. Features enterprise-grade audit logging, financial transaction models, and multi-tenant architecture. **Instant deployment** via GitHub Codespaces with full PostgreSQL + Redis environment.
+Demonstrates Rails development knowledge and NZ regulatory research including RBNZ, IRD, and FMA compliance patterns. Features sample audit logging, financial transaction models, and database architecture. **Development environment** via GitHub Codespaces with PostgreSQL + Redis setup.
 
 **♿ Accessibility Rails Components Library**  
-**🚀 LIVE DEMO:** One-click development via GitHub Codespaces  
+**🚀 DEMO:** One-click development via GitHub Codespaces  
 **📂 Repository:** [github.com/forestbloomglitch/accessibility-rails-components](https://github.com/forestbloomglitch/accessibility-rails-components)  
-Showcases WCAG 2.1 AA compliant components with ViewComponent architecture. Includes accessible forms, keyboard navigation, and screen reader optimization. **Interactive component previews** available instantly via Codespaces.
+Showcases accessibility knowledge through WCAG 2.1 AA research and ViewComponent examples. Includes accessible component patterns, keyboard navigation, and screen reader considerations. **Interactive component examples** available via Codespaces.
 
 **🎯 Employer Demonstration:**  
 **One-click access:** Click "Code" → "Codespaces" → "Create codespace" on either repository  
 **Live in 2-3 minutes:** Fully functional development environment with sample data  
 **Public demos available:** Port forwarding allows instant sharing of live applications  
 
-**Impact:** Live, verifiable code examples with instant deployment demonstrating technical skills for New Zealand immigration application
+**Impact:** Technical learning projects demonstrating Rails development skills, NZ regulatory understanding, and accessibility knowledge for immigration application
 
 ### 🧠 MindTrip AI Beta Testing & Development
 **Beta Tester | Developer** • *2024 - 2025*
