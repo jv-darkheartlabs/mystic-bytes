@@ -14,13 +14,13 @@ resume_name: "Jennifer Picado"
 resume_title: "AI Integration Specialist"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email: "support@terminaldrift.digital"
+resume_contact_email: "beautysteps@arcaneglam.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone: "504.510.1878"
 resume_contact_address: "Chalmette, LA"
 
-resume_header_contact_info: "3409 Jackson Blvd Chalmette LA 70043 • 504.510.1878 • support@terminaldrift.digital"
+resume_header_contact_info: "3409 Jackson Blvd Chalmette LA 70043 • 504.510.1878 • djinnifer@icloud.com"
 display_header_contact_info: "false"
 
 resume_header_intro: "<p>Experienced in HTML, CSS, JavaScript, Java, Ruby Gems, Docker, GitHub, Slack-based collaboration, and AI-powered solutions. Specializing in UI/UX optimization, system migrations (Windows, macOS, Linux), and scalable IT infrastructures. Passionate about sensory-friendly digital environments, automation, and immersive technology solutions.</p>"
@@ -45,7 +45,7 @@ resume_section_interests: true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  alive_shoes_url: "https://www.aliveshoes.com/brand/terminaldrift"
+  alive_shoes_url: "https://www.aliveshoes.com/brand/arcaneglam"
   foratravel_partners_url: "https://www.foratravel.com/partners/jennifer-picado"
 
 resume_print_social_links: true
