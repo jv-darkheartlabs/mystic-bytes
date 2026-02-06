@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#4a2a31"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="48" y="48" width="1104" height="534" rx="24" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.18)"/>
+  <text x="96" y="160" fill="#e8eefc" font-family="ui-sans-serif, system-ui" font-size="44" font-weight="700">Mystic Bytes</text>
+  <text x="96" y="220" fill="#b3c0df" font-family="ui-sans-serif, system-ui" font-size="22">Screenshot placeholder (replace with real images in assets/screenshots/)</text>
+  <g fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="2">
+    <rect x="96" y="280" width="1008" height="220" rx="16"/>
+  </g>
+  <text x="120" y="540" fill="#7aa2ff" font-family="ui-sans-serif, system-ui" font-size="18">Add: 01-hero.png, 02-projects.png, 03-mobile.png</text>
+</svg>
