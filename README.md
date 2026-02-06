@@ -6,15 +6,9 @@ Personal resume / portfolio site (Jekyll) published via GitHub Pages.
 
 ## 🖼️ Preview
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  [Screenshot placeholder: homepage hero + projects section] │
-│                                                             │
-│  • About                                                     │
-│  • Projects                                                  │
-│  • Resume                                                    │
-└─────────────────────────────────────────────────────────────┘
-```
+![Preview](assets/screenshots/preview.svg)
+
+> Replace this placeholder by adding real screenshots to `assets/screenshots/` (see `samples/capture-screenshots.md`).
 
 ---
 
