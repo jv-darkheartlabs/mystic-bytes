@@ -7,4 +7,5 @@ $accent-teal: #06b6d4 !default;
 // Small optional glow value used by headings; adjust lightly
 $heading-glow-color: rgba(196,181,253,0.12) !default;
 
-// If the theme imports a variables file, this override file should be imported after it
+// Note: This file should be imported after the theme's main variables file
+// to ensure these !default values are properly applied.
