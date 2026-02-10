@@ -1,6 +1,6 @@
 # Site settings
-title: "My Jekyll Resume"
-description: "A GitHub Pages Project."
+title: "Arcaneglam — CV"
+description: "Resume / CV — Arcaneglam"
 
 # Build settings
 markdown: kramdown
@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar: "true"
-resume_name: "Jennifer Picado"
-resume_title: "AI Integration Specialist"
+resume_name: "Arcaneglam"
+resume_title: "Front-End Web Developer / AI Integration Specialist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email: "beautysteps@arcaneglam.com"
