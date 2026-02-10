@@ -14,13 +14,13 @@ resume_name: "Jennifer Picado"
 resume_title: "Full-Stack Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email: "beautysteps@arcaneglam.com"
+resume_contact_email: "dev@arcaneglam.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone: "504.510.1878"
 resume_contact_address: "Chalmette, LA"
 
-resume_header_contact_info: "3409 Jackson Blvd Chalmette LA 70043 • 504.510.1878 • djinnifer@icloud.com"
+resume_header_contact_info: "3409 Jackson Blvd Chalmette LA 70043 • 504.510.1878 • dev@arcaneglam.com"
 display_header_contact_info: "false"
 
 resume_header_intro: "<p>Full-stack developer with 20+ years of web development experience and a focus on React, Node.js, and TypeScript. Builds performant, accessible applications from database to UI. Active open source contributor with hands-on AI integration skills.</p>"
@@ -45,9 +45,10 @@ resume_section_interests: true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url: "https://github.com/djinnfr"
-  resume_linkedin_url: "https://linkedin.com/in/jennifer-picado"
-  resume_website_url: "https://www.aliveshoes.com/brand/arcaneglam"
+  resume_github_url: "https://github.com/arcaneglam"
+  resume_behance_url: "https://www.behance.net/arcaneglam"
+  resume_linkedin_url: "https://linkedin.com/in/arcaneglam"
+  resume_website_url: "https://dev.arcaneglam.com"
 
 resume_print_social_links: true
 
