@@ -1,10 +1,2 @@
-# Recognitions
-- award: 4H Tech Changemakers
-  organization: St Louise de Marillac / Cabrini High School
-  years: 1989 - 1996
-  url: https://4-h.org/programs/tech-changemakers/
-  
-- award: Service Learning Project
-  organization: Cabrini High School
-  years: 1994 - 1996
-  url: https://cabrinihigh.com/service-learning-project
+# empty list to avoid template errors
+[]
