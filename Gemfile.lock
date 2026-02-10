@@ -242,6 +242,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
+    rexml (3.4.4)
     rouge (3.13.0)
     ruby-enum (0.8.0)
       i18n
@@ -264,6 +265,7 @@ GEM
     tzinfo (1.2.11)
       thread_safe (~> 0.1)
     unicode-display_width (1.7.0)
+    webrick (1.9.2)
     zeitwerk (2.6.6)
 
 PLATFORMS
@@ -272,6 +274,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  rexml
+  webrick
 
 BUNDLED WITH
    2.1.4

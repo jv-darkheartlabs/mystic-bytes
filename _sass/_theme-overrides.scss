@@ -1,0 +1,11 @@
+// Minimal theme color overrides to adjust accent and glow colors while preserving design
+// These use !default so they won't clobber existing variables if already defined elsewhere.
+$accent-color: #8b5cf6 !default;
+$accent-glow: #c4b5fd !default;
+$accent-teal: #06b6d4 !default;
+
+// Small optional glow value used by headings; adjust lightly
+$heading-glow-color: rgba(196,181,253,0.12) !default;
+
+// Note: This file should be imported after the theme's main variables file
+// to ensure these !default values are properly applied.
