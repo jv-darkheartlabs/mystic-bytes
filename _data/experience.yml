@@ -1,23 +1,15 @@
-- company: DigitalSpellCraft LLC
-  position: Front-End WebDev | IT Specialist
-  summary: >
-    Front-End Development: Designed and developed interactive, user-friendly experiences using HTML, CSS, JavaScript, Java, and Ruby Gems.
-    UI/UX Optimization: Improved accessibility and engagement through beta testing of Apple travel applications.
-    AI Integration: Developed Private GPT-powered concierge solutions, increasing user retention with AI-driven conversational UI.
-    System Migrations & Infrastructure Optimization: Led desktop/laptop refresh projects, supporting Windows 7 to Windows 11, macOS (Snow Leopard to current), and Linux distributions.
-    Docker Containerization & Deployment: Implemented container-based solutions, streamlining IT workflows and ensuring scalability.
-    Remote Technical Assistance: Provided real-time troubleshooting and operational support via Slack and Discord direct messaging.
+- company: "DigitalSpellCraft LLC"
+  position: "Front-End WebDev | IT Specialist"
+  duration: ""
+  summary: "Designed and developed interactive, user-friendly experiences using HTML, CSS, JavaScript, Java, and Ruby Gems. Improved accessibility and engagement through beta testing of Apple travel applications. Developed Private GPT-powered concierge solutions, increasing user retention with AI-driven conversational UI. Led desktop/laptop refresh projects and system migrations supporting Windows 7 → Windows 11, macOS (Snow Leopard → current), and Linux distributions. Implemented Docker containerization and deployment workflows to streamline IT operations. Provided remote technical assistance and troubleshooting via Slack and Discord."
 
-- company: 365 Connect LLC
-  position: Executive Administrative Assistant/Graphic Designer/DevOps
-  summary: >
-    Assisted in front-end development fixes, refining UI/UX elements for enterprise property management applications.
-    Provided training to Chief Technology Officers, enhancing proficiency in Adobe Creative Suite and workflow automation.
-    Evaluated software purchases, ensuring optimal integration and performance within company platforms.
+- company: "365 Connect LLC"
+  position: "Executive Administrative Assistant / Graphic Designer / DevOps"
+  duration: ""
+  summary: "Assisted in front-end development fixes, refining UI/UX elements for enterprise property management applications. Provided training to Chief Technology Officers, enhancing proficiency in Adobe Creative Suite and workflow automation. Evaluated software purchases, ensuring optimal integration and performance within company platforms."
 
-- company: Fashion Cafe | Salad Station | City Greens
-  position: Team Member to Shift Lead to Management Path
-  summary: >
-    Led food service teams, ensuring fast-paced operational efficiency and strong customer engagement.
-    Managed restaurant workflow, maintaining sanitation, inventory control, and POS system efficiency.
-    Trained team members in high-performance environments, reinforcing process improvements.
+- company: "Fashion Cafe | Salad Station | City Greens"
+  position: "Team Member → Shift Lead → Management Path"
+  duration: ""
+  summary: "Led food service teams, ensuring fast-paced operational efficiency and strong customer engagement. Managed restaurant workflow, maintaining sanitation, inventory control, and POS system efficiency. Trained team members and implemented process improvements to increase service reliability."
+
