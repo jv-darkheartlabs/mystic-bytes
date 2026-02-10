@@ -1,74 +1,443 @@
-// Layout styles
+// Layout styles - Modern Flexbox/Grid + Cyberpunk Utilities
 // ---------------------------------------/
 
-// Layout from Primer (https://github.com/primer/primer/blob/master/scss/_layout.scss)
-
-// Fixed-width, centered column for site content.
+// Container
 .container {
-  width: $container-width;
+  width: 100%;
+  max-width: $container-width;
   margin-right: auto;
   margin-left: auto;
-  @include clearfix;
+  padding-right: $space-4;
+  padding-left: $space-4;
+
+  @include desktop {
+    padding-right: $space-8;
+    padding-left: $space-8;
+  }
 }
 
-// Grid system
-//
-// Create rows with `.columns` to clear the floated columns and outdent the
-// padding on `.column`s with negative margin for alignment.
-
-.columns {
-  margin-right: -$grid-gutter;
-  margin-left: -$grid-gutter;
-  @include clearfix;
+// Flex utilities
+.flex {
+  display: flex;
 }
 
-// Base class for every column (requires a column width from below)
-.column {
-  float: left;
-  padding-right: $grid-gutter;
-  padding-left: $grid-gutter;
+.flex-column {
+  flex-direction: column;
 }
 
-// Column widths
-.one-third {
-  width: 33.333333%;
+.flex-wrap {
+  flex-wrap: wrap;
 }
 
-.two-thirds {
-  width: 66.666667%;
+.flex-center {
+  @include flex-center;
 }
 
-.one-fourth {
-  width: 25%;
+.flex-between {
+  @include flex-between;
 }
 
-.one-half {
-  width: 50%;
+.items-start {
+  align-items: flex-start;
 }
 
-.three-fourths {
-  width: 75%;
+.items-center {
+  align-items: center;
 }
 
-.one-fifth {
-  width: 20%;
+.items-end {
+  align-items: flex-end;
 }
 
-.four-fifths {
-  width: 80%;
+.justify-start {
+  justify-content: flex-start;
 }
 
-// Single column hack
-.single-column {
-  padding-right: $grid-gutter;
-  padding-left: $grid-gutter;
+.justify-center {
+  justify-content: center;
 }
 
-// Equal width columns via table sorcery.
-.table-column {
-  display: table-cell;
-  width: 1%;
-  padding-right: $grid-gutter;
-  padding-left: $grid-gutter;
-  vertical-align: top;
+.justify-end {
+  justify-content: flex-end;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+// Grid utilities
+.grid {
+  display: grid;
+}
+
+.grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-auto-fit {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.grid-auto-fill {
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+// Gap utilities
+.gap-1 { gap: $space-1; }
+.gap-2 { gap: $space-2; }
+.gap-3 { gap: $space-3; }
+.gap-4 { gap: $space-4; }
+.gap-5 { gap: $space-5; }
+.gap-6 { gap: $space-6; }
+.gap-8 { gap: $space-8; }
+.gap-10 { gap: $space-10; }
+.gap-12 { gap: $space-12; }
+
+// Spacing utilities
+.m-0 { margin: 0; }
+.m-auto { margin: auto; }
+
+.mt-0 { margin-top: 0; }
+.mt-4 { margin-top: $space-4; }
+.mt-6 { margin-top: $space-6; }
+.mt-8 { margin-top: $space-8; }
+.mt-12 { margin-top: $space-12; }
+.mt-16 { margin-top: $space-16; }
+
+.mb-0 { margin-bottom: 0; }
+.mb-4 { margin-bottom: $space-4; }
+.mb-6 { margin-bottom: $space-6; }
+.mb-8 { margin-bottom: $space-8; }
+.mb-12 { margin-bottom: $space-12; }
+.mb-16 { margin-bottom: $space-16; }
+
+.p-0 { padding: 0; }
+.p-4 { padding: $space-4; }
+.p-6 { padding: $space-6; }
+.p-8 { padding: $space-8; }
+
+// Width utilities
+.w-full { width: 100%; }
+.w-auto { width: auto; }
+.max-w-prose { max-width: 65ch; }
+.max-w-screen { max-width: 100vw; }
+
+// Display utilities
+.block { display: block; }
+.inline-block { display: inline-block; }
+.inline { display: inline; }
+.hidden { display: none; }
+
+// Position utilities
+.relative { position: relative; }
+.absolute { position: absolute; }
+.fixed { position: fixed; }
+.sticky { position: sticky; }
+
+// Overflow utilities
+.overflow-hidden { overflow: hidden; }
+.overflow-auto { overflow: auto; }
+.overflow-x-auto { overflow-x: auto; }
+.overflow-y-auto { overflow-y: auto; }
+
+// Text alignment
+.text-left { text-align: left; }
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+
+// Text transform
+.uppercase { text-transform: uppercase; }
+.lowercase { text-transform: lowercase; }
+.capitalize { text-transform: capitalize; }
+
+// Font weight
+.font-light { font-weight: 300; }
+.font-normal { font-weight: 400; }
+.font-medium { font-weight: 500; }
+.font-semibold { font-weight: 600; }
+.font-bold { font-weight: 700; }
+.font-extrabold { font-weight: 800; }
+
+// Font families
+.font-mono { font-family: $font-mono; }
+.font-display { font-family: $font-display; }
+.font-body { font-family: $font-body; }
+
+// Cyberpunk-specific utilities
+
+// Neon glow effects
+.glow-purple {
+  box-shadow: $shadow-glow;
+}
+
+.glow-cyan {
+  box-shadow: $shadow-cyan;
+}
+
+.glow-text-purple {
+  @include text-glow($purple-primary);
+}
+
+.glow-text-cyan {
+  @include text-glow($cyan-primary);
+}
+
+// Gradient text
+.text-gradient {
+  @include heading-gradient;
+}
+
+.text-gradient-purple-cyan {
+  background: linear-gradient(135deg, $purple-primary, $cyan-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-cyan-purple {
+  background: linear-gradient(135deg, $cyan-primary, $purple-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+// Border utilities
+.border { border: 1px solid $border-color; }
+.border-2 { border: 2px solid $border-color; }
+.border-accent { border-color: $border-accent; }
+.border-purple { border-color: $purple-primary; }
+.border-cyan { border-color: $cyan-primary; }
+
+.border-t { border-top: 1px solid $border-color; }
+.border-b { border-bottom: 1px solid $border-color; }
+.border-l { border-left: 1px solid $border-color; }
+.border-r { border-right: 1px solid $border-color; }
+
+// Border radius
+.rounded-sm { border-radius: $radius-sm; }
+.rounded-md { border-radius: $radius-md; }
+.rounded-lg { border-radius: $radius-lg; }
+.rounded-xl { border-radius: $radius-xl; }
+.rounded-full { border-radius: 9999px; }
+
+// Background colors
+.bg-primary { background-color: $bg-primary; }
+.bg-secondary { background-color: $bg-secondary; }
+.bg-card { background-color: $bg-card; }
+
+// Text colors
+.text-primary { color: $text-primary; }
+.text-secondary { color: $text-secondary; }
+.text-muted { color: $text-muted; }
+.text-purple { color: $purple-primary; }
+.text-cyan { color: $cyan-primary; }
+.text-orange { color: $orange-primary; }
+
+// Animations
+.transition-all {
+  transition: all $transition-base;
+}
+
+.transition-fast {
+  transition: all $transition-fast;
+}
+
+.transition-slow {
+  transition: all $transition-slow;
+}
+
+.hover-lift {
+  @include hover-lift;
+}
+
+// Z-index utilities
+.z-0 { z-index: 0; }
+.z-10 { z-index: 10; }
+.z-20 { z-index: 20; }
+.z-30 { z-index: 30; }
+.z-40 { z-index: 40; }
+.z-50 { z-index: 50; }
+.z-auto { z-index: auto; }
+
+// Cursor utilities
+.cursor-pointer { cursor: pointer; }
+.cursor-not-allowed { cursor: not-allowed; }
+.cursor-default { cursor: default; }
+
+// Opacity utilities
+.opacity-0 { opacity: 0; }
+.opacity-25 { opacity: 0.25; }
+.opacity-50 { opacity: 0.5; }
+.opacity-75 { opacity: 0.75; }
+.opacity-100 { opacity: 1; }
+
+// Responsive visibility
+@include mobile {
+  .hide-mobile { display: none !important; }
+}
+
+@include tablet {
+  .hide-tablet { display: none !important; }
+}
+
+@include desktop {
+  .hide-desktop { display: none !important; }
+  .show-mobile { display: none !important; }
+}
+
+.show-desktop {
+  display: none !important;
+
+  @include desktop {
+    display: block !important;
+  }
+}
+
+// Aspect ratio utilities
+.aspect-square {
+  aspect-ratio: 1 / 1;
+}
+
+.aspect-video {
+  aspect-ratio: 16 / 9;
+}
+
+// Tech divider
+.tech-divider {
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, $purple-primary, $cyan-primary, transparent);
+  margin: $space-8 0;
+}
+
+// Glitch effect (optional decoration)
+.glitch {
+  position: relative;
+
+  &::before,
+  &::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+  }
+
+  &::before {
+    animation: glitch-1 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both infinite;
+    color: $cyan-primary;
+    z-index: -1;
+  }
+
+  &::after {
+    animation: glitch-2 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) reverse both infinite;
+    color: $purple-primary;
+    z-index: -2;
+  }
+}
+
+@keyframes glitch-1 {
+  0%, 100% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(-2px, 2px);
+  }
+  40% {
+    transform: translate(-2px, -2px);
+  }
+  60% {
+    transform: translate(2px, 2px);
+  }
+  80% {
+    transform: translate(2px, -2px);
+  }
+}
+
+@keyframes glitch-2 {
+  0%, 100% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(2px, -2px);
+  }
+  40% {
+    transform: translate(2px, 2px);
+  }
+  60% {
+    transform: translate(-2px, -2px);
+  }
+  80% {
+    transform: translate(-2px, 2px);
+  }
+}
+
+// Scan line effect for cyberpunk aesthetic
+.scanline {
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      transparent 50%,
+      rgba(167, 139, 250, 0.03) 50%
+    );
+    background-size: 100% 4px;
+    pointer-events: none;
+    animation: scanline 8s linear infinite;
+  }
+}
+
+@keyframes scanline {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+
+// Card grid layouts (commonly used pattern)
+.card-grid-2 {
+  @include grid-auto(300px, $space-6);
+
+  @include mobile {
+    grid-template-columns: 1fr;
+  }
+}
+
+.card-grid-3 {
+  @include grid-auto(280px, $space-6);
+
+  @include mobile {
+    grid-template-columns: 1fr;
+  }
+}
+
+.card-grid-4 {
+  @include grid-auto(250px, $space-4);
+
+  @include mobile {
+    grid-template-columns: 1fr;
+  }
 }

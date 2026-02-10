@@ -1,6 +1,6 @@
 # Site settings
-title: "My Jekyll Resume"
-description: "A GitHub Pages Project."
+title: "Jennifer Picado - Full-Stack Developer"
+description: "Full-stack developer with 20+ years of experience. Specializing in React, Node.js, TypeScript, and AI integration. Open to remote work."
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar: "true"
 resume_name: "Jennifer Picado"
-resume_title: "AI Integration Specialist"
+resume_title: "Full-Stack Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email: "beautysteps@arcaneglam.com"
@@ -23,7 +23,7 @@ resume_contact_address: "Chalmette, LA"
 resume_header_contact_info: "3409 Jackson Blvd Chalmette LA 70043 • 504.510.1878 • djinnifer@icloud.com"
 display_header_contact_info: "false"
 
-resume_header_intro: "<p>Experienced in HTML, CSS, JavaScript, Java, Ruby Gems, Docker, GitHub, Slack-based collaboration, and AI-powered solutions. Specializing in UI/UX optimization, system migrations (Windows, macOS, Linux), and scalable IT infrastructures. Passionate about sensory-friendly digital environments, automation, and immersive technology solutions.</p>"
+resume_header_intro: "<p>Full-stack developer with 20+ years of web development experience and a focus on React, Node.js, and TypeScript. Builds performant, accessible applications from database to UI. Active open source contributor with hands-on AI integration skills.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,8 +45,9 @@ resume_section_interests: true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  alive_shoes_url: "https://www.aliveshoes.com/brand/arcaneglam"
-  foratravel_partners_url: "https://www.foratravel.com/partners/jennifer-picado"
+  resume_github_url: "https://github.com/djinnfr"
+  resume_linkedin_url: "https://linkedin.com/in/jennifer-picado"
+  resume_website_url: "https://www.aliveshoes.com/brand/arcaneglam"
 
 resume_print_social_links: true
 

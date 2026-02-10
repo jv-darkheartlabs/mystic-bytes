@@ -1,13 +1,19 @@
 # Skills
 # Organize your skills into categories
-- name: "Front-End Development & UI/UX Optimization"
+- skill: "Front-End Development & UI/UX Optimization"
   description: "Developed responsive web interfaces using HTML, CSS, JavaScript, Java, and Ruby Gems. Enhanced accessibility and usability through AI-driven UI/UX optimizations. Beta-tested Apple travel applications, refining digital experiences for seamless navigation."
 
-- name: "Technical Support & System Migrations"
-  description: "Led Windows, macOS, and Linux migrations, ensuring smooth transitions and minimal downtime. Optimized endpoint troubleshooting, improving system stability and efficiency. Implemented Docker containerization, streamlining software deployments and infrastructure scalability."
+- skill: "AI Integration & LLM Implementation"
+  description: "Built full-stack applications integrating Ollama and other local LLM providers. Designed developer portfolio and blog platforms with CMS capabilities. Contributed to open source projects focused on AI accessibility and conversational UI development."
 
-- name: "Remote Collaboration & Workflow Automation"
-  description: "Provided real-time tech support via Slack and Discord Direct Messaging for faster resolutions. Designed workflow automation solutions, reducing issue resolution time by 35%. Trained Chief Technology Officers (CTOs) in software and IT operations, enhancing efficiency."
+- skill: "Backend Development & System Architecture"
+  description: "Proficient in Node.js, Express, PostgreSQL, and REST APIs. Experienced with authentication and session management. Implemented Docker containerization, streamlining software deployments and infrastructure scalability."
 
-- name: "Leadership & Customer Engagement"
+- skill: "Technical Support & System Migrations"
+  description: "Led Windows, macOS, and Linux migrations, ensuring smooth transitions and minimal downtime. Optimized endpoint troubleshooting, improving system stability and efficiency. Provided real-time tech support via Slack and Discord for faster resolutions."
+
+- skill: "DevOps & Workflow Automation"
+  description: "Experienced with Git, GitHub, Docker, Linux, Figma, VS Code, Replit, Vercel, and CI/CD pipelines. Designed workflow automation solutions, reducing issue resolution time by 35%. Trained Chief Technology Officers (CTOs) in software and IT operations, enhancing efficiency."
+
+- skill: "Leadership & Community Building"
   description: "Led team-oriented environments, ensuring operational excellence in fast-paced industries. Advocated for sensory-friendly digital environments, promoting inclusive user experiences. Designed community-driven AI solutions, improving engagement and digital accessibility."

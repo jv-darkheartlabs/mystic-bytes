@@ -1,46 +1,215 @@
 // Base styles
 // ---------------------------------------/
+
 * {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
 html {
-  background: $white;
-}
-
-body{
-  @include serif;
-  color: $text_color;
+  scroll-behavior: smooth;
   font-size: 16px;
-  line-height: 1.5;
 }
 
-.wrapper:before,
-.wrapper:after { content:""; display:table; }
-.wrapper:after { clear: both; }
-.wrapper {
-  max-width: 728px;
-  padding: 0 24px;
-  margin: 0 auto;
-  zoom: 1;
+body {
+  font-family: $font-body;
+  font-size: $text-base;
+  line-height: 1.6;
+  color: $text-primary;
+  background: $bg-primary;
+  background-image:
+    radial-gradient(at 0% 0%, rgba(167, 139, 250, 0.05) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(34, 211, 238, 0.05) 0px, transparent 50%);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
-// clearfix (now called group,
-// via http://css-tricks.com/snippets/css/clear-fix/)
-.group:before,
-.group:after { content:""; display:table; }
-.group:after { clear:both; }
-.group { zoom:1; /* For IE 6/7 (trigger hasLayout) */ }
+// Typography
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-display;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0;
+  color: $text-primary;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: $text-5xl;
+  text-transform: uppercase;
+  letter-spacing: -0.05em;
+
+  @media (max-width: $breakpoint-md) {
+    font-size: $text-4xl;
+  }
+}
+
+h2 {
+  font-size: $text-3xl;
+  text-transform: uppercase;
+  letter-spacing: -0.03em;
+
+  @media (max-width: $breakpoint-md) {
+    font-size: $text-2xl;
+  }
+}
+
+h3 {
+  font-size: $text-2xl;
+
+  @media (max-width: $breakpoint-md) {
+    font-size: $text-xl;
+  }
+}
+
+h4 {
+  font-size: $text-xl;
+  font-weight: 600;
+  color: $text-secondary;
+}
+
+p {
+  margin: 0 0 $space-4;
+  color: $text-secondary;
+  line-height: 1.7;
+}
+
+a {
+  color: $cyan-primary;
+  text-decoration: none;
+  transition: color $transition-fast;
+
+  &:hover {
+    color: $cyan-light;
+  }
+
+  &:focus {
+    outline: 2px solid $cyan-primary;
+    outline-offset: 2px;
+  }
+}
+
+strong, b {
+  font-weight: 600;
+  color: $text-primary;
+}
+
+em, i {
+  font-style: italic;
+  color: $text-secondary;
+}
+
+code {
+  font-family: $font-mono;
+  font-size: 0.9em;
+  padding: $space-1 $space-2;
+  background: $bg-secondary;
+  border: 1px solid $border-color;
+  border-radius: $radius-sm;
+  color: $cyan-primary;
+}
+
+// Lists
+ul, ol {
+  margin: 0 0 $space-4;
+  padding-left: $space-6;
+  color: $text-secondary;
+}
+
+li {
+  margin-bottom: $space-2;
+  line-height: 1.7;
+}
+
+// Selection
+::selection {
+  background: rgba(167, 139, 250, 0.3);
+  color: $text-primary;
+}
 
 ::-moz-selection {
-    background: rgba(51,51,51,.8);
-    color: #fff;
-    text-shadow: none;
+  background: rgba(167, 139, 250, 0.3);
+  color: $text-primary;
 }
-::selection {
-    background: rgba(51,51,51,.8);
-    color: #fff;
-    text-shadow: none;
+
+// Scrollbar styling (webkit browsers)
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: $bg-secondary;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $border-accent;
+  border-radius: $radius-md;
+  border: 2px solid $bg-secondary;
+
+  &:hover {
+    background: $text-muted;
+  }
+}
+
+// Focus styles
+:focus-visible {
+  outline: 2px solid $cyan-primary;
+  outline-offset: 2px;
+}
+
+// Image optimization
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+// Utilities
+.no-print {
+  @media print {
+    display: none !important;
+  }
+}
+
+.print-only {
+  display: none;
+
+  @media print {
+    display: block !important;
+  }
+}
+
+// Accessibility
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+// Skip to content link
+.skip-to-content {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  background: $purple-primary;
+  color: $bg-primary;
+  padding: $space-3 $space-6;
+  text-decoration: none;
+  font-weight: 600;
+  z-index: 9999;
+  border-radius: 0 0 $radius-md 0;
+
+  &:focus {
+    top: 0;
+  }
 }
