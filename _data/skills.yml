@@ -1,19 +1,21 @@
 # Skills
-# Organize your skills into categories
-- skill: "Front-End Development & UI/UX Optimization"
-  description: "Developed responsive web interfaces using HTML, CSS, JavaScript, Java, and Ruby Gems. Enhanced accessibility and usability through AI-driven UI/UX optimizations. Beta-tested Apple travel applications, refining digital experiences for seamless navigation."
+- skill: "iOS & macOS Development"
+  description: "Swift, SwiftUI, Xcode. Built NeuroShell — a production macOS application with accessibility-first architecture. Apple developer credentials in progress."
 
-- skill: "AI Integration & LLM Implementation"
-  description: "Built full-stack applications integrating Ollama and other local LLM providers. Designed developer portfolio and blog platforms with CMS capabilities. Contributed to open source projects focused on AI accessibility and conversational UI development."
+- skill: "UI/UX & Accessibility Design"
+  description: "25+ years across UI/UX, graphic design, and brand identity. Specialised in neurodivergent and sensory-sensitive user experience. Tools: Figma, Canva, Adobe Creative Suite."
 
-- skill: "Backend Development & System Architecture"
-  description: "Proficient in Node.js, Express, PostgreSQL, and REST APIs. Experienced with authentication and session management. Implemented Docker containerization, streamlining software deployments and infrastructure scalability."
+- skill: "Languages"
+  description: "Swift · TypeScript · JavaScript · Python · Ruby · Rust (performance optimisation and legacy system stability) · Bash/Shell · HTML · CSS"
 
-- skill: "Technical Support & System Migrations"
-  description: "Led Windows, macOS, and Linux migrations, ensuring smooth transitions and minimal downtime. Optimized endpoint troubleshooting, improving system stability and efficiency. Provided real-time tech support via Slack and Discord for faster resolutions."
+- skill: "Web & Backend"
+  description: "Node.js · Supabase · REST APIs · Postman · Docker · Vercel · Netlify · PostgreSQL · Express"
 
-- skill: "DevOps & Workflow Automation"
-  description: "Experienced with Git, GitHub, Docker, Linux, Figma, VS Code, Replit, Vercel, and CI/CD pipelines. Designed workflow automation solutions, reducing issue resolution time by 35%. Trained Chief Technology Officers (CTOs) in software and IT operations, enhancing efficiency."
+- skill: "AI Integration & Developer Tooling"
+  description: "Local LLM integration (Ollama), GPT-powered tooling, AI-assisted development workflows. MCP server integration. Claude · Tetrate · OCI AI Foundations certified."
 
-- skill: "Leadership & Community Building"
-  description: "Led team-oriented environments, ensuring operational excellence in fast-paced industries. Advocated for sensory-friendly digital environments, promoting inclusive user experiences. Designed community-driven AI solutions, improving engagement and digital accessibility."
+- skill: "DevOps & Infrastructure"
+  description: "Git · GitHub · Docker · Vercel · Netlify · Railway · Linux · CI/CD pipelines. macOS and Linux migrations from legacy to current systems."
+
+- skill: "Project & Team Tools"
+  description: "Linear · Jira · Confluence · Trello · Discord · VS Code · Postman. Async-first, remote-capable, documentation-forward."
