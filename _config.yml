@@ -1,6 +1,6 @@
 # Site settings
-title: "Jennifer Picado - Full-Stack Developer"
-description: "Full-stack developer with 20+ years of experience. Specializing in React, Node.js, TypeScript, and AI integration. Open to remote work."
+title: "Jennifer Picado — iOS/macOS Developer & Open-Source Builder"
+description: "Neurodivergent developer and designer with 25+ years across iOS/macOS, UI/UX, and creative technology. Creator of NeuroShell — Human-Focused AI Award, Tetrate Buildathon. Open to remote roles globally."
 
 # Build settings
 markdown: kramdown
@@ -11,49 +11,38 @@ sass:
 # Resume settings
 resume_avatar: "true"
 resume_name: "Jennifer Picado"
-resume_title: "Full-Stack Developer"
+resume_title: "iOS/macOS Developer · UI/UX · Open-Source Builder"
 
-# used for the contact button in _layouts/resume.html
-resume_contact_email: "dev@arcaneglam.com"
-
-# the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone: "504.510.1878"
-resume_contact_address: "Chalmette, LA"
-
-resume_header_contact_info: "3409 Jackson Blvd Chalmette LA 70043 • 504.510.1878 • dev@arcaneglam.com"
+# Contact
+resume_contact_email: "hello@jenthedev.it.com"
+resume_contact_telephone: ""
+resume_contact_address: "Auckland, New Zealand"
+resume_header_contact_info: "Tāmaki Makaurau · Auckland, NZ · hello@jenthedev.it.com"
 display_header_contact_info: "false"
 
-resume_header_intro: "<p>Full-stack developer with 20+ years of web development experience and a focus on React, Node.js, and TypeScript. Builds performant, accessible applications from database to UI. Active open source contributor with hands-on AI integration skills.</p>"
+resume_header_intro: "<p>Neurodivergent developer and designer with 25+ years across iOS/macOS development, UI/UX, and creative technology. Creator of NeuroShell — an open-source, ADHD-friendly terminal and AI productivity suite for macOS. Human-Focused AI Award, Tetrate Buildathon (selected from 170+ applicants). OCI AI Foundations certified. Available for remote-first roles globally; open to visa sponsorship conversations.</p>"
 
-# use "yes" to display the email contact button,
-# "no" to display an "I'm not looking for work" message,
-# or remove the resume_looking_for_work option entirely
-# to leave blank
+# Availability
 resume_looking_for_work: "yes"
 
-# Decide which sections to use
-# comment out to hide
+# Sections — links/associations/interests disabled: not relevant to professional read
 resume_section_experience: true
-#resume_section_education: true
+resume_section_education: true
 resume_section_projects: true
 resume_section_skills: true
 resume_section_recognition: true
-resume_section_links: true
-resume_section_associations: true
-resume_section_interests: true
+resume_section_links: false
+resume_section_associations: false
+resume_section_interests: false
 
-# Resume social links
-# uncomment the options you wish to display, and add your own URL
+# Social links
 resume_social_links:
-  resume_github_url: "https://github.com/arcaneglam"
-  resume_behance_url: "https://www.behance.net/arcaneglam"
-  resume_linkedin_url: "https://linkedin.com/in/arcaneglam"
-  resume_website_url: "https://dev.arcaneglam.com"
+  resume_github_url: "https://github.com/jen-the-dev"
+  resume_linkedin_url: "https://www.linkedin.com/in/jenthedev"
+  resume_behance_url: "https://www.behance.net/jenthedev"
+  resume_substack_url: "https://jenthedev.substack.com"
 
 resume_print_social_links: true
 
-# Design settings
+# Design
 resume_theme: default
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts
