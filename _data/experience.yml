@@ -1,26 +1,29 @@
-- company: DigitalSpellCraft LLC
-  position: Front-End WebDev | IT Specialist
-  duration: 2024 - Present
+# Experience
+- company: Independent / Personal Projects
+  position: Open-Source Developer · Brand Designer · Travel Advisor
+  duration: 2024 – Present
   summary: >
-    Front-End Development: Designed and developed interactive, user-friendly experiences using HTML, CSS, JavaScript, Java, and Ruby Gems.
-    UI/UX Optimization: Improved accessibility and engagement through beta testing of Apple travel applications.
-    AI Integration: Developed Private GPT-powered concierge solutions, increasing user retention with AI-driven conversational UI.
-    System Migrations & Infrastructure Optimization: Led desktop/laptop refresh projects, supporting Windows 7 to Windows 11, macOS (Snow Leopard to current), and Linux distributions.
-    Docker Containerization & Deployment: Implemented container-based solutions, streamlining IT workflows and ensuring scalability.
-    Remote Technical Assistance: Provided real-time troubleshooting and operational support via Slack and Discord direct messaging.
+    Caretaker leave 2024–present, during which independent work continued across three areas.
+    NeuroShell: Personal open-source project — ADHD-friendly terminal and AI productivity suite for macOS.
+    Human-Focused AI Award, Tetrate Buildathon (selected from 170+ applicants). v2 shipped; v3 in active development.
+    ArcaneGlam / AliveShoes: Independent gothic apparel brand. Product design and brand identity. Handcrafted in Italy.
+    Fora Travel: Independent travel advisor specialising in sensory-friendly, low-stimulation itineraries for neurodivergent travelers.
+
+- company: DigitalSpellCraft LLC
+  position: iOS/macOS Developer · UI/UX · IT Specialist
+  duration: 2015 – 2024
+  summary: >
+    iOS & macOS Development: Designed and developed applications targeting Apple platforms using Swift, SwiftUI, and Xcode.
+    UI/UX Design: Built accessible, human-centred interfaces with a focus on neurodivergent and sensory-sensitive users.
+    AI Integration: Implemented local LLM solutions (Ollama) and GPT-powered tooling into developer workflows and conversational UI.
+    Infrastructure & DevOps: Led macOS and Linux migrations (Snow Leopard → current); Docker containerisation for scalable deployments.
+    Remote Collaboration: Async-first workflow via GitHub, Slack, and Discord across distributed teams.
 
 - company: 365 Connect LLC
-  position: Executive Administrative Assistant/Graphic Designer/DevOps
-  duration: 2003 - 2023
+  position: Graphic Designer · UI/UX · DevOps
+  duration: 2003 – 2015
   summary: >
-    Assisted in front-end development fixes, refining UI/UX elements for enterprise property management applications.
-    Provided training to Chief Technology Officers, enhancing proficiency in Adobe Creative Suite and workflow automation.
-    Evaluated software purchases, ensuring optimal integration and performance within company platforms.
-
-- company: Fashion Cafe | Salad Station | City Greens
-  position: Team Member to Shift Lead to Management Path
-  duration: Ongoing
-  summary: >
-    Led food service teams, ensuring fast-paced operational efficiency and strong customer engagement.
-    Managed restaurant workflow, maintaining sanitation, inventory control, and POS system efficiency.
-    Trained team members in high-performance environments, reinforcing process improvements.
+    On-site 2003–2007; fully remote 2007–2015.
+    UI/UX: Refined front-end elements for enterprise property management applications, improving usability and accessibility.
+    Design Systems: Built and maintained visual design standards using Adobe Creative Suite; delivered training to senior technical staff.
+    DevOps Support: Evaluated and integrated software tooling across company platforms, ensuring performance and compatibility.
