@@ -20,7 +20,7 @@ resume_contact_address: "Auckland, New Zealand"
 resume_header_contact_info: "Tāmaki Makaurau · Auckland, NZ · hello@jenthedev.it.com"
 display_header_contact_info: "false"
 
-resume_header_intro: "<p>Neurodivergent developer and designer with 25+ years across iOS/macOS development, UI/UX, and creative technology. Creator of NeuroShell — an open-source, ADHD-friendly terminal and AI productivity suite for macOS. Human-Focused AI Award, Tetrate Buildathon (selected from 170+ applicants). OCI AI Foundations certified. Available for remote-first roles globally; open to visa sponsorship conversations.</p>"
+resume_header_intro: "<p>Neurodivergent developer and designer with 25+ years across iOS/macOS development, UI/UX, and creative technology. Creator of NeuroShell — an open-source, ADHD-friendly terminal and AI productivity suite for macOS. Human-Focused AI Award, Tetrate Buildathon (selected from 170+ applicants). Available for remote-first roles globally; open to visa sponsorship conversations.</p>"
 
 # Availability
 resume_looking_for_work: "yes"
@@ -40,6 +40,7 @@ resume_social_links:
   resume_github_url: "https://github.com/jen-the-dev"
   resume_linkedin_url: "https://www.linkedin.com/in/jenthedev"
   resume_behance_url: "https://www.behance.net/jenthedev"
+  resume_website_url: "https://gh.jenthedev.it.com"
   resume_substack_url: "https://jenthedev.substack.com"
 
 resume_print_social_links: true
