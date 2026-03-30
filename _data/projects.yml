@@ -1,17 +1,36 @@
-- project: Girls Who Code - Code at Home
-  role: Advocate
-  duration: 2012 - Present
+# Projects
+- project: NeuroShell
+  role: Creator & Lead Developer
+  duration: 2024 – Present
+  url: "https://github.com/jen-the-dev/neuroshell"
+  description: >
+    Open-source terminal application and AI productivity suite for macOS, built for developers with ADHD and cognitive differences.
+    Features include plain-English AI command input, Where Was I? session recovery (⌘⌥W), procedurally generated nature audio, focus timers,
+    breathing tools, hydration and posture reminders, and a full accessibility settings layer.
+    Winner of the Human-Focused AI Award at the Tetrate Buildathon — selected from 170+ applicants.
+    "NeuroShell puts AI to work while centering real human value." — Birger Moëll, Associate Professor in Computational Linguistics, Uppsala University.
+    v2 shipped. v3 in active development.
+
+- project: cyberpunk-zed-themes
+  role: Designer & Developer
+  duration: 2024 – Present
+  url: "https://github.com/jen-the-dev/cyberpunk-zed-themes"
+  description: >
+    Custom dark theme collection for the Zed code editor. Built for developers who want their environment to carry aesthetic weight.
+    Dark, high-contrast, cyberpunk-influenced colour systems designed for extended focus sessions.
+
+- project: Birchwood Forest
+  role: Designer
+  duration: 2024
+  url: "https://www.behance.net/jenthedev"
+  description: >
+    Visual design project published on Behance. 33 appreciations, 88 views.
+    Demonstrates typographic systems, dark aesthetic, and brand identity work available in the full portfolio.
+
+- project: Girls Who Code — Code at Home
+  role: Advocate & Mentor
+  duration: 2012 – Present
   url: "https://girlswhocode.com/get-involved"
-  description: Girls Who Code is a nonprofit organization dedicated to closing the gender gap in technology. As an advocate, I support and mentor younger girls interested in coding through encouragement, guidance, and making myself available to help them navigate their tech journey. By fostering inclusivity and providing accessible mentorship, I contribute to building a future where women are equally represented in technology.
-
-- project: mindtrip ai
-  role: Beta Tester | Developer
-  duration: 2024 - 2025
-  url: "https://mindtrip.ai/s/yGmHvT"
-  description: MindTrip AI is an experimental beta exploring immersive, AI-driven interactions with a focus on accessibility, intuitive design, and sensory-friendly engagement. Blending front-end development expertise with cutting-edge AI solutions, MindTrip AI is redefining how digital spaces adapt to users.
-
-- project: Warp Terminal
-  role: Alpha Tester | Developer
-  duration: 2024 - Present
-  url: "https://app.warp.dev/referral/545Q84"
-  description: Warp AI Terminal reinvents the command line with AI-powered automation, smart auto-completions, and natural language command execution. Built for speed and efficiency, Warp streamlines workflows with voice commands, proactive error fixing, and a modern, intuitive interface. Ditch the outdated terminal—try Warp and supercharge your development.
+  description: >
+    Mentorship and advocacy for young women entering technology.
+    Focused on accessibility, encouragement, and hands-on guidance for those navigating early coding journeys.
