@@ -312,6 +312,6 @@ hello@jenthedev.it.com
 
 ---
 
-**Made with 💜 by Jennifer Picado**
+**Made with 💜 by Jen the Dev**
 
 *Creating technology that feels alive — where luminous interfaces meet thoughtful engineering.*
