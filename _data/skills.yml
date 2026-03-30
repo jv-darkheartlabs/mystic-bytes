@@ -12,7 +12,7 @@
   description: "Node.js · Supabase · REST APIs · Postman · Docker · Vercel · Netlify · PostgreSQL · Express"
 
 - skill: "AI Integration & Developer Tooling"
-  description: "Local LLM integration (Ollama), GPT-powered tooling, AI-assisted development workflows. MCP server integration. Claude · Tetrate · OCI AI Foundations certified."
+  description: "Local LLM integration (Ollama), GPT-powered tooling, AI-assisted development workflows. MCP server integration. Claude · Tetrate."
 
 - skill: "DevOps & Infrastructure"
   description: "Git · GitHub · Docker · Vercel · Netlify · Railway · Linux · CI/CD pipelines. macOS and Linux migrations from legacy to current systems."
