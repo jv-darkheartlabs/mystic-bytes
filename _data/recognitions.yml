@@ -1,10 +1,9 @@
 # Recognitions
-- award: 4H Tech Changemakers
-  organization: St Louise de Marillac / Cabrini High School
-  years: 1989 - 1996
-  url: https://4-h.org/programs/tech-changemakers/
-  
-- award: Service Learning Project
-  organization: Cabrini High School
-  years: 1994 - 1996
-  url: https://cabrinihigh.com/service-learning-project
+- award: Human-Focused AI Award
+  organization: Tetrate Buildathon
+  years: "2024"
+  url: "https://github.com/jen-the-dev/neuroshell"
+  description: >
+    Selected from 170+ applicants. Awarded for NeuroShell — an open-source, ADHD-friendly terminal and AI productivity suite for macOS.
+    Presented by a Co-Founder of Eir.Space and Birger Moëll, Associate Professor in Computational Linguistics at Uppsala University.
+    "NeuroShell puts AI to work while centering real human value."
