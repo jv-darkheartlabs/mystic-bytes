@@ -11,21 +11,21 @@
     "NeuroShell puts AI to work while centering real human value." — Birger Moëll, Associate Professor in Computational Linguistics, Uppsala University.
     v2 shipped. v3 in active development.
 
-- project: cyberpunk-zed-themes
+- project: zed-mtg-themes
+  role: Designer & Developer
+  duration: 2025 – Present
+  url: "https://github.com/jen-the-dev/zed-mtg-themes"
+  description: >
+    Magic: The Gathering inspired dark theme collection for the Zed code editor.
+    Colour systems drawn from MTG's iconic card aesthetics — built for developers who want their environment to carry weight.
+
+
   role: Designer & Developer
   duration: 2024 – Present
   url: "https://github.com/jen-the-dev/cyberpunk-zed-themes"
   description: >
     Custom dark theme collection for the Zed code editor. Built for developers who want their environment to carry aesthetic weight.
     Dark, high-contrast, cyberpunk-influenced colour systems designed for extended focus sessions.
-
-- project: Birchwood Forest
-  role: Designer
-  duration: 2024
-  url: "https://www.behance.net/jenthedev"
-  description: >
-    Visual design project published on Behance. 33 appreciations, 88 views.
-    Demonstrates typographic systems, dark aesthetic, and brand identity work available in the full portfolio.
 
 - project: Girls Who Code — Code at Home
   role: Advocate & Mentor
