@@ -1,6 +1,10 @@
-# Mystic Bytes - Cyberpunk Tech Portfolio
+# Mystic Bytes — Cyberpunk Tech Portfolio
 
-A Jekyll-powered developer portfolio with a dark cyberpunk aesthetic inspired by modern tech interfaces. Features a terminal-inspired design with neon accents, card-based layouts, and accessibility-first principles.
+A Jekyll-powered developer resume with a dark cyberpunk aesthetic. Terminal-inspired design with neon accents, card-based layouts, and accessibility-first principles.
+
+Live at: [gh.jenthedev.it.com](https://gh.jenthedev.it.com)
+
+---
 
 ## 🎨 Design Features
 
@@ -20,10 +24,12 @@ A Jekyll-powered developer portfolio with a dark cyberpunk aesthetic inspired by
 ### Key Design Elements
 - Card-based layouts with hover effects
 - Gradient borders and text
-- Status badges for skills/certifications
+- Status badges for skills and certifications
 - Smooth animations and transitions
 - Glowing accent effects
 - Responsive grid layouts
+
+---
 
 ## 🚀 Quick Start
 
@@ -35,66 +41,65 @@ A Jekyll-powered developer portfolio with a dark cyberpunk aesthetic inspired by
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/mystic-bytes.git
-cd mystic-bytes
-
-# Install dependencies
+git clone https://github.com/jen-the-dev/mysticbytes.git
+cd mysticbytes
 bundle install
-
-# Build the site
-bundle exec jekyll build
-
-# Serve locally
 bundle exec jekyll serve
 ```
 
-Visit `http://localhost:4000` to view your site.
+Visit `http://localhost:4000`.
+
+---
 
 ## 📁 Project Structure
 
 ```
-mystic-bytes/
-├── _config.yml           # Site configuration
-├── _data/                # Content data files
-│   ├── experience.yml    # Work experience
+mysticbytes/
+├── _config.yml           # Site configuration, section toggles, social links
+├── _data/                # All resume content lives here
+│   ├── experience.yml    # Work history
 │   ├── skills.yml        # Technical skills
 │   ├── projects.yml      # Portfolio projects
-│   ├── interests.yml     # Personal interests
-│   ├── associations.yml  # Professional associations
-│   ├── recognitions.yml  # Awards & recognition
-│   └── links.yml         # Additional links
+│   ├── recognitions.yml  # Awards & certifications
+│   ├── seeking.yml       # Current availability
+│   ├── associations.yml  # (disabled)
+│   ├── interests.yml     # (disabled)
+│   └── links.yml         # (disabled)
 ├── _includes/            # Reusable components
 │   ├── head.html         # HTML head with fonts
 │   └── icon-links.html   # Social media icons
-├── _layouts/             # Page templates
+├── _layouts/
 │   └── resume.html       # Main resume layout
-├── _sass/                # Stylesheets
+├── _sass/
 │   ├── _variables.scss   # Color/spacing variables
 │   ├── _base.scss        # Base styles
 │   ├── _mixins.scss      # Reusable mixins
 │   ├── _layout.scss      # Layout utilities
 │   └── _resume.scss      # Resume-specific styles
 ├── css/
-│   └── main.scss         # Main stylesheet entry
-├── images/               # Images & assets
+│   └── main.scss         # Stylesheet entry point
+├── images/               # Avatar and assets
 └── index.html            # Homepage
 ```
 
-## ✏️ Customization
+---
 
-### 1. Update Your Information
+## ✏️ Updating Content
+
+All resume content lives in `_data/`. Edit the relevant file and push — GitHub Pages rebuilds automatically.
+
+### Personal info and title
 
 Edit `_config.yml`:
 
 ```yaml
 resume_name: "Your Name"
 resume_title: "Your Title"
-resume_contact_email: "your.email@example.com"
-resume_header_intro: "<p>Your introduction here...</p>"
+resume_contact_email: "your@email.com"
+resume_header_intro: "<p>Your introduction here.</p>"
 ```
 
-### 2. Add Your Experience
+### Experience
 
 Edit `_data/experience.yml`:
 
@@ -106,16 +111,16 @@ Edit `_data/experience.yml`:
     Description of your role and achievements.
 ```
 
-### 3. Update Skills
+### Skills
 
 Edit `_data/skills.yml`:
 
 ```yaml
-- skill: "Skill Category Name"
-  description: "Description of your skills in this area."
+- skill: "Skill Category"
+  description: "Description of skills in this area."
 ```
 
-### 4. Add Projects
+### Projects
 
 Edit `_data/projects.yml`:
 
@@ -127,86 +132,98 @@ Edit `_data/projects.yml`:
   description: Project description.
 ```
 
-### 5. Customize Colors
+### Toggle sections
 
-Edit `_sass/_variables.scss` to change the color scheme:
+In `_config.yml`, comment out any section to hide it:
 
-```scss
-$purple-primary: #a78bfa;  // Change primary purple
-$cyan-primary: #22d3ee;     // Change cyan accent
-$bg-primary: #0a0e27;       // Change background
+```yaml
+resume_section_experience: true
+resume_section_projects: true
+resume_section_skills: true
+resume_section_recognition: true
+# resume_section_links: true
+# resume_section_associations: true
+# resume_section_interests: true
 ```
 
-### 6. Add Your Avatar
+### Colors
 
-Replace `images/avatar.jpg` with your photo (recommended: 400x400px, square).
+Edit `_sass/_variables.scss`:
+
+```scss
+$purple-primary: #a78bfa;
+$cyan-primary: #22d3ee;
+$bg-primary: #0a0e27;
+```
+
+### Avatar
+
+Replace `images/avatar.jpg` with your photo. Recommended: 400×400px square.
+
+---
 
 ## 🎯 Features
 
 ### Accessibility
 - Semantic HTML5
 - ARIA labels
-- Keyboard navigation support
+- Keyboard navigation
 - Focus indicators
 - Skip to content link
 - Screen reader friendly
 
 ### Performance
-- Optimized CSS with SCSS
+- Optimized SCSS
 - Google Fonts preconnect
 - Minimal JavaScript
-- Fast page load times
+- Fast page load
 
 ### SEO
-- Semantic markup
 - Schema.org structured data
 - Open Graph tags
 - Twitter Card support
 - Sitemap generation
 
-### Responsive Design
-- Mobile-first approach
+### Responsive
+- Mobile-first
 - Breakpoints: 640px, 768px, 1024px, 1280px
-- Flexible grid layouts
 - Touch-friendly interactions
+
+---
 
 ## 🔧 Advanced Customization
 
-### Adding New Sections
+### Adding a new section
 
-1. Create a data file in `_data/` (e.g., `certifications.yml`)
-2. Enable the section in `_config.yml`:
-   ```yaml
-   resume_section_certifications: true
-   ```
-3. Add the section to `_layouts/resume.html`:
-   ```html
-   {% if site.resume_section_certifications %}
-   <section class="content-section">
-     <header class="section-header">
-       <h2>🏅 Certifications</h2>
-     </header>
-     {% for cert in site.data.certifications %}
-       <!-- Your markup here -->
-     {% endfor %}
-   </section>
-   {% endif %}
-   ```
-
-### Custom Badges
-
-Add status badges to any section:
-
+1. Create `_data/certifications.yml`
+2. Enable in `_config.yml`:
+```yaml
+resume_section_certifications: true
+```
+3. Add to `_layouts/resume.html`:
 ```html
-<span class="badge">YOUR_TEXT</span>
-<span class="badge badge-blue">BLUE_BADGE</span>
-<span class="badge badge-orange">ORANGE_BADGE</span>
-<span class="badge badge-purple">PURPLE_BADGE</span>
+{% if site.resume_section_certifications %}
+<section class="content-section">
+  <header class="section-header">
+    <h2>🏅 Certifications</h2>
+  </header>
+  {% for cert in site.data.certifications %}
+    <!-- markup here -->
+  {% endfor %}
+</section>
+{% endif %}
 ```
 
-### Hover Effects
+### Badges
 
-Apply hover effects to cards:
+```html
+<span class="badge">DEFAULT</span>
+<span class="badge badge-blue">BLUE</span>
+<span class="badge badge-orange">ORANGE</span>
+<span class="badge badge-purple">PURPLE</span>
+```
+
+### Hover effects
 
 ```scss
 .your-card {
@@ -214,80 +231,84 @@ Apply hover effects to cards:
 }
 ```
 
-## 📱 Social Links
-
-Update social links in `_config.yml`:
-
-```yaml
-resume_social_links:
-  resume_github_url: "https://github.com/username"
-  resume_linkedin_url: "https://linkedin.com/in/username"
-  resume_twitter_url: "https://twitter.com/username"
-```
+---
 
 ## 🚢 Deployment
 
 ### GitHub Pages
 
 1. Push to GitHub
-2. Go to Settings → Pages
-3. Select source: `main` branch
-4. Your site will be live at `https://username.github.io/mystic-bytes`
+2. Settings → Pages → Source: `main` branch
+3. Live at `https://username.github.io/mysticbytes`
 
 ### Custom Domain
 
-Add a `CNAME` file with your domain:
+Add a `CNAME` file:
 ```
 yourdomain.com
 ```
 
-Update DNS records:
+DNS records:
 ```
 Type: CNAME
 Host: www
 Value: username.github.io
 ```
 
-### Other Platforms
+### Other platforms
+- **Netlify** — connect repo, deploy
+- **Vercel** — import GitHub repository
+- **Railway** — connect and configure
 
-- **Netlify**: Connect your repo and deploy
-- **Vercel**: Import your GitHub repository
-- **AWS Amplify**: Connect and configure
+---
 
 ## 🎨 Design Inspiration
 
-This theme draws inspiration from:
 - Cyberpunk 2077 UI
-- Terminal/CLI aesthetics
-- GitHub's dark theme
-- VS Code's interface
+- Terminal / CLI aesthetics
+- GitHub dark theme
+- VS Code interface
 - Modern tech portfolios
+
+---
 
 ## 📄 License
 
-MIT License - feel free to use this theme for your own portfolio!
+MIT License — free to use and adapt for your own portfolio.
+
+---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to:
+Contributions welcome:
 - Report bugs
 - Suggest features
 - Submit pull requests
 - Share your customizations
+
+---
 
 ## 🙏 Credits
 
 - Built with [Jekyll](https://jekyllrb.com/)
 - Fonts: [Google Fonts](https://fonts.google.com/)
 - Icons: Inline SVGs
-- Inspired by modern tech interfaces
 
-## 📞 Support
+---
 
-For questions or issues:
-1. Check the [Wiki](../../wiki) for detailed guides
-2. Open an [Issue](../../issues)
-3. Fork and customize!
+## Key Credentials
+
+- **NeuroShell** — Human-Focused AI Award, Tetrate Buildathon (170+ applicants)
+- 25+ years across iOS/macOS development, UI/UX, and creative technology
+- Based in Tāmaki Makaurau · Auckland, NZ
+- Open to remote roles globally · Visa sponsorship conversations welcome
+
+---
+
+## Contact
+
+hello@jenthedev.it.com  
+[jenthedev.substack.com](https://jenthedev.substack.com) · [behance.net/jenthedev](https://www.behance.net/jenthedev) · [github.com/jen-the-dev](https://github.com/jen-the-dev)
 
 ---
 
