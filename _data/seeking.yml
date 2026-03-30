@@ -1,18 +1,16 @@
 # What I'm Seeking
-# Define the types of opportunities you're looking for
-
-- category: "Remote contract or freelance roles via GitHub-based workflows"
-  description: "PRs, issues, async collaboration"
+- category: "Remote-first roles in iOS/macOS development, UI/UX, or developer tooling"
+  description: "Async-first, GitHub-based workflows. Available globally."
   icon: "💼"
 
-- category: "Frontend development, AI integration, and full-stack TypeScript projects"
-  description: ""
+- category: "Teams building accessibility-forward or AI-adjacent products"
+  description: "Particularly: developer tooling, CLI applications, cognitive-difference UX, open-source projects."
   icon: "⚡"
 
-- category: "Open source contributions and developer tool development"
-  description: ""
-  icon: "🛠️"
+- category: "Visa sponsorship conversations welcome"
+  description: "Based in Auckland, NZ. Clear professional profile and credentialled open-source project to anchor the process."
+  icon: "🌏"
 
-- category: "Assistance with relocation costs"
-  description: "sponsorship, signing bonuses, or advance payments welcome"
-  icon: "✈️"
+- category: "Open source collaboration"
+  description: "Contributions to projects where design and engineering are expected to talk to each other."
+  icon: "🛠️"
