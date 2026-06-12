@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body class="blog-theme">
+
+    {% include nav.html %}
+
+    <div class="blog-wrapper">
+
+      <header class="blog-header">
+        <div class="blog-header-content">
+          <h1 class="blog-title">jen_the_dev</h1>
+          <p class="blog-subtitle">code // creativity // the technical void</p>
+        </div>
+      </header>
+
+      <!-- Beehiiv Subscription Emulation -->
+      <section class="subscribe-section">
+        <div class="subscribe-container">
+          <h2 class="subscribe-title">Join the Technical Void</h2>
+          <p class="subscribe-subtitle">Get deep-dives into iOS/macOS, systems architecture, design theory, and technical archaeology directly in your inbox.</p>
+          <form action="https://jenthedev.beehiiv.com/subscribe" method="GET" target="_blank" class="subscribe-form">
+            <input type="email" name="email" placeholder="Enter your email address" required class="subscribe-input">
+            <button type="submit" class="subscribe-button">Subscribe</button>
+          </form>
+          <p class="subscribe-meta">No spam. Only high-signal technical content. Unsubscribe anytime.</p>
+        </div>
+      </section>
+
+      <!-- Main Blog Content -->
+      <main id="blog-content" class="blog-main">
+        <div class="blog-container">
+          <div class="blog-grid">
+            {% for post in site.data.blog_posts %}
+            <article class="post-card {% if post.is_premium %}premium-card{% endif %}">
+              <div class="post-image-container">
+                <img src="{{ post.thumbnail_url }}" alt="{{ post.title }}" class="post-image" loading="lazy">
+                {% if post.is_premium %}
+                <span class="premium-badge">
+                  <span class="badge-icon">🔒</span> Premium
+                </span>
+                {% else %}
+                <span class="free-badge">Public</span>
+                {% endif %}
+              </div>
+              <div class="post-content">
+                <div class="post-meta">
+                  <time datetime="{{ post.created_at }}">{{ post.created_at | date: "%b %d, %Y" }}</time>
+                  <span class="meta-separator">•</span>
+                  <span class="reading-time">{{ post.reading_time }}</span>
+                </div>
+                <h3 class="post-title">
+                  <a href="{{ post.url }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
+                </h3>
+                <p class="post-subtitle">{{ post.subtitle }}</p>
+                
+                {% if post.tags.size > 0 %}
+                <div class="post-tags">
+                  {% for tag in post.tags %}
+                  <span class="post-tag">#{{ tag }}</span>
+                  {% endfor %}
+                </div>
+                {% endif %}
+                
+                <div class="post-footer">
+                  <a href="{{ post.url }}" target="_blank" rel="noopener noreferrer" class="read-button {% if post.is_premium %}premium-button{% endif %}">
+                    {% if post.is_premium %}Unlock & Read{% else %}Read Article{% endif %}
+                  </a>
+                </div>
+              </div>
+            </article>
+            {% endfor %}
+          </div>
+        </div>
+      </main>
+
+      <footer class="blog-footer">
+        <div class="footer-content">
+          <p class="footer-tagline">READY_TO_COLLABORATE <span class="separator">//</span> REMOTE_PREFERRED</p>
+          <p class="footer-line">Built with <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> by {{ site.resume_name }}</p>
+          <p class="footer-line">©2026 All Rights Reserved</p>
+        </div>
+      </footer>
+
+    </div>
+
+  </body>
+
+</html>
