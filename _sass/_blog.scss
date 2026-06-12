@@ -1,45 +1,49 @@
-// Blog Theme & Layout Styles (Emulating Beehiiv Theme)
+// Blog Theme & Layout Styles
 // ---------------------------------------------------
 
-// Theme variables (localized for blog)
+// Theme variables (aligned with global Cyberpunk Tech theme)
 .blog-theme {
-  --blog-bg: #0D0A12;
-  --blog-text: #4ECDC4;
-  --blog-text-muted: #8b9bb4;
-  --blog-primary: #7E00F5;
-  --blog-accent: #DFD150;
-  --blog-accent-hover: #e6dc6d;
-  --blog-gold: #D4924A;
-  --blog-card-bg: #140f1d;
-  --blog-border: #2c203b;
-  --blog-border-active: #7E00F5;
+  --blog-bg: #{$bg-primary};
+  --blog-text: #{$text-primary};
+  --blog-text-muted: #{$text-secondary};
+  --blog-primary: #{$purple-primary};
+  --blog-accent: #{$cyan-primary};
+  --blog-accent-hover: #{$cyan-light};
+  --blog-gold: #{$orange-primary};
+  --blog-card-bg: #{$bg-card};
+  --blog-border: #{$border-color};
+  --blog-border-active: #{$purple-primary};
   
-  background-color: var(--blog-bg) !important;
+  background: var(--blog-bg) !important;
+  background-image:
+    radial-gradient(at 0% 0%, rgba(167, 139, 250, 0.05) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(34, 211, 238, 0.05) 0px, transparent 50%) !important;
+  background-attachment: fixed !important;
   color: var(--blog-text) !important;
-  font-family: 'Fira Code', 'SF Mono', Monaco, monospace;
+  font-family: $font-body;
   min-height: 100vh;
   margin: 0;
   padding: 0;
 
   // Global typography updates for blog page
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Fira Mono', monospace;
+    font-family: $font-display;
     font-weight: 700;
     color: var(--blog-accent);
   }
 
   a {
-    color: var(--blog-text);
+    color: var(--blog-accent);
     text-decoration: none;
-    transition: all 150ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: color $transition-fast;
     
     &:hover {
-      color: var(--blog-accent);
+      color: var(--blog-accent-hover);
     }
   }
 }
 
-// Global Nav Bar Styling (affects both resume and blog pages for consistency)
+// Global Nav Bar Styling (consistently styled across all pages)
 .site-nav {
   position: fixed;
   top: 0;
@@ -65,7 +69,7 @@
   }
 
   .nav-logo {
-    font-family: 'Space Mono', monospace;
+    font-family: $font-mono;
     font-weight: 700;
     font-size: 1.2rem;
     color: #e2e8f0;
@@ -84,7 +88,7 @@
   }
 
   .nav-link {
-    font-family: 'Space Mono', monospace;
+    font-family: $font-mono;
     font-weight: 600;
     font-size: 0.9rem;
     color: #94a3b8;
@@ -107,45 +111,14 @@
   }
 }
 
-// Adjust Resume spacing for nav bar
-.theme-default .wrapper {
-  margin-top: 80px;
-}
-
-// Specific Blog Nav Bar colors
-.blog-theme .site-nav {
-  background-color: rgba(13, 10, 18, 0.75) !important;
-  border-bottom: 1px solid rgba(126, 0, 245, 0.3) !important;
-
-  .nav-logo {
-    color: var(--blog-accent) !important;
-    .logo-accent {
-      color: var(--blog-primary) !important;
-    }
-  }
-
-  .nav-link {
-    font-family: 'Fira Mono', monospace;
-    color: var(--blog-text-muted) !important;
-
-    &:hover {
-      color: var(--blog-text) !important;
-      background-color: rgba(126, 0, 245, 0.1);
-      border-color: rgba(126, 0, 245, 0.3);
-    }
-
-    &.active {
-      color: var(--blog-accent) !important;
-      background-color: rgba(223, 209, 80, 0.08);
-      border-color: rgba(223, 209, 80, 0.3);
-      box-shadow: 0 0 15px rgba(223, 209, 80, 0.15);
-    }
-  }
+// Adjust page wrapper margins for navbar spacing
+.theme-default .wrapper,
+.blog-wrapper {
+  margin-top: 64px;
 }
 
 // Blog Layout Wrapper
 .blog-wrapper {
-  margin-top: 64px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -157,29 +130,29 @@
   width: 100%;
   padding: 80px 24px 40px;
   text-align: center;
-  background: radial-gradient(circle at 50% 50%, rgba(126, 0, 245, 0.1) 0%, transparent 60%);
+  background: radial-gradient(circle at 50% 50%, rgba(167, 139, 250, 0.08) 0%, transparent 60%);
 
   .blog-title {
     font-size: clamp(2.5rem, 6vw, 4.5rem);
     margin: 0 0 16px;
     letter-spacing: -2px;
-    background: linear-gradient(135deg, var(--blog-accent), var(--blog-gold));
+    background: linear-gradient(135deg, $purple-primary, $cyan-primary);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-shadow: 0 0 30px rgba(223, 209, 80, 0.15);
+    text-shadow: 0 0 30px rgba(167, 139, 250, 0.15);
   }
 
   .blog-subtitle {
-    font-family: 'Fira Code', monospace;
-    font-size: clamp(0.9rem, 2vw, 1.2rem);
-    color: var(--blog-text);
+    font-family: $font-mono;
+    font-size: clamp(0.9rem, 2vw, 1.1rem);
+    color: $text-secondary;
     margin: 0;
     opacity: 0.9;
   }
 }
 
-// Subscription Section (Beehiiv Emulation)
+// Subscription Section (Aligned with Relocation Banner Styling)
 .subscribe-section {
   width: 100%;
   max-width: 720px;
@@ -188,11 +161,11 @@
 
   .subscribe-container {
     background-color: var(--blog-card-bg);
-    border: 1px solid var(--blog-border);
-    border-radius: 24px;
-    padding: 40px 32px;
+    border: 2px solid $border-accent;
+    border-radius: $radius-xl;
+    padding: $space-10 $space-8;
     text-align: center;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4), 0 0 20px rgba(126, 0, 245, 0.05);
+    box-shadow: $shadow-lg;
     position: relative;
     overflow: hidden;
 
@@ -203,20 +176,20 @@
       left: 0;
       right: 0;
       height: 4px;
-      background: linear-gradient(90deg, var(--blog-primary), var(--blog-accent));
+      background: linear-gradient(90deg, $cyan-primary, $purple-primary, $orange-primary);
     }
   }
 
   .subscribe-title {
-    font-size: 1.8rem;
+    font-size: $text-2xl;
     margin: 0 0 12px;
-    color: var(--blog-accent);
+    color: $text-primary;
   }
 
   .subscribe-subtitle {
-    font-size: 0.95rem;
+    font-size: $text-base;
     line-height: 1.6;
-    color: var(--blog-text-muted);
+    color: $text-secondary;
     margin: 0 0 24px;
   }
 
@@ -230,26 +203,26 @@
 
     @media (min-width: 576px) {
       flex-direction: row;
-      background-color: rgba(13, 10, 18, 0.6);
+      background-color: rgba(10, 14, 39, 0.6);
       border: 1px solid var(--blog-border);
-      border-radius: 9999px;
-      padding: 6px;
-      gap: 0;
+      border-radius: $radius-lg;
+      padding: 4px;
+      gap: 12px;
       
       &:focus-within {
-        border-color: var(--blog-primary);
-        box-shadow: 0 0 15px rgba(126, 0, 245, 0.25);
+        border-color: $cyan-primary;
+        box-shadow: 0 0 15px rgba(34, 211, 238, 0.25);
       }
     }
   }
 
   .subscribe-input {
-    background-color: rgba(13, 10, 18, 0.6);
+    background-color: rgba(10, 14, 39, 0.6);
     border: 1px solid var(--blog-border);
     color: var(--blog-text);
-    padding: 14px 24px;
-    border-radius: 9999px;
-    font-family: 'Fira Code', monospace;
+    padding: 12px 20px;
+    border-radius: $radius-md;
+    font-family: $font-mono;
     font-size: 0.95rem;
     width: 100%;
     outline: none;
@@ -259,30 +232,32 @@
       background-color: transparent;
       border: none;
       flex-grow: 1;
-      padding: 12px 20px;
+      padding: 10px 16px;
     }
 
     &::placeholder {
-      color: #5d677a;
+      color: $text-muted;
     }
   }
 
   .subscribe-button {
-    background-color: var(--blog-primary);
-    color: #fff;
+    background: linear-gradient(135deg, $purple-primary, $purple-dark);
+    color: $bg-primary;
     border: none;
-    padding: 14px 32px;
-    border-radius: 9999px;
-    font-family: 'Fira Sans', sans-serif;
+    padding: 12px 24px;
+    border-radius: $radius-md;
+    font-family: $font-mono;
     font-weight: 700;
-    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.9rem;
     cursor: pointer;
-    transition: all 150ms ease;
-    box-shadow: 0 4px 15px rgba(126, 0, 245, 0.4);
+    transition: all $transition-base;
+    box-shadow: $shadow-sm;
 
     &:hover {
-      background-color: #921cff;
-      box-shadow: 0 4px 20px rgba(126, 0, 245, 0.6);
+      background: linear-gradient(135deg, $purple-light, $purple-primary);
+      box-shadow: $shadow-glow;
       transform: translateY(-1px);
     }
 
@@ -292,8 +267,9 @@
   }
 
   .subscribe-meta {
-    font-size: 0.8rem;
-    color: #5d677a;
+    font-family: $font-mono;
+    font-size: $text-xs;
+    color: $text-muted;
     margin: 0;
   }
 }
@@ -325,26 +301,26 @@
 .post-card {
   background-color: var(--blog-card-bg);
   border: 1px solid var(--blog-border);
-  border-radius: 24px;
+  border-radius: $radius-xl;
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  transition: all 300ms cubic-bezier(0.4, 0, 0.2, 1);
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  transition: all $transition-base;
+  box-shadow: $shadow-sm;
   height: 100%;
 
   &:hover {
     transform: translateY(-6px);
-    border-color: var(--blog-primary);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4), 0 0 20px rgba(126, 0, 245, 0.15);
+    border-color: $cyan-primary;
+    box-shadow: $shadow-lg, $shadow-cyan;
   }
 
   &.premium-card {
-    border-color: rgba(126, 0, 245, 0.2);
+    border-color: rgba(167, 139, 250, 0.2);
     
     &:hover {
-      border-color: var(--blog-accent);
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4), 0 0 20px rgba(223, 209, 80, 0.15);
+      border-color: $purple-primary;
+      box-shadow: $shadow-lg, $shadow-glow;
     }
   }
 
@@ -353,53 +329,56 @@
     width: 100%;
     aspect-ratio: 1.91 / 1;
     overflow: hidden;
-    background-color: rgba(13, 10, 18, 0.8);
+    background-color: rgba(10, 14, 39, 0.8);
+    border-bottom: 1px solid var(--blog-border);
   }
 
   .post-image {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: transform 500ms ease;
+    transition: transform $transition-slow;
   }
 
   &:hover .post-image {
-    transform: scale(1.03);
+    transform: scale(1.05);
   }
 
   .premium-badge {
     position: absolute;
     top: 16px;
     right: 16px;
-    background-color: var(--blog-accent);
-    color: #000;
+    background-color: $purple-primary;
+    color: $bg-primary;
     padding: 6px 12px;
-    border-radius: 9999px;
-    font-family: 'Fira Sans', sans-serif;
+    border-radius: $radius-md;
+    font-family: $font-mono;
     font-weight: 700;
-    font-size: 0.8rem;
+    font-size: 0.75rem;
     display: flex;
     align-items: center;
     gap: 4px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: $shadow-md;
+    border: 1px solid rgba(167, 139, 250, 0.3);
   }
 
   .free-badge {
     position: absolute;
     top: 16px;
     right: 16px;
-    background-color: var(--blog-primary);
-    color: #fff;
+    background-color: $cyan-primary;
+    color: $bg-primary;
     padding: 6px 12px;
-    border-radius: 9999px;
-    font-family: 'Fira Sans', sans-serif;
+    border-radius: $radius-md;
+    font-family: $font-mono;
     font-weight: 700;
-    font-size: 0.8rem;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    font-size: 0.75rem;
+    box-shadow: $shadow-md;
+    border: 1px solid rgba(34, 211, 238, 0.3);
   }
 
   .post-content {
-    padding: 24px;
+    padding: $space-6;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
@@ -408,51 +387,57 @@
   .post-meta {
     display: flex;
     align-items: center;
-    font-family: 'Fira Sans', sans-serif;
-    font-size: 0.8rem;
-    color: var(--blog-text-muted);
-    margin-bottom: 12px;
+    font-family: $font-mono;
+    font-size: 0.75rem;
+    color: $text-muted;
+    margin-bottom: $space-3;
 
     .meta-separator {
-      margin: 0 8px;
-      color: rgba(126, 0, 245, 0.4);
+      margin: 0 $space-2;
+      color: rgba(34, 211, 238, 0.4);
     }
   }
 
   .post-title {
-    font-size: 1.25rem;
+    font-family: $font-display;
+    font-size: $text-xl;
     line-height: 1.4;
-    margin: 0 0 10px;
+    margin: 0 0 $space-2;
     font-weight: 700;
 
     a {
-      color: #fff;
+      color: $text-primary;
+      transition: color $transition-fast;
       &:hover {
-        color: var(--blog-accent);
+        color: $cyan-primary;
       }
     }
   }
 
   .post-subtitle {
-    font-size: 0.88rem;
-    line-height: 1.5;
-    color: var(--blog-text-muted);
-    margin: 0 0 20px;
+    font-family: $font-body;
+    font-size: $text-sm;
+    line-height: 1.6;
+    color: $text-secondary;
+    margin: 0 0 $space-4;
     flex-grow: 1;
   }
 
   .post-tags {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 20px;
+    gap: $space-2;
+    margin-bottom: $space-6;
   }
 
   .post-tag {
-    font-family: 'Fira Mono', monospace;
-    font-size: 0.75rem;
-    color: var(--blog-text);
-    opacity: 0.8;
+    font-family: $font-mono;
+    font-size: $text-xs;
+    color: $cyan-primary;
+    background-color: rgba(34, 211, 238, 0.06);
+    border: 1px solid rgba(34, 211, 238, 0.15);
+    padding: $space-1 $space-2;
+    border-radius: $radius-sm;
   }
 
   .post-footer {
@@ -464,30 +449,33 @@
     display: block;
     width: 100%;
     text-align: center;
-    padding: 12px;
+    padding: $space-3;
     background-color: transparent;
-    border: 1px solid var(--blog-primary);
-    border-radius: 12px;
-    color: #fff;
-    font-family: 'Fira Sans', sans-serif;
+    border: 1px solid $cyan-primary;
+    border-radius: $radius-md;
+    color: $cyan-primary;
+    font-family: $font-mono;
     font-weight: 700;
-    font-size: 0.9rem;
+    font-size: $text-xs;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
     box-sizing: border-box;
+    transition: all $transition-base;
 
     &:hover {
-      background-color: var(--blog-primary);
-      box-shadow: 0 4px 15px rgba(126, 0, 245, 0.3);
-      color: #fff;
+      background-color: $cyan-primary;
+      color: $bg-primary;
+      box-shadow: $shadow-cyan;
     }
 
     &.premium-button {
-      border-color: var(--blog-accent);
-      color: var(--blog-accent);
+      border-color: $purple-primary;
+      color: $purple-primary;
 
       &:hover {
-        background-color: var(--blog-accent);
-        color: #000;
-        box-shadow: 0 4px 15px rgba(223, 209, 80, 0.3);
+        background-color: $purple-primary;
+        color: $bg-primary;
+        box-shadow: $shadow-glow;
       }
     }
   }
@@ -498,7 +486,7 @@
   width: 100%;
   padding: 60px 24px;
   border-top: 1px solid var(--blog-border);
-  background-color: #08060b;
+  background-color: rgba(10, 14, 39, 0.95);
 
   .footer-content {
     max-width: 1200px;
@@ -507,29 +495,31 @@
   }
 
   .footer-tagline {
-    font-family: 'Fira Mono', monospace;
+    font-family: $font-mono;
     font-size: 0.9rem;
     font-weight: 700;
-    color: var(--blog-primary);
+    color: $purple-primary;
     margin: 0 0 16px;
+    letter-spacing: 0.05em;
     
     .separator {
-      color: var(--blog-accent);
+      color: $cyan-primary;
       margin: 0 8px;
     }
   }
 
   .footer-line {
-    font-family: 'Fira Sans', sans-serif;
-    font-size: 0.82rem;
-    color: var(--blog-text-muted);
+    font-family: $font-body;
+    font-size: $text-sm;
+    color: $text-muted;
     margin: 6px 0;
 
     a {
-      color: var(--blog-text);
-      text-decoration: underline;
+      color: $cyan-primary;
+      text-decoration: none;
+      transition: color $transition-fast;
       &:hover {
-        color: var(--blog-accent);
+        color: $cyan-light;
       }
     }
   }
