@@ -28,7 +28,7 @@
   <meta name="msapplication-navbutton-color" content="#0a0e27">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="icon" type="image/x-icon" href="favicon.png" />
+  <link rel="icon" type="image/x-icon" href="{{ '/favicon.png' | relative_url }}" />
 </head>
