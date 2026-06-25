@@ -315,3 +315,52 @@ hello@jenthedev.it.com
 **Made with 💜 by Jen the Dev**
 
 *Creating technology that feels alive — where luminous interfaces meet thoughtful engineering.*
+
+
+## Problem
+Developers need a maintainable, high-clarity personal portfolio that communicates skills, projects, and outcomes quickly.
+
+## Solution
+A Jekyll-based resume portfolio with structured data files, customizable styling, and deployment-ready static-site workflow.
+
+## Architecture Diagram
+```mermaid
+flowchart LR
+  Data["_data YAML content"] --> Jekyll["Jekyll build"]
+  Jekyll --> Layout["Resume layout + SCSS"]
+  Layout --> Site["Static portfolio site"]
+```
+
+## Tech Stack
+- Jekyll
+- Ruby/Bundler
+- SCSS
+- GitHub Pages deployment
+
+## Setup Instructions
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+## Testing
+- Jekyll build validation: bundle exec jekyll build
+- Manual accessibility/responsive checks
+
+## ANZSCO 261312 Competency Evidence
+- Static-site architecture and content modeling.
+- UI/UX implementation and maintainable theme styling.
+- Documentation and deployment-oriented engineering.
+
+## Commit Convention
+Use Conventional Commits for presentation clarity:
+- `feat(scope): add new user-facing capability`
+- `fix(scope): resolve functional defect`
+- `test(scope): add or improve automated tests`
+- `docs(readme): improve project documentation`
+
+## Evidence Map
+- `_config.yml`
+- `_data/`
+- `_layouts/resume.html`
+- `_sass/`
