@@ -6,6 +6,12 @@ Live at: [gh.jenthedev.it.com](https://gh.jenthedev.it.com)
 
 ---
 
+
+## ANZSCO 261312 Skills Snapshot
+- Product-focused frontend architecture using Jekyll and structured content models.
+- UI/UX engineering with maintainable styling and responsive presentation.
+- Deployment-ready technical delivery for professional portfolio outcomes.
+
 ## 🎨 Design Features
 
 ### Color Palette
