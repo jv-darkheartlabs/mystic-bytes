@@ -8,6 +8,17 @@ Job-hunting portfolios often become difficult to maintain when profile content, 
 
 ## Solution
 Mystic Bytes separates resume content into structured data files and uses a Jekyll-based presentation layer, enabling rapid updates while preserving consistent UX and branding.
+## Career Presentation Hub
+This repository is the primary location for career-facing narrative and professional positioning.
+
+### Role focus
+- Primary target: **Developer Programmer (ANZSCO 261312)**
+- Adjacent evidence: **261112**, **262113**, **263212**, and theming-focused **261211**
+
+### Application handoff links
+- Portfolio landing map: [projects-workspaces/README.md](https://github.com/jen-the-dev/projects-workspaces/blob/main/README.md)
+- Submission pack tracker: [nz-immigration-application-tracker](https://github.com/jen-the-dev/nz-immigration-application-tracker)
+- Cover letter source: [cover-letter-anzsco-261312.md](https://github.com/jen-the-dev/nz-immigration-application-tracker/blob/main/cover-letter-anzsco-261312.md)
 
 ## Architecture
 - `_data/` stores structured resume and project content.
