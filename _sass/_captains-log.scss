@@ -1719,12 +1719,29 @@ section:has(> .section-label):not(.mission-timeline) {
 .cv-skill-group {
   margin-bottom: 1.25rem;
 
-  h3 {
+  h3,
+  &__heading {
     @include font-mono;
     font-size: 0.6875rem;
     text-transform: uppercase;
     color: var(--amber);
     margin: 0 0 0.5rem;
+    line-height: 1.4;
+  }
+}
+
+.cv-skill-subsection {
+  margin-bottom: 0.75rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &__label {
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: var(--foreground);
+    margin: 0 0 0.35rem;
   }
 }
 

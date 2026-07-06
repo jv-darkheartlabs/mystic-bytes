@@ -6,7 +6,7 @@ permalink: /cv/
 ---
 
 {% assign cv = site.data.cv %}
-{% assign skills = site.data.skills.groups %}
+{% assign skills = site.data.skills %}
 
 <div class="container cv-page">
   <header class="cv-header signal-header">
@@ -71,16 +71,71 @@ permalink: /cv/
     <aside class="cv-sidebar">
       <section class="cv-section panel" aria-labelledby="cv-skills-heading">
         <h2 id="cv-skills-heading" class="cv-section__title">Skills</h2>
-        {% for group in skills %}
+        {% if skills.languages.size > 0 %}
         <div class="cv-skill-group">
-          <h3>{{ group.title }}</h3>
+          <h3 class="cv-skill-group__heading">Languages</h3>
           <ul class="cv-skill-list">
-            {% for item in group.items %}
+            {% for item in skills.languages %}
             <li>{{ item }}</li>
             {% endfor %}
           </ul>
         </div>
+        {% endif %}
+        {% for group in skills.groups %}
+        <div class="cv-skill-group">
+          <h3 class="cv-skill-group__heading">{{ group.code }} {{ group.title }}</h3>
+          {% if group.software.size > 0 %}
+          <div class="cv-skill-subsection">
+            <p class="cv-skill-subsection__label">Software</p>
+            <ul class="cv-skill-list">
+              {% for item in group.software %}
+              <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+          {% if group.quality.size > 0 %}
+          <div class="cv-skill-subsection">
+            <p class="cv-skill-subsection__label">Quality</p>
+            <ul class="cv-skill-list">
+              {% for item in group.quality %}
+              <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+          {% if group.operating_systems.size > 0 %}
+          <div class="cv-skill-subsection">
+            <p class="cv-skill-subsection__label">Operating systems</p>
+            <ul class="cv-skill-list">
+              {% for item in group.operating_systems %}
+              <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+          {% if group.practices.size > 0 %}
+          <div class="cv-skill-subsection">
+            <p class="cv-skill-subsection__label">Practices</p>
+            <ul class="cv-skill-list">
+              {% for item in group.practices %}
+              <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+        </div>
         {% endfor %}
+        {% if skills.collaboration.items.size > 0 %}
+        <div class="cv-skill-group">
+          <h3 class="cv-skill-group__heading">{{ skills.collaboration.title }}</h3>
+          <ul class="cv-skill-list">
+            {% for item in skills.collaboration.items %}
+            <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
       </section>
 
       <section class="cv-section panel" aria-labelledby="cv-contact-heading">

@@ -1,65 +1,79 @@
+languages:
+  - Swift 6
+  - TypeScript
+  - JavaScript
+  - Python
+  - Ruby
+  - Rust
+  - Bash/Shell
+  - SQL
+  - HTML/CSS
+  - Liquid
+  - YAML
+
 groups:
   -
-    title: Languages
-    items:
-      - Swift 6
-      - TypeScript
-      - Rust
-      - Python
-      - Ruby
-      - Bash/Shell
-      - SQL
-  -
-    title: Apple
-    items:
+    code: "261312"
+    title: Developer Programmer
+    software:
       - SwiftUI
-      - Swift 6 strict concurrency
-      - Observation
-      - SwiftData
-      - Swift Testing
       - Xcode 16
       - Core ML
       - Vision
       - "Accessibility (VoiceOver, Dynamic Type)"
+      - Local LLM (Ollama)
+      - MCP servers
+      - TARS (Tetrate Agent Router)
+      - pgvector RAG
+      - Eval harnesses
+      - AI-assisted development / prompt design
+    operating_systems:
+      - macOS (development)
+      - iOS (shipping)
+      - Linux (cross-platform tooling)
+    practices:
+      - Technical documentation
+      - Code review
+      - Git / GitHub
   -
-    title: "Web & Edge"
-    items:
-      - TanStack Start
+    code: "261212"
+    title: Web Developer
+    software:
       - React 19
       - Vite
-      - Tailwind v4
-      - Bun
-      - Hono
-      - Cloudflare Workers
-      - Drizzle
-      - PostgreSQL / Supabase
+      - Ruby on Rails · ViewComponents · Stimulus
+      - Jekyll · Liquid
+      - Node.js
+      - GitHub Pages
+    quality:
+      - WCAG 2.1 AA
+      - SEO / web performance optimization
+    operating_systems:
+      - Linux (server/hosting)
+      - macOS (local development)
   -
-    title: "Infra & AI"
-    items:
-      - TARS (Tetrate Agent Router)
-      - MCP servers
-      - pgvector RAG
-      - Local LLM (Ollama)
-      - Eval harnesses
-      - Envoy dynamic modules
-      - Fly.io
+    code: "262113"
+    title: Systems Administrator
+    software:
       - GitHub Actions
+      - Docker
+    operating_systems:
+      - macOS
       - Linux
-  -
-    title: Tooling
-    items:
-      - Git / GitHub
-      - VS Code
-      - Cursor
-      - Figma
-      - Linear
-      - Jira
-      - Confluence
-      - Async-first collaboration
-  -
-    title: Heritage (maintenance only)
-    items:
-      - Objective-C
-      - Combine
-      - XCTest
-      - Adobe Creative Suite
+      - Windows
+    practices:
+      - Onboarding documentation for technical staff
+      - Tier-2 / tier-3 technical support
+      - Tooling evaluation & integration documentation
+      - macOS & Linux migration programmes
+
+collaboration:
+  title: Collaboration & design tools
+  items:
+    - Async-first collaboration
+    - Confluence
+    - Cursor
+    - Figma
+    - Jira
+    - Linear
+    - Slack
