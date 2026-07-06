@@ -1,0 +1,15 @@
+- label: home
+  url: /
+  exact: true
+- label: projects
+  url: /projects/
+- label: cv
+  url: /cv/
+- label: media
+  url: /media/
+- label: about
+  url: /about/
+- label: mission
+  url: /mission-control/
+- label: send a raven
+  url: /contact/

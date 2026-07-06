@@ -1,0 +1,501 @@
+# Technical essay style guide — Dark Heart Labs
+# Corpus: 92 essays at /media/essays/ · rewrite pass v1
+
+meta:
+  version: 1
+  collection: essays
+  audience: broad tech — engineers, leads, PMs, designers, eng-adjacent readers
+  sign_off: "— JV · Dark Heart Labs."
+  frontmatter_tiers:
+    - micro
+    - pillar
+
+voice: |
+  Hybrid signal aesthetic outside, senior technical substance inside.
+  Mixed POV: I for lived experience and case material; you for directives to the reader;
+  they for industry patterns and org behavior.
+  Balanced register: at most one strong metaphor per essay; otherwise concrete mechanism and evidence.
+  Surgical tone: blunt about systems, incentives, and architecture — never punch down at individuals.
+  Same template applies to code and craft topics (photography, newsletter form, etc.).
+
+brief_block:
+  keep: true
+  fields:
+    - system
+    - issue
+    - constraint
+  rules: |
+    Keep the [incoming brief] fiction. Make it technically plausible — real stacks, plausible
+    incidents, constraints a team would actually face. The brief should foreshadow the essay's
+    mechanism, not random CI-runner flavor text unless the essay is about CI.
+
+case_studies:
+  policy: named where safe
+  allowed_named:
+    - Nightbind
+    - mystic-bytes / Dark Heart Labs site pipeline
+    - dark-heart-themes
+    - Public OSS and portfolio projects
+    - Twitch / streaming stack (darkheartlabs)
+  anonymize:
+    - Employers and clients unless already public
+    - Individual colleagues — roles ok ("a platform lead"), not names
+  composite: label illustrative scenarios explicitly if used
+
+citations:
+  policy: footnotes
+  expert_rule: |
+    Each pillar essay includes footnotes citing the leading widely known expert on the topic —
+    the person who named the idea, wrote the definitive book, created the tool, or authored the
+    standard reference. Prefer primary sources (paper, spec, canonical talk, official docs).
+    Micro essays: 0–1 footnote optional when a single citation anchors the claim.
+  footnote_format: markdown reference-style [^1] with ## References block at end
+
+closings:
+  drop_transmission_chrome: true
+  keep_sign_off: true
+  body_close: directive sentence or checklist when useful — then sign-off on its own line
+
+tiers:
+  micro:
+    frontmatter_type: micro
+    definition: single sharp claim — one idea, no multi-step tradeoff space
+    word_target: 150-250
+    structure:
+      - id: thesis
+        label: Thesis
+        objective: One sentence; no metaphor yet
+      - id: mechanism
+        label: Mechanism
+        objective: How/why the claim holds — concrete, case-touched
+      - id: close
+        label: Close
+        objective: Directive + sign-off
+  pillar:
+    frontmatter_type: pillar
+    definition: systems with tradeoffs — failure modes, alternatives, second-order effects
+    word_target: 700-1500
+    structure:
+      - id: thesis
+        label: Thesis
+        allocation: 10
+      - id: context
+        label: Context
+        allocation: 15
+        objective: Where this shows up — named project or anonymized org
+      - id: mechanism
+        label: Mechanism
+        allocation: 35
+        objective: How the system produces the outcome
+      - id: tradeoffs
+        label: Tradeoffs
+        allocation: 25
+        objective: Alternatives, costs, when the thesis fails
+      - id: close
+        label: Close
+        allocation: 15
+      - id: references
+        label: References
+        objective: Footnotes — leading expert on topic
+
+rubric:
+  scale: 1-5
+  dimensions:
+    - id: mechanism
+      label: Mechanism clarity
+      ask: Does the reader understand how the system fails or succeeds?
+    - id: evidence
+      label: Case + citation
+      ask: Named safe example and footnoted authority present (pillar)?
+    - id: voice
+      label: Voice fit
+      ask: Mixed POV, balanced register, surgical not cruel?
+    - id: brief
+      label: Brief coherence
+      ask: Does the incoming brief match the essay body?
+    - id: length
+      label: Tier length
+      ask: Micro 150–250 / pillar 700–1500?
+  pass_threshold: 4
+
+rewrite_workflow:
+  - Classify tier (manifest below)
+  - Set frontmatter type to micro or pillar
+  - Rewrite brief if misaligned
+  - Apply tier structure
+  - Add references (pillar required)
+  - Score with rubric before merge
+
+corpus:
+  total: 92
+  micro_count: 55
+  pillar_count: 37
+  essays:
+    abstractions-are-bets:
+      title: "Abstractions Are Bets"
+      tier: micro
+      words_current: 82
+    accessibility-is-not-a-checklist:
+      title: "Accessibility Is Not a Checklist"
+      tier: pillar
+      words_current: 88
+    aesthetics-as-affordance:
+      title: "Aesthetics as Affordance"
+      tier: pillar
+      words_current: 758
+    apis-are-promises-with-a-version-number:
+      title: "APIs Are Promises With a Version Number"
+      tier: micro
+      words_current: 90
+    async-first-is-an-accessibility-feature:
+      title: "Async-First Is an Accessibility Feature"
+      tier: pillar
+      words_current: 1080
+    async-is-a-political-position:
+      title: "Async Is a Political Position"
+      tier: pillar
+      words_current: 96
+    attention-depletion-curve:
+      title: "Attention Is a Resource With a Depletion Curve"
+      tier: micro
+      words_current: 117
+    authentication-is-the-easy-part:
+      title: "Authentication Is the Easy Part"
+      tier: micro
+      words_current: 83
+    budgets-are-belief-systems:
+      title: "Budgets Are Belief Systems"
+      tier: pillar
+      words_current: 81
+    build-the-debugger-you-needed-yesterday:
+      title: "Build the Debugger You Needed Yesterday"
+      tier: micro
+      words_current: 99
+    burnout-is-a-systems-failure:
+      title: "Burnout Is a Systems Failure"
+      tier: pillar
+      words_current: 1075
+    caching-is-a-tax-on-correctness:
+      title: "Caching Is a Tax on Correctness"
+      tier: pillar
+      words_current: 94
+    ci-is-the-norm-enforcer:
+      title: "CI Is the Norm Enforcer"
+      tier: micro
+      words_current: 71
+    class-is-an-input:
+      title: "Class Is an Input"
+      tier: micro
+      words_current: 77
+    collection-as-curatorial-act:
+      title: "The Collection as Curatorial Act"
+      tier: micro
+      words_current: 111
+    compilers-are-translators-with-taste:
+      title: "Compilers Are Translators with Taste"
+      tier: micro
+      words_current: 90
+    conflict-resolution-code-review:
+      title: "Conflict Resolution in Code Review and in Life"
+      tier: micro
+      words_current: 130
+    context-switching-tax:
+      title: "The Context-Switching Tax Nobody Itemizes"
+      tier: pillar
+      words_current: 128
+    copy-paste-is-an-honest-first-draft:
+      title: "Copy-Paste Is an Honest First Draft"
+      tier: micro
+      words_current: 74
+    craft-is-the-evidence-of-care:
+      title: "Craft Is the Evidence of Care"
+      tier: micro
+      words_current: 81
+    critical-thinking-is-a-muscle:
+      title: "Critical Thinking Is a Muscle"
+      tier: micro
+      words_current: 81
+    data-models-leak:
+      title: "Data Models Leak"
+      tier: micro
+      words_current: 94
+    databases-are-an-opinion:
+      title: "Databases Are an Opinion"
+      tier: pillar
+      words_current: 111
+    decisions-are-cheap-reverts-are-expensive:
+      title: "Decisions Are Cheap, Reverts Are Expensive"
+      tier: micro
+      words_current: 83
+    determinism-is-a-design-choice:
+      title: "Determinism Is a Design Choice"
+      tier: micro
+      words_current: 94
+    disagreement-is-a-feature:
+      title: "Disagreement Is a Feature"
+      tier: pillar
+      words_current: 88
+    documentation-as-empathy:
+      title: "Documentation as Empathy"
+      tier: pillar
+      words_current: 124
+    email-is-an-interface:
+      title: "Email Is an Interface"
+      tier: micro
+      words_current: 94
+    encryption-is-not-a-feature:
+      title: "Encryption Is Not a Feature"
+      tier: pillar
+      words_current: 91
+    essay-is-an-experiment:
+      title: "The Essay Is an Experiment"
+      tier: micro
+      words_current: 90
+    games-teach-systems-thinking:
+      title: "Games Teach Systems Thinking"
+      tier: pillar
+      words_current: 77
+    garbage-collection-ethics-of-forgetting:
+      title: "Garbage Collection and the Ethics of Forgetting"
+      tier: micro
+      words_current: 108
+    ghost-in-the-binary-undefined-behavior:
+      title: "The Ghost in the Binary: Undefined Behavior"
+      tier: micro
+      words_current: 122
+    hardware-is-a-deadline:
+      title: "Hardware Is a Deadline"
+      tier: micro
+      words_current: 113
+    incidents-are-curriculum:
+      title: "Incidents Are Curriculum"
+      tier: pillar
+      words_current: 97
+    interfaces-are-translations:
+      title: "Interfaces Are Translations"
+      tier: micro
+      words_current: 76
+    library-as-first-api:
+      title: "The Library as the First API"
+      tier: micro
+      words_current: 109
+    local-first-as-a-stance:
+      title: "Local-First as a Stance"
+      tier: pillar
+      words_current: 98
+    logs-are-letters-to-future-you:
+      title: "Logs Are Letters to Future-You"
+      tier: micro
+      words_current: 80
+    machine-that-hallucinates-helpfully:
+      title: "The Machine That Hallucinates Helpfully"
+      tier: micro
+      words_current: 134
+    management-is-a-bandwidth-problem:
+      title: "Management Is a Bandwidth Problem"
+      tier: micro
+      words_current: 79
+    math-is-a-debugger:
+      title: "Math Is a Debugger"
+      tier: micro
+      words_current: 93
+    mentorship-in-fast-moving-industry:
+      title: "On Mentorship in an Industry That Moves Too Fast"
+      tier: pillar
+      words_current: 139
+    metrics-shape-the-thing-they-measure:
+      title: "Metrics Shape the Thing They Measure"
+      tier: micro
+      words_current: 86
+    migrations-are-confessions:
+      title: "Migrations Are Confessions"
+      tier: pillar
+      words_current: 151
+    movement-is-a-debugger:
+      title: "Movement Is a Debugger"
+      tier: micro
+      words_current: 79
+    naming-things-is-still-the-hardest-problem:
+      title: "Naming Things Is Still the Hardest Problem"
+      tier: micro
+      words_current: 162
+    negotiation-is-naming-the-alternatives:
+      title: "Negotiation Is Naming the Alternatives"
+      tier: micro
+      words_current: 91
+    networks-are-promises-not-pipes:
+      title: "Networks Are Promises, Not Pipes"
+      tier: micro
+      words_current: 100
+    newsletter-as-form-why-we-returned:
+      title: "The Newsletter as Form: Why We Returned to Email"
+      tier: micro
+      words_current: 117
+    observability-is-the-second-product:
+      title: "Observability Is the Second Product"
+      tier: pillar
+      words_current: 87
+    one-on-ones-are-the-product:
+      title: "One-on-Ones Are the Product"
+      tier: micro
+      words_current: 76
+    operating-systems-are-political:
+      title: "Operating Systems Are Political"
+      tier: pillar
+      words_current: 80
+    operations-is-the-product:
+      title: "Operations Is the Product"
+      tier: pillar
+      words_current: 85
+    photography-is-editing:
+      title: "Photography Is Editing"
+      tier: micro
+      words_current: 82
+    plain-language-is-an-act-of-respect:
+      title: "Plain Language Is an Act of Respect"
+      tier: micro
+      words_current: 84
+    planning-is-rehearsing-the-failure:
+      title: "Planning Is Rehearsing the Failure"
+      tier: pillar
+      words_current: 79
+    prioritization-is-violence:
+      title: "Prioritization Is Violence"
+      tier: micro
+      words_current: 90
+    prompt-engineering-is-just-writing:
+      title: "Prompt Engineering Is Just Writing"
+      tier: micro
+      words_current: 119
+    protocols-as-promises:
+      title: "Protocols as Promises"
+      tier: pillar
+      words_current: 701
+    relocation-as-refactor:
+      title: "Relocation as Refactor"
+      tier: pillar
+      words_current: 1153
+    rendering-is-lying-beautifully:
+      title: "Rendering Is Lying Beautifully"
+      tier: micro
+      words_current: 121
+    resilience-is-a-rehearsal:
+      title: "Resilience Is a Rehearsal"
+      tier: pillar
+      words_current: 86
+    rest-is-a-deploy-target:
+      title: "Rest Is a Deploy Target"
+      tier: micro
+      words_current: 139
+    review-before-rewrite:
+      title: "Review Before Rewrite"
+      tier: micro
+      words_current: 108
+    schema-migration-as-archaeology:
+      title: "Schema Migration as Archaeology"
+      tier: pillar
+      words_current: 108
+    scope-creep-is-a-symptom:
+      title: "Scope Creep Is a Symptom"
+      tier: micro
+      words_current: 77
+    sensory-load-is-a-system-resource:
+      title: "Sensory Load Is a System Resource"
+      tier: pillar
+      words_current: 658
+    sleep-is-infrastructure:
+      title: "Sleep Is Infrastructure"
+      tier: micro
+      words_current: 95
+    sql-is-an-interface-to-the-truth:
+      title: "SQL Is an Interface to the Truth"
+      tier: micro
+      words_current: 88
+    strategy-is-saying-no:
+      title: "Strategy Is Saying No"
+      tier: micro
+      words_current: 80
+    systems-thinking-before-it-was-a-job:
+      title: "Systems Thinking Before Systems Thinking Was a Job"
+      tier: pillar
+      words_current: 131
+    tags-are-not-taxonomies:
+      title: "Tags Are Not Taxonomies"
+      tier: micro
+      words_current: 125
+    teaching-is-debugging-yourself:
+      title: "Teaching Is Debugging Yourself"
+      tier: pillar
+      words_current: 87
+    technical-debt-is-a-vocabulary-problem:
+      title: "Technical Debt Is a Vocabulary Problem"
+      tier: micro
+      words_current: 97
+    testing-is-a-conversation:
+      title: "Testing Is a Conversation"
+      tier: pillar
+      words_current: 84
+    the-changelog-as-narrative:
+      title: "The Changelog as Narrative"
+      tier: pillar
+      words_current: 691
+    the-cost-of-cleverness:
+      title: "The Cost of Cleverness"
+      tier: pillar
+      words_current: 732
+    the-cost-of-real-time:
+      title: "The Cost of Real-Time"
+      tier: pillar
+      words_current: 82
+    the-model-is-a-mirror:
+      title: "The Model Is a Mirror"
+      tier: micro
+      words_current: 139
+    the-platform-is-the-policy:
+      title: "The Platform Is the Policy"
+      tier: micro
+      words_current: 81
+    the-portfolio-as-evidence:
+      title: "The Portfolio as Evidence"
+      tier: micro
+      words_current: 118
+    the-tyranny-of-the-default:
+      title: "The Tyranny of the Default"
+      tier: pillar
+      words_current: 721
+    time-is-not-a-line:
+      title: "Time Is Not a Line"
+      tier: micro
+      words_current: 80
+    tools-shape-the-hands:
+      title: "Tools Shape the Hands"
+      tier: micro
+      words_current: 101
+    trust-is-a-protocol:
+      title: "Trust Is a Protocol"
+      tier: pillar
+      words_current: 86
+    ttrpgs-are-collaborative-software:
+      title: "TTRPGs Are Collaborative Software"
+      tier: pillar
+      words_current: 83
+    types-are-documentation-that-runs:
+      title: "Types Are Documentation That Runs"
+      tier: pillar
+      words_current: 80
+    typography-is-a-trust-signal:
+      title: "Typography Is a Trust Signal"
+      tier: micro
+      words_current: 88
+    ui-state-is-a-state-machine-whether-you-admit-it:
+      title: "UI State Is a State Machine Whether You Admit It"
+      tier: pillar
+      words_current: 93
+    webhooks-are-the-handshake-with-a-stranger:
+      title: "Webhooks Are the Handshake With a Stranger"
+      tier: micro
+      words_current: 85
+    writing-is-thinking:
+      title: "Writing Is Thinking"
+      tier: micro
+      words_current: 86

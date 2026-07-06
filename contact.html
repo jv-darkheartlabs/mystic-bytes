@@ -1,0 +1,79 @@
+---
+layout: page
+title: "echo $msg | send"
+eyebrow: "[contact]"
+subtitle: "open a channel. the void listens."
+permalink: /contact/
+---
+<p>Remote-first. Open to contract, freelance, and full-time conversations. Visa sponsorship welcome.</p>
+
+<form id="raven-form" class="panel scanlines" style="margin-top: 2rem; padding: 1.5rem; display: grid; gap: 1.25rem;">
+  <div>
+    <label class="field-label" for="name">$ whoami</label>
+    <input class="field-input" id="name" name="name" type="text" required placeholder="your name">
+  </div>
+  <div>
+    <label class="field-label" for="email">$ reply_to</label>
+    <input class="field-input" id="email" name="email" type="email" required placeholder="you@example.com">
+  </div>
+  <div>
+    <label class="field-label" for="subject">$ subject</label>
+    <input class="field-input" id="subject" name="subject" type="text" required placeholder="re: collaboration">
+  </div>
+  <div>
+    <label class="field-label" for="message">$ message</label>
+    <textarea class="field-input" id="message" name="message" rows="6" required placeholder="type message…"></textarea>
+  </div>
+  <button type="submit" class="btn-transmit">✉ transmit →</button>
+</form>
+
+<script>
+  document.getElementById('raven-form').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var d = new FormData(e.target);
+    var subject = encodeURIComponent('[jv] ' + d.get('subject'));
+    var body = encodeURIComponent(
+      'From: ' + d.get('name') + ' <' + d.get('email') + '>\n\n' + d.get('message')
+    );
+    window.location.href = 'mailto:{{ site.email }}?subject=' + subject + '&body=' + body;
+  });
+</script>
+
+<style>
+  .field-label {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    color: var(--amber);
+  }
+  .field-input {
+    width: 100%;
+    margin-top: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid var(--border);
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-mono);
+    font-size: 0.875rem;
+  }
+  .field-input:focus {
+    outline: none;
+    border-color: var(--teal);
+  }
+  .btn-transmit {
+    justify-self: start;
+    padding: 0.75rem 1.5rem;
+    border: 1px solid var(--teal);
+    background: var(--teal);
+    color: var(--ink);
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: box-shadow 0.2s;
+  }
+  .btn-transmit:hover {
+    box-shadow: var(--shadow-glow);
+  }
+</style>

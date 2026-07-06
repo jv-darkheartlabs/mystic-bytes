@@ -1,0 +1,116 @@
+---
+layout: default
+title: "media — transmissions"
+eyebrow: "[media]"
+permalink: /media/
+---
+
+{% assign spotify = site.data.site.spotify %}
+{% assign episodes = site.podcast | sort: "date" | reverse %}
+{% assign essays = site.essays | where_exp: "e", "e.locked != true" %}
+{% assign gallery_sets = site.gallery | where_exp: "g", "g.published != false" | sort: "sort_key" | reverse %}
+{% assign channels = site.data.gallery_channels.channels %}
+
+<div class="container media-page">
+  <header class="media-header signal-header">
+    {% include signal-badge.html code="MEDIA" %}
+    <p class="page-eyebrow">[media]</p>
+    <h1 class="page-title">transmissions</h1>
+    <p class="media-lede">
+      Written, spoken, scored, and visual signal from Dark Heart Labs.
+      Essays · literary analysis · podcast · album · photo sets · video.
+    </p>
+  </header>
+
+  <div class="media-hub-grid">
+    <a class="media-hub-card panel" href="{{ '/media/written/' | relative_url }}">
+      {% include section-label.html num="00" title="written" badge="MEDIA" %}
+      <h2>written transmissions</h2>
+      <p>{{ essays.size }} essays · {{ site.readings.size }} literary analyses. Technical signal and book reviews.</p>
+      <span class="media-hub-card__cta">enter →</span>
+    </a>
+    <a class="media-hub-card panel" href="{{ '/media/podcast/' | relative_url }}">
+      {% include section-label.html num="01" title="spoken" badge="MEDIA" %}
+      <h2>spoken transmissions</h2>
+      <p>{{ episodes.size }} episodes. Essays read aloud — relocation, craft, the model, the void.</p>
+      <span class="media-hub-card__cta">enter →</span>
+    </a>
+    <a class="media-hub-card panel" href="{{ '/media/album/' | relative_url }}">
+      {% include section-label.html num="02" title="album" badge="MEDIA" %}
+      <h2>the long-form signal</h2>
+      <p>Dark Heart Labs — ambient long-form signal beneath the essays.</p>
+      <span class="media-hub-card__cta">enter →</span>
+    </a>
+    <a class="media-hub-card panel" href="{{ '/media/gallery/' | relative_url }}">
+      {% include section-label.html num="03" title="gallery" badge="MEDIA" %}
+      <h2>visual sets</h2>
+      <p>
+        {% if gallery_sets.size > 0 %}
+        {{ gallery_sets.size }} albums — photo sets, shelf studies, b-roll.
+        {% else %}
+        Photo albums by set — shelf studies and visual signal.
+        {% endif %}
+      </p>
+      <span class="media-hub-card__cta">enter →</span>
+    </a>
+    <a class="media-hub-card panel" href="{{ '/media/video/' | relative_url }}">
+      {% include section-label.html num="04" title="video" badge="MEDIA" %}
+      <h2>moving image</h2>
+      <p>Embedded reels and long-form — linked from the networks until the first local drop.</p>
+      <span class="media-hub-card__cta">enter →</span>
+    </a>
+  </div>
+
+  <section class="media-embed">
+    {% include section-label.html num="05" title="now playing" badge="MEDIA" %}
+    <div class="spotify-embeds">
+      <div class="spotify-embed panel">
+        <p class="spotify-embed__label">podcast show</p>
+        <iframe
+          style="border-radius:12px"
+          src="https://open.spotify.com/embed/show/{{ spotify.show_id }}?utm_source=generator&theme=0"
+          width="100%"
+          height="352"
+          frameBorder="0"
+          allowfullscreen=""
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"
+          title="Dark Heart Labs podcast on Spotify"
+        ></iframe>
+      </div>
+      <div class="spotify-embed panel">
+        <p class="spotify-embed__label">album</p>
+        <iframe
+          style="border-radius:12px"
+          src="https://open.spotify.com/embed/album/{{ spotify.album_id }}?utm_source=generator&theme=0"
+          width="100%"
+          height="352"
+          frameBorder="0"
+          allowfullscreen=""
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"
+          title="Dark Heart Labs — long-form signal on Spotify"
+        ></iframe>
+      </div>
+    </div>
+  </section>
+
+  {% assign linked_channels = channels | where_exp: "c", "c.url != empty" %}
+  {% if linked_channels.size > 0 %}
+  <section class="media-channels">
+    {% include section-label.html num="06" title="networks" badge="MEDIA" %}
+    <div class="media-channels__grid">
+      {% for ch in linked_channels %}
+      <a class="media-channel panel" href="{{ ch.url }}" target="_blank" rel="me noreferrer">
+        <span class="media-channel__label">{{ ch.label }}</span>
+        {% if ch.handle != empty %}
+        <span class="media-channel__handle">{{ ch.handle }}</span>
+        {% endif %}
+        <span class="media-channel__blurb">{{ ch.blurb }}</span>
+        <span class="media-channel__cta">follow ↗</span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</div>

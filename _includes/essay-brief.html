@@ -1,0 +1,21 @@
+{% assign brief = page.brief %}
+{% unless brief.system %}
+  {% comment %} Phase 2 will add deriveBrief logic; placeholder for authored briefs {% endcomment %}
+{% endunless %}
+{% if brief %}
+<aside class="essay-brief panel">
+  <div class="essay-brief__header">
+    <span>[ incoming brief ]</span>
+    <span>// from: THE ARCHITECT</span>
+    <span>// ref: №_{{ page.number }}</span>
+  </div>
+  <dl class="essay-brief__grid">
+    <div><dt>system</dt><dd>{{ brief.system }}</dd></div>
+    <div><dt>issue</dt><dd>{{ brief.issue }}</dd></div>
+    {% if brief.constraint %}
+    <div><dt>constraint</dt><dd>{{ brief.constraint }}</dd></div>
+    {% endif %}
+  </dl>
+  <p class="essay-brief__directive">directive: trace, neutralize, harden. respond below.</p>
+</aside>
+{% endif %}

@@ -1,0 +1,116 @@
+---
+layout: default
+title: "projects — work on the wire"
+eyebrow: "[projects]"
+permalink: /projects/
+---
+
+{% assign data = site.data.projects %}
+
+<div class="container projects-page">
+  <header class="projects-header signal-header">
+    {% include signal-badge.html code="PROJECT" %}
+    <p class="page-eyebrow">[projects]</p>
+    <h1 class="page-title">work on the wire</h1>
+    <p class="projects-lede">Software I designed, shipped, and still maintain. A short public list — the rest is on GitHub.</p>
+  </header>
+
+  <section class="projects-featured">
+    {% include section-label.html num="00" title="featured transmissions" badge="PROJECT" %}
+    <div class="projects-featured-grid">
+      {% for project in data.featured %}
+      <article class="project-card panel">
+        {% if project.cover %}
+        <div class="project-card__cover">
+          <img src="{{ project.cover | relative_url }}" alt="" loading="lazy" width="800" height="160">
+        </div>
+        {% endif %}
+        <div class="project-card__body">
+          <div class="project-card__meta">
+            <span>{{ project.role }}</span>
+            <span>{{ project.period }}</span>
+          </div>
+          {% if project.headline %}
+          <p class="project-card__headline">{{ project.headline }}</p>
+          {% endif %}
+          <h2 class="project-card__title">
+            {% if project.href %}
+            <a href="{{ project.href }}" target="_blank" rel="noreferrer">{{ project.name }} ↗</a>
+            {% else %}
+            {{ project.name }}
+            {% endif %}
+          </h2>
+          {% if project.outcome %}
+          <p class="project-card__outcome">{{ project.outcome }}</p>
+          {% endif %}
+          <p>{{ project.body }}</p>
+          {% if project.quote %}
+          <blockquote class="project-card__quote">
+            <p>"{{ project.quote.text }}"</p>
+            <cite>— {{ project.quote.attribution }}</cite>
+          </blockquote>
+          {% endif %}
+          <div class="project-card__tags">
+            {% for tag in project.tags %}
+            <span class="project-tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="projects-craft">
+    {% include section-label.html num="01" title="craft & side channels" badge="PROJECT" %}
+    <div class="projects-craft-grid">
+      {% for item in data.craft %}
+      <article class="craft-card panel">
+        {% if item.cover %}
+        <div class="craft-card__cover">
+          <img src="{{ item.cover | relative_url }}" alt="" loading="lazy" width="400" height="80">
+        </div>
+        {% endif %}
+        <div class="craft-card__body">
+          <h2 class="craft-card__title">
+            {% if item.href %}
+            <a href="{{ item.href }}" target="_blank" rel="noreferrer">{{ item.name }} ↗</a>
+            {% else %}
+            {{ item.name }}
+            {% endif %}
+          </h2>
+          <p>{{ item.body }}</p>
+          {% if item.links.size > 0 %}
+          <ul class="craft-card__links">
+            {% for link in item.links %}
+            <li>
+              <a href="{{ link.href }}" target="_blank" rel="noreferrer">{{ link.label }} ↗</a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+          {% if item.tags.size > 0 %}
+          <div class="craft-card__tags">
+            {% for tag in item.tags %}
+            <span class="project-tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="projects-github">
+    {% include section-label.html num="02" title="everything else" badge="PROJECT" %}
+    <div class="projects-github-cta panel">
+      <p class="projects-github-cta__lede">Dozens of repos — samples, forks, experiments, and work-in-progress. The full index lives on GitHub, not here.</p>
+      <a class="projects-github-cta__link" href="https://github.com/jv-darkheartlabs" target="_blank" rel="noreferrer">github.com/jv-darkheartlabs ↗</a>
+    </div>
+  </section>
+
+  <p class="projects-cv-link">
+    <a href="{{ '/cv/' | relative_url }}">Occupation mapping & formal evidence → CV</a>
+  </p>
+</div>

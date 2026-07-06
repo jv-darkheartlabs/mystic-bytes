@@ -1,0 +1,28 @@
+{% assign sorted = site.essays | sort: "sort_key" | reverse %}
+{% assign current_index = nil %}
+{% for essay in sorted %}
+  {% if essay.url == page.url %}
+    {% assign current_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% if current_index != nil %}
+<nav class="essay-nav" aria-label="Essay navigation">
+  {% assign prev_index = current_index | plus: 1 %}
+  {% assign next_index = current_index | minus: 1 %}
+  {% if prev_index < sorted.size %}
+    {% assign prev = sorted[prev_index] %}
+    <a class="essay-nav__link essay-nav__link--prev" href="{{ prev.url | relative_url }}">
+      <span class="essay-nav__label">← prev</span>
+      <span class="essay-nav__title">№_{{ prev.number }} · {{ prev.title }}</span>
+    </a>
+  {% endif %}
+  {% if next_index >= 0 %}
+    {% assign next = sorted[next_index] %}
+    <a class="essay-nav__link essay-nav__link--next" href="{{ next.url | relative_url }}">
+      <span class="essay-nav__label">next →</span>
+      <span class="essay-nav__title">№_{{ next.number }} · {{ next.title }}</span>
+    </a>
+  {% endif %}
+</nav>
+{% endif %}

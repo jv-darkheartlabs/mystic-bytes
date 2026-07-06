@@ -1,0 +1,39 @@
+{% comment %}
+  Short monospace section badge, e.g. [MEDIA], [READ].
+  Pass code explicitly, or omit to derive from page.eyebrow.
+{% endcomment %}
+{% assign code = include.code %}
+{% unless code %}
+  {% assign raw = page.eyebrow | default: "" | remove: "[" | remove: "]" | upcase %}
+  {% case raw %}
+    {% when "LITERARY-ANALYSIS" %}
+      {% assign code = "READ" %}
+    {% when "MEDIA/WRITTEN" %}
+      {% assign code = "MEDIA" %}
+    {% when "MEDIA/ESSAYS" %}
+      {% assign code = "ESSAY" %}
+    {% when "MEDIA/PODCAST" %}
+      {% assign code = "AUDIO" %}
+    {% when "MEDIA/GALLERY" %}
+      {% assign code = "GALLERY" %}
+    {% when "MEDIA/VIDEO" %}
+      {% assign code = "VIDEO" %}
+    {% when "MEDIA/ALBUM" %}
+      {% assign code = "ALBUM" %}
+    {% when "MISSION" %}
+      {% assign code = "MISSION" %}
+    {% when "PROJECTS" %}
+      {% assign code = "PROJECT" %}
+    {% when "ABOUT" %}
+      {% assign code = "ABOUT" %}
+    {% when "CV" %}
+      {% assign code = "CV" %}
+    {% when "MEDIA" %}
+      {% assign code = "MEDIA" %}
+    {% else %}
+      {% assign code = raw | split: "/" | last | truncate: 10, "" %}
+  {% endcase %}
+{% endunless %}
+{% if code != empty %}
+<span class="signal-badge">[{{ code }}]</span>
+{% endif %}

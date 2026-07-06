@@ -1,0 +1,84 @@
+---
+layout: default
+---
+{% assign cat = site.data.reading_categories.categories[page.category] %}
+{% assign spice = site.data.reading_categories.spice_levels | where: "level", page.spice | first %}
+
+<article class="reading essay"{% if cat %} data-family="{{ cat.family }}"{% endif %}>
+  <div class="essay-inner">
+    <a class="essay-back" href="{{ '/media/literary-analysis/' | relative_url }}">← literary analysis</a>
+
+    <div class="essay-meta">
+      <span class="essay-signal">review_№_{{ page.number }}</span>
+      {% if page.date %}
+      <span class="essay-date">published {{ page.date | date: "%b %-d, %Y" }}</span>
+      {% endif %}
+      {% if page.date_read %}
+      <span class="essay-date essay-date--read">read {{ page.date_read | date: "%b %-d, %Y" }}</span>
+      {% endif %}
+      <span class="essay-badge essay-badge--type">literary analysis</span>
+    </div>
+
+    <div class="reading-hero">
+      {% if page.cover %}
+      <figure class="reading-cover">
+        <img src="{{ page.cover | relative_url }}" alt="Cover of {{ page.title }}" loading="lazy" width="120" height="180">
+      </figure>
+      {% endif %}
+      <div class="reading-hero__main">
+        <h1 class="essay-title">{{ page.title }}</h1>
+        {% if page.author %}
+        <p class="reading-author">
+          by
+          {% if page.author_url %}
+          <a href="{{ page.author_url }}" target="_blank" rel="noreferrer">{{ page.author }}</a>
+          {% else %}
+          {{ page.author }}
+          {% endif %}
+        </p>
+        {% endif %}
+        <div class="reading-meta">
+          {% if cat %}
+          <span class="reading-meta__cat">{{ cat.label }}</span>
+          {% endif %}
+          {% if spice %}
+          <span class="reading-meta__spice" title="spice level {{ page.spice }} · {{ spice.label }}">
+            {{ spice.peppers }} · {{ spice.label }}
+          </span>
+          {% endif %}
+        </div>
+        {% if page.dek %}
+        <p class="essay-dek reading-hero__dek">{{ page.dek }}</p>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if page.content_warnings.size > 0 %}
+    <aside class="reading-cw panel">
+      <span class="reading-cw__label">content notes</span>
+      <ul class="reading-cw__list">
+        {% for cw in page.content_warnings %}
+        <li>{{ cw }}</li>
+        {% endfor %}
+      </ul>
+    </aside>
+    {% endif %}
+
+    <div class="essay-body reading-body reading-body--book-club prose">
+      {{ content }}
+    </div>
+
+    {% if page.tags.size > 0 %}
+    <div class="reading-tags">
+      {% for tag in page.tags %}
+      <span class="reading-tag">#{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <footer class="essay-closing">
+      <span>CLOSING TRANSMISSION // REVIEW №_{{ page.number }}</span>
+      <span>— JV · Dark Heart Labs.</span>
+    </footer>
+  </div>
+</article>

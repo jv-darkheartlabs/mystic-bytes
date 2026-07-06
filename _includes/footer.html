@@ -1,0 +1,54 @@
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <div class="site-footer__grid">
+      <div>
+        <div class="site-footer__label">// signal</div>
+        <p class="site-footer__brand">DARK HEART LABS</p>
+        <p>{{ site.tagline }}</p>
+        <p class="site-footer__amber">{{ site.data.site.footer_tagline }}</p>
+      </div>
+      <div>
+        <div class="site-footer__label">// elsewhere</div>
+        <ul class="site-footer__links">
+          <li><a href="{{ site.data.site.social.spotify }}" target="_blank" rel="me noreferrer">spotify · podcast + album →</a></li>
+          <li><a href="{{ site.data.site.social.github }}" target="_blank" rel="me noreferrer">github.com/jv-darkheartlabs →</a></li>
+          <li><a href="{{ site.data.site.social.linkedin }}" target="_blank" rel="me noreferrer">linkedin/in/jenthedev →</a></li>
+          {% if site.data.site.social.instagram %}
+          <li><a href="{{ site.data.site.social.instagram }}" target="_blank" rel="me noreferrer">instagram @darkheartlabs →</a></li>
+          {% endif %}
+          {% if site.data.site.social.threads %}
+          <li><a href="{{ site.data.site.social.threads }}" target="_blank" rel="me noreferrer">threads @darkheartlabs →</a></li>
+          {% endif %}
+          {% if site.data.site.social.facebook %}
+          <li><a href="{{ site.data.site.social.facebook }}" target="_blank" rel="me noreferrer">facebook /darkheartlabs →</a></li>
+          {% endif %}
+          {% if site.data.site.social.twitch %}
+          <li><a href="{{ site.data.site.social.twitch }}" target="_blank" rel="me noreferrer">twitch /darkheartlabs →</a></li>
+          {% endif %}
+          {% if site.data.site.social.tiktok %}
+          <li><a href="{{ site.data.site.social.tiktok }}" target="_blank" rel="me noreferrer">tiktok @darkheartlabs →</a></li>
+          {% endif %}
+          {% if site.data.site.social.youtube %}
+          <li><a href="{{ site.data.site.social.youtube }}" target="_blank" rel="me noreferrer">youtube @darkheartlabs →</a></li>
+          {% endif %}
+          {% if site.data.site.social.discord %}
+          <li><a href="{{ site.data.site.social.discord }}" target="_blank" rel="me noreferrer">discord /darkheartlabs →</a></li>
+          {% endif %}
+        </ul>
+      </div>
+      <div>
+        <div class="site-footer__label">// coordinates</div>
+        <p>{{ site.data.site.coordinates }}</p>
+        <p>{{ site.data.site.location }}</p>
+        <p class="site-footer__muted">© {{ 'now' | date: '%Y' }} · MMXXVI</p>
+      </div>
+    </div>
+    <div class="site-footer__bar">
+      <span class="site-footer__teal">DARK HEART LABS // MMXXVI</span>
+      <span class="site-footer__signoff">
+        <span class="site-footer__diamond" aria-hidden="true">◇</span>
+        <span class="site-footer__amber">{{ site.data.site.sign_off }}</span>
+      </span>
+    </div>
+  </div>
+</footer>

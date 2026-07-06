@@ -1,0 +1,84 @@
+---
+layout: default
+---
+<article class="podcast-episode">
+  <div class="essay-inner">
+    <a class="essay-back" href="{{ '/media/podcast/' | relative_url }}">← /media/podcast</a>
+
+    <div class="essay-meta">
+      <span class="essay-signal">ep_{{ page.number }}</span>
+      {% if page.date %}
+      <span class="essay-date">{{ page.date | date: "%b %-d, %Y" }}</span>
+      {% endif %}
+      {% if page.duration %}
+      <span class="essay-date">{{ page.duration }}</span>
+      {% endif %}
+    </div>
+
+    <h1 class="essay-title">{{ page.title }}</h1>
+    {% if page.dek %}
+    <p class="essay-dek">{{ page.dek }}</p>
+    {% endif %}
+
+    <div class="prose podcast-summary">
+      {{ content }}
+    </div>
+
+    {% if page.related_transmission %}
+    {% assign related = site.essays | where: "name", page.related_transmission | first %}
+    {% if related %}
+    <p class="podcast-related">
+      related transmission:
+      <a href="{{ related.url | relative_url }}">№_{{ related.number }} — {{ related.title }}</a>
+    </p>
+    {% endif %}
+    {% endif %}
+
+    {% if page.chapters %}
+    <section class="podcast-chapters panel">
+      <h2 class="cv-section__title">&gt;_ chapters</h2>
+      <ol class="podcast-chapter-list">
+        {% for ch in page.chapters %}
+        <li><span class="podcast-chapter__time">{{ ch.time }}</span> {{ ch.label }}</li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endif %}
+
+    {% if page.key_ideas %}
+    <section class="podcast-ideas panel">
+      <h2 class="cv-section__title">&gt;_ key ideas</h2>
+      <ul>
+        {% for idea in page.key_ideas %}
+        <li>{{ idea }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+    {% if page.show_notes_links %}
+    <section class="podcast-notes panel">
+      <h2 class="cv-section__title">&gt;_ show notes</h2>
+      <ul class="podcast-notes-list">
+        {% for link in page.show_notes_links %}
+        <li><a href="{{ link.url }}" target="_blank" rel="noreferrer">{{ link.label }} ↗</a></li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+    <div class="podcast-embed panel">
+      <iframe
+        style="border-radius:12px"
+        src="https://open.spotify.com/embed/show/{{ site.data.site.spotify.show_id }}?utm_source=generator&theme=0"
+        width="100%"
+        height="152"
+        frameBorder="0"
+        allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"
+        title="Listen on Spotify"
+      ></iframe>
+    </div>
+  </div>
+</article>

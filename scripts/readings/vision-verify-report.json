@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-07-05T20:34:05.638Z",
+  "options": {
+    "limit": null,
+    "offset": 0,
+    "slug_filter": [
+      "collide"
+    ],
+    "resume": false,
+    "escalate": false
+  },
+  "stats": {
+    "verified": 1,
+    "high": 1,
+    "low": 0,
+    "mismatch": 0,
+    "errors": 0,
+    "total_results": 1
+  },
+  "mismatches": [],
+  "results": [
+    {
+      "slug": "collide",
+      "expected_title": "Collide",
+      "expected_author": "Bal Khabra",
+      "category": "enemies-to-lovers",
+      "asset": "/Users/jenthedev/Projects/mystic-bytes/assets/readings/collide.jpg",
+      "source": "/Users/jenthedev/Pictures/bookish/BookCovers/enemies-to-lovers/collide--bal-khabra.jpeg",
+      "verify_target": "asset",
+      "image_verified": "/Users/jenthedev/Projects/mystic-bytes/assets/readings/collide.jpg",
+      "manifest_id": "enemies-to-lovers/26131.jpeg",
+      "match": "high",
+      "confidence": 1,
+      "titleScore": 1,
+      "authorScore": 1,
+      "detected_title": "Collide",
+      "detected_author": "Bal Khabra",
+      "cover_readable": true,
+      "notes": ""
+    }
+  ]
+}

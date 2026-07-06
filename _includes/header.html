@@ -1,0 +1,50 @@
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-brand" href="{{ '/' | relative_url }}">
+      {% include signal-mark.html %}
+      <span class="site-brand__text">
+        <span class="site-brand__title">DARK HEART LABS</span>
+        <span class="site-brand__coords">{{ site.data.site.coordinates }}</span>
+      </span>
+    </a>
+
+    <button
+      type="button"
+      class="nav-toggle"
+      aria-expanded="false"
+      aria-controls="site-nav"
+      aria-label="Open navigation menu"
+    >
+      <span class="nav-toggle__bar"></span>
+      <span class="nav-toggle__bar"></span>
+      <span class="nav-toggle__bar"></span>
+    </button>
+
+    <nav id="site-nav" class="site-nav" aria-label="Primary">
+      <button type="button" class="site-nav__search" id="search-toggle" aria-expanded="false" aria-controls="site-search">
+        search ⌕
+      </button>
+      {% for item in site.data.navigation %}
+      {% assign nav_active = false %}
+      {% if item.exact %}
+        {% if page.url == item.url %}
+          {% assign nav_active = true %}
+        {% endif %}
+      {% elsif item.url != '/' %}
+        {% if page.url == item.url or page.url contains item.url %}
+          {% assign nav_active = true %}
+        {% endif %}
+      {% endif %}
+      <a
+        class="site-nav__link{% if nav_active %} is-active{% endif %}"
+        href="{{ item.url | relative_url }}"
+      >{{ item.label }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+  <div id="site-search" class="site-search" hidden>
+    <div class="container">
+      <div id="pagefind-search"></div>
+    </div>
+  </div>
+</header>

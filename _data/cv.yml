@@ -1,0 +1,117 @@
+name: Jennifer Vise Picado
+intro: "Developer Programmer with 25+ years across iOS/macOS development, web, UI/UX, and infrastructure tooling. Currently based in Louisiana, US; relocating to Auckland, NZ in 2027 (on-ground interviews Dec 2026 – Feb 2027). Remote-first; open to contract, freelance, or permanent engagements."
+primary_code: 261312
+supporting_codes:
+  - 261212
+  - 263111
+  - 262113
+anzsco:
+  261212:
+    title: Web Developer
+    role: Supporting specialisation
+    summary: "Designs, builds, integrates, optimises, tests, and maintains websites and web applications across the front-end and server-side."
+    duties:
+      - Analyse user needs and translate them into web functionality
+      - "Design, build, and integrate accessible front-end and server-side components"
+      - "Optimise sites for performance, accessibility (WCAG 2.1 AA), and SEO"
+      - Debug and maintain published web properties and supporting deployment pipelines
+  261312:
+    title: Developer Programmer
+    role: Primary nominated occupation
+    summary: "Interprets specifications, designs and develops, tests, debugs, documents, and maintains program code across iOS/macOS, web, and tooling stacks."
+    duties:
+      - Interpret specifications and translate requirements into program designs
+      - "Write, test, and maintain program code against documented standards"
+      - "Modify existing code to correct errors, adapt to new requirements, and improve performance"
+      - "Write and maintain technical documentation, release notes, and code-review artefacts"
+      - "Use consistent programming standards across Swift, TypeScript, Ruby, Rust, and Python codebases"
+  262113:
+    title: Systems Administrator
+    role: Supporting specialisation
+    summary: "Maintains, configures, and automates computer systems and developer workspaces to keep services and tooling operational and reproducible."
+    duties:
+      - "Maintain and configure macOS, Linux, and developer workspace environments"
+      - Automate provisioning and reproducible setup via shell tooling and dotfiles
+      - "Evaluate, integrate, and document software tooling across teams"
+      - Provide tier-2/tier-3 support and onboarding documentation for technical staff
+  263111:
+    title: Computer Network and Systems Engineer
+    role: Supporting specialisation
+    summary: "Plans, develops, deploys, tests, and optimises infrastructure used to run software systems, including build, deployment, and observability pipelines."
+    duties:
+      - Design and maintain CI/CD pipelines and container-based deployment topologies
+      - Plan migrations across operating system generations and runtime environments
+      - Configure and monitor proxy-layer policies (e.g. Envoy) and network-adjacent controls
+      - "Troubleshoot performance, capacity, and reliability across distributed deployments"
+experience:
+  -
+    org: Independent / Personal Projects
+    role: Open-Source Developer · UI/UX
+    period: 2024 — Present
+    location: "Remote (Louisiana, US → Auckland, NZ 2027)"
+    codes:
+      - 261312
+      - 261212
+      - 263111
+    summary: "Independent development of macOS productivity software, proxy-layer focus tooling, and accessible web component libraries during caretaker leave."
+    duties:
+      -
+        code: 261312
+        text: "Designed, wrote, tested, and maintained NeuroShell — a Swift/SwiftUI macOS terminal and AI productivity suite — including specification, architecture, and release engineering through v2 and into v3."
+      -
+        code: 261312
+        text: "Implemented AI-assisted command parsing, session-recovery state machines, and accessibility settings layers against documented behavioural specifications."
+      -
+        code: 263111
+        text: "Authored focus-guard, a Rust-based Envoy dynamic module that enforces deep-work policies at the proxy layer; planned the configuration and deployment model for team-scale rollout."
+      -
+        code: 261212
+        text: "Built and maintained accessibility-rails-components, a WCAG 2.1 AA ViewComponents library with keyboard-first patterns and Stimulus controllers, derived from real audit findings."
+      -
+        code: 261312
+        text: "Maintained version control, code review, and release standards across 25+ public repositories under github.com/jv-darkheartlabs."
+  -
+    org: DigitalSpellCraft LLC
+    role: iOS/macOS Developer · UI/UX · IT Specialist
+    period: 2015 — 2024
+    location: "Remote, United States"
+    codes:
+      - 261312
+      - 263111
+      - 262113
+    summary: "Full-cycle Apple-platform development, AI integration, and infrastructure modernisation for a distributed creative-technology studio."
+    duties:
+      -
+        code: 261312
+        text: "Designed and developed iOS and macOS applications using Swift, SwiftUI, and Xcode against documented user requirements and accessibility specifications."
+      -
+        code: 261312
+        text: "Modified and refactored existing Swift/Objective-C code to correct defects, improve performance, and adapt to new Apple SDK generations."
+      -
+        code: 261312
+        text: "Integrated local LLM (Ollama) and GPT-based tooling into developer workflows and conversational UI, including prompt design and structured-output validation."
+      -
+        code: 263111
+        text: "Led macOS and Linux migration programmes (Snow Leopard through current releases) and introduced Docker containerisation for reproducible, scalable deployments."
+      -
+        code: 262113
+        text: "Maintained and configured developer workspaces, build infrastructure, and async collaboration tooling (GitHub, Slack, Discord) across distributed contributors."
+  -
+    org: 365 Connect LLC
+    role: Graphic Designer · UI/UX · DevOps
+    period: 2003 — 2015
+    location: On-site 2003–2007; remote 2007–2015
+    codes:
+      - 261212
+      - 262113
+    summary: "Front-end and design-systems work for an enterprise property-management platform, with infrastructure-adjacent tooling evaluation and integration."
+    duties:
+      -
+        code: 261212
+        text: "Refined and maintained front-end elements of enterprise property-management web applications to improve usability, accessibility, and cross-browser compatibility."
+      -
+        code: 261212
+        text: Built and maintained visual design systems and component libraries using Adobe Creative Suite; delivered training to senior technical staff.
+      -
+        code: 262113
+        text: "Evaluated, integrated, and documented software tooling across company platforms, ensuring performance, compatibility, and reproducible installation."
