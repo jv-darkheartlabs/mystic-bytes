@@ -374,25 +374,6 @@ writeYamlFile(path.join(root, "_data/about.yml"), {
   },
 });
 
-// ── Mission control ─────────────────────────────────────────────────
-writeYamlFile(path.join(root, "_data/mission.yml"), {
-  tenets: [
-    { n: "I", head: "the signal is kindness, sharpened.", body: "we do not ship cruelty disguised as cleverness. every interface is a hand offered in the dark — make it steady, make it warm, make it load." },
-    { n: "II", head: "build for the neurodivergent first.", body: "if it works for the tired mind at 2am, it works for the boardroom at noon. accessibility is not a feature flag; it is the keel of the ship." },
-    { n: "III", head: "the void is a collaborator, not a wound.", body: "we court silence. we let the long pause finish its sentence. craft happens between transmissions, not inside the noise." },
-    { n: "IV", head: "open the source, close the leak.", body: "what belongs to the commons returns to the commons. what belongs to the patron stays sealed. the working is private; the tooling is not." },
-    { n: "V", head: "romance the machine — but lead it.", body: "the model is a familiar, not an oracle. we pour the wine, we set the table, we ask the better question. the human signs the work." },
-  ],
-  timeline: [
-    { stardate: "MMXXVII", era: "the long crossing", title: "full relocation — hemispheres swapped", body: "Louisiana folded, Auckland unsealed. the studio moves south for good; the orchid dark widens to make room for a hemisphere change.", tag: "next" },
-    { stardate: "MMXXVI · Dec → MMXXVII · Feb", era: "the crossing window", title: "Auckland, in person", body: "on the ground at 36°51S 174°45E for interviews and introductions. papers stamped, keys waiting. NeuroShell v3 in the forge between meetings.", tag: "now" },
-    { stardate: "MMXXV · ember", era: "the recognition", title: "human-focused AI award", body: "Tetrate Buildathon, selected from 170+ applicants. cited for putting the model in service of the human, not the inverse. a small bell rung in a large hall.", tag: "honor" },
-    { stardate: "MMXXV · velvet", era: "first cut", title: "neuroshell v1 — the candle lit", body: "open-source terminal + AI productivity suite for macOS, written for ADHD minds by one. shipped quiet; found loud." },
-    { stardate: "MMXXIV", era: "the long apprenticeship", title: "the album, the podcast, the page", body: "spoken workings cut to vinyl-of-the-air. long-form prose tuned to stranger frequencies. the site you are reading taught itself to glow." },
-    { stardate: "MM — MMXXIV", era: "the deep archive", title: "25 years on the wire", body: "UI/UX, brand systems, iOS/macOS development. studios, agencies, small ferocious teams. every project a séance with a deadline." },
-  ],
-});
-
 // ── Podcast ─────────────────────────────────────────────────────────
 writeYamlFile(path.join(root, "_data/media.yml"), {
   album_tracks: [
