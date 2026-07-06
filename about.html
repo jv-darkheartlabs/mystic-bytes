@@ -74,7 +74,7 @@ redirect_from:
     <div class="artifacts-grid">
       {% for artifact in about.artifacts %}
       <article class="artifact-card panel">
-        <span class="cv-code-pill">{{ artifact.code }}</span>
+        <span class="artifact-card__role">{{ artifact.role }}</span>
         <h3>{{ artifact.title }}</h3>
         <p>{{ artifact.blurb }}</p>
         {% if artifact.links.size > 0 %}

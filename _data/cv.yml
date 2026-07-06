@@ -1,9 +1,10 @@
 name: Jennifer Vise Picado
-intro: "Developer Programmer with 25+ years across iOS/macOS development, web, UI/UX, and infrastructure tooling. Currently based in Louisiana, US; relocating to Auckland, NZ in 2027 (on-ground interviews Dec 2026 – Feb 2027). Remote-first; open to contract, freelance, or permanent engagements."
+headline: Developer Programmer
+location_line: "Louisiana, US → Auckland, NZ (2027)"
+intro: "Developer Programmer with 25+ years in iOS/macOS and web development. Strengths in accessibility (WCAG 2.1 AA), technical documentation, and code review. Based in Louisiana, US; relocating to Auckland, New Zealand (2027). NZ eTA approved for on-ground employer interviews (Dec 2026–Feb 2027). Australian business visitor visa approved — open to roles with AU employers while based in New Zealand. Seeking employer-sponsored work visa for New Zealand; open to remote, contract, or permanent roles."
 primary_code: 261312
 supporting_codes:
   - 261212
-  - 263111
   - 262113
 anzsco:
   261212:
@@ -45,7 +46,7 @@ anzsco:
       - "Troubleshoot performance, capacity, and reliability across distributed deployments"
 experience:
   -
-    org: Independent / Personal Projects
+    org: Dark Heart Labs — Independent / Open Source
     role: Open-Source Developer · UI/UX
     period: 2024 — Present
     location: "Remote (Louisiana, US → Auckland, NZ 2027)"
