@@ -1454,13 +1454,13 @@ export const projects: Project[] = [
     tags: ["Envoy", "Rust", "Focus tooling", "Proxy", "Open source"],
   },
   {
-    name: "cursor-themes",
+    name: "dark-heart-themes",
     role: "Creator & Maintainer",
     period: "2026 — Present",
-    href: "https://github.com/jv-darkheartlabs/cursor-themes",
+    href: "https://github.com/jv-darkheartlabs/dark-heart-themes",
     cover: coverCraft,
-    body: "Cyberpunk and Magic: The Gathering theme collections ported to Cursor from their Zed originals. A growing catalogue tuned for long sessions, high contrast, and editor-specific token coverage — install, fork, remix.",
-    tags: ["Cursor", "Themes", "Python", "Design", "Open source"],
+    body: "Cyberpunk and Magic: The Gathering theme collections for Cursor and Zed. Merged home for editor palettes — high contrast, long-session, install, fork, remix.",
+    tags: ["Cursor", "Zed", "Themes", "Design", "Open source"],
   },
   {
     name: "accessibility-rails-components",
@@ -1505,31 +1505,13 @@ export const repositories: Repo[] = [
       "ANZSCO 261313: Envoy dynamic module that enforces focus-mode policies at the proxy layer. Distractions blocked upstream of the browser.",
   },
   {
-    name: "cursor-themes",
-    href: "https://github.com/jv-darkheartlabs/cursor-themes",
+    name: "dark-heart-themes",
+    href: "https://github.com/jv-darkheartlabs/dark-heart-themes",
     lang: "Python",
-    updated: "2026-06",
+    updated: "2026-07",
     status: "active",
     blurb:
-      "ANZSCO 261312: Cyberpunk and Magic: The Gathering theme collections ported to Cursor from their Zed originals.",
-  },
-  {
-    name: "cyberpunk-zed-themes",
-    href: "https://github.com/jv-darkheartlabs/cyberpunk-zed-themes",
-    lang: "Shell",
-    updated: "2026-06",
-    status: "active",
-    blurb:
-      "ANZSCO 261312: Cyberpunk-cinema colour schemes for the Zed editor. Dark, high-contrast palettes tuned for long sessions.",
-  },
-  {
-    name: "zed-mtg-themes",
-    href: "https://github.com/jv-darkheartlabs/zed-mtg-themes",
-    lang: "Python",
-    updated: "2026-06",
-    status: "active",
-    blurb:
-      "ANZSCO 261312: Extensive Magic: The Gathering–inspired theme collection for Zed. Forkable and adaptable to other editors.",
+      "ANZSCO 261312: Cyberpunk and Magic: The Gathering theme collections for Cursor and Zed. Merged editor palettes — high contrast, long-session, forkable.",
   },
   {
     name: "accessibility-rails-components",

@@ -49,19 +49,10 @@ featured:
       - Open source
 craft:
   -
-    name: Editor themes
+    name: dark heart themes
+    href: "https://github.com/jv-darkheartlabs/dark-heart-themes"
     cover: /assets/images/cover-craft.svg
     body: "Cyberpunk and Magic: The Gathering colour schemes for Cursor and Zed. High contrast, long-session palettes — install, fork, remix."
-    links:
-      -
-        label: cursor-themes
-        href: "https://github.com/jv-darkheartlabs/cursor-themes"
-      -
-        label: cyberpunk-zed-themes
-        href: "https://github.com/jv-darkheartlabs/cyberpunk-zed-themes"
-      -
-        label: zed-mtg-themes
-        href: "https://github.com/jv-darkheartlabs/zed-mtg-themes"
     tags:
       - Cursor
       - Zed
@@ -94,29 +85,13 @@ repositories:
     visibility: github-only
     blurb: "Envoy dynamic module that enforces focus-mode policies at the proxy layer. Distractions blocked upstream of the browser."
   -
-    name: cursor-themes
-    href: "https://github.com/jv-darkheartlabs/cursor-themes"
+    name: dark-heart-themes
+    href: "https://github.com/jv-darkheartlabs/dark-heart-themes"
     lang: Python
-    updated: 2026-06
+    updated: 2026-07
     status: active
     visibility: github-only
-    blurb: "Cyberpunk and Magic: The Gathering theme collections ported to Cursor from their Zed originals."
-  -
-    name: cyberpunk-zed-themes
-    href: "https://github.com/jv-darkheartlabs/cyberpunk-zed-themes"
-    lang: Shell
-    updated: 2026-06
-    status: active
-    visibility: github-only
-    blurb: "Cyberpunk-cinema colour schemes for the Zed editor. Dark, high-contrast palettes tuned for long sessions."
-  -
-    name: zed-mtg-themes
-    href: "https://github.com/jv-darkheartlabs/zed-mtg-themes"
-    lang: Python
-    updated: 2026-06
-    status: active
-    visibility: github-only
-    blurb: "Extensive Magic: The Gathering–inspired theme collection for Zed. Forkable and adaptable to other editors."
+    blurb: "Cyberpunk and Magic: The Gathering theme collections for Cursor and Zed. Merged home for editor palettes — high contrast, long-session, forkable."
   -
     name: accessibility-rails-components
     href: "https://github.com/jv-darkheartlabs/accessibility-rails-components"
