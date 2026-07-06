@@ -17,7 +17,7 @@ permalink: /cv/
         <h1 class="page-title">{{ cv.name }}</h1>
         <p class="cv-headline">{{ cv.headline }}</p>
       </div>
-      <button type="button" class="btn-outline cv-print-btn" onclick="window.print()">Save as PDF</button>
+      <button type="button" class="btn-outline cv-print-btn">Save as PDF</button>
     </div>
     <div class="cv-contact">
       <a href="mailto:{{ site.email }}">{{ site.email }}</a>
@@ -150,3 +150,4 @@ permalink: /cv/
     </aside>
   </div>
 </div>
+<script src="{{ '/assets/js/cv-print.js' | relative_url }}" defer></script>
