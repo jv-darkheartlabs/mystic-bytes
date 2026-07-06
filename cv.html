@@ -1,65 +1,50 @@
 ---
 layout: default
-title: "cv — ANZSCO evidence"
+title: "cv — Jennifer Vise Picado"
 eyebrow: "[cv]"
 permalink: /cv/
 ---
 
 {% assign cv = site.data.cv %}
 {% assign skills = site.data.skills.groups %}
-{% assign tags = site.data.status_tags.tags %}
 
 <div class="container cv-page">
   <header class="cv-header signal-header">
     {% include signal-badge.html code="CV" %}
     <p class="page-eyebrow">[cv]</p>
-    <h1 class="page-title">{{ cv.name }}</h1>
-    <p class="cv-intro">{{ cv.intro }}</p>
-    <div class="cv-status-tags">
-      {% for tag in tags %}
-      <span class="cv-tag">{{ tag }}</span>
-      {% endfor %}
+    <div class="cv-header__top">
+      <div class="cv-header__identity">
+        <h1 class="page-title">{{ cv.name }}</h1>
+        <p class="cv-headline">{{ cv.headline }}</p>
+      </div>
+      <button type="button" class="btn-outline cv-print-btn" onclick="window.print()">Save as PDF</button>
+    </div>
+    <div class="cv-contact">
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      <span class="cv-contact__sep">·</span>
+      <a href="{{ site.data.site.social.linkedin }}" target="_blank" rel="noreferrer">linkedin.com/in/jenthedev</a>
+      <span class="cv-contact__sep">·</span>
+      <span>{{ cv.location_line }}</span>
+    </div>
+    <section class="cv-summary" aria-labelledby="cv-summary-heading">
+      <h2 id="cv-summary-heading" class="cv-section__title">Professional Summary</h2>
+      <p class="cv-intro">{{ cv.intro }}</p>
+    </section>
+    <div class="cv-apply-strip panel">
+      <p class="cv-apply-strip__label">Applying under (NZ skilled migration)</p>
+      <p class="cv-apply-strip__codes cv-apply-strip__codes--verbose">
+        <strong>{{ cv.primary_code }} {{ cv.anzsco[cv.primary_code].title }}</strong> (primary)<span class="cv-apply-strip__sep"> · </span>
+        {% for code in cv.supporting_codes %}
+        {{ code }} {{ cv.anzsco[code].title }}{% unless forloop.last %}<span class="cv-apply-strip__sep"> · </span>{% endunless %}
+        {% endfor %}
+      </p>
     </div>
   </header>
 
   <div class="cv-grid">
     <div class="cv-main">
-      <section class="cv-section panel">
-        <h2 class="cv-section__title">&gt;_ nominated occupation</h2>
-        {% assign primary = cv.anzsco[cv.primary_code] %}
-        <div class="cv-anzsco cv-anzsco--primary">
-          <div class="cv-anzsco__code">ANZSCO {{ cv.primary_code }}</div>
-          <h3>{{ primary.title }}</h3>
-          <p class="cv-anzsco__role">{{ primary.role }}</p>
-          <p>{{ primary.summary }}</p>
-          <ul>
-            {% for duty in primary.duties %}
-            <li>{{ duty }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-
-      <section class="cv-section panel">
-        <h2 class="cv-section__title">&gt;_ supporting specialisations</h2>
-        {% for code in cv.supporting_codes %}
-        {% assign spec = cv.anzsco[code] %}
-        <article class="cv-anzsco">
-          <div class="cv-anzsco__code">ANZSCO {{ code }}</div>
-          <h3>{{ spec.title }}</h3>
-          <p class="cv-anzsco__role">{{ spec.role }}</p>
-          <p>{{ spec.summary }}</p>
-          <ul>
-            {% for duty in spec.duties %}
-            <li>{{ duty }}</li>
-            {% endfor %}
-          </ul>
-        </article>
-        {% endfor %}
-      </section>
-
-      <section class="cv-section">
-        <h2 class="cv-section__title">&gt;_ experience trace</h2>
+      <section class="cv-section" aria-labelledby="cv-experience-heading">
+        <h2 id="cv-experience-heading" class="cv-section__title">Experience</h2>
         {% for job in cv.experience %}
         <article class="cv-job panel">
           <div class="cv-job__head">
@@ -73,14 +58,9 @@ permalink: /cv/
             </div>
           </div>
           <p class="cv-job__summary">{{ job.summary }}</p>
-          <div class="cv-job__codes">
-            {% for code in job.codes %}
-            <span class="cv-code-pill">ANZSCO {{ code }}</span>
-            {% endfor %}
-          </div>
           <ul class="cv-job__duties">
             {% for duty in job.duties %}
-            <li><span class="cv-code-pill cv-code-pill--sm">{{ duty.code }}</span> {{ duty.text }}</li>
+            <li>{% if duty.text %}{{ duty.text }}{% else %}{{ duty }}{% endif %}</li>
             {% endfor %}
           </ul>
         </article>
@@ -89,8 +69,8 @@ permalink: /cv/
     </div>
 
     <aside class="cv-sidebar">
-      <section class="cv-section panel">
-        <h2 class="cv-section__title">&gt;_ skills matrix</h2>
+      <section class="cv-section panel" aria-labelledby="cv-skills-heading">
+        <h2 id="cv-skills-heading" class="cv-section__title">Skills</h2>
         {% for group in skills %}
         <div class="cv-skill-group">
           <h3>{{ group.title }}</h3>
@@ -103,10 +83,10 @@ permalink: /cv/
         {% endfor %}
       </section>
 
-      <section class="cv-section panel">
-        <h2 class="cv-section__title">&gt;_ open channel</h2>
-        <p class="cv-sidebar__text">Remote-first. Contract, freelance, or permanent. Visa sponsorship welcome.</p>
-        <a class="btn-outline" href="{{ '/contact/' | relative_url }}">send a raven →</a>
+      <section class="cv-section panel" aria-labelledby="cv-contact-heading">
+        <h2 id="cv-contact-heading" class="cv-section__title">Contact</h2>
+        <p class="cv-sidebar__text">Remote-first. Contract, freelance, or permanent. Seeking employer-sponsored work visa for New Zealand.</p>
+        <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact form →</a>
         <div class="cv-social">
           <a href="{{ site.data.site.social.github }}" target="_blank" rel="noreferrer">github ↗</a>
           <a href="{{ site.data.site.social.linkedin }}" target="_blank" rel="noreferrer">linkedin ↗</a>

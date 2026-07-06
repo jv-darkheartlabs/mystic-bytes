@@ -1477,10 +1477,11 @@ section:has(> .section-label):not(.mission-timeline) {
 
 .cv-section__title {
   @include font-mono;
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.18em;
-  color: var(--teal);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: 0.02em;
+  color: var(--foreground);
   margin: 0 0 1rem;
 }
 
@@ -1501,10 +1502,58 @@ section:has(> .section-label):not(.mission-timeline) {
 }
 
 .cv-intro {
-  margin-top: 1rem;
+  margin-top: 0;
   max-width: 48rem;
   color: var(--muted-foreground);
   line-height: 1.625;
+}
+
+.cv-header__top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 0.25rem;
+}
+
+.cv-headline {
+  margin: 0.35rem 0 0;
+  @include font-mono;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  color: var(--teal);
+}
+
+.cv-contact {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.5rem;
+  margin-top: 0.75rem;
+  @include font-mono;
+  font-size: 0.75rem;
+  color: var(--muted-foreground);
+
+  a {
+    color: var(--foreground);
+
+    &:hover {
+      color: var(--teal);
+    }
+  }
+
+  &__sep {
+    color: color-mix(in oklab, var(--muted-foreground) 70%, transparent);
+  }
+}
+
+.cv-summary {
+  margin-top: 1.25rem;
+}
+
+.cv-print-btn {
+  flex-shrink: 0;
 }
 
 .cv-status-tags {
@@ -1512,6 +1561,59 @@ section:has(> .section-label):not(.mission-timeline) {
   flex-wrap: wrap;
   gap: 0.5rem;
   margin-top: 1.25rem;
+}
+
+.cv-apply-strip {
+  margin-top: 1.25rem;
+  max-width: 48rem;
+
+  &__label {
+    @include font-mono;
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--muted-foreground);
+    margin: 0 0 0.5rem;
+  }
+
+  &__codes {
+    margin: 0;
+    @include font-mono;
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    color: var(--foreground);
+  }
+
+  &__code {
+    text-decoration: none;
+    cursor: help;
+    border-bottom: 1px dotted color-mix(in oklab, var(--teal) 45%, transparent);
+
+    &--primary {
+      color: var(--teal);
+      font-weight: 600;
+    }
+  }
+
+  &__primary-note {
+    color: var(--muted-foreground);
+    font-size: 0.75rem;
+  }
+
+  &__sep {
+    margin-inline: 0.15rem;
+    color: var(--muted-foreground);
+  }
+
+  &__codes--verbose {
+    font-size: 0.75rem;
+    line-height: 1.55;
+
+    strong {
+      color: var(--teal);
+      font-weight: 600;
+    }
+  }
 }
 
 .cv-grid {
@@ -1996,6 +2098,15 @@ section:has(> .section-label):not(.mission-timeline) {
 .artifact-card {
   @include panel;
   padding: 1.25rem;
+
+  &__role {
+    display: inline-block;
+    @include font-mono;
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--muted-foreground);
+  }
 }
 
 .about-mission {
@@ -2442,3 +2553,52 @@ section:has(> .section-label):not(.mission-timeline) {
 }
 
 .podcast-summary { margin-top: 1.5rem; }
+
+@media print {
+  .site-header,
+  .site-footer,
+  .atmosphere,
+  .cv-print-btn,
+  .signal-badge,
+  .page-eyebrow,
+  .essay-back,
+  .btn-outline {
+    display: none !important;
+  }
+
+  .site-main {
+    padding-block: 0;
+  }
+
+  .cv-page .panel {
+    border: 1px solid #ccc;
+    box-shadow: none;
+    break-inside: avoid;
+  }
+
+  .cv-grid {
+    display: block;
+    margin-top: 1rem;
+  }
+
+  .cv-sidebar {
+    margin-top: 1.5rem;
+  }
+
+  .cv-header.signal-header::after,
+  .cv-page .panel::after {
+    display: none !important;
+  }
+
+  body {
+    background: #fff;
+    color: #111;
+  }
+
+  .cv-intro,
+  .cv-job__summary,
+  .cv-job__duties,
+  .cv-skill-list {
+    color: #333;
+  }
+}
