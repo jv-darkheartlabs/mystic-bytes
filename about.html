@@ -26,12 +26,19 @@ permalink: /about/
   </section>
 
   <section class="about-tenets">
-    {% include section-label.html num="00" title="operating tenets" badge="ABOUT" %}
-    <div class="tenets-grid">
+    {% include section-label.html num="00" title="rules we build by" badge="ABOUT" %}
+    {% if about.mission_statement %}
+    <blockquote class="about-mission">
+      <p class="about-mission__statement">{{ about.mission_statement }}</p>
+      {% if about.mission_plain %}
+      <p class="about-mission__plain">{{ about.mission_plain }}</p>
+      {% endif %}
+    </blockquote>
+    {% endif %}
+    <div class="tenets-grid tenets-grid--rules">
       {% for tenet in about.tenets %}
       <article class="tenet-card panel">
-        <h2>{{ tenet.title }}</h2>
-        <p>{{ tenet.body }}</p>
+        <p class="tenet-card__line">{{ tenet.line }}</p>
       </article>
       {% endfor %}
     </div>

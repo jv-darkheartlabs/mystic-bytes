@@ -1998,6 +1998,42 @@ section:has(> .section-label):not(.mission-timeline) {
   padding: 1.25rem;
 }
 
+.about-mission {
+  margin: 0 0 1rem;
+  padding: 1rem 1.25rem;
+  border-left: 2px solid color-mix(in oklab, var(--violet) 45%, var(--border));
+
+  &__statement {
+    margin: 0;
+    font-family: var(--font-serif);
+    font-size: 1.125rem;
+    font-style: italic;
+    line-height: 1.45;
+    color: var(--foreground);
+  }
+
+  &__plain {
+    margin: 0.75rem 0 0;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    color: var(--muted-foreground);
+  }
+}
+
+.tenet-card__line {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  line-height: 1.45;
+  color: var(--foreground);
+}
+
+.tenets-grid--rules {
+  @media (min-width: 640px) {
+    grid-template-columns: 1fr;
+  }
+}
+
 .manual-card dl div { margin-bottom: 0.75rem; }
 
 .manual-card dt {

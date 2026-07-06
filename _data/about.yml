@@ -13,16 +13,19 @@ specs:
   -
     label: fuel_type
     value: ☕ Coffee. Always coffee.
+mission_statement: "A candle held against the wire — kind, and burning still."
+mission_plain: "Useful, kind work that still helps when the world is loud."
 tenets:
   -
-    title: "Creativity & innovation"
-    body: "New ideas beat the way we've always done it. Hear the wild one out before you shut it down."
+    line: "Useful work only — it must help a real person."
   -
-    title: Efficiency over polish
-    body: "Ship it. Don't over-polish what isn't needed. If I do something twice, I'll automate it."
+    line: "Quiet against noise — focus protected from the always-on world."
   -
-    title: Always leveling up
-    body: "Tools, skills, mindset. Learning is the job, not a perk."
+    line: "Human hands, human yes — AI helps; people lead and approve what ships."
+  -
+    line: "Built for loud minds — tools that respect brains that do not sit still."
+  -
+    line: "Open tools, sealed work — share what we can; some things stay private on purpose."
 manual:
   warn:
     title: How I might annoy you
