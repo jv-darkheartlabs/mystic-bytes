@@ -1,0 +1,90 @@
+# Dark Heart Labs — darkheartlabs.technology
+title: "JV · Dark Heart Labs"
+tagline: "code // creativity // the technical void"
+description: "Essays on code and creativity. Dark Heart Labs — technical signal and literary analysis."
+url: "https://darkheartlabs.technology"
+baseurl: ""
+email: jv@darkheartlabs.technology
+author: Jennifer Vise Picado
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+future: false
+
+collections:
+  essays:
+    output: true
+    permalink: /p/:name/
+  podcast:
+    output: true
+    permalink: /media/podcast/:name/
+  readings:
+    output: true
+    permalink: /r/:name/
+  gallery:
+    output: true
+    permalink: /media/gallery/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: essays
+    values:
+      layout: essay
+  - scope:
+      path: ""
+      type: podcast
+    values:
+      layout: podcast
+  - scope:
+      path: ""
+      type: readings
+    values:
+      layout: reading
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: gallery-set
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+
+feed:
+  excerpt_only: true
+  collections:
+    posts:
+      path: "/posts-feed.xml"
+    essays:
+      path: "/feed.xml"
+    readings:
+      path: "/readings-feed.xml"
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .dockerignore
+  - vendor
+  - node_modules
+  - scripts
+  - .github
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+theme_color: "#0a0014"
+google_site_verification: "W5i_THdAkiwDrJEZlN4D4piB4XLHsMoFuCwz1Xll5hU"

@@ -1,0 +1,55 @@
+---
+layout: default
+---
+<article class="gallery-set">
+  <div class="essay-inner">
+    <a class="essay-back" href="{{ '/media/gallery/' | relative_url }}">← /gallery</a>
+
+    <div class="essay-meta">
+      {% if page.number %}
+      <span class="essay-signal">set_№_{{ page.number }}</span>
+      {% endif %}
+      {% if page.date %}
+      <span class="essay-date">{{ page.date | date: "%b %-d, %Y" }}</span>
+      {% endif %}
+      {% if page.theme %}
+      <span class="essay-badge essay-badge--type">{{ page.theme }}</span>
+      {% endif %}
+    </div>
+
+    <h1 class="essay-title">{{ page.title }}</h1>
+    {% if page.dek %}
+    <p class="essay-dek">{{ page.dek }}</p>
+    {% endif %}
+
+    {% if page.photos.size > 0 %}
+    <div class="gallery-photos">
+      {% for photo in page.photos %}
+      <figure class="gallery-photo panel">
+        <img
+          src="{{ photo.src | relative_url }}"
+          alt="{{ photo.alt | default: page.title }}"
+          loading="lazy"
+          width="{{ photo.width | default: 800 }}"
+          height="{{ photo.height | default: 533 }}"
+        >
+        {% if photo.caption %}
+        <figcaption class="gallery-photo__caption">{{ photo.caption }}</figcaption>
+        {% endif %}
+      </figure>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if content != empty %}
+    <div class="essay-body gallery-set-body">
+      {{ content }}
+    </div>
+    {% endif %}
+
+    <footer class="essay-closing">
+      <span>CLOSING TRANSMISSION // GALLERY SET</span>
+      <span>— JV · Dark Heart Labs.</span>
+    </footer>
+  </div>
+</article>

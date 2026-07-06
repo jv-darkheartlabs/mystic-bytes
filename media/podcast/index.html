@@ -1,0 +1,50 @@
+---
+layout: default
+title: "podcast — spoken transmissions"
+eyebrow: "[media/podcast]"
+permalink: /media/podcast/
+---
+
+{% assign episodes = site.podcast | sort: "date" | reverse %}
+{% assign spotify = site.data.site.spotify %}
+
+<div class="container podcast-index">
+  <header class="podcast-header signal-header">
+    <a class="essay-back" href="{{ '/media/' | relative_url }}">← /media</a>
+    {% include signal-badge.html code="AUDIO" %}
+    <p class="page-eyebrow">[podcast]</p>
+    <h1 class="page-title">spoken transmissions</h1>
+    <p class="podcast-lede">Essays read aloud. Long-form thinking for the commute, the walk, the 2am mind.</p>
+    <a class="btn-outline" href="https://open.spotify.com/show/{{ spotify.show_id }}" target="_blank" rel="noreferrer">listen on spotify ↗</a>
+  </header>
+
+  <div class="podcast-embed panel">
+    <iframe
+      style="border-radius:12px"
+      src="https://open.spotify.com/embed/show/{{ spotify.show_id }}?utm_source=generator&theme=0"
+      width="100%"
+      height="352"
+      frameBorder="0"
+      allowfullscreen=""
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+      loading="lazy"
+      title="Dark Heart Labs podcast on Spotify"
+    ></iframe>
+  </div>
+
+  <ul class="podcast-list">
+    {% for ep in episodes %}
+    <li>
+      <a class="podcast-list__item panel" href="{{ ep.url | relative_url }}">
+        <span class="podcast-list__num">ep_{{ ep.number }}</span>
+        <div>
+          <h2>{{ ep.title }}</h2>
+          <p>{{ ep.dek }}</p>
+          <span class="podcast-list__meta">{{ ep.date | date: "%b %-d, %Y" }} · {{ ep.duration }}</span>
+        </div>
+        <span class="podcast-list__cta">play →</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

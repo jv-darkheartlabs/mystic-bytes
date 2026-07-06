@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<article class="essay{% if page.type == 'pillar' %} essay--pillar{% endif %}"{% if page.locked %} data-pagefind-ignore="all"{% endif %}>
+  <div class="essay-inner">
+    <a class="essay-back" href="{{ '/media/essays/' | relative_url }}">← technical essays</a>
+
+    <header class="essay-header signal-header">
+      {% include signal-badge.html code="ESSAY" %}
+      <div class="essay-meta">
+        <span class="essay-signal">signal_№_{{ page.number }}</span>
+        {% if page.date %}
+        <span class="essay-date">{{ page.date | date: "%b %-d, %Y" }}</span>
+        {% endif %}
+        {% if page.locked %}
+        <span class="essay-badge essay-badge--locked">sealed transmission</span>
+        {% elsif page.type == 'pillar' %}
+        <span class="essay-badge essay-badge--pillar">pillar essay</span>
+        {% elsif page.type == 'micro' %}
+        <span class="essay-badge essay-badge--micro">micro signal</span>
+        {% elsif page.type %}
+        <span class="essay-badge essay-badge--type">{{ page.type }}</span>
+        {% else %}
+        <span class="essay-badge essay-badge--free">free transmission</span>
+        {% endif %}
+      </div>
+
+      <h1 class="essay-title">{{ page.title }}</h1>
+      {% if page.dek %}
+      <p class="essay-dek">{{ page.dek }}</p>
+      {% endif %}
+    </header>
+
+    {% unless page.locked %}
+    {% include essay-brief.html %}
+    {% endunless %}
+
+    {% if page.cover %}
+    <figure class="essay-cover">
+      <img src="{{ page.cover | relative_url }}" alt="" loading="lazy" width="1280" height="720">
+    </figure>
+    {% endif %}
+
+    {% if page.locked %}
+    <div class="essay-locked panel">
+      <p class="essay-trace-label">[ sealed transmission ]</p>
+      <p>This signal is reserved for patrons. It appears in the archive index; the body stays sealed until access is granted.</p>
+    </div>
+    {% else %}
+    <p class="essay-trace-label">[ trace // field response ]</p>
+    <div class="prose essay-body" data-pagefind-body>
+      {{ content }}
+    </div>
+    {% endif %}
+
+    {% include essay-nav.html %}
+
+    <footer class="essay-closing">
+      <span class="essay-closing__ref">signal №_{{ page.number }}</span>
+      <span>— JV · Dark Heart Labs.</span>
+    </footer>
+  </div>
+</article>

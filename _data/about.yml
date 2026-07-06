@@ -1,0 +1,121 @@
+tagline: the voice behind the signal. not the résumé.
+bio: "I build quiet software for loud minds. Twenty-five years at the workbench, mostly on Apple platforms — Swift, SwiftUI, Core ML — with detours through Rust proxy modules, edge TypeScript, and whatever the moment asks for. The credentials live on the CV."
+specs:
+  -
+    label: comm_channel
+    value: Discord
+  -
+    label: comm_style
+    value: "Direct, blunt, no fluff"
+  -
+    label: env_mode
+    value: Hybrid (office + home)
+  -
+    label: fuel_type
+    value: ☕ Coffee. Always coffee.
+tenets:
+  -
+    title: "Creativity & innovation"
+    body: "New ideas beat the way we've always done it. Hear the wild one out before you shut it down."
+  -
+    title: Efficiency over polish
+    body: "Ship it. Don't over-polish what isn't needed. If I do something twice, I'll automate it."
+  -
+    title: Always leveling up
+    body: "Tools, skills, mindset. Learning is the job, not a perk."
+manual:
+  warn:
+    title: How I might annoy you
+    items:
+      -
+        k: Rabbit hole mode
+        v: I go deep on problems and lose track of time.
+      -
+        k: Blunt comms incoming
+        v: "Directness isn't personal — it's efficient."
+      -
+        k: Signal lost
+        v: "Hyperfocused and quiet doesn't mean upset. I'm in the zone."
+  ban:
+    title: How you might annoy me
+    items:
+      -
+        k: Meetings that could be a message
+        v: Respect the calendar.
+      -
+        k: Vague communication
+        v: Say what you mean. Mean what you say.
+      -
+        k: No accountability
+        v: Own your work and your mistakes.
+      -
+        k: Talking down to others
+        v: Everyone deserves respect — period.
+      -
+        k: Showing up unprepared
+        v: Late or unready wastes both our time.
+      -
+        k: Shutting down new ideas
+        v: At least hear it out first.
+  help:
+    title: I might need help with
+    items:
+      -
+        k: Overcommitting
+        v: I say yes to everything — help me prioritize ruthlessly.
+      -
+        k: Analysis paralysis
+        v: "Sometimes I just need someone to say 'ship it.'"
+      -
+        k: Context switching
+        v: Mid-flow interruptions cost me. Async beats sync.
+      -
+        k: Asking for help
+        v: "I'll try to solve it myself first — always."
+      -
+        k: Setting boundaries
+        v: Work hours creep. Call it out.
+  love:
+    title: I love
+    items:
+      -
+        k: "Brainstorming & ideating"
+        v: "Whiteboard sessions, wild ideas, yes-and energy."
+      -
+        k: "Designing & creating"
+        v: "Making things that didn't exist before."
+      -
+        k: "Automating & optimizing"
+        v: "If I do it twice, I'll automate it."
+quote: "If you're being quiet it means you're thinking. If I'm being quiet it means I'm in flow. Ping me on Discord — I promise I'll resurface."
+relocation: "On the ground in Auckland December 2026 through February 2027 for interviews and in-person introductions; full relocation from Louisiana lands in 2027. AU UD/601 ETA and NZ eTA approved, housing secured. Open to remote contract or freelance work in the interim."
+artifacts:
+  -
+    code: ANZSCO 261312
+    title: NeuroShell
+    blurb: Swift / SwiftUI macOS terminal and AI productivity suite. Human-Focused AI Award, Tetrate Buildathon — shipped and maintained.
+    links:
+      -
+        label: github
+        href: "https://github.com/jv-darkheartlabs/NeuroShell"
+  -
+    code: ANZSCO 263111
+    title: focus-guard
+    blurb: "Rust Envoy dynamic module that enforces deep-work policies at the proxy layer — distractions blocked before they reach the browser."
+    links:
+      -
+        label: github
+        href: "https://github.com/jv-darkheartlabs/focus-guard"
+  -
+    code: ANZSCO 261212
+    title: accessibility-rails-components
+    blurb: ViewComponents library with WCAG 2.1 AA patterns and Stimulus controllers — accessible defaults, not bolt-on fixes.
+  -
+    code: ANZSCO 262113
+    title: "Workspace & tooling configs"
+    blurb: "Reproducible dotfiles, macOS/Linux setup automation, and team tooling integration across distributed contributors."
+award:
+  title: Human-Focused AI Award
+  subtitle: Tetrate Buildathon — selected from 170+ applicants
+  quote: NeuroShell puts AI to work while centering real human value.
+  attribution: "Birger Moëll, Associate Professor in Computational Linguistics, Uppsala University"

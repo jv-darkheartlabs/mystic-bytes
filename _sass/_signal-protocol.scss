@@ -1,0 +1,134 @@
+// Signal Protocol v4.1 — Gothic Romance Cyberpunk (Dark Heart Labs)
+// Phase 3: neon red · bright violet · silver chrome
+
+:root {
+  --radius: 0.125rem;
+
+  // Base surfaces (unchanged)
+  --ink: #0a0014;
+  --panel: #120024;
+  --plum: #1a0830;
+  --plum-deep: #120024;
+  --bone: #e8d9c0;
+  --grey-ash: #6b5a80;
+
+  // Phase 3 canonical accents
+  --red: #ff1744;
+  --signal-red: var(--red);
+  --violet: #b47aff;
+  --silver: #a8b2c1;
+  --status: #c86bff;
+  --pink: #ff2bd6; // demoted — legacy only
+
+  // Legacy aliases — pink demoted to red sitewide
+  --rose: var(--red);
+  --amber: var(--red);
+  --teal: var(--violet);
+  --bio-green: var(--status);
+
+  --background: var(--ink);
+  --foreground: #eceaf2;
+  --muted-foreground: #9a8aad;
+  --border: #3a1060;
+
+  --font-mono: "Fira Code", ui-monospace, monospace;
+  --font-sans: "Fira Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Cormorant Garamond", ui-serif, Georgia, serif;
+
+  --gradient-primary: linear-gradient(135deg, var(--violet), var(--red));
+  --gradient-signal: linear-gradient(135deg, var(--red), var(--violet));
+  --gradient-velvet: linear-gradient(160deg, var(--plum-deep), var(--ink) 70%);
+  --gradient-candle: radial-gradient(circle at 50% 30%, color-mix(in oklab, var(--red) 18%, transparent) 0%, transparent 60%);
+  --gradient-bloom-teal: radial-gradient(circle at 50% 50%, color-mix(in oklab, var(--violet) 28%, transparent) 0%, transparent 70%);
+  --gradient-bloom-amber: radial-gradient(circle at 50% 50%, color-mix(in oklab, var(--red) 20%, transparent) 0%, transparent 70%);
+
+  --glow-red: 0 0 24px rgba(255, 23, 68, 0.35);
+  --glow-violet: 0 0 22px rgba(180, 122, 255, 0.32);
+  --glow-pink: var(--glow-red);
+  --shadow-glow: var(--glow-violet);
+  --header-height: 4.5rem;
+
+  // Reading category families (Phase 3 remap)
+  --family-passion: var(--red);
+  --family-power: var(--violet);
+  --family-gothic: var(--silver);
+  --family-bond: var(--status);
+  --family-edge: #d966ff;
+
+  --grain-opacity: 0.04;
+  --grid-opacity: 0.055;
+  --grid-size: 28px;
+
+  // Signal section grid (panels + section shells)
+  --section-grid-size: 18px;
+  --section-grid-size-mobile: 28px;
+  --section-grid-line: color-mix(in oklab, var(--silver) 10%, transparent);
+  --section-grid-line-light: color-mix(in oklab, var(--silver) 6%, transparent);
+  --section-glow: 0 0 32px color-mix(in oklab, var(--violet) 12%, transparent);
+  --section-glow-soft: 0 0 24px color-mix(in oklab, var(--violet) 10%, transparent);
+  --section-glow-hover: 0 0 28px color-mix(in oklab, var(--violet) 18%, transparent), var(--glow-red);
+
+  // Unified page rhythm
+  --space-section-y: 2rem;
+  --space-header-pad: 1.25rem 1rem 1.5rem;
+  --space-block-gap: 1.5rem;
+  --width-shelf: 80rem;
+  --width-prose: 48rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -10%, color-mix(in oklab, var(--violet) 10%, transparent), transparent),
+    radial-gradient(ellipse 60% 40% at 80% 100%, color-mix(in oklab, var(--red) 6%, transparent), transparent),
+    var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: color-mix(in oklab, var(--red) 35%, transparent);
+  color: var(--foreground);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+  padding: 0.75rem 1rem;
+  background: var(--violet);
+  color: var(--ink);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+
+  &:focus {
+    left: 1rem;
+    top: 1rem;
+  }
+}

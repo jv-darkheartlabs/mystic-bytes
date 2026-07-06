@@ -1,0 +1,42 @@
+---
+layout: default
+title: "technical essays — ls -la /essays"
+eyebrow: "[media/essays]"
+permalink: /media/essays/
+redirect_from:
+  - /archive/
+  - /blog/
+  - /blog/index.html
+---
+
+{% assign sorted = site.essays | where_exp: "e", "e.locked != true" | sort: "sort_key" | reverse %}
+
+<div class="container">
+<header class="archive-header signal-header">
+  <a class="essay-back" href="{{ '/media/written/' | relative_url }}">← /media/written</a>
+  {% include signal-badge.html code="ESSAY" %}
+  <p class="page-eyebrow">[essays]</p>
+  <h1 class="page-title">ls -la /essays</h1>
+  <p class="archive-count">{{ sorted.size }} entries. Sorted by signal number, descending. Technical essays on code, craft, and the void.</p>
+</header>
+
+<div class="archive-table panel">
+  <div class="archive-table__head">
+    <span>№</span>
+    <span>date</span>
+    <span>title / dek</span>
+    <span>read</span>
+  </div>
+  {% for essay in sorted %}
+  <a class="archive-row" href="{{ essay.url | relative_url }}">
+    <span class="archive-row__num">{{ essay.number }}</span>
+    <span class="archive-row__date">{{ essay.date | date: "%b %-d, %Y" }}</span>
+    <span class="archive-row__body">
+      <strong>{{ essay.title }}</strong>
+      <span class="archive-row__dek">{{ essay.dek }}</span>
+    </span>
+    <span class="archive-row__cta">open →</span>
+  </a>
+  {% endfor %}
+</div>
+</div>

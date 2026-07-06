@@ -1,0 +1,103 @@
+---
+layout: default
+title: "about — the room it was written in"
+eyebrow: "[about]"
+permalink: /about/
+---
+
+{% assign about = site.data.about %}
+
+<div class="container about-page">
+  <header class="about-header signal-header">
+    {% include signal-badge.html code="ABOUT" %}
+    <p class="page-eyebrow">[about]</p>
+    <h1 class="page-title">the room it was written in</h1>
+    <p class="page-subtitle">{{ about.tagline }}</p>
+    <p class="about-bio">{{ about.bio }}</p>
+  </header>
+
+  <section class="about-specs panel">
+    {% for spec in about.specs %}
+    <div class="about-spec">
+      <span class="about-spec__label">{{ spec.label }}</span>
+      <span class="about-spec__value">{{ spec.value }}</span>
+    </div>
+    {% endfor %}
+  </section>
+
+  <section class="about-tenets">
+    {% include section-label.html num="00" title="operating tenets" badge="ABOUT" %}
+    <div class="tenets-grid">
+      {% for tenet in about.tenets %}
+      <article class="tenet-card panel">
+        <h2>{{ tenet.title }}</h2>
+        <p>{{ tenet.body }}</p>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="about-manual">
+    {% include section-label.html num="01" title="user manual" badge="ABOUT" %}
+    <div class="manual-grid">
+      {% assign manual = about.manual %}
+      {% assign manual_keys = "warn,ban,help,love" | split: "," %}
+      {% for key in manual_keys %}
+      {% assign block = manual[key] %}
+      <article class="manual-card panel manual-card--{{ key }}">
+        <h2>{{ block.title }}</h2>
+        <dl>
+          {% for item in block.items %}
+          <div>
+            <dt>{{ item.k }}</dt>
+            <dd>{{ item.v }}</dd>
+          </div>
+          {% endfor %}
+        </dl>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="about-artifacts">
+    {% include section-label.html num="02" title="selected work" badge="ABOUT" %}
+    <div class="artifacts-grid">
+      {% for artifact in about.artifacts %}
+      <article class="artifact-card panel">
+        <span class="cv-code-pill">{{ artifact.code }}</span>
+        <h3>{{ artifact.title }}</h3>
+        <p>{{ artifact.blurb }}</p>
+        {% if artifact.links.size > 0 %}
+        <div class="artifact-links">
+          {% for link in artifact.links %}
+          <a href="{{ link.href }}" target="_blank" rel="noreferrer">{{ link.label }} ↗</a>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="about-award panel">
+    <p class="about-award__label">recognition</p>
+    <h2>{{ about.award.title }}</h2>
+    <p class="about-award__subtitle">{{ about.award.subtitle }}</p>
+    <blockquote>
+      <p>"{{ about.award.quote }}"</p>
+      <cite>— {{ about.award.attribution }}</cite>
+    </blockquote>
+  </section>
+
+  <section class="about-relocation panel">
+    <h2>&gt;_ relocation status</h2>
+    <p>{{ about.relocation }}</p>
+    <p class="about-quote">{{ about.quote }}</p>
+    {% if site.data.site.social.discord %}
+    <p class="about-discord">
+      <a href="{{ site.data.site.social.discord }}" target="_blank" rel="me noreferrer">discord /darkheartlabs ↗</a>
+    </p>
+    {% endif %}
+    <p class="about-sign">{{ site.data.site.sign_off }}</p>
+  </section>
+</div>

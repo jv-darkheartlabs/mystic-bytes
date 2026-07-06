@@ -1,0 +1,19 @@
+Reading Cover Validation — 2026-07-05T20:18:52.769Z
+Readings: 1507 | Manifest: 1507 | Pass: 1505 (99.9%)
+
+Match methods:
+  loose: 559
+  exact: 943
+  loose+slug: 1
+  slug: 2
+
+Issues:
+  no_manifest_match: 2
+    - {"slug":"detonate","title":"Detonate","category":"mafia-boss-and-innocent","method":"none"}
+    - {"slug":"kate","title":"Kate","category":"stalker-obsession","method":"none"}
+  duplicate_title_collisions: 5
+    - {"key":"watch your back::stalker-obsession","entries":[{"id":"stalker-obsession/217 39.jpeg","author":"Tate James","dek":"Devil's Backbone — Chapter 2"},{"id":"stalker-obsession/r0228.jpeg","author":"Tate James","dek":"Devil's Backbone — Chapter 2"}]}
+    - {"key":"dear reader::stalker-obsession","entries":[{"id":"stalker-obsession/218 40.jpeg","author":"Tate James","dek":"Devil's Backbone — Chapter 1"},{"id":"stalker-obsession/r0229.jpeg","author":"Tate James","dek":"Devil's Backbone — Chapter 1"}]}
+    - {"key":"youre next::stalker-obsession","entries":[{"id":"stalker-obsession/249 71.jpeg","author":"Tate James","dek":"Devil's Backbone — Chapter 3"},{"id":"stalker-obsession/r0230.jpeg","author":"Tate James","dek":"Devil's Backbone — Chapter 3"}]}
+    - {"key":"the blood we crave::stalker-obsession","entries":[{"id":"stalker-obsession/r0244.jpeg","author":"Monty Jay","dek":"Hollow Boys — Book Four"},{"id":"stalker-obsession/r0245.jpeg","author":"Monty Jay","dek":"Hollow Boys — Book Three"}]}
+    - {"key":"fairydale::vampire-paranormal","entries":[{"id":"vampire-paranormal/219 41.jpeg","author":"Veronica Lancet"},{"id":"vampire-paranormal/r0278.jpeg","author":"Veronica Lancet","dek":"USA Today Bestseller"}]}

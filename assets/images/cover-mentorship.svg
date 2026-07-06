@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="signal">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6ee7d4"/>
+      <stop offset="100%" stop-color="#9b7bd4"/>
+    </linearGradient>
+    <filter id="n"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/></filter>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g)"/>
+  <rect width="1280" height="720" opacity="0.08" filter="url(#n)"/>
+  <text x="64" y="680" fill="#6ee7d4" opacity="0.5" font-family="monospace" font-size="28" letter-spacing="0.2em">SIGNAL</text>
+</svg>

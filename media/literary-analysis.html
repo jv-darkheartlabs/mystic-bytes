@@ -1,0 +1,88 @@
+---
+layout: default
+title: "literary analysis — book reviews"
+eyebrow: "[media/literary-analysis]"
+permalink: /media/literary-analysis/
+redirect_from:
+  - /reading-log/
+  - /readings/
+---
+
+{% assign sorted = site.readings | sort: "sort_key" | reverse %}
+{% assign categories = site.data.reading_categories.categories %}
+
+<style>
+  .reading-grid .reading-card.reading-card--hidden {
+    display: none !important;
+  }
+</style>
+
+<div class="container reading-log-page">
+<header class="archive-header reading-log-header signal-header">
+  <a class="essay-back" href="{{ '/media/written/' | relative_url }}">← /media/written</a>
+  {% include signal-badge.html code="READ" %}
+  <p class="page-eyebrow">[literary-analysis]</p>
+  <h1 class="page-title">literary analysis</h1>
+  <p class="archive-count">{{ sorted.size }} reviews. Critical essays on dark romance — trope, craft, and the ethics of desire.</p>
+</header>
+
+<div class="reading-toolbar">
+  <div class="reading-toolbar__row">
+    <label class="sr-only" for="reading-search">Search reviews</label>
+    <input
+      type="search"
+      id="reading-search"
+      class="reading-search"
+      placeholder="search title or author…"
+      autocomplete="off"
+      spellcheck="false"
+    >
+    <div class="reading-sort" role="group" aria-label="Sort reviews">
+      <button type="button" class="reading-sort__btn is-active" data-sort="date">date ↓</button>
+      <button type="button" class="reading-sort__btn" data-sort="title">title A–Z</button>
+    </div>
+  </div>
+  <div class="reading-filters" role="toolbar" aria-label="Filter by category">
+    <button type="button" class="reading-filter is-active" data-filter="all">all</button>
+    {% for pair in categories %}
+    {% assign cat = pair[1] %}
+    <button type="button" class="reading-filter" data-filter="{{ pair[0] }}" data-family="{{ cat.family }}">{{ cat.label }}</button>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="reading-grid" id="reading-grid">
+  {% for reading in sorted %}
+  {% assign cat = categories[reading.category] %}
+  <a
+    class="reading-card"
+    href="{{ reading.url | relative_url }}"
+    data-category="{{ reading.category }}"
+    data-family="{{ cat.family }}"
+    data-sort-key="{{ reading.sort_key }}"
+    data-title="{{ reading.title | downcase | escape }}"
+    data-author="{{ reading.author | default: '' | downcase | escape }}"
+  >
+    {% if reading.cover %}
+    <div class="reading-card__cover">
+      <img src="{{ reading.cover | relative_url }}" alt="" loading="lazy" width="200" height="300">
+    </div>
+    {% endif %}
+    <div class="reading-card__body">
+      <span class="reading-card__num">{{ reading.number }}</span>
+      <strong>{{ reading.title }}</strong>
+      {% if reading.author %}
+      <span class="reading-card__author">{{ reading.author }}</span>
+      {% endif %}
+      {% if reading.spice %}
+      {% assign reading_spice = site.data.reading_categories.spice_levels | where: "level", reading.spice | first %}
+      <span class="reading-card__spice">{% if reading_spice %}{{ reading_spice.peppers }}{% else %}🌶️×{{ reading.spice }}{% endif %}</span>
+      {% endif %}
+    </div>
+  </a>
+  {% endfor %}
+  <p class="reading-empty" id="reading-empty" hidden>No reviews match your search.</p>
+</div>
+
+<script src="{{ '/assets/js/reading-log.js' | relative_url }}?v=3" defer></script>
+</div>

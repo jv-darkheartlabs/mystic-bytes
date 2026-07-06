@@ -1,0 +1,45 @@
+---
+layout: default
+title: "album — the long-form signal"
+eyebrow: "[media/album]"
+permalink: /media/album/
+---
+
+{% assign tracks = site.data.media.album_tracks %}
+{% assign spotify = site.data.site.spotify %}
+
+<div class="container album-page">
+  <header class="album-header signal-header">
+    <a class="essay-back" href="{{ '/media/' | relative_url }}">← /media</a>
+    {% include signal-badge.html code="ALBUM" %}
+    <p class="page-eyebrow">[album]</p>
+    <h1 class="page-title">the long-form signal</h1>
+    <p class="album-lede">Ambient coordinates from Dark Heart Labs. The scored signal beneath the essays.</p>
+    <a class="btn-outline" href="https://open.spotify.com/album/{{ spotify.album_id }}" target="_blank" rel="noreferrer">listen on spotify ↗</a>
+  </header>
+
+  <div class="album-embed panel">
+    <iframe
+      style="border-radius:12px"
+      src="https://open.spotify.com/embed/album/{{ spotify.album_id }}?utm_source=generator&theme=0"
+      width="100%"
+      height="480"
+      frameBorder="0"
+      allowfullscreen=""
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+      loading="lazy"
+      title="Dark Heart Labs — long-form signal on Spotify"
+    ></iframe>
+  </div>
+
+  <section class="album-tracklist panel">
+    <h2 class="cv-section__title">&gt;_ tracklist</h2>
+    <ol class="album-tracks">
+      {% for track in tracks %}
+      <li>
+        <span class="album-track__title">{{ track.title }}</span>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+</div>

@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-07-05T17:54:30.954Z",
+  "dry_run": false,
+  "scanned": 1507,
+  "already_ok": 1507,
+  "repointed_existing": 0,
+  "copied": 0,
+  "skipped": [],
+  "changes": [],
+  "errors": [],
+  "summary": {
+    "fixed": 0,
+    "still_wrong": 0
+  }
+}

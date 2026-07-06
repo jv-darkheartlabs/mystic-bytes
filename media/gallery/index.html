@@ -1,0 +1,74 @@
+---
+layout: default
+title: "gallery — visual sets"
+eyebrow: "[media/gallery]"
+permalink: /media/gallery/
+---
+
+{% assign sets = site.gallery | where_exp: "g", "g.published != false" | sort: "sort_key" | reverse %}
+{% assign channels = site.data.gallery_channels.channels %}
+
+<div class="container gallery-index">
+  <header class="media-sub-header signal-header">
+    <a class="essay-back" href="{{ '/media/' | relative_url }}">← /media</a>
+    {% include signal-badge.html code="GALLERY" %}
+    <p class="page-eyebrow">[gallery]</p>
+    <h1 class="page-title">visual sets</h1>
+    <p class="media-sub-lede">
+      Photo albums organized by set — shelf studies, travel, process, studio light.
+      Sets are grouped by theme (AI-assisted curation from incoming drops).
+    </p>
+  </header>
+
+  {% if sets.size > 0 %}
+  <div class="gallery-set-grid">
+    {% for set in sets %}
+    <a class="gallery-set-card panel" href="{{ set.url | relative_url }}">
+      {% if set.cover %}
+      <div class="gallery-set-card__cover">
+        <img src="{{ set.cover | relative_url }}" alt="" loading="lazy" width="280" height="187">
+      </div>
+      {% endif %}
+      <div class="gallery-set-card__body">
+        {% if set.number %}<span class="gallery-set-card__num">{{ set.number }}</span>{% endif %}
+        <strong>{{ set.title }}</strong>
+        {% if set.dek %}<span class="gallery-set-card__dek">{{ set.dek | truncate: 100 }}</span>{% endif %}
+        {% if set.date %}<span class="gallery-set-card__date">{{ set.date | date: "%b %Y" }}</span>{% endif %}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  {% else %}
+  <section class="gallery-empty panel">
+    <p class="gallery-empty__signal">[ awaiting first drop ]</p>
+    <p>
+      The darkroom is wired. Photo sets will land here as albums once source files are ready.
+      Each set gets a cover, captions, and a theme tag for filtering.
+    </p>
+    <p class="gallery-empty__hint">
+      Pipeline: drop images → <code>scripts/gallery/inventory.mjs</code> →
+      <code>organize-manifest.mjs</code> (AI set grouping) → publish.
+    </p>
+  </section>
+  {% endif %}
+
+  <section class="gallery-channels">
+    <h2 class="media-sub-section">&gt;_ follow the visual signal</h2>
+    <div class="media-channels__grid">
+      {% for ch in channels %}
+      <div class="media-channel panel{% if ch.url == empty %} media-channel--pending{% endif %}">
+        <span class="media-channel__label">{{ ch.label }}</span>
+        {% if ch.handle != empty %}
+        <span class="media-channel__handle">{{ ch.handle }}</span>
+        {% endif %}
+        <span class="media-channel__blurb">{{ ch.blurb }}</span>
+        {% if ch.url != empty %}
+        <a class="media-channel__cta" href="{{ ch.url }}" target="_blank" rel="me noreferrer">follow ↗</a>
+        {% else %}
+        <span class="media-channel__pending">coming soon</span>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+</div>

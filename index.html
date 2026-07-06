@@ -1,0 +1,113 @@
+---
+layout: default
+ticker: true
+title: "JV · Dark Heart Labs — the signal, the void, the warmth"
+description: "Signal Protocol v2. First light in the void, newly cut from the dark, and dispatches drawn up from the depths."
+permalink: /
+---
+
+<div class="container">
+  <h1 class="sr-only">JV · DARK HEART LABS — code, creativity, and the technical void</h1>
+
+  <a class="ticker" href="{{ '/about/' | relative_url }}">
+    <div class="ticker__inner">
+      <span class="ticker__label">&gt;_ TRANSMISSION</span>
+      <div class="ticker__viewport">
+        <div class="ticker__track">
+          {% assign messages = site.data.site.ticker_messages %}
+          {% for repeat in (1..3) %}
+            {% for msg in messages %}
+              <span class="ticker__item">{{ msg }}</span>
+            {% endfor %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </a>
+
+  <div class="now-broadcasting">
+    <span class="now-broadcasting__label">&gt;_ NOW BROADCASTING</span>
+    <a class="now-broadcasting__link" href="{{ '/media/podcast/' | relative_url }}">
+      <span class="now-broadcasting__muted">podcast ·</span>
+      spoken transmissions
+      <span aria-hidden="true">→</span>
+    </a>
+    <span class="now-broadcasting__sep">|</span>
+    <a class="now-broadcasting__link" href="{{ '/media/album/' | relative_url }}">
+      <span class="now-broadcasting__muted">album ·</span>
+      the long-form signal
+      <span aria-hidden="true">→</span>
+    </a>
+    <a class="now-broadcasting__external" href="https://open.spotify.com/show/{{ site.data.site.spotify.show_id }}" target="_blank" rel="noreferrer">spotify ↗</a>
+  </div>
+
+  {% assign essays = site.essays | where_exp: "e", "e.locked != true" | sort: "sort_key" | reverse %}
+  {% assign featured = essays | first %}
+
+  <div class="home-grid">
+    <section>
+      {% include section-label.html num="00" title="first light in the void" badge="HOME" %}
+      {% if featured %}
+      {% assign featured_words = featured.content | strip_html | number_of_words %}
+      {% assign featured_mins = featured_words | divided_by: 200 %}
+      {% if featured_mins < 1 %}
+        {% assign featured_mins = 1 %}
+      {% endif %}
+      <a class="featured-card" href="{{ featured.url | relative_url }}" style="position: relative;">
+        <div class="featured-card__glow" aria-hidden="true"></div>
+        <div class="featured-card__media">
+          {% if featured.cover %}
+          <img src="{{ featured.cover | relative_url }}" alt="Cover art for transmission №{{ featured.number }} — {{ featured.title }}">
+          {% endif %}
+          <div class="featured-card__overlay"></div>
+          <div class="featured-card__badge">№_{{ featured.number }}</div>
+          <div class="featured-card__meta">{{ featured.date | date: "%b %-d, %Y" }} · transmission length: {{ featured_mins }} min</div>
+        </div>
+        <div class="featured-card__body">
+          <h2 class="featured-card__title">{{ featured.title }}</h2>
+          <p class="featured-card__dek">{{ featured.dek }}</p>
+          <span class="featured-card__cta">descend <span aria-hidden="true">→</span></span>
+        </div>
+      </a>
+      {% else %}
+      <p class="featured-card__dek" style="margin-top: 1rem;">Essays arrive in Phase 2.</p>
+      {% endif %}
+    </section>
+
+    <section>
+      {% include section-label.html num="01" title="newly cut from the dark" badge="HOME" %}
+      <ul class="essay-list">
+        {% for essay in essays offset: 1 limit: 3 %}
+        <li>
+          <a class="essay-list__item" href="{{ essay.url | relative_url }}">
+            <div class="essay-list__item__meta">
+              <span>{{ essay.date | date: "%b %-d, %Y" }}</span>
+              <span class="essay-list__item__free">[free]</span>
+            </div>
+            <div class="essay-list__item__number">№_{{ essay.number }}</div>
+            <h3 class="essay-list__item__title">{{ essay.title }}</h3>
+            <p class="essay-list__item__dek">{{ essay.dek }}</p>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+  </div>
+
+  <section class="home-section">
+    {% include section-label.html num="02" title="drawn up from the depths" badge="HOME" %}
+    <div class="trending-grid">
+      {% for essay in essays offset: 4 limit: 6 %}
+      <a class="trending-card" href="{{ essay.url | relative_url }}">
+        <div class="trending-card__number">№_{{ essay.number }}</div>
+        <h3 class="trending-card__title">{{ essay.title }}</h3>
+        <p class="trending-card__dek">{{ essay.dek }}</p>
+        <div class="trending-card__date">{{ essay.date | date: "%b %-d, %Y" }}</div>
+      </a>
+      {% endfor %}
+    </div>
+    <div class="text-center mt-8">
+      <a class="btn-outline" href="{{ '/media/written/' | relative_url }}">written transmissions <span aria-hidden="true">→</span></a>
+    </div>
+  </section>
+</div>

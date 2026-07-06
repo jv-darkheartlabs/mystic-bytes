@@ -1,0 +1,116 @@
+families:
+  passion:
+    label: Passion
+    color: passion
+  power:
+    label: Power
+    color: power
+  gothic:
+    label: Gothic
+    color: gothic
+  bond:
+    label: Bond
+    color: bond
+  edge:
+    label: Edge
+    color: edge
+
+categories:
+  age-gap:
+    label: Age Gap
+    family: bond
+    tags: [agegap, darkromance]
+  arranged-marriage:
+    label: Arranged Marriage
+    family: bond
+    tags: [arrangedmarriage, darkromance]
+  bully-romance:
+    label: Bully Romance
+    family: passion
+    tags: [bullyromance, darkromance]
+  captor-and-captive:
+    label: Captor & Captive
+    family: bond
+    tags: [captive, darkromance]
+  dark-billionaire:
+    label: Dark Billionaire
+    family: power
+    tags: [darkbillionaire, darkromance]
+  dark-cowboy-romance:
+    label: Dark Cowboy Romance
+    family: edge
+    tags: [cowboyromance, darkromance]
+  dark-military-romance:
+    label: Dark Military Romance
+    family: power
+    tags: [militaryromance, darkromance]
+  dark-thriller:
+    label: Dark Thriller
+    family: edge
+    tags: [darkthriller, romantic suspense]
+  enemies-to-lovers:
+    label: Enemies to Lovers
+    family: passion
+    tags: [enemiestolovers, darkromance]
+  forbidden-love:
+    label: Forbidden Love
+    family: passion
+    tags: [forbiddenlove, darkromance]
+  gothic-horror-romance:
+    label: Gothic Horror Romance
+    family: gothic
+    tags: [gothic, horrorromance]
+  mafia-boss-and-innocent:
+    label: Mafia Boss & Innocent
+    family: power
+    tags: [mafiaromance, darkromance]
+  motorcycle-club:
+    label: Motorcycle Club
+    family: power
+    tags: [mcromance, darkromance]
+  omegaverse:
+    label: Omegaverse
+    family: gothic
+    tags: [omegaverse, darkromance]
+  reverse-harem:
+    label: Reverse Harem
+    family: bond
+    tags: [reverseharem, darkromance]
+  rockstar-romance:
+    label: Rockstar Romance
+    family: power
+    tags: [rockstarromance, darkromance]
+  stalker-obsession:
+    label: Stalker & Obsession
+    family: passion
+    tags: [stalker, obsession, darkromance]
+  vampire-paranormal:
+    label: Vampire & Paranormal
+    family: gothic
+    tags: [vampire, paranormal, darkromance]
+  fantasy-romance:
+    label: Fantasy Romance
+    family: gothic
+    tags: [fantasyromance, romantasy, darkromance]
+
+spice_levels:
+  -
+    level: 1
+    label: closed door
+    peppers: "🌶️"
+  -
+    level: 2
+    label: slow burn
+    peppers: "🌶️🌶️"
+  -
+    level: 3
+    label: moderate heat
+    peppers: "🌶️🌶️🌶️"
+  -
+    level: 4
+    label: high heat
+    peppers: "🌶️🌶️🌶️🌶️"
+  -
+    level: 5
+    label: explicit / dark
+    peppers: "🌶️🌶️🌶️🌶️🌶️"

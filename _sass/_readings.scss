@@ -1,0 +1,489 @@
+// Literary analysis shelf (dark romance reviews)
+
+$reading-families: passion, power, gothic, bond, edge;
+
+@each $family in $reading-families {
+  [data-family="#{$family}"] {
+    --card-accent: var(--family-#{$family});
+  }
+
+  .reading-filter[data-family="#{$family}"] {
+    --card-accent: var(--family-#{$family});
+    border-color: color-mix(in oklab, var(--family-#{$family}) 42%, var(--border));
+    color: color-mix(in oklab, var(--family-#{$family}) 65%, var(--muted-foreground));
+  }
+
+  .reading-filter[data-family="#{$family}"]:hover,
+  .reading-filter[data-family="#{$family}"].is-active {
+    border-color: var(--family-#{$family});
+    color: var(--family-#{$family});
+  }
+}
+
+// Gothic family: silver idle → red on active/hover
+.reading-filter[data-family="gothic"]:hover,
+.reading-filter[data-family="gothic"].is-active {
+  --card-accent: var(--red);
+  border-color: var(--red);
+  color: var(--red);
+}
+
+.reading-card[data-family="gothic"]:hover,
+.reading-card[data-family="gothic"]:focus-visible {
+  --card-accent: var(--red);
+}
+
+.reading-log-page {
+  .page-eyebrow {
+    color: var(--silver);
+    text-shadow: 0 0 12px color-mix(in oklab, var(--silver) 25%, transparent);
+  }
+
+  .page-title {
+    text-shadow:
+      0 0 32px color-mix(in oklab, var(--red) 28%, transparent),
+      0 0 48px color-mix(in oklab, var(--violet) 18%, transparent);
+  }
+}
+
+.reading-log-header {
+  margin-bottom: 1.5rem;
+}
+
+.reading-toolbar {
+  position: sticky;
+  top: var(--header-height);
+  z-index: 30;
+  margin-bottom: 1.5rem;
+  padding: 0.75rem 0 1rem;
+  background: color-mix(in oklab, var(--background) 88%, transparent);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid color-mix(in oklab, var(--border) 70%, transparent);
+
+  &__row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.625rem;
+    margin-bottom: 0.75rem;
+  }
+}
+
+.reading-search {
+  flex: 1 1 12rem;
+  min-width: 0;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--panel) 60%, transparent);
+  color: var(--foreground);
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.04em;
+
+  &::placeholder {
+    color: var(--muted-foreground);
+    text-transform: uppercase;
+  }
+
+  &:focus {
+    outline: none;
+    border-color: color-mix(in oklab, var(--violet) 50%, var(--border));
+    box-shadow: 0 0 0 1px color-mix(in oklab, var(--violet) 25%, transparent);
+  }
+}
+
+.reading-sort {
+  display: flex;
+  gap: 0.375rem;
+}
+
+.reading-sort__btn {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--muted-foreground);
+  font-family: var(--font-mono);
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+  white-space: nowrap;
+
+  &.is-active,
+  &:hover {
+    border-color: var(--violet);
+    color: var(--violet);
+  }
+
+  &.is-active {
+    background: color-mix(in oklab, var(--violet) 12%, transparent);
+  }
+}
+
+.reading-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+}
+
+.reading-filter {
+  padding: 0.375rem 0.75rem;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--muted-foreground);
+  font-family: var(--font-mono);
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+
+  &:hover {
+    border-color: color-mix(in oklab, var(--card-accent, var(--rose)) 45%, var(--border));
+    color: var(--card-accent, var(--rose));
+  }
+
+  &.is-active {
+    border-color: var(--card-accent, var(--rose));
+    background: color-mix(in oklab, var(--card-accent, var(--rose)) 20%, transparent);
+    color: var(--card-accent, var(--rose));
+  }
+
+  &[data-filter="all"] {
+    --card-accent: var(--red);
+    border-color: color-mix(in oklab, var(--red) 35%, var(--border));
+    color: color-mix(in oklab, var(--red) 55%, var(--muted-foreground));
+
+    &.is-active {
+      border-color: var(--red);
+      background: color-mix(in oklab, var(--red) 20%, transparent);
+      color: var(--red);
+    }
+  }
+}
+
+.reading-grid .reading-card.reading-card--hidden,
+.reading-grid .reading-card[hidden],
+.reading-empty.reading-empty--hidden,
+.reading-empty[hidden] {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+
+.reading-grid {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fill, minmax(8.75rem, 1fr));
+}
+
+.reading-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  color: inherit;
+  background: color-mix(in oklab, var(--panel) 70%, transparent);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  backdrop-filter: blur(8px);
+  border-color: color-mix(in oklab, var(--card-accent, var(--border)) 32%, var(--border));
+  transition: border-color 0.2s, box-shadow 0.2s;
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0;
+    z-index: 1;
+    transition: opacity 0.2s;
+    background:
+      linear-gradient(var(--card-accent, var(--violet)), var(--card-accent, var(--violet))) 0 0 / 7px 1px no-repeat,
+      linear-gradient(var(--card-accent, var(--violet)), var(--card-accent, var(--violet))) 0 0 / 1px 7px no-repeat,
+      linear-gradient(var(--card-accent, var(--violet)), var(--card-accent, var(--violet))) 100% 0 / 7px 1px no-repeat,
+      linear-gradient(var(--card-accent, var(--violet)), var(--card-accent, var(--violet))) 100% 0 / 1px 7px no-repeat,
+      linear-gradient(var(--card-accent, var(--violet)), var(--card-accent, var(--violet))) 0 100% / 7px 1px no-repeat,
+      linear-gradient(var(--card-accent, var(--violet)), var(--card-accent, var(--violet))) 0 100% / 1px 7px no-repeat,
+      linear-gradient(var(--card-accent, var(--violet)), var(--card-accent, var(--violet))) 100% 100% / 7px 1px no-repeat,
+      linear-gradient(var(--card-accent, var(--violet)), var(--card-accent, var(--violet))) 100% 100% / 1px 7px no-repeat;
+  }
+
+  &:hover,
+  &:focus-visible {
+    border-color: color-mix(in oklab, var(--card-accent, var(--red)) 55%, var(--border));
+    box-shadow: var(--section-glow-hover);
+
+    &::before {
+      opacity: 0.85;
+    }
+  }
+
+  &__cover {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 8.75rem;
+    aspect-ratio: 2 / 3;
+    overflow: hidden;
+    line-height: 0;
+    background: transparent;
+    border-bottom: 1px solid color-mix(in oklab, var(--card-accent, var(--border)) 25%, var(--border));
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center center;
+      background: transparent;
+    }
+  }
+
+  &__body {
+    width: 100%;
+    padding: 0.625rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    font-size: 0.75rem;
+    line-height: 1.35;
+  }
+
+  &__num {
+    font-family: var(--font-mono);
+    font-size: 0.5625rem;
+    color: var(--card-accent, var(--rose));
+  }
+
+  &__author {
+    color: var(--muted-foreground);
+    font-size: 0.6875rem;
+  }
+
+  &__spice {
+    margin-top: 0.125rem;
+    font-size: 0.75rem;
+    line-height: 1;
+  }
+}
+
+.reading-empty {
+  grid-column: 1 / -1;
+  padding: 2rem 1rem;
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--muted-foreground);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.reading-hero {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+  margin-top: 1rem;
+
+  &__main {
+    flex: 1;
+    min-width: 0;
+
+    .essay-title {
+      margin-top: 0;
+    }
+  }
+
+  &__dek {
+    margin-top: 0.75rem;
+    margin-bottom: 0;
+  }
+}
+
+.reading-cover {
+  flex: 0 0 7.5rem;
+  width: 7.5rem;
+  margin: 0;
+  border: 1px solid color-mix(in oklab, var(--card-accent, var(--border)) 40%, var(--border));
+  overflow: hidden;
+  line-height: 0;
+  background: transparent;
+  box-shadow: 0 0 16px color-mix(in oklab, var(--card-accent, var(--violet)) 18%, transparent);
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
+    object-position: center center;
+    background: transparent;
+  }
+}
+
+.reading-author {
+  margin: 0.375rem 0 0;
+  font-family: var(--font-serif);
+  font-style: italic;
+  color: var(--muted-foreground);
+
+  a {
+    color: var(--foreground);
+    &:hover { color: var(--rose); }
+  }
+}
+
+.reading-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin: 0.625rem 0 0;
+  padding: 0;
+
+  &__cat {
+    font-family: var(--font-mono);
+    font-size: 0.6875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--card-accent, var(--rose));
+  }
+
+  &__spice {
+    font-family: var(--font-mono);
+    font-size: 0.6875rem;
+    color: var(--amber);
+  }
+}
+
+.reading-cw {
+  margin: 1.25rem 0 0;
+  padding: 1rem 1.25rem;
+  border-left: 2px solid var(--amber);
+
+  &__label {
+    font-family: var(--font-mono);
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--amber);
+  }
+
+  &__list {
+    margin: 0.5rem 0 0;
+    padding-left: 1.25rem;
+    color: var(--muted-foreground);
+    font-size: 0.875rem;
+  }
+}
+
+.reading-body {
+  margin-top: 1.25rem;
+
+  &--book-club {
+    h2 {
+      position: relative;
+      margin: 2rem 0 0.75rem;
+      padding-top: 1.25rem;
+      font-family: var(--font-serif);
+      font-size: clamp(1.125rem, 2.5vw, 1.375rem);
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      color: var(--foreground);
+      border-top: 1px solid color-mix(in oklab, var(--silver) 35%, transparent);
+
+      &::before {
+        display: block;
+        margin-bottom: 0.375rem;
+        font-family: var(--font-mono);
+        font-size: 0.5625rem;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 0.18em;
+        color: var(--violet);
+      }
+
+      &:first-of-type {
+        margin-top: 0;
+        padding-top: 0;
+        border-top: none;
+      }
+    }
+
+    h2:nth-of-type(1)::before { content: "01 · Hook & thesis"; }
+    h2:nth-of-type(2)::before { content: "02 · Contextual pivot"; }
+    h2:nth-of-type(3)::before { content: "03 · Deep-dive critique"; }
+    h2:nth-of-type(4)::before { content: "04 · Discussion launchpad"; }
+
+    p {
+      margin: 0 0 1rem;
+      line-height: 1.75;
+      color: color-mix(in oklab, var(--foreground) 92%, var(--silver));
+    }
+
+    p:last-child {
+      margin-top: 1.5rem;
+      font-family: var(--font-mono);
+      font-size: 0.6875rem;
+      letter-spacing: 0.06em;
+      color: var(--teal);
+    }
+
+    strong {
+      color: var(--foreground);
+    }
+
+    ul {
+      margin: 0.75rem 0 1rem;
+      padding-left: 1.25rem;
+      list-style: none;
+
+      li {
+        position: relative;
+        margin-bottom: 0.625rem;
+        padding-left: 0.875rem;
+        line-height: 1.65;
+        color: color-mix(in oklab, var(--foreground) 88%, var(--silver));
+
+        &::before {
+          content: "◆";
+          position: absolute;
+          left: 0;
+          font-size: 0.5rem;
+          color: var(--rose);
+          top: 0.45em;
+        }
+      }
+    }
+  }
+}
+
+.reading-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+  margin-top: 1.5rem;
+}
+
+.reading-tag {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  color: var(--teal);
+}
+
+@media (max-width: 32rem) {
+  .reading-hero {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .reading-hero__main .reading-meta {
+    justify-content: center;
+  }
+
+  .reading-log-header__pulse {
+    display: none;
+  }
+}
