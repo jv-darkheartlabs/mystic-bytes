@@ -2,6 +2,8 @@
 
 Static Jekyll site for essays, portfolio, CV, and media at [darkheartlabs.technology](https://darkheartlabs.technology).
 
+**Tech spec:** [docs/TECH_SPEC.md](docs/TECH_SPEC.md)
+
 ## Stack
 
 - Jekyll 4 + GitHub Pages
@@ -38,3 +40,9 @@ Pushes to `main` run `.github/workflows/jekyll.yml`: Jekyll build → Pagefind i
 ## License
 
 See [LICENSE](LICENSE).
+
+---
+
+**Maintained by:** [Dark Heart Labs](https://darkheartlabs.technology)  
+**Author:** Jennifer ([@jv-darkheartlabs](https://github.com/jv-darkheartlabs))  
+**Site:** https://darkheartlabs.technology
