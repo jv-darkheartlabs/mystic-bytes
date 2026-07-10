@@ -1652,14 +1652,6 @@ export const repositories: Repo[] = [
     blurb:
       "ANZSCO 261212: Next.js + Clerk authentication starter used as a clean baseline for developer portfolio presentations.",
   },
-  {
-    name: "projects-workspaces",
-    href: "https://github.com/jv-darkheartlabs/projects-workspaces",
-    updated: "2026-06",
-    status: "wip",
-    blurb:
-      "ANZSCO 262113: Workspace configuration tracking for the local Projects directory — editor layouts, env scaffolding, dotfiles.",
-  },
 
   // ── Forks (personal mirrors / patches) ───────────────────────────
   {

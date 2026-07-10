@@ -213,13 +213,6 @@ repositories:
     visibility: github-only
     blurb: "Next.js + Clerk authentication starter used as a clean baseline for developer portfolio presentations."
   -
-    name: projects-workspaces
-    href: "https://github.com/jv-darkheartlabs/projects-workspaces"
-    updated: 2026-06
-    status: wip
-    visibility: github-only
-    blurb: "Workspace configuration tracking for the local Projects directory — editor layouts, env scaffolding, dotfiles."
-  -
     name: mystic-bytes
     href: "https://github.com/jv-darkheartlabs/mystic-bytes"
     lang: SCSS
