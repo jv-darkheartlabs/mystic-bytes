@@ -1615,22 +1615,22 @@ export const repositories: Repo[] = [
       "ANZSCO 261212: Full-stack e-commerce portfolio sample with Next.js, Node.js, Stripe integration, and production-ready architecture.",
   },
 
-  // ── WIP ──────────────────────────────────────────────────────────
+  // ── Document packs and companion samples ─────────────────────────
   {
     name: "nz-immigration-application-tracker",
     href: "https://github.com/jv-darkheartlabs/nz-immigration-application-tracker",
     lang: "Ruby",
-    updated: "2026-06",
-    status: "wip",
+    updated: "2026-07",
+    status: "active",
     blurb:
-      "ANZSCO 261312: Rails 7 application demonstrating enterprise architecture and AI/ML integration around an immigration tracking workflow.",
+      "ANZSCO 261312: Submission pack — resume, cover letter, and portfolio evidence index with Rails capability blueprint.",
   },
   {
     name: "wellington-fintech-rails-api",
     href: "https://github.com/jv-darkheartlabs/wellington-fintech-rails-api",
     lang: "Ruby",
-    updated: "2026-06",
-    status: "wip",
+    updated: "2026-07",
+    status: "active",
     blurb:
       "ANZSCO 261312: Rails API backend exploring fintech patterns for the Wellington market — accounts, ledgers, and transaction primitives.",
   },
@@ -1638,10 +1638,10 @@ export const repositories: Repo[] = [
     name: "wellington-api-static",
     href: "https://github.com/jv-darkheartlabs/wellington-api-static",
     lang: "HTML",
-    updated: "2026-06",
-    status: "wip",
+    updated: "2026-07",
+    status: "active",
     blurb:
-      "ANZSCO 261212: Static documentation site paired with the Wellington fintech Rails API. Endpoint reference and onboarding notes.",
+      "ANZSCO 261312: Static documentation site paired with the Wellington fintech Rails API. Endpoint reference and onboarding notes.",
   },
   {
     name: "clerk-nextjs-starter",
