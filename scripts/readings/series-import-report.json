@@ -1,0 +1,408 @@
+{
+  "imported": [
+    {
+      "slug": "nancy-drew-57-the-triple-hoax",
+      "title": "The Triple Hoax",
+      "series": "nancy-drew",
+      "num": 57,
+      "date_read": "1994-05-15",
+      "grade": 8
+    },
+    {
+      "slug": "nancy-drew-58-the-flying-saucer-mystery",
+      "title": "The Flying Saucer Mystery",
+      "series": "nancy-drew",
+      "num": 58,
+      "date_read": "1994-05-15",
+      "grade": 8
+    },
+    {
+      "slug": "nancy-drew-59-the-secret-in-the-old-lace",
+      "title": "The Secret in the Old Lace",
+      "series": "nancy-drew",
+      "num": 59,
+      "date_read": "1994-05-15",
+      "grade": 8
+    },
+    {
+      "slug": "nancy-drew-60-the-greek-symbol-mystery",
+      "title": "The Greek Symbol Mystery",
+      "series": "nancy-drew",
+      "num": 60,
+      "date_read": "1994-05-15",
+      "grade": 8
+    },
+    {
+      "slug": "nancy-drew-61-the-swamis-ring",
+      "title": "The Swami's Ring",
+      "series": "nancy-drew",
+      "num": 61,
+      "date_read": "1994-05-15",
+      "grade": 8
+    },
+    {
+      "slug": "nancy-drew-62-the-kachina-doll-mystery",
+      "title": "The Kachina Doll Mystery",
+      "series": "nancy-drew",
+      "num": 62,
+      "date_read": "1994-05-15",
+      "grade": 8
+    },
+    {
+      "slug": "nancy-drew-63-the-twin-dilemma",
+      "title": "The Twin Dilemma",
+      "series": "nancy-drew",
+      "num": 63,
+      "date_read": "1994-05-15",
+      "grade": 8
+    },
+    {
+      "slug": "nancy-drew-64-captive-witness",
+      "title": "Captive Witness",
+      "series": "nancy-drew",
+      "num": 64,
+      "date_read": "1995-05-15",
+      "grade": 9
+    }
+  ],
+  "skipped": [
+    {
+      "series": "nancy-drew",
+      "num": 1,
+      "title": "The Secret of the Old Clock",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 2,
+      "title": "The Hidden Staircase",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 3,
+      "title": "The Bungalow Mystery",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 4,
+      "title": "The Mystery at Lilac Inn",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 5,
+      "title": "The Secret at Shadow Ranch",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 6,
+      "title": "The Secret of Red Gate Farm",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 7,
+      "title": "The Clue in the Diary",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 8,
+      "title": "Nancy's Mysterious Letter",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 9,
+      "title": "The Sign of the Twisted Candles",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 10,
+      "title": "The Password to Larkspur Lane",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 11,
+      "title": "The Clue of the Broken Locket",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 12,
+      "title": "The Message in the Hollow Oak",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 13,
+      "title": "The Mystery of the Ivory Charm",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 14,
+      "title": "The Whispering Statue",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 15,
+      "title": "The Haunted Bridge",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 16,
+      "title": "The Clue of the Tapping Heels",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 17,
+      "title": "The Mystery of the Brass-Bound Trunk",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 18,
+      "title": "The Mystery at the Moss-Covered Mansion",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 19,
+      "title": "The Quest of the Missing Map",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 20,
+      "title": "The Clue in the Jewel Box",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 21,
+      "title": "The Secret in the Old Attic",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 22,
+      "title": "The Clue in the Crumbling Wall",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 23,
+      "title": "The Mystery of the Tolling Bell",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 24,
+      "title": "The Clue in the Old Album",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 25,
+      "title": "The Ghost of Blackwood Hall",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 26,
+      "title": "The Clue of the Leaning Chimney",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 27,
+      "title": "The Secret of the Wooden Lady",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 28,
+      "title": "The Clue of the Black Keys",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 29,
+      "title": "The Mystery at the Ski Jump",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 30,
+      "title": "The Clue of the Velvet Mask",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 31,
+      "title": "The Ringmaster's Secret",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 32,
+      "title": "The Scarlet Slipper Mystery",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 33,
+      "title": "The Witch Tree Symbol",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 34,
+      "title": "The Hidden Window Mystery",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 35,
+      "title": "The Haunted Showboat",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 36,
+      "title": "The Secret of the Golden Pavilion",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 37,
+      "title": "The Clue in the Old Stagecoach",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 38,
+      "title": "The Mystery of the Fire Dragon",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 39,
+      "title": "The Clue of the Dancing Puppet",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 40,
+      "title": "The Moonstone Castle Mystery",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 41,
+      "title": "The Clue of the Whistling Bagpipes",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 42,
+      "title": "The Phantom of Pine Hill",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 43,
+      "title": "The Mystery of the 99 Steps",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 44,
+      "title": "The Clue in the Crossword Cipher",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 45,
+      "title": "The Spider Sapphire Mystery",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 46,
+      "title": "The Invisible Intruder",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 47,
+      "title": "The Mysterious Mannequin",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 48,
+      "title": "The Crooked Banister",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 49,
+      "title": "The Secret of Mirror Bay",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 50,
+      "title": "The Double Jinx Mystery",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 51,
+      "title": "Mystery of the Glowing Eye",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 52,
+      "title": "The Secret of the Forgotten City",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 53,
+      "title": "The Sky Phantom",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 54,
+      "title": "The Strange Message in the Parchment",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 55,
+      "title": "Mystery of Crocodile Island",
+      "reason": "exists"
+    },
+    {
+      "series": "nancy-drew",
+      "num": 56,
+      "title": "The Thirteenth Pearl",
+      "reason": "exists"
+    }
+  ],
+  "errors": [],
+  "generated_at": "2026-07-10T21:08:23.121Z"
+}

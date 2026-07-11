@@ -1,0 +1,703 @@
+{
+  "generated_at": "2026-07-10T23:45:17.683Z",
+  "dry_run": false,
+  "planned": {
+    "merge": 54,
+    "remove": 11,
+    "audit": 16
+  },
+  "merged": [
+    {
+      "keep": "the-vegas-rule",
+      "delete": "the-heartbreak-rule",
+      "reason": "slug-rename"
+    },
+    {
+      "keep": "the-vegas-rule",
+      "delete": "the-heartbreak-rule-2",
+      "reason": "slug-rename -2"
+    },
+    {
+      "keep": "white-lines",
+      "delete": "across-state-lines",
+      "reason": "slug-rename"
+    },
+    {
+      "keep": "white-lines",
+      "delete": "across-state-lines-2",
+      "reason": "slug-rename -2"
+    },
+    {
+      "keep": "pictures-of-you",
+      "delete": "part-of-you",
+      "reason": "slug-rename"
+    },
+    {
+      "keep": "pray-for-us",
+      "delete": "scream-for-us",
+      "reason": "slug-rename"
+    },
+    {
+      "keep": "pray-for-us",
+      "delete": "scream-for-us-2",
+      "reason": "slug-rename -2"
+    },
+    {
+      "keep": "fragile-allegiance",
+      "delete": "fragile-longing",
+      "reason": "slug-rename"
+    },
+    {
+      "keep": "fragile-allegiance",
+      "delete": "fragile-longing-2",
+      "reason": "slug-rename -2"
+    },
+    {
+      "keep": "watch-your-back",
+      "delete": "watch-your-back-2",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "youre-next",
+      "delete": "youre-next-2",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "dear-reader",
+      "delete": "dear-reader-2",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "villain-era",
+      "delete": "villain",
+      "reason": "duplicate title"
+    },
+    {
+      "keep": "deacon",
+      "delete": "deacon-2",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "westin",
+      "delete": "westin-2",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "sovereign",
+      "delete": "sovereign-2",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "fairydale",
+      "delete": "fairydale-2",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "the-blood-we-crave",
+      "delete": "the-blood-we-crave-2",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "the-blood-we-crave",
+      "delete": "the-blood-we-crave-3",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "a-darker-shade-of-magic",
+      "delete": "the-shades-of-magic",
+      "reason": "OCR misread"
+    },
+    {
+      "keep": "dark-fae",
+      "delete": "a-dark-fate",
+      "reason": "OCR misread"
+    },
+    {
+      "keep": "savage-fae",
+      "delete": "a-savage-fae",
+      "reason": "OCR misread"
+    },
+    {
+      "keep": "warrior-fae",
+      "delete": "a-war-of-fae-and-fate",
+      "reason": "OCR misread"
+    },
+    {
+      "keep": "a-house-of-powder-and-plot",
+      "delete": "a-heart-of-powder-and-plot",
+      "reason": "OCR misread"
+    },
+    {
+      "keep": "breaking-hailey",
+      "delete": "breaking-hailee",
+      "reason": "OCR typo"
+    },
+    {
+      "keep": "peaches-honey",
+      "delete": "peace-honey",
+      "reason": "OCR misread"
+    },
+    {
+      "keep": "pits-poison",
+      "delete": "pine-poison",
+      "reason": "OCR misread"
+    },
+    {
+      "keep": "slash-or-pass",
+      "delete": "passion",
+      "reason": "OCR misread"
+    },
+    {
+      "keep": "sinners-absolve",
+      "delete": "sinners-absolute",
+      "reason": "OCR misread"
+    },
+    {
+      "keep": "the-duke-and-i",
+      "delete": "the-duke-i",
+      "reason": "OCR truncation"
+    },
+    {
+      "keep": "the-once-and-future-king",
+      "delete": "the-once-future-king",
+      "reason": "OCR truncation"
+    },
+    {
+      "keep": "john-dies-at-the-end",
+      "delete": "john-dies-the-end",
+      "reason": "OCR truncation"
+    },
+    {
+      "keep": "lawless-god",
+      "delete": "the-lawless-god",
+      "reason": "OCR prefix"
+    },
+    {
+      "keep": "never-say-never",
+      "delete": "never",
+      "reason": "OCR truncation"
+    },
+    {
+      "keep": "crescent-city-house-of-earth-and-blood",
+      "delete": "house-of-earth-and-blood",
+      "reason": "OCR truncation"
+    },
+    {
+      "keep": "song-of-the-forever-rains",
+      "delete": "forever-rains",
+      "reason": "OCR truncation"
+    },
+    {
+      "keep": "symphony-for-a-deadly-throne",
+      "delete": "deadly-throne",
+      "reason": "OCR truncation"
+    },
+    {
+      "keep": "bewitched",
+      "delete": "bewitched-book-one",
+      "reason": "OCR suffix"
+    },
+    {
+      "keep": "altair-university-the-bleak-beginning",
+      "delete": "altair-university-2",
+      "reason": "series re-import"
+    },
+    {
+      "keep": "altair-university-the-ruthless-rivalry",
+      "delete": "altair-university",
+      "reason": "series re-import"
+    },
+    {
+      "keep": "the-murder-of-roger-ackroyd",
+      "delete": "the-murder-of-ackroyd",
+      "reason": "mis-titled duplicate"
+    },
+    {
+      "keep": "credence",
+      "delete": "credence-2",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "i-promise-you",
+      "delete": "i-promise-you-2",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "the-secret-garden",
+      "delete": "the-secret-garden-2",
+      "reason": "accidental -2"
+    },
+    {
+      "keep": "bound-by-the-past",
+      "delete": "sins-of-the-past",
+      "reason": "mis-titled duplicate"
+    },
+    {
+      "keep": "the-primal-of-blood-and-bone",
+      "delete": "the-ritual-of-bone",
+      "reason": "mis-titled duplicate"
+    },
+    {
+      "keep": "a-game-of-thrones",
+      "delete": "a-game-of-thrones-the-graphic-novel-volume-one",
+      "reason": "adaptation → canonical"
+    },
+    {
+      "keep": "a-wrinkle-in-time-time-quintet-1",
+      "delete": "a-wrinkle-in-time-the-graphic-novel",
+      "reason": "adaptation → canonical"
+    },
+    {
+      "keep": "catching-fire",
+      "delete": "catching-fire-the-official-illustrated-movie-companion-2-the-hunger-games",
+      "reason": "adaptation → canonical"
+    },
+    {
+      "keep": "jane-eyre",
+      "delete": "jane-eyre-the-graphic-novel",
+      "reason": "adaptation → canonical"
+    },
+    {
+      "keep": "new-moon",
+      "delete": "new-moon-the-complete-illustrated-movie-companion-the-twilight-saga-the-official",
+      "reason": "adaptation → canonical"
+    },
+    {
+      "keep": "the-lightning-thief-percy-jackson-and-the-olympians-1",
+      "delete": "the-lightning-thief-the-graphic-novel-percy-jackson-and-the-olympians-the-graphi",
+      "reason": "adaptation → canonical"
+    },
+    {
+      "keep": "the-picture-of-dorian-gray",
+      "delete": "the-picture-of-dorian-gray-a-graphic-novel",
+      "reason": "adaptation → canonical"
+    },
+    {
+      "keep": "to-kill-a-mockingbird",
+      "delete": "to-kill-a-mockingbird-a-graphic-novel",
+      "reason": "adaptation → canonical"
+    }
+  ],
+  "removed": [
+    {
+      "slug": "a-guide-for-grown-ups-essential-wisdom-from-the-collected-works-of-antoine-de-sa",
+      "reason": "reference / study material",
+      "title": "A Guide for Grown-Ups: Essential Wisdom from the Collected Works of Antoine de Saint-Exupéry"
+    },
+    {
+      "slug": "comptia-strata-it-technology-for-sales-certblaster",
+      "reason": "reference / study material",
+      "title": "Comptia Strata: It Technology for Sales + Certblaster"
+    },
+    {
+      "slug": "comptia-strata-study-guide-authorized-courseware-exams-fc0-u41-fc0-u11-and-fc0-u",
+      "reason": "reference / study material",
+      "title": "CompTIA Strata Study Guide Authorized Courseware: Exams FC0-U41, FC0-U11, and FC0-U21"
+    },
+    {
+      "slug": "grey-fifty-shades-of-grey-as-told-by-christian-summary-analysis",
+      "reason": "reference / study material",
+      "title": "Grey: Fifty Shades of Grey as Told by Christian. Summary & Analysis"
+    },
+    {
+      "slug": "harry-potter-and-the-chamber-of-secrets-selected-themes-from-the-motion-picture-",
+      "reason": "reference / study material",
+      "title": "Harry Potter and the Chamber of Secrets: Selected Themes from the Motion Picture - Piano Solos: Piano Solos (Includes Souvenir Poster), Book & Poster"
+    },
+    {
+      "slug": "harry-potter-and-the-chamber-of-secrets-sheet-music-for-flute-with-cd",
+      "reason": "reference / study material",
+      "title": "Harry Potter and the Chamber of Secrets: Sheet Music for Flute with CD"
+    },
+    {
+      "slug": "insurgent-the-ultimate-interactive-quiz-book-divergent-series-quiz-books-2",
+      "reason": "reference / study material",
+      "title": "Insurgent: The Ultimate Interactive Quiz Book (Divergent Series Quiz Books 2)"
+    },
+    {
+      "slug": "piano-vocal-guitar-sheet-music-the-chronicles-of-narnia-the-lion-the-witch-and-t",
+      "reason": "reference / study material",
+      "title": "Piano/Vocal/Guitar Sheet Music: The Chronicles of Narnia: The Lion, the Witch and The Wardrobe"
+    },
+    {
+      "slug": "selections-from-harry-potter-and-the-order-of-the-phoenix-piano-solos",
+      "reason": "reference / study material",
+      "title": "Selections from Harry Potter and The Order of the Phoenix: Piano Solos"
+    },
+    {
+      "slug": "the-lord-of-the-rings-weapons-and-warfare",
+      "reason": "reference / study material",
+      "title": "The Lord of the Rings: Weapons and Warfare"
+    },
+    {
+      "slug": "william-golding-lord-of-the-flies-penguin-study-notes",
+      "reason": "reference / study material",
+      "title": "William Golding, Lord of the flies Penguin Study Notes"
+    }
+  ],
+  "errors": [],
+  "orphan_covers_removed": [
+    {
+      "slug": "the-heartbreak-rule",
+      "cover": "the-heartbreak-rule.jpg"
+    },
+    {
+      "slug": "the-heartbreak-rule-2",
+      "cover": "the-heartbreak-rule-2.jpg"
+    },
+    {
+      "slug": "across-state-lines",
+      "cover": "across-state-lines.jpg"
+    },
+    {
+      "slug": "across-state-lines-2",
+      "cover": "across-state-lines-2.jpg"
+    },
+    {
+      "slug": "part-of-you",
+      "cover": "part-of-you.jpg"
+    },
+    {
+      "slug": "scream-for-us",
+      "cover": "scream-for-us.jpg"
+    },
+    {
+      "slug": "scream-for-us-2",
+      "cover": "scream-for-us-2.jpg"
+    },
+    {
+      "slug": "fragile-longing",
+      "cover": "fragile-longing.jpg"
+    },
+    {
+      "slug": "fragile-longing-2",
+      "cover": "fragile-longing-2.jpg"
+    },
+    {
+      "slug": "villain",
+      "cover": "villain.jpg"
+    },
+    {
+      "slug": "deacon-2",
+      "cover": "deacon-2.jpg"
+    },
+    {
+      "slug": "westin-2",
+      "cover": "westin-2.jpg"
+    },
+    {
+      "slug": "sovereign-2",
+      "cover": "sovereign-2.jpg"
+    },
+    {
+      "slug": "fairydale-2",
+      "cover": "fairydale-2.jpg"
+    },
+    {
+      "slug": "the-blood-we-crave-2",
+      "cover": "the-blood-we-crave-2.jpg"
+    },
+    {
+      "slug": "the-blood-we-crave-3",
+      "cover": "the-blood-we-crave-3.jpg"
+    },
+    {
+      "slug": "the-shades-of-magic",
+      "cover": "the-shades-of-magic.jpg"
+    },
+    {
+      "slug": "a-dark-fate",
+      "cover": "a-dark-fate.jpg"
+    },
+    {
+      "slug": "a-savage-fae",
+      "cover": "a-savage-fae.jpg"
+    },
+    {
+      "slug": "a-war-of-fae-and-fate",
+      "cover": "a-war-of-fae-and-fate.jpg"
+    },
+    {
+      "slug": "a-heart-of-powder-and-plot",
+      "cover": "a-heart-of-powder-and-plot.jpg"
+    },
+    {
+      "slug": "breaking-hailee",
+      "cover": "breaking-hailee.jpg"
+    },
+    {
+      "slug": "peace-honey",
+      "cover": "peace-honey.jpg"
+    },
+    {
+      "slug": "pine-poison",
+      "cover": "pine-poison.jpg"
+    },
+    {
+      "slug": "passion",
+      "cover": "passion.jpg"
+    },
+    {
+      "slug": "sinners-absolute",
+      "cover": "sinners-absolute.jpg"
+    },
+    {
+      "slug": "the-duke-i",
+      "cover": "the-duke-i.jpg"
+    },
+    {
+      "slug": "the-once-future-king",
+      "cover": "the-once-future-king.jpg"
+    },
+    {
+      "slug": "john-dies-the-end",
+      "cover": "john-dies-the-end.jpg"
+    },
+    {
+      "slug": "the-lawless-god",
+      "cover": "the-lawless-god.jpg"
+    },
+    {
+      "slug": "never",
+      "cover": "never.jpg"
+    },
+    {
+      "slug": "house-of-earth-and-blood",
+      "cover": "house-of-earth-and-blood.jpg"
+    },
+    {
+      "slug": "forever-rains",
+      "cover": "forever-rains.jpg"
+    },
+    {
+      "slug": "deadly-throne",
+      "cover": "deadly-throne.jpg"
+    },
+    {
+      "slug": "bewitched-book-one",
+      "cover": "bewitched-book-one.jpg"
+    },
+    {
+      "slug": "altair-university-2",
+      "cover": "altair-university-2.jpg"
+    },
+    {
+      "slug": "altair-university",
+      "cover": "altair-university.jpg"
+    },
+    {
+      "slug": "the-murder-of-ackroyd",
+      "cover": "the-murder-of-ackroyd.jpg"
+    },
+    {
+      "slug": "credence-2",
+      "cover": "credence-2.jpg"
+    },
+    {
+      "slug": "i-promise-you-2",
+      "cover": "i-promise-you-2.jpg"
+    },
+    {
+      "slug": "the-secret-garden-2",
+      "cover": "the-secret-garden-2.jpg"
+    },
+    {
+      "slug": "sins-of-the-past",
+      "cover": "sins-of-the-past.jpg"
+    },
+    {
+      "slug": "the-ritual-of-bone",
+      "cover": "the-ritual-of-bone.jpg"
+    },
+    {
+      "slug": "a-guide-for-grown-ups-essential-wisdom-from-the-collected-works-of-antoine-de-sa",
+      "cover": "a-guide-for-grown-ups-essential-wisdom-from-the-collected-works-of-antoine-de-sa.jpg"
+    },
+    {
+      "slug": "comptia-strata-it-technology-for-sales-certblaster",
+      "cover": "comptia-strata-it-technology-for-sales-certblaster.jpg"
+    },
+    {
+      "slug": "comptia-strata-study-guide-authorized-courseware-exams-fc0-u41-fc0-u11-and-fc0-u",
+      "cover": "comptia-strata-study-guide-authorized-courseware-exams-fc0-u41-fc0-u11-and-fc0-u.jpg"
+    },
+    {
+      "slug": "grey-fifty-shades-of-grey-as-told-by-christian-summary-analysis",
+      "cover": "grey-fifty-shades-of-grey-as-told-by-christian-summary-analysis.jpg"
+    },
+    {
+      "slug": "harry-potter-and-the-chamber-of-secrets-selected-themes-from-the-motion-picture-",
+      "cover": "harry-potter-and-the-chamber-of-secrets-selected-themes-from-the-motion-picture-.jpg"
+    },
+    {
+      "slug": "harry-potter-and-the-chamber-of-secrets-sheet-music-for-flute-with-cd",
+      "cover": "harry-potter-and-the-chamber-of-secrets-sheet-music-for-flute-with-cd.jpg"
+    },
+    {
+      "slug": "insurgent-the-ultimate-interactive-quiz-book-divergent-series-quiz-books-2",
+      "cover": "insurgent-the-ultimate-interactive-quiz-book-divergent-series-quiz-books-2.jpg"
+    },
+    {
+      "slug": "piano-vocal-guitar-sheet-music-the-chronicles-of-narnia-the-lion-the-witch-and-t",
+      "cover": "piano-vocal-guitar-sheet-music-the-chronicles-of-narnia-the-lion-the-witch-and-t.jpg"
+    },
+    {
+      "slug": "selections-from-harry-potter-and-the-order-of-the-phoenix-piano-solos",
+      "cover": "selections-from-harry-potter-and-the-order-of-the-phoenix-piano-solos.jpg"
+    },
+    {
+      "slug": "the-lord-of-the-rings-weapons-and-warfare",
+      "cover": "the-lord-of-the-rings-weapons-and-warfare.jpg"
+    },
+    {
+      "slug": "william-golding-lord-of-the-flies-penguin-study-notes",
+      "cover": "william-golding-lord-of-the-flies-penguin-study-notes.jpg"
+    },
+    {
+      "slug": "a-game-of-thrones-the-graphic-novel-volume-one",
+      "cover": "a-game-of-thrones-the-graphic-novel-volume-one.jpg"
+    },
+    {
+      "slug": "a-wrinkle-in-time-the-graphic-novel",
+      "cover": "a-wrinkle-in-time-the-graphic-novel.jpg"
+    },
+    {
+      "slug": "catching-fire-the-official-illustrated-movie-companion-2-the-hunger-games",
+      "cover": "catching-fire-the-official-illustrated-movie-companion-2-the-hunger-games.jpg"
+    },
+    {
+      "slug": "jane-eyre-the-graphic-novel",
+      "cover": "jane-eyre-the-graphic-novel.jpg"
+    },
+    {
+      "slug": "new-moon-the-complete-illustrated-movie-companion-the-twilight-saga-the-official",
+      "cover": "new-moon-the-complete-illustrated-movie-companion-the-twilight-saga-the-official.jpg"
+    },
+    {
+      "slug": "the-lightning-thief-the-graphic-novel-percy-jackson-and-the-olympians-the-graphi",
+      "cover": "the-lightning-thief-the-graphic-novel-percy-jackson-and-the-olympians-the-graphi.jpg"
+    },
+    {
+      "slug": "the-picture-of-dorian-gray-a-graphic-novel",
+      "cover": "the-picture-of-dorian-gray-a-graphic-novel.jpg"
+    },
+    {
+      "slug": "to-kill-a-mockingbird-a-graphic-novel",
+      "cover": "to-kill-a-mockingbird-a-graphic-novel.jpg"
+    }
+  ],
+  "audit_queue": [
+    {
+      "action": "audit-adaptation",
+      "keep": "",
+      "delete": "kristys-great-idea-a-graphic-novel-the-baby-sitters-club-graphic-novels-1",
+      "title": "Kristy's Great Idea: A Graphic Novel (The Baby-Sitters Club Graphic Novels #1)",
+      "reason": "no canonical match found"
+    },
+    {
+      "action": "audit-adaptation",
+      "keep": "",
+      "delete": "maze-runner-the-death-cure-the-official-graphic-novel-prelude",
+      "title": "Maze Runner: The Death Cure: The Official Graphic Novel Prelude",
+      "reason": "no canonical match found"
+    },
+    {
+      "action": "audit-adaptation",
+      "keep": "",
+      "delete": "maze-runner-the-scorch-trials-the-official-graphic-novel-prelude",
+      "title": "Maze Runner: The Scorch Trials: The Official Graphic Novel Prelude",
+      "reason": "no canonical match found"
+    },
+    {
+      "action": "audit-adaptation",
+      "keep": "",
+      "delete": "the-lord-of-the-rings-the-fellowship-of-the-ring-visual-companion",
+      "title": "The Lord of the Rings: The Fellowship of the Ring: Visual Companion",
+      "reason": "no canonical match found"
+    },
+    {
+      "action": "audit-us-uk",
+      "keep": "harry-potter-and-the-sorcerers-stone | harry-potter-and-the-philosophers-stone-harry-potter-1",
+      "delete": "harry-potter-and-the-sorcerers-stone",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "reason": "US vs UK Harry Potter #1"
+    },
+    {
+      "action": "audit-us-uk",
+      "keep": "harry-potter-and-the-sorcerers-stone | harry-potter-and-the-philosophers-stone-harry-potter-1",
+      "delete": "harry-potter-and-the-philosophers-stone-harry-potter-1",
+      "title": "Harry Potter and the Philosopher's Stone (Harry Potter, #1)",
+      "reason": "US vs UK Harry Potter #1"
+    },
+    {
+      "action": "audit-box-set",
+      "keep": "",
+      "delete": "dare-series-collection",
+      "title": "Dare",
+      "reason": "manual collection audit"
+    },
+    {
+      "action": "audit-box-set",
+      "keep": "",
+      "delete": "fifty-shades-trilogy-fifty-shades-1-3",
+      "title": "Fifty Shades Trilogy (Fifty Shades, #1-3)",
+      "reason": "manual collection audit"
+    },
+    {
+      "action": "audit-box-set",
+      "keep": "",
+      "delete": "fifty-shades-freed-book-three-of-the-fifty-shades-trilogy-fifty-shades-of-grey-s",
+      "title": "Fifty Shades Freed: Book Three of the Fifty Shades Trilogy (Fifty Shades of Grey Series) (English Edition) (Fifty Shades of Grey Series, 3)",
+      "reason": "manual collection audit"
+    },
+    {
+      "action": "audit-box-set",
+      "keep": "",
+      "delete": "dan-brown-omnibus-angels-and-demons-the-da-vinci-code-robert-langdon-1-2",
+      "title": "Dan Brown Omnibus: Angels and Demons / The Da Vinci Code (Robert Langdon, #1-2)",
+      "reason": "manual collection audit"
+    },
+    {
+      "action": "audit-box-set",
+      "keep": "",
+      "delete": "four-a-divergent-story-collection-divergent-0-1-0-4",
+      "title": "Four: A Divergent Story Collection (Divergent, #0.1-0.4)",
+      "reason": "manual collection audit"
+    },
+    {
+      "action": "audit-box-set",
+      "keep": "",
+      "delete": "the-lord-of-the-rings-the-trilogy",
+      "title": "The Lord of the Rings: The Trilogy",
+      "reason": "manual collection audit"
+    },
+    {
+      "action": "audit-box-set",
+      "keep": "",
+      "delete": "charlottes-web-and-other-illustrated-classics",
+      "title": "Charlotte's Web and Other Illustrated Classics",
+      "reason": "manual collection audit"
+    },
+    {
+      "action": "audit-box-set",
+      "keep": "",
+      "delete": "charlottes-web-stuart-little-slipcase-gift-set",
+      "title": "Charlotte's Web/Stuart Little Slipcase Gift Set",
+      "reason": "manual collection audit"
+    },
+    {
+      "action": "audit-box-set",
+      "keep": "",
+      "delete": "nancy-drew-1-64",
+      "title": "Nancy Drew: #1-64",
+      "reason": "manual collection audit"
+    },
+    {
+      "action": "audit-box-set",
+      "keep": "",
+      "delete": "twilight-series-6-book-collection",
+      "title": "Twilight Series 6 Book Collection",
+      "reason": "manual collection audit"
+    }
+  ]
+}

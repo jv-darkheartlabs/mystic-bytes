@@ -19,11 +19,16 @@
  *   --parallel N      Concurrent API calls (default 1)
  *   --progress-file   Progress JSON path (default book-club-progress.json)
  *   --skip-manifest   Skip manifest writes during run (sync after)
+ *   --reading-year Y  Era voice tied to date_read year (uses review-voice-by-era.mjs)
  */
 import { readFile, writeFile, readdir } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { getOpenAIConfig, requireOpenAIConfig } from "./openai-env.mjs";
+import {
+  buildSystemPrompt as buildEraSystemPrompt,
+  buildUserPrompt as buildEraUserPrompt,
+} from "./review-voice-by-era.mjs";
 
 const DIR = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(DIR, "../..");
@@ -96,6 +101,7 @@ const skipManifest = has("--skip-manifest");
 const dryRun = has("--dry-run");
 const resume = has("--resume");
 const processAll = has("--all");
+const readingYearArg = flag("--reading-year");
 
 const OPENAI_KEY = getOpenAIConfig().apiKey;
 if (!dryRun && !OPENAI_KEY) {
@@ -191,8 +197,21 @@ function buildUserPrompt(meta) {
   );
 }
 
-async function generateReview(meta, attempt = 1) {
+function resolveReadingYear(reading) {
+  if (readingYearArg) return Number(readingYearArg);
+  const dr = reading.front.match(/^date_read:\s*(\S+)/m)?.[1];
+  if (dr && /^\d{4}/.test(dr)) return Number(dr.slice(0, 4));
+  return null;
+}
+
+async function generateReview(meta, readingYear = null, attempt = 1) {
   const { apiKey, chatCompletionsUrl } = requireOpenAIConfig();
+  const systemPrompt =
+    readingYear != null ? buildEraSystemPrompt(readingYear) : buildSystemPrompt();
+  const userPrompt =
+    readingYear != null
+      ? buildEraUserPrompt({ ...meta, reading_year: readingYear })
+      : buildUserPrompt(meta);
   const res = await fetch(chatCompletionsUrl, {
     method: "POST",
     headers: {
@@ -203,8 +222,8 @@ async function generateReview(meta, attempt = 1) {
       model,
       response_format: { type: "json_object" },
       messages: [
-        { role: "system", content: buildSystemPrompt() },
-        { role: "user", content: buildUserPrompt(meta) },
+        { role: "system", content: systemPrompt },
+        { role: "user", content: userPrompt },
       ],
       max_tokens: 1600,
       temperature: 0.75,
@@ -217,7 +236,7 @@ async function generateReview(meta, attempt = 1) {
       const wait = attempt * 2000;
       console.warn(`  retry ${attempt}/3 after ${wait}ms (${res.status})`);
       await new Promise((r) => setTimeout(r, wait));
-      return generateReview(meta, attempt + 1);
+      return generateReview(meta, readingYear, attempt + 1);
     }
     throw new Error(`OpenAI ${res.status}: ${err.slice(0, 400)}`);
   }
@@ -228,7 +247,7 @@ async function generateReview(meta, attempt = 1) {
   if (!parsed.body || !hasBookClubBody(parsed.body)) {
     if (attempt < 3) {
       console.warn(`  retry ${attempt}/2 — invalid section structure`);
-      return generateReview(meta, attempt + 1);
+      return generateReview(meta, readingYear, attempt + 1);
     }
     throw new Error("Invalid response: missing book-club sections or debate questions");
   }
@@ -354,8 +373,11 @@ async function processReading(reading, label) {
   };
 
   try {
-    console.log(`${label} ${reading.slug} (${reading.title})…`);
-    const newBody = await generateReview(meta);
+    const readYear = resolveReadingYear(reading);
+    console.log(
+      `${label} ${reading.slug} (${reading.title})${readYear ? ` [${readYear}]` : ""}…`
+    );
+    const newBody = await generateReview(meta, readYear);
     const md = writeReadingFile(reading.front, newBody);
     await writeFile(join(READINGS_DIR, reading.file), md, "utf8");
 
