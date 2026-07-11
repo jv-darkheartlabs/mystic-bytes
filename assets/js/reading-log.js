@@ -36,6 +36,14 @@
       }
       return titleA.localeCompare(titleB);
     }
+    if (activeSort === "read") {
+      var readA = a.getAttribute("data-date-read") || "";
+      var readB = b.getAttribute("data-date-read") || "";
+      if (readA === readB) {
+        return Number(b.getAttribute("data-sort-key") || 0) - Number(a.getAttribute("data-sort-key") || 0);
+      }
+      return readB.localeCompare(readA);
+    }
     return Number(b.getAttribute("data-sort-key") || 0) - Number(a.getAttribute("data-sort-key") || 0);
   }
 

@@ -1,0 +1,11 @@
+# Hidden from /media/literary-analysis/ grid (individual /r/:slug/ pages remain).
+# Study guides + non-literary reference; tech/aromatherapy reference stays visible when present.
+hidden_slugs:
+  - schaums-outline-of-essential-computer-mathematics
+  - essential-essays-by-the-minimalists
+  - minimalist-living-simplify-organize-and-declutter-your-life
+  - think-like-a-publisher-33-essential-tips-to-write-promote-sell-your-book
+  - who-moved-my-cheese
+  - word-smart-building-an-educated-vocabulary
+  - word-smart-for-business-cultivating-a-six-figure-vocabulary-smart-guides
+  - word-smart-ii

@@ -262,6 +262,21 @@ $reading-families: passion, power, gothic, bond, edge;
     font-size: 0.6875rem;
   }
 
+  &__category {
+    font-family: var(--font-mono);
+    font-size: 0.5625rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: color-mix(in oklab, var(--card-accent, var(--violet)) 72%, var(--muted-foreground));
+  }
+
+  &__read {
+    font-family: var(--font-mono);
+    font-size: 0.5625rem;
+    color: var(--muted-foreground);
+    letter-spacing: 0.04em;
+  }
+
   &__spice {
     margin-top: 0.125rem;
     font-size: 0.75rem;

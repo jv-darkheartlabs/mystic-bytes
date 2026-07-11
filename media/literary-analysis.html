@@ -8,8 +8,15 @@ redirect_from:
   - /readings/
 ---
 
-{% assign sorted = site.readings | sort: "sort_key" | reverse %}
 {% assign categories = site.data.reading_categories.categories %}
+{% assign hidden_slugs = site.data.shelf_exclusions.hidden_slugs | default: "" %}
+{% assign sorted = site.readings | sort: "sort_key" | reverse %}
+{% assign shelf_count = 0 %}
+{% for r in sorted %}
+  {% if r.shelf == false %}{% continue %}{% endif %}
+  {% if hidden_slugs contains r.slug %}{% continue %}{% endif %}
+  {% assign shelf_count = shelf_count | plus: 1 %}
+{% endfor %}
 
 <style>
   .reading-grid .reading-card.reading-card--hidden {
@@ -23,7 +30,7 @@ redirect_from:
   {% include signal-badge.html code="READ" %}
   <p class="page-eyebrow">[literary-analysis]</p>
   <h1 class="page-title">literary analysis</h1>
-  <p class="archive-count">{{ sorted.size }} reviews. Critical essays on dark romance — trope, craft, and the ethics of desire.</p>
+  <p class="archive-count">{{ shelf_count }} reviews. Critical essays on dark romance — trope, craft, and the ethics of desire.</p>
 </header>
 
 <div class="reading-toolbar">
@@ -38,7 +45,8 @@ redirect_from:
       spellcheck="false"
     >
     <div class="reading-sort" role="group" aria-label="Sort reviews">
-      <button type="button" class="reading-sort__btn is-active" data-sort="date">date ↓</button>
+      <button type="button" class="reading-sort__btn is-active" data-sort="date">site ↓</button>
+      <button type="button" class="reading-sort__btn" data-sort="read">read ↓</button>
       <button type="button" class="reading-sort__btn" data-sort="title">title A–Z</button>
     </div>
   </div>
@@ -53,6 +61,8 @@ redirect_from:
 
 <div class="reading-grid" id="reading-grid">
   {% for reading in sorted %}
+  {% if reading.shelf == false %}{% continue %}{% endif %}
+  {% if hidden_slugs contains reading.slug %}{% continue %}{% endif %}
   {% assign cat = categories[reading.category] %}
   <a
     class="reading-card"
@@ -60,6 +70,7 @@ redirect_from:
     data-category="{{ reading.category }}"
     data-family="{{ cat.family }}"
     data-sort-key="{{ reading.sort_key }}"
+    data-date-read="{{ reading.date_read | default: '' }}"
     data-title="{{ reading.title | downcase | escape }}"
     data-author="{{ reading.author | default: '' | downcase | escape }}"
   >
@@ -74,6 +85,12 @@ redirect_from:
       {% if reading.author %}
       <span class="reading-card__author">{{ reading.author }}</span>
       {% endif %}
+      {% if cat %}
+      <span class="reading-card__category">{{ cat.label }}</span>
+      {% endif %}
+      {% if reading.date_read %}
+      <span class="reading-card__read">read {{ reading.date_read | date: "%b %Y" }}</span>
+      {% endif %}
       {% if reading.spice %}
       {% assign reading_spice = site.data.reading_categories.spice_levels | where: "level", reading.spice | first %}
       <span class="reading-card__spice">{% if reading_spice %}{{ reading_spice.peppers }}{% else %}🌶️×{{ reading.spice }}{% endif %}</span>
@@ -84,5 +101,5 @@ redirect_from:
   <p class="reading-empty" id="reading-empty" hidden>No reviews match your search.</p>
 </div>
 
-<script src="{{ '/assets/js/reading-log.js' | relative_url }}?v=3" defer></script>
+<script src="{{ '/assets/js/reading-log.js' | relative_url }}?v=4" defer></script>
 </div>

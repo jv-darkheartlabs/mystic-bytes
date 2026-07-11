@@ -7,6 +7,13 @@ permalink: /media/written/
 
 {% assign sorted = site.essays | where_exp: "e", "e.locked != true" | sort: "sort_key" | reverse %}
 {% assign readings = site.readings | sort: "sort_key" | reverse %}
+{% assign hidden_slugs = site.data.shelf_exclusions.hidden_slugs | default: "" %}
+{% assign shelf_count = 0 %}
+{% for r in readings %}
+  {% if r.shelf == false %}{% continue %}{% endif %}
+  {% if hidden_slugs contains r.slug %}{% continue %}{% endif %}
+  {% assign shelf_count = shelf_count | plus: 1 %}
+{% endfor %}
 
 <div class="container media-written">
   <header class="media-sub-header signal-header">
@@ -55,7 +62,12 @@ permalink: /media/written/
       <a class="btn-outline" href="{{ '/readings-feed.xml' | relative_url }}">reviews rss ↗</a>
     </div>
     <ul class="media-written-list">
-      {% for reading in readings limit: 8 %}
+      {% assign shown = 0 %}
+      {% for reading in readings %}
+      {% if reading.shelf == false %}{% continue %}{% endif %}
+      {% if hidden_slugs contains reading.slug %}{% continue %}{% endif %}
+      {% if shown >= 8 %}{% break %}{% endif %}
+      {% assign shown = shown | plus: 1 %}
       <li>
         <a href="{{ reading.url | relative_url }}">
           <span class="media-written-list__num">{{ reading.number }}</span>
@@ -66,7 +78,7 @@ permalink: /media/written/
       {% endfor %}
     </ul>
     <p class="media-written-more">
-      <a href="{{ '/media/literary-analysis/' | relative_url }}">{{ readings.size }} reviews total →</a>
+      <a href="{{ '/media/literary-analysis/' | relative_url }}">{{ shelf_count }} reviews total →</a>
     </p>
   </section>
 
