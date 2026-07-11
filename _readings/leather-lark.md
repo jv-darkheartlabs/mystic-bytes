@@ -7,7 +7,7 @@ dek: "The Ruinous Love Trilogy"
 number: R114
 sort_key: 114
 date: 2021-11-14
-date_read: 2021-11-13
+date_read: 2021-09-19
 category: enemies-to-lovers
 cover: /assets/readings/leather-lark.jpg
 spice: 4
@@ -28,25 +28,25 @@ tags:
 review_format: book-club
 ---
 
-## Hook & thesis  
-In *Leather & Lark*, Brynne Weaver orchestrates a symphony of tension between two deeply flawed characters caught in a dance of love and destruction. **Verdict:** This novel masterfully intertwines the enemies-to-lovers trope with a haunting exploration of desire as a double-edged sword, leaving the reader both enamored and unsettled.
+## Hook & thesis
+In Brynne Weaver's *Leather & Lark*, the collision of love and darkness serves as a haunting backdrop for an enemies-to-lovers narrative that both entices and disturbs. **Verdict:** This novel not only challenges the conventions of its genre but ensnares the reader in a web of obsession that forces one to confront the seductive nature of ruinous love.
 
-## The contextual pivot  
-Positioned within the dark romance genre, *Leather & Lark* flirts with the boundaries of conventional storytelling, much like the works of authors such as Penelope Douglas and Tarryn Fisher. Weaver crafts a narrative that challenges expectations, drawing in an audience that revels in the complexities of ruinous love amidst a backdrop of rockstar allure and serial killer intrigue. The author deftly bridges niche tropes with more mainstream themes, inviting readers who may not typically venture into darker realms to explore the psychological depths of her characters’ motivations.
+## The contextual pivot
+Weaver's work fits snugly within the dark romance subgenre, a realm where passion intertwines with peril, and the allure of danger becomes a character in its own right. This book is a part of *The Ruinous Love Trilogy*, and it stands out against the likes of authors such as Tarryn Fisher and Anna Zaires, who similarly explore the darker recesses of love through twisted narratives. The invisible audience here is likely drawn from those who have a taste for the macabre, yet Weaver deftly bridges niche tropes to appeal to general readers, presenting a narrative that is both accessible and deeply unsettling.
 
-## Deep-dive critique  
-Weaver’s structural choices propel the narrative forward with a sense of urgency, utilizing alternating points of view to deepen our understanding of both protagonists. This technique not only enhances the intimacy of their emotional struggles but also amplifies the tension between them, crafting a relentless push-pull dynamic that keeps readers engaged. The pacing is meticulously controlled; moments of visceral confrontation are interspersed with quieter, introspective passages that allow the simmering desire to breathe before the next explosion. 
+## Deep-dive critique
+The structure of *Leather & Lark* employs a dual perspective that oscillates between the protagonists, a choice that cleverly augments the tension inherent in their fraught relationship. The pacing, particularly in the first half, is designed to draw the reader in with gradual revelations of each character's backstory, which enhances the overarching theme of obsession. Weaver's prose is sharp and evocative, laced with dark humor that offsets the violence and obsession lurking beneath the surface. However, while the dialogue crackles with tension, at times it veers towards melodrama, which can detract from the otherwise meticulous world-building. 
 
-Character development is particularly striking, as both leads are depicted with a rawness that is both unsettling and relatable. The dialogue crackles with tension, reflecting their animosity and attraction, while the world-building within the rock and serial killer contexts is rich and immersive, drawing readers into an atmosphere thick with danger and allure. However, some may find the ending somewhat abrupt, as it raises questions about redemption and consequence without fully resolving the characters' arcs. This ambiguity serves to establish a lingering sense of unease, fitting for a narrative that thrives on the razor’s edge between love and ruin.
+The thematic success lies in its exploration of the fine line between love and madness; the characters are not simply lovers but rather mirrors reflecting each other's darkness. The ending, which intertwines resolution with ambiguity, is both earned and thought-provoking, leaving the reader grappling with the consequences of the characters' choices. 
 
-## Discussion launchpad  
-While *Leather & Lark* dazzles with its intensity, it invites debate on the morality of its characters and the implications of their dark desires. What does the portrayal of love entwined with danger say about our own romantic pursuits? Can we celebrate a relationship built on conflict, or does it romanticize toxicity?
+## Discussion launchpad
+The interplay between love and violence serves as a polarizing element that could ignite a heated discussion. The novel’s exploration of obsession raises questions about the boundaries of love and the morality of desire.
 
 **Questions for the room:**  
-- Does the dark allure of the protagonists make them more relatable or more repulsive?  
-- How does the setting influence your perception of the characters' actions?  
-- In what ways does the book challenge traditional perceptions of love and desire?  
-- Is the ending more of a closure or an invitation to further chaos?  
-- How does the shift in POV impact your connection to the characters?  
+- Do you believe the portrayal of obsession enhances or undermines the romantic elements of the story?  
+- How does Weaver's use of dark humor affect your perception of the characters and their motivations?  
+- What role does the dual perspective play in shaping our understanding of love and violence in the narrative?  
+- Can you separate the allure of the characters from their darker traits, or do they become inextricably linked in your reading?  
+- How does *Leather & Lark* compare to other dark romances in its treatment of the enemies-to-lovers trope?
 
-#literaryanalysis #LeatherAndLark #RuinousLove #BrynneWeaver #DarkRomance
+#TheOrchidRoom #enemiestolovers #darkromance #rockstar #serialkillerromance

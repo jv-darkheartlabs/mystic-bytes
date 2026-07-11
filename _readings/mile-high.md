@@ -7,7 +7,7 @@ dek: ""
 number: R460
 sort_key: 460
 date: 2023-01-02
-date_read: 2022-12-29
+date_read: 2019-04-04
 category: enemies-to-lovers
 cover: /assets/readings/mile-high.jpg
 spice: 4
@@ -26,24 +26,26 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-In *Mile High*, Liz Tomforde deftly unravels the tension between animosity and desire as a hockey team captain and a flight attendant are thrust together, igniting a combustible mix of rivalry and attraction. **Verdict:** This novel serves as an exhilarating exploration of how proximity can redefine the boundaries of the heart.
+In **Mile High**, Liz Tomforde deftly weaves a narrative of simmering tensions and heartfelt vulnerability within the framework of an enemies-to-lovers romance that transcends its genre conventions. **Verdict:** This book expertly navigates the turbulent waters of desire and self-discovery, resulting in a compelling exploration of trauma and connection.
 
 ## The contextual pivot
-Positioned within the enemies-to-lovers trope, *Mile High* stands out in the contemporary romance landscape, particularly within the sports romance subgenre. Tomforde's narrative resonates with fans of both dark romance and lighthearted romantic comedies, creating a bridge that may attract a wider audience. The author is known for her sharp dialogue and compelling character arcs, and this novel maintains her signature blend of witty banter and palpable tension, echoing the works of authors like Talia Hibbert and Elle Kennedy, while embracing the unique setting of air travel—a perfect backdrop for forced proximity and emotional turbulence.
+Set against the backdrop of professional hockey, **Mile High** operates within the sports romance subgenre, a niche often marked by both physical competition and emotional stakes. Tomforde, whose previous works flirt with dark romance themes, invites readers to traverse a landscape rife with tension, not just between the protagonists, but also within themselves. The narrative skillfully appeals to both dedicated fans of hockey romance and general readers, bridging the often insular world of sports fiction with broader themes of body image and past trauma, creating a rich tapestry that resonates far beyond the rink.
 
 ## Deep-dive critique
-Tomforde's structure is meticulously crafted, employing dual perspectives that enrich the reader's understanding of the characters' inner conflicts. This duality not only enhances the tension but also allows for an exploration of vulnerability beneath the armor of rivalry. The pacing, particularly in the first half, builds anticipation effectively; however, there are moments where the narrative momentum falters, particularly in the mid-section where repetitive conflicts slightly dilute the intensity built earlier. 
+Tomforde's structure is particularly noteworthy, utilizing a dual perspective that allows readers to experience the protagonists' emotional journeys intimately. The pacing ebbs and flows beautifully; moments of high tension are interspersed with contemplative interludes that delve into the characters' internal struggles. The dialogue crackles with authenticity, capturing the sharp, often antagonistic wit of enemies forced into proximity by circumstance, while also revealing deeper layers of vulnerability and longing.
 
-Character development is a strong suit here, as both protagonists are multi-dimensional, layered with flaws that make their journey toward understanding and accepting their feelings relatable and engaging. Their dialogue sparkles with wit, though there are instances where the banter veers into cliché territory. Still, the emotional stakes are high, particularly as the characters confront their own fears and misconceptions—an aspect that elevates the thematic depth far beyond mere romantic tension. The ending, while satisfying, carries a hint of predictability; however, it is earned through the protagonists’ growth, making it feel like a necessary resolution rather than a mere convenience.
+However, the novel is not without its mechanical flaws. At times, the character development feels uneven; certain secondary characters lack depth, serving merely as plot devices rather than fully realized individuals. This oversight occasionally undermines the emotional weight of the central relationship, leaving some scenes feeling overly reliant on the protagonists' chemistry rather than on a well-rounded ensemble.
+
+The thematic exploration of body image and past trauma is handled with sensitivity, though some readers may find the treatment of these issues a touch superficial, particularly in relation to the protagonists' romantic entanglement. The ending, however, is earned, providing a satisfying resolution that encapsulates the growth both characters experience through their tumultuous interactions.
 
 ## Discussion launchpad
-While *Mile High* successfully navigates the complexities of enemies-to-lovers dynamics, its reliance on familiar tropes can provoke debate over originality versus comfort within the genre. The juxtaposition of lighthearted romance against darker themes of rivalry raises questions about emotional authenticity and depth in character motivations.
+While **Mile High** presents a thrilling rollercoaster of emotions, certain polarities may spark heated discussion among readers. The balance between romance and the portrayal of trauma raises questions about representation in the genre. 
 
-**Questions for the room:**  
-- Do you believe the familiar tropes enhance or detract from the overall narrative?  
-- How do the characters' flaws serve to deepen the reader's engagement with their romance?  
-- In what ways does the unique setting of air travel impact the story's themes of proximity and tension?  
-- Is predictability in the ending a flaw or a comfort in romance narratives?  
-- Can the balance of humor and emotional depth coexist effectively in dark romance?
+**Questions for the room:**
+- Can a romance narrative successfully address serious themes without compromising the emotional stakes of the love story?
+- How does the dual perspective shape your understanding of the characters’ motivations and desires?
+- In what ways does the setting of professional sports enhance or detract from the romantic plot?
+- Are the secondary characters merely functional, or do they contribute meaningfully to the protagonists' arcs?
+- Does the treatment of body image resonate with contemporary issues, or is it a missed opportunity?
 
-#literaryanalysis #MileHigh #LizTomforde #HockeyRomance #DarkRomance
+#TheOrchidRoom #enemiestolovers #darkromance #hockeyromance #literaryanalysis

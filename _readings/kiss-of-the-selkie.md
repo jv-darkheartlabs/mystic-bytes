@@ -6,7 +6,7 @@ dek: "Entangled with Fae — A Little Mermaid Retelling"
 number: R1418
 sort_key: 1418
 date: 2026-03-19
-date_read: 2026-03-06
+date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/kiss-of-the-selkie.jpg
 spice: 3
@@ -30,24 +30,26 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-*Tessonja Odette's* *Kiss of the Selkie* melds the ethereal with the brutal, exploring the depths of desire amidst the sharp coral of obligation. **Verdict:** This novel invites readers to surrender to its haunting currents, revealing that true love often demands the unthinkable.
+Tessonja Odette’s *Kiss of the Selkie* plunges the reader into a world where longing and transformation clash amid the tides of fate and captivity. **Verdict:** This dark, romantic retelling of *The Little Mermaid* transcends its genre, weaving a tapestry of desire and danger that lingers long after the last page.
 
 ## The contextual pivot
-In the realm of fantasy romance, *Kiss of the Selkie* distinguishes itself as a retelling of the classic Little Mermaid tale, yet it dives deeper into the darker waters of longing and sacrifice. Odette’s narrative sits comfortably beside the works of Sarah J. Maas and Melissa Caruso, where magic intertwines with maturation and desire. The book appeals to a niche audience familiar with faerie lore and oceanic mythos while simultaneously casting a wider net that could ensnare general readers drawn to tales rich in emotional stakes and supernatural intrigue.
+As a fantasy-romance, *Kiss of the Selkie* occupies a unique niche within a crowded market, blending familiar fairy-tale elements with the allure of selkie mythology. Odette masterfully embraces the oceanic themes akin to Sarah J. Maas’ *A Court of Thorns and Roses*, while threading in the dark allure characteristic of authors like Anne Rice. The book's invisible audience is likely to include both avid fans of retellings and readers drawn to darker narratives featuring fae and otherworldly transformations. By bridging niche tropes with broader romantic themes, Odette invites both genre enthusiasts and general readers to explore the depths of human emotion.
 
 ## Deep-dive critique
-Odette's structure is a tapestry of interwoven timelines, skillfully balancing past regrets with present desires. The duality of the protagonist's existence — between her selkie heritage and her human emotions — creates an engaging tension that propels the narrative forward. The pacing, while occasionally caught in languid moments of introspection, ultimately serves to enhance the urgency of the love story as the clock ticks down on the protagonist’s fate. 
+Odette's narrative structure is both fluid and hypnotic, mirroring the mysterious ebb and flow of the ocean. The shifting POV allows readers to inhabit the minds of both the selkie and her love interest, creating a rich tapestry of emotional conflict. However, while the alternating perspectives enhance the depth of character exploration, they occasionally disrupt the pacing, leaving the reader yearning for a tighter focus on the central relationship.
 
-The prose is lush and evocative, particularly in its descriptions of the ocean's pull and the transformative allure of the fae. Odette’s dialogue crackles with both tension and tenderness, capturing the conflicting emotions of characters bound by ancient curses and modern desires. However, there are moments when the exposition can feel heavy-handed, slightly dulling the otherwise vibrant atmosphere. The ending, while poetic, raises questions about the characters' growth — does their resolution genuinely resonate, or does it feel more like a concession to genre norms?
+The prose throughout is lush and evocative, expertly conjuring images of the tumultuous sea and the haunting beauty of the fae. Dialogues resonate with an undercurrent of tension, deftly capturing the characters' desires and fears. Yet, some interactions feel slightly predictable, as if they adhere too closely to genre conventions without fully subverting them.
+
+Thematically, *Kiss of the Selkie* excels in its exploration of freedom versus captivity, desire versus obligation. Odette deftly depicts the characters' internal struggles, imbuing their transformations with both physical and emotional stakes. The ending, while climactic, may leave some readers feeling unresolved, as it flirts with a traditional fairy-tale conclusion without fully committing to the consequences of its characters’ choices.
 
 ## Discussion launchpad
-The novel dances with the delicate balance of enchantment and melancholy, provoking thoughts on the costs of desire. What remains unsaid is the gravity of sacrifice — how far would one go to attain the heart’s true longing? Does the fairy tale format adequately address the complexities of such sacrifices, or does it gloss over them in favor of romantic resolution?
+Odette's work invites a deeper discourse on the nature of transformation and captivity in romance narratives. The interplay between darkness and desire raises compelling questions about agency and identity. What does it mean to truly be free when love itself can feel like a form of bondage?
 
 **Questions for the room:**  
-- In what ways does the duality of the protagonist's identity shape her choices?  
-- Does the ending feel like a triumph or a defeat in the context of sacrifice?  
-- How does *Kiss of the Selkie* challenge or reinforce traditional fairy tale tropes?  
-- What implications does the fae's presence have on the themes of agency and control within the narrative?  
-- How do the oceanic metaphors function as a reflection of emotional depth and turmoil?  
+- How do the themes of transformation and captivity impact your understanding of love within the narrative?  
+- In what ways do you believe Odette's retelling diverges from or honors the original *Little Mermaid* tale?  
+- How does the presence of fae mythology influence your perception of the characters' motivations?  
+- Do you find the ending satisfying in terms of character development and thematic resolution? If not, why?  
+- How does the book balance its darker themes with romantic elements — does it succeed or falter?
 
-#literaryanalysis #KissOfTheSelkie #TessonjaOdette #fantasyromance #darkromance
+#TheOrchidRoom #fantasyromance #darkromance #selkie #literaryanalysis

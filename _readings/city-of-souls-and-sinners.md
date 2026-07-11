@@ -7,7 +7,7 @@ dek: "House of Symbols Book Two — Something wicked is coming."
 number: R569
 sort_key: 569
 date: 2023-05-12
-date_read: 2023-05-01
+date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/city-of-souls-and-sinners.jpg
 spice: 4
@@ -26,24 +26,24 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-*City of Souls and Sinners* by Kayla Edwards emerges as a dark tapestry woven with threads of desire, longing, and the inevitable pull of fate. **Verdict:** This book deftly explores the human condition entangled in the web of choice and consequence, illuminating the darker shades of love's ambition.
+In Kayla Edwards' *City of Souls and Sinners*, we traverse a haunting landscape where desire and darkness entwine, showcasing the tumultuous dance between love and moral decay. **Verdict:** This novel artfully dissects the shadows of passion, revealing that sometimes the most wicked souls are the ones that feel too deeply.
 
 ## The contextual pivot
-Nestled within the fantasy-romance genre, Edwards crafts a world where the mystical collides with the visceral, seamlessly bridging niche tropes with broader themes of identity and morality. Her work resonates with readers familiar with authors like Aileen Erin and Jennifer Armentrout, who also delve into the complexities of love amidst chaos. The invisible audience here is likely those who crave a deeper exploration of character-driven narratives yet desire the intoxicating allure of dark romance — a potent combination that elevates the reading experience beyond mere escapism.
+Positioned within the rich tapestry of fantasy romance, *City of Souls and Sinners* resonates with the echoes of authors like Sarah J. Maas and Jennifer L. Armentrout, yet Edwards carves her own niche. The book melds the allure of the supernatural with the raw intensity of emotional conflict, inviting both genre aficionados and romance newcomers into its seductive embrace. The intricate world Edwards builds serves not merely as a backdrop but as a character in its own right, heightening the stakes of every choice made by the protagonists. In this installment of the House of Symbols series, readers who revel in morally ambiguous characters and complex relationships will find much to savor.
 
 ## Deep-dive critique
-Edwards employs a dual narrative structure, allowing readers to witness the conflicting desires of her characters, thereby enriching the emotional landscape. The alternating points of view not only amplify tension but also serve as a mirror reflecting their inner turmoil. For instance, the pacing ebbs and flows beautifully, matching the highs of passion with the lows of despair, creating a rhythm that keeps the reader engaged. However, the dialogue, while often poetic, occasionally veers into melodrama, risking the authenticity of characters' voices in moments of heightened emotion.
+The narrative structure of *City of Souls and Sinners* is a labyrinthine journey, deftly employing dual perspectives that allow readers to glimpse the heart of each conflicted soul. This technique enriches the emotional landscape and fosters a painful intimacy, inviting us to empathize with characters who often oscillate between light and shadow. The pacing, while deliberate, mirrors the slow unraveling of secrets, which can both tantalize and frustrate; at times, the momentum falters under the weight of introspection. However, this introspection is not unwarranted, as the thematic exploration of love intertwined with guilt and redemption often necessitates such depth.
 
-World-building is one of Edwards’ strong suits; the intricate setting of the City itself becomes a character, its dark alleys and shimmering lights embodying the duality of temptation and danger. Yet, there are moments where the exposition feels heavy-handed, detracting from the urgency of the plot. The thematic exploration of choices — and the haunting consequences they bear — culminates in an ending that, while satisfying, leaves an echo of unresolved threads, inviting reflection on what was sacrificed in the name of desire.
+Edwards excels in world-building, crafting a setting that feels both familiar and otherworldly, filled with lush descriptions that evoke a sense of place while hinting at deeper meanings beneath the surface. The dialogue crackles with tension, reflecting the characters' inner struggles and desires. Yet, some mechanical flaws arise within the prose — a tendency towards repetition in emotional expressions can dilute their impact, leading to moments that feel drawn out rather than poignant. The intricate dance between characters culminates in an ending that, while satisfying, leaves shadows of ambiguity that provoke both reflection and yearning for what lies ahead.
 
 ## Discussion launchpad
-While *City of Souls and Sinners* captivates with its darkly enchanting narrative, it also teeters on the brink of polarizing elements that could ignite debates among readers. The tension between fate and free will poses questions of accountability in love. Furthermore, the stark contrast between its lush prose and occasional melodrama invites scrutiny of character authenticity.
+This narrative stirs a cauldron of polarities, as readers may grapple with the balance between romantic idealization and moral complexity. The interplay of desire against ethical boundaries invites a spirited discussion about the nature of love and its consequences.
 
-**Questions for the room:**
-- Do you find the dual narrative structure enhances or detracts from the story's emotional depth?
-- How do you interpret the moral complexities presented — are the characters victims of their choices, or architects of their fate?
-- In what ways does the setting influence your understanding of the characters’ motivations? 
-- Is the balance between poetic dialogue and authenticity maintained throughout the book, or does it falter?
-- What unresolved themes do you think Edwards intended to provoke in her audience?
+**Questions for the room:**  
+- How do you interpret the moral ambiguities presented in the characters' choices?  
+- Does the dual perspective enhance or detract from your emotional investment in the story?  
+- What role does the setting play in shaping the characters’ motivations and desires?  
+- How do you feel about the pacing of emotional revelations versus action?  
+- What did you think of the ending — was it earned, or did it feel like a setup for the next installment?
 
-#literaryanalysis #fantasyromance #romantasy #darkromance #CityofSoulsandSinners
+#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #CityOfSoulsAndSinners

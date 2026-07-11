@@ -7,7 +7,7 @@ dek: ""
 number: R1232
 sort_key: 1232
 date: 2025-08-01
-date_read: 2025-07-29
+date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/a-curse-of-blood-stone.jpg
 spice: 3

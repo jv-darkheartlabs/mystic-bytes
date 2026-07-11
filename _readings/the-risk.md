@@ -7,7 +7,7 @@ dek: "She's the best kind of dangerous... and he can't get enough"
 number: R450
 sort_key: 450
 date: 2022-12-18
-date_read: 2022-12-09
+date_read: 2021-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-risk.jpg
 spice: 4
@@ -26,26 +26,24 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-In *The Risk*, Elle Kennedy expertly navigates the treacherous waters of enemies-to-lovers while exploring the darker undercurrents of desire and ambition. **Verdict:** This book thrives on the electric tension of rivalry and attraction, invigorating a familiar trope with its raw, unrelenting energy.
+In *The Risk*, Elle Kennedy masterfully intertwines the complexities of desire and rivalry within the electrifying world of hockey. The book's true engine lies in the tension between ambition and vulnerability, as the protagonists grapple with their mutual attraction while navigating the treacherous waters of professional sports. **Verdict:** This novel captivates with its sharp, intoxicating dance of enemies entangled in a forbidden romance.
 
 ## The contextual pivot
-*The Risk* firmly situates itself within the dark romance realm, particularly the sports romance subgenre, where the thrill of competition often mirrors the tumult of intimate relationships. Kennedy's narrative taps into the zeitgeist of contemporary romance, bridging the niche appeal of hockey fandom with a broader audience who revels in the complexities of forbidden love. Within her oeuvre, this work amplifies the stakes of her previous novels, drawing readers into a world where ambition collides with passion — a hallmark of Kennedy's signature style.
+*The Risk* resides comfortably in the enemies-to-lovers subgenre, yet it transcends mere trope to explore deeper themes of ambition, identity, and the high stakes of love against a backdrop of competitive grit. Kennedy’s work often features flawed characters and intense relationships, making this installment a natural evolution of her style. The invisible audience is likely comprised of readers who appreciate the raw emotional stakes of sports romance, yet Kennedy's deft hand invites even those outside the niche to engage with her characters’ struggles, bridging the gap between the hardcore romance aficionados and general readers.
 
 ## Deep-dive critique
-Kennedy's use of dual POV is both a strength and a captivating device that accentuates the push and pull of her protagonists’ animosity and attraction. The pacing expertly mirrors the rhythm of a hockey game, with moments of frenetic energy offset by quieter, more intimate interludes. This structure allows the reader to feel the weight of their rivalry while simultaneously immersing them in their burgeoning desire.
+Kennedy employs a dual POV that effectively draws readers into the psyche of both protagonists, allowing for an intimate exploration of their vulnerabilities. The alternating perspectives enhance the tension as each character grapples with their attraction and their role in a competitive environment. The pacing is brisk, keeping the narrative taut and engaging, but at times, it feels rushed—particularly in moments where emotional depth could have been further cultivated. The dialogue sparkles with wit, invoking a playful rivalry that masks deeper feelings, yet some exchanges occasionally slip into cliché territory.
 
-Character development is nuanced; the protagonists are imbued with complexities that elevate them beyond mere archetypes. Dialogue crackles with wit and tension, revealing their insecurities and desires in equal measure, keeping readers invested in their journey. However, the thematic exploration of ambition as both a driving force and a source of conflict lacks deeper resolution—leaving some thematic threads tantalizingly unresolved.
-
-The ending, while satisfying on a surface level, raises questions about the evolution of the characters' ambitions in relation to their relationship. Did they truly reconcile their internal conflicts, or merely mask them behind the warmth of newfound love? This ambiguity can be both a strength and a critique, inviting varied interpretations of their ultimate choices.
+The thematic exploration of ambition versus romantic entanglement is compelling; Kennedy does not shy away from the sacrifices her characters must make for their careers and love. However, this dynamic also introduces mechanical flaws, particularly in the resolution; while the ending is satisfying, it risks being overly neat for a story steeped in the chaotic nature of life and sports. The world-building surrounding the hockey setting is immersive, yet it sometimes leans heavily on tropes, which might alienate readers seeking a fresh perspective.
 
 ## Discussion launchpad
-*The Risk* invigorates classic tropes with its sharp dialogue and layered characters, yet it leaves lingering questions that could divide readers. Is the tension between ambition and desire fully explored, or does it falter under the weight of its own expectations? 
+*The Risk* ignites debates on the nature of ambition in romance and the oft-tackled enemies-to-lovers dynamic. The juxtaposition of competitive sports and intimate relationships raises questions about authenticity and sacrifice in love. 
 
 **Questions for the room:**  
-- How effectively does the author balance the themes of ambition and romance?  
-- Are the protagonists' flaws adequately addressed by the resolution, or do they remain unresolved?  
-- Do you find that the enemies-to-lovers trope is reinvigorated here, or does it feel predictable?  
-- How does the sport setting amplify or distract from the core romantic conflict?  
-- What are your thoughts on the dual POV — did it enhance or inhibit your connection to the characters?
+- How do the protagonists’ ambitions shape their relationship dynamics?  
+- In what ways does the setting enhance or detract from character development?  
+- Do you find the resolution to be a fitting culmination of the characters’ journeys, or does it feel overly convenient?  
+- How does Kennedy’s portrayal of consent and desire contribute to the narrative's tension?  
+- What role do you think the sports setting plays in framing modern relationships?
 
-#literaryanalysis #TheRisk #ElleKennedy #HockeyRomance #DarkRomance
+#TheOrchidRoom #enemiestolovers #darkromance #hockeyromance #forbiddenlove

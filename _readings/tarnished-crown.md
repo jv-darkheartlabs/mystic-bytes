@@ -6,7 +6,7 @@ dek: "The Lochlann Feuds — Book 2"
 number: R532
 sort_key: 532
 date: 2023-03-31
-date_read: 2023-03-24
+date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/tarnished-crown.jpg
 spice: 4
@@ -31,26 +31,27 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-*Tarnished Crown* by Robin D. Mahle and Elle Madison is a tale of a decaying monarchy trapped within the grip of vengeance and dark desire. **Verdict:** This book deftly exposes the fragile nature of power, revealing that true royalty is often cloaked in shadow.
+In *Tarnished Crown*, Robin D. Mahle and Elle Madison weave a riveting tapestry of fantasy and romance, exploring the treacherous landscape of loyalty, betrayal, and desire amid a backdrop of feuding royalty. **Verdict:** This book excels in its ability to capture the complexities of love and ambition, leaving readers entangled in a web of dark allure and haunting decisions.
 
 ## The contextual pivot
-Positioned within the genre of fantasy romance, *Tarnished Crown* serves as a significant entry in the Lochlann Feuds series, expanding on themes of betrayal, loyalty, and the insidious nature of familial bonds. The authors skillfully weave together elements reminiscent of Sarah J. Maas's *Throne of Glass* series and the political complexities of Victoria Aveyard's *Red Queen*. This work resonates with readers who enjoy the juxtaposition of romance and peril, while remaining accessible to those who may not typically indulge in darker tales. The invisible audience here encompasses those drawn to royal intrigue, passionate feuds, and the nuanced interplay of love and revenge.
+Placing *Tarnished Crown* within the fantasy-romance genre is essential to understanding its impact. The book sits comfortably alongside titles like *A Court of Thorns and Roses* by Sarah J. Maas and *The Wrath & the Dawn* by Renée Ahdieh, both of which blend rich world-building with intricate romantic dynamics. Mahle and Madison's work, however, veers into deeper shades of darkness and intrigue, distinguishing itself within the niche of dark romance. The authors deftly navigate the fine line between fantastical escapism and grim realism, appealing to an audience that craves not only the thrill of romance but also the tension of political machinations. This book bridges the gap for readers who delight in the nuanced interplay of love and power, making it accessible to both devoted fantasy enthusiasts and those new to the genre.
 
 ## Deep-dive critique
-Mahle and Madison's prose is lush, fulfilling the need for an immersive experience in a world where thrones are as fragile as the alliances that support them. The pacing is deliberate, allowing moments of tension to simmer and intensify, especially in scenes that reveal the protagonists' inner turmoil and desires. The alternating perspectives provide rich depth, yet at times, the shift in POV can disrupt narrative flow, leaving readers yearning for a more cohesive connection to the characters.
+The structural choices in *Tarnished Crown* are pivotal to its thematic success. The dual POV provides an intimate look into the hearts of the protagonists, allowing readers to experience their internal conflicts and desires. This perspective deepens the emotional stakes, particularly when navigating scenes filled with tension and betrayal. The pacing, however, oscillates unevenly; moments of slow reflection are often followed by rapid plot developments that can leave readers breathless, yet disoriented. While this may serve to heighten emotional responses, it sometimes sacrifices clarity in character motivations.
 
-The thematic exploration of power dynamics is particularly compelling. The titular crown, emblematic of both authority and decay, serves as a powerful metaphor for the characters' struggles. Dialogue is sharp, laden with double meanings that kindle tension and desire, effectively illustrating the characters’ motivations and fears. However, some characters can feel archetypal, leaning into familiar tropes rather than pushing boundaries, which weakens the narrative's overall impact. 
+Craft-wise, the authors excel in their dialogue, which crackles with subtext and tension, perfectly mirroring the characters' turbulent emotions. The world-building, though richly imagined, occasionally falls prey to exposition-heavy passages that can disrupt the narrative flow. The lush descriptions of the Lochlann setting create an immersive atmosphere but risk overwhelming the reader if not balanced with character-driven action.
 
-The ending, while satisfying, raises questions about the implications of choices made throughout the book—are they truly justified, or merely a byproduct of the characters' flawed humanity? The authors navigate these complexities with a deft hand, ensuring that even in resolution, the specter of desire and ambition lingers, leaving readers pondering the price of their characters' happiness.
+The thematic exploration of loyalty versus ambition is particularly noteworthy; each character’s journey is a reflection of the sacrifices made in the name of love and power. The ending, while satisfying in its resolution, leaves threads of ambiguity that invite contemplation—are the characters truly redeemed, or are they simply prisoners of their desires?
 
 ## Discussion launchpad
-This novel teeters on the edge of enthralling and frustrating, inviting debate on its adherence to genre conventions versus its innovative aspects. What remains unsaid echoes in the shadows of the characters’ choices, highlighting the delicate balance between love and power.
+The interplay of love and ambition in *Tarnished Crown* raises significant questions regarding the nature of sacrifice in relationships, especially within the context of royal intrigue. The polarizing elements of this narrative could spark a provocative discussion:
+- Is the depiction of dark romance empowering or problematic?
+- How do the authors balance the line between character agency and coercion in their romantic relationships?
+- In what ways does the setting influence character decisions, and does this enhance or detract from their agency?
 
 **Questions for the room:**  
-- How do the authors balance themes of power and romance without sacrificing character depth?  
-- In what ways do the alternating perspectives enhance or detract from the overall narrative?  
-- Are the characters’ motivations believable in the context of their world, or do they feel forced?  
-- How does the symbolism of the crown shape your understanding of the characters’ arcs?  
-- What implications do the authors leave regarding choices made in pursuit of power?
+- How do you interpret the characters' motivations in light of their loyalty to their families versus their personal desires?  
+- Do you find the pacing effective in conveying urgency, or does it detract from the emotional depth?  
+- In a genre rife with tropes, what innovative elements did Mahle and Madison introduce that stood out to you?  
 
-#literaryanalysis #TarnishedCrown #LochlannFeuds #FantasyRomance #DarkRomance
+#TheOrchidRoom #fantasyromance #darkromance #royalty #literaryanalysis

@@ -7,7 +7,7 @@ dek: "The Ruinous Love Trilogy"
 number: R113
 sort_key: 113
 date: 2021-11-12
-date_read: 2021-11-03
+date_read: 2020-08-16
 category: enemies-to-lovers
 cover: /assets/readings/scythe-sparrow.jpg
 spice: 4
@@ -29,24 +29,22 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-In *Scythe & Sparrow*, Brynne Weaver deftly intertwines the grotesque with the tender, crafting a darkly seductive enemies-to-lovers tale that grips the reader with unrelenting tension and desire. **Verdict:** This novel is a masterclass in exploring the intoxicating allure of ruinous love against a backdrop of macabre whimsy.
+In Brynne Weaver's *Scythe & Sparrow*, the intricate dance of obsession and power plays out within a darkly woven tapestry of enemies-to-lovers romance. **Verdict:** Weaver's deft exploration of ruinous love and moral ambiguity creates a haunting narrative that lingers long after the final page.
 
 ## The contextual pivot
-Set within the realm of dark romance, *Scythe & Sparrow* occupies a unique niche, combining elements of gothic horror with contemporary sensibilities. Weaver's work draws parallels with authors like Tarryn Fisher and Anna Zaires, who similarly navigate the complexities of love intertwined with moral ambiguity. The book appeals to an invisible audience that revels in the juxtaposition of beauty and monstrosity; it bridges niche tropes of obsession and revenge with a broader exploration of the human psyche's darker corners, making it accessible yet thrillingly unsettling for a general readership.
+*Scythe & Sparrow* nestles itself firmly in the contemporary dark romance genre, yet it diverges from typical tropes by delving deep into the psychological ramifications of love entwined with violence. Weaver, building on her previous works, invites readers to grapple with both the allure and the horror of desire, positioning her as a modern bard for tales of twisted affection. This novel manages to bridge niche themes—specifically the serial killer romance sub-genre—to a wider audience who may not typically traverse such shadowy landscapes.
 
 ## Deep-dive critique
-Weaver's structural choices enhance the intensity of the narrative, employing a dual POV that oscillates between the protagonists. This method creates a palpable tension, as readers are privy to the conflicting desires and motivations lurking behind each character's exterior. The pacing is deliberate, allowing moments of simmering conflict to build before explosive releases, mirroring the protagonists' fraught relationship. The prose is sharp and vivid, often employing rich imagery that evokes a visceral response — think circus tents adorned with skulls, a haunting backdrop against which love blooms. 
-
-Dialogue crackles with a blend of wit and venom, capturing the essence of characters who are equally drawn to and repulsed by one another. However, there are moments where the plot edges toward predictability, particularly in the third act, where the stakes could have been elevated further to maintain momentum. The ending, while satisfying, could have offered a deeper exploration of the consequences of their choices, leaving readers to ponder the true cost of such ruinous love.
+Weaver's structure excels in its pacing, utilizing alternating perspectives that create a rhythm reflective of the characters' turbulent emotions. By strategically shifting point-of-view, the author not only enhances tension but also deepens our understanding of the protagonists' internal struggles. The prose is rich and evocative, painting visceral images that linger, while the dialogue crackles with a dark humor that sharpens the narrative edge. However, at times, the thematic exploration of obsession may teeter into the realm of glorification, potentially leaving readers questioning where the line between desire and danger truly lies. The world-building is both lush and unsettling—Weaver's settings breathe with a life of their own, mirroring the characters' chaotic inner worlds. The ending, while unexpected, carries an unsettling sense of inevitability that feels both earned and hauntingly unresolved, leaving readers contemplating the characters' fates long after closing the book.
 
 ## Discussion launchpad
-*Scythe & Sparrow* provokes a multitude of discussions surrounding the boundaries of love and morality. The juxtaposition of dark themes with romantic elements raises questions about the nature of desire and the characters' justifications for their actions. What remains unaddressed in the narrative is the ethical dimension of their relationship — does love truly conquer all, or does it blind us to our moral decay?
+*Scythe & Sparrow* is sure to polarize discussions around the nature of love and morality, challenging readers to confront their own perceptions of attraction amidst darkness. The line between hero and villain blurs, prompting a dialogue on whether love can genuinely thrive in such perilous circumstances.
 
 **Questions for the room:**  
-- How do you interpret the use of dark humor within the romantic framework?  
-- In what ways do the protagonists embody the archetype of the ‘ruinous lover’?  
-- Is the resolution of the characters' arcs satisfying, or does it overlook deeper themes of consequence?  
-- How does the setting enhance or detract from the emotional weight of the story?  
-- What does the dual POV reveal about the nature of obsession in relationships?
+- How do the dual perspectives shape our understanding of love in the context of violence?  
+- At what point does the portrayal of obsession cross from romantic to problematic?  
+- Can a relationship built on such ruinous foundations ever be considered healthy or redeemable?  
+- What role does dark humor play in framing the narrative's more serious themes?  
+- In what ways does the ending challenge or conform to typical genre conventions?
 
-#literaryanalysis #ScytheAndSparrow #RuinousLove #BrynneWeaver #DarkRomance
+#TheOrchidRoom #enemiestolovers #darkromance #serialkillerromance #ruinouslove

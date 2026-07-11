@@ -7,7 +7,7 @@ dek: "Even the brave will fall."
 number: R660
 sort_key: 660
 date: 2023-09-01
-date_read: 2023-08-29
+date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/malice.jpg
 spice: 4
@@ -24,27 +24,27 @@ tags:
 review_format: book-club
 ---
 
-## Hook & thesis  
-John Gwynne’s *Malice* is a dark fantasy romance that intricately weaves themes of ambition and betrayal, set against a backdrop of mythic struggle. **Verdict:** Gwynne crafts a relentless narrative that challenges the reader to confront the seductive allure of power and the cost of desire.
+## Hook & thesis
+In **Malice**, John Gwynne crafts a tumultuous tale where honor clashes with desire, revealing the heart's treachery within the landscape of a fractured realm. **Verdict:** This novel is a masterclass in exploring the dark undercurrents of ambition and love, where every choice reverberates with consequence.
 
-## The contextual pivot  
-In the vast landscape of fantasy romance, *Malice* occupies a distinctive niche that merges traditional epic elements with a modern sensibility, echoing the works of authors like Sarah J. Maas and Jennifer L. Armentrout. Gwynne's narrative is not merely a tale of lovers caught in a tumultuous world; it’s a meditation on the darkness within aspiration itself. The book bridges niche tropes, appealing to dedicated readers of romantasy while remaining accessible to those drawn to tales of heroism and moral ambiguity.
+## The contextual pivot
+Nestled within the bustling world of fantasy-romance, **Malice** stands as a beacon that deftly intertwines traditional heroism with the complexities of emotional intimacy. Gwynne's work resonates with echoes of authors like Brandon Sanderson and Patrick Rothfuss, yet carves its own niche through the lens of gothic romance. This text doesn’t merely cater to the aficionados of magical worlds; it seeks to bridge the gap between niche tropes and a broader audience, inviting readers who may be more accustomed to contemporary romance to engage with its multilayered narrative.
 
-## Deep-dive critique  
-Gwynne’s structure deftly intertwines multiple points of view, granting readers insight into the internal conflicts that drive the characters. This multiplicity complicates the narrative, inviting the reader to consider the varying shades of malice that exist within ambition as the timeline unfurls, with past actions casting long shadows over the present. The pacing, particularly in the climactic moments, is expertly handled; tension builds gradually, allowing desire to simmer just beneath the surface, creating an undercurrent that pulses through the text.
+## Deep-dive critique
+Gwynne's structural choices reveal a deliberate pacing that mirrors the tension of the plot. The alternating perspectives allow readers to perceive the inner turmoil of characters, enriching the emotional landscape. For instance, the shifting points of view not only serve to heighten the stakes but also showcase the complex interplay of desire and betrayal that propels the narrative. 
 
-The prose itself is rich, evocative, and imbued with a gothic sensibility that enhances the darker themes. Characters are painted in complex strokes, grappling with their own malice while navigating their intertwined fates. Dialogue is sharp, often layered with subtext that reflects the characters' hidden motives and desires, drawing readers deeper into the web of intrigue.
+The prose is vivid yet concise, blending lyrical imagery with raw emotional grit that encapsulates the stakes of the characters’ journeys. Dialogues are sharp, often layered with subtext, revealing characters' motivations and vulnerabilities without overt exposition. However, some passages could benefit from tighter editing to maintain the momentum, as certain scenes linger longer than necessary, potentially dulling the impact of key revelations.
 
-However, the book is not without its flaws. At times, the multitude of perspectives can dilute the emotional immediacy that anchors the reader in a singular experience. While the thematic explorations of ambition and desire are compelling, some threads could benefit from a more robust resolution, leaving a few character arcs feeling unresolved by the conclusion. Still, the ending resonates, as it encapsulates the novel’s core conflict and leaves lingering questions about the true nature of power and love.
+The thematic exploration of loyalty versus ambition resonates deeply, prompting readers to question the nature of sacrifice and the price of power. While the ending provides a satisfying resolution, it also leaves tantalizing threads unresolved, hinting at the continuing struggle between human desires and the darker forces at play. This duality of hope and despair is what makes the conclusion resonate, echoing the book's central conflict.
 
-## Discussion launchpad  
-*Malice* thrives on the tension between ambition and morality, creating polarized viewpoints around the ethical implications of desire and the cost of power. Readers may grapple with the portrayal of malice as a driving force for character development, challenging societal norms regarding ambition. What remains unsaid is the question of whether true love can exist in a landscape where betrayal is often the currency of power.
+## Discussion launchpad
+Gwynne’s exploration of the interplay between ambition and desire raises provocative questions about morality in relationships. The inherent tension throughout the text invites readers to ponder the fine line between heroism and selfishness.
 
 **Questions for the room:**  
-- How do the various perspectives enhance or detract from the emotional impact of the narrative?  
-- Does the portrayal of ambition as inherently malicious resonate with your own views on desire and success?  
-- What did you think of the resolution of character arcs — were they satisfying or frustrating?  
-- In what ways does *Malice* challenge conventional notions of heroism within its romantic framework?  
-- How does Gwynne’s exploration of darker themes influence your perception of romance in fantasy?  
+- How do the shifts in perspective alter your perception of the characters' motivations?  
+- In what ways does the theme of ambition challenge traditional romantic tropes within the fantasy genre?  
+- Do you believe the emotional intensity enhances or detracts from the fantasy elements?  
+- How effective is the resolution in balancing the themes of desire and consequence?  
+- What elements do you feel were left unsaid or unresolved, and how do they affect your overall reading experience?  
 
-#literaryanalysis #fantasyromance #romantasy #darkromance #malice
+#TheOrchidRoom #fantasyromance #darkromance #malice #literaryanalysis

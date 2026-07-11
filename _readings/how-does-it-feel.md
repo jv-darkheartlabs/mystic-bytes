@@ -6,7 +6,7 @@ dek: "The Infatuated Fae Book One"
 number: R1183
 sort_key: 1183
 date: 2025-05-31
-date_read: 2025-05-27
+date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/how-does-it-feel.jpg
 spice: 3
@@ -26,26 +26,22 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-Jeneane O'Riley's *How Does It Feel?* plunges readers into a lush, dark fantasy where obsession entangles love and desire in a haunting embrace. **Verdict:** This book is a beautifully crafted exploration of the intoxicating nature of obsession that leaves the reader breathless yet yearning for more.
+In Jeneane O'Riley's *How Does It Feel?*, the allure of the fae is a double-edged sword, revealing how desire can morph into obsession when entangled with the magic of manipulation. **Verdict:** This book deftly explores the intersections of longing and peril, crafting a haunting narrative that lingers in the heart long after the final page.
 
 ## The contextual pivot
-In the realm of fantasy romance, O'Riley's work carves out a niche that intertwines elements of fae mythology with the raw, visceral sensation of desire. This novel stands as the inaugural volume of *The Infatuated Fae* series, suggesting a deliberate intent to expand upon the intricate dynamics of power and passion that characterize fae lore. The author crafts a world that is at once enchanting and perilous, a duality that resonates with fans of authors like Sarah J. Maas and Holly Black, who navigate the treacherous waters of romantic tension within fantastical settings. The book bridges niche tropes of fae obsession to a broader readership who revel in dark romance, creating a space where both experienced genre enthusiasts and newcomers can lose themselves in its depths.
+Nestled within the fantasy-romance genre, *How Does It Feel?* oscillates between whimsical enchantment and the darker threads of obsession. This duality positions it alongside works like Sarah J. Maas' *A Court of Thorns and Roses*, where fae lore meets human vulnerability, yet O'Riley carves her own niche by diving deeper into the psychological ramifications of desire. Her exploration of magical manipulation challenges the reader to question the ethical boundaries of love—an endeavor that resonates with a growing audience seeking complex emotional landscapes in their romantic escapades.
 
 ## Deep-dive critique
-O'Riley employs a rich, lyrical prose style that immerses the reader in a sensory experience, effectively conveying the lushness of the forest setting and the intoxicating allure of its inhabitants. The pacing is deliberate, mirroring the languorous pull of obsession that envelops the characters. However, at times, this pacing could hinder momentum; moments of introspection may linger too long, creating a tension that may frustrate those craving rapid developments. The shifting points of view serve to deepen the reader's understanding of the characters' inner conflicts, but they can also blur the emotional stakes, leaving some scenes feeling emotionally muted.
-
-Characterization excels in the portrayal of the protagonist, whose tumultuous emotional landscape echoes the chaotic beauty of her surroundings. Dialogue carries a weighty subtext, often laden with double meanings that heighten the tension between characters. Yet, certain secondary characters lack depth, appearing as mere archetypes rather than fully fleshed individuals, which may detract from the overarching theme of obsession by limiting the complexity of relationships.
-
-The ending, while evocative, raises questions about its earned resolution; it tantalizes yet leaves the reader yearning for clarity, successfully paving the way for the next installment while simultaneously inviting criticism over the satisfaction of closure.
+O'Riley employs a nonlinear structure that amplifies the sense of disorientation often felt by the protagonist, mirroring the intoxicating pull of the fae world. The shifting perspectives enhance the narrative's depth, allowing readers to navigate the tumult of emotions that arise from obsession rather than mere attraction. However, while the prose is richly descriptive, occasionally it lapses into overwrought imagery that could distract from the core tension. Characterization excels particularly in the fae, whose allure is rendered with a seductive complexity. The dialogue, often laced with undercurrents of manipulation, serves to deepen the sense of danger entwined with desire. Yet, at times, the pacing stumbles, especially in the latter half, where the buildup towards the climax feels rushed, undermining the stakes established earlier on. The ending, a poignant reflection on the consequences of obsession, feels earned, yet leaves room for further exploration of the protagonist's psyche.
 
 ## Discussion launchpad
-*How Does It Feel?* leaves readers grappling with the fine line between love and obsession, a theme that could provoke heated debate among club members. It invites a critical eye on how desire is portrayed and whether it romanticizes toxic relationships or offers a cautionary tale.
+The themes of obsession versus true love create rich ground for debate, particularly how they reflect societal perceptions of desire and control. The tension between enchantment and entrapment might polarize readers, pushing them to consider where fantasy becomes harmful.
 
-**Questions for the room:**
-- Does the portrayal of obsession in the novel romanticize unhealthy relationships, or is it a valid exploration of human emotions?
-- How do the lush descriptions impact your connection to the characters and their desires?
-- In what ways do the structural choices (POV shifts, pacing) enhance or detract from the central themes?
-- Are there archetypes in the narrative that you felt needed more depth? How might that have changed your reading experience?
-- What does the ending suggest about the journey ahead for the characters, and is it a fulfilling promise or an unsatisfying cliffhanger?
+**Questions for the room:**  
+- How does the portrayal of obsession in relationships reflect or challenge societal norms?  
+- Do the fae serve merely as a vehicle for exploring human emotions, or do they embody deeper existential themes?  
+- In what ways does the structure of the narrative enhance or detract from your understanding of the protagonist’s journey?  
+- How do the content warnings shape your reading experience and interpretation of the themes?  
+- What unresolved questions about the nature of desire linger after the final chapter?
 
-#literaryanalysis #fantasyromance #darkromance #fae #obsession
+#TheOrchidRoom #fantasyromance #darkromance #fae #obsession

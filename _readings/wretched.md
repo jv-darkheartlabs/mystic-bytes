@@ -7,7 +7,7 @@ dek: "A Never After Novel"
 number: R151
 sort_key: 151
 date: 2021-12-24
-date_read: 2021-12-11
+date_read: 2022-10-22
 category: forbidden-love
 cover: /assets/readings/wretched.jpg
 spice: 5
@@ -25,26 +25,24 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-In Emily McIntire’s **Wretched**, the author deftly entangles the reader in a web of forbidden desire and shattered identities, exploring the extremes of love and the shadows of betrayal. **Verdict:** This novel expertly captures the intoxicating tension between yearning and moral decay, leaving the reader both breathless and unsettled.
+In *Wretched*, Emily McIntire spins a tale of obsession and moral ambiguity that delves deep into the complexities of forbidden love. The book explores the darker recesses of desire and the consequences of crossing boundaries. **Verdict:** This novel is a haunting exploration of love intertwined with violence, leaving readers both captivated and unsettled.
 
 ## The contextual pivot
-**Wretched** occupies a distinct space within the dark romance genre, drawing inspiration from classic tales of obsession and infamy, and echoing themes reminiscent of *Cruel Intentions* or *Anna Karenina*. McIntire, known for her ability to blend gothic elements with contemporary settings, invites a diverse readership — from ardent fans of forbidden love to those intrigued by moral ambiguity. The book operates on the periphery of mainstream appeal while still embracing niche tropes, allowing it to resonate with both dedicated genre enthusiasts and curious newcomers.
+As a part of the *Never After* series, *Wretched* stands as a bold entry in the forbidden-love genre, distinguished by its willingness to tread into morally gray territories. This book resonates with fans of dark romance who crave narratives that challenge societal norms and explore the consequences of desire. McIntire's work resembles that of authors like Anna Zaires and Penelope Douglas, whose characters navigate the treacherous waters of love and obsession. The invisible audience here is likely those who revel in the thrill of danger wrapped in the allure of romance, and McIntire successfully bridges niche tropes while appealing to a broader readership who appreciate the emotional and psychological depth of such relationships.
 
 ## Deep-dive critique
-The structure of **Wretched** navigates a nonlinear timeline, oscillating between past and present to heighten suspense and deepen character exploration. This choice magnifies the internal struggle of its protagonists, allowing readers to experience their tumultuous emotions as they unfold. The dual POV further enhances the intimacy of the narrative, while its pacing builds tension effectively — each revelation feels both inevitable and shocking. 
+The structure of *Wretched* employs a dual-perspective narrative that enhances the tension between the protagonists, allowing readers to oscillate between desire and dread. McIntire's pacing is deliberate, amplifying the intensity of each encounter while maintaining a sense of foreboding. There is a raw honesty in her prose that captures the visceral nature of obsession, making the characters' motivations both relatable and unsettling. The dialogue crackles with tension, revealing the characters’ internal struggles while blurring the lines of morality.
 
-McIntire’s prose is charged with a lyrical quality that draws readers into a world where every glance and every unspoken word holds weight. The dialogue crackles with intensity, exposing raw vulnerability and unfiltered desire that feels both authentic and dangerously alluring. However, moments of excessive melodrama occasionally disrupt the flow, threatening to overshadow the well-crafted emotional undercurrents. 
-
-Thematically, the novel grapples with the consequences of love that defies societal norms, exploring the characters' descent into obsession and the moral quagmires they traverse. The ending, while deliberately ambiguous, serves as a powerful reflection on the nature of sacrifice and desire, inviting readers to question the price of love and whether redemption is ever truly attainable.
+However, the thematic success does not come without mechanical flaws. At times, the narrative can feel overly reliant on familiar tropes, which may risk alienating those who seek innovation within the genre. While McIntire excels in crafting a world steeped in gothic undertones, the ending, though impactful, may leave some readers questioning whether the resolution is truly earned given the tumultuous journey. The emotional stakes are high, yet there is a lingering sense of ambiguity that could be polarizing among readers.
 
 ## Discussion launchpad
-**Wretched** is ripe for discussion, provoking questions about the nature of love and the ethical boundaries we traverse. While the narrative captivates with its exploration of dark romance, it also leaves gaps regarding the implications of such love in a real-world context. 
+The interplay between love and violence raises significant questions about the nature of desire and the lengths one will go to for love. How does McIntire's portrayal of obsession challenge or reinforce existing perceptions of romance in literature?
 
 **Questions for the room:**
-- How do the characters' flaws serve as both a magnet and a repellent in their relationships?
-- What does the novel suggest about the morality of love that defies societal convention?
-- In what ways does the dual POV enhance the reader's understanding of the characters' motivations?
-- How does the ambiguous ending shape your interpretation of the characters’ journeys?
-- Where do we draw the line between passion and obsession in romantic narratives?
+- Do you believe the portrayal of obsession in this novel romanticizes unhealthy relationships?
+- How does the dual perspective influence your perception of the characters' moral choices?
+- Are there moments in the narrative that felt excessive or gratuitous, and how did they affect your reading experience?
+- In what ways does the setting enhance or detract from the overall themes of the book?
+- How do you interpret the ending in relation to the characters' journeys throughout the novel?
 
-#literaryanalysis #Wretched #forbiddenlove #darkromance #darkheartlabs
+#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

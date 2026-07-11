@@ -6,7 +6,7 @@ dek: ""
 number: R880
 sort_key: 880
 date: 2024-06-01
-date_read: 2024-05-18
+date_read: 2019-10-22
 category: enemies-to-lovers
 cover: /assets/readings/business-casual.jpg
 spice: 3
@@ -21,24 +21,26 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-*Business Casual* by B.K. Borison presents a simmering exploration of enemies turned lovers set against the backdrop of a quaint small town, where tension and desire coil like vines around a rustic wooden fence. **Verdict:** This novel entangles the reader in a web of sharp wit and undeniable chemistry, deftly showcasing how vulnerability can emerge from conflict.
+In *Business Casual*, B.K. Borison deftly navigates the murky waters of ambition and intimacy within the cutthroat environment of small-town corporate culture. At its core, this novel wrestles with the tension between personal desire and professional aspirations, challenging the characters to confront their own limits. **Verdict:** Borison’s work is a sharp commentary on how love can flourish in the most unlikely and hostile environments, elevating the enemies-to-lovers trope into a realm both provocative and unsettling.
 
 ## The contextual pivot
-In the realm of enemies-to-lovers narratives, *Business Casual* deftly navigates familiar tropes while crafting a unique tone that is both playful and deeply resonant. Borison's work harks back to the likes of Talia Hibbert and Penny Reid, who expertly intertwine humor with emotional depth, but it also carves out its own niche in the gothic romance landscape, where the dark undercurrents of desire pulse beneath the surface of everyday life. The audience for this novel is likely to be those who revel in the tension of opposites clashing, yet it bridges the gap for general readers by infusing relatable stakes and charming characters into its small-town setting.
+*Business Casual* occupies a unique niche within the enemies-to-lovers subgenre, infusing the familiar narrative with fresh grit and emotional complexity. Borison, known for her nuanced characterizations and exploration of interpersonal dynamics, sets this novel against the backdrop of corporate America, a space ripe for conflict and romance. This setting not only grounds the narrative but also serves as a crucible, testing the characters’ boundaries. Unlike typical romance novels that may retreat into whimsical settings or predictable outcomes, Borison's approach is layered, aiming for an audience that appreciates a blend of tension and realism—an appeal that stretches from niche dark romance aficionados to broader literary readers.
 
 ## Deep-dive critique
-The structure of *Business Casual* is marked by a well-paced dual perspective that allows readers to navigate the protagonists' inner worlds, fostering intimacy while maintaining an engaging narrative distance. The alternating points of view are particularly effective, as they provide insight into the characters' motivations and vulnerabilities, which heightens the tension as their animosity ebbs and flows. Borison’s prose sparkles with wit, drawing readers into scenes that balance light-hearted banter and poignant introspection — the dialogue is sharp and layered, echoing the emotional stakes in each encounter.
+Structurally, Borison employs a dual perspective that invites readers into the minds of both protagonists, allowing for a rich exploration of their motivations and vulnerabilities. This narrative choice enhances the tension as their desires clash with their ambitions, creating a push-pull dynamic that is both riveting and relatable. The pacing is deliberate, building anticipation through sharp dialogue and internal monologues that reveal the characters’ conflicting emotions. 
 
-However, the pacing in the latter half tends to drag, as the resolution feels somewhat rushed in contrast to the deliberate build-up of conflict. This unevenness can detract from the overall impact of the climax. The thematic exploration of power dynamics in professional settings and personal relationships is nuanced and compelling, yet certain plot points may feel predictable to seasoned readers of the genre. Nevertheless, the ending provides a satisfying closure, wrapping up the emotional arcs without feeling contrived — Borison earns her payoff by fully realizing the complexity of her characters' journeys.
+The prose is particularly noteworthy; Borison's sharp, clean style cuts through the noise of corporate jargon to reveal the raw emotional undercurrents at play. For instance, moments of heated exchanges between the characters are laden with subtext, showcasing not only their animosity but also an electric undercurrent of desire that simmers just beneath the surface. 
+
+However, the novel is not without its mechanical flaws. Some secondary characters feel underdeveloped, serving primarily as catalysts for the protagonists rather than fully realized individuals. This can distance the reader from the plot’s emotional stakes at times, weakening the overall impact of key scenes. Furthermore, while the ending carries a satisfying resolution, it may feel rushed to those who have invested deeply in the protagonists' tumultuous journey, leaving a lingering sense of wanting more depth in their reconciliation.
 
 ## Discussion launchpad
-*Business Casual* invites exploration of the fine line between love and hate, and how that dichotomy evolves throughout the narrative. Yet, it also leaves room for introspection on the balance of power in relationships and the potential for toxicity masked by attraction.
+*Business Casual* teeters on the edge of romance and corporate drama, provoking a spectrum of responses regarding love and ambition. The clash between professional integrity and personal desire raises questions about the sacrifices characters make in both realms. 
 
 **Questions for the room:**  
-- How do the protagonists' personal growth arcs challenge or reinforce traditional romance tropes?  
-- What does the novel suggest about the nature of conflict and its role in shaping intimacy?  
-- In what ways do you feel the small-town setting contributes to or detracts from the story's overall impact?  
-- Are there moments in the dialogue that particularly resonated or fell flat for you? Why?  
-- How effectively does Borison balance humor and emotional depth, and does it serve the plot?
+- How does Borison’s portrayal of a corporate setting shape your understanding of the characters’ relationship?  
+- Do you find the dual perspective enhances or complicates the narrative?  
+- In what ways does the resolution align or clash with your expectations of the enemies-to-lovers trope?  
+- What themes resonate most with you—ambition versus love, or rivalry versus connection?  
+- Are the underdeveloped secondary characters a missed opportunity, or do they serve the narrative's focus effectively?  
 
-#literaryanalysis #enemiestolovers #darkromance #smalltown #darkheartlabs
+#TheOrchidRoom #enemiestolovers #darkromance #smalltown #literaryanalysis #darkheartlabs

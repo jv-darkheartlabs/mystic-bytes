@@ -7,7 +7,7 @@ dek: "Author's Preferred Text"
 number: R651
 sort_key: 651
 date: 2023-08-25
-date_read: 2023-08-14
+date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/the-song-rising.jpg
 spice: 4
@@ -26,22 +26,20 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-In *The Song Rising*, Samantha Shannon masterfully explores the duality of power and vulnerability in a world where the song of rebellion clashes with the silence of oppression. **Verdict:** This exquisite installment in her series is both a haunting ballad and a fierce anthem, revealing the raw truths of desire and sacrifice.
+In *The Song Rising*, Samantha Shannon weaves a tapestry of power, rebellion, and the haunting echoes of desire against a dystopian backdrop where the stakes are as high as the passions ignited. **Verdict:** Shannon deftly captures the dark allure of ambition, making this installment a compelling exploration of how love entwines with the longing for freedom.
 
 ## The contextual pivot
-As the third book in the *The Bone Season* series, *The Song Rising* nestles itself firmly within the fantasy-romance genre, yet it transcends mere tropes through its thematic richness. Shannon's previous works have established her as a formidable voice in the literary landscape, blurring the lines between speculative fiction and deep emotional resonance. The book targets an audience already familiar with the complexities of dystopian lore but also invites newcomers drawn to the allure of dark romance and intricate world-building. It deftly bridges niche tropes with a broader appeal, pulling readers into a world where the stakes of love and rebellion echo through every page.
+This novel occupies a unique niche within the fantasy-romance genre, serving as the third book in Shannon's *The Bone Season* series. While the series flirts with familiar tropes of magic and clandestine societies, it also transcends typical conventions through its intricate world-building and character psychology. Unlike many fantasy romances that prioritize romance above all, Shannon embeds her narrative in a rich political landscape, inviting readers who may typically shy away from speculative fiction to engage with its deeper themes. Her work resonates particularly with readers seeking nuanced character arcs and a gripping exploration of societal constructs.
 
 ## Deep-dive critique
-Shannon's structural choices, particularly her pacing and the interplay of multiple perspectives, serve to heighten the tension that underpins the narrative. The first-person point of view immerses readers in the protagonist's inner turmoil, creating an intimate connection that makes the moments of desire feel intensely personal. The timeline unfolds with a deliberate cadence, allowing the emotional stakes to build gradually, echoing the rhythm of the songs that permeate the story. This careful construction shines in the dialogue, which is sharp and laden with subtext — characters express their longing and fears through what is unsaid as much as through their words, amplifying the tension. The world-building, rich in detail and carefully layered, invites readers to lose themselves in the complexities of the universe Shannon has crafted. However, while the ending offers resolution, it also teeters on the edge of predictability, raising questions about whether the emotional payoff fully justifies the journey.
+Shannon's structure in *The Song Rising* is a masterclass in pacing, seamlessly oscillating between the immediate urgency of the protagonist's journey and the slow burn of her emotional evolution. The first-person POV creates an intimate connection with Paige, allowing readers to feel her internal struggles viscerally. However, at times, this closeness can hinder broader character development; secondary characters, while intriguing, sometimes feel underexplored. The prose itself is lush yet accessible, with Shannon's lyrical style enhancing the romantic tension without tipping into melodrama. The dialogue is sharp, revealing characters' motivations and desires with an economy that feels both authentic and striking. The complexity of the world-building—particularly the intricate rules governing clairvoyance—serves as an excellent backdrop for personal conflict. However, moments of exposition can occasionally disrupt the narrative flow, pulling readers out of the immersive experience. The ending, while emotionally charged, raises questions about agency and consequence—did the characters truly seize their destinies, or were they mere pawns in a larger game? This ambiguity leaves the conclusion simultaneously empowering and chilling.
 
 ## Discussion launchpad
-*The Song Rising* encapsulates polarities that will provoke a rich discussion, particularly around the balance of power dynamics in relationships and the complex interplay of love versus duty. The tension between personal desire and collective responsibility lingers throughout the text, prompting readers to reflect on their own thresholds for sacrifice.
+The interplay between personal ambition and the cost of love serves as a rich vein for debate within the book club. How do we reconcile the characters' desires with the ethical implications of their choices? **Questions for the room:**  
+- What do you think is the primary message about power dynamics in romantic relationships?  
+- How does Shannon's portrayal of emotional intensity enhance or detract from the overall narrative?  
+- In what ways do the secondary characters contribute to or detract from Paige's growth?  
+- How do the world-building elements influence your perception of the romantic plot?  
+- Are the ethical dilemmas presented in the story reflective of real-world issues we face today?  
 
-**Questions for the room:**  
-- How effectively does Shannon balance the themes of love and rebellion?  
-- In what ways does the first-person perspective enhance or limit the exploration of secondary characters?  
-- Do you feel the ending is earned, or does it lean too much on genre conventions?  
-- How does the concept of music as a form of rebellion resonate with current societal issues?  
-- What are the implications of power dynamics portrayed in the romantic relationships within the story?
-
-#literaryanalysis #TheSongRising #fantasyromance #romantasy #darkromance
+#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #TheSongRising

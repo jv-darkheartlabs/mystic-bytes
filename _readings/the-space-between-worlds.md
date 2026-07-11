@@ -7,7 +7,7 @@ dek: "380 realities. 8 chances to survive."
 number: R602
 sort_key: 602
 date: 2023-06-22
-date_read: 2023-06-19
+date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/the-space-between-worlds.jpg
 spice: 2
@@ -29,24 +29,25 @@ tags:
 review_format: book-club
 ---
 
-## Hook & thesis  
-Micaiah Johnson's *The Space Between Worlds* expertly navigates the treacherous terrain of identity and desire across a sprawling multiverse. **Verdict:** This novel is a haunting exploration of survival and the fractured self, where love is both a sanctuary and a battleground.
+## Hook & thesis
+Micaiah Johnson's *The Space Between Worlds* deftly navigates the tumultuous waters of identity, privilege, and survival across multiverses, revealing the fractures within a society that rewards the lucky few while condemning the many. **Verdict:** This novel is a haunting exploration of how our realities are molded by circumstances beyond our control, making it a powerful commentary on class and existence.
 
-## The contextual pivot  
-In the genre landscape of fantasy-romance, Johnson's work stands as a bold intersection of speculative fiction and emotional depth, reminiscent of N.K. Jemisin’s world-building and the complex relational dynamics found in Tamsyn Muir’s *Gideon the Ninth*. As a debut, it invites readers who typically linger in dark romance or sci-fi realms, bridging niche tropes of multiverse theory with a broader audience’s appetite for relatable character struggles and emotional stakes. The invisible audience finds themselves caught in the tension of navigating multiple realities while wrestling with pertinent themes of identity, privilege, and longing.
+## The contextual pivot
+Set within the burgeoning genre of fantasy-romance, *The Space Between Worlds* emerges as a distinct voice that blurs the lines between speculative fiction and social commentary. Johnson's exploration of the multiverse hinges on the intriguing premise that one can only travel to worlds where their counterpart is already dead, positioning the narrative as a reflection on privilege and the human condition. This book not only appeals to genre enthusiasts but also invites general readers to ponder the complexities of identity and belonging, much like works by authors such as N.K. Jemisin and Tamsyn Muir, who skillfully intertwine societal critique with fantastical elements. 
 
-## Deep-dive critique  
-The novel's structure is cleverly crafted, using a dual-timeline approach that juxtaposes the protagonist's experiences in various worlds. This not only serves to emphasize the stakes but also enhances the pacing, propelling readers through the tension-filled narrative. The choice of a close third-person point of view deepens the reader's connection to the protagonist, Cara, as she grapples with her identity in a multiverse where her counterpart has perished in nearly every reality. Dialogue throughout is sharp and layered, often laden with unspoken tension that invites interpretation, especially in Cara's relationships, particularly her sapphic romance with Dell, which acts as a catalyst for both intimacy and conflict. 
+## Deep-dive critique
+The narrative is structured through the eyes of Cara, whose journey across the multiverse serves as a metaphor for the societal divide that dictates our realities. Johnson employs a dual timeline, contrasting Cara’s life in her home world with the lives of her counterparts, and the pacing is at times deliberate, allowing the reader to absorb the weight of her experiences. This choice amplifies the sense of urgency when Cara must confront the stark differences between her existence and that of those in other realms. 
 
-However, one might argue that while the themes are compelling, some secondary characters feel underdeveloped, leaving readers yearning for more depth in their arcs. The ending, while satisfying, treads familiar paths that risk diluting the narrative's initial complexity, suggesting a potential missed opportunity for a more radical resolution that mirrors the multiverse's chaotic nature. Johnson's prose oscillates between lyrical and stark, reflecting the emotional landscape but occasionally falling into exposition that could disrupt the otherwise immersive experience.
+The prose is both lyrical and sharp, with moments of profound insight juxtaposed against the harsh realities of violence and grief, effectively encapsulating the emotional stakes at play. However, some dialogues can feel expository, occasionally interrupting the immersive experience. The world-building excels in its depth, painting a vivid picture of each reality while weaving in elements of classism and domestic abuse as it examines how these themes manifest distinctly in each world. The climax, while emotionally charged, can feel somewhat rushed, leaving the reader yearning for a deeper resolution—an aspect that may polarize opinions on whether the ending feels earned.
 
-## Discussion launchpad  
-The novel presents rich polarities worth dissecting: the tension between individuality and collective identity, the nature of love amidst existential threats, and the moral implications of survival in a multiverse where existence is fluid.  
+## Discussion launchpad
+Johnson's exploration of identity and privilege elicits varied reactions, particularly in how they intersect with themes of survival and resilience. The tension between the multiverse's possibilities and the harshness of reality sets up intriguing debates.
+
 **Questions for the room:**  
-- How does Johnson’s portrayal of identity challenge or reinforce societal norms?  
-- In what ways does the multiverse serve as a metaphor for personal growth and transformation?  
-- Are the romantic elements a necessary vehicle for the exploration of identity, or do they detract from the broader themes?  
-- Do you feel the ending was an authentic culmination of the themes presented, or did it fall short?  
-- How does the intersection of race and class in this multiverse enrich or complicate the narrative?  
+- How does the concept of multiversal travel serve as a metaphor for privilege and opportunity?  
+- In what ways do you see Cara's journey reflecting contemporary societal issues?  
+- Do you think the pacing of the narrative enhances or detracts from the emotional impact of the story?  
+- How do the content warnings shape your reading experience and interpretation of the text?  
+- What does the ending suggest about the nature of hope and survival in an unforgiving world?  
 
-#literaryanalysis #TheSpaceBetweenWorlds #MicaiahJohnson #darkromance #multiverse
+#TheOrchidRoom #fantasyromance #darkromance #multiverse #literaryanalysis
