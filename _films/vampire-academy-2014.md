@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 In 2014's *Vampire Academy*, a loose adaptation of Richelle Mead's series, the film's true engine lies in its exploration of identity and belonging amidst supernatural chaos. **Verdict:** While it strives for a balance between humor and horror, it ultimately fails to capture the darker, more nuanced themes of its source material, rendering it a superficial romp through vampire clichés.
 
@@ -66,6 +65,3 @@ The film invites polarizing discussions on the fidelity of adaptations and the b
 - In what ways can humor coexist with horror in a narrative without undermining its darker elements?  
 - What adaptations have successfully maintained the tension between genre expectations and original themes?  
 - How does the shift in tone from page to screen affect character relationships and audience engagement?
-
-#LiteraryAnalysis #GothicEdge #VampireAcademy #DarkThemes #SupernaturalFiction #TheProjectionRoom
-</markdown>

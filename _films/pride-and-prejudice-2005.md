@@ -39,7 +39,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 Joe Wright's 2005 adaptation of *Pride & Prejudice* seeks to distill the essence of Jane Austen’s wit and social commentary through a lush visual tapestry. **Verdict:** While it captures the spirit of the source material, its loose fidelity leaves the narrative's deeper intellect unexamined.
 
@@ -64,7 +63,4 @@ The adaptation of *Pride & Prejudice* raises compelling questions about fidelity
 - How does the film’s visual style impact your understanding of Austen’s themes?  
 - What character interpretations in the film differ most from the book, and what is their significance?  
 - Do you believe the film's pacing enhances or detracts from character development?  
-- How does the film's ending compare to the novel's resolution in terms of emotional depth?  
-
-#TheProjectionRoom #filmadaptation #literaryanalysis #prideandprejudice #joewright
-</markdown>
+- How does the film's ending compare to the novel's resolution in terms of emotional depth?

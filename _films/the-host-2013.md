@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 2013's *The Host*, directed by Andrew Niccol, seeks to navigate the treacherous waters of identity and autonomy amidst a body-snatching narrative. **Verdict:** While visually ambitious, it falters in conveying the darker undercurrents of human desire and coercion integral to Stephenie Meyer’s source material.
 
@@ -62,7 +61,4 @@ The juxtaposition of *The Host* as a book and film raises provocative questions 
 - Does the film's romantic framing detract from the critique of body invasion?  
 - How does the adaptation handle the theme of consent, and what are its implications?  
 - In what ways does the film’s visual storytelling enhance or hinder the source’s thematic depth?  
-- Can *The Host* be viewed as a critique of YA tropes, or does it fall into them?  
-
-#LiteraryAnalysis #GothicEdge #TheHost #BodySnatching #RomanticCoercion #TheProjectionRoom
-</markdown>
+- Can *The Host* be viewed as a critique of YA tropes, or does it fall into them?

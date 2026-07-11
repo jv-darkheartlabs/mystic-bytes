@@ -42,7 +42,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 Steven Spielberg's adaptation of Alice Walker's novel *The Color Purple* is a compelling cinematic translation of an epistolary masterpiece that captures the intricate struggles of African American women in the early 20th century. **Verdict:** This film beautifully encapsulates the power of resilience and sisterhood through its vivid storytelling and heartfelt performances.
 
@@ -65,5 +64,3 @@ The adaptation of *The Color Purple* opens up interesting discussions regarding 
 - In what ways do the performances enhance or alter our understanding of the characters compared to the book?
 - Should adaptations prioritize faithfulness to the source material or focus on cinematic storytelling? 
 - What elements of the book do you feel were most crucial to the story and were lost in the film?
-
-#BookReport #Grade3 #ReadingLog #TheColorPurple #AliceWalker #Spielberg

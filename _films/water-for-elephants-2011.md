@@ -40,7 +40,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 In *Water for Elephants*, the cinematic adaptation of Sara Gruen's novel, the real spectacle lies not in the romantic entanglements of its protagonists, but in the haunting shadows of human cruelty and the fragility of dreams amid desperation. **Verdict:** This film straddles the line between poignant gothic romance and a bleak portrayal of survival, ultimately revealing that love can flourish even in the darkest of circuses.
 
@@ -70,6 +69,3 @@ The juxtaposition of *Water for Elephants* as both a romantic escapade and a got
 - In what ways does the ending of the film shift the narrative’s impact compared to the book?  
 - Does the film's romantic focus detract from the critique of the circus or enhance it?  
 - How do the performances compare to the characterizations in the novel, and what does this mean for adaptation fidelity?
-
-#LiteraryAnalysis #GothicEdge #TheProjectionRoom #filmadaptation #darkheartlabs
-</markdown>

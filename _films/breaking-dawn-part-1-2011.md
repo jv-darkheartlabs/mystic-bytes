@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 In "The Twilight Saga: Breaking Dawn – Part 1," Bill Condon attempts to weave a tale of love and monstrosity that ultimately reveals the grotesque underbelly of romantic idealism. **Verdict:** The film is a visual spectacle that marries dark themes of obsession and sacrifice with gothic flair, yet falters in its execution, leaving the audience yearning for a deeper exploration of its chilling conflict.
 
@@ -68,6 +67,4 @@ The adaptation invites debates over fidelity to source material versus creative 
 - Does the film successfully convey the horror beneath its romantic facade?  
 - Are Bella's sacrifices portrayed as empowering or as a tragic flaw?  
 - How does the film's aesthetic complement or contradict its narrative themes?  
-- In what ways does Condon's adaptation reflect societal attitudes toward romance and sacrifice in contemporary youth culture?  
-
-#LiteraryAnalysis #GothicEdge #TwilightSaga #BreakingDawn #SupernaturalRomance #TheProjectionRoom
+- In what ways does Condon's adaptation reflect societal attitudes toward romance and sacrifice in contemporary youth culture?

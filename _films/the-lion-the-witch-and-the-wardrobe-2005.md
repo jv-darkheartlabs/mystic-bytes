@@ -45,7 +45,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 In Andrew Adamson's adaptation of *The Chronicles of Narnia: The Lion, the Witch and the Wardrobe*, the film endeavours to capture the essence of C.S. Lewis's beloved portal fantasy while navigating the complexities of faith, sacrifice, and childhood innocence. **Verdict:** This cinematic rendering succeeds in its artistic ambition, creating a visually stunning world that resonates with the source material's thematic core.
 
@@ -75,4 +74,3 @@ The adaptation invites discussion on how elements of children's literature can b
 - Can a fantasy film successfully convey the spiritual elements present in the original text without alienating a younger audience?  
 
 #LiteraryAnalysis #TheProjectionRoom #filmadaptation #Narnia #C.S.Lewis
-</markdown>

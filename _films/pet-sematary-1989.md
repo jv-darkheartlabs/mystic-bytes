@@ -43,7 +43,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 The film **Pet Sematary** (1989), directed by Mary Lambert, masterfully transforms Stephen King's chilling tale of grief and resurrection into a haunting cinematic experience. **Verdict:** This adaptation succeeds as a powerful exploration of the boundaries of love and loss, despite its grisly elements.
 
@@ -66,5 +65,3 @@ The contrast between King’s prose and Lambert’s visual storytelling raises s
 - Do the changes made to character backstories enhance or detract from the original themes?
 - What are the implications of adapting a horror story for film in terms of audience reception and emotional engagement?
 - How effectively does the film explore the consequences of grief and loss compared to the source material?
-
-#BookReport #Grade3 #ReadingLog #PetSematary #StephenKing

@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 In the 2015 film adaptation of *Fifty Shades of Grey*, the central human conflict lies not solely in the erotic tension between Anastasia Steele and Christian Grey but in the struggle for autonomy within the shadows of desire. **Verdict:** As cinematic literary art, it oscillates between indulgent spectacle and a chilling exploration of power dynamics, reflecting a dangerous allure that captivates and repulses.
 
@@ -66,6 +65,4 @@ The adaptation of *Fifty Shades of Grey* presents polarities that invite robust 
 - How do we reconcile the film's glamorous portrayal of BDSM with the darker themes of emotional manipulation?  
 - In what ways does the film's visual storytelling either enhance or obscure the source material's messages?  
 - Does the adaptation's approach to consent reflect progress or perpetuate harmful narratives?  
-- How does the film's ending impact our understanding of power dynamics in relationships?  
-
-#TheProjectionRoom #filmadaptation #literaryanalysis #darkheartlabs
+- How does the film's ending impact our understanding of power dynamics in relationships?

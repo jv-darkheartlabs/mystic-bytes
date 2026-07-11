@@ -43,7 +43,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 **Interview with the Vampire** captures the eternal struggle between humanity and inhumanity, showcasing a rich narrative woven with moral dilemmas. **Verdict:** This adaptation succeeds in preserving the novel's complex themes while enhancing its emotional depth through stellar performances and atmospheric direction.
 
@@ -69,7 +68,4 @@ The polarities between the source material and adaptation invite rich discussion
 **Questions for the room:**  
 - What did you think about the film's pacing compared to the book's narrative flow?  
 - How effectively did the film capture the emotional weight of immortality?  
-- Were there aspects of the story or characters you felt were misrepresented?  
-
-#BookReport #Grade7 #GothicHorror #VampireChronicles #LiteraryAnalysis
-</markdown>
+- Were there aspects of the story or characters you felt were misrepresented?

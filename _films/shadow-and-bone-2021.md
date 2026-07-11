@@ -42,7 +42,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 The limited series adaptation of *Shadow and Bone* emerges as a vibrant tapestry woven from its source material, capturing the essence of identity and power struggles within a richly constructed fantasy realm. **Verdict:** This adaptation breathes new life into Bardugo's world, but falters in its pacing and character depth, revealing a lost opportunity for true emotional resonance.
 
@@ -69,6 +68,4 @@ The adaptation of *Shadow and Bone* presents polarities ripe for debate, particu
 - How effectively does the adaptation balance fidelity with creativity in character portrayal?  
 - Does the divergence in character relationships enhance or detract from the overall narrative?  
 - In what ways does the series speak to contemporary societal issues, and how does this compare to the source material?  
-- What visual storytelling techniques most effectively convey the series' themes, and where do they fall short?  
-
-#TheProjectionRoom #filmadaptation #shadowandbone #leighbardugo #fantasyseries
+- What visual storytelling techniques most effectively convey the series' themes, and where do they fall short?

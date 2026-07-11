@@ -42,7 +42,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 In Andrea Arnold's 2011 reimagining of Emily Brontë's *Wuthering Heights*, the film's true engine lies in the visceral exploration of obsession and its destructive consequences. **Verdict:** Arnold's adaptation strips the romance down to its raw, gothic core, delivering a haunting meditation on love as a force of ruin rather than redemption.
 
@@ -69,7 +68,4 @@ The divergence between Arnold's *Wuthering Heights* and Brontë's original text 
 - In what ways does the film's visual style enhance or detract from the emotional weight of the story?  
 - Is the omission of the framing narrative a loss or a necessary sacrifice for a more immediate experience?  
 - How does the film's treatment of race and class inform our reading of Brontë's themes?  
-- Does the film's bleakness offer a more authentic representation of love, or does it strip away the beauty of the original romance?  
-
-#LiteraryAnalysis #GothicEdge #TheProjectionRoom #darkheartlabs #WutheringHeights #filmadaptation
-</markdown>
+- Does the film's bleakness offer a more authentic representation of love, or does it strip away the beauty of the original romance?

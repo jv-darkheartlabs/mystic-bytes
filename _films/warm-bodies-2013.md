@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 In *Warm Bodies*, Jonathan Levine crafts a disarmingly charming zombie rom-com that wrestles with the essence of humanity amidst decay. **Verdict:** While the film successfully injects humor into horror, it falters in its deeper existential exploration, leaving a bittersweet aftertaste rather than a profound inquiry into the human condition.
 
@@ -68,6 +67,3 @@ Performance-wise, Hoult excels in his portrayal of R, embodying the awkwardness 
 - In what ways does the film's humor undermine or enhance its darker themes?  
 - Does the lighter ending detract from the story's original stakes, and what does this say about audience expectations in adaptations?  
 - How effectively does *Warm Bodies* redefine the zombie genre, and is this shift ultimately beneficial or detrimental?
-
-#LiteraryAnalysis #GothicEdge #TheProjectionRoom #darkheartlabs #WarmBodies
-</markdown>

@@ -42,7 +42,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 The 1931 film **Frankenstein**, directed by James Whale, presents a captivating adaptation of Mary Shelley's classic novel that emphasizes the tragic consequences of unchecked ambition. **Verdict:** This film is a remarkable exploration of humanity’s struggle with creation, showcasing both the brilliance and the horror of its ambitions.
 
@@ -65,7 +64,4 @@ The adaptation presents intriguing contrasts between the text and film, particul
 - How does the film’s depiction of the Creature change our perception of monstrosity?  
 - In what ways does the film enhance or diminish Shelley’s original themes?  
 - Does removing the Creature’s eloquence impact the moral messages of the story?  
-- How do the film's visual elements contribute to its horror?  
-
-#BookReport #Grade3 #ReadingLog #Frankenstein #JamesWhale
-</markdown>
+- How do the film's visual elements contribute to its horror?

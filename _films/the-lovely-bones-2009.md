@@ -44,7 +44,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 Peter Jackson’s adaptation of Alice Sebold's *The Lovely Bones* seeks to navigate the treacherous waters of grief and loss through the lens of an afterlife narrative. **Verdict:** While visually arresting, the film struggles to encapsulate the profound emotional depth of its source material, ultimately drifting into a realm of superficiality.
 
@@ -68,6 +67,3 @@ The divergence between the emotional resonance of Sebold's novel and Jackson's c
 - What are the implications of altering character arcs and relationships in adaptations?  
 - How do audience expectations shape our reception of a film based on beloved literature?  
 - Does Jackson's surreal portrayal of the afterlife detract from the real-world horrors depicted in the story?
-
-#LiteraryAnalysis #TheLovelyBones #PeterJackson #AliceSebold #GriefNarratives
-</markdown>

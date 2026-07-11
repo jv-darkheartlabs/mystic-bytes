@@ -43,7 +43,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 Stanley Kubrick's *The Shining* is a psychological thriller that brilliantly transforms Stephen King's haunted hotel novel into a chilling cinematic experience. **Verdict:** This film is a masterclass in visual storytelling that captivates as it diverges from its source material, creating a unique atmosphere of dread and isolation.
 
@@ -64,6 +63,4 @@ The adaptation polarizes opinions on how well it captures the essence of King’
 - How does the film's psychological focus alter our understanding of fear compared to the novel?  
 - What are the implications of the film's ambiguous ending?  
 - In what ways does the visual storytelling overshadow the original narrative?  
-- How do you feel about the omission of character backgrounds and subplots?  
-
-#BookReport #Grade3 #ReadingLog #StephenKing #TheShining
+- How do you feel about the omission of character backgrounds and subplots?

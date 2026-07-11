@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 The 2011 adaptation of *Jane Eyre*, directed by Cary Joji Fukunaga, strives to capture the novel's rich psychological landscape through a lens of stark gothic sensuality. **Verdict:** Fukunaga’s film transcends mere fidelity, delivering a haunting exploration of isolation and desire that resonates deeply with the darkest corners of human experience.
 
@@ -71,6 +70,3 @@ Fukunaga’s *Jane Eyre* challenges viewers to grapple with the delicate balance
 - How significant is the emotional resonance achieved through Fukunaga’s direction in comparison to Brontë’s original narrative complexity?  
 - In what ways do you think the gothic elements enhance or detract from the central love story?  
 - Is the ending earned in the context of the film, or does it leave too many threads unresolved?
-
-#LiteraryAnalysis #GothicEdge #TheProjectionRoom #filmadaptation #darkheartlabs
-</markdown>

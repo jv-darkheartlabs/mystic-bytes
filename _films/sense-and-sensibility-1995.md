@@ -38,7 +38,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 Ang Lee's 1995 adaptation of Jane Austen's *Sense and Sensibility* deftly balances the nuances of sisterhood and societal constraints within a vibrant period drama. **Verdict:** This film triumphs as cinematic literary art by capturing the delicate interplay of emotion and reason that defines Austen's narrative.
 
@@ -60,6 +59,4 @@ The adaptation spurs lively debate on the fidelity of character portrayals and t
 - How does Ang Lee’s portrayal of Elinor change our understanding of her character compared to the novel?  
 - What aspects of social commentary present in Austen's text do you feel were diluted or enhanced in the film?  
 - In what ways does the film adapt Austen's humor for a modern audience?  
-- How does the score influence your emotional engagement with the story compared to reading the book?  
-
-#LitClass #Grade11 #RequiredReading #Austen #PeriodDrama
+- How does the score influence your emotional engagement with the story compared to reading the book?

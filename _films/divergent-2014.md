@@ -43,7 +43,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 In **Divergent**, Neil Burger attempts to plunge into the murky waters of identity and societal division, yet the film ultimately unravels into a hollow echo of its source material. **Verdict:** The film's potential for exploring the darker nuances of fear and rebellion is undermined by a sanitized, formulaic approach that cheapens its existential inquiries.
 
@@ -70,6 +69,3 @@ The adaptation of **Divergent** raises polarizing questions about fidelity and t
 - In what ways does the visual storytelling succeed or fail in delivering the dystopian environment?
 - Can the film stand alone as a critique of societal structures, or is it merely a shadow of the source material?
 - What does the adaptation reveal about the challenges of translating YA literature into film format?
-
-#LiteraryAnalysis #GothicEdge #TheProjectionRoom #Divergent #YAAdaptation
-</markdown>

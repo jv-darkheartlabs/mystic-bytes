@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 The 2014 adaptation of Diana Gabaldon's *Outlander* by John Dahl serves as a haunting exploration of love amidst the brutal tapestry of history. **Verdict:** This series skillfully weaves together the tender and the traumatic, revealing that even in romance, time's cruel hand is a relentless specter.
 
@@ -68,7 +67,4 @@ The adaptation of *Outlander* raises pressing questions about fidelity and inter
 - How does the portrayal of violence in the series compare to the book's approach?  
 - Are the expanded character arcs a strength or a dilution of the primary narrative?  
 - In what ways does the series' cinematography contribute to its themes of time and trauma?  
-- Does the adaptation enhance or overshadow the original romantic elements of the story?  
-
-#LiteraryAnalysis #GothicEdge #TimeTravel #Romance #Trauma #TheProjectionRoom #filmadaptation
-</markdown>
+- Does the adaptation enhance or overshadow the original romantic elements of the story?

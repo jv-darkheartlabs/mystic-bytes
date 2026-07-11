@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 **Verdict:** *The Twilight Saga: Eclipse* serves up a gothic tableau of desire and duty, but ultimately sinks beneath its own melodramatic weight, obscuring the potent themes of sacrifice and identity at its core.
 
@@ -67,6 +66,3 @@ In comparing the book to its cinematic counterpart, polarities arise around char
 - How does the adaptation's emphasis on action influence our understanding of Bella's character?  
 - In what ways does *Eclipse* succeed or fail to capture the gothic themes present in the source material?  
 - Are the changes to character arcs necessary for cinematic pacing, or do they undermine the original narrative?
-
-#LiteraryAnalysis #GothicEdge #TheTwilightSaga #Eclipse #DarkRomance #TheProjectionRoom
-</markdown>

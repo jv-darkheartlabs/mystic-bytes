@@ -161,11 +161,100 @@ $film-families: form, mood, tone, era;
 }
 
 .film-body--projection-room {
+  margin-top: 1.25rem;
+  max-width: 48rem;
+  line-height: 1.75;
+
+  h2 {
+    position: relative;
+    margin: 2.25rem 0 1rem;
+    padding-top: 1.25rem;
+    font-family: var(--font-serif);
+    font-size: clamp(1.125rem, 2.5vw, 1.375rem);
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: var(--foreground);
+    border-top: 1px solid color-mix(in oklab, var(--silver) 35%, transparent);
+
+    &::before {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-family: var(--font-mono);
+      font-size: 0.5625rem;
+      font-weight: 400;
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      color: var(--amber);
+    }
+
+    &:first-of-type {
+      margin-top: 0;
+      padding-top: 0;
+      border-top: none;
+    }
+  }
+
   h2:nth-of-type(1)::before { content: "01 · Hook & thesis"; }
   h2:nth-of-type(2)::before { content: "02 · Contextual pivot"; }
   h2:nth-of-type(3)::before { content: "03 · Deep-dive critique"; }
   h2:nth-of-type(4)::before { content: "04 · Adaptation ledger"; }
   h2:nth-of-type(5)::before { content: "05 · Discussion launchpad"; }
+
+  p {
+    margin: 0 0 1.25rem;
+    line-height: 1.8;
+    color: color-mix(in oklab, var(--foreground) 92%, var(--silver));
+  }
+
+  strong {
+    color: var(--foreground);
+    font-weight: 600;
+  }
+
+  em {
+    font-style: italic;
+    color: color-mix(in oklab, var(--foreground) 88%, var(--silver));
+  }
+
+  ul {
+    margin: 0.75rem 0 1.5rem;
+    padding-left: 0;
+    list-style: none;
+
+    li {
+      position: relative;
+      margin-bottom: 0.875rem;
+      padding-left: 1.125rem;
+      line-height: 1.7;
+      color: color-mix(in oklab, var(--foreground) 88%, var(--silver));
+
+      &::before {
+        content: "◆";
+        position: absolute;
+        left: 0;
+        font-size: 0.5rem;
+        color: var(--amber);
+        top: 0.55em;
+      }
+
+      strong {
+        color: var(--amber);
+        font-family: var(--font-mono);
+        font-size: 0.8125rem;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+      }
+    }
+  }
+
+  // Verdict line emphasis
+  p strong:first-child {
+    color: var(--rose);
+  }
+}
+
+.film-body--projection-room h2 + p {
+  margin-top: 0.25rem;
 }
 
 .media-written-recent--films {

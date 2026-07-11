@@ -43,7 +43,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 In the bleak dystopia of Francis Lawrence's *The Hunger Games: Mockingjay – Part 1*, the adaptation boldly wrestles with the themes of propaganda and psychological warfare in a fractured society. **Verdict:** This film transforms the source material into a haunting meditation on the moral complexities of revolution, but ultimately stumbles in its execution of narrative urgency.
 
@@ -69,6 +68,4 @@ The film polarizes audiences, particularly regarding its fidelity to the source 
 - Does the film's emphasis on propaganda undermine the personal stakes of revolution?  
 - How does this adaptation compare to other dystopian narratives in its portrayal of resistance?  
 - In what ways does the omission of secondary characters impact the film’s thematic depth?  
-- Does the film succeed as a standalone narrative, or does it rely too heavily on its predecessors?  
-
-#LiteraryAnalysis #GothicEdge #TheHungerGames #FrancisLawrence #DystopianFilm #TheProjectionRoom
+- Does the film succeed as a standalone narrative, or does it rely too heavily on its predecessors?

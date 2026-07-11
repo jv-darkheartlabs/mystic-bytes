@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 In **The Mortal Instruments: City of Bones**, the adaptation aims to crystallize the chaos of urban fantasy into a coherent cinematic experience, yet fails to escape the superficiality of its own genre. **Verdict:** This film is a hollow shell, a mere glimmer of gothic potential buried beneath a clutter of tropes and missed opportunities.
 
@@ -65,6 +64,3 @@ The adaptation polarizes opinions regarding fidelity to source material versus s
 - In what ways does the adaptation succeed or fail in representing the gothic elements present in the source material?
 - Can the film be enjoyed separately from the book, or does its fidelity impact its reception?
 - What role does the CGI-heavy aesthetic play in the overall effectiveness of the adaptation?
-
-#LiteraryAnalysis #GothicEdge #TheMortalInstruments #UrbanFantasy #CassandraClare #TheProjectionRoom
-</markdown>

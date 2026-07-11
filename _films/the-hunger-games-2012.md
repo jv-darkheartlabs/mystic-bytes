@@ -44,7 +44,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 In Gary Ross's adaptation of *The Hunger Games*, the film's primary objective is to unearth the grotesque spectacle of survival within a dystopian society. **Verdict:** While visually compelling, the film ultimately glosses over the deeper psychological torment of its characters, reducing a rich narrative to mere entertainment.
 
@@ -68,6 +67,3 @@ The adaptation of *The Hunger Games* raises several polarities that ignite debat
 - Does the film’s brisk pacing detract from its emotional depth?  
 - How effectively does the adaptation communicate the themes of power and oppression?  
 - What do you think about the choice to tone down Katniss's internal struggles?
-
-#LiteraryAnalysis #GothicEdge #TheHungerGames #Dystopian #TheProjectionRoom #filmadaptation
-</markdown>

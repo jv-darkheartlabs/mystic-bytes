@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 **Harry Potter and the Sorcerer's Stone** (2001) brilliantly captures the wonder of J.K. Rowling's original text, translating its core themes of belonging and bravery into a cinematic experience that resonates deeply with audiences. **Verdict:** Columbus’s adaptation serves not just as a faithful retelling but as a visual homage to the magic of childhood discovery.
 
@@ -68,6 +67,3 @@ The adaptation presents a rich ground for discussion regarding fidelity and inte
 - Does the film’s visual representation of magic enhance or detract from the reader's imagination?  
 - In what ways do character portrayals differ between the text and film, and what impacts does that have on audience perception?  
 - How does the film's score contribute to the emotional landscape compared to the book's narrative?
-
-#CollegeLit #FreshmanYear #Canon #HarryPotter #FantasyFilm
-</markdown>

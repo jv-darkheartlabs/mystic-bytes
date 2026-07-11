@@ -42,7 +42,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 Francis Ford Coppola’s **Bram Stoker's Dracula** is a visually stunning and operatic reimagining of the classic novel, intertwining themes of love and desire with horror. **Verdict:** This adaptation transcends mere fidelity to the source material, instead offering a bold exploration of the human psyche that resonates deeply, even if it occasionally sacrifices narrative clarity.
 
@@ -65,7 +64,4 @@ The film’s divergence from Stoker’s gothic roots raises questions about fide
 - How do character changes impact the moral lessons from the original text?  
 - Is the romanticization of Dracula a betrayal of the horror genre?  
 - How does the film’s visual style enhance or detract from the storytelling?  
-- What does this adaptation say about love and desire in the context of horror?  
-
-#BookReport #Grade7 #GothicHorror #LiteraryAdaptation #Dracula
-</markdown>
+- What does this adaptation say about love and desire in the context of horror?

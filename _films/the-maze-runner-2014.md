@@ -43,7 +43,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 In Wes Ball's adaptation of *The Maze Runner*, the film grapples with the existential dread of adolescence trapped within a mechanized labyrinth, yet ultimately falters in its fidelity to the haunting depth of James Dashner's source material. **Verdict:** This cinematic translation sacrifices much of the original's psychological complexity for a palatable survival thriller, leaving a hollow echo where rich thematic resonance should reside.
 
@@ -71,5 +70,3 @@ The divergence between the novel and film adaptation raises compelling questions
 - How does the pacing of a film impact its ability to convey complex themes?  
 - Is the reliance on action sequences a necessary evil in modern adaptations of YA literature?  
 - How do the film's aesthetic choices enhance or detract from its narrative?
-
-#LiteraryAnalysis #GothicEdge #TheMazeRunner #DystopianFiction #WesBall #TheProjectionRoom

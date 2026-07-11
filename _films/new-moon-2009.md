@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis  
 In *The Twilight Saga: New Moon*, director Chris Weitz adapts the second installment of Stephenie Meyer's series, focusing on heartbreak and the ensuing existential crisis of its protagonist. **Verdict:** This adaptation successfully captures the emotional turbulence of the source material, though its cinematic execution occasionally veers into melodrama.
 
@@ -65,6 +64,3 @@ While *New Moon* remains largely faithful in its adaptation, the execution revea
 - Are the visual interpretations of supernatural elements faithful to the source material’s tone?  
 - Does the film's melodrama serve or undermine the emotional stakes established in the book?  
 - How does Weitz's directorial style compare to Hardwicke's, particularly regarding character depth?
-
-#LiteraryAnalysis #TheProjectionRoom #filmadaptation #NewMoon #TwilightSaga
-</markdown>

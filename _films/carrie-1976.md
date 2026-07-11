@@ -43,7 +43,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 The film *Carrie*, directed by Brian De Palma, serves as a striking adaptation of Stephen King's novel, capturing the painful journey of a misunderstood girl with telekinetic powers. **Verdict:** The film powerfully illustrates the themes of isolation and vengeance, making it a haunting cinematic experience while remaining faithful to the source material.
 
@@ -66,6 +65,4 @@ The adaptation of *Carrie* raises questions about the balance between fidelity t
 - How does De Palma’s stylistic approach affect the overall horror of the film?  
 - In what ways does the film enhance or diminish the emotional impact of the source material?  
 - Should adaptations prioritize fidelity to plot or emotional resonance?  
-- How do the performances in the film compare to the character developments in the book?  
-
-#BookReport #Grade3 #ReadingLog #StephenKing #Carrie
+- How do the performances in the film compare to the character developments in the book?

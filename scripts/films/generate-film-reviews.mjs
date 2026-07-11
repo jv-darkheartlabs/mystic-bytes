@@ -187,6 +187,16 @@ async function generateReview(meta, watchYear, attempt = 1) {
   return parsed.body.trim();
 }
 
+function sanitizeBody(body) {
+  return body
+    .replace(/^<markdown[^>]*>\s*/i, "")
+    .replace(/^<markdown string>\s*/i, "")
+    .replace(/\s*<\/markdown string>$/i, "")
+    .replace(/\s*<\/markdown>$/i, "")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
 function injectReviewFormat(front) {
   if (/^review_format:/m.test(front)) {
     return front.replace(/^review_format:.*$/m, "review_format: projection-room");
@@ -229,7 +239,7 @@ async function processFilm(film) {
     return;
   }
 
-  const body = await generateReview(meta, watchYear);
+  const body = sanitizeBody(await generateReview(meta, watchYear));
   const front = injectReviewFormat(film.front);
   await writeFile(join(FILMS_DIR, film.file), `---\n${front}\n---\n\n${body}\n`, "utf8");
   console.log(`  ✓ wrote ${film.file}`);

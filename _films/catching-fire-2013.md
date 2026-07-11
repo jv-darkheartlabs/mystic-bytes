@@ -42,7 +42,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 In *The Hunger Games: Catching Fire*, the adaptation transforms a tale of survival into a darkly poetic critique of power and rebellion. **Verdict:** This film captures the haunting essence of its source material, transcending mere spectacle to unveil the grotesque dance of oppression and defiance.
 
@@ -66,6 +65,3 @@ The cinematic adaptation of *Catching Fire* ignites fierce debates about fidelit
 - Are there elements that you feel were necessary to include or exclude to suit the cinematic format?  
 - Does the film's pacing impact the audience's engagement with its themes as effectively as the book?  
 - How do the gothic undertones enhance or complicate the narrative presented in the film compared to the novel?
-
-#LiteraryAnalysis #GothicEdge #theprojectionroom #filmadaptation #darkheartlabs
-</markdown>

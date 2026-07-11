@@ -42,7 +42,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 Baz Luhrmann's 2013 adaptation of *The Great Gatsby* seeks to distill the opulence of Fitzgerald’s Jazz Age tragedy into a visual feast that ultimately struggles to capture its deeper existential despair. **Verdict:** This film is a glittering façade that fails to unearth the dark heart of the American Dream.
 
@@ -68,7 +67,4 @@ Luhrmann’s *The Great Gatsby* invites polarities around the nature of adaptati
 - How does Luhrmann's modern aesthetic influence our interpretation of Gatsby’s tragedy?  
 - In what ways does the film’s emphasis on visual grandeur undermine the novel’s thematic intricacies?  
 - Can a film truly capture the essence of a literary work if it prioritizes spectacle over substance?  
-- What does this adaptation say about contemporary society’s relationship with wealth and aspiration?  
-
-#LiteraryAnalysis #GothicEdge #darkheartlabs #BazLuhrmann #TheGreatGatsby #TheProjectionRoom
-</markdown>
+- What does this adaptation say about contemporary society’s relationship with wealth and aspiration?

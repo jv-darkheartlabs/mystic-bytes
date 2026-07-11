@@ -42,7 +42,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 The 1990 film adaptation of *The Handmaid's Tale*, directed by Volker Schlöndorff, seeks to explore the oppressive nature of Gilead while wrestling with the limitations of its cinematic expression. **Verdict:** Despite its admirable ambition, the film ultimately struggles to capture the profound emotional weight and intricate themes of Margaret Atwood's original work.
 
@@ -66,5 +65,3 @@ The adaptation of *The Handmaid's Tale* raises important questions about fidelit
 - How did you interpret Offred's character differently in the film compared to the book?
 - What thematic elements were most effectively captured or lost in the adaptation?
 - How does the film's ending change your understanding of Offred's journey?
-
-#BookReport #Grade3 #ReadingLog #MargaretAtwood #DystopianFilm

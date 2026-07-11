@@ -42,7 +42,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 In David Fincher's adaptation of *Gone Girl*, the film's true engine lies in the sinister exploration of deceit and the dark undercurrents of marriage. **Verdict:** Fincher brilliantly transforms Flynn's narrative into a chilling meditation on identity and manipulation that leaves viewers questioning the very nature of truth.
 
@@ -70,6 +69,4 @@ The adaptation of *Gone Girl* sparks intense debate regarding fidelity to the so
 - Does the film's visual style enhance or detract from the source material's narrative depth?  
 - How does the portrayal of Amy Dunne reflect societal views on women and their agency?  
 - In what ways does the film’s ending reshape the audience’s understanding of love and manipulation?  
-- Can we view Nick Dunne as a victim, or is he complicit in his own downfall?  
-
-#LiteraryAnalysis #GothicEdge #GoneGirl #DavidFincher #PsychologicalThriller #TheProjectionRoom
+- Can we view Nick Dunne as a victim, or is he complicit in his own downfall?

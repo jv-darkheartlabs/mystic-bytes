@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 In *Fifty Shades Freed*, James Foley delivers a visually striking yet narratively hollow conclusion that exposes the fragility of romantic liberation cloaked in gothic allure. **Verdict:** The film’s attempt at closure ultimately suffocates under the weight of its own contradictions and shallow emotional stakes.
 
@@ -68,6 +67,4 @@ The adaptation of *Fifty Shades Freed* raises polarized debates about fidelity t
 - How do the adaptations of *Fifty Shades* compare to other erotic literary works on screen?  
 - What does the film suggest about the evolving portrayal of female desire in cinema?  
 - Does the ending truly offer closure, or does it reinforce a problematic narrative?  
-- In what ways does the film reflect or resist contemporary discussions on consent and power dynamics in relationships?  
-
-#TheProjectionRoom #filmadaptation #FiftyShadesFreed #literaryanalysis #darkheartlabs
+- In what ways does the film reflect or resist contemporary discussions on consent and power dynamics in relationships?

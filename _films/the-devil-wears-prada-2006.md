@@ -40,7 +40,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown>
 ## Hook & thesis
 In David Frankel's adaptation of **The Devil Wears Prada**, the film's primary objective is to explore the transformative journey of its protagonist within the ruthless fashion industry. **Verdict:** This cinematic retelling captures the essence of the source material while elevating the narrative through stellar performances and sharp wit.
 
@@ -63,6 +62,4 @@ The editing maintains a brisk pace, mirroring Andrea's spiraling descent into th
 While both the book and the film offer incisive commentary on ambition and identity, the tonal differences and character explorations lead to differing interpretations of success and personal fulfillment. **Questions for the room:**  
 - How do the film's comedic elements alter the tone of the original narrative?  
 - In what ways does the film's resolution impact its themes of sacrifice and ambition compared to the book?  
-- Does the film's portrayal of female relationships differ significantly from the novel's depiction?  
-
-#LiteraryAnalysis #TheProjectionRoom #filmadaptation #TheDevilWearsPrada #fashionindustry
+- Does the film's portrayal of female relationships differ significantly from the novel's depiction?

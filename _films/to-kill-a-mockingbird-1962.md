@@ -42,7 +42,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 **To Kill a Mockingbird**, directed by Robert Mulligan, is a poignant adaptation of Harper Lee's classic novel that explores themes of morality and justice through the eyes of a child. **Verdict:** This film beautifully captures the heart of its source material, showcasing the complexity of human nature with both grace and depth.
 
@@ -66,5 +65,3 @@ The film offers an engaging contrast to the novel, sparking debates on the portr
 - Are there characters or scenes from the book that you feel were underrepresented or altered?  
 - How does Atticus Finch's portrayal differ between the book and the film?  
 - Does the film's ending satisfyingly conclude the moral dilemmas presented in the narrative?
-
-#BookReport #Grade3 #ReadingLog #ToKillAMockingbird #FilmCritique

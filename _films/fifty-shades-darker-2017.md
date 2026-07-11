@@ -41,7 +41,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 James Foley's *Fifty Shades Darker* ambitiously attempts to transform the often-maligned source material into a gothic-romance tapestry, yet it ultimately unravels under the weight of its own desires. **Verdict:** This adaptation, while visually lush, falters in its pursuit of emotional depth, leaving a stark divide between heat and heart.
 
@@ -68,6 +67,4 @@ The adaptation of *Fifty Shades Darker* invites divisive conversations about its
 - How does the film's portrayal of consent align or clash with contemporary discussions around power dynamics in relationships?  
 - In what ways does the visual style enhance or hinder the emotional depth of the narrative?  
 - Are there moments in the book that you believe were misinterpreted or underexplored in the film?  
-- How effectively do you think the performances convey the complexity of the characters' relationship?  
-
-#TheProjectionRoom #filmadaptation #FiftyShadesDarker #gothicromance #literaryanalysis
+- How effectively do you think the performances convey the complexity of the characters' relationship?

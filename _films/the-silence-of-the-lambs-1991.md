@@ -42,7 +42,6 @@ tags:
 review_format: projection-room
 ---
 
-<markdown string>
 ## Hook & thesis
 In the 1991 film *The Silence of the Lambs*, directed by Jonathan Demme, the adaptation aims to explore the complex human psychology underlying fear and manipulation. **Verdict:** This film successfully translates the intricate dance of intellect and horror from page to screen, creating an unforgettable psychological thriller.
 
@@ -64,5 +63,3 @@ The adaptation of *The Silence of the Lambs* raises intriguing comparisons betwe
 - In what ways do the performances of Foster and Hopkins enhance or diverge from the characters as written?
 - Does the cinematic medium heighten or diminish the themes of the source material?
 - What might have been added or lost by the changes made in adaptation?
-
-#BookReport #Grade3 #ReadingLog #HannibalLecter #PsychologicalThriller
