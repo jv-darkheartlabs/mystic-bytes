@@ -92,6 +92,14 @@ categories:
     label: Fantasy Romance
     family: gothic
     tags: [fantasyromance, romantasy, darkromance]
+  classic-literature:
+    label: Classic Literature
+    family: edge
+    tags: [classic, literaryanalysis, schoolcanon]
+  juvenile-fiction:
+    label: Juvenile Fiction
+    family: edge
+    tags: [juvenile, children, literaryanalysis, schoolcanon]
 
 spice_levels:
   -
