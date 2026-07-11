@@ -20,6 +20,8 @@
   <link rel="stylesheet" href="{{ '/pagefind/pagefind-ui.css' | relative_url }}">
   <link rel="icon" type="image/png" href="{{ '/favicon.png' | relative_url }}">
 
+  {% include feed-autodiscovery.html %}
+
   {% if site.cloudflare_analytics_token %}
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.cloudflare_analytics_token }}"}'></script>
   {% endif %}

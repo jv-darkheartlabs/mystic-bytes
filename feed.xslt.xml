@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:atom="http://www.w3.org/2005/Atom">
+  <xsl:output method="html" encoding="UTF-8" indent="yes"/>
+
+  <xsl:template match="/">
+    <html lang="en">
+      <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <title><xsl:value-of select="/atom:feed/atom:title"/></title>
+        <style>
+          :root { color-scheme: dark; }
+          body {
+            margin: 0;
+            font-family: "Fira Sans", system-ui, sans-serif;
+            background: #0a0014;
+            color: #eceaf2;
+            line-height: 1.6;
+          }
+          .wrap { max-width: 48rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+          h1 { font-family: "Fira Code", monospace; font-size: 1.5rem; margin: 0 0 0.5rem; color: #ff1744; }
+          .subtitle { color: #9a8aad; margin: 0 0 2rem; }
+          .meta { font-family: "Fira Code", monospace; font-size: 0.75rem; color: #b47aff; margin-bottom: 2rem; }
+          article {
+            border: 1px solid #3a1060;
+            background: rgba(18, 0, 36, 0.72);
+            padding: 1rem 1.25rem;
+            margin-bottom: 1rem;
+          }
+          article h2 { margin: 0 0 0.35rem; font-size: 1.125rem; }
+          article h2 a { color: #eceaf2; text-decoration: none; }
+          article h2 a:hover { color: #ff1744; }
+          .date { font-family: "Fira Code", monospace; font-size: 0.6875rem; color: #9a8aad; margin-bottom: 0.75rem; }
+          .summary { color: #c8bfd8; font-size: 0.9375rem; }
+          .hint {
+            margin-top: 2rem;
+            padding: 1rem 1.25rem;
+            border-left: 2px solid #b47aff;
+            color: #9a8aad;
+            font-size: 0.875rem;
+          }
+          code { font-family: "Fira Code", monospace; color: #b47aff; }
+        </style>
+      </head>
+      <body>
+        <div class="wrap">
+          <h1><xsl:value-of select="/atom:feed/atom:title"/></h1>
+          <p class="subtitle"><xsl:value-of select="/atom:feed/atom:subtitle"/></p>
+          <p class="meta">
+            Atom feed · <xsl:value-of select="count(/atom:feed/atom:entry)"/> entries ·
+            updated <xsl:value-of select="/atom:feed/atom:updated"/>
+          </p>
+
+          <xsl:for-each select="/atom:feed/atom:entry">
+            <article>
+              <h2>
+                <a href="{atom:link[@rel='alternate']/@href}">
+                  <xsl:value-of select="atom:title"/>
+                </a>
+              </h2>
+              <p class="date"><xsl:value-of select="atom:published"/></p>
+              <div class="summary"><xsl:value-of select="atom:summary" disable-output-escaping="yes"/></div>
+            </article>
+          </xsl:for-each>
+
+          <p class="hint">
+            Subscribe in your feed reader using this page URL, or copy the feed address from your browser.
+            Essays: <code>/feed.xml</code> · Literary analysis: <code>/readings-feed.xml</code> · Projection Room: <code>/films-feed.xml</code>
+          </p>
+        </div>
+      </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>

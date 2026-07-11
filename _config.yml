@@ -67,16 +67,13 @@ plugins:
   - jekyll-redirect-from
 
 feed:
-  excerpt_only: true
+  posts_limit: 50
+  excerpt_only: false
   collections:
-    posts:
-      path: "/posts-feed.xml"
     essays:
       path: "/feed.xml"
-    readings:
-      path: "/readings-feed.xml"
-    films:
-      path: "/films-feed.xml"
+    posts:
+      path: "/posts-feed.xml"
 
 sass:
   sass_dir: _sass

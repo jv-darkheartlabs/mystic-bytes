@@ -26,7 +26,7 @@ jobs:
           bundler-cache: true
 
       - name: Build Jekyll
-        run: bundle exec jekyll build --trace
+        run: bundle exec jekyll build --trace --future
 
       - name: Add Pagefind search index
         run: npx --yes pagefind@1.3.0 --site _site
