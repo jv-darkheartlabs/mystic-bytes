@@ -1,0 +1,238 @@
+{
+  "generated_at": "2026-07-10T17:51:30.487Z",
+  "force": false,
+  "limit": null,
+  "offset": 0,
+  "slug_filter": [
+    "sweetly-unhinged-devoted-in-darkness-1",
+    "think-like-a-publisher-33-essential-tips-to-write-promote-sell-your-book",
+    "wicked-the-life-and-times-of-the-wicked-witch-of-the-west-the-wicked-years-1",
+    "a-guide-for-grown-ups-essential-wisdom-from-the-collected-works-of-antoine-de-sa",
+    "the-kite-runner",
+    "generation-of-swine-tales-of-shame-and-degradation-in-the-80s",
+    "dont-sweat-the-small-stuff-and-its-all-small-stuff-simple-ways-to-keep-the-littl",
+    "better-than-sex-confessions-of-a-political-junkie",
+    "flight-to-arras",
+    "the-time-travelers-wife",
+    "macbeth",
+    "kingdom-of-fear-loathsome-secrets-of-a-star-crossed-child-in-the-final-days-of-t",
+    "the-count-of-monte-cristo",
+    "the-proud-highway-saga-of-a-desperate-southern-gentleman-1955-1967",
+    "fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dre",
+    "citadelle",
+    "fear-and-loathing-in-america-the-brutal-odyssey-of-an-outlaw-journalist-the-gonz",
+    "the-giving-tree",
+    "hells-angels",
+    "a-thousand-splendid-suns",
+    "the-contortionist-harrow-faire-1",
+    "the-rum-diary",
+    "jurassic-park-jurassic-park-1",
+    "animal-farm",
+    "stuart-little",
+    "in-cold-blood",
+    "the-trumpet-of-the-swan",
+    "memoirs-of-a-geisha",
+    "taming-seraphine-morally-black-1",
+    "the-psychopath-next-door",
+    "keeper-of-enchanted-rooms-whimbrel-house-1",
+    "hunting-adeline-cat-and-mouse-2",
+    "hans-alliance-4",
+    "one-killer-night-to-die-for-1",
+    "evil-is-forever-to-die-for-2"
+  ],
+  "processed": 35,
+  "synced": 0,
+  "skipped_unchanged": 35,
+  "restored_from_trash": 0,
+  "missing_source": [],
+  "no_manifest_match": [],
+  "ambiguous_match": [],
+  "title_mismatch": [],
+  "match_methods": {
+    "loose": 22,
+    "exact": 13
+  },
+  "accuracy": {
+    "readings": 35,
+    "manifest_entries": 1542
+  },
+  "organizational": {
+    "wrong_category_folder": [
+      {
+        "slug": "a-guide-for-grown-ups-essential-wisdom-from-the-collected-works-of-antoine-de-sa",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic/11.jpeg",
+        "category": "gothic"
+      },
+      {
+        "slug": "a-thousand-splendid-suns",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/19.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "animal-farm",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/21.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "better-than-sex-confessions-of-a-political-junkie",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/13.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "citadelle",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic-horror-romance/17.jpeg",
+        "category": "gothic-horror-romance"
+      },
+      {
+        "slug": "dont-sweat-the-small-stuff-and-its-all-small-stuff-simple-ways-to-keep-the-littl",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/12.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "evil-is-forever-to-die-for-2",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/9.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "fear-and-loathing-in-america-the-brutal-odyssey-of-an-outlaw-journalist-the-gonz",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/18.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dre",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/17.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "flight-to-arras",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/13.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "generation-of-swine-tales-of-shame-and-degradation-in-the-80s",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/12.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "hans-alliance-4",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/7.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "hells-angels",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/19.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "hunting-adeline-cat-and-mouse-2",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/6.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "in-cold-blood",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/22.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "jurassic-park-jurassic-park-1",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/20.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "keeper-of-enchanted-rooms-whimbrel-house-1",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic-horror-romance/5.jpeg",
+        "category": "gothic-horror-romance"
+      },
+      {
+        "slug": "kingdom-of-fear-loathsome-secrets-of-a-star-crossed-child-in-the-final-days-of-t",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/15.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "macbeth",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic-horror-romance/14.jpeg",
+        "category": "gothic-horror-romance"
+      },
+      {
+        "slug": "memoirs-of-a-geisha",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic-horror-romance/24.jpeg",
+        "category": "gothic-horror-romance"
+      },
+      {
+        "slug": "one-killer-night-to-die-for-1",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/8.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "stuart-little",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic-horror-romance/21.jpeg",
+        "category": "gothic-horror-romance"
+      },
+      {
+        "slug": "sweetly-unhinged-devoted-in-darkness-1",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic-horror-romance/1.jpeg",
+        "category": "gothic-horror-romance"
+      },
+      {
+        "slug": "taming-seraphine-morally-black-1",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic-horror-romance/3.jpeg",
+        "category": "gothic-horror-romance"
+      },
+      {
+        "slug": "the-contortionist-harrow-faire-1",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic-horror-romance/2.jpeg",
+        "category": "gothic-horror-romance"
+      },
+      {
+        "slug": "the-count-of-monte-cristo",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic-horror-romance/15.jpeg",
+        "category": "gothic-horror-romance"
+      },
+      {
+        "slug": "the-giving-tree",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic-horror-romance/18.jpeg",
+        "category": "gothic-horror-romance"
+      },
+      {
+        "slug": "the-kite-runner",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/11.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "the-proud-highway-saga-of-a-desperate-southern-gentleman-1955-1967",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/16.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "the-psychopath-next-door",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/4.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "the-rum-diary",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/20.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "the-time-travelers-wife",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/forbidden-love/14.jpeg",
+        "category": "forbidden-love"
+      },
+      {
+        "slug": "the-trumpet-of-the-swan",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic/23.jpeg",
+        "category": "gothic"
+      },
+      {
+        "slug": "think-like-a-publisher-33-essential-tips-to-write-promote-sell-your-book",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/dark-thriller/10.jpeg",
+        "category": "dark-thriller"
+      },
+      {
+        "slug": "wicked-the-life-and-times-of-the-wicked-witch-of-the-west-the-wicked-years-1",
+        "source_path": "/Users/jenthedev/Pictures/bookish/BookCovers/goodreads-import/gothic-horror-romance/10.jpeg",
+        "category": "gothic-horror-romance"
+      }
+    ]
+  }
+}

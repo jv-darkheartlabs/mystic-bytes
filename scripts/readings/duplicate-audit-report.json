@@ -1,0 +1,162 @@
+{
+  "generated_at": "2026-07-10T23:47:14.214Z",
+  "dry_run": false,
+  "merged": [
+    {
+      "action": "merge",
+      "keep": "harry-potter-and-the-sorcerers-stone",
+      "delete": "harry-potter-and-the-philosophers-stone-harry-potter-1",
+      "reason": "US canonical edition"
+    },
+    {
+      "action": "merge",
+      "keep": "dare",
+      "delete": "dare-series-collection",
+      "reason": "single-title read; drop mislabeled collection entry"
+    },
+    {
+      "action": "merge",
+      "keep": "four",
+      "delete": "four-a-divergent-story-collection-divergent-0-1-0-4",
+      "reason": "same work — keep short slug"
+    },
+    {
+      "action": "merge",
+      "keep": "charlottes-web-and-other-illustrated-classics",
+      "delete": "charlotte-s-web",
+      "reason": "same work — keep pilot canonical"
+    },
+    {
+      "action": "merge",
+      "keep": "the-fellowship-of-the-ring",
+      "delete": "the-lord-of-the-rings-the-fellowship-of-the-ring-visual-companion",
+      "reason": "visual companion → canonical volume"
+    },
+    {
+      "action": "merge",
+      "keep": "the-fellowship-of-the-ring",
+      "delete": "the-fellowship-of-the-ring-bbc-dramatization-of-the-lord-of-the-rings-1",
+      "reason": "adaptation → canonical volume"
+    }
+  ],
+  "removed": [
+    {
+      "action": "remove",
+      "delete": "fifty-shades-trilogy-fifty-shades-1-3",
+      "reason": "omnibus — individual volumes kept"
+    },
+    {
+      "action": "remove",
+      "delete": "fifty-shades-freed-book-three-of-the-fifty-shades-trilogy-fifty-shades-of-grey-s",
+      "reason": "UK edition duplicate of Fifty Shades Freed"
+    },
+    {
+      "action": "remove",
+      "delete": "dan-brown-omnibus-angels-and-demons-the-da-vinci-code-robert-langdon-1-2",
+      "reason": "omnibus — individual volumes kept"
+    },
+    {
+      "action": "remove",
+      "delete": "charlottes-web-stuart-little-slipcase-gift-set",
+      "reason": "packaging-only gift set"
+    },
+    {
+      "action": "remove",
+      "delete": "twilight-series-6-book-collection",
+      "reason": "box set — twilight.md kept"
+    },
+    {
+      "action": "remove",
+      "delete": "the-lord-of-the-rings-the-trilogy",
+      "reason": "omnibus — three volumes kept"
+    },
+    {
+      "action": "remove",
+      "delete": "maze-runner-the-scorch-trials-the-official-graphic-novel-prelude",
+      "reason": "orphan tie-in — no prose canonical on shelf"
+    },
+    {
+      "action": "remove",
+      "delete": "maze-runner-the-death-cure-the-official-graphic-novel-prelude",
+      "reason": "orphan tie-in — no prose canonical on shelf"
+    },
+    {
+      "action": "remove",
+      "delete": "kristys-great-idea-a-graphic-novel-the-baby-sitters-club-graphic-novels-1",
+      "reason": "orphan graphic novel — no prose canonical on shelf"
+    }
+  ],
+  "kept": [
+    {
+      "slug": "nancy-drew-1-64",
+      "reason": "Box-set read — school timeline; individual volumes remain"
+    },
+    {
+      "slug": "charlottes-web-and-other-illustrated-classics",
+      "reason": "Pilot canonical for Charlotte's Web"
+    }
+  ],
+  "errors": [],
+  "orphan_covers_removed": [
+    {
+      "slug": "harry-potter-and-the-philosophers-stone-harry-potter-1",
+      "cover": "harry-potter-and-the-philosophers-stone-harry-potter-1.jpg"
+    },
+    {
+      "slug": "dare-series-collection",
+      "cover": "dare-series-collection.jpg"
+    },
+    {
+      "slug": "fifty-shades-trilogy-fifty-shades-1-3",
+      "cover": "fifty-shades-trilogy-fifty-shades-1-3.jpg"
+    },
+    {
+      "slug": "fifty-shades-freed-book-three-of-the-fifty-shades-trilogy-fifty-shades-of-grey-s",
+      "cover": "fifty-shades-freed-book-three-of-the-fifty-shades-trilogy-fifty-shades-of-grey-s.jpg"
+    },
+    {
+      "slug": "dan-brown-omnibus-angels-and-demons-the-da-vinci-code-robert-langdon-1-2",
+      "cover": "dan-brown-omnibus-angels-and-demons-the-da-vinci-code-robert-langdon-1-2.jpg"
+    },
+    {
+      "slug": "four-a-divergent-story-collection-divergent-0-1-0-4",
+      "cover": "four-a-divergent-story-collection-divergent-0-1-0-4.jpg"
+    },
+    {
+      "slug": "charlotte-s-web",
+      "cover": "charlotte-s-web.jpg"
+    },
+    {
+      "slug": "charlottes-web-stuart-little-slipcase-gift-set",
+      "cover": "charlottes-web-stuart-little-slipcase-gift-set.jpg"
+    },
+    {
+      "slug": "twilight-series-6-book-collection",
+      "cover": "twilight-series-6-book-collection.jpg"
+    },
+    {
+      "slug": "the-lord-of-the-rings-the-trilogy",
+      "cover": "the-lord-of-the-rings-the-trilogy.jpg"
+    },
+    {
+      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-visual-companion",
+      "cover": "the-lord-of-the-rings-the-fellowship-of-the-ring-visual-companion.jpg"
+    },
+    {
+      "slug": "the-fellowship-of-the-ring-bbc-dramatization-of-the-lord-of-the-rings-1",
+      "cover": "the-fellowship-of-the-ring-bbc-dramatization-of-the-lord-of-the-rings-1.jpg"
+    },
+    {
+      "slug": "maze-runner-the-scorch-trials-the-official-graphic-novel-prelude",
+      "cover": "maze-runner-the-scorch-trials-the-official-graphic-novel-prelude.jpg"
+    },
+    {
+      "slug": "maze-runner-the-death-cure-the-official-graphic-novel-prelude",
+      "cover": "maze-runner-the-death-cure-the-official-graphic-novel-prelude.jpg"
+    },
+    {
+      "slug": "kristys-great-idea-a-graphic-novel-the-baby-sitters-club-graphic-novels-1",
+      "cover": "kristys-great-idea-a-graphic-novel-the-baby-sitters-club-graphic-novels-1.jpg"
+    }
+  ]
+}

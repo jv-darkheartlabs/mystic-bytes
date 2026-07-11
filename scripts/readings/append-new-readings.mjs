@@ -15,6 +15,15 @@ const MANIFEST = join(DIR, "manifest.json");
 const READINGS_DIR = join(ROOT, "_readings");
 const ASSETS_DIR = join(ROOT, "assets/readings");
 
+function entrySlug(e) {
+  if (e.slug) return e.slug;
+  if (e.series && e.series_number != null) {
+    const base = slugify(e.title);
+    return `${e.series}-${String(e.series_number).padStart(2, "0")}-${base}`.slice(0, 80);
+  }
+  return slugify(e.title);
+}
+
 function slugify(title) {
   return title
     .toLowerCase()
@@ -67,7 +76,7 @@ const slugCounts = {};
 await mkdir(ASSETS_DIR, { recursive: true });
 
 for (const e of pending) {
-  let slug = slugify(e.title);
+  let slug = entrySlug(e);
   slugCounts[slug] = (slugCounts[slug] || 0) + 1;
   if (slugCounts[slug] > 1) slug = `${slug}-${slugCounts[slug]}`;
   if (existingSlugs.has(slug)) continue;
@@ -86,7 +95,10 @@ for (const e of pending) {
   const published = readingDateEnd();
   published.setDate(published.getDate() - written);
   const publishedIso = published.toISOString().slice(0, 10);
-  const dateRead = dateReadFromPublished(publishedIso, nextNum);
+  const dateRead =
+    e.date_read && /^\d{4}-\d{2}-\d{2}$/.test(e.date_read)
+      ? e.date_read
+      : dateReadFromPublished(publishedIso, nextNum);
 
   const lines = [
     "---",
