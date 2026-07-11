@@ -7,7 +7,7 @@ dek: ""
 number: R773
 sort_key: 773
 date: 2024-01-22
-date_read: 2024-01-13
+date_read: 2020-11-25
 category: gothic-horror-romance
 cover: /assets/readings/vicious.jpg
 spice: 3
@@ -24,22 +24,24 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-*Vicious* by V.E. Schwab is a potent exploration of ambition and moral ambiguity, where the desire for greatness can twist the soul into something unrecognizable. **Verdict:** This novel subverts the traditional hero's journey, presenting a narrative where the line between villain and savior blurs dangerously.
+In V.E. Schwab's *Vicious*, the author deftly unravels the moral ambiguities of ambition and revenge, compelling readers to confront the thin line between heroism and monstrosity. **Verdict:** This is a masterclass in Gothic horror-romance that challenges the very nature of power and the cost of our desires.
 
 ## The contextual pivot
-Situated at the intersection of gothic horror and dark romance, *Vicious* invites readers into a world where superpowers come with a sinister edge. Schwab's work resonates with the likes of Victoria Lee and Neil Gaiman, pushing the boundaries of the genre while maintaining an undercurrent of raw human emotion. The novel speaks to an audience that thrives on complex characters and moral dilemmas, and it deftly bridges the gap between niche dark fantasy and broader, more mainstream gothic themes, opening doors for a diverse readership.
+Situated within the gothic-horror-romance genre, *Vicious* stands out as a contemporary exploration of superhuman abilities intertwined with deep psychological undercurrents. Schwab crafts a narrative that straddles the line between the supernatural and the profoundly human, echoing the works of authors like Neil Gaiman and Stephen King, while also appealing to the broader audience with its intricate character dynamics. This novel not only captivates genre aficionados but also invites general readers to ponder the implications of betrayal and ambition, making it a bridge between niche tropes and universal themes.
 
 ## Deep-dive critique
-Schwab deftly employs a dual timeline structure, weaving the past and present together in a way that builds tension and deepens the reader's understanding of her characters. The pacing, particularly in the first half, is deliberate; it allows the unsettling atmosphere to creep in, much like the dread one feels while reading a classic gothic tale. The third-person perspective shifts between characters, revealing their motivations and desires in a manner that cultivates sympathy, even for the most morally ambiguous figures. Schwab's prose is sharp and evocative, painting vivid images that linger long after the page is turned. However, while the intricate characterizations excel, some moments in dialogue feel contrived, occasionally sacrificing authenticity for dramatic effect. The ending, while well-crafted, raises questions regarding the trajectory of its central conflict, leaving the reader in a state of ambiguity that is either invigorating or frustrating, depending on one's expectations of resolution.
+The structure of *Vicious* operates on a dual timeline, which Schwab leverages to create tension and a sense of inevitability that enhances the stakes of this dark narrative. The alternating perspectives of Victor Vale and Eli Ever, combined with their morally complex motivations, serve the thesis by allowing readers to grapple with the question of what constitutes a villain versus a hero. Schwab’s prose is sharp and evocative, effectively building a gothic atmosphere rife with death imagery that seeps into the characters' psyches, making the setting itself a character in its own right. 
+
+Character development shines through in this tale of vengeance, with Schwab crafting deeply flawed protagonists whose desires drive the narrative forward. Their dialogues crackle with tension, revealing their existential struggles and the creeping dread of their actions. However, the pacing in the latter half can feel rushed, risking a sense of unresolved tension that might leave some readers yearning for a more thorough resolution. The ending, while provocative, raises questions about whether true redemption is ever attainable, further complicating the reader's emotional investment.
 
 ## Discussion launchpad
-The interplay of ambition and moral decay offers fertile ground for debate, as does Schwab's portrayal of power dynamics and the blurry lines of loyalty. The novel invites readers to question not just the nature of heroism, but who we root for in a landscape where everyone is flawed.
+Schwab’s *Vicious* invites profound reflection on the nature of power and the human condition, challenging readers to evaluate their sympathies. Its blend of gothic and horror elements creates a space ripe for debate, as the moral ambiguity of the characters draws us in while also pushing us away.
 
 **Questions for the room:**  
-- How do the moral complexities of the characters shape your experience of the narrative?  
-- In what ways does the dual timeline enhance or detract from your understanding of the characters' motivations?  
-- What does *Vicious* suggest about the nature of power and its corrupting influence?  
-- How do you interpret the ending, and what do you believe it reveals about the characters' journeys?  
-- In what ways does the book challenge traditional gothic romance tropes, and are those challenges successful?  
+- Do you sympathize with Victor or Eli, and why?  
+- How does the setting contribute to the overall mood of the narrative?  
+- Is the ending of *Vicious* satisfying or frustrating in its ambiguity?  
+- In what ways does this story reflect contemporary societal issues regarding power and ambition?  
+- How does Schwab's exploration of obsession compare with other gothic romances you've read?
 
-#literaryanalysis #gothic #horrorromance #vicious #darkheartlabs
+#TheOrchidRoom #vicious #gothic #horrorromance #literaryanalysis #darkheartlabs

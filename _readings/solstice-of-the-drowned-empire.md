@@ -6,7 +6,7 @@ dek: "A Drowned Empire Novella"
 number: R1422
 sort_key: 1422
 date: 2026-03-19
-date_read: 2026-03-08
+date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/solstice-of-the-drowned-empire.jpg
 spice: 3
@@ -30,26 +30,24 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-*Solstice of the Drowned Empire* by Frankie Diane Mallis presents a haunting dance between light and darkness, an exploration of desire intertwined with existential dread. **Verdict:** This novella masterfully marries ethereal prose with a visceral, haunting sense of longing, revealing the fragile balance between love and despair.
+In *Solstice of the Drowned Empire*, Frankie Diane Mallis thrusts readers into a world where power is as treacherous as the depths of the ocean, unveiling the complex interplay of desire and betrayal that drives her characters. **Verdict:** This novella is a haunting exploration of longing and ambition, captivating readers with its intricate tapestry of fate and free will.
 
 ## The contextual pivot
-Nestled within the realms of fantasy-romance, Mallis’s work transcends typical genre boundaries, echoing the intricate world-building of authors like N.K. Jemisin, while also capturing the intoxicating romanticism of Sarah J. Maas. This novella serves as both a stand-alone and a compelling entry point to Mallis’s oeuvre, targeting an audience that straddles both niche romantasy enthusiasts and broader fantasy readers. The evocative imagery of a bioluminescent dark, contrasted with the golden tree, beckons readers drawn to gothic atmospheres and intricate love stories, bridging the allure of dark romance with a rich fantasy landscape.
+Nestled within the fantasy-romance genre, Mallis’ work stands out as a shimmering gem, blending elements of dark romance and political intrigue. In a landscape often dominated by light-hearted escapism, this novella dares to delve into the murky waters of human ambition and desire, evoking comparisons to authors like V.E. Schwab and Sarah J. Maas, who similarly intertwine romance with darker thematic undertones. The invisible audience here may be those who seek depth in their romantic escapades—readers who appreciate the stark contrast between beauty and brutality, as well as those intrigued by the genre's potential for more profound commentary on power dynamics.
 
 ## Deep-dive critique
-Mallis employs a lyrical structure that flirts with the boundaries of pacing, often lingering in moments of introspection that enhance the emotional stakes but occasionally risk dragging the narrative. The choice of a close third-person POV allows readers intimate access to the protagonist’s psyche, weaving a tapestry of desire that feels both intoxicating and claustrophobic. This decision amplifies the thematic exploration of yearning against the backdrop of an oppressive environment where the empire itself seems to drown its inhabitants in shadows.
+Mallis crafts an immersive atmosphere with a deliberate pacing that mirrors the ebb and flow of the oceanic realm she describes. The nonlinear timeline, however, occasionally disrupts the narrative's momentum, as the shifts between the past and present can leave readers momentarily adrift. The third-person limited POV effectively allows for a deep dive into the psyche of the protagonist, yet at times, it skirts the edges of emotional detachment, leaving the reader yearning for more intimate connections to characters’ internal struggles.
 
-Dialogue, while sparse, is imbued with a haunting resonance that underscores the characters' internal struggles. Each exchange carries the weight of the characters’ emotional landscapes, rich with unspoken tension. The world-building is organic, drawing the reader deeper into the drowned empire’s history and the significance of the solstice, yet some elements remain tantalizingly vague, enhancing the novella's mystique but potentially leaving a more general audience craving clarity.
-
-The ending, while poignant, presents a double-edged sword; it is both earned through the narrative's atmospheric build-up and yet open-ended enough to spark questions about the characters’ futures. This deliberate ambiguity reinforces the themes of longing and uncertainty, leaving readers in a state of yearning reflective of the protagonist's own journey.
+The prose itself is lush and evocative, adept at conjuring vivid imagery of the drowned empire and its haunting allure. Dialogues resonate with tension, revealing the characters’ motivations layered beneath their words. However, some narrative choices, particularly regarding secondary characters, can feel underdeveloped, as if they're mere pawns in the larger game rather than fully-fledged participants in the story. The thematic exploration of war and sacrifice is potent, but the ending, while thematically resonant, lacks the emotional weight to fully satisfy the buildup of tension throughout the novella.
 
 ## Discussion launchpad
-The thematic tension between love as a source of light and the oppressive weight of despair invites rich discourse, particularly regarding the balance of emotional depth and narrative pacing. What is left unsaid often lingers in the air, prompting readers to ponder the implications of an unresolved ending and the broader themes of desire and loss.
+Mallis' novella raises intriguing questions about the nature of desire and the costs of ambition, polarizing readers in their interpretations of the characters' choices and the world they inhabit. 
 
 **Questions for the room:**  
-- How does the structure influence your emotional response to the themes of longing and despair?  
-- In what ways does the novella redefine traditional fantasy-romance narratives?  
-- What are the implications of the ambiguous ending? Does it enhance or detract from the overall impact?  
-- How does the atmospheric world-building serve the central conflict?  
-- What elements of the prose stood out to you as particularly evocative or distracting?
+- How does the portrayal of political intrigue enhance or detract from the romantic elements in the story?  
+- In what ways do the characters’ motivations reflect the broader themes of ambition and desire?  
+- Does the nonlinear structure enrich the narrative, or does it impede emotional engagement?  
+- How effectively does the ending encapsulate the themes presented throughout the novella?  
+- What role do secondary characters play in shaping the protagonist's journey, and do they feel sufficiently developed?
 
-#literaryanalysis #fantasyromance #romantasy #darkromance #drownedempire
+#TheOrchidRoom #fantasyromance #darkromance #drownedempire #literaryanalysis

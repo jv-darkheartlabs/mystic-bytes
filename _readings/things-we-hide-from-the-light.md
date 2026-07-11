@@ -7,7 +7,7 @@ dek: "Good guys don't fall for bad girls"
 number: R1371
 sort_key: 1371
 date: 2026-01-19
-date_read: 2026-01-13
+date_read: 2018-06-10
 category: enemies-to-lovers
 cover: /assets/readings/things-we-hide-from-the-light.jpg
 spice: 4
@@ -27,24 +27,24 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-In *Things We Hide from the Light*, Lucy Score deftly intertwines the complexities of desire and moral ambiguity in a gripping enemies-to-lovers narrative. **Verdict:** This novel expertly navigates the dichotomy of light and shadow in human connections, culminating in an exploration of redemption that lingers long after the last page.
+In *Things We Hide from the Light*, Lucy Score crafts a tantalizing dance between light and dark, inviting readers into a world where past traumas collide with the complexity of desire. **Verdict:** This book deftly explores the entanglement of enemies-to-lovers dynamics, revealing that the most profound connections often emerge from the shadows of our hidden selves.
 
 ## The contextual pivot
-Positioned within the realm of contemporary romance, *Things We Hide from the Light* occupies a unique space in the enemies-to-lovers trope, particularly resonating with fans of darker narratives. Score's narrative follows the success of her previous work in the *Knockemout* series, which has gained a steady readership drawn to small-town settings fraught with emotional tension. The story appeals to both niche enthusiasts of grumpy-sunshine dynamics and general readers seeking an engaging exploration of flawed characters grappling with their pasts. In this landscape, Score's ability to balance humor and gravity sets her apart, making her work both relatable and provocative.
+Nestled within the enemies-to-lovers sub-genre, Score's work resonates with echoes of contemporary romance while teetering on the brink of dark romance. The author deftly navigates the small-town backdrop, a setting that amplifies the stakes of interpersonal conflict and intimacy, reminiscent of works by authors like Tessa Bailey and Mariana Zapata. Score's exploration of grumpy-sunshine dynamics, positioned alongside a deeper examination of trauma and redemption, speaks to an invisible audience drawn to nuanced emotional landscapes, bridging niche tropes with broader themes of healing and acceptance.
 
 ## Deep-dive critique
-Score's craft shines through her meticulous attention to character development and dialogue, where every exchange crackles with tension, reflecting the tumultuous relationship between the leads. The structure of alternating points of view allows readers to delve deeply into the psyches of both protagonists, enriching the emotional stakes and enhancing the push-and-pull dynamic that defines their connection. This dual POV invites readers to empathize with conflicting motivations, revealing the layers of vulnerability hidden beneath gruff exteriors.
+Score's structure, marked by alternating perspectives, serves to heighten the tension between her protagonists, allowing readers to witness their vulnerabilities and defenses in real time. This duality enhances the pacing, drawing us into the emotional gravity of their interactions. The prose oscillates between sharp and tender, effectively reflecting the characters' internal struggles. Characterization is a particular strength; the grumpy hero and the bad-girl persona are layered, each embodying both relatable flaws and redeemable qualities that keep the reader invested.
 
-Pacing serves the story well, with moments of tension punctuated by quieter interludes, allowing readers to absorb the weight of each decision. However, the resolution, while satisfying, flirts with predictability, challenging the reader's expectations of a truly earned climax. The thematic exploration of light and darkness — both literally in the characters' pasts and metaphorically in their evolving relationship — is poignant, though it occasionally teeters on the edge of cliché, testing the boundaries of its original premise. 
+However, while the dialogue often crackles with chemistry, there are moments where it dips into cliché, diluting the overall impact. The themes of violence and past trauma, woven throughout the narrative, are compelling yet sometimes feel under-explored, leaving the reader yearning for deeper engagement with these darker elements. The ending, while satisfying, feels slightly rushed, as if the intensity built throughout the novel could have been allowed to breathe a moment longer before resolution.
 
 ## Discussion launchpad
-While *Things We Hide from the Light* provides a compelling exploration of imperfect love, its duality may provoke mixed feelings among readers. Does the reliance on familiar tropes enhance or dilute the narrative power? The question of redemption — and whether it feels authentic — could spark lively discussion.
+This book undeniably raises questions about the boundaries of love, trauma, and redemption, and how they play out in relationships marked by conflict. Its exploration of darker themes juxtaposed with romantic tension will likely provoke a spectrum of reactions among readers.
 
 **Questions for the room:**  
-- How do the character arcs reflect the theme of light versus darkness?  
-- In what ways does Score challenge or reinforce the enemies-to-lovers trope?  
-- Is the resolution of the story satisfying, or does it lean too heavily on genre expectations?  
-- What does the handling of past trauma reveal about the author’s perspective on love and forgiveness?  
-- How does the small-town setting influence the dynamics between characters?  
+- How effectively does Score balance the darker elements of the story with romantic tropes?  
+- Are the character arcs satisfying in the context of their trauma, or do they feel rushed?  
+- In what ways does the small-town setting enhance or detract from the narrative's emotional stakes?  
+- How do we perceive the grumpy-sunshine dynamic in relation to power and vulnerability within relationships?  
+- Is there a danger in romanticizing trauma within the enemies-to-lovers trope?
 
-#literaryanalysis #ThingsWeHideFromTheLight #LucyScore #darkromance #enemiestolovers
+#TheOrchidRoom #enemiestolovers #darkromance #smalltown #literaryanalysis

@@ -6,7 +6,7 @@ dek: "The villain isn't supposed to be king — Royal Elite Book 1"
 number: R016
 sort_key: 016
 date: 2021-07-20
-date_read: 2021-07-13
+date_read: 2019-10-22
 category: bully-romance
 cover: /assets/readings/deviant-king.jpg
 spice: 4
@@ -28,24 +28,26 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-*Deviant King* by Rina Kent subverts traditional power dynamics in romance through a bold embrace of darkness, where desire and manipulation intertwine in the shadow of a crown. **Verdict:** This novel brilliantly navigates the treacherous waters of bully romance, revealing the intoxicating allure of danger as the true driving force behind its narrative.
+In Rina Kent's *Deviant King*, the reader is thrust into a world where power dynamics and obsession collide within the confines of elite academia. **Verdict:** This novel captivates with its dark exploration of desire and dominance, making it an unsettling yet compelling entry into the bully-romance subgenre.
 
 ## The contextual pivot
-This book occupies a distinctive niche within the bully-romance genre, drawing on the archetypal elements of enemies-to-lovers and royal elite tropes. Kent's work resonates with fans of dark academia and gothic romance, akin to authors like A.L. Jackson and Penelope Douglas, yet she carves a unique path by placing the reader directly in the realm of a morally ambiguous antagonist. The audience is likely a blend of niche enthusiasts familiar with the darker shades of romance and general readers seeking a thrill in the complexities of human relationships. Kent's ability to juggle these tropes invites broader appeal, serving both those who revel in the shadows and those who are curious about the exploration of power dynamics.
+*Deviant King* occupies a unique space within the bully-romance genre, drawing on gothic elements and the allure of forbidden love. Kent's previous works often flirt with dark themes and complex relationships, yet here, she dives deeper into the psychological intricacies of obsession and power imbalance. The invisible audience seems to be readers who appreciate a mix of emotional tension and moral ambiguity, successfully bridging niche tropes to engage both loyal fans of dark romance and broader audiences who enjoy tales of forbidden attraction, reminiscent of authors like Penelope Douglas and Elle Kennedy.
 
 ## Deep-dive critique
-Kent’s prose is a seductive web, woven with sharp dialogue and vivid imagery that resonate with the gothic undertones of the narrative. The dual points of view expertly capture the emotional turmoil of both characters, allowing the reader to feel the pulse of their conflict—an exquisite balance of vulnerability and power. The pacing, however, sometimes falters in its ambition to build tension, as certain sections linger too long on internal conflicts, potentially losing momentum in the seductive dance of dominance and submission.
+The novel's structure effectively mirrors its themes, utilizing alternating POVs that allow readers to navigate the conflicting desires of the protagonists. This dual perspective fosters a tension-filled narrative that underscores the oppressive weight of societal expectations and personal demons. However, the pacing, particularly in the middle sections, occasionally falters as the tension eases, risking reader investment. 
 
-The thematic exploration of trauma and reclamation is handled with a deft touch, though it occasionally skirts the line of glorifying unhealthy relationships. The characters’ imperfections make them relatable yet frustrating, which is the crux of their allure and conflict. The ending, a culmination of twisted desires and emotional stakes, is both surprising and, at times, earned, leaving the reader questioning the nature of love entwined with power.
+Kent excels in her character development, presenting flawed yet relatable figures whose motivations are steeped in trauma and desire. The dialogue is sharp and laced with undertones of threat and longing, creating a palpable atmosphere that enhances the romantic stakes. World-building within the academy setting is vivid, yet it sometimes leans into cliché territory, with the elite school serving as a formulaic backdrop rather than a fully realized character in its own right. 
+
+The culmination of the narrative leaves a tantalizing question of morality in its wake. The ending, while climactic, treads the fine line between satisfaction and discomfort, prompting readers to grapple with the consequences of the characters' choices. This moral ambiguity is both a triumph and a potential pitfall, as it may alienate those seeking a more traditional resolution.
 
 ## Discussion launchpad
-This novel presents a rich ground for debate on the complexities of desire and morality, leaving readers to grapple with the implications of the characters’ choices and the societal frameworks that shape them. The interplay of villainy and romance raises questions about the nature of attraction, particularly when pain and pleasure are so closely entwined.
+The polarizing elements within *Deviant King* are ripe for discussion, particularly around the ethical implications of its central themes and character motivations. Readers may find themselves divided over the portrayal of obsession and the blurred lines between love and manipulation. 
 
 **Questions for the room:**  
-- Does the portrayal of the antagonist as a romantic lead challenge our perceptions of love?  
-- In what ways does Kent navigate the moral implications of her characters' actions?  
-- How does the setting of an elite academy heighten the stakes of the romance?  
-- What are the responsibilities of authors when depicting dark themes in romance?  
-- Can the genre's tropes be subverted without losing the essence of what readers expect?  
+- How does the portrayal of power dynamics in the romance affect your view of the characters’ relationship?  
+- In what ways does the dual POV enhance or detract from the overall narrative?  
+- Do you believe the ending justifies the means, considering the characters' actions throughout the book?  
+- How do you feel about the use of dark themes in romance — does it add depth or detract from the emotional experience?  
+- Can a relationship built on such instability and obsession be viewed as romantic, or does it cross into problematic territory?
 
-#literaryanalysis #bullyromance #darkromance #royalelite #enemiestolovers
+#TheOrchidRoom #bullyromance #darkromance #royalelite #literaryanalysis

@@ -7,7 +7,7 @@ dek: ""
 number: R1142
 sort_key: 1142
 date: 2025-04-11
-date_read: 2025-04-10
+date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/a-court-of-silver-flames.jpg
 spice: 4

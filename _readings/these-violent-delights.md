@@ -7,7 +7,7 @@ dek: ""
 number: R1241
 sort_key: 1241
 date: 2025-08-11
-date_read: 2025-08-08
+date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/these-violent-delights.jpg
 spice: 1
@@ -28,24 +28,26 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-In Chloe Gong's *These Violent Delights*, the author deftly intertwines the threads of ambition, loyalty, and unyielding desire against a backdrop of 1920s Shanghai, culminating in a relentless exploration of star-crossed rivalry. **Verdict:** This novel’s intoxicating blend of passion and peril makes it a standout in the genre, revealing the dark hearts beneath its romantic surface.
+In *These Violent Delights*, Chloe Gong deftly navigates the turbulent waters of love and loyalty amid the chaos of gang warfare in 1920s Shanghai. **Verdict:** This novel is a haunting exploration of how love can both elevate and destroy, revealing the dangerous interplay of desire and ambition.
 
 ## The contextual pivot
-Positioned within the burgeoning realm of fantasy-romance, Gong's narrative draws heavily from the Shakespearean tragedy of *Romeo and Juliet*, yet it infuses the tale with a distinctly modern sensibility and cultural richness. The author effectively carves out a niche that transcends typical YA tropes, providing a fresh lens through which to view timeless themes of forbidden love and familial loyalty. Readers familiar with works by authors like Renée Ahdieh or Marie Lu will find a familiar yet exhilarating territory here, while those more accustomed to traditional fantasy may discover a compelling blend of magic and realism that broadens their horizons.
+As a retelling of Shakespeare's *Romeo and Juliet*, this work positions itself within the fantasy-romance genre while expertly weaving elements of historical fiction and dark romance. Gong's vibrant portrayal of Shanghai, rife with gang rivalries and societal unrest, invites comparisons to other reimagined classic tales, such as *A Curse So Dark and Lonely* by Brigid Kemmerer. It sits comfortably within a burgeoning niche that appeals to a younger audience eager for fresh takes on old stories while also reaching into the depths of historical context that can resonate with a broader readership.
 
 ## Deep-dive critique
-Gong's structural choices are deliberate and impactful. The dual perspectives of the rival protagonists not only intensify the reader's engagement but also create a layered understanding of their motivations and emotional landscapes. The pacing oscillates between moments of intense action and quieter, introspective beats, mirroring the chaotic political landscape of the time and the characters' internal turmoil. This ebb and flow is particularly effective in building tension, allowing the reader to savor the moments of desire that flicker between the characters amidst their violent realities.
+Gong's structure employs a dual perspective that enriches the narrative, alternating between the protagonists, Juliette and Roma. This technique not only aids in building tension but also deepens the reader's emotional investment in their conflicting loyalties. The pacing flirts with the rhythm of a thriller, where moments of violent confrontation are interspersed with tender exchanges, heightening the stakes of their romance amid chaos. 
 
-The prose is rich and lyrical, painting vivid imagery of Shanghai's streets and the blood-stained roses of the narrative. Yet, one might argue that at times the dialogue leans too heavily on melodrama, risking the authenticity of the characters’ interactions. However, this could also be perceived as an homage to its Shakespearean roots, inviting readers to oscillate between admiration and critique. The ending, while dramatic, resolves essential character arcs and leaves the reader contemplating the cost of love in a world steeped in betrayal, making it feel earned and resonant.
+The prose is lush and evocative, particularly in its vivid descriptions of 1920s Shanghai, which serve as a character in its own right. The world-building is meticulous; the atmospheric details transport the reader into a city alive with peril and beauty. However, at times, the dialogue can feel overly expository, momentarily pulling readers from the immersive experience. 
+
+Themes of duality—love and violence, loyalty and betrayal—are intricately woven throughout, culminating in an ending that, while dramatic, feels somewhat inevitable. The emotional weight of the final act is earned through meticulous character development, though some might find the resolution lacking in unpredictability.
 
 ## Discussion launchpad
-Gong’s novel presents several polarizing elements that could spark fervent debate. The interplay of loyalty and betrayal, alongside the cultural implications of the setting, raises questions about identity and agency within the narrative. Moreover, the balance of romance and violence invites scrutiny of how desire is portrayed in juxtaposition to the brutality of the characters’ world.
+The interplay between love and violence serves as a rich foundation for discussion, with the potential to ignite varying opinions on the romanticization of rivalry and conflict. 
 
 **Questions for the room:**  
-- Does the dual perspective enhance or dilute the emotional weight of the romance?  
-- How effectively does the setting of 1920s Shanghai contribute to the themes of the novel?  
-- Are the characters' motivations believable within the confines of their rivalry?  
-- In what ways does the romance challenge or reinforce traditional genre expectations?  
-- What does *These Violent Delights* suggest about the nature of love when entwined with violence?
+- Does the portrayal of gang warfare detract from or enhance the romantic elements of the story?  
+- How does Gong’s cultural backdrop influence your reading of the characters' choices?  
+- In what ways does the dual perspective shape your understanding of love and loyalty?  
+- Is the ending a true reflection of the characters’ journeys, or does it feel like a concession to genre expectations?  
+- How does this retelling compare to its source material in terms of thematic depth and character development?  
 
-#TheseViolentDelights #ChloeGong #fantasyromance #darkromance #literaryanalysis
+#TheOrchidRoom #TheseViolentDelights #ChloeGong #fantasyromance #darkromance

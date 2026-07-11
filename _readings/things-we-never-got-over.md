@@ -6,7 +6,7 @@ dek: "She's absolutely not falling for the bad boy."
 number: R465
 sort_key: 465
 date: 2023-01-05
-date_read: 2023-01-01
+date_read: 2024-09-19
 category: enemies-to-lovers
 cover: /assets/readings/things-we-never-got-over.jpg
 spice: 4
@@ -22,26 +22,26 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-*Things We Never Got Over* by Lucy Score ingeniously intertwines the enemies-to-lovers trope with a subtle exploration of trauma and healing, revealing how love can emerge from the ashes of our past conflicts. **Verdict:** This narrative succeeds in crafting a compelling tapestry of desire and redemption, though it occasionally leans too heavily on genre conventions.
+In *Things We Never Got Over*, Lucy Score masterfully intertwines the fabric of enemies-to-lovers tropes with the complex dynamics of trauma and redemption. **Verdict:** This novel is a poignant exploration of love's transformative power, wrapped in the familiar yet invigorating cloak of small-town romance.
 
 ## The contextual pivot
-Set against the backdrop of a small town in Knockemout, Score's work blends familiar romantic tropes with a darker undercurrent, making it a significant addition to the contemporary dark romance genre. This book resonates with readers familiar with the tension of past grievances colliding with present desires, particularly those drawn to the complexities of characters shaped by their histories. While Score's voice is distinctly engaging, the narrative straddles the line between niche and broader appeal, capturing the hearts of both enemies-to-lovers aficionados and those new to the genre.
+Nestled comfortably within the enemies-to-lovers subgenre, Score's work resonates with fans of contemporary romance while also appealing to those who favor darker, more nuanced storytelling. Compared to fellow authors like Talia Hibbert and Sophie Lark, Score delves deeper into the emotional scars that shape her characters, crafting a narrative that elevates the trope beyond mere attraction. The setting in the quaint yet tumultuous town of Knockemout serves as a vibrant backdrop, inviting readers who relish small-town dynamics while simultaneously challenging their perceptions of forgiveness and second chances.
 
 ## Deep-dive critique
-The novel's structure is a waltz between past and present, skillfully revealing layers of the characters’ motivations without bogging down the pacing. Score employs a dual POV that allows readers to delve into both protagonists' psyches, creating a rich tapestry of emotional conflict. However, the timeline occasionally stumbles, with certain flashbacks feeling disjointed and interrupting the seductive flow of the present narrative. 
+Score's structural choices amplify the thematic concerns of the narrative. The alternating points of view between the protagonists allow for a rich exploration of internal conflicts, where each chapter peels back layers of misunderstanding and pain. This technique not only creates tension but enhances the reader's investment in the characters' journeys. The pacing, particularly in the middle sections, occasionally lags, risking reader engagement; however, this lull serves to magnify the emotional stakes as characters confront their pasts. 
 
-Characterization is a standout aspect; the protagonist’s evolution from a runaway bride to a woman confronting her demons is both believable and poignant. The dialogue crackles with tension, rich with the kind of banter that ignites desire, while also painting the protagonists’ vulnerabilities. World-building is vivid yet concise, immersing readers in the small-town charm that contrasts sharply with the characters’ tumultuous inner worlds. 
+Characterization shines, especially in the portrayal of the male lead, whose 'bad boy' persona masks a vulnerability that invites empathy rather than disdain. Dialogue sparkles with wit and tension, effectively capturing the animosity that gradually morphs into attraction. Yet, some secondary characters feel underdeveloped, leaving narrative threads dangling that could have enriched the story's complexity. 
 
-However, the ending, while dramatic, feels like a concession to genre expectations, lacking the nuanced resolution the characters deserve. Their journey is one of real emotional stakes, but the conclusion simplifies their growth into a tidy bow that may leave some readers craving a deeper reflection on their evolution.
+The climax, while satisfying, borders on predictable as it follows a well-trodden path of resolution. Nevertheless, the emotional authenticity at its core remains earned, suggesting that even familiar resolutions can resonate powerfully when rooted in genuine character growth and self-discovery.
 
 ## Discussion launchpad
-While *Things We Never Got Over* undoubtedly delivers on heat and tension, it raises significant questions about the balance between genre conventions and character depth. The tension between personal demons and the redemptive power of love is palpable, yet the resolution may polarize readers who seek more from their endings. 
+The interplay between desire and vulnerability raises questions about the nature of love and redemption. How do the characters' pasts shape their present choices, and can genuine transformation occur within the confines of a genre that often leans into fantasy?
 
-**Questions for the room:**  
-- How do you feel about the balance of character growth versus genre expectations in the ending?  
-- Do you believe the dual POV truly enriched the story, or did it detract from the narrative’s intensity?  
-- How does Score’s portrayal of trauma within a romantic framework challenge or reinforce traditional romance narratives?  
-- What elements of the small-town setting contribute to the characters’ dynamic, and do they enhance or constrain the plot?  
-- In what ways does the book subvert or adhere to the enemies-to-lovers trope, and what impact does that have on the reader's experience?  
+**Questions for the room:**
+- Is the portrayal of the 'bad boy' trope here a responsible depiction of masculinity?
+- How does Score balance the humor and darkness present in her narrative?
+- Are the emotional stakes high enough to justify the familiar plot arc, or does it feel like a safe choice?
+- In what ways could the secondary characters have been better integrated into the main narrative?
+- How do you interpret the resolution of the protagonists' conflicts in relation to their growth?
 
-#literaryanalysis #ThingsWeNeverGotOver #LucyScore #darkromance #enemiestolovers
+#TheOrchidRoom #enemiestolovers #darkromance #Knockemout #literaryanalysis

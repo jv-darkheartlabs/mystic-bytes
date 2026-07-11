@@ -7,7 +7,7 @@ dek: "Till death do us part"
 number: R147
 sort_key: 147
 date: 2021-12-19
-date_read: 2021-12-16
+date_read: 2018-06-10
 category: forbidden-love
 cover: /assets/readings/the-oath-we-give.jpg
 spice: 4
@@ -25,26 +25,24 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-In *The Oath We Give*, Monica Murphy delves into the treacherous waters of forbidden love, where loyalty transcends life itself, entangling the reader in a web of dark desire. **Verdict:** This novel masterfully intertwines the themes of love and sacrifice, leaving a haunting imprint on the soul.
+Monty Jay's *The Oath We Give* delves into the treacherous waters of forbidden love, where the shadows of power dynamics and mortality intertwine. **Verdict:** This is a bold exploration of desire's darkest impulses, leaving readers to confront the price of devotion.
 
 ## The contextual pivot
-Nestled within the forbidden-love subgenre, Murphy's work resonates with the gothic echoes of authors like Anna Zaires and Talia Hibbert, who explore the depths of passion entwined with peril. The narrative's allure lies in its ability to captivate both niche aficionados of dark romance and broader audiences, making it a seductive entry point for those unfamiliar with the genre's darker corners. The interplay between death and devotion creates a landscape ripe for emotional exploration, inviting readers into a world where love and loss are inextricably linked.
+In the realm of dark romance, *The Oath We Give* occupies a niche marked by tension and moral ambiguity, akin to the works of authors like Anna Zaires and Skye Warren. Jay crafts a narrative that not only adheres to genre conventions but also challenges them, inviting readers to grapple with the complexities of love intertwined with death and societal constraints. The invisible audience here ranges from devoted fans of gothic romance to those intrigued by the ethical dilemmas of intimacy, making the book both a bridge for niche enthusiasts and accessible to a broader readership.
 
 ## Deep-dive critique
-Murphy's narrative structure is a compelling tapestry of suspense and longing, artfully maintaining a slow-burn tension that captures the reader's attention without losing momentum. The alternating points of view deepen the emotional resonance, allowing us to traverse the characters' inner turmoil as they navigate their fraught relationship — a deft choice that amplifies the stakes involved in their bond. The prose is both lyrical and haunting, instilling a sense of urgency that mirrors the characters' own desperation.
+Jay’s writing excels in creating an atmosphere thick with tension, utilizing a nonlinear timeline that mirrors the characters' tumultuous emotions. The dual perspectives allow readers to witness the internal conflicts that each character faces, enriching the narrative with depth. The prose is laced with poetic imagery that evokes both beauty and dread, such as when the protagonists are depicted against a backdrop of decaying opulence, symbolizing their moral decay amidst their passionate entanglement. 
 
-However, the pacing occasionally falters, particularly in the second act where moments of introspection tend to stall the narrative drive. While these reflections add depth, they risk losing the reader's engagement amidst the buildup of tension. Dialogue shines in moments of conflict, revealing the raw, often painful dynamics of love intertwined with obligation, yet at times feels overly melodramatic, which could alienate readers seeking authenticity.
-
-Murphy's world-building, rich with gothic undertones, effectively places the characters within a setting that enhances their struggles and desires. The ending, while emotionally charged, borders on predictable; one craves a more subversive resolution that would leave a lasting impression rather than a neatly tied bow.
+However, the pacing occasionally falters; certain sections linger too long on introspective monologues, risking reader engagement. The dialogue feels authentic, yet at times, it slips into melodrama, which could detract from the visceral connection the author seeks to establish. Additionally, while the themes of power dynamics are compellingly woven into the narrative, they sometimes lack sufficient nuance, leaving the reader craving a deeper exploration of consent and agency. The ending, while impactful, feels somewhat abrupt, as if Jay intended to leave readers in a state of unresolved tension but ultimately left them wanting a more developed resolution. 
 
 ## Discussion launchpad
-The novel raises questions about the nature of devotion and the moral quandaries surrounding love. The exploration of loyalty in the face of death invites a deeper interrogation of sacrifice in romantic relationships, but it also leaves some ethical dilemmas unresolved, potentially dividing readers.
+*The Oath We Give* invites a spectrum of reactions, particularly around its portrayal of love intertwined with power and death. The polarities present in this narrative can incite passionate debate.
 
 **Questions for the room:**  
-- How do you interpret the balance between love and obligation in the characters' choices?  
-- Does the predictability of the ending detract from the overall impact of the narrative?  
-- In what ways could the author have pushed the boundaries of the forbidden-love trope further?  
-- How does the dual POV enhance or detract from the emotional stakes?  
-- What unresolved questions linger about the characters' moral decisions?  
+- Does the exploration of power dynamics enhance or detract from the romantic elements?  
+- How effectively does the nonlinear structure serve the theme of forbidden love?  
+- Are the ethical implications surrounding the characters' choices sufficiently addressed within the narrative?  
+- In what ways does the setting contribute to the overall mood and themes?  
+- How do you interpret the ending — is it satisfying or frustrating?  
 
-#literaryanalysis #forbiddenlove #darkromance #darkheartlabs
+#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

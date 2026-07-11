@@ -7,7 +7,7 @@ dek: "A Solaria Novel"
 number: R1097
 sort_key: 1097
 date: 2025-02-16
-date_read: 2025-02-05
+date_read: 2020-11-25
 category: bully-romance
 cover: /assets/readings/zodiac-academy-cursed-fates.jpg
 spice: 4
@@ -27,22 +27,24 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-In *Zodiac Academy: Cursed Fates*, Caroline Peckham and Susanne Valenti create a tempestuous landscape where power and desire collide in a world dictated by celestial hierarchies. **Verdict:** This book is a fierce exploration of the intricate dance between ambition and vulnerability, serving as a dark mirror reflecting the perils of desire.
+In "Zodiac Academy: Cursed Fates," Caroline Peckham and Susanne Valenti deftly weave a narrative that grapples with the complexities of power and vulnerability among a cast of privileged but tormented characters. **Verdict:** This book subverts the bully-romance trope by exposing the raw edges of desire and fear, making it a compelling study of broken relationships and unhealed wounds.
 
 ## The contextual pivot
-As a part of the burgeoning bully-romance subgenre, this novel stands alongside titans like *Cruel Intentions* and *The Deal* by Elle Kennedy, both of which deftly navigate the treacherous waters of love and rivalry. Peckham and Valenti's work, however, uniquely integrates elements of fantasy and astrological lore, crafting a narrative that appeals to both niche audiences and broader readers drawn into the allure of supernatural stakes. The series invites readers into a world where zodiac signs dictate not only fates but also the relationships marred by envy and ambition, providing a fresh lens through which to explore familiar tropes.
+Positioned firmly within the bully-romance subgenre, "Cursed Fates" expands upon the themes of dominance and submission that characterize its predecessors while operating on a broader stage of fantasy. Peckham and Valenti invite readers into a world reminiscent of both high school hierarchies and dark magical academies, echoing the tones found in books by authors like Jennifer L. Armentrout or the series "Crave" by Tracy Wolff. The invisible audience straddles the line between devoted fans of dark romance and those seeking a more mainstream exploration of interpersonal conflict, effectively bridging niche elements with wider literary appeal.
 
 ## Deep-dive critique
-The structure of *Cursed Fates* employs a dual narrative perspective, oscillating between protagonists to enhance tension and develop a complex emotional landscape. This technique effectively mirrors the characters' conflicting desires and ambitions, ensuring the pacing remains taut throughout the dark corridors of the academy. The prose, laden with vivid imagery and sharp dialogue, creates an immersive experience that captures both the brutality of academy life and the electric undercurrents of attraction. However, the pacing occasionally falters, particularly in the middle sections where the plot's momentum wanes under the weight of exposition, potentially alienating readers yearning for relentless intrigue. Character development shines, particularly in the nuanced portrayals of the protagonists, whose vulnerabilities are laid bare amidst the harsh dynamics of social dominance, yet certain secondary characters remain underdeveloped, leaving the reader craving more depth. The climax delivers a punch, with an ending that is both satisfying and tantalizingly open, leaving the door ajar for further exploration of the characters’ intertwined fates.
+The narrative excels in its pacing, establishing a rhythm that reflects both the frenetic energy of its youthful protagonists and the simmering tensions that define their interactions. The dual perspective—allowing glimpses into the minds of both the bullied and the bullies—adds an intriguing layer, inviting readers to empathize with characters that, at first glance, appear irredeemable. The prose is sharp, employing vivid imagery that heightens the emotional stakes; moments of tenderness starkly contrast with the violence and dark themes, ensuring that readers remain engaged throughout.
+
+However, the structure occasionally falters. While the alternating viewpoints serve to deepen character complexity, they occasionally disrupt narrative flow, leading to moments where the emotional impact feels diluted rather than intensified. Furthermore, the reliance on familiar tropes—despite their subversion—can leave the more discerning reader longing for a deeper exploration of the psychological motivations behind the characters' actions. Notably, the ending, while climactic, risks feeling abrupt, leaving some threads tantalizingly unresolved, which may frustrate readers seeking closure.
 
 ## Discussion launchpad
-This narrative invites a rich tapestry of discussion surrounding the implications of power dynamics in relationships and the nature of desire within a competitive framework. The polarizing elements lie in the ethical considerations of love entangled with rivalry and the consequences of ambition. What remains unaddressed is the moral ambiguity of the characters' choices and the long-term implications of their actions on their relationships and identities.
+The interplay between desire and violence in "Cursed Fates" raises questions about the ethics of romanticizing such tumultuous relationships. How do the authors balance the allure of dark romance with its implications?  
 
-**Questions for the room:**
-- How do power dynamics influence the portrayal of romance in this book?
-- Are the protagonists' moral choices justified by their circumstances, or do they reflect deeper flaws?
-- In what ways does the astrological theme enhance or detract from the emotional stakes?
-- How does the dual POV structure affect your connection to the characters?
-- What unresolved questions linger for you about the secondary characters and their motivations?
+**Questions for the room:**  
+- Do you believe the bullying element is justified in the context of character development, or does it detract from the overall narrative?  
+- How effectively do the authors handle the theme of consent within the turbulent dynamics depicted?  
+- In what ways does the dual perspective enrich or complicate the reader's engagement with the characters?  
+- Are there moments where the narrative risks glorifying toxic relationships?  
+- How does the climax shape your understanding of the characters' arcs, and do you find it satisfying or unresolved?
 
-#literaryanalysis #bullyromance #darkromance #zodiacacademy #cursedfates
+#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #cursedfates

@@ -6,7 +6,7 @@ dek: "The Lochlann Feuds — Book 4"
 number: R537
 sort_key: 537
 date: 2023-04-06
-date_read: 2023-03-30
+date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/obsidian-throne.jpg
 spice: 4
@@ -31,24 +31,24 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-In *Obsidian Throne*, Mahle and Madison weave a tapestry of political intrigue and passionate entanglements against a backdrop of fierce familial loyalty. **Verdict:** This novel deftly explores the duality of power and desire, revealing that the true war lies not just on the battlefield but within the heart.
+In **Obsidian Throne**, Robin D. Mahle and Elle Madison weave a tapestry of ambition and betrayal set against a backdrop of war-torn landscapes and royal intrigue. The authors' primary objective is to explore the depths of desire and the lengths characters will go to claim power, love, and vengeance. **Verdict:** This book is a masterclass in tension and layered human conflict, gripping readers with its dark romantic undercurrents.
 
 ## The contextual pivot
-Situated within the expansive realm of fantasy romance, *Obsidian Throne* occupies a unique niche that blends elements of high fantasy with the complexities of human relationships—a hallmark of Mahle and Madison's collaborative work. Their previous installments in the Lochlann Feuds series have set a tone of visceral tension and intricate world-building, drawing readers deeper into the lore of a realm divided by bloodlines and ambition. The authors adeptly straddle the line between niche tropes and broader appeal, inviting both seasoned romantasy aficionados and newcomers to engage with themes of love, betrayal, and the intoxicating allure of power.
+As the fourth installment in **The Lochlann Feuds**, this novel continues the series’ exploration of familial and political strife, solidifying its place within the fantasy-romance genre. Unlike its predecessors, which laid the groundwork for conflict and character development, **Obsidian Throne** escalates the stakes, offering a rich narrative that intertwines courtly politics with passionate entanglements. The authors maneuver through familiar tropes—feuding families, royal decrees, and clandestine affairs—while simultaneously appealing to a broader audience, potentially attracting readers who venture beyond the niche of fantasy. The combination of romantic and fantastical elements transcends the genre, inviting readers of high fantasy and dark romance alike to indulge in its complexities.
 
 ## Deep-dive critique
-The structure of *Obsidian Throne* is a masterclass in pacing and tension, oscillating between the immediate stakes of royal feuds and the intimate struggles of its characters. The dual POV enriches the narrative, allowing readers to inhabit the minds of both the heroine and her conflicted love interest. This choice amplifies the emotional stakes, as their desires clash with the expectations of their roles within their fractured society. Dialogue is sharp and laden with subtext, effectively conveying the tumultuous nature of their relationships without resorting to melodrama. 
+The structure of **Obsidian Throne** effectively mirrors its thematic undercurrents. The dual perspectives allow for a nuanced exploration of desire, weaving together the motivations of both protagonists, each driven by their own agendas amid the chaos of war. This choice not only enriches character depth but also heightens tension, as the reader navigates their shifting loyalties and secret machinations. The pacing, particularly in the latter chapters, races towards an explosive climax that feels both earned and inevitable. 
 
-However, the prose sometimes falters in its attempts to balance lyrical descriptions with the urgency of the plot; certain passages linger too long on world-building at the expense of momentum, which may leave impatient readers yearning for action. Nonetheless, the themes of loyalty and sacrifice resonate deeply, culminating in an ending that feels both earned and inevitable, reflecting the characters’ journeys toward self-discovery and reconciliation with their legacies.
+Craft-wise, Mahle and Madison excel in building romantic tension through evocative prose and dialogue that crackles with unspoken desire. The characters' interactions are rife with subtext, making even the simplest exchanges fraught with meaning. However, some mechanical flaws emerge in the form of pacing inconsistencies; certain plot points could benefit from further development, leaving the resolution of key conflicts feeling somewhat rushed. The world-building is richly detailed, yet at times, the myriad characters introduced can be overwhelming, risking reader attachment to pivotal figures.
 
 ## Discussion launchpad
-*Obsidian Throne* is ripe for debate, particularly in its exploration of the conflict between personal desire and societal duty. The tension between love and loyalty will undoubtedly provoke strong opinions, as will the portrayal of power dynamics within relationships. What remains unspoken is the question of whether the sacrifices made for love are truly justified when weighed against the brutal realities of their world.
+**Obsidian Throne** straddles the line between romance and intrigue, sparking discussions on the nature of ambition and the morality of betrayal within relationships. Its themes provoke questions about loyalty, power, and the sacrifices characters make for love.
 
 **Questions for the room:**  
-- How do you perceive the balance between romance and political intrigue in the narrative?  
-- Do the characters’ choices reflect a realistic struggle with their inherited legacies?  
-- Is the ending a resolution or merely a pause in the ongoing conflict?  
-- What role does the setting play in shaping the characters’ identities and desires?  
-- How does the portrayal of power dynamics influence your reading of the romantic relationships?
+- How do the dual perspectives shape your understanding of loyalty and betrayal in the narrative?  
+- What do you think about the pacing in the latter sections of the book? Did it enhance or detract from your experience?  
+- In what ways do the authors subvert typical fantasy-romance tropes, and how does that impact your engagement with the story?  
+- How does the portrayal of violence and war inform the romantic elements of the plot?  
+- Can you identify any moments where the character's desires conflict with their moral compasses? How does this influence your perception of them?  
 
-#literaryanalysis #ObsidianThrone #LochlannFeuds #Romantasy #darkromance
+#TheOrchidRoom #fantasyromance #darkromance #highfantasy #literaryanalysis

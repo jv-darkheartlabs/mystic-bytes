@@ -6,7 +6,7 @@ dek: ""
 number: R1049
 sort_key: 1049
 date: 2024-12-19
-date_read: 2024-12-08
+date_read: 2020-08-16
 category: gothic-horror-romance
 cover: /assets/readings/malum-discordiae.jpg
 spice: 4
@@ -26,26 +26,25 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-*Malum Discordiae* by Ashlyn Drewek entwines the reader in a web of desire and peril, where the heart's whispers often clash with the mind's logic. **Verdict:** This novel masterfully navigates the treacherous interplay of love and obsession, placing it firmly within the pantheon of gothic romance.
+In *Malum Discordiae*, Ashlyn Drewek weaves a chilling tapestry where desire and despair collide, exploring the haunting aftermath of love entwined with loss. **Verdict:** This is a masterclass in gothic horror-romance that interrogates the very nature of longing through a lens of exquisite darkness.
 
 ## The contextual pivot
-This work occupies a nuanced space within the gothic horror romance genre, akin to the explorations of authors like Silvia Moreno-Garcia and Lisa Gabriele. Drewek melds atmospheric dread with a sharp romantic edge, echoing the tension found in classics like *Rebecca* and *The Thirteenth Tale*. Her ability to capture the essence of yearning and trepidation makes this book appealing to both niche aficionados and general readers alike, as she deftly bridges traditional gothic tropes with modern sensibilities.
+Drewek's work emerges from a rich tradition of gothic horror, echoing the likes of Shirley Jackson and Daphne du Maurier while carving its own niche in contemporary literature. The novel straddles the line between genre fiction and literary exploration, appealing to both die-hard gothic aficionados and readers new to the dark, brooding landscapes of this thematic universe. Here, the invisible audience is not just searching for thrills; they seek a deeper understanding of the human condition marred by tragedy and obsession, making the book a bridge between niche tropes and broader existential inquiries.
 
 ## Deep-dive critique
-Drewek's structural choices propel the narrative's emotional stakes. The shifting point-of-view creates an intimate turbulence, allowing readers to oscillate between yearning and dread, mirroring the protagonists' own tumultuous feelings. This technique, however, can sometimes disrupt the pacing; moments of tension are occasionally undercut by an overindulgence in introspection that borders on the excessive. 
+Structurally, *Malum Discordiae* unfolds through a non-linear timeline, skillfully employing fragmented memories and haunting flashbacks that enhance the emotional intensity. This choice serves to amplify the protagonist’s internal conflict—she is perpetually caught between the spectral remnants of her past and the present's suffocating intimacy. Drewek's prose is laced with a lyrical quality that contrasts beautifully with the darkness that envelops her characters, rendering their suffering palpable and relatable. 
 
-The prose is laced with gothic imagery that evokes a palpable sense of place—whispers of velvet shadows and candle-glass light envelop the reader, crafting a world that feels both lush and foreboding. Characterization is particularly strong; the protagonists are flawed yet compelling, their desires a reflection of the haunting voids within them. Dialogue crackles with tension, underscoring the conflict between their dark impulses and the societal norms they grapple with. 
+Characterization is another strength; the protagonist is rendered with layers of complexity, her desires and fears echoing the gothic tradition of flawed, haunted figures. The dialogue, sharp and laden with unspoken tension, encapsulates the characters’ emotional turmoil and adds to the novel’s gothic atmosphere. Yet, while the narrative excels in its evocation of a pervasive sense of dread, one might argue that some plot developments feel rushed, almost overshadowed by the weight of the themes explored.
 
-However, the thematic exploration of obsession and the moral grayness of desire can lead to moments of ambiguity that some readers may find unsatisfying. The ending, while striking, raises questions about redemption and the cyclical nature of desire that some may view as unresolved.
+The ending, a crescendo of unresolved tensions, leaves readers grappling with the implications of love tainted by grief. It’s a bold choice that resonates long after the final page, inviting contemplation on whether true closure is ever attainable in the wake of such profound loss.
 
 ## Discussion launchpad
-The novel’s exploration of obsession versus love presents polarizing elements that are ripe for discussion. The moral complexities inherent in the characters' choices may leave readers divided, further enhanced by the ambiguous nature of the ending. What remains unsaid about the nature of desire and its consequences can provoke deep reflection on human relationships.
+Drewek’s unflinching exploration of desire against a backdrop of horror raises polarizing questions about the nature of love and obsession. Some may find the emotional intensity overwhelming, while others revel in its raw authenticity.
+- **Questions for the room:**  
+  - How does the non-linear structure impact your understanding of the protagonist’s journey?  
+  - Do you believe the ending offers closure, or does it perpetuate a cycle of despair?  
+  - In what ways does this book challenge conventional portrayals of gothic romance?  
+  - How does Drewek’s portrayal of emotional intensity compare to other gothic narratives you’ve read?  
+  - What role does the gothic atmosphere play in shaping the characters’ desires and fears?  
 
-**Questions for the room:**
-- Does the ambiguity in the ending enhance or detract from the overall message of the book?
-- How does the portrayal of obsession challenge traditional notions of romance?
-- In what ways does Drewek's use of gothic elements contribute to or complicate the narrative’s emotional landscape?
-- What are the implications of desire when intertwined with danger in relationships?
-- How do societal expectations shape the characters' actions, and to what extent are they responsible for their choices?
-
-#literaryanalysis #MalumDiscordiae #Gothic #HorrorRomance #DarkHeartLabs
+#TheOrchidRoom #gothic #horrorromance #malum #discordiae

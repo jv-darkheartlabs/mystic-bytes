@@ -7,7 +7,7 @@ dek: ""
 number: R1169
 sort_key: 1169
 date: 2025-05-13
-date_read: 2025-05-08
+date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/a-curse-for-true-love.jpg
 spice: 2

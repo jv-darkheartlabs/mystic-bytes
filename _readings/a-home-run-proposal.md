@@ -6,7 +6,7 @@ dek: "International bestselling author"
 number: R1505
 sort_key: 1505
 date: 2026-07-04
-date_read: 2026-06-26
+date_read: 2020-05-07
 category: enemies-to-lovers
 cover: /assets/readings/a-home-run-proposal.jpg
 spice: 3
@@ -23,24 +23,23 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-A Home Run Proposal by Maren Moore explores the tumultuous dance of ambition and vulnerability within the charged atmosphere of a baseball-centric enemies-to-lovers narrative. **Verdict:** This novel deftly intertwines the personal and the professional, delivering a striking examination of longing cloaked in rivalry.
+Maren Moore’s *A Home Run Proposal* deftly intertwines the enemies-to-lovers trope with a sharp critique of personal ambition and vulnerability in a competitive world. **Verdict:** This book masterfully navigates the tension between power and intimacy, leaving readers questioning the true cost of love amidst rivalry.
 
 ## The contextual pivot
-This work resides firmly in the realm of enemies-to-lovers romance, a subgenre that thrives on tension and the evolution of antagonistic relationships. Moore's writing bears a striking resemblance to contemporary authors like Talia Hibbert and Christina Lauren, where complexity and wit shape character interactions. The allure of a fake engagement set against the backdrop of America’s favorite pastime offers a compelling twist that invites both niche sports enthusiasts and mainstream romance readers into its fold. It effectively bridges the gap between traditional romantic tropes and modern sensibilities, aiming to captivate an audience that craves both emotional depth and playful banter.
+Nestled in the sports romance subgenre, Moore's work echoes the thematic complexities found in authors like Mariana Zapata and Christina Lauren, who also explore rival dynamics through the lens of romance. In *A Home Run Proposal*, the stakes of love are heightened against the backdrop of professional baseball, arguably making the narrative accessible to both genre enthusiasts and general readers. The blend of fake engagement with the raw, gritty passion of competitive sports creates a nuanced narrative that transcends the niche, inviting a broader audience to engage with its layers of sentiment and desire.
 
 ## Deep-dive critique
-Moore’s structural choices invigorate the narrative, employing alternating third-person perspectives that create a dynamic interplay between the characters’ inner conflicts and their external behaviors. This duality enhances the tension as readers grapple with the characters’ conflicting desires. The pacing, particularly in the buildup to the pivotal engagement proposal, is expertly crafted, allowing for moments of simmering anticipation that mirror the protagonists' own emotional trajectories. The dialogue sparkles, rife with sharp repartee that both reveals character flaws and cultivates chemistry, ensuring each interaction is charged with underlying desire.
+Moore employs a dual point-of-view that enriches the reader’s understanding of the protagonists' contrasting motivations, effectively deepening the emotional stakes. The pacing is sharp, maintaining a brisk rhythm that mirrors the urgency of both romance and rivalry. The dialogue is particularly well-crafted, blending wit and tension, allowing the characters’ animosities to simmer and evolve into something more profound. Notably, the use of flashbacks to reveal past grievances serves not just as exposition but as a device to heighten the present conflict, anchoring the reader in the emotional turmoil faced by both leads.
 
-However, while the character arcs are engaging, certain moments feel somewhat predictable, reflecting common tropes without fully subverting them. The ending, while satisfying, could be perceived as neatly tied, lacking the raw, cathartic release that a more tumultuous conclusion might invoke, potentially leaving readers yearning for a deeper exploration of the characters' transformations. Nevertheless, the thematic undercurrents of vulnerability and ambition resonate well, elevating the narrative beyond mere surface-level romance. 
+However, while the character development is generally strong, certain supporting characters feel underutilized, leaving some narrative threads hanging and potentially limiting the emotional resonance of pivotal moments. The climax, though charged with tension, could be perceived as somewhat formulaic, relying on genre conventions rather than pushing the boundaries of its premise. Nevertheless, the ending aligns with the overarching themes of reconciliation and acceptance, earning its resolution despite the slight predictability.
 
 ## Discussion launchpad
-A Home Run Proposal navigates familiar tropes yet leaves room for spirited debate about its execution and thematic impact. The dichotomy of ambition versus emotional connection poses intriguing questions about the characters’ motivations and the authenticity of their feelings.
+Moore’s exploration of ambition versus intimacy raises compelling questions around personal sacrifice in the pursuit of happiness within competitive spaces. The balance of humor and depth in the narrative can provoke varied responses among readers.
+- **Questions for the room:**  
+  - How do ambition and vulnerability coexist in the characters’ journeys?  
+  - In what ways does the sports setting enhance or detract from the romantic tension?  
+  - Are the character arcs satisfying in their resolutions, or do they fall prey to genre expectations?  
+  - How does the dual POV impact our empathy for each character?  
+  - What role do supporting characters play in enriching or limiting the main narrative?  
 
-**Questions for the room:**  
-- Do you believe the predictability of certain tropes enhances or detracts from the story's overall impact?  
-- How does the baseball setting contribute to or complicate the romantic dynamics?  
-- In what ways do the characters’ journeys reflect real-world challenges in balancing ambition and personal relationships?  
-- Is the resolution of the enemies-to-lovers arc earned, or does it feel like a safe landing for the characters?  
-- How effectively does the author balance humor with the darker undertones of ambition and rivalry?
-
-#literaryanalysis #AHomeRunProposal #MarenMoore #enemiestolovers #darkromance
+#TheOrchidRoom #enemiestolovers #darkromance #baseball #literaryanalysis

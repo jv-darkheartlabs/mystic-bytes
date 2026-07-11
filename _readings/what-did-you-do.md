@@ -6,7 +6,7 @@ dek: "The Infatuated Fae Book Two"
 number: R1219
 sort_key: 1219
 date: 2025-07-17
-date_read: 2025-07-07
+date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/what-did-you-do.jpg
 spice: 3
@@ -26,24 +26,26 @@ review_format: book-club
 ---
 
 ## Hook & thesis
-Jeneane O'Riley's *What Did You Do?* thrusts readers into a world where desire intertwines with danger, revealing the depths of infatuation in a realm ruled by fae. **Verdict:** This novel captivates with its intense exploration of love’s perilous edges, though it occasionally falters under the weight of its own ambition.
+In Jeneane O'Riley's *What Did You Do?*, the exploration of obsession and magical manipulation weaves a complex tapestry of desire and consequence. **Verdict:** This book unflinchingly confronts the darker facets of love, revealing how infatuation can distort reality and destroy lives.
 
 ## The contextual pivot
-As the second installment in *The Infatuated Fae* series, O'Riley's work resides firmly within the fantasy-romance genre, echoing the intricate world-building of authors like Sarah J. Maas and the emotional intensity found in Anne Rice's gothic tales. The narrative skillfully balances niche tropes of fae mythology with universal themes of obsession and consequence, appealing to both devoted genre fans and those drawn to darker romantic narratives. This bridge between the fantastical and the relatable is crucial, as it invites a broader audience into its shadowy embrace.
+Positioned within the fantasy-romance genre, O'Riley's novel engages with familiar tropes: fae allure, forbidden love, and the intoxicating pull of the supernatural. While it aligns with the traditions set by authors like Sarah J. Maas and Holly Black, O'Riley carves her niche by delving deeper into the psychological nuances of obsession. The unseen audience here likely consists of seasoned readers who revel in the darker side of fantasy, where love doesn't merely uplift, but ensnares and entraps. O'Riley's prose invites not just fans of romance but those intrigued by the moral ambiguities of desire, making it a bridge between niche genres and a more general readership.
 
 ## Deep-dive critique
-O'Riley's prose is lush, weaving vivid imagery with a palpable tension that courses through the narrative. The structure, oscillating between multiple perspectives, creates a rich tapestry of motives and desires, though at times, the pacing suffers from a disjointed timeline that obfuscates the emotional stakes. Character development is handled with care, showcasing the complexities of infatuation and the often-unforgiving nature of desire. However, dialogue occasionally falls into cliché, detracting from the otherwise immersive experience. 
+O'Riley's craft shines through her masterful use of POV, alternating between characters to build an intricate understanding of their motivations and desires. This structure allows readers to experience the intoxicating highs and devastating lows of obsession from multiple angles, enhancing the emotional stakes. The pacing, while at times languorous, effectively mirrors the slow suffocation of the characters' lives under the weight of their obsessions. Each dialogue pulsates with an undercurrent of tension, echoing the characters' struggles with their own desires and the magical manipulation at play.
 
-The central conflict—a tumultuous relationship steeped in longing and betrayal—serves as the driving force of the narrative. Yet, while the themes of obsession and power dynamics are compelling, the climax feels somewhat unearned, lacking the requisite buildup to deliver a satisfying catharsis. The interplay of light and dark is deftly executed, but the ending leaves readers craving resolution that dances just out of reach, thus reinforcing the book's exploration of desire as both enchanting and treacherous.
+The thematic exploration of obsession is where O'Riley truly excels; she does not shy away from illustrating the destructive consequences of infatuation. The imagery of butterflies serves as a potent metaphor for both beauty and fragility, suggesting how easily something enchanting can become a trap. Yet, this vivid symbolism sometimes falters, leaning heavily on clichés that could leave discerning readers wanting more originality in the narrative arc.
+
+The ending, which ties back to the themes of consequence and accountability, is both earned and unsettling, prompting reflection on the cost of passion. However, a lingering sense of ambiguity may frustrate those seeking a neatly wrapped conclusion, leaving room for interpretation and further discussion.
 
 ## Discussion launchpad
-The novel's tension lies in its duality—the intoxicating allure of love juxtaposed with its potential for destruction. O'Riley opens a dialogue about obsession, but what remains unsaid is the true cost of such infatuation. This creates fertile ground for debate among readers.
+This novel invites a multitude of polarizing discussions, particularly around the ethics of love and the nature of obsession. How far should one go for love, and at what cost?
 
 **Questions for the room:**  
-- How does O'Riley's exploration of obsession compare to other works in the fantasy-romance genre?  
-- In what ways does the structure impact your engagement with the characters?  
-- Do you find the ending satisfying, or does it feel like an open wound?  
-- How do the themes of infatuation resonate with contemporary societal narratives around love?  
-- What role does the fae mythology play in shaping the emotional landscape of the story?
+- Do you believe the portrayal of obsession in the book romanticizes unhealthy relationships, or does it serve as a cautionary tale?  
+- How effectively does O'Riley balance fantasy elements with the emotional realism of her characters?  
+- In what ways does the use of magical manipulation affect your perception of the characters’ choices?  
+- Is the ending satisfactory in its ambiguity, or does it leave too much unresolved?  
+- How does this book compare to other works in the genre that tackle similar themes?  
 
-#literaryanalysis #fantasyromance #romantasy #darkromance #infatuatedfae
+#TheOrchidRoom #fantasyromance #darkromance #infatuatedfae #literaryanalysis
