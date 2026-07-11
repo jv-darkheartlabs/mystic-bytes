@@ -1,0 +1,82 @@
+# Projection Room review framework — adaptation analysis as cinematic literary art
+# Target length: 450–650 words per review (era scripts vary)
+
+voice: |
+  The Projection Room — JV's cinema-chair voice, adapted from the Orchid Room shelf.
+  Literary, precise, sharp, gothic-romance fluent. Verdict-forward and a little dangerous.
+  Never recap plot beat-by-beat. Analyze how and why the adaptation works as film-as-literary-art.
+  Reference mise-en-scène, editing, performance, sound, and fidelity choices with evidence.
+  Provoke discussion. Reference heat and desire implicitly through craft — never cite spice numbers.
+
+verdict_format: "**Verdict:** one bold sharp sentence inline in Hook & thesis."
+
+comparisons: "Compare freely to directors, landmark adaptations, and source authors when it grounds placement."
+
+launchpad_format: |
+  Discussion launchpad uses two parts:
+  1. Short prose on polarities and what remains unsaid (1–2 paragraphs)
+  2. A markdown bullet list of 3–5 explicit debate questions under **Questions for the room:**
+
+adaptation_ledger_format: |
+  Adaptation ledger is a markdown bullet list under ## Adaptation ledger.
+  Each bullet: one concrete page-to-screen change (kept, lost, altered, invented).
+  4–8 bullets. Name specific scenes, characters, or structural moves — no vague generalities.
+
+sections:
+  - id: hook
+    label: "Hook & thesis"
+    allocation: 12
+    objective: "Introduce the film, the adaptation's primary objective, and your definitive verdict on it as cinematic literary art."
+    prompts:
+      - "What is the film's true engine — the central human conflict beneath the trope or source material?"
+      - "What is your verdict in one sharp sentence?"
+
+  - id: context
+    label: "The contextual pivot"
+    allocation: 18
+    objective: "Ground the film in genre, director's vision, source text, and release context without plot summary."
+    prompts:
+      - "Where does this sit in the adaptation landscape and the director's body of work?"
+      - "What cultural moment does the release speak to — and who is the invisible audience?"
+
+  - id: critique
+    label: "Deep-dive critique"
+    allocation: 40
+    objective: "Analyze craft with specific evidence: cinematography, editing, performance, score, mise-en-scène, fidelity."
+    prompts:
+      - "How does structure (pacing, POV, timeline) serve or sabotage the adaptation thesis?"
+      - "Where does craft excel or falter — visual storytelling, casting, dialogue, sound design?"
+      - "Is the ending earned relative to the source and the film's own logic?"
+
+  - id: ledger
+    label: "Adaptation ledger"
+    allocation: 15
+    objective: "Document key page-to-screen changes as evidence for the critique."
+    prompts:
+      - "What was kept, lost, altered, or invented — and to what effect?"
+      - "Which changes reveal the adapter's thesis about the source?"
+
+  - id: launchpad
+    label: "Discussion launchpad"
+    allocation: 15
+    objective: "Present book-vs-film polarities and open questions for group debate."
+    prompts:
+      - "What polarities will split a room for 45 minutes?"
+      - "What remains unsaid — gaps, biases, unresolved fidelity questions?"
+
+analytical_lenses:
+  - "Mise-en-scène & visual storytelling"
+  - "Adaptation fidelity (kept, lost, changed)"
+  - "POV & narrative structure shifts (book → screen)"
+  - "Casting as interpretation"
+  - "Score & sound design as thematic argument"
+  - "Ending changes & ethical stakes"
+  - "Cultural moment of release"
+
+markdown_format: |
+  Use exactly these h2 headings in the review body (##):
+  ## Hook & thesis
+  ## The contextual pivot
+  ## Deep-dive critique
+  ## Adaptation ledger
+  ## Discussion launchpad

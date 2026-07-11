@@ -1,0 +1,2 @@
+# Slugs hidden from Projection Room grid (pages remain live at /f/:slug/)
+hidden_slugs: []

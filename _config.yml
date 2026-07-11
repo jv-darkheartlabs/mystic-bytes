@@ -22,6 +22,9 @@ collections:
   readings:
     output: true
     permalink: /r/:name/
+  films:
+    output: true
+    permalink: /f/:name/
   gallery:
     output: true
     permalink: /media/gallery/:name/
@@ -42,6 +45,11 @@ defaults:
       type: readings
     values:
       layout: reading
+  - scope:
+      path: ""
+      type: films
+    values:
+      layout: film
   - scope:
       path: ""
       type: gallery
@@ -67,6 +75,8 @@ feed:
       path: "/feed.xml"
     readings:
       path: "/readings-feed.xml"
+    films:
+      path: "/films-feed.xml"
 
 sass:
   sass_dir: _sass

@@ -7,12 +7,20 @@ permalink: /media/written/
 
 {% assign sorted = site.essays | where_exp: "e", "e.locked != true" | sort: "sort_key" | reverse %}
 {% assign readings = site.readings | sort: "sort_key" | reverse %}
+{% assign films = site.films | sort: "sort_key" | reverse %}
 {% assign hidden_slugs = site.data.shelf_exclusions.hidden_slugs | default: "" %}
+{% assign film_hidden = site.data.film_shelf_exclusions.hidden_slugs | default: "" %}
 {% assign shelf_count = 0 %}
 {% for r in readings %}
   {% if r.shelf == false %}{% continue %}{% endif %}
   {% if hidden_slugs contains r.slug %}{% continue %}{% endif %}
   {% assign shelf_count = shelf_count | plus: 1 %}
+{% endfor %}
+{% assign film_count = 0 %}
+{% for f in films %}
+  {% if f.shelf == false %}{% continue %}{% endif %}
+  {% if film_hidden contains f.slug %}{% continue %}{% endif %}
+  {% assign film_count = film_count | plus: 1 %}
 {% endfor %}
 
 <div class="container media-written">
@@ -22,8 +30,8 @@ permalink: /media/written/
     <p class="page-eyebrow">[written]</p>
     <h1 class="page-title">written transmissions</h1>
     <p class="media-sub-lede">
-      Technical essays from Dark Heart Labs and literary analysis — critical book reviews on dark romance,
-      trope, craft, and the ethics of desire.
+      Technical essays from Dark Heart Labs, literary analysis, and the Projection Room —
+      critical book reviews and adaptation analysis on dark romance, trope, craft, and the ethics of desire.
     </p>
   </header>
 
@@ -79,6 +87,36 @@ permalink: /media/written/
     </ul>
     <p class="media-written-more">
       <a href="{{ '/media/literary-analysis/' | relative_url }}">{{ shelf_count }} reviews total →</a>
+    </p>
+  </section>
+
+  <section class="media-written-recent panel media-written-recent--films">
+    <h2 class="media-sub-section">&gt;_ Projection Room</h2>
+    <p class="media-written-intro">
+      Adaptation reviews as cinematic literary art — fidelity, mise-en-scène, and book-to-screen critique.
+    </p>
+    <div class="media-written-links">
+      <a class="btn-outline" href="{{ '/media/projection-room/' | relative_url }}">open full archive →</a>
+      <a class="btn-outline" href="{{ '/films-feed.xml' | relative_url }}">reviews rss ↗</a>
+    </div>
+    <ul class="media-written-list">
+      {% assign film_shown = 0 %}
+      {% for film in films %}
+      {% if film.shelf == false %}{% continue %}{% endif %}
+      {% if film_hidden contains film.slug %}{% continue %}{% endif %}
+      {% if film_shown >= 8 %}{% break %}{% endif %}
+      {% assign film_shown = film_shown | plus: 1 %}
+      <li>
+        <a href="{{ film.url | relative_url }}">
+          <span class="media-written-list__num">{{ film.number }}</span>
+          <span class="media-written-list__title">{{ film.title }}{% if film.director %} · {{ film.director }}{% endif %}</span>
+          <span class="media-written-list__date">{{ film.date | date: "%b %-d, %Y" }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="media-written-more">
+      <a href="{{ '/media/projection-room/' | relative_url }}">{{ film_count }} reviews total →</a>
     </p>
   </section>
 
