@@ -42,7 +42,7 @@ permalink: /media/written/
     </p>
     <div class="media-written-links">
       <a class="btn-outline" href="{{ '/media/essays/' | relative_url }}">open full archive →</a>
-      <a class="btn-outline" href="{{ '/feed.xml' | relative_url }}">rss feed ↗</a>
+      <a class="btn-outline" href="{{ '/feed.xml' | absolute_url }}">atom feed ↗</a>
     </div>
     <ul class="media-written-list">
       {% for essay in sorted limit: 8 %}
@@ -67,7 +67,7 @@ permalink: /media/written/
     </p>
     <div class="media-written-links">
       <a class="btn-outline" href="{{ '/media/literary-analysis/' | relative_url }}">open full shelf →</a>
-      <a class="btn-outline" href="{{ '/readings-feed.xml' | relative_url }}">reviews rss ↗</a>
+      <a class="btn-outline" href="{{ '/readings-feed.xml' | absolute_url }}">atom feed ↗</a>
     </div>
     <ul class="media-written-list">
       {% assign shown = 0 %}
@@ -97,7 +97,7 @@ permalink: /media/written/
     </p>
     <div class="media-written-links">
       <a class="btn-outline" href="{{ '/media/projection-room/' | relative_url }}">open full archive →</a>
-      <a class="btn-outline" href="{{ '/films-feed.xml' | relative_url }}">reviews rss ↗</a>
+      <a class="btn-outline" href="{{ '/films-feed.xml' | absolute_url }}">atom feed ↗</a>
     </div>
     <ul class="media-written-list">
       {% assign film_shown = 0 %}
