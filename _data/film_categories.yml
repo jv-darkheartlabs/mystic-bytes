@@ -1,0 +1,147 @@
+# The Projection Room — cinema-native genre taxonomy
+
+families:
+  form:
+    label: Form
+    color: form
+  mood:
+    label: Mood
+    color: mood
+  tone:
+    label: Tone
+    color: tone
+  era:
+    label: Era
+    color: era
+
+categories:
+  feature-film:
+    label: Feature Film
+    family: form
+    tags: [featurefilm, projectionroom]
+  limited-series:
+    label: Limited Series
+    family: form
+    tags: [limitedseries, projectionroom]
+  tv-movie:
+    label: TV Movie
+    family: form
+    tags: [tvmovie, projectionroom]
+  miniseries:
+    label: Miniseries
+    family: form
+    tags: [miniseries, projectionroom]
+
+  gothic-horror:
+    label: Gothic Horror
+    family: mood
+    tags: [gothichorror, projectionroom]
+  dark-romance:
+    label: Dark Romance
+    family: mood
+    tags: [darkromance, projectionroom]
+  psychological-thriller:
+    label: Psychological Thriller
+    family: mood
+    tags: [psychologicalthriller, projectionroom]
+  romantic-suspense:
+    label: Romantic Suspense
+    family: mood
+    tags: [romanticsuspense, projectionroom]
+  supernatural:
+    label: Supernatural
+    family: mood
+    tags: [supernatural, projectionroom]
+  erotic-drama:
+    label: Erotic Drama
+    family: mood
+    tags: [eroticdrama, projectionroom]
+
+  literary-adaptation:
+    label: Literary Adaptation
+    family: tone
+    tags: [literaryadaptation, projectionroom]
+  period-drama:
+    label: Period Drama
+    family: tone
+    tags: [perioddrama, projectionroom]
+  dystopian:
+    label: Dystopian
+    family: tone
+    tags: [dystopian, projectionroom]
+  fantasy:
+    label: Fantasy
+    family: tone
+    tags: [fantasy, projectionroom]
+  horror:
+    label: Horror
+    family: tone
+    tags: [horror, projectionroom]
+  comedy-drama:
+    label: Comedy-Drama
+    family: tone
+    tags: [comedydrama, projectionroom]
+
+  pre-1970:
+    label: Pre-1970
+    family: era
+    tags: [classiccinema, projectionroom]
+  1970-1989:
+    label: 1970–1989
+    family: era
+    tags: [seventieseighties, projectionroom]
+  1990-2009:
+    label: 1990–2009
+    family: era
+    tags: [ninetiesaughts, projectionroom]
+  2010-present:
+    label: 2010–present
+    family: era
+    tags: [contemporarycinema, projectionroom]
+
+fidelity_levels:
+  faithful:
+    label: Faithful
+    description: Close translation of plot, tone, and thematic intent
+  loose:
+    label: Loose
+    description: Recognizable source with significant structural or tonal shifts
+  reimagining:
+    label: Reimagining
+    description: Bold reinterpretation — new context, emphasis, or ending
+  inspired-by:
+    label: Inspired By
+    description: Thematic or character DNA only; source is a distant ancestor
+
+spice_levels:
+  -
+    level: 1
+    label: closed door
+    peppers: "🌶️"
+  -
+    level: 2
+    label: slow burn
+    peppers: "🌶️🌶️"
+  -
+    level: 3
+    label: moderate heat
+    peppers: "🌶️🌶️🌶️"
+  -
+    level: 4
+    label: high heat
+    peppers: "🌶️🌶️🌶️🌶️"
+  -
+    level: 5
+    label: explicit / dark
+    peppers: "🌶️🌶️🌶️🌶️🌶️"
+
+mpaa_ratings:
+  - G
+  - PG
+  - PG-13
+  - R
+  - NC-17
+  - TV-MA
+  - TV-14
+  - TV-PG
+  - Unrated

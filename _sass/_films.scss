@@ -1,0 +1,179 @@
+// The Projection Room — film adaptation shelf
+
+$film-families: form, mood, tone, era;
+
+@each $family in $film-families {
+  [data-family="#{$family}"] {
+    --card-accent: var(--family-#{$family});
+  }
+
+  .film-filter[data-family="#{$family}"] {
+    --card-accent: var(--family-#{$family});
+    border-color: color-mix(in oklab, var(--family-#{$family}) 42%, var(--border));
+    color: color-mix(in oklab, var(--family-#{$family}) 65%, var(--muted-foreground));
+  }
+
+  .film-filter[data-family="#{$family}"]:hover,
+  .film-filter[data-family="#{$family}"].is-active {
+    border-color: var(--family-#{$family});
+    color: var(--family-#{$family});
+  }
+}
+
+.projection-room-page {
+  .page-eyebrow {
+    color: var(--amber);
+    text-shadow: 0 0 12px color-mix(in oklab, var(--amber) 25%, transparent);
+  }
+
+  .page-title {
+    text-shadow:
+      0 0 32px color-mix(in oklab, var(--amber) 28%, transparent),
+      0 0 48px color-mix(in oklab, var(--violet) 18%, transparent);
+  }
+}
+
+.film-grid .film-card.film-card--hidden,
+.film-grid .film-card[hidden],
+.film-empty.reading-empty--hidden,
+.film-empty[hidden] {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+
+.film-card__year,
+.film-card__format {
+  font-family: var(--font-mono);
+  font-size: 0.5625rem;
+  color: var(--muted-foreground);
+  letter-spacing: 0.04em;
+}
+
+.film-card__format {
+  text-transform: uppercase;
+  color: color-mix(in oklab, var(--family-form, var(--teal)) 65%, var(--muted-foreground));
+}
+
+.film-year {
+  margin: 0.375rem 0 0;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--muted-foreground);
+  letter-spacing: 0.06em;
+}
+
+.film-meta {
+  &__format,
+  &__era,
+  &__fidelity,
+  &__rating {
+    font-family: var(--font-mono);
+    font-size: 0.6875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted-foreground);
+  }
+
+  &__fidelity {
+    color: color-mix(in oklab, var(--amber) 75%, var(--muted-foreground));
+  }
+
+  &__rating {
+    padding: 0.125rem 0.375rem;
+    border: 1px solid color-mix(in oklab, var(--amber) 40%, var(--border));
+    color: var(--amber);
+  }
+}
+
+.film-sources {
+  margin-top: 1.25rem;
+  padding: 1rem 1.25rem;
+  border-left: 2px solid var(--rose);
+
+  &__label {
+    font-family: var(--font-mono);
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--rose);
+  }
+
+  &__list {
+    margin: 0.5rem 0 0;
+    padding-left: 1.25rem;
+    font-size: 0.875rem;
+    line-height: 1.6;
+
+    a {
+      color: var(--foreground);
+      &:hover { color: var(--rose); }
+    }
+  }
+
+  &__missing {
+    color: var(--muted-foreground);
+    font-size: 0.8125rem;
+  }
+}
+
+.film-credits {
+  margin-top: 1rem;
+  padding: 1rem 1.25rem;
+  border-left: 2px solid var(--teal);
+
+  &__label {
+    font-family: var(--font-mono);
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--teal);
+  }
+
+  &__grid {
+    margin: 0.75rem 0 0;
+    display: grid;
+    gap: 0.5rem 1.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  }
+
+  &__row {
+    dt {
+      font-family: var(--font-mono);
+      font-size: 0.5625rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--muted-foreground);
+      margin: 0;
+    }
+
+    dd {
+      margin: 0.125rem 0 0;
+      font-size: 0.875rem;
+      color: var(--foreground);
+
+      a {
+        color: var(--teal);
+        &:hover { text-decoration: underline; }
+      }
+    }
+  }
+}
+
+.film-body--projection-room {
+  h2:nth-of-type(1)::before { content: "01 · Hook & thesis"; }
+  h2:nth-of-type(2)::before { content: "02 · Contextual pivot"; }
+  h2:nth-of-type(3)::before { content: "03 · Deep-dive critique"; }
+  h2:nth-of-type(4)::before { content: "04 · Adaptation ledger"; }
+  h2:nth-of-type(5)::before { content: "05 · Discussion launchpad"; }
+}
+
+.media-written-recent--films {
+  border-color: color-mix(in oklab, var(--amber) 32%, var(--border));
+}
+
+@media (max-width: 32rem) {
+  .film-credits__grid {
+    grid-template-columns: 1fr;
+  }
+}

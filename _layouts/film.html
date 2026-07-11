@@ -1,0 +1,182 @@
+---
+layout: default
+---
+{% assign cat = site.data.film_categories.categories[page.category] %}
+{% assign format_cat = site.data.film_categories.categories[page.format] %}
+{% assign spice = site.data.film_categories.spice_levels | where: "level", page.spice | first %}
+{% assign fidelity = site.data.film_categories.fidelity_levels[page.fidelity] %}
+
+{% assign era_slug = "2010-present" %}
+{% if page.year %}
+  {% if page.year < 1970 %}
+    {% assign era_slug = "pre-1970" %}
+  {% elsif page.year < 1990 %}
+    {% assign era_slug = "1970-1989" %}
+  {% elsif page.year < 2010 %}
+    {% assign era_slug = "1990-2009" %}
+  {% endif %}
+{% endif %}
+{% assign era_cat = site.data.film_categories.categories[era_slug] %}
+
+<article class="film essay"{% if cat %} data-family="{{ cat.family }}"{% endif %}>
+  <div class="essay-inner">
+    <a class="essay-back" href="{{ '/media/projection-room/' | relative_url }}">← Projection Room</a>
+
+    <div class="essay-meta">
+      <span class="essay-signal">screening_№_{{ page.number }}</span>
+      {% if page.date %}
+      <span class="essay-date">published {{ page.date | date: "%b %-d, %Y" }}</span>
+      {% endif %}
+      {% if page.date_watched %}
+      <span class="essay-date essay-date--read">watched {{ page.date_watched | date: "%b %-d, %Y" }}</span>
+      {% endif %}
+      <span class="essay-badge essay-badge--type">Projection Room</span>
+    </div>
+
+    <div class="film-hero reading-hero">
+      {% assign poster_src = page.poster %}
+      {% if poster_src == nil and page.source_readings.size > 0 %}
+        {% assign first_source = site.readings | where: "slug", page.source_readings.first | first %}
+        {% if first_source and first_source.cover %}
+          {% assign poster_src = first_source.cover %}
+        {% endif %}
+      {% endif %}
+      {% if poster_src %}
+      <figure class="film-poster reading-cover">
+        <img src="{{ poster_src | relative_url }}" alt="Poster for {{ page.title }}" loading="lazy" width="120" height="180">
+      </figure>
+      {% endif %}
+      <div class="film-hero__main reading-hero__main">
+        <h1 class="essay-title">{{ page.title }}</h1>
+        {% if page.year %}
+        <p class="film-year">{{ page.year }}{% if page.runtime %} · {{ page.runtime }} min{% endif %}</p>
+        {% endif %}
+        <div class="film-meta reading-meta">
+          {% if cat %}
+          <span class="reading-meta__cat">{{ cat.label }}</span>
+          {% endif %}
+          {% if format_cat %}
+          <span class="film-meta__format">{{ format_cat.label }}</span>
+          {% endif %}
+          {% if era_cat %}
+          <span class="film-meta__era">{{ era_cat.label }}</span>
+          {% endif %}
+          {% if fidelity %}
+          <span class="film-meta__fidelity" title="{{ fidelity.description }}">{{ fidelity.label }} adaptation</span>
+          {% endif %}
+          {% if page.mpaa_rating %}
+          <span class="film-meta__rating">{{ page.mpaa_rating }}</span>
+          {% endif %}
+          {% if spice %}
+          <span class="reading-meta__spice" title="intensity {{ page.spice }} · {{ spice.label }}">
+            {{ spice.peppers }} · {{ spice.label }}
+          </span>
+          {% endif %}
+        </div>
+        {% if page.dek %}
+        <p class="essay-dek film-hero__dek">{{ page.dek }}</p>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if page.source_readings.size > 0 %}
+    <aside class="film-sources panel">
+      <span class="film-sources__label">adapted from</span>
+      <ul class="film-sources__list">
+        {% for slug in page.source_readings %}
+          {% assign source = site.readings | where: "slug", slug | first %}
+          <li>
+            {% if source %}
+            <a href="{{ source.url | relative_url }}">{{ source.title }}{% if source.author %} · {{ source.author }}{% endif %}</a>
+            {% else %}
+            <span>{{ slug }} <em class="film-sources__missing">(shelf link pending)</em></span>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </aside>
+    {% endif %}
+
+    <aside class="film-credits panel">
+      <span class="film-credits__label">credits</span>
+      <dl class="film-credits__grid">
+        {% if page.director %}
+        <div class="film-credits__row">
+          <dt>Director</dt>
+          <dd>{{ page.director }}</dd>
+        </div>
+        {% endif %}
+        {% if page.screenwriters.size > 0 %}
+        <div class="film-credits__row">
+          <dt>Screenwriter{% if page.screenwriters.size > 1 %}s{% endif %}</dt>
+          <dd>{{ page.screenwriters | join: ", " }}</dd>
+        </div>
+        {% endif %}
+        {% if page.cinematographer %}
+        <div class="film-credits__row">
+          <dt>Cinematography</dt>
+          <dd>{{ page.cinematographer }}</dd>
+        </div>
+        {% endif %}
+        {% if page.composer %}
+        <div class="film-credits__row">
+          <dt>Score</dt>
+          <dd>{{ page.composer }}</dd>
+        </div>
+        {% endif %}
+        {% if page.cast.size > 0 %}
+        <div class="film-credits__row">
+          <dt>Cast</dt>
+          <dd>{{ page.cast | join: ", " }}</dd>
+        </div>
+        {% endif %}
+        {% if page.country %}
+        <div class="film-credits__row">
+          <dt>Country</dt>
+          <dd>{{ page.country }}{% if page.language %} · {{ page.language }}{% endif %}</dd>
+        </div>
+        {% endif %}
+        {% if page.imdb_url %}
+        <div class="film-credits__row">
+          <dt>IMDb</dt>
+          <dd><a href="{{ page.imdb_url }}" target="_blank" rel="noreferrer">reference ↗</a></dd>
+        </div>
+        {% endif %}
+        {% if page.letterboxd_url %}
+        <div class="film-credits__row">
+          <dt>Letterboxd</dt>
+          <dd><a href="{{ page.letterboxd_url }}" target="_blank" rel="noreferrer">log ↗</a></dd>
+        </div>
+        {% endif %}
+      </dl>
+    </aside>
+
+    {% if page.content_warnings.size > 0 %}
+    <aside class="reading-cw panel">
+      <span class="reading-cw__label">content notes</span>
+      <ul class="reading-cw__list">
+        {% for cw in page.content_warnings %}
+        <li>{{ cw }}</li>
+        {% endfor %}
+      </ul>
+    </aside>
+    {% endif %}
+
+    <div class="essay-body film-body film-body--projection-room reading-body reading-body--book-club prose">
+      {{ content }}
+    </div>
+
+    {% if page.tags.size > 0 %}
+    <div class="reading-tags">
+      {% for tag in page.tags %}
+      <span class="reading-tag">#{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <footer class="essay-closing">
+      <span>CLOSING TRANSMISSION // SCREENING №_{{ page.number }}</span>
+      <span>— JV · Dark Heart Labs · Projection Room.</span>
+    </footer>
+  </div>
+</article>
