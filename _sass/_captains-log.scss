@@ -621,6 +621,7 @@ section:has(> .section-label):not(.mission-timeline) {
     display: flex;
     align-items: center;
     gap: 1rem;
+    min-width: 0;
     padding: 0.5rem 1rem;
     @include font-mono;
     font-size: 0.6875rem;
@@ -635,6 +636,7 @@ section:has(> .section-label):not(.mission-timeline) {
 
   &__viewport {
     flex: 1;
+    min-width: 0;
     overflow: hidden;
   }
 
