@@ -5,6 +5,8 @@ dek: "A pretty listing with 8 Mbps upload is a scope risk."
 date: 2021-05-23
 read_time: 6
 tags: ['travel', 'oceania']
+redirect_from:
+  - /writing/journal/how-to-book-short-term-stays-that-do-not-break-your-sprint/
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

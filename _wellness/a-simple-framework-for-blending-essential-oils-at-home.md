@@ -6,6 +6,8 @@ date: 2025-07-05
 read_time: 6
 tags: [wellness]
 cover: /assets/images/cover-craft.svg
+redirect_from:
+  - /writing/wellness/a-simple-framework-for-blending-essential-oils-at-home/
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

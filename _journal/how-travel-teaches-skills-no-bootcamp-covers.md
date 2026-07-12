@@ -5,6 +5,8 @@ dek: "Adaptation, paperwork patience, and reading systems under stress — trave
 date: 2020-10-30
 read_time: 6
 tags: ['travel', 'oceania']
+redirect_from:
+  - /writing/journal/how-travel-teaches-skills-no-bootcamp-covers/
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

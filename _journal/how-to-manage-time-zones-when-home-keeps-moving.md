@@ -5,6 +5,8 @@ dek: "Your calendar should show two zones and one protected sleep block."
 date: 2022-05-27
 read_time: 6
 tags: ['travel']
+redirect_from:
+  - /writing/journal/how-to-manage-time-zones-when-home-keeps-moving/
 ---
 
 Gear for a tech nomad is not aesthetic — it is uptime. If the adapter fails or the bag wrecks your shoulder, the sprint fails with it.

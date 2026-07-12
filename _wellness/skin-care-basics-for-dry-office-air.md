@@ -6,6 +6,8 @@ date: 2020-06-01
 read_time: 6
 tags: [wellness]
 cover: /assets/images/cover-craft.svg
+redirect_from:
+  - /writing/wellness/skin-care-basics-for-dry-office-air/
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

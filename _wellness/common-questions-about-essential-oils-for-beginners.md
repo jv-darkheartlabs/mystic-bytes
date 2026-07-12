@@ -6,6 +6,8 @@ date: 2021-03-28
 read_time: 6
 tags: [wellness]
 cover: /assets/images/cover-craft.svg
+redirect_from:
+  - /writing/wellness/common-questions-about-essential-oils-for-beginners/
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

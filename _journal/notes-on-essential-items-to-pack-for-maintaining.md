@@ -5,6 +5,8 @@ dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2021-03-02
 read_time: 6
 tags: ['travel']
+redirect_from:
+  - /writing/journal/notes-on-essential-items-to-pack-for-maintaining/
 ---
 
 Travel planning for nomads is risk management with a carry-on. Insurance, visas, and power adapters are boring until they are the only thing that matters.

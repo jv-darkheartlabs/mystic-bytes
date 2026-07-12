@@ -5,6 +5,8 @@ dek: "Respect is logistics: language effort, local businesses, and not treating 
 date: 2019-09-16
 read_time: 6
 tags: ['travel', 'oceania']
+redirect_from:
+  - /writing/journal/how-to-engage-with-local-culture-without-performing-tourism/
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

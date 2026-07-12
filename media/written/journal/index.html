@@ -1,19 +1,22 @@
 ---
 layout: default
-title: "wellness — ls -la /wellness"
-eyebrow: "[writing/wellness]"
-permalink: /writing/wellness/
+title: "travel journal — ls -la /journal"
+eyebrow: "[media/written/journal]"
+permalink: /media/written/journal/
+redirect_from:
+  - /writing/journal/
+  - /writing/journal/index.html
 ---
 
-{% assign sorted = site.wellness | sort: "date" | reverse %}
+{% assign sorted = site.journal | sort: "date" | reverse %}
 
 <div class="container">
 <header class="archive-header signal-header">
-  <a class="essay-back" href="{{ '/writing/' | relative_url }}">← writing</a>
-  {% include signal-badge.html code="WELLNESS" %}
-  <p class="page-eyebrow">[wellness]</p>
-  <h1 class="page-title">ls -la /wellness</h1>
-  <p class="archive-count">{{ sorted.size }} posts. Aromatherapy and sensory recovery for builders — practical, not prescriptive.</p>
+  <a class="essay-back" href="{{ '/media/written/' | relative_url }}">← /media/written</a>
+  {% include signal-badge.html code="JOURNAL" %}
+  <p class="page-eyebrow">[journal]</p>
+  <h1 class="page-title">ls -la /journal</h1>
+  <p class="archive-count">{{ sorted.size }} entries. A tech nomad notebook — remote work, gear, and Oceania field notes.</p>
 </header>
 
 <div class="archive-table panel">

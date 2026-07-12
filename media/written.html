@@ -6,6 +6,8 @@ permalink: /media/written/
 ---
 
 {% assign sorted = site.essays | where_exp: "e", "e.locked != true" | sort: "sort_key" | reverse %}
+{% assign journal = site.journal | sort: "date" | reverse %}
+{% assign wellness = site.wellness | sort: "date" | reverse %}
 {% assign readings = site.readings | sort: "sort_key" | reverse %}
 {% assign films = site.films | sort: "sort_key" | reverse %}
 {% assign hidden_slugs = site.data.shelf_exclusions.hidden_slugs | default: "" %}
@@ -30,8 +32,8 @@ permalink: /media/written/
     <p class="page-eyebrow">[written]</p>
     <h1 class="page-title">written</h1>
     <p class="media-sub-lede">
-      Technical essays from Dark Heart Labs, literary analysis, the Projection Room, and verse —
-      critical book reviews, adaptation analysis, and the uncut image.
+      Technical essays, travel journal, wellness notes, literary analysis, the Projection Room, and verse —
+      code, movement, critique, and the uncut image.
     </p>
   </header>
 
@@ -41,7 +43,6 @@ permalink: /media/written/
       Code, craft, and systems thinking — technical writing from Dark Heart Labs.
     </p>
     <div class="media-written-links">
-      <a class="btn-outline" href="{{ '/writing/' | relative_url }}">writing hub →</a>
       <a class="btn-outline" href="{{ '/media/essays/' | relative_url }}">full archive →</a>
       <a class="btn-outline" href="{{ '/feed.xml' | absolute_url }}">atom feed ↗</a>
     </div>
@@ -58,6 +59,52 @@ permalink: /media/written/
     </ul>
     <p class="media-written-more">
       <a href="{{ '/media/essays/' | relative_url }}">{{ sorted.size }} essays total →</a>
+    </p>
+  </section>
+
+  <section class="media-written-recent panel media-written-recent--journal">
+    <h2 class="media-sub-section">&gt;_ travel journal</h2>
+    <p class="media-written-intro">
+      Remote work on the road — logistics, gear, and Oceania from a builder's notebook.
+    </p>
+    <div class="media-written-links">
+      <a class="btn-outline" href="{{ '/media/written/journal/' | relative_url }}">full journal →</a>
+    </div>
+    <ul class="media-written-list">
+      {% for post in journal limit: 8 %}
+      <li>
+        <a href="{{ post.url | relative_url }}">
+          <span class="media-written-list__title">{{ post.title }}</span>
+          <span class="media-written-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="media-written-more">
+      <a href="{{ '/media/written/journal/' | relative_url }}">{{ journal.size }} entries total →</a>
+    </p>
+  </section>
+
+  <section class="media-written-recent panel media-written-recent--wellness">
+    <h2 class="media-sub-section">&gt;_ wellness</h2>
+    <p class="media-written-intro">
+      Aromatherapy and sensory recovery for people who live in terminals and time zones.
+    </p>
+    <div class="media-written-links">
+      <a class="btn-outline" href="{{ '/media/written/wellness/' | relative_url }}">full archive →</a>
+    </div>
+    <ul class="media-written-list">
+      {% for post in wellness limit: 8 %}
+      <li>
+        <a href="{{ post.url | relative_url }}">
+          <span class="media-written-list__title">{{ post.title }}</span>
+          <span class="media-written-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="media-written-more">
+      <a href="{{ '/media/written/wellness/' | relative_url }}">{{ wellness.size }} posts total →</a>
     </p>
   </section>
 

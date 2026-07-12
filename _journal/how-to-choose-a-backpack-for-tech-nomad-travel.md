@@ -5,6 +5,8 @@ dek: "Fit and access pattern matter more than brand mythology."
 date: 2025-02-04
 read_time: 6
 tags: ['travel']
+redirect_from:
+  - /writing/journal/how-to-choose-a-backpack-for-tech-nomad-travel/
 ---
 
 Gear for a tech nomad is not aesthetic — it is uptime. If the adapter fails or the bag wrecks your shoulder, the sprint fails with it.

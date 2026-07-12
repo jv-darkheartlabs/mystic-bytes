@@ -5,6 +5,8 @@ dek: "Losing SMS 2FA access abroad is a self-inflicted lockout — plan authenti
 date: 2022-11-07
 read_time: 6
 tags: ['travel']
+redirect_from:
+  - /writing/journal/how-to-handle-phone-numbers-and-2fa-while-traveling/
 ---
 
 Gear for a tech nomad is not aesthetic — it is uptime. If the adapter fails or the bag wrecks your shoulder, the sprint fails with it.

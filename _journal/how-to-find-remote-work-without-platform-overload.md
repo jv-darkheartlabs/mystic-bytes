@@ -5,6 +5,8 @@ dek: "You need one search rhythm and clear filters — not twelve tabs of stale 
 date: 2018-04-01
 read_time: 6
 tags: [travel]
+redirect_from:
+  - /writing/journal/how-to-find-remote-work-without-platform-overload/
 ---
 
 Remote work on the road is calendar math plus honest boundaries. The view does not replace standups, async updates, or sleep.

@@ -18,10 +18,10 @@ collections:
     permalink: /p/:name/
   journal:
     output: true
-    permalink: /writing/journal/:name/
+    permalink: /media/written/journal/:name/
   wellness:
     output: true
-    permalink: /writing/wellness/:name/
+    permalink: /media/written/wellness/:name/
   podcast:
     output: true
     permalink: /media/podcast/:name/

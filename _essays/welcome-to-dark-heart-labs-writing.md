@@ -23,6 +23,6 @@ This archive is where Dark Heart Labs thinks in public: technical essays, a noma
 
 Precise, grounded, no engagement bait. Descriptive titles. Sign-off: JV · Dark Heart Labs.
 
-Start anywhere. The [writing hub](/writing/) lists all shelves.
+Start anywhere. The [written shelf](/media/written/) lists all sections.
 
 — JV · Dark Heart Labs.

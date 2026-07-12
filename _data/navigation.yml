@@ -3,8 +3,6 @@
   exact: true
 - label: projects
   url: /projects/
-- label: writing
-  url: /writing/
 - label: cv
   url: /cv/
 - label: media

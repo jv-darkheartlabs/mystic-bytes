@@ -5,6 +5,8 @@ dek: "Pick async home base; treat chat as interrupt channel with boundaries."
 date: 2018-10-23
 read_time: 6
 tags: ['travel']
+redirect_from:
+  - /writing/journal/how-to-stay-connected-to-teams-without-platform-sprawl/
 ---
 
 Gear for a tech nomad is not aesthetic — it is uptime. If the adapter fails or the bag wrecks your shoulder, the sprint fails with it.

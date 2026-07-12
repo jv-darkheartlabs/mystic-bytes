@@ -5,6 +5,8 @@ dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2019-02-23
 read_time: 6
 tags: ['travel']
+redirect_from:
+  - /writing/journal/how-to-build-your-digital-nomad-portfolio-a/
 ---
 
 Remote work on the road is calendar math plus honest boundaries. The view does not replace standups, async updates, or sleep.

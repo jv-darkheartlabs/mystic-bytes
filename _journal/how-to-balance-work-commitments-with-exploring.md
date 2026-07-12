@@ -5,6 +5,8 @@ dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2018-05-12
 read_time: 6
 tags: ['travel']
+redirect_from:
+  - /writing/journal/how-to-balance-work-commitments-with-exploring/
 ---
 
 Remote work on the road is calendar math plus honest boundaries. The view does not replace standups, async updates, or sleep.

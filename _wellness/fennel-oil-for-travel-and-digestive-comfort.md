@@ -6,6 +6,8 @@ date: 2022-07-21
 read_time: 6
 tags: [wellness]
 cover: /assets/images/cover-craft.svg
+redirect_from:
+  - /writing/wellness/fennel-oil-for-travel-and-digestive-comfort/
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

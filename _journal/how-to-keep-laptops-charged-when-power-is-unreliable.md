@@ -5,6 +5,8 @@ dek: "Power is part of your toolchain — plan adapters, PD wattage, and backup 
 date: 2020-12-10
 read_time: 6
 tags: ['travel', 'oceania']
+redirect_from:
+  - /writing/journal/how-to-keep-laptops-charged-when-power-is-unreliable/
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

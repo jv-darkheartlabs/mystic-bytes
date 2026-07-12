@@ -5,6 +5,8 @@ dek: "Origin places shape your tolerance for humidity, bureaucracy, and communit
 date: 2022-09-27
 read_time: 6
 tags: ['travel', 'oceania']
+redirect_from:
+  - /writing/journal/what-louisiana-taught-me-about-leaving-for-oceania/
 ---
 
 I left Louisiana carrying its weather memory and its pace — slow heat, loud joy, paperwork that assumes you know someone who knows someone. Aotearoa runs on different rails: different holidays, different directness, different expectations of preparation.

@@ -5,6 +5,8 @@ dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2022-07-07
 read_time: 6
 tags: ['travel']
+redirect_from:
+  - /writing/journal/how-to-navigate-health-and-medical-needs-as/
 ---
 
 Community on the road is maintained, not discovered. You build it in DMs, coworking days, and showing up consistently — not in one viral post.
