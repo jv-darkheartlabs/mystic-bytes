@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: SQL Is an Interface to the Truth
-dek: Every other query language is a layer on top of it.
+dek: "Every other query language is a layer on top of it."
 number: 005.7565
 sort_key: 0005.7565
 date: 2024-11-17

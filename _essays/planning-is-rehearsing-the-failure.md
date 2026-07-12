@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Planning Is Rehearsing the Failure
-dek: The plan exists to be wrong on a schedule.
+dek: "The plan exists to be wrong on a schedule."
 number: 658.512
 sort_key: 0658.512
 date: 2025-01-12

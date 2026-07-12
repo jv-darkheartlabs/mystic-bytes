@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Review Before Rewrite
-dek: Most rewrites are reviews that were never written down.
+dek: "Most rewrites are reviews that were never written down."
 number: 005.6
 sort_key: 0005.06
 date: 2025-12-07

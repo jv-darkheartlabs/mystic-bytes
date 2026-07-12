@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Trust Is a Protocol
-dek: It handshakes the same way TLS does.
+dek: "It handshakes the same way TLS does."
 number: 327.17
 sort_key: 0327.17
 date: 2024-12-08

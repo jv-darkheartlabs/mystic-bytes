@@ -14,7 +14,7 @@ layout: default
         <span class="essay-date">{{ page.date | date: "%b %-d, %Y" }}</span>
         {% endif %}
         {% if page.locked %}
-        <span class="essay-badge essay-badge--locked">sealed transmission</span>
+        <span class="essay-badge essay-badge--locked">sealed</span>
         {% elsif page.type == 'pillar' %}
         <span class="essay-badge essay-badge--pillar">pillar essay</span>
         {% elsif page.type == 'micro' %}
@@ -22,7 +22,7 @@ layout: default
         {% elsif page.type %}
         <span class="essay-badge essay-badge--type">{{ page.type }}</span>
         {% else %}
-        <span class="essay-badge essay-badge--free">free transmission</span>
+        <span class="essay-badge essay-badge--free">essay</span>
         {% endif %}
       </div>
 
@@ -44,11 +44,11 @@ layout: default
 
     {% if page.locked %}
     <div class="essay-locked panel">
-      <p class="essay-trace-label">[ sealed transmission ]</p>
-      <p>This signal is reserved for patrons. It appears in the archive index; the body stays sealed until access is granted.</p>
+      <p class="essay-trace-label">[ sealed ]</p>
+      <p>This essay is reserved for patrons. It appears in the archive index; the body stays sealed until access is granted.</p>
     </div>
     {% else %}
-    <p class="essay-trace-label">[ trace // field response ]</p>
+    <p class="essay-trace-label">[ essay ]</p>
     <div class="prose essay-body" data-pagefind-body>
       {{ content }}
     </div>
@@ -57,7 +57,7 @@ layout: default
     {% include essay-nav.html %}
 
     <footer class="essay-closing">
-      <span class="essay-closing__ref">signal №_{{ page.number }}</span>
+      {% if page.number %}<span class="essay-closing__ref">№ {{ page.number }}</span>{% endif %}
       <span>— JV · Dark Heart Labs.</span>
     </footer>
   </div>

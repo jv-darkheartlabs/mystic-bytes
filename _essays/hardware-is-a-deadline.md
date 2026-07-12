@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Hardware Is a Deadline
-dek: Atoms do not patch on Tuesday.
+dek: "Atoms do not patch on Tuesday."
 number: 621.39
 sort_key: 0621.39
 date: 2025-10-19

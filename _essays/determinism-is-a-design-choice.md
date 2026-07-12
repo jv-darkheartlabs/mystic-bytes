@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Determinism Is a Design Choice
-dek: A reproducible system is a system you can talk about.
+dek: "A reproducible system is a system you can talk about."
 number: 530.12
 sort_key: 0530.12
 date: 2025-07-27

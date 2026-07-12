@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Scope Creep Is a Symptom
-dek: Nobody adds work to a project that was already winning.
+dek: "Nobody adds work to a project that was already winning."
 number: 658.404
 sort_key: 0658.404
 date: 2025-02-02

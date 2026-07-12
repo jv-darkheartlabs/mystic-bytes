@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Prompt Engineering Is Just Writing
-dek: The model rewards the same clarity an editor would.
+dek: "The model rewards the same clarity an editor would."
 number: 006.31
 sort_key: 0006.31
 date: 2026-04-19

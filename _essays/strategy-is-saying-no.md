@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Strategy Is Saying No
-dek: Anyone can list opportunities. Strategy is the cuts.
+dek: "Anyone can list opportunities. Strategy is the cuts."
 number: 658.401
 sort_key: 0658.401
 date: 2025-02-23

@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: "Decisions Are Cheap, Reverts Are Expensive"
-dek: Make the call. Plan the rollback.
+dek: "Make the call. Plan the rollback."
 number: 658.403
 sort_key: 0658.403
 date: 2025-02-09

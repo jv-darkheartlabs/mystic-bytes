@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Types Are Documentation That Runs
-dek: The compiler reads the docs you would not have written.
+dek: "The compiler reads the docs you would not have written."
 number: 005.131
 sort_key: 0005.131
 date: 2024-11-24

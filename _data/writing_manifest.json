@@ -1,0 +1,2681 @@
+{
+  "generated": "2026-07-11",
+  "total": 201,
+  "skipped": [
+    "travel/destinations/# A Mosaic Of Memorable Experiences And\u2026.md",
+    "travel/destinations/# Exploring The Magical Realms Of Short\u2026.md",
+    "travel/destinations/# New Cities Or Countrysides On Foot Not.md",
+    "travel/destinations/# Wanderlust'S Whispers.md",
+    "travel/gear-tech/# And Maintaining Professional Connections\u2026.md",
+    "travel/guides/# Email Marketing Enchantments- Forge Lasting\u2026.md",
+    "travel/guides/# Recommending Smaller Efficient Models\u2026.md",
+    "travel/guides/# The Best Websites And Platforms That\u2026.md",
+    "travel/lifestyle-community/# Wander And Impact A Nomad'S Guide To\u2026.md",
+    "travel/personas/Jen the Dev- Travel Advisor Persona.md",
+    "travel/travel-planning/# How To Handle Taxation And Financial\u2026.md",
+    "travel/work-remote/# A Flexible Yet Structured Schedule.md",
+    "travel/work-remote/# A Routine Can Provide A Sense Of.md",
+    "travel/work-remote/# Balancing Work And Wanderlust.md",
+    "travel/work-remote/# Harnessing Your Remote Work Rhythm.md"
+  ],
+  "entries": [
+    {
+      "source": "ai-automation/AI Pair Programming and Trust.md",
+      "slug": "ai-pair-programming-and-trust",
+      "title": "AI Pair Programming and Trust",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "ai",
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "tier": "pillar",
+      "hashnode": true,
+      "date": "2002-01-15"
+    },
+    {
+      "source": "ai-automation/Prompt Engineering as Diplomacy.md",
+      "slug": "prompt-engineering-as-diplomacy",
+      "title": "Prompt Engineering as Diplomacy",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "ai",
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2005-09-25"
+    },
+    {
+      "source": "ai-automation/The Algorithm Is Not Your Enemy.md",
+      "slug": "the-algorithm-is-not-your-enemy",
+      "title": "The Algorithm Is Not Your Enemy",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "ai",
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2007-06-26"
+    },
+    {
+      "source": "ai-automation/Whispers in the Type System.md",
+      "slug": "whispers-in-the-type-system",
+      "title": "Whispers in the Type System",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "ai",
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2015-06-15"
+    },
+    {
+      "source": "aromatherapy-blog/blends-elixirs/Custom Scents.md",
+      "slug": "custom-scents",
+      "title": "Custom Scents",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2022-01-22"
+    },
+    {
+      "source": "aromatherapy-blog/blends-elixirs/Harnessing the Synergy of Aromatherapy and\u2026.md",
+      "slug": "harnessing-the-synergy-of-aromatherapy-and",
+      "title": "Harnessing the Synergy of Aromatherapy and\u2026",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2023-03-18"
+    },
+    {
+      "source": "aromatherapy-blog/blends-elixirs/The Art of Scent- Blending Aromatherapy\u2026.md",
+      "slug": "the-art-of-scent-blending-aromatherapy",
+      "title": "The Art of Scent- Blending Aromatherapy\u2026",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2025-07-05"
+    },
+    {
+      "source": "aromatherapy-blog/consultation-business/Aromatherapy Consultation rewrite.md",
+      "slug": "aromatherapy-consultation-rewrite",
+      "title": "Aromatherapy Consultation rewrite",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2021-01-27"
+    },
+    {
+      "source": "aromatherapy-blog/consultation-business/Aromatherapy Consultation.md",
+      "slug": "aromatherapy-consultation",
+      "title": "Aromatherapy Consultation",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2020-11-28"
+    },
+    {
+      "source": "aromatherapy-blog/consultation-business/Aromatherapy FAQs.md",
+      "slug": "aromatherapy-faqs",
+      "title": "Aromatherapy FAQs",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2021-03-28"
+    },
+    {
+      "source": "aromatherapy-blog/consultation-business/Aromatherapy.md",
+      "slug": "aromatherapy",
+      "title": "Aromatherapy",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2020-09-29"
+    },
+    {
+      "source": "aromatherapy-blog/consultation-business/Natural & Alternative Healing.md",
+      "slug": "natural-alternative-healing",
+      "title": "Natural & Alternative Healing",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2024-03-12"
+    },
+    {
+      "source": "aromatherapy-blog/general/The Magic of Fragrance- How Aromas Affect Our Senses\u2026.md",
+      "slug": "the-magic-of-fragrance-how-aromas-affect-our-senses",
+      "title": "The Magic of Fragrance- How Aromas Affect Our Senses\u2026",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2025-11-02"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Celery Seed, Nature's Green Elixir.md",
+      "slug": "celery-seed-nature-s-green-elixir",
+      "title": "Celery Seed, Nature's Green Elixir",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2021-05-27"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Chamomile, Nature's Soothing Gift.md",
+      "slug": "chamomile-nature-s-soothing-gift",
+      "title": "Chamomile, Nature's Soothing Gift",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2021-07-26"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Cinnamon Bark, the Warming Magic of Nature.md",
+      "slug": "cinnamon-bark-the-warming-magic-of-nature",
+      "title": "Cinnamon Bark, the Warming Magic of Nature",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2021-09-24"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Copaiba, Nature's Soothing Balm.md",
+      "slug": "copaiba-nature-s-soothing-balm",
+      "title": "Copaiba, Nature's Soothing Balm",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2021-11-23"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Fennel, Nature's Harmonious Herb.md",
+      "slug": "fennel-nature-s-harmonious-herb",
+      "title": "Fennel, Nature's Harmonious Herb",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2022-07-21"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Frankincense, Nature's Timeless Elixir.md",
+      "slug": "frankincense-nature-s-timeless-elixir",
+      "title": "Frankincense, Nature's Timeless Elixir",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2022-11-18"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Ginger, Nature's Invigorating Root.md",
+      "slug": "ginger-nature-s-invigorating-root",
+      "title": "Ginger, Nature's Invigorating Root",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2023-01-17"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Laurus Nobilis, the Regal Aura of Nature.md",
+      "slug": "laurus-nobilis-the-regal-aura-of-nature",
+      "title": "Laurus Nobilis, the Regal Aura of Nature",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2023-05-17"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Lavender, Nature's Calming Elixir.md",
+      "slug": "lavender-nature-s-calming-elixir",
+      "title": "Lavender, Nature's Calming Elixir",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2023-07-16"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Lemongrass, Nature's Balancing Elixir.md",
+      "slug": "lemongrass-nature-s-balancing-elixir",
+      "title": "Lemongrass, Nature's Balancing Elixir",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2023-09-14"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Lime, Nature's Zesty Elixir.md",
+      "slug": "lime-nature-s-zesty-elixir",
+      "title": "Lime, Nature's Zesty Elixir",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2023-11-13"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Mountain Savory, Nature's Invigorating Elixir.md",
+      "slug": "mountain-savory-nature-s-invigorating-elixir",
+      "title": "Mountain Savory, Nature's Invigorating Elixir",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2024-01-12"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Nutmeg, Spiced Symphony of Nature's Warmth.md",
+      "slug": "nutmeg-spiced-symphony-of-nature-s-warmth",
+      "title": "Nutmeg, Spiced Symphony of Nature's Warmth",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2024-05-11"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Rosemary, Nature's Revitalizing Elixir.md",
+      "slug": "rosemary-nature-s-revitalizing-elixir",
+      "title": "Rosemary, Nature's Revitalizing Elixir",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2024-07-10"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Sage, Nature's Tranquil Elixir.md",
+      "slug": "sage-nature-s-tranquil-elixir",
+      "title": "Sage, Nature's Tranquil Elixir",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2024-09-08"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Spearmint, Nature's Refreshing Elixir.md",
+      "slug": "spearmint-nature-s-refreshing-elixir",
+      "title": "Spearmint, Nature's Refreshing Elixir",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2025-01-06"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Tarragon, Nature's Soothing Elixir.md",
+      "slug": "tarragon-nature-s-soothing-elixir",
+      "title": "Tarragon, Nature's Soothing Elixir",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2025-03-07"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Thyme, Nature's Balancing Elixir.md",
+      "slug": "thyme-nature-s-balancing-elixir",
+      "title": "Thyme, Nature's Balancing Elixir",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2026-01-01"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Transformative Magic of Bergamot.md",
+      "slug": "transformative-magic-of-bergamot",
+      "title": "Transformative Magic of Bergamot",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2026-03-02"
+    },
+    {
+      "source": "aromatherapy-blog/oils-ingredients/Unlock the Magic of Basil.md",
+      "slug": "unlock-the-magic-of-basil",
+      "title": "Unlock the Magic of Basil",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2026-05-01"
+    },
+    {
+      "source": "aromatherapy-blog/tech-crossover/Embracing the Future- The Confluence of\u2026.md",
+      "slug": "embracing-the-future-the-confluence-of",
+      "title": "Embracing the Future- The Confluence of\u2026",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2022-03-23"
+    },
+    {
+      "source": "aromatherapy-blog/tech-crossover/Fragrant Futures- Technological Innovations\u2026.md",
+      "slug": "fragrant-futures-technological-innovations",
+      "title": "Fragrant Futures- Technological Innovations\u2026",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2022-09-19"
+    },
+    {
+      "source": "aromatherapy-blog/tech-crossover/Scented Pixels- A Journey into the Technological\u2026.md",
+      "slug": "scented-pixels-a-journey-into-the-technological",
+      "title": "Scented Pixels- A Journey into the Technological\u2026",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2024-11-07"
+    },
+    {
+      "source": "aromatherapy-blog/tech-crossover/The Allure of Aroma- A Guide to Tech-Infused\u2026.md",
+      "slug": "the-allure-of-aroma-a-guide-to-tech-infused",
+      "title": "The Allure of Aroma- A Guide to Tech-Infused\u2026",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2025-05-06"
+    },
+    {
+      "source": "aromatherapy-blog/tech-crossover/The Enchanting Convergence of Technology\u2026.md",
+      "slug": "the-enchanting-convergence-of-technology",
+      "title": "The Enchanting Convergence of Technology\u2026",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2025-09-03"
+    },
+    {
+      "source": "aromatherapy-blog/treatments/Acne Treatments.md",
+      "slug": "acne-treatments",
+      "title": "Acne Treatments",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2020-06-01"
+    },
+    {
+      "source": "aromatherapy-blog/treatments/Anti aging treatments.md",
+      "slug": "anti-aging-treatments",
+      "title": "Anti aging treatments",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2020-07-31"
+    },
+    {
+      "source": "aromatherapy-blog/treatments/Facial Treatments.md",
+      "slug": "facial-treatments",
+      "title": "Facial Treatments",
+      "collection": "wellness",
+      "band": "wellness",
+      "tags": [
+        "wellness"
+      ],
+      "phase": 4,
+      "status": "published",
+      "date": "2022-05-22"
+    },
+    {
+      "source": "collaboration-culture/Git Blame Is Not a Weapon.md",
+      "slug": "git-blame-is-not-a-weapon",
+      "title": "Git Blame Is Not a Weapon",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "culture"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2004-05-16"
+    },
+    {
+      "source": "collaboration-culture/On Technical Debt and Coral Reefs.md",
+      "slug": "on-technical-debt-and-coral-reefs",
+      "title": "On Technical Debt and Coral Reefs",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "culture"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2005-07-16"
+    },
+    {
+      "source": "collaboration-culture/Rituals of the Daily Standup.md",
+      "slug": "rituals-of-the-daily-standup",
+      "title": "Rituals of the Daily Standup",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "culture"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2006-04-26"
+    },
+    {
+      "source": "collaboration-culture/The Documentation Nobody Reads.md",
+      "slug": "the-documentation-nobody-reads",
+      "title": "The Documentation Nobody Reads",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "culture"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2009-06-05"
+    },
+    {
+      "source": "collaboration-culture/The Gentle Art of Code Review.md",
+      "slug": "the-gentle-art-of-code-review",
+      "title": "The Gentle Art of Code Review",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "culture"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2010-05-26"
+    },
+    {
+      "source": "collaboration-culture/The Integration Layer Between Worlds.md",
+      "slug": "the-integration-layer-between-worlds",
+      "title": "The Integration Layer Between Worlds",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "culture"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2011-03-06"
+    },
+    {
+      "source": "collaboration-culture/The Lifecycle of a Feature.md",
+      "slug": "the-lifecycle-of-a-feature",
+      "title": "The Lifecycle of a Feature",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "culture"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2011-07-26"
+    },
+    {
+      "source": "collaboration-culture/The Onboarding Abyss.md",
+      "slug": "the-onboarding-abyss",
+      "title": "The Onboarding Abyss",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "culture"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2012-02-24"
+    },
+    {
+      "source": "deployment-operations/dev-essays/Automating the Inevitable.md",
+      "slug": "automating-the-inevitable",
+      "title": "Automating the Inevitable",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2023-01-03"
+    },
+    {
+      "source": "deployment-operations/dev-essays/Bioluminescent Debugging.md",
+      "slug": "bioluminescent-debugging",
+      "title": "Bioluminescent Debugging",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2023-03-21"
+    },
+    {
+      "source": "deployment-operations/dev-essays/Deploy Friday- A Risk Assessment.md",
+      "slug": "deploy-friday-a-risk-assessment",
+      "title": "Deploy Friday- A Risk Assessment",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2023-06-06"
+    },
+    {
+      "source": "deployment-operations/dev-essays/Forced Proximity- The Monorepo.md",
+      "slug": "forced-proximity-the-monorepo",
+      "title": "Forced Proximity- The Monorepo",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2023-08-22"
+    },
+    {
+      "source": "deployment-operations/dev-essays/Migrations at Midnight.md",
+      "slug": "migrations-at-midnight",
+      "title": "Migrations at Midnight",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "tier": "pillar",
+      "hashnode": true,
+      "date": "2023-11-07"
+    },
+    {
+      "source": "deployment-operations/dev-essays/Observability in the Deep.md",
+      "slug": "observability-in-the-deep",
+      "title": "Observability in the Deep",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2024-01-23"
+    },
+    {
+      "source": "deployment-operations/dev-essays/Signals from the Deep- On Logging.md",
+      "slug": "signals-from-the-deep-on-logging",
+      "title": "Signals from the Deep- On Logging",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2024-04-09"
+    },
+    {
+      "source": "deployment-operations/dev-essays/The Abyssal Zone of Production.md",
+      "slug": "the-abyssal-zone-of-production",
+      "title": "The Abyssal Zone of Production",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2024-06-25"
+    },
+    {
+      "source": "deployment-operations/dev-essays/The Ceremony of the Clean Install.md",
+      "slug": "the-ceremony-of-the-clean-install",
+      "title": "The Ceremony of the Clean Install",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2024-09-10"
+    },
+    {
+      "source": "deployment-operations/dev-essays/The Dark Forest of Dependencies.md",
+      "slug": "the-dark-forest-of-dependencies",
+      "title": "The Dark Forest of Dependencies",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2024-11-26"
+    },
+    {
+      "source": "deployment-operations/dev-essays/The Haunted Deploy.md",
+      "slug": "the-haunted-deploy",
+      "title": "The Haunted Deploy",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2025-02-11"
+    },
+    {
+      "source": "deployment-operations/dev-essays/The Last Line of Defense.md",
+      "slug": "the-last-line-of-defense",
+      "title": "The Last Line of Defense",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2025-04-29"
+    },
+    {
+      "source": "deployment-operations/dev-essays/The Patience of the Long Deploy.md",
+      "slug": "the-patience-of-the-long-deploy",
+      "title": "The Patience of the Long Deploy",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2025-07-15"
+    },
+    {
+      "source": "deployment-operations/dev-essays/The Void Between Deploys.md",
+      "slug": "the-void-between-deploys",
+      "title": "The Void Between Deploys",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2025-09-30"
+    },
+    {
+      "source": "deployment-operations/dev-essays/You Are Not Your Stack Trace.md",
+      "slug": "you-are-not-your-stack-trace",
+      "title": "You Are Not Your Stack Trace",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2025-12-16"
+    },
+    {
+      "source": "deployment-operations/dev-essays/Your API Is a Promise.md",
+      "slug": "your-api-is-a-promise",
+      "title": "Your API Is a Promise",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2026-03-03"
+    },
+    {
+      "source": "deployment-operations/infrastructure-docs/000 \u2014 ArcaneGlam Master Documentation\u2026.md",
+      "slug": "000-arcaneglam-master-documentation",
+      "title": "000 \u2014 ArcaneGlam Master Documentation\u2026",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2022-03-01"
+    },
+    {
+      "source": "deployment-operations/infrastructure-docs/1 \u2014 YouTube Visualiser Pipeline.md",
+      "slug": "1-youtube-visualiser-pipeline",
+      "title": "1 \u2014 YouTube Visualiser Pipeline",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2022-05-17"
+    },
+    {
+      "source": "deployment-operations/infrastructure-docs/2 \u2014 Postiz Railway Deployment.md",
+      "slug": "2-postiz-railway-deployment",
+      "title": "2 \u2014 Postiz Railway Deployment",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2022-08-02"
+    },
+    {
+      "source": "deployment-operations/infrastructure-docs/3 \u2014 AliveShoes ArcaneGlam Brand\u2026.md",
+      "slug": "3-aliveshoes-arcaneglam-brand",
+      "title": "3 \u2014 AliveShoes ArcaneGlam Brand\u2026",
+      "collection": "essays",
+      "band": "ops",
+      "tags": [
+        "ops"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2022-10-18"
+    },
+    {
+      "source": "design-aesthetics/Dark Mode Is a Lifestyle.md",
+      "slug": "dark-mode-is-a-lifestyle",
+      "title": "Dark Mode Is a Lifestyle",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "design",
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2003-03-17"
+    },
+    {
+      "source": "design-aesthetics/Enchanted Error Handling.md",
+      "slug": "enchanted-error-handling",
+      "title": "Enchanted Error Handling",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "design",
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2003-12-26"
+    },
+    {
+      "source": "design-aesthetics/Signals in the Static.md",
+      "slug": "signals-in-the-static",
+      "title": "Signals in the Static",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "design",
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2006-11-25"
+    },
+    {
+      "source": "design-aesthetics/The Alchemy of Accessible Design.md",
+      "slug": "the-alchemy-of-accessible-design",
+      "title": "The Alchemy of Accessible Design",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "design",
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "tier": "pillar",
+      "hashnode": true,
+      "date": "2007-04-16"
+    },
+    {
+      "source": "design-aesthetics/The Sacred Geometry of CSS Grid.md",
+      "slug": "the-sacred-geometry-of-css-grid",
+      "title": "The Sacred Geometry of CSS Grid",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "design",
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2013-07-05"
+    },
+    {
+      "source": "design-aesthetics/The Shape of Water in UI.md",
+      "slug": "the-shape-of-water-in-ui",
+      "title": "The Shape of Water in UI",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "design",
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2013-09-14"
+    },
+    {
+      "source": "design-aesthetics/The Weight of Naming Things.md",
+      "slug": "the-weight-of-naming-things",
+      "title": "The Weight of Naming Things",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "design",
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2014-06-25"
+    },
+    {
+      "source": "music-games/BPM as Pacing- The Tempo of Deep Work.md",
+      "slug": "bpm-as-pacing-the-tempo-of-deep-work",
+      "title": "BPM as Pacing- The Tempo of Deep Work",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "games",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2002-08-16"
+    },
+    {
+      "source": "music-games/Flawless Victory- Mortal Kombat 1.md",
+      "slug": "flawless-victory-mortal-kombat-1",
+      "title": "Flawless Victory- Mortal Kombat 1",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "games",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2004-03-06"
+    },
+    {
+      "source": "music-games/Island Frequency- Animal Crossing.md",
+      "slug": "island-frequency-animal-crossing",
+      "title": "Island Frequency- Animal Crossing",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "games",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2004-10-05"
+    },
+    {
+      "source": "music-games/Mana Curves and Meta Games- MTG Arena.md",
+      "slug": "mana-curves-and-meta-games-mtg-arena",
+      "title": "Mana Curves and Meta Games- MTG Arena",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "games",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2004-12-15"
+    },
+    {
+      "source": "music-games/Movement Is Everything- Tekken.md",
+      "slug": "movement-is-everything-tekken",
+      "title": "Movement Is Everything- Tekken",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "games",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2005-05-06"
+    },
+    {
+      "source": "music-games/The Architecture of Playlists.md",
+      "slug": "the-architecture-of-playlists",
+      "title": "The Architecture of Playlists",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "games",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2008-04-05"
+    },
+    {
+      "source": "mythology-film/Chrome and Dust- Mad Max Fury Road.md",
+      "slug": "chrome-and-dust-mad-max-fury-road",
+      "title": "Chrome and Dust- Mad Max Fury Road",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "film",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2002-10-26"
+    },
+    {
+      "source": "mythology-film/Electric Sheep, Neon Grief- Blade Runner.md",
+      "slug": "electric-sheep-neon-grief-blade-runner",
+      "title": "Electric Sheep, Neon Grief- Blade Runner",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "film",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2003-10-16"
+    },
+    {
+      "source": "mythology-film/The Deep Ones Document Everything.md",
+      "slug": "the-deep-ones-document-everything",
+      "title": "The Deep Ones Document Everything",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "film",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2009-03-26"
+    },
+    {
+      "source": "mythology-film/The Green Rain- Matrix World from Color.md",
+      "slug": "the-green-rain-matrix-world-from-color",
+      "title": "The Green Rain- Matrix World from Color",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "film",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2010-08-05"
+    },
+    {
+      "source": "mythology-film/The Labyrinth Breathes- Pan's Labyrinth.md",
+      "slug": "the-labyrinth-breathes-pan-s-labyrinth",
+      "title": "The Labyrinth Breathes- Pan's Labyrinth",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "film",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2011-05-16"
+    },
+    {
+      "source": "mythology-film/The Shimmer Eats the Grid- Annihilation.md",
+      "slug": "the-shimmer-eats-the-grid-annihilation",
+      "title": "The Shimmer Eats the Grid- Annihilation",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "film",
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2013-11-24"
+    },
+    {
+      "source": "philosophy-of-practice/Into the Deep End.md",
+      "slug": "into-the-deep-end",
+      "title": "Into the Deep End",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2004-07-26"
+    },
+    {
+      "source": "philosophy-of-practice/Remote Work and Deep Water.md",
+      "slug": "remote-work-and-deep-water",
+      "title": "Remote Work and Deep Water",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "tier": "pillar",
+      "hashnode": true,
+      "date": "2005-12-05"
+    },
+    {
+      "source": "philosophy-of-practice/Rest Is Not a Vulnerability.md",
+      "slug": "rest-is-not-a-vulnerability",
+      "title": "Rest Is Not a Vulnerability",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2006-02-14"
+    },
+    {
+      "source": "philosophy-of-practice/She Builds with Fire.md",
+      "slug": "she-builds-with-fire",
+      "title": "She Builds with Fire",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2006-07-06"
+    },
+    {
+      "source": "philosophy-of-practice/She Who Ships.md",
+      "slug": "she-who-ships",
+      "title": "She Who Ships",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2006-09-15"
+    },
+    {
+      "source": "philosophy-of-practice/The Architecture of Letting Go.md",
+      "slug": "the-architecture-of-letting-go",
+      "title": "The Architecture of Letting Go",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2008-01-25"
+    },
+    {
+      "source": "philosophy-of-practice/The Current Beneath the Calm.md",
+      "slug": "the-current-beneath-the-calm",
+      "title": "The Current Beneath the Calm",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2009-01-14"
+    },
+    {
+      "source": "philosophy-of-practice/The Myth of the 10x Developer.md",
+      "slug": "the-myth-of-the-10x-developer",
+      "title": "The Myth of the 10x Developer",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2011-10-05"
+    },
+    {
+      "source": "philosophy-of-practice/The Ocean Does Not Apologize.md",
+      "slug": "the-ocean-does-not-apologize",
+      "title": "The Ocean Does Not Apologize",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2011-12-15"
+    },
+    {
+      "source": "philosophy-of-practice/The Roots Remember.md",
+      "slug": "the-roots-remember",
+      "title": "The Roots Remember",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2013-02-13"
+    },
+    {
+      "source": "philosophy-of-practice/The Spell of Consistency.md",
+      "slug": "the-spell-of-consistency",
+      "title": "The Spell of Consistency",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2014-04-15"
+    },
+    {
+      "source": "philosophy-of-practice/The Weight You Carry Compiles.md",
+      "slug": "the-weight-you-carry-compiles",
+      "title": "The Weight You Carry Compiles",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 2,
+      "status": "published",
+      "date": "2014-09-04"
+    },
+    {
+      "source": "the-craft/Bioluminescence in the Build Process.md",
+      "slug": "bioluminescence-in-the-build-process",
+      "title": "Bioluminescence in the Build Process",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2002-06-06"
+    },
+    {
+      "source": "the-craft/Code as Incantation.md",
+      "slug": "code-as-incantation",
+      "title": "Code as Incantation",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2003-01-05"
+    },
+    {
+      "source": "the-craft/Debugging as Meditation.md",
+      "slug": "debugging-as-meditation",
+      "title": "Debugging as Meditation",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2003-05-27"
+    },
+    {
+      "source": "the-craft/Debugging by Moonlight.md",
+      "slug": "debugging-by-moonlight",
+      "title": "Debugging by Moonlight",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "tier": "pillar",
+      "hashnode": true,
+      "date": "2003-08-06"
+    },
+    {
+      "source": "the-craft/Morally Grey Architecture.md",
+      "slug": "morally-grey-architecture",
+      "title": "Morally Grey Architecture",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2005-02-24"
+    },
+    {
+      "source": "the-craft/The Algorithm Remembers.md",
+      "slug": "the-algorithm-remembers",
+      "title": "The Algorithm Remembers",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2007-09-05"
+    },
+    {
+      "source": "the-craft/The All-Consuming Refactor.md",
+      "slug": "the-all-consuming-refactor",
+      "title": "The All-Consuming Refactor",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2007-11-15"
+    },
+    {
+      "source": "the-craft/The Cathedral and the Commit.md",
+      "slug": "the-cathedral-and-the-commit",
+      "title": "The Cathedral and the Commit",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2008-06-15"
+    },
+    {
+      "source": "the-craft/The Compiler as Oracle.md",
+      "slug": "the-compiler-as-oracle",
+      "title": "The Compiler as Oracle",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2008-11-04"
+    },
+    {
+      "source": "the-craft/The Enchantment of Small Tools.md",
+      "slug": "the-enchantment-of-small-tools",
+      "title": "The Enchantment of Small Tools",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2009-08-15"
+    },
+    {
+      "source": "the-craft/The Forgiveness of Version Control.md",
+      "slug": "the-forgiveness-of-version-control",
+      "title": "The Forgiveness of Version Control",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2009-10-25"
+    },
+    {
+      "source": "the-craft/The Fortress of Digital Security.md",
+      "slug": "the-fortress-of-digital-security",
+      "title": "The Fortress of Digital Security",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2010-01-04"
+    },
+    {
+      "source": "the-craft/The Garden of Forking Paths.md",
+      "slug": "the-garden-of-forking-paths",
+      "title": "The Garden of Forking Paths",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2010-03-16"
+    },
+    {
+      "source": "the-craft/The Haunting of Legacy Code.md",
+      "slug": "the-haunting-of-legacy-code",
+      "title": "The Haunting of Legacy Code",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2010-10-15"
+    },
+    {
+      "source": "the-craft/The Inheritance of Open Source.md",
+      "slug": "the-inheritance-of-open-source",
+      "title": "The Inheritance of Open Source",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2010-12-25"
+    },
+    {
+      "source": "the-craft/The Possessive Codebase.md",
+      "slug": "the-possessive-codebase",
+      "title": "The Possessive Codebase",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2012-05-05"
+    },
+    {
+      "source": "the-craft/The Quiet Power of Refactoring.md",
+      "slug": "the-quiet-power-of-refactoring",
+      "title": "The Quiet Power of Refactoring",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2012-07-15"
+    },
+    {
+      "source": "the-craft/The Sacred Commit Message.md",
+      "slug": "the-sacred-commit-message",
+      "title": "The Sacred Commit Message",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2013-04-25"
+    },
+    {
+      "source": "the-craft/Things That Break at Scale.md",
+      "slug": "things-that-break-at-scale",
+      "title": "Things That Break at Scale",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2014-11-14"
+    },
+    {
+      "source": "the-craft/Tides of the Terminal.md",
+      "slug": "tides-of-the-terminal",
+      "title": "Tides of the Terminal",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2015-01-24"
+    },
+    {
+      "source": "the-craft/Witchcraft and Webpack.md",
+      "slug": "witchcraft-and-webpack",
+      "title": "Witchcraft and Webpack",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 1,
+      "status": "published",
+      "date": "2015-08-25"
+    },
+    {
+      "source": "transmissions/Ambient Worlds and the Spaces Between.md",
+      "slug": "ambient-worlds-and-the-spaces-between",
+      "title": "Ambient Worlds and the Spaces Between",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2002-03-27"
+    },
+    {
+      "source": "transmissions/Spells Cast in TypeScript.md",
+      "slug": "spells-cast-in-typescript",
+      "title": "Spells Cast in TypeScript",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2007-02-04"
+    },
+    {
+      "source": "transmissions/The Cathedral of Silence.md",
+      "slug": "the-cathedral-of-silence",
+      "title": "The Cathedral of Silence",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2008-08-25"
+    },
+    {
+      "source": "transmissions/The Ritual of Listening.md",
+      "slug": "the-ritual-of-listening",
+      "title": "The Ritual of Listening",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2012-09-24"
+    },
+    {
+      "source": "transmissions/The Ritual of the Morning Pull.md",
+      "slug": "the-ritual-of-the-morning-pull",
+      "title": "The Ritual of the Morning Pull",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2012-12-04"
+    },
+    {
+      "source": "transmissions/The Silence Between Deployments.md",
+      "slug": "the-silence-between-deployments",
+      "title": "The Silence Between Deployments",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2014-02-03"
+    },
+    {
+      "source": "transmissions/Welcome to Arcaneglam.md",
+      "slug": "welcome-to-arcaneglam",
+      "title": "Welcome to Arcaneglam",
+      "collection": "essays",
+      "band": "craft",
+      "tags": [
+        "craft"
+      ],
+      "phase": 5,
+      "status": "published",
+      "date": "2015-04-05"
+    },
+    {
+      "source": "travel/destinations/Discovering Affordable Havens- A Digital\u2026.md",
+      "slug": "discovering-affordable-havens-a-digital",
+      "title": "Discovering Affordable Havens- A Digital\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2019-08-06"
+    },
+    {
+      "source": "travel/destinations/Discovering Your Ideal Co-Living Space\u2026.md",
+      "slug": "discovering-your-ideal-co-living-space",
+      "title": "Discovering Your Ideal Co-Living Space\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2019-10-27"
+    },
+    {
+      "source": "travel/destinations/Discovering the Magic of Authentic Cultural\u2026.md",
+      "slug": "discovering-the-magic-of-authentic-cultural",
+      "title": "Discovering the Magic of Authentic Cultural\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2019-09-16"
+    },
+    {
+      "source": "travel/destinations/Embracing the Wanderlust- Lifelong Learning\u2026.md",
+      "slug": "embracing-the-wanderlust-lifelong-learning",
+      "title": "Embracing the Wanderlust- Lifelong Learning\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2020-10-30"
+    },
+    {
+      "source": "travel/destinations/Ensuring Reliable Access to Electricity\u2026.md",
+      "slug": "ensuring-reliable-access-to-electricity",
+      "title": "Ensuring Reliable Access to Electricity\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2020-12-10"
+    },
+    {
+      "source": "travel/destinations/Exploring the Magical Realms of Short-Term\u2026.md",
+      "slug": "exploring-the-magical-realms-of-short-term",
+      "title": "Exploring the Magical Realms of Short-Term\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2021-05-23"
+    },
+    {
+      "source": "travel/destinations/Finding Your Tribe- Discovering Co-Living\u2026.md",
+      "slug": "finding-your-tribe-discovering-co-living",
+      "title": "Finding Your Tribe- Discovering Co-Living\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2021-09-23"
+    },
+    {
+      "source": "travel/destinations/Mastering Task Management While Exploring\u2026.md",
+      "slug": "mastering-task-management-while-exploring",
+      "title": "Mastering Task Management While Exploring\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2022-04-16"
+    },
+    {
+      "source": "travel/destinations/Navigating New Orleans- Discovering Idyllic\u2026.md",
+      "slug": "navigating-new-orleans-co-working-havens-and-nomad-nooks",
+      "title": "Navigating New Orleans: Co-working Havens and Nomad Nooks",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2022-09-27"
+    },
+    {
+      "source": "travel/destinations/Seasonal Guide to Nomad Hotspots.md",
+      "slug": "seasonal-guide-to-nomad-hotspots",
+      "title": "Seasonal Guide to Nomad Hotspots",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2024-06-03"
+    },
+    {
+      "source": "travel/destinations/The Art of Safe Solo Wanderlust- Essential\u2026.md",
+      "slug": "the-art-of-safe-solo-wanderlust-essential",
+      "title": "The Art of Safe Solo Wanderlust- Essential\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2024-10-04"
+    },
+    {
+      "source": "travel/destinations/Wanderlust on a Budget- Mastering the Magic\u2026.md",
+      "slug": "wanderlust-on-a-budget-mastering-the-magic",
+      "title": "Wanderlust on a Budget- Mastering the Magic\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel",
+        "oceania"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2026-03-21"
+    },
+    {
+      "source": "travel/gear-tech/Crafting Connections- Best Platforms for\u2026.md",
+      "slug": "crafting-connections-best-platforms-for",
+      "title": "Crafting Connections- Best Platforms for\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2018-10-23"
+    },
+    {
+      "source": "travel/gear-tech/Digital Nomad\u2019s Grimoire- Ensuring Connection\u2026.md",
+      "slug": "digital-nomads-grimoire-ensuring-connection",
+      "title": "Digital Nomad\u2019s Grimoire- Ensuring Connection\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2019-06-26"
+    },
+    {
+      "source": "travel/gear-tech/Embracing Solitude and Connection- Navigating\u2026.md",
+      "slug": "embracing-solitude-and-connection-navigating",
+      "title": "Embracing Solitude and Connection- Navigating\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2019-12-07"
+    },
+    {
+      "source": "travel/gear-tech/Ensuring Reliable Internet Connection While\u2026.md",
+      "slug": "ensuring-reliable-internet-connection-while",
+      "title": "Ensuring Reliable Internet Connection While\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2021-01-20"
+    },
+    {
+      "source": "travel/gear-tech/Essential Translation Apps- Global Connection.md",
+      "slug": "essential-translation-apps-global-connection",
+      "title": "Essential Translation Apps- Global Connection",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2021-04-12"
+    },
+    {
+      "source": "travel/gear-tech/Mastering Time- Effective Management Techniques\u2026.md",
+      "slug": "mastering-time-effective-management-techniques",
+      "title": "Mastering Time- Effective Management Techniques\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2022-05-27"
+    },
+    {
+      "source": "travel/gear-tech/Navigating Nomadic Numbers- Top Tools for\u2026.md",
+      "slug": "navigating-nomadic-numbers-top-tools-for",
+      "title": "Navigating Nomadic Numbers- Top Tools for\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2022-11-07"
+    },
+    {
+      "source": "travel/gear-tech/Nomadic Essentials- Simplify, Optimize.md",
+      "slug": "nomadic-essentials-simplify-optimize",
+      "title": "Nomadic Essentials- Simplify, Optimize",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2023-11-11"
+    },
+    {
+      "source": "travel/gear-tech/Safeguarding Your Digital Realm- Essential\u2026.md",
+      "slug": "safeguarding-your-digital-realm-essential",
+      "title": "Safeguarding Your Digital Realm- Essential\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2024-04-23"
+    },
+    {
+      "source": "travel/gear-tech/The Wanderer\u2019s Toolkit- Essential Gadgets\u2026.md",
+      "slug": "the-wanderers-toolkit-essential-gadgets",
+      "title": "The Wanderer\u2019s Toolkit- Essential Gadgets\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2024-11-14"
+    },
+    {
+      "source": "travel/gear-tech/Travel Essentials- The Best Backpacks and\u2026.md",
+      "slug": "travel-essentials-the-best-backpacks-and",
+      "title": "Travel Essentials- The Best Backpacks and\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2025-02-04"
+    },
+    {
+      "source": "travel/guides/Crafting Security- Essential Items for\u2026.md",
+      "slug": "crafting-security-essential-items-for",
+      "title": "Crafting Security- Essential Items for\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2018-12-03"
+    },
+    {
+      "source": "travel/guides/Crafting the Ideal Portable Workspace- A\u2026.md",
+      "slug": "crafting-the-ideal-portable-workspace-a",
+      "title": "Crafting the Ideal Portable Workspace- A\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2019-01-13"
+    },
+    {
+      "source": "travel/guides/Digital Nomad's Guide to Postal Mastery.md",
+      "slug": "digital-nomad-s-guide-to-postal-mastery",
+      "title": "Digital Nomad's Guide to Postal Mastery",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2019-05-16"
+    },
+    {
+      "source": "travel/guides/Navigating New Horizons- Building Your\u2026.md",
+      "slug": "navigating-new-horizons-building-your",
+      "title": "Navigating New Horizons- Building Your\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2022-08-17"
+    },
+    {
+      "source": "travel/guides/Navigating the Nomadic Narrative- Mastering\u2026.md",
+      "slug": "navigating-the-nomadic-narrative-mastering",
+      "title": "Navigating the Nomadic Narrative- Mastering\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2023-03-10"
+    },
+    {
+      "source": "travel/guides/Navigating the Stars- A Digital Nomad's\u2026.md",
+      "slug": "navigating-the-stars-a-digital-nomad-s",
+      "title": "Navigating the Stars- A Digital Nomad's\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2023-04-20"
+    },
+    {
+      "source": "travel/guides/Nomadic Client Comms.md",
+      "slug": "nomadic-client-comms",
+      "title": "Nomadic Client Comms",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2023-10-01"
+    },
+    {
+      "source": "travel/guides/Overcoming Travel Fatigue Holistically.md",
+      "slug": "overcoming-travel-fatigue-holistically",
+      "title": "Overcoming Travel Fatigue Holistically",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2023-12-22"
+    },
+    {
+      "source": "travel/lifestyle-community/Building a Supportive Network for Digital\u2026.md",
+      "slug": "building-a-supportive-network-for-digital",
+      "title": "Building a Supportive Network for Digital\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2018-06-22"
+    },
+    {
+      "source": "travel/lifestyle-community/Community Building- Gather Your Coven.md",
+      "slug": "community-building-gather-your-coven",
+      "title": "Community Building- Gather Your Coven",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2018-08-02"
+    },
+    {
+      "source": "travel/lifestyle-community/Embracing the Digital Nomad Lifestyle- Finding\u2026.md",
+      "slug": "embracing-the-digital-nomad-lifestyle-finding",
+      "title": "Embracing the Digital Nomad Lifestyle- Finding\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2020-02-27"
+    },
+    {
+      "source": "travel/lifestyle-community/Embracing the Ebb and Flow- Maintaining\u2026.md",
+      "slug": "embracing-the-ebb-and-flow-maintaining",
+      "title": "Embracing the Ebb and Flow- Maintaining\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2020-04-08"
+    },
+    {
+      "source": "travel/lifestyle-community/Embracing the Nomadic Lifestyle- Sustainability\u2026.md",
+      "slug": "embracing-the-nomadic-lifestyle-sustainability",
+      "title": "Embracing the Nomadic Lifestyle- Sustainability\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2020-05-19"
+    },
+    {
+      "source": "travel/lifestyle-community/Embracing the Nomadic Tapestry- Key Communities\u2026.md",
+      "slug": "embracing-the-nomadic-tapestry-key-communities",
+      "title": "Embracing the Nomadic Tapestry- Key Communities\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2020-06-29"
+    },
+    {
+      "source": "travel/lifestyle-community/Embracing the Spirit of New Orleans- Creative\u2026.md",
+      "slug": "embracing-the-spirit-of-new-orleans-creative",
+      "title": "Embracing the Spirit of New Orleans- Creative\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2020-08-09"
+    },
+    {
+      "source": "travel/lifestyle-community/Embracing the Tapestry- Navigating Cultural\u2026.md",
+      "slug": "embracing-the-tapestry-navigating-cultural",
+      "title": "Embracing the Tapestry- Navigating Cultural\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2020-09-19"
+    },
+    {
+      "source": "travel/lifestyle-community/Finding Your Tribe- Tips for Connecting\u2026.md",
+      "slug": "finding-your-tribe-tips-for-connecting",
+      "title": "Finding Your Tribe- Tips for Connecting\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2021-11-03"
+    },
+    {
+      "source": "travel/lifestyle-community/Harmonizing Horizons- A Guide to Balancing\u2026.md",
+      "slug": "harmonizing-horizons-a-guide-to-balancing",
+      "title": "Harmonizing Horizons- A Guide to Balancing\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2021-12-14"
+    },
+    {
+      "source": "travel/lifestyle-community/Journeys of Serenity- Balancing Discovery\u2026.md",
+      "slug": "journeys-of-serenity-balancing-discovery",
+      "title": "Journeys of Serenity- Balancing Discovery\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2022-01-24"
+    },
+    {
+      "source": "travel/lifestyle-community/Navigating Health and Medical Needs as\u2026.md",
+      "slug": "navigating-health-and-medical-needs-as",
+      "title": "Navigating Health and Medical Needs as\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2022-07-07"
+    },
+    {
+      "source": "travel/lifestyle-community/Negotiating with Grace- Strategies for\u2026.md",
+      "slug": "negotiating-with-grace-strategies-for",
+      "title": "Negotiating with Grace- Strategies for\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2023-05-31"
+    },
+    {
+      "source": "travel/lifestyle-community/Nomad Networking.md",
+      "slug": "nomad-networking",
+      "title": "Nomad Networking",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2023-07-11"
+    },
+    {
+      "source": "travel/lifestyle-community/Safe Spells for Digital Wanders- Securing\u2026.md",
+      "slug": "safe-spells-for-digital-wanders-securing",
+      "title": "Safe Spells for Digital Wanders- Securing\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2024-03-13"
+    },
+    {
+      "source": "travel/lifestyle-community/The Art of Movement- Staying Active on\u2026.md",
+      "slug": "the-art-of-movement-staying-active-on",
+      "title": "The Art of Movement- Staying Active on\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2024-08-24"
+    },
+    {
+      "source": "travel/lifestyle-community/Unveiling Serenity Amidst the Storm- Staying\u2026.md",
+      "slug": "unveiling-serenity-amidst-the-storm-staying",
+      "title": "Unveiling Serenity Amidst the Storm- Staying\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2025-03-17"
+    },
+    {
+      "source": "travel/lifestyle-community/Unveiling the Art of Staying Motivated\u2026-1.md",
+      "slug": "unveiling-the-art-of-staying-motivated-1",
+      "title": "Unveiling the Art of Staying Motivated\u2026-1",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2025-06-07"
+    },
+    {
+      "source": "travel/lifestyle-community/Unveiling the Art of Staying Motivated\u2026.md",
+      "slug": "unveiling-the-art-of-staying-motivated",
+      "title": "Unveiling the Art of Staying Motivated\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2025-04-27"
+    },
+    {
+      "source": "travel/lifestyle-community/Wander and Impact- A Nomad's Guide to Volunteering.md",
+      "slug": "wander-and-impact-a-nomad-s-guide-to-volunteering",
+      "title": "Wander and Impact- A Nomad's Guide to Volunteering",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2025-08-28"
+    },
+    {
+      "source": "travel/lifestyle-community/Wandering Stars- How to Network Successfully\u2026-1.md",
+      "slug": "wandering-stars-how-to-network-successfully-1",
+      "title": "Wandering Stars- How to Network Successfully\u2026-1",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "travel/lifestyle-community/Wandering Stars- How to Network Successfully\u2026.md",
+      "slug": "wandering-stars-how-to-network-successfully",
+      "title": "Wandering Stars- How to Network Successfully\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2025-10-08"
+    },
+    {
+      "source": "travel/travel-planning/Affordable and Reliable Transportation\u2026.md",
+      "slug": "affordable-and-reliable-transportation",
+      "title": "Affordable and Reliable Transportation\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2018-04-01"
+    },
+    {
+      "source": "travel/travel-planning/Essential Items to Pack for Maintaining\u2026.md",
+      "slug": "essential-items-to-pack-for-maintaining",
+      "title": "Essential Items to Pack for Maintaining\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2021-03-02"
+    },
+    {
+      "source": "travel/travel-planning/Mastering Mobile Logistics- The Art of\u2026.md",
+      "slug": "mastering-mobile-logistics-the-art-of",
+      "title": "Mastering Mobile Logistics- The Art of\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2022-03-06"
+    },
+    {
+      "source": "travel/travel-planning/Navigating Pet-Friendly Accommodations\u2026.md",
+      "slug": "navigating-pet-friendly-accommodations",
+      "title": "Navigating Pet-Friendly Accommodations\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2022-12-18"
+    },
+    {
+      "source": "travel/travel-planning/Navigating the Financial Waters- Taxation\u2026.md",
+      "slug": "navigating-the-financial-waters-taxation",
+      "title": "Navigating the Financial Waters- Taxation\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2023-01-28"
+    },
+    {
+      "source": "travel/travel-planning/Nomad Travel Insurance Guide.md",
+      "slug": "nomad-travel-insurance-guide",
+      "title": "Nomad Travel Insurance Guide",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2023-08-21"
+    },
+    {
+      "source": "travel/travel-planning/Packing Light and Living Large- The Nomadic\u2026.md",
+      "slug": "packing-light-and-living-large-the-nomadic",
+      "title": "Packing Light and Living Large- The Nomadic\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2024-02-01"
+    },
+    {
+      "source": "travel/travel-planning/The Art of Language- Enriching Travel Experiences\u2026.md",
+      "slug": "the-art-of-language-enriching-travel-experiences",
+      "title": "The Art of Language- Enriching Travel Experiences\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2024-07-14"
+    },
+    {
+      "source": "travel/travel-planning/Visa Renewals Stay Proactive.md",
+      "slug": "visa-renewals-stay-proactive",
+      "title": "Visa Renewals Stay Proactive",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2025-07-18"
+    },
+    {
+      "source": "travel/travel-planning/Wandering Wisely- Financial Guidance for\u2026.md",
+      "slug": "wandering-wisely-financial-guidance-for",
+      "title": "Wandering Wisely- Financial Guidance for\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2026-02-08"
+    },
+    {
+      "source": "travel/work-remote/Balancing Work Commitments with Exploring\u2026.md",
+      "slug": "balancing-work-commitments-with-exploring",
+      "title": "Balancing Work Commitments with Exploring\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2018-05-12"
+    },
+    {
+      "source": "travel/work-remote/Crafting Your Digital Nomad Portfolio- A\u2026.md",
+      "slug": "crafting-your-digital-nomad-portfolio-a",
+      "title": "Crafting Your Digital Nomad Portfolio- A\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2019-02-23"
+    },
+    {
+      "source": "travel/work-remote/Crafting a Flexible Work Schedule While\u2026.md",
+      "slug": "crafting-a-flexible-work-schedule-while",
+      "title": "Crafting a Flexible Work Schedule While\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2018-09-12"
+    },
+    {
+      "source": "travel/work-remote/Customize GPT.md",
+      "slug": "customize-gpt",
+      "title": "Customize GPT",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2019-04-05"
+    },
+    {
+      "source": "travel/work-remote/Embracing the Clock- Navigating Time Zone\u2026.md",
+      "slug": "embracing-the-clock-navigating-time-zone",
+      "title": "Embracing the Clock- Navigating Time Zone\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2020-01-17"
+    },
+    {
+      "source": "travel/work-remote/Finding Remote Work Opportunities Tailored\u2026.md",
+      "slug": "finding-remote-work-opportunities-tailored",
+      "title": "Finding Remote Work Opportunities Tailored\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2021-07-03"
+    },
+    {
+      "source": "travel/work-remote/Finding the Harmony- Balancing Work Commitments\u2026.md",
+      "slug": "finding-the-harmony-balancing-work-commitments",
+      "title": "Finding the Harmony- Balancing Work Commitments\u2026",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2021-08-13"
+    },
+    {
+      "source": "travel/work-remote/Top Remote Job Platforms.md",
+      "slug": "top-remote-job-platforms",
+      "title": "Top Remote Job Platforms",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2024-12-25"
+    },
+    {
+      "source": "travel/work-remote/Wandering Wisely- Balancing Work and Wanderlust.md",
+      "slug": "wandering-wisely-balancing-work-and-wanderlust",
+      "title": "Wandering Wisely- Balancing Work and Wanderlust",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2025-12-29"
+    },
+    {
+      "source": "travel/work-remote/While Providing Contemporary Work Facilities.md",
+      "slug": "while-providing-contemporary-work-facilities",
+      "title": "While Providing Contemporary Work Facilities",
+      "collection": "journal",
+      "band": "travel",
+      "tags": [
+        "travel"
+      ],
+      "phase": 3,
+      "status": "published",
+      "date": "2026-05-01"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Testing Is a Conversation
-dek: The suite tells you what the system is actually willing to promise.
+dek: "The suite tells you what the system is actually willing to promise."
 number: 006.4
 sort_key: 0006.04
 date: 2024-10-27

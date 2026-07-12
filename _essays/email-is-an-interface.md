@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Email Is an Interface
-dek: The inbox is a UI everybody ships into.
+dek: "The inbox is a UI everybody ships into."
 number: 652.5
 sort_key: 0652.05
 date: 2025-09-28

@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: One-on-Ones Are the Product
-dek: The meeting nobody talks about is the one that decides everything.
+dek: "The meeting nobody talks about is the one that decides everything."
 number: 658.314
 sort_key: 0658.314
 date: 2024-12-22

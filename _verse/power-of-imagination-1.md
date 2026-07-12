@@ -1,6 +1,6 @@
 ---
 layout: verse
-title: "Power of Imagination"
+title: "Power of Imagination I"
 dek: "Mind as workshop — bounds included."
 number: V0860
 sort_key: 860

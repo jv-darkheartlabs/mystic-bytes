@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Aesthetics as Affordance
-dek: Beauty is not decoration. It tells the hand where to go.
+dek: "Beauty is not decoration. It tells the hand where to go."
 number: 770.1
 sort_key: 0770.01
 date: 2026-04-26

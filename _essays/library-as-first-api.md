@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: The Library as the First API
-dek: The library is an information retrieval system built around a specific access pattern.
+dek: "The library is an information retrieval system built around a specific access pattern."
 number: 020.0
 sort_key: 0020.00
 date: 2026-02-01

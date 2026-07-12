@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Critical Thinking Is a Muscle
-dek: The brain trains the way the body does.
+dek: "The brain trains the way the body does."
 number: 153.42
 sort_key: 0153.42
 date: 2025-03-16

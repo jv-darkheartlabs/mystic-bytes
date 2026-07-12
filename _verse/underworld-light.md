@@ -1,7 +1,7 @@
 ---
 layout: verse
 title: "Underworld Light"
-dek: "No angel hour. Only threshold."
+dek: "Alternate rewrite. Canonical on-site: torch-at-the-crossroads."
 number: V0101
 sort_key: 101
 date: 2026-08-03
@@ -17,8 +17,9 @@ tags:
 content_warnings:
   - mysticism
   - disturbing imagery
-shelf: true
+shelf: false
 source_title: "Divine Light"
+duplicate_of: torch-at-the-crossroads
 ---
 
 The comfort you were promised

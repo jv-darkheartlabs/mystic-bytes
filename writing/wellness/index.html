@@ -1,0 +1,36 @@
+---
+layout: default
+title: "wellness — ls -la /wellness"
+eyebrow: "[writing/wellness]"
+permalink: /writing/wellness/
+---
+
+{% assign sorted = site.wellness | sort: "date" | reverse %}
+
+<div class="container">
+<header class="archive-header signal-header">
+  <a class="essay-back" href="{{ '/writing/' | relative_url }}">← writing</a>
+  {% include signal-badge.html code="WELLNESS" %}
+  <p class="page-eyebrow">[wellness]</p>
+  <h1 class="page-title">ls -la /wellness</h1>
+  <p class="archive-count">{{ sorted.size }} posts. Aromatherapy and sensory recovery for builders — practical, not prescriptive.</p>
+</header>
+
+<div class="archive-table panel">
+  <div class="archive-table__head">
+    <span>date</span>
+    <span>title / dek</span>
+    <span>read</span>
+  </div>
+  {% for post in sorted %}
+  <a class="archive-row" href="{{ post.url | relative_url }}">
+    <span class="archive-row__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <span class="archive-row__body">
+      <strong>{{ post.title }}</strong>
+      {% if post.dek %}<span class="archive-row__dek">{{ post.dek }}</span>{% endif %}
+    </span>
+    <span class="archive-row__cta">{% if post.read_time %}{{ post.read_time }} min{% else %}open →{% endif %}</span>
+  </a>
+  {% endfor %}
+</div>
+</div>

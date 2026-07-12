@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Copy-Paste Is an Honest First Draft
-dek: Three call sites is when the shape becomes visible.
+dek: "Three call sites is when the shape becomes visible."
 number: 005.118
 sort_key: 0005.118
 date: 2025-08-17

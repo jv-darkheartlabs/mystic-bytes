@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Photography Is Editing
-dek: The picture is what you chose to leave out.
+dek: "The picture is what you chose to leave out."
 number: 770.4
 sort_key: 0770.04
 date: 2025-04-13

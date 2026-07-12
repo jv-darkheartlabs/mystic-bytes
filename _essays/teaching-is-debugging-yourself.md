@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Teaching Is Debugging Yourself
-dek: You only see the gaps when someone else points at them.
+dek: "You only see the gaps when someone else points at them."
 number: 371.1
 sort_key: 0371.01
 date: 2025-03-23

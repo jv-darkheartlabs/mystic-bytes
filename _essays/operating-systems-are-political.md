@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Operating Systems Are Political
-dek: The kernel decides who gets to do what to whom.
+dek: "The kernel decides who gets to do what to whom."
 number: 005.46
 sort_key: 0005.46
 date: 2025-06-29

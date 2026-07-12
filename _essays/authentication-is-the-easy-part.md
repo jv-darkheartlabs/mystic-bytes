@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Authentication Is the Easy Part
-dek: Authorization is where products are won and lost.
+dek: "Authorization is where products are won and lost."
 number: 005.83
 sort_key: 0005.83
 date: 2025-07-13

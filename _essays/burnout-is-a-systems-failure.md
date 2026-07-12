@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Burnout Is a Systems Failure
-dek: The individual broke because the environment was built to break them.
+dek: "The individual broke because the environment was built to break them."
 number: 616.85
 sort_key: 0616.85
 date: 2025-05-18

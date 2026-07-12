@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: On Mentorship in an Industry That Moves Too Fast
-dek: The half-life of technical knowledge in this field is short.
+dek: "The half-life of technical knowledge in this field is short."
 number: 658.3
 sort_key: 0658.03
 date: 2026-03-08

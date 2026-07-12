@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Naming Things Is Still the Hardest Problem
-dek: A name is a contract with every future reader of the code.
+dek: "A name is a contract with every future reader of the code."
 number: 401.9
 sort_key: 0401.09
 date: 2026-06-14

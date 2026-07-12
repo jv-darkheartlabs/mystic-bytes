@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Typography Is a Trust Signal
-dek: Letter spacing reads before words do.
+dek: "Letter spacing reads before words do."
 number: 741.6
 sort_key: 0741.06
 date: 2025-04-20

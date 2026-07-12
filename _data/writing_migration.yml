@@ -1,0 +1,131 @@
+# Tag taxonomy for blog migration → Dark Heart Labs writing
+# Display tags only; hashnode is a frontmatter flag, not a nav tag.
+
+craft:
+  label: craft
+  description: Developer craft, tools, and practice
+
+ops:
+  label: ops
+  description: Deployment, infrastructure, and production
+
+design:
+  label: design
+  description: UI, aesthetics, accessibility, naming
+
+ai:
+  label: ai
+  description: AI tooling, automation, pair programming
+
+culture:
+  label: culture
+  description: Teams, review, documentation, collaboration
+
+travel:
+  label: travel
+  description: Nomad logistics and remote work on the road
+
+oceania:
+  label: oceania
+  description: New Zealand, Australia, and Pacific field notes
+
+wellness:
+  label: wellness
+  description: Aromatherapy and sensory recovery for builders
+
+games:
+  label: games
+  description: Games as systems thinking
+
+film:
+  label: film
+  description: Film, mythology, and narrative craft
+
+# Folder → collection + default tags
+routing:
+  the-craft:
+    collection: essays
+    tags: [craft]
+  philosophy-of-practice:
+    collection: essays
+    tags: [craft]
+  design-aesthetics:
+    collection: essays
+    tags: [design, craft]
+  collaboration-culture:
+    collection: essays
+    tags: [culture]
+  ai-automation:
+    collection: essays
+    tags: [ai, craft]
+  music-games:
+    collection: essays
+    tags: [games, craft]
+  mythology-film:
+    collection: essays
+    tags: [film, craft]
+  deployment-operations/dev-essays:
+    collection: essays
+    tags: [ops]
+  deployment-operations/infrastructure-docs:
+    collection: essays
+    tags: [ops]
+    status: sanitize-or-exclude
+  transmissions:
+    collection: essays
+    tags: [craft]
+  travel:
+    collection: journal
+    tags: [travel]
+  travel/destinations:
+    collection: journal
+    tags: [travel, oceania]
+  aromatherapy-blog:
+    collection: wellness
+    tags: [wellness]
+
+# Date bands (ISO stagger within each band)
+date_bands:
+  craft:
+    start: 2002-01-15
+    end: 2015-12-01
+  ops:
+    start: 2022-03-01
+    end: 2026-06-01
+  travel:
+    start: 2018-04-01
+    end: 2026-07-01
+  wellness:
+    start: 2020-06-01
+    end: 2026-07-01
+
+skip:
+  - travel/personas
+  - "# "  # merge duplicate drafts prefixed with #
+
+flagships:
+  - slug: debugging-by-moonlight
+    source: the-craft/Debugging by Moonlight.md
+    tier: pillar
+    related_projects: [NeuroShell]
+    hashnode: true
+  - slug: migrations-at-midnight
+    source: deployment-operations/dev-essays/Migrations at Midnight.md
+    tier: pillar
+    cross_link: migrations-are-confessions
+    hashnode: true
+  - slug: accessible-design-is-default
+    source: design-aesthetics/The Alchemy of Accessible Design.md
+    tier: pillar
+    related_projects: [accessibility-rails-components]
+    hashnode: true
+  - slug: ai-pair-programming-and-trust
+    source: ai-automation/AI Pair Programming and Trust.md
+    tier: pillar
+    related_projects: [NeuroShell]
+    hashnode: true
+  - slug: remote-work-across-oceania-time-zones
+    source: philosophy-of-practice/Remote Work and Deep Water.md
+    tier: pillar
+    tags: [craft, travel, oceania]
+    hashnode: true

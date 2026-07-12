@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Incidents Are Curriculum
-dek: The postmortem is the only honest training material the team will ever have.
+dek: "The postmortem is the only honest training material the team will ever have."
 number: 006.52
 sort_key: 0006.52
 date: 2024-09-29

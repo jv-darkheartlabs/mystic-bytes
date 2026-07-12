@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: UI State Is a State Machine Whether You Admit It
-dek: The bug is what happens in the transition you forgot to model.
+dek: "The bug is what happens in the transition you forgot to model."
 number: 006.7
 sort_key: 0006.07
 date: 2025-11-09

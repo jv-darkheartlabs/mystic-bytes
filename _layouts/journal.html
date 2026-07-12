@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<article class="essay essay--journal">
+  <div class="essay-inner">
+    <a class="essay-back" href="{{ '/writing/journal/' | relative_url }}">← travel journal</a>
+
+    <header class="essay-header signal-header">
+      {% include signal-badge.html code="JOURNAL" %}
+      <div class="essay-meta">
+        {% if page.date %}
+        <span class="essay-date">{{ page.date | date: "%b %-d, %Y" }}</span>
+        {% endif %}
+        {% if page.read_time %}
+        <span class="essay-badge essay-badge--micro">{{ page.read_time }} min read</span>
+        {% endif %}
+        {% if page.tags contains 'oceania' %}
+        <span class="essay-badge essay-badge--pillar">oceania</span>
+        {% endif %}
+      </div>
+
+      <h1 class="essay-title">{{ page.title }}</h1>
+      {% if page.dek %}
+      <p class="essay-dek">{{ page.dek }}</p>
+      {% endif %}
+    </header>
+
+    {% if page.cover %}
+    <figure class="essay-cover">
+      <img src="{{ page.cover | relative_url }}" alt="" loading="lazy" width="1280" height="720">
+    </figure>
+    {% endif %}
+
+    <div class="prose essay-body" data-pagefind-body>
+      {{ content }}
+    </div>
+
+    <footer class="essay-closing">
+      <span>— JV · Dark Heart Labs.</span>
+    </footer>
+  </div>
+</article>

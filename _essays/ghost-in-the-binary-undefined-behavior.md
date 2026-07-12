@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: "The Ghost in the Binary: Undefined Behavior"
-dek: Undefined behavior is the boogeyman of systems programming.
+dek: "Undefined behavior is the boogeyman of systems programming."
 number: 005.3
 sort_key: 0005.03
 date: 2025-12-21

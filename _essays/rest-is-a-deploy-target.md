@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Rest Is a Deploy Target
-dek: Sleep ships the build your brain wrote during the day.
+dek: "Sleep ships the build your brain wrote during the day."
 number: 152.7
 sort_key: 0152.07
 date: 2026-06-17

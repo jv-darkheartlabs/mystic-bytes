@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Abstractions Are Bets
-dek: An abstraction wagers that this difference will not matter later.
+dek: "An abstraction wagers that this difference will not matter later."
 number: 005.117
 sort_key: 0005.117
 date: 2025-08-24

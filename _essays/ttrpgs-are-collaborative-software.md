@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: TTRPGs Are Collaborative Software
-dek: The rulebook is the kernel; the table is the runtime.
+dek: "The rulebook is the kernel; the table is the runtime."
 number: 793.93
 sort_key: 0793.93
 date: 2025-05-04

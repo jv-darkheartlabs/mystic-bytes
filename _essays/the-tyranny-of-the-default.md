@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: The Tyranny of the Default
-dek: Most users will never change the setting. Design accordingly.
+dek: "Most users will never change the setting. Design accordingly."
 number: 005.1
 sort_key: 0005.01
 date: 2026-05-03

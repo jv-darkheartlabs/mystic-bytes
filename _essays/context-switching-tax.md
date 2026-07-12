@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: The Context-Switching Tax Nobody Itemizes
-dek: Every interruption is a charge against a budget you never see.
+dek: "Every interruption is a charge against a budget you never see."
 number: 153.4
 sort_key: 0153.04
 date: 2026-05-31

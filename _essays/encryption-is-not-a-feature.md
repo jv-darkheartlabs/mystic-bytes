@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Encryption Is Not a Feature
-dek: It is the temperature at which trust is possible.
+dek: "It is the temperature at which trust is possible."
 number: 005.82
 sort_key: 0005.82
 date: 2025-10-26

@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Local-First as a Stance
-dek: Local-first is not nostalgia. It is sovereignty.
+dek: "Local-first is not nostalgia. It is sovereignty."
 number: 004.3
 sort_key: 0004.03
 date: 2025-11-30

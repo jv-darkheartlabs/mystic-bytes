@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Games Teach Systems Thinking
-dek: Play is the safest place to fail.
+dek: "Play is the safest place to fail."
 number: 796.01
 sort_key: 0796.01
 date: 2025-05-11

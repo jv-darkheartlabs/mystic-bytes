@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Compilers Are Translators with Taste
-dek: Every optimization is an aesthetic preference.
+dek: "Every optimization is an aesthetic preference."
 number: 005.45
 sort_key: 0005.45
 date: 2025-06-22

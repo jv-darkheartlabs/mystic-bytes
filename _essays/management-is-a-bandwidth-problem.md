@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Management Is a Bandwidth Problem
-dek: The job is not knowing. The job is allocating attention.
+dek: "The job is not knowing. The job is allocating attention."
 number: 658.4
 sort_key: 0658.04
 date: 2025-10-05

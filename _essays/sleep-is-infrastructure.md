@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Sleep Is Infrastructure
-dek: The brain has uptime requirements.
+dek: "The brain has uptime requirements."
 number: 612.8
 sort_key: 0612.08
 date: 2025-06-01

@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Relocation as Refactor
-dek: Moving countries is a migration with no rollback plan.
+dek: "Moving countries is a migration with no rollback plan."
 number: 910.4
 sort_key: 0910.04
 date: 2026-05-24

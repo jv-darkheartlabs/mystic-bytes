@@ -1,6 +1,6 @@
 ---
 layout: verse
-title: "Embracing Insecurities"
+title: "Embracing Insecurities I"
 dek: "Doubt as signal, not landlord."
 number: V0810
 sort_key: 810

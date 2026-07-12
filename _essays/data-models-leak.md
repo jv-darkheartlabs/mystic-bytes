@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Data Models Leak
-dek: The schema you ship leaks into every report that ever queries it.
+dek: "The schema you ship leaks into every report that ever queries it."
 number: 005.741
 sort_key: 0005.741
 date: 2024-11-03

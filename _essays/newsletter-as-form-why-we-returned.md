@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: "The Newsletter as Form: Why We Returned to Email"
-dek: The newsletter is email with intentionality.
+dek: "The newsletter is email with intentionality."
 number: 051.0
 sort_key: 0051.00
 date: 2026-02-08

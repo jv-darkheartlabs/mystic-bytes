@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: The Portfolio as Evidence
-dek: A portfolio is not a brag sheet. It is a case file.
+dek: "A portfolio is not a brag sheet. It is a case file."
 number: 650.1
 sort_key: 0650.01
 date: 2026-03-15

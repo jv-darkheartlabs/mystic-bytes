@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Caching Is a Tax on Correctness
-dek: The fastest answer is also the easiest one to get wrong.
+dek: "The fastest answer is also the easiest one to get wrong."
 number: 005.276
 sort_key: 0005.276
 date: 2024-11-10

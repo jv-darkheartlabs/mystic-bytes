@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: The Cost of Cleverness
-dek: Clever code is a loan against the next reader's attention.
+dek: "Clever code is a loan against the next reader's attention."
 number: 005.12
 sort_key: 0005.12
 date: 2026-03-22

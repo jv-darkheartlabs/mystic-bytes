@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Metrics Shape the Thing They Measure
-dek: The dashboard becomes the org chart.
+dek: "The dashboard becomes the org chart."
 number: 658.51
 sort_key: 0658.51
 date: 2025-01-19

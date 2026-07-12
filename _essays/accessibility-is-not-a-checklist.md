@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Accessibility Is Not a Checklist
-dek: It is the practice of building for bodies that are not yours.
+dek: "It is the practice of building for bodies that are not yours."
 number: 004.0285
 sort_key: 0004.0285
 date: 2025-06-08

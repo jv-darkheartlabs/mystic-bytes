@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Operations Is the Product
-dek: The dashboard is what the customer actually buys.
+dek: "The dashboard is what the customer actually buys."
 number: 658.5
 sort_key: 0658.05
 date: 2025-01-26

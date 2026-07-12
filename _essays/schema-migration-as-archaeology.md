@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Schema Migration as Archaeology
-dek: The migration file is a time capsule.
+dek: "The migration file is a time capsule."
 number: 005.7
 sort_key: 0005.07
 date: 2026-01-04

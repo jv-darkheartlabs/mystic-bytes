@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Logs Are Letters to Future-You
-dek: The log line you skipped is the outage you cannot explain.
+dek: "The log line you skipped is the outage you cannot explain."
 number: 006.5
 sort_key: 0006.05
 date: 2024-10-13

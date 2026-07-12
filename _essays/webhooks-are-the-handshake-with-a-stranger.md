@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Webhooks Are the Handshake With a Stranger
-dek: A webhook is a public mailbox. Treat it like one.
+dek: "A webhook is a public mailbox. Treat it like one."
 number: 004.6781
 sort_key: 0004.6781
 date: 2025-09-21

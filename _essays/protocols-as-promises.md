@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Protocols as Promises
-dek: A protocol is a promise two strangers agree to keep.
+dek: "A protocol is a promise two strangers agree to keep."
 number: 004.6
 sort_key: 0004.06
 date: 2026-05-17

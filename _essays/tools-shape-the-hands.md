@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Tools Shape the Hands
-dek: The first thing a new tool builds is its user.
+dek: "The first thing a new tool builds is its user."
 number: 303.4
 sort_key: 0303.04
 date: 2025-10-12

@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Disagreement Is a Feature
-dek: Consensus too early is a smell.
+dek: "Consensus too early is a smell."
 number: 153.43
 sort_key: 0153.43
 date: 2025-03-09

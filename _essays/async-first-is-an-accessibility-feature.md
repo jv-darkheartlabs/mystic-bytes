@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Async-First Is an Accessibility Feature
-dek: Defaulting to async is how distributed teams stop punishing different nervous systems.
+dek: "Defaulting to async is how distributed teams stop punishing different nervous systems."
 number: 302.2
 sort_key: 0302.02
 date: 2026-03-29

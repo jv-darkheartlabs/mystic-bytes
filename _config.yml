@@ -16,6 +16,12 @@ collections:
   essays:
     output: true
     permalink: /p/:name/
+  journal:
+    output: true
+    permalink: /writing/journal/:name/
+  wellness:
+    output: true
+    permalink: /writing/wellness/:name/
   podcast:
     output: true
     permalink: /media/podcast/:name/
@@ -38,6 +44,16 @@ defaults:
       type: essays
     values:
       layout: essay
+  - scope:
+      path: ""
+      type: journal
+    values:
+      layout: journal
+  - scope:
+      path: ""
+      type: wellness
+    values:
+      layout: wellness
   - scope:
       path: ""
       type: podcast

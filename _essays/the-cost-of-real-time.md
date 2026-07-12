@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: The Cost of Real-Time
-dek: Sub-second is a different product.
+dek: "Sub-second is a different product."
 number: 005.276
 sort_key: 0005.276
 date: 2025-07-06

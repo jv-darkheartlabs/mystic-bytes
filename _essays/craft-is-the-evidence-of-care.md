@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Craft Is the Evidence of Care
-dek: Polish is what attention looks like when it stays.
+dek: "Polish is what attention looks like when it stays."
 number: 700.1
 sort_key: 0700.01
 date: 2025-04-27

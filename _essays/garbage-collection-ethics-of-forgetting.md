@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Garbage Collection and the Ethics of Forgetting
-dek: The garbage collector frees memory that is no longer reachable.
+dek: "The garbage collector frees memory that is no longer reachable."
 number: 005.43
 sort_key: 0005.43
 date: 2025-12-28

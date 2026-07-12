@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Resilience Is a Rehearsal
-dek: The plan you have not practiced is fiction.
+dek: "The plan you have not practiced is fiction."
 number: 363.34
 sort_key: 0363.34
 date: 2025-07-20

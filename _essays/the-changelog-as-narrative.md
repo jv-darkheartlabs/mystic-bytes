@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: The Changelog as Narrative
-dek: A changelog is the only history book some projects ever write.
+dek: "A changelog is the only history book some projects ever write."
 number: 005.8
 sort_key: 0005.08
 date: 2026-04-05

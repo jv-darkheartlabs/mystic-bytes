@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Systems Thinking Before Systems Thinking Was a Job
-dek: People have been thinking in systems since before the vocabulary existed.
+dek: "People have been thinking in systems since before the vocabulary existed."
 number: 003.0
 sort_key: 0003.00
 date: 2025-12-14

@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Migrations Are Confessions
-dek: Every schema change is a sentence about something the original author got wrong.
+dek: "Every schema change is a sentence about something the original author got wrong."
 number: 005.74
 sort_key: 0005.74
 date: 2026-06-21

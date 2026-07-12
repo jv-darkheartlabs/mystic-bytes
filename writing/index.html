@@ -1,0 +1,101 @@
+---
+layout: default
+title: "writing — essays, journal, wellness"
+eyebrow: "[writing]"
+permalink: /writing/
+redirect_from:
+  - /writing/index.html
+---
+
+{% assign essays = site.essays | where_exp: "e", "e.locked != true" | sort: "date" | reverse %}
+{% assign journal = site.journal | sort: "date" | reverse %}
+{% assign wellness = site.wellness | sort: "date" | reverse %}
+{% assign recent_essays = essays | slice: 0, 6 %}
+{% assign recent_journal = journal | slice: 0, 6 %}
+{% assign recent_wellness = wellness | slice: 0, 6 %}
+
+<div class="container media-written">
+  <header class="media-sub-header signal-header">
+    {% include signal-badge.html code="WRITING" %}
+    <p class="page-eyebrow">[writing]</p>
+    <h1 class="page-title">writing</h1>
+    <p class="media-sub-lede">
+      Technical essays, a nomad travel journal with Oceania field notes, and wellness for builders —
+      code, movement, and the craft of staying human behind the screen.
+    </p>
+  </header>
+
+  <section class="media-written-recent panel">
+    <h2 class="media-sub-section">&gt;_ technical essays</h2>
+    <p class="media-written-intro">Code, craft, ops, and the systems underneath.</p>
+    <div class="media-written-links">
+      <a class="btn-outline" href="{{ '/media/essays/' | relative_url }}">full archive →</a>
+      <a class="btn-outline" href="{{ '/feed.xml' | absolute_url }}">atom feed ↗</a>
+    </div>
+    <ul class="media-written-list">
+      {% for post in recent_essays %}
+      <li>
+        <a href="{{ post.url | relative_url }}">
+          {% if post.number %}<span class="media-written-list__num">{{ post.number }}</span>{% endif %}
+          <span class="media-written-list__title">{{ post.title }}</span>
+          <span class="media-written-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="media-written-more"><a href="{{ '/media/essays/' | relative_url }}">{{ essays.size }} essays →</a></p>
+  </section>
+
+  <section class="media-written-recent panel media-written-recent--analysis">
+    <h2 class="media-sub-section">&gt;_ travel journal</h2>
+    <p class="media-written-intro">Remote work on the road — logistics, gear, and Oceania from a builder's notebook.</p>
+    <div class="media-written-links">
+      <a class="btn-outline" href="{{ '/writing/journal/' | relative_url }}">full journal →</a>
+    </div>
+    <ul class="media-written-list">
+      {% for post in recent_journal %}
+      <li>
+        <a href="{{ post.url | relative_url }}">
+          <span class="media-written-list__title">{{ post.title }}</span>
+          <span class="media-written-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </a>
+      </li>
+      {% endfor %}
+      {% if recent_journal.size == 0 %}
+      <li><span class="media-written-list__title">Journal entries publishing with Phase 3.</span></li>
+      {% endif %}
+    </ul>
+    <p class="media-written-more"><a href="{{ '/writing/journal/' | relative_url }}">{{ journal.size }} entries →</a></p>
+  </section>
+
+  <section class="media-written-recent panel media-written-recent--verse">
+    <h2 class="media-sub-section">&gt;_ wellness</h2>
+    <p class="media-written-intro">Aromatherapy and sensory recovery for people who live in terminals and time zones.</p>
+    <div class="media-written-links">
+      <a class="btn-outline" href="{{ '/writing/wellness/' | relative_url }}">full archive →</a>
+    </div>
+    <ul class="media-written-list">
+      {% for post in recent_wellness %}
+      <li>
+        <a href="{{ post.url | relative_url }}">
+          <span class="media-written-list__title">{{ post.title }}</span>
+          <span class="media-written-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </a>
+      </li>
+      {% endfor %}
+      {% if recent_wellness.size == 0 %}
+      <li><span class="media-written-list__title">Wellness posts publishing with Phase 4.</span></li>
+      {% endif %}
+    </ul>
+    <p class="media-written-more"><a href="{{ '/writing/wellness/' | relative_url }}">{{ wellness.size }} posts →</a></p>
+  </section>
+
+  <aside class="media-crosslink panel">
+    <p class="media-crosslink__label">related shelves</p>
+    <ul>
+      <li><a href="{{ '/media/written/' | relative_url }}">literary analysis &amp; verse</a></li>
+      <li><a href="{{ '/media/podcast/' | relative_url }}">podcast</a></li>
+      <li><a href="{{ '/projects/' | relative_url }}">projects</a></li>
+    </ul>
+  </aside>
+</div>

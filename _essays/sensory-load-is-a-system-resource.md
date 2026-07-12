@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Sensory Load Is a System Resource
-dek: Treat the nervous system like the constrained machine it is.
+dek: "Treat the nervous system like the constrained machine it is."
 number: 152.4
 sort_key: 0152.04
 date: 2026-05-10

@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<article class="essay essay--wellness">
+  <div class="essay-inner">
+    <a class="essay-back" href="{{ '/writing/wellness/' | relative_url }}">← wellness</a>
+
+    <header class="essay-header signal-header">
+      {% include signal-badge.html code="WELLNESS" %}
+      <div class="essay-meta">
+        {% if page.date %}
+        <span class="essay-date">{{ page.date | date: "%b %-d, %Y" }}</span>
+        {% endif %}
+        {% if page.read_time %}
+        <span class="essay-badge essay-badge--micro">{{ page.read_time }} min read</span>
+        {% endif %}
+      </div>
+
+      <h1 class="essay-title">{{ page.title }}</h1>
+      {% if page.dek %}
+      <p class="essay-dek">{{ page.dek }}</p>
+      {% endif %}
+    </header>
+
+    {% if page.cover %}
+    <figure class="essay-cover">
+      <img src="{{ page.cover | relative_url }}" alt="" loading="lazy" width="1280" height="720">
+    </figure>
+    {% endif %}
+
+    <div class="prose essay-body" data-pagefind-body>
+      {{ content }}
+    </div>
+
+    <aside class="essay-disclaimer panel">
+      <p><em>Essential oils may support wellbeing; they are not a substitute for medical care. Patch-test diluted oils and consult a qualified practitioner before use, especially if you are pregnant, nursing, or managing a health condition.</em></p>
+    </aside>
+
+    <footer class="essay-closing">
+      <span>— JV · Dark Heart Labs.</span>
+    </footer>
+  </div>
+</article>

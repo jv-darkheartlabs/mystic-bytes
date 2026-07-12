@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Attention Is a Resource With a Depletion Curve
-dek: Attention degrades over the course of the day.
+dek: "Attention degrades over the course of the day."
 number: 152.1
 sort_key: 0152.01
 date: 2026-02-22

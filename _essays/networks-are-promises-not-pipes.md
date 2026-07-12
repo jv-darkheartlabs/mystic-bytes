@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: "Networks Are Promises, Not Pipes"
-dek: The wire makes no guarantees the protocol did not request.
+dek: "The wire makes no guarantees the protocol did not request."
 number: 004.65
 sort_key: 0004.65
 date: 2025-11-23

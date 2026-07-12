@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Prioritization Is Violence
-dek: Every yes is a no to a dozen possibilities.
+dek: "Every yes is a no to a dozen possibilities."
 number: 658.402
 sort_key: 0658.402
 date: 2025-02-16

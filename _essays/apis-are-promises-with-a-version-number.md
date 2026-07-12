@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: APIs Are Promises With a Version Number
-dek: The endpoint is a contract someone has to keep for years.
+dek: "The endpoint is a contract someone has to keep for years."
 number: 004.692
 sort_key: 0004.692
 date: 2024-12-01

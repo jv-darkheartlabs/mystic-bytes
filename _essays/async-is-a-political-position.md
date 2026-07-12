@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Async Is a Political Position
-dek: The meeting protects the loudest person in the room.
+dek: "The meeting protects the loudest person in the room."
 number: 658.45
 sort_key: 0658.45
 date: 2025-03-02

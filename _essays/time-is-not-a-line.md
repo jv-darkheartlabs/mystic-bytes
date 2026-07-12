@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Time Is Not a Line
-dek: Causality is the only ordering distributed systems agree on.
+dek: "Causality is the only ordering distributed systems agree on."
 number: 530.11
 sort_key: 0530.11
 date: 2025-08-03
