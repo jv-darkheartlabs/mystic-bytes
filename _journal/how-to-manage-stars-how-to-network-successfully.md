@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Manage Stars- How to Network Successfully
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2025-10-08
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-manage-stars-how-to-network-successfully/
+  - /media/written/journal/how-to-manage-stars-how-to-network-successfully/
+  - /media/written/journal/travel/how-to-manage-stars-how-to-network-successfully/
+number: 910.68
+sort_key: 0910.68
+cover: /assets/images/cover-archive.svg
 ---
 
 Community on the road is maintained, not discovered. You build it in DMs, coworking days, and showing up consistently — not in one viral post.

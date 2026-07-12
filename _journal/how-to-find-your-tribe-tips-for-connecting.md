@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Find Your Tribe- Tips for Connecting
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2021-11-03
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-find-your-tribe-tips-for-connecting/
+  - /media/written/journal/how-to-find-your-tribe-tips-for-connecting/
+  - /media/written/journal/travel/how-to-find-your-tribe-tips-for-connecting/
+number: 910.34
+sort_key: 0910.34
+cover: /assets/images/cover-archive.svg
 ---
 
 Community on the road is maintained, not discovered. You build it in DMs, coworking days, and showing up consistently — not in one viral post.

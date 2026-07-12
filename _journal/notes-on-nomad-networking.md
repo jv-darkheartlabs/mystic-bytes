@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: Notes on Nomad Networking
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2023-07-11
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/notes-on-nomad-networking/
+  - /media/written/journal/notes-on-nomad-networking/
+  - /media/written/journal/travel/notes-on-nomad-networking/
+number: 910.49
+sort_key: 0910.49
+cover: /assets/images/cover-archive.svg
 ---
 
 Community on the road is maintained, not discovered. You build it in DMs, coworking days, and showing up consistently — not in one viral post.

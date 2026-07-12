@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Mountain Savory Oil for Afternoon Slumps
 dek: "Sharp herb for people who tolerate strong scents."
 date: 2024-01-12
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/mountain-savory-oil-for-afternoon-slumps/
+  - /media/written/wellness/mountain-savory-oil-for-afternoon-slumps/
+  - /media/written/journal/wellness/mountain-savory-oil-for-afternoon-slumps/
+number: 615.23
+sort_key: 0615.23
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

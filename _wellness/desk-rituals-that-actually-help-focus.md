@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Desk Rituals That Actually Help Focus
 dek: "Ritual beats gadget when the ritual is repeatable."
 date: 2025-05-06
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/desk-rituals-that-actually-help-focus/
+  - /media/written/wellness/desk-rituals-that-actually-help-focus/
+  - /media/written/journal/wellness/desk-rituals-that-actually-help-focus/
+number: 615.31
+sort_key: 0615.31
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

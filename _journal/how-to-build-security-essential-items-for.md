@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Build Security- Essential Items for
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2018-12-03
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-build-security-essential-items-for/
+  - /media/written/journal/how-to-build-security-essential-items-for/
+  - /media/written/journal/travel/how-to-build-security-essential-items-for/
+number: 910.08
+sort_key: 0910.08
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

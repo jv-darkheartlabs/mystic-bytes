@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Build a Flexible Work Schedule While
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2018-09-12
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-build-a-flexible-work-schedule-while/
+  - /media/written/journal/how-to-build-a-flexible-work-schedule-while/
+  - /media/written/journal/travel/how-to-build-a-flexible-work-schedule-while/
+number: 910.06
+sort_key: 0910.06
+cover: /assets/images/cover-archive.svg
 ---
 
 Remote work on the road is calendar math plus honest boundaries. The view does not replace standups, async updates, or sleep.

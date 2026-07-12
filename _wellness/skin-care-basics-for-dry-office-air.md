@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Skin Care Basics for Dry Office Air
 dek: "Humidity, cleanser choice, and stopping the pick-refactor cycle on your face."
 date: 2020-06-01
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/skin-care-basics-for-dry-office-air/
+  - /media/written/wellness/skin-care-basics-for-dry-office-air/
+  - /media/written/journal/wellness/skin-care-basics-for-dry-office-air/
+number: 615.01
+sort_key: 0615.01
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

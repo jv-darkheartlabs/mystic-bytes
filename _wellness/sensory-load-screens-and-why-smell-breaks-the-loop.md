@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Sensory Load, Screens, and Why Smell Breaks the Loop
 dek: "Olfaction is the sense that bypasses the same fatigue as pixels."
 date: 2022-03-23
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/sensory-load-screens-and-why-smell-breaks-the-loop/
+  - /media/written/wellness/sensory-load-screens-and-why-smell-breaks-the-loop/
+  - /media/written/journal/wellness/sensory-load-screens-and-why-smell-breaks-the-loop/
+number: 615.12
+sort_key: 0615.12
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

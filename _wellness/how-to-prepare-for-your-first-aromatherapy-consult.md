@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: How to Prepare for Your First Aromatherapy Consult
 dek: "Bring your medication list and honest expectations."
 date: 2021-01-27
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/how-to-prepare-for-your-first-aromatherapy-consult/
+  - /media/written/wellness/how-to-prepare-for-your-first-aromatherapy-consult/
+  - /media/written/journal/wellness/how-to-prepare-for-your-first-aromatherapy-consult/
+number: 615.05
+sort_key: 0615.05
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Find Affordable Bases in Oceania Without Sacrificing Uptime
 dek: "Cheap rent that drops calls is not cheap — it is expensive with a discount label."
 date: 2019-08-06
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel', 'oceania']
 redirect_from:
   - /writing/journal/how-to-find-affordable-bases-in-oceania-without-sacrificing-uptime/
+  - /media/written/journal/how-to-find-affordable-bases-in-oceania-without-sacrificing-uptime/
+  - /media/written/journal/travel/how-to-find-affordable-bases-in-oceania-without-sacrificing-uptime/
+number: 910.14
+sort_key: 0910.14
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

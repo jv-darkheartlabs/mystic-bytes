@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: Notes on Unveiling the Art of Staying Motivated-1
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2025-06-07
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/notes-on-unveiling-the-art-of-staying-motivated-1/
+  - /media/written/journal/notes-on-unveiling-the-art-of-staying-motivated-1/
+  - /media/written/journal/travel/notes-on-unveiling-the-art-of-staying-motivated-1/
+number: 910.65
+sort_key: 0910.65
+cover: /assets/images/cover-archive.svg
 ---
 
 Community on the road is maintained, not discovered. You build it in DMs, coworking days, and showing up consistently — not in one viral post.

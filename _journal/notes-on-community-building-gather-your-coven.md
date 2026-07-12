@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: Notes on Community Building- Gather Your Coven
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2018-08-02
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/notes-on-community-building-gather-your-coven/
+  - /media/written/journal/notes-on-community-building-gather-your-coven/
+  - /media/written/journal/travel/notes-on-community-building-gather-your-coven/
+number: 910.05
+sort_key: 0910.05
+cover: /assets/images/cover-archive.svg
 ---
 
 Community on the road is maintained, not discovered. You build it in DMs, coworking days, and showing up consistently — not in one viral post.

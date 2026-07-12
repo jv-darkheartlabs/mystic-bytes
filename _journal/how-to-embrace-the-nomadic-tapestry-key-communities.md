@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Embrace the Nomadic Tapestry- Key Communities
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2020-06-29
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-embrace-the-nomadic-tapestry-key-communities/
+  - /media/written/journal/how-to-embrace-the-nomadic-tapestry-key-communities/
+  - /media/written/journal/travel/how-to-embrace-the-nomadic-tapestry-key-communities/
+number: 910.22
+sort_key: 0910.22
+cover: /assets/images/cover-archive.svg
 ---
 
 Community on the road is maintained, not discovered. You build it in DMs, coworking days, and showing up consistently — not in one viral post.

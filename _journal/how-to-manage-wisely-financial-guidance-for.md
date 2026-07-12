@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Manage Wisely- Financial Guidance for
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2026-02-08
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-manage-wisely-financial-guidance-for/
+  - /media/written/journal/how-to-manage-wisely-financial-guidance-for/
+  - /media/written/journal/travel/how-to-manage-wisely-financial-guidance-for/
+number: 910.71
+sort_key: 0910.71
+cover: /assets/images/cover-archive.svg
 ---
 
 Travel planning for nomads is risk management with a carry-on. Insurance, visas, and power adapters are boring until they are the only thing that matters.

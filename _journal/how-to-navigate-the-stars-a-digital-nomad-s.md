@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Navigate the Stars- A Digital Nomad's
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2023-04-20
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-navigate-the-stars-a-digital-nomad-s/
+  - /media/written/journal/how-to-navigate-the-stars-a-digital-nomad-s/
+  - /media/written/journal/travel/how-to-navigate-the-stars-a-digital-nomad-s/
+number: 910.47
+sort_key: 0910.47
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

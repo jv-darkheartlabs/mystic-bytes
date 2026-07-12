@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Facial Care as Recovery Ritual After Travel
 dek: "Rehydrate, calm, sleep — in that order."
 date: 2022-05-22
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/facial-care-as-recovery-ritual-after-travel/
+  - /media/written/wellness/facial-care-as-recovery-ritual-after-travel/
+  - /media/written/journal/wellness/facial-care-as-recovery-ritual-after-travel/
+number: 615.13
+sort_key: 0615.13
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

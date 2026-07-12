@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Book Short-Term Stays That Do Not Break Your Sprint
 dek: "A pretty listing with 8 Mbps upload is a scope risk."
 date: 2021-05-23
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel', 'oceania']
 redirect_from:
   - /writing/journal/how-to-book-short-term-stays-that-do-not-break-your-sprint/
+  - /media/written/journal/how-to-book-short-term-stays-that-do-not-break-your-sprint/
+  - /media/written/journal/travel/how-to-book-short-term-stays-that-do-not-break-your-sprint/
+number: 910.30
+sort_key: 0910.30
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

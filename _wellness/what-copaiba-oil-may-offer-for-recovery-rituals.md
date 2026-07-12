@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: What Copaiba Oil May Offer for Recovery Rituals
 dek: "Soft resin note — often blended, rarely solo."
 date: 2021-11-23
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/what-copaiba-oil-may-offer-for-recovery-rituals/
+  - /media/written/wellness/what-copaiba-oil-may-offer-for-recovery-rituals/
+  - /media/written/journal/wellness/what-copaiba-oil-may-offer-for-recovery-rituals/
+number: 615.10
+sort_key: 0615.10
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

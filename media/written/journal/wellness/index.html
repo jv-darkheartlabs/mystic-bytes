@@ -1,32 +1,36 @@
 ---
 layout: default
 title: "wellness — ls -la /wellness"
-eyebrow: "[media/written/wellness]"
-permalink: /media/written/wellness/
+eyebrow: "[media/written/journal/wellness]"
+permalink: /media/written/journal/wellness/
 redirect_from:
+  - /media/written/wellness/
+  - /media/written/wellness/index.html
   - /writing/wellness/
   - /writing/wellness/index.html
 ---
 
-{% assign sorted = site.wellness | sort: "date" | reverse %}
+{% assign sorted = site.wellness | sort: "sort_key" | reverse %}
 
 <div class="container">
 <header class="archive-header signal-header">
-  <a class="essay-back" href="{{ '/media/written/' | relative_url }}">← /media/written</a>
+  <a class="essay-back" href="{{ '/media/written/journal/' | relative_url }}">← journal</a>
   {% include signal-badge.html code="WELLNESS" %}
   <p class="page-eyebrow">[wellness]</p>
   <h1 class="page-title">ls -la /wellness</h1>
-  <p class="archive-count">{{ sorted.size }} posts. Aromatherapy and sensory recovery for builders — practical, not prescriptive.</p>
+  <p class="archive-count">{{ sorted.size }} entries. Sorted by signal number, descending. Aromatherapy and sensory recovery for builders — practical, not prescriptive.</p>
 </header>
 
 <div class="archive-table panel">
   <div class="archive-table__head">
+    <span>№</span>
     <span>date</span>
     <span>title / dek</span>
     <span>read</span>
   </div>
   {% for post in sorted %}
   <a class="archive-row" href="{{ post.url | relative_url }}">
+    <span class="archive-row__num">{{ post.number }}</span>
     <span class="archive-row__date">{{ post.date | date: "%b %-d, %Y" }}</span>
     <span class="archive-row__body">
       <strong>{{ post.title }}</strong>

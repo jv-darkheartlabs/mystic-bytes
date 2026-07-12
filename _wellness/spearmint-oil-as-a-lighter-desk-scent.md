@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Spearmint Oil as a Lighter Desk Scent
 dek: "Milder than peppermint for people who want cool notes without the intensity."
 date: 2025-01-06
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/spearmint-oil-as-a-lighter-desk-scent/
+  - /media/written/wellness/spearmint-oil-as-a-lighter-desk-scent/
+  - /media/written/journal/wellness/spearmint-oil-as-a-lighter-desk-scent/
+number: 615.29
+sort_key: 0615.29
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

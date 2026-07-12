@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Embrace the Clock- Navigating Time Zone
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2020-01-17
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-embrace-the-clock-navigating-time-zone/
+  - /media/written/journal/how-to-embrace-the-clock-navigating-time-zone/
+  - /media/written/journal/travel/how-to-embrace-the-clock-navigating-time-zone/
+number: 910.18
+sort_key: 0910.18
+cover: /assets/images/cover-archive.svg
 ---
 
 Remote work on the road is calendar math plus honest boundaries. The view does not replace standups, async updates, or sleep.

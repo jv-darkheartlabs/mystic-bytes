@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Secure Devices and Accounts on Public Wi-Fi
 dek: "Assume café networks are hostile — VPN, HTTPS, and disk encryption are baseline."
 date: 2024-04-23
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-secure-devices-and-accounts-on-public-wi-fi/
+  - /media/written/journal/how-to-secure-devices-and-accounts-on-public-wi-fi/
+  - /media/written/journal/travel/how-to-secure-devices-and-accounts-on-public-wi-fi/
+number: 910.56
+sort_key: 0910.56
+cover: /assets/images/cover-archive.svg
 ---
 
 Gear for a tech nomad is not aesthetic — it is uptime. If the adapter fails or the bag wrecks your shoulder, the sprint fails with it.

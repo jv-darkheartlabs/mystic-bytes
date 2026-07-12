@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Ginger Oil for Nausea and Motion — What to Know
 dek: "Ginger is better studied as food; oil use is secondary and cautious."
 date: 2023-01-17
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/ginger-oil-for-nausea-and-motion-what-to-know/
+  - /media/written/wellness/ginger-oil-for-nausea-and-motion-what-to-know/
+  - /media/written/journal/wellness/ginger-oil-for-nausea-and-motion-what-to-know/
+number: 615.17
+sort_key: 0615.17
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

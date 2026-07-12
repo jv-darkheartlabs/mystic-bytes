@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Bay Laurel Oil for Focus Sessions
 dek: "Herbal, slightly camphoraceous — use in low concentration."
 date: 2023-05-17
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/bay-laurel-oil-for-focus-sessions/
+  - /media/written/wellness/bay-laurel-oil-for-focus-sessions/
+  - /media/written/journal/wellness/bay-laurel-oil-for-focus-sessions/
+number: 615.19
+sort_key: 0615.19
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: A Seasonal Guide to Working Remotely in Oceania
 dek: "Southern hemisphere seasons change the calculus for connectivity, cost, and daylight."
 date: 2024-06-03
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel', 'oceania']
 redirect_from:
   - /writing/journal/a-seasonal-guide-to-working-remotely-in-oceania/
+  - /media/written/journal/a-seasonal-guide-to-working-remotely-in-oceania/
+  - /media/written/journal/travel/a-seasonal-guide-to-working-remotely-in-oceania/
+number: 910.57
+sort_key: 0910.57
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

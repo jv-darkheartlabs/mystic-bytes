@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Fennel Oil for Travel and Digestive Comfort
 dek: "May ease mild digestive discomfort for some — not medical treatment."
 date: 2022-07-21
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/fennel-oil-for-travel-and-digestive-comfort/
+  - /media/written/wellness/fennel-oil-for-travel-and-digestive-comfort/
+  - /media/written/journal/wellness/fennel-oil-for-travel-and-digestive-comfort/
+number: 615.14
+sort_key: 0615.14
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

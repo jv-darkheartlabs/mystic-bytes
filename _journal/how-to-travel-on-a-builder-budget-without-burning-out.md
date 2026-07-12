@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Travel on a Builder Budget Without Burning Out
 dek: "Frugal nomadism fails when you optimize rent but destroy sleep and throughput."
 date: 2026-03-21
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel', 'oceania']
 redirect_from:
   - /writing/journal/how-to-travel-on-a-builder-budget-without-burning-out/
+  - /media/written/journal/how-to-travel-on-a-builder-budget-without-burning-out/
+  - /media/written/journal/travel/how-to-travel-on-a-builder-budget-without-burning-out/
+number: 910.72
+sort_key: 0910.72
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

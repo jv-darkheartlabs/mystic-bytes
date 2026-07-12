@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: How Lavender May Support Sleep Across Time Zones
 dek: "A familiar scent can cue rest when your calendar still thinks it is afternoon elsewhere."
 date: 2023-07-16
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/how-lavender-may-support-sleep-across-time-zones/
+  - /media/written/wellness/how-lavender-may-support-sleep-across-time-zones/
+  - /media/written/journal/wellness/how-lavender-may-support-sleep-across-time-zones/
+number: 615.20
+sort_key: 0615.20
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

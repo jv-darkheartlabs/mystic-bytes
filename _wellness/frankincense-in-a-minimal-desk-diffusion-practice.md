@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Frankincense in a Minimal Desk Diffusion Practice
 dek: "Resinous, slow scent for end-of-day transition."
 date: 2022-11-18
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/frankincense-in-a-minimal-desk-diffusion-practice/
+  - /media/written/wellness/frankincense-in-a-minimal-desk-diffusion-practice/
+  - /media/written/journal/wellness/frankincense-in-a-minimal-desk-diffusion-practice/
+number: 615.16
+sort_key: 0615.16
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

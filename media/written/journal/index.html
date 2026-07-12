@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "travel journal — ls -la /journal"
+title: "journal — technical essays, travel, wellness"
 eyebrow: "[media/written/journal]"
 permalink: /media/written/journal/
 redirect_from:
@@ -8,32 +8,40 @@ redirect_from:
   - /writing/journal/index.html
 ---
 
-{% assign sorted = site.journal | sort: "date" | reverse %}
+{% assign essays = site.essays | where_exp: "e", "e.locked != true" %}
+{% assign travel = site.journal %}
+{% assign wellness = site.wellness %}
 
-<div class="container">
-<header class="archive-header signal-header">
-  <a class="essay-back" href="{{ '/media/written/' | relative_url }}">← /media/written</a>
-  {% include signal-badge.html code="JOURNAL" %}
-  <p class="page-eyebrow">[journal]</p>
-  <h1 class="page-title">ls -la /journal</h1>
-  <p class="archive-count">{{ sorted.size }} entries. A tech nomad notebook — remote work, gear, and Oceania field notes.</p>
-</header>
+<div class="container media-page">
+  <header class="media-sub-header signal-header">
+    <a class="essay-back" href="{{ '/media/written/' | relative_url }}">← written</a>
+    {% include signal-badge.html code="JOURNAL" %}
+    <p class="page-eyebrow">[journal]</p>
+    <h1 class="page-title">journal</h1>
+    <p class="media-sub-lede">
+      Technical essays, nomad travel notes, and wellness for people who live in terminals —
+      Dewey-numbered signal from Dark Heart Labs.
+    </p>
+  </header>
 
-<div class="archive-table panel">
-  <div class="archive-table__head">
-    <span>date</span>
-    <span>title / dek</span>
-    <span>read</span>
+  <div class="media-hub-grid">
+    <a class="media-hub-card panel" href="{{ '/media/written/journal/essays/' | relative_url }}">
+      {% include section-label.html num="00" title="essays" badge="JOURNAL" %}
+      <h2>technical essays</h2>
+      <p>{{ essays.size }} entries. Code, craft, ops, and systems thinking.</p>
+      <span class="media-hub-card__cta">ls -la /essays →</span>
+    </a>
+    <a class="media-hub-card panel" href="{{ '/media/written/journal/travel/' | relative_url }}">
+      {% include section-label.html num="01" title="travel" badge="JOURNAL" %}
+      <h2>travel</h2>
+      <p>{{ travel.size }} entries. Remote work, gear, Oceania field notes.</p>
+      <span class="media-hub-card__cta">ls -la /travel →</span>
+    </a>
+    <a class="media-hub-card panel" href="{{ '/media/written/journal/wellness/' | relative_url }}">
+      {% include section-label.html num="02" title="wellness" badge="JOURNAL" %}
+      <h2>wellness</h2>
+      <p>{{ wellness.size }} entries. Aromatherapy and sensory recovery.</p>
+      <span class="media-hub-card__cta">ls -la /wellness →</span>
+    </a>
   </div>
-  {% for post in sorted %}
-  <a class="archive-row" href="{{ post.url | relative_url }}">
-    <span class="archive-row__date">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <span class="archive-row__body">
-      <strong>{{ post.title }}</strong>
-      {% if post.dek %}<span class="archive-row__dek">{{ post.dek }}</span>{% endif %}
-    </span>
-    <span class="archive-row__cta">{% if post.read_time %}{{ post.read_time }} min{% else %}open →{% endif %}</span>
-  </a>
-  {% endfor %}
-</div>
 </div>

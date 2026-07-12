@@ -18,10 +18,10 @@ collections:
     permalink: /p/:name/
   journal:
     output: true
-    permalink: /media/written/journal/:name/
+    permalink: /media/written/journal/travel/:name/
   wellness:
     output: true
-    permalink: /media/written/wellness/:name/
+    permalink: /media/written/journal/wellness/:name/
   podcast:
     output: true
     permalink: /media/podcast/:name/
@@ -48,12 +48,22 @@ defaults:
       path: ""
       type: journal
     values:
-      layout: journal
+      layout: essay
+      shelf: travel
+      signal_code: JOURNAL
+      shelf_archive: /media/written/journal/travel/
+      shelf_label: travel journal
+      trace_label: journal
   - scope:
       path: ""
       type: wellness
     values:
-      layout: wellness
+      layout: essay
+      shelf: wellness
+      signal_code: WELLNESS
+      shelf_archive: /media/written/journal/wellness/
+      shelf_label: wellness
+      trace_label: wellness
   - scope:
       path: ""
       type: podcast

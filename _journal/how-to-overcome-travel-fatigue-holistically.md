@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Overcome Travel Fatigue Holistically
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2023-12-22
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-overcome-travel-fatigue-holistically/
+  - /media/written/journal/how-to-overcome-travel-fatigue-holistically/
+  - /media/written/journal/travel/how-to-overcome-travel-fatigue-holistically/
+number: 910.53
+sort_key: 0910.53
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

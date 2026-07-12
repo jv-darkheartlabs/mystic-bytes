@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: Notes on Customize GPT
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2019-04-05
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/notes-on-customize-gpt/
+  - /media/written/journal/notes-on-customize-gpt/
+  - /media/written/journal/travel/notes-on-customize-gpt/
+number: 910.11
+sort_key: 0910.11
+cover: /assets/images/cover-archive.svg
 ---
 
 Remote work on the road is calendar math plus honest boundaries. The view does not replace standups, async updates, or sleep.

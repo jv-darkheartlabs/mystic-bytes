@@ -2,14 +2,19 @@
 layout: default
 ---
 
-<article class="essay{% if page.type == 'pillar' %} essay--pillar{% endif %}"{% if page.locked %} data-pagefind-ignore="all"{% endif %}>
+<article class="essay{% if page.type == 'pillar' %} essay--pillar{% endif %}{% if page.shelf %} essay--{{ page.shelf }}{% endif %}"{% if page.locked %} data-pagefind-ignore="all"{% endif %}>
   <div class="essay-inner">
-    <a class="essay-back" href="{{ '/media/essays/' | relative_url }}">← technical essays</a>
+    {% assign shelf_archive = page.shelf_archive | default: '/media/written/journal/essays/' %}
+    {% assign shelf_label = page.shelf_label | default: 'technical essays' %}
+    <a class="essay-back" href="{{ shelf_archive | relative_url }}">← {{ shelf_label }}</a>
 
     <header class="essay-header signal-header">
-      {% include signal-badge.html code="ESSAY" %}
+      {% assign signal_code = page.signal_code | default: 'ESSAY' %}
+      {% include signal-badge.html code=signal_code %}
       <div class="essay-meta">
+        {% if page.number %}
         <span class="essay-signal">signal_№_{{ page.number }}</span>
+        {% endif %}
         {% if page.date %}
         <span class="essay-date">{{ page.date | date: "%b %-d, %Y" }}</span>
         {% endif %}
@@ -48,10 +53,17 @@ layout: default
       <p>This essay is reserved for patrons. It appears in the archive index; the body stays sealed until access is granted.</p>
     </div>
     {% else %}
-    <p class="essay-trace-label">[ essay ]</p>
+    {% assign trace_label = page.trace_label | default: 'essay' %}
+    <p class="essay-trace-label">[ {{ trace_label }} ]</p>
     <div class="prose essay-body" data-pagefind-body>
       {{ content }}
     </div>
+    {% endif %}
+
+    {% if page.shelf == 'wellness' %}
+    <aside class="essay-disclaimer panel">
+      <p><em>Essential oils may support wellbeing; they are not a substitute for medical care. Patch-test diluted oils and consult a qualified practitioner before use, especially if you are pregnant, nursing, or managing a health condition.</em></p>
+    </aside>
     {% endif %}
 
     {% include essay-nav.html %}
