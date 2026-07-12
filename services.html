@@ -1,0 +1,94 @@
+---
+layout: default
+title: "services — what ships on commission"
+eyebrow: "[services]"
+permalink: /services/
+---
+
+{% assign s = site.data.services %}
+
+<div class="container services-page about-page">
+  <header class="services-header signal-header">
+    {% include signal-badge.html code="SVC" %}
+    <p class="page-eyebrow">[services]</p>
+    <h1 class="page-title">what ships on commission</h1>
+    <p class="page-subtitle">{{ s.tagline }}</p>
+    <p class="about-bio">{{ s.lede }}</p>
+  </header>
+
+  <section class="about-specs panel">
+    {% for spec in s.specs %}
+    <div class="about-spec">
+      <span class="about-spec__label">{{ spec.label }}</span>
+      {% if spec.label == 'employment' %}
+      <span class="about-spec__value"><a href="{{ '/cv/' | relative_url }}">{{ spec.value }}</a></span>
+      {% else %}
+      <span class="about-spec__value">{{ spec.value }}</span>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </section>
+
+  <section class="services-rules">
+    {% include section-label.html num="—" title="engagement rules" badge="SVC" %}
+    <div class="tenets-grid tenets-grid--rules">
+      {% for rule in s.rules %}
+      <article class="tenet-card panel">
+        <p class="tenet-card__line">{{ rule }}</p>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  {% for realm in s.realms %}
+  <section class="services-realm">
+    {% include section-label.html num=realm.section_num title=realm.title badge=realm.badge %}
+    <p class="services-realm__summary">{{ realm.summary }}</p>
+    {% if realm.proof.size > 0 %}
+    <p class="services-proof">
+      {% for link in realm.proof %}
+      <a href="{% if link.href contains 'http' %}{{ link.href }}{% else %}{{ link.href | relative_url }}{% endif %}"{% if link.href contains 'http' %} target="_blank" rel="noreferrer"{% endif %}>{{ link.label }} ↗</a>{% unless forloop.last %} · {% endunless %}
+      {% endfor %}
+    </p>
+    {% endif %}
+    <div class="services-packages">
+      {% for pkg in realm.packages %}
+      <article class="service-package panel">
+        <header class="service-package__head">
+          <h2 class="service-package__name">{{ pkg.name }}</h2>
+          <p class="service-package__price">{{ pkg.price }}</p>
+          <p class="service-package__timeline">{{ pkg.timeline }}</p>
+        </header>
+        <div class="service-package__body">
+          <p class="service-package__label">includes</p>
+          <ul class="service-package__list">
+            {% for item in pkg.includes %}
+            <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+          <p class="service-package__label">excludes</p>
+          <ul class="service-package__list service-package__list--muted">
+            {% for item in pkg.excludes %}
+            <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+
+  <section class="services-aside panel">
+    <h2 class="services-aside__title">&gt;_ {{ s.open_source.title }}</h2>
+    <p>{{ s.open_source.blurb }}</p>
+    <h2 class="services-aside__title">&gt;_ literary commission</h2>
+    <p>{{ s.literary_commission.blurb }}</p>
+  </section>
+
+  <section class="services-cta panel">
+    <p class="services-cta__label">{{ s.cta.label }}</p>
+    <p class="services-cta__note">{{ s.cta.note }}</p>
+    <a class="btn-outline" href="{{ s.cta.href | relative_url }}">send a raven →</a>
+  </section>
+</div>

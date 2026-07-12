@@ -1,0 +1,153 @@
+tagline: "contract work · fixed packages · no equity-only"
+lede: "Twenty-five years shipping Apple-platform software, developer-facing writing, and original music. Remote-only. Packages below; custom briefs welcome when the fit is right."
+
+specs:
+  - label: hourly_rate
+    value: "$120 USD · 4–8 hour minimum block"
+  - label: retainer
+    value: "80 hours / month · $9,600 USD"
+  - label: payment
+    value: "PayPal · Wise · AUD/NZD at mid-market rate"
+  - label: engagement
+    value: "Remote only · async-first"
+  - label: employment
+    value: "Full-time / sponsored roles → see CV"
+  - label: availability
+    value: "Open for new clients"
+
+rules:
+  - "Nothing unpaid — spec work and ‘exposure’ are declined."
+  - "Rush timelines billed at 2× for inconvenience."
+  - "No equity-only engagements."
+  - "No CMS builds, finance products, or medical software."
+  - "Human approval on what ships — AI assists; you lead."
+
+realms:
+  - id: technology
+    title: technology
+    badge: TECH
+    section_num: "00"
+    summary: "iOS/macOS · AI integration · accessibility · Rails/web · devops · technical documentation"
+    proof:
+      - label: NeuroShell
+        href: "https://github.com/jv-darkheartlabs/NeuroShell"
+      - label: accessibility-rails-components
+        href: "https://github.com/jv-darkheartlabs/accessibility-rails-components"
+    packages:
+      - name: Accessibility Audit
+        price: "$1,800 USD"
+        timeline: "Typically 5–10 business days"
+        includes:
+          - "WCAG 2.1 AA review of one app surface or web property"
+          - "Written findings report with severity and fix order"
+          - "Top-priority remediation notes — not a checkbox PDF"
+        excludes:
+          - "Full implementation (available as sprint or retainer)"
+      - name: Build Sprint
+        price: "$5,400 USD"
+        timeline: "40 focused hours · ~1 week calendar"
+        includes:
+          - "One scoped slice — feature, integration, or doc pass"
+          - "README-scale web work, AI/MCP wiring, or a11y fixes"
+          - "Handoff notes and one revision round on deliverables"
+        excludes:
+          - "Open-ended backlog without a written scope"
+      - name: Engineering Retainer
+        price: "$9,600 USD / month"
+        timeline: "80 hours · monthly cadence"
+        includes:
+          - "Sustained IC work across your stack"
+          - "Code review, docs, CI/devops, and accessibility hardening"
+          - "Async standups — no meeting theatre"
+        excludes:
+          - "On-site work · CMS · finance · medical"
+
+  - id: written
+    title: written
+    badge: WRITE
+    section_num: "01"
+    summary: "Ghostwritten technical essays · developer docs · personalized gift verse"
+    proof:
+      - label: journal essays
+        href: "/media/written/journal/essays/"
+      - label: sample verse
+        href: "/media/written/literary/verse/"
+    packages:
+      - name: Tech Essay
+        price: "$950 USD"
+        timeline: "Typically 7–10 business days"
+        includes:
+          - "~1,500 words · ghostwritten under your byline"
+          - "Descriptive title, dek, and one revision round"
+          - "Developer thought-leadership tone — not SEO sludge"
+        excludes:
+          - "Ongoing editorial retainer (ask for custom brief)"
+      - name: Doc Site
+        price: "$3,800 USD"
+        timeline: "Typically 2–3 weeks"
+        includes:
+          - "README + landing page copy"
+          - "Doc site skeleton — up to 8 pages"
+          - "Developer-facing structure and navigation labels"
+        excludes:
+          - "CMS setup · ongoing content ops"
+      - name: Gift Verse
+        price: "$250 USD"
+        timeline: "Typically 5–7 business days"
+        includes:
+          - "Personalized acrostic poem for a dedicated recipient"
+          - "Short Q&A to capture names, memories, and tone"
+          - "One revision round"
+        excludes:
+          - "Commercial licensing (see musical realm)"
+
+  - id: musical
+    title: musical
+    badge: AUDIO
+    section_num: "02"
+    summary: "Ambient · dark electronic · orchestral — WAV delivery · commercial use · BMI registered"
+    proof:
+      - label: album on Spotify
+        href: "https://open.spotify.com/album/2g7xp2f6gWbXnb5eu3JWz9"
+      - label: podcast
+        href: "/media/podcast/"
+    packages:
+      - name: Single Track
+        price: "$900 USD"
+        timeline: "Typically 1–2 weeks"
+        includes:
+          - "One 2–4 minute WAV · full structure"
+          - "Commercial use license"
+          - "One revision round · reference track welcome"
+        excludes:
+          - "Stem packs (available on request)"
+      - name: Mini Release
+        price: "$2,800 USD"
+        timeline: "Typically 2–3 weeks"
+        includes:
+          - "Three cohesive tracks · WAV"
+          - "Commercial use · unified mood brief"
+          - "One revision round per track"
+        excludes:
+          - "Distribution to streaming platforms (client or separate brief)"
+      - name: Full Album
+        price: "$8,500 USD"
+        timeline: "2–4 weeks to delivery"
+        includes:
+          - "8–10 tracks · structured album arc"
+          - "Commercial use · BMI-registered works"
+          - "Reference-driven production · two revision passes per track"
+        excludes:
+          - "Album go-live to streaming (allow 2–4 weeks after masters)"
+
+open_source:
+  title: open source
+  blurb: "Paid advisory on the same $120/hr rate · 4 hour minimum. Sponsorship tiers and maintainer support — contact with repo context."
+
+literary_commission:
+  blurb: "Commission a book or adaptation review — custom brief. Contact with title, angle, and deadline."
+
+cta:
+  label: "Request a brief"
+  href: "/contact/"
+  note: "Include realm, package name, timeline, and budget. Rush requests noted upfront."

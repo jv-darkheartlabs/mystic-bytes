@@ -1265,7 +1265,8 @@ section:has(> .section-label):not(.mission-timeline) {
 
 // Professional surfaces — silver chrome labels, signal grid retained
 .about-page,
-.cv-page {
+.cv-page,
+.services-page {
   .page-title {
     text-shadow: none;
   }
@@ -2619,3 +2620,156 @@ section:has(> .section-label):not(.mission-timeline) {
     color: #333;
   }
 }
+
+// Services — packages mirror About/CV spec aesthetic
+.services-page {
+  padding-bottom: var(--space-section-y);
+}
+
+.services-header {
+  margin-bottom: 2rem;
+}
+
+.services-rules {
+  margin-top: 2.5rem;
+}
+
+.services-realm {
+  margin-top: 2.5rem;
+}
+
+.services-realm__summary {
+  margin: 0.75rem 0 0;
+  max-width: 42rem;
+  color: var(--muted-foreground);
+  line-height: 1.55;
+}
+
+.services-proof {
+  margin: 0.75rem 0 0;
+  @include font-mono;
+  font-size: 0.75rem;
+
+  a {
+    color: var(--rose);
+    &:hover { text-decoration: underline; }
+  }
+}
+
+.services-packages {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.25rem;
+
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(3, 1fr);
+    align-items: start;
+  }
+}
+
+.service-package {
+  padding: 1.25rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  &__head {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  &__name {
+    margin: 0;
+    font-size: 1.0625rem;
+  }
+
+  &__price {
+    margin: 0.5rem 0 0;
+    @include font-mono;
+    font-size: 0.875rem;
+    color: var(--teal);
+  }
+
+  &__timeline {
+    margin: 0.35rem 0 0;
+    font-size: 0.8125rem;
+    color: var(--muted-foreground);
+  }
+
+  &__label {
+    margin: 0.75rem 0 0.35rem;
+    @include font-mono;
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--amber);
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  &__list {
+    margin: 0;
+    padding-left: 1.1rem;
+    font-size: 0.8125rem;
+    line-height: 1.45;
+    color: var(--foreground);
+
+    &--muted {
+      color: var(--muted-foreground);
+    }
+
+    li + li {
+      margin-top: 0.35rem;
+    }
+  }
+}
+
+.services-aside {
+  margin-top: 2.5rem;
+  padding: 1.25rem;
+
+  &__title {
+    @include font-mono;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--teal);
+    margin: 0 0 0.5rem;
+
+    &:not(:first-child) {
+      margin-top: 1.25rem;
+    }
+  }
+
+  p {
+    margin: 0;
+    max-width: 42rem;
+    line-height: 1.55;
+    color: var(--muted-foreground);
+  }
+}
+
+.services-cta {
+  margin-top: 2rem;
+  padding: 1.25rem;
+
+  &__label {
+    margin: 0;
+    @include font-mono;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--teal);
+  }
+
+  &__note {
+    margin: 0.5rem 0 1rem;
+    max-width: 42rem;
+    color: var(--muted-foreground);
+    font-size: 0.875rem;
+  }
+}
+
