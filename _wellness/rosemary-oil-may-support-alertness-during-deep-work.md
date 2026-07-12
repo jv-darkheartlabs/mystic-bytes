@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Rosemary Oil May Support Alertness During Deep Work
 dek: "Invigorating scent for morning blocks — keep concentration realistic."
 date: 2024-07-10
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/rosemary-oil-may-support-alertness-during-deep-work/
+  - /media/written/wellness/rosemary-oil-may-support-alertness-during-deep-work/
+  - /media/written/journal/wellness/rosemary-oil-may-support-alertness-during-deep-work/
+number: 615.26
+sort_key: 0615.26
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

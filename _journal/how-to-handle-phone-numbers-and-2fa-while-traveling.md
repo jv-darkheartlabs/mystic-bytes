@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Handle Phone Numbers and 2FA While Traveling
 dek: "Losing SMS 2FA access abroad is a self-inflicted lockout — plan authenticator migration early."
 date: 2022-11-07
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-handle-phone-numbers-and-2fa-while-traveling/
+  - /media/written/journal/how-to-handle-phone-numbers-and-2fa-while-traveling/
+  - /media/written/journal/travel/how-to-handle-phone-numbers-and-2fa-while-traveling/
+number: 910.43
+sort_key: 0910.43
+cover: /assets/images/cover-archive.svg
 ---
 
 Gear for a tech nomad is not aesthetic — it is uptime. If the adapter fails or the bag wrecks your shoulder, the sprint fails with it.

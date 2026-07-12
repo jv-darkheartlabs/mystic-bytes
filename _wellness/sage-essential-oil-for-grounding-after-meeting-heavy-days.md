@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Sage Essential Oil for Grounding After Meeting-Heavy Days
 dek: "Herbaceous reset when Slack will not stop."
 date: 2024-09-08
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/sage-essential-oil-for-grounding-after-meeting-heavy-days/
+  - /media/written/wellness/sage-essential-oil-for-grounding-after-meeting-heavy-days/
+  - /media/written/journal/wellness/sage-essential-oil-for-grounding-after-meeting-heavy-days/
+number: 615.27
+sort_key: 0615.27
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

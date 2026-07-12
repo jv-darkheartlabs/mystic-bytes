@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: Notes on Affordable and Reliable Transportation
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2018-04-01
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/notes-on-affordable-and-reliable-transportation/
+  - /media/written/journal/notes-on-affordable-and-reliable-transportation/
+  - /media/written/journal/travel/notes-on-affordable-and-reliable-transportation/
+number: 910.02
+sort_key: 0910.02
+cover: /assets/images/cover-archive.svg
 ---
 
 Travel planning for nomads is risk management with a carry-on. Insurance, visas, and power adapters are boring until they are the only thing that matters.

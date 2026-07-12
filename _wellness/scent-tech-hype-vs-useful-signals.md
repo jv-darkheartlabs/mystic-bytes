@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Scent Tech — Hype vs Useful Signals
 dek: "Most gadgets add complexity; few add wellbeing."
 date: 2022-09-19
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/scent-tech-hype-vs-useful-signals/
+  - /media/written/wellness/scent-tech-hype-vs-useful-signals/
+  - /media/written/journal/wellness/scent-tech-hype-vs-useful-signals/
+number: 615.15
+sort_key: 0615.15
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

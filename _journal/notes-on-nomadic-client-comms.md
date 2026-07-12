@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: Notes on Nomadic Client Comms
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2023-10-01
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/notes-on-nomadic-client-comms/
+  - /media/written/journal/notes-on-nomadic-client-comms/
+  - /media/written/journal/travel/notes-on-nomadic-client-comms/
+number: 910.51
+sort_key: 0910.51
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

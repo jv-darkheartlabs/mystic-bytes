@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: The Minimal Gear List That Survives Carry-On Only
 dek: "Every item must earn weight — dual-purpose or it stays home."
 date: 2023-11-11
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/the-minimal-gear-list-that-survives-carry-on-only/
+  - /media/written/journal/the-minimal-gear-list-that-survives-carry-on-only/
+  - /media/written/journal/travel/the-minimal-gear-list-that-survives-carry-on-only/
+number: 910.52
+sort_key: 0910.52
+cover: /assets/images/cover-archive.svg
 ---
 
 Gear for a tech nomad is not aesthetic — it is uptime. If the adapter fails or the bag wrecks your shoulder, the sprint fails with it.

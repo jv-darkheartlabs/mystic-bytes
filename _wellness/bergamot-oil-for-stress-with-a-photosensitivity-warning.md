@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Bergamot Oil for Stress — With a Photosensitivity Warning
 dek: "Citrus calm comes with a sun-exposure footnote you should not skip."
 date: 2026-03-02
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/bergamot-oil-for-stress-with-a-photosensitivity-warning/
+  - /media/written/wellness/bergamot-oil-for-stress-with-a-photosensitivity-warning/
+  - /media/written/journal/wellness/bergamot-oil-for-stress-with-a-photosensitivity-warning/
+number: 615.36
+sort_key: 0615.36
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

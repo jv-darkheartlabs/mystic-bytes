@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: What Louisiana Taught Me About Leaving for Oceania
 dek: "Origin places shape your tolerance for humidity, bureaucracy, and community speed."
 date: 2022-09-27
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel', 'oceania']
 redirect_from:
   - /writing/journal/what-louisiana-taught-me-about-leaving-for-oceania/
+  - /media/written/journal/what-louisiana-taught-me-about-leaving-for-oceania/
+  - /media/written/journal/travel/what-louisiana-taught-me-about-leaving-for-oceania/
+number: 910.42
+sort_key: 0910.42
+cover: /assets/images/cover-archive.svg
 ---
 
 I left Louisiana carrying its weather memory and its pace — slow heat, loud joy, paperwork that assumes you know someone who knows someone. Aotearoa runs on different rails: different holidays, different directness, different expectations of preparation.

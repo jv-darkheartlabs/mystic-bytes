@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: Notes on The Art of Language- Enriching Travel Experiences
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2024-07-14
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/notes-on-the-art-of-language-enriching-travel-experiences/
+  - /media/written/journal/notes-on-the-art-of-language-enriching-travel-experiences/
+  - /media/written/journal/travel/notes-on-the-art-of-language-enriching-travel-experiences/
+number: 910.58
+sort_key: 0910.58
+cover: /assets/images/cover-archive.svg
 ---
 
 Travel planning for nomads is risk management with a carry-on. Insurance, visas, and power adapters are boring until they are the only thing that matters.

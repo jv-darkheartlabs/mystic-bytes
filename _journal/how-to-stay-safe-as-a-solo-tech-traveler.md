@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Stay Safe as a Solo Tech Traveler
 dek: "Safety is situational awareness plus boring backups — share location, copies of documents, cash buffer."
 date: 2024-10-04
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel', 'oceania']
 redirect_from:
   - /writing/journal/how-to-stay-safe-as-a-solo-tech-traveler/
+  - /media/written/journal/how-to-stay-safe-as-a-solo-tech-traveler/
+  - /media/written/journal/travel/how-to-stay-safe-as-a-solo-tech-traveler/
+number: 910.60
+sort_key: 0910.60
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

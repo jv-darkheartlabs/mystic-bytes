@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Nutmeg Oil in Small Doses for Evening
 dek: "Warm spice — sedating associations, strong potency."
 date: 2024-05-11
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/nutmeg-oil-in-small-doses-for-evening/
+  - /media/written/wellness/nutmeg-oil-in-small-doses-for-evening/
+  - /media/written/journal/wellness/nutmeg-oil-in-small-doses-for-evening/
+number: 615.25
+sort_key: 0615.25
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

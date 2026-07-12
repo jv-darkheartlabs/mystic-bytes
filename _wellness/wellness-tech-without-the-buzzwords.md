@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Wellness Tech Without the Buzzwords
 dek: "Keep what works; delete the rest."
 date: 2025-09-03
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/wellness-tech-without-the-buzzwords/
+  - /media/written/wellness/wellness-tech-without-the-buzzwords/
+  - /media/written/journal/wellness/wellness-tech-without-the-buzzwords/
+number: 615.33
+sort_key: 0615.33
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

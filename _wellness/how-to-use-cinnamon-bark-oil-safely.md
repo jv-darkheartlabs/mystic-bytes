@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: How to Use Cinnamon Bark Oil Safely
 dek: "Warming scent is potent — respect dilution and irritation risk."
 date: 2021-09-24
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/how-to-use-cinnamon-bark-oil-safely/
+  - /media/written/wellness/how-to-use-cinnamon-bark-oil-safely/
+  - /media/written/journal/wellness/how-to-use-cinnamon-bark-oil-safely/
+number: 615.09
+sort_key: 0615.09
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

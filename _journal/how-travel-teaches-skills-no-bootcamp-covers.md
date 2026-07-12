@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How Travel Teaches Skills No Bootcamp Covers
 dek: "Adaptation, paperwork patience, and reading systems under stress — travel is continuing education."
 date: 2020-10-30
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel', 'oceania']
 redirect_from:
   - /writing/journal/how-travel-teaches-skills-no-bootcamp-covers/
+  - /media/written/journal/how-travel-teaches-skills-no-bootcamp-covers/
+  - /media/written/journal/travel/how-travel-teaches-skills-no-bootcamp-covers/
+number: 910.25
+sort_key: 0910.25
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

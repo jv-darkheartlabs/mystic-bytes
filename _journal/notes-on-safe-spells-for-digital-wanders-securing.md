@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: Notes on Safe Spells for Digital Wanders- Securing
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2024-03-13
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/notes-on-safe-spells-for-digital-wanders-securing/
+  - /media/written/journal/notes-on-safe-spells-for-digital-wanders-securing/
+  - /media/written/journal/travel/notes-on-safe-spells-for-digital-wanders-securing/
+number: 910.55
+sort_key: 0910.55
+cover: /assets/images/cover-archive.svg
 ---
 
 Community on the road is maintained, not discovered. You build it in DMs, coworking days, and showing up consistently — not in one viral post.

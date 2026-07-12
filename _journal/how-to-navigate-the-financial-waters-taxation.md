@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Navigate the Financial Waters- Taxation
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2023-01-28
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-navigate-the-financial-waters-taxation/
+  - /media/written/journal/how-to-navigate-the-financial-waters-taxation/
+  - /media/written/journal/travel/how-to-navigate-the-financial-waters-taxation/
+number: 910.45
+sort_key: 0910.45
+cover: /assets/images/cover-archive.svg
 ---
 
 Travel planning for nomads is risk management with a carry-on. Insurance, visas, and power adapters are boring until they are the only thing that matters.

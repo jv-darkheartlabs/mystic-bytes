@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Lemongrass Oil for Uplifting Workspace Diffusion
 dek: "Bright citrus-grass note — ventilate well."
 date: 2023-09-14
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/lemongrass-oil-for-uplifting-workspace-diffusion/
+  - /media/written/wellness/lemongrass-oil-for-uplifting-workspace-diffusion/
+  - /media/written/journal/wellness/lemongrass-oil-for-uplifting-workspace-diffusion/
+number: 615.21
+sort_key: 0615.21
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

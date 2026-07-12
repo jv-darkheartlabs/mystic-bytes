@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: What Aromatherapy Is — and What It Is Not
 dek: "Complementary support, not diagnosis or cure."
 date: 2020-09-29
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/what-aromatherapy-is-and-what-it-is-not/
+  - /media/written/wellness/what-aromatherapy-is-and-what-it-is-not/
+  - /media/written/journal/wellness/what-aromatherapy-is-and-what-it-is-not/
+number: 615.03
+sort_key: 0615.03
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

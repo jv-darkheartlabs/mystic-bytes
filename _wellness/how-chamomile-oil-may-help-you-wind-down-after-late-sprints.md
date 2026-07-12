@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: How Chamomile Oil May Help You Wind Down After Late Sprints
 dek: "Gentle scent as part of a shutdown ritual — not a sedative in a bottle."
 date: 2021-07-26
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/how-chamomile-oil-may-help-you-wind-down-after-late-sprints/
+  - /media/written/wellness/how-chamomile-oil-may-help-you-wind-down-after-late-sprints/
+  - /media/written/journal/wellness/how-chamomile-oil-may-help-you-wind-down-after-late-sprints/
+number: 615.08
+sort_key: 0615.08
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

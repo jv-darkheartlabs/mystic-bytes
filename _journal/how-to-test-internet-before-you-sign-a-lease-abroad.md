@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Test Internet Before You Sign a Lease Abroad
 dek: "Run speed tests at peak hours — not when the landlord is showing the unit."
 date: 2021-01-20
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-test-internet-before-you-sign-a-lease-abroad/
+  - /media/written/journal/how-to-test-internet-before-you-sign-a-lease-abroad/
+  - /media/written/journal/travel/how-to-test-internet-before-you-sign-a-lease-abroad/
+number: 910.27
+sort_key: 0910.27
+cover: /assets/images/cover-archive.svg
 ---
 
 Gear for a tech nomad is not aesthetic — it is uptime. If the adapter fails or the bag wrecks your shoulder, the sprint fails with it.

@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Embrace the Tapestry- Navigating Cultural
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2020-09-19
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-embrace-the-tapestry-navigating-cultural/
+  - /media/written/journal/how-to-embrace-the-tapestry-navigating-cultural/
+  - /media/written/journal/travel/how-to-embrace-the-tapestry-navigating-cultural/
+number: 910.24
+sort_key: 0910.24
+cover: /assets/images/cover-archive.svg
 ---
 
 Community on the road is maintained, not discovered. You build it in DMs, coworking days, and showing up consistently — not in one viral post.

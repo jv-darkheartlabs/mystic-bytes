@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Find Remote Work Without Platform Overload
 dek: "You need one search rhythm and clear filters — not twelve tabs of stale listings."
 date: 2018-04-01
@@ -7,6 +6,11 @@ read_time: 6
 tags: [travel]
 redirect_from:
   - /writing/journal/how-to-find-remote-work-without-platform-overload/
+  - /media/written/journal/how-to-find-remote-work-without-platform-overload/
+  - /media/written/journal/travel/how-to-find-remote-work-without-platform-overload/
+number: 910.01
+sort_key: 0910.01
+cover: /assets/images/cover-archive.svg
 ---
 
 Remote work on the road is calendar math plus honest boundaries. The view does not replace standups, async updates, or sleep.

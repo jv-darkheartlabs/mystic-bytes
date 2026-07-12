@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: What Basil Essential Oil May Offer for Mental Fatigue
 dek: "Herbaceous oils can mark a transition from work mode to off mode — if you keep doses low."
 date: 2026-05-01
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/what-basil-essential-oil-may-offer-for-mental-fatigue/
+  - /media/written/wellness/what-basil-essential-oil-may-offer-for-mental-fatigue/
+  - /media/written/journal/wellness/what-basil-essential-oil-may-offer-for-mental-fatigue/
+number: 615.37
+sort_key: 0615.37
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

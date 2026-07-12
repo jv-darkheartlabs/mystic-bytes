@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Balance Solitude and Community on the Road
 dek: "Introverts need people on a schedule; extroverts need focus blocks — plan both."
 date: 2019-12-07
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-balance-solitude-and-community-on-the-road/
+  - /media/written/journal/how-to-balance-solitude-and-community-on-the-road/
+  - /media/written/journal/travel/how-to-balance-solitude-and-community-on-the-road/
+number: 910.17
+sort_key: 0910.17
+cover: /assets/images/cover-archive.svg
 ---
 
 Gear for a tech nomad is not aesthetic — it is uptime. If the adapter fails or the bag wrecks your shoulder, the sprint fails with it.

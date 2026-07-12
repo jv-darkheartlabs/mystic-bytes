@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: How to Layer Essential Oils Without Overwhelming a Room
 dek: "Synergy is not stacking every bottle at once."
 date: 2023-03-18
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/how-to-layer-essential-oils-without-overwhelming-a-room/
+  - /media/written/wellness/how-to-layer-essential-oils-without-overwhelming-a-room/
+  - /media/written/journal/wellness/how-to-layer-essential-oils-without-overwhelming-a-room/
+number: 615.18
+sort_key: 0615.18
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

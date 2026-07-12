@@ -1,7 +1,16 @@
-{% assign sorted = site.essays | sort: "sort_key" | reverse %}
+{% case page.shelf %}
+{% when 'travel' %}
+  {% assign nav_collection = site.journal %}
+{% when 'wellness' %}
+  {% assign nav_collection = site.wellness %}
+{% else %}
+  {% assign nav_collection = site.essays %}
+{% endcase %}
+
+{% assign sorted = nav_collection | sort: "sort_key" | reverse %}
 {% assign current_index = nil %}
-{% for essay in sorted %}
-  {% if essay.url == page.url %}
+{% for item in sorted %}
+  {% if item.url == page.url %}
     {% assign current_index = forloop.index0 %}
   {% endif %}
 {% endfor %}

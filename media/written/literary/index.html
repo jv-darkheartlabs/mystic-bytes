@@ -1,0 +1,43 @@
+---
+layout: default
+title: "literary — analysis, Projection Room, verse"
+eyebrow: "[media/written/literary]"
+permalink: /media/written/literary/
+---
+
+{% assign readings = site.readings %}
+{% assign films = site.films %}
+{% assign verse = site.verse %}
+
+<div class="container media-page">
+  <header class="media-sub-header signal-header">
+    <a class="essay-back" href="{{ '/media/written/' | relative_url }}">← written</a>
+    {% include signal-badge.html code="READ" %}
+    <p class="page-eyebrow">[literary]</p>
+    <h1 class="page-title">literary</h1>
+    <p class="media-sub-lede">
+      Book analyses, Projection Room adaptation reviews, and verse — critique, cinema, and the uncut image.
+    </p>
+  </header>
+
+  <div class="media-hub-grid">
+    <a class="media-hub-card panel" href="{{ '/media/written/literary/analysis/' | relative_url }}">
+      {% include section-label.html num="00" title="analysis" badge="LITERARY" %}
+      <h2>literary analysis</h2>
+      <p>{{ readings.size }} reviews. Dark romance shelf — trope, craft, ethics of desire.</p>
+      <span class="media-hub-card__cta">open shelf →</span>
+    </a>
+    <a class="media-hub-card panel" href="{{ '/media/written/literary/projection-room/' | relative_url }}">
+      {% include section-label.html num="01" title="projection room" badge="LITERARY" %}
+      <h2>Projection Room</h2>
+      <p>{{ films.size }} reviews. Adaptation analysis as cinematic literary art.</p>
+      <span class="media-hub-card__cta">open archive →</span>
+    </a>
+    <a class="media-hub-card panel" href="{{ '/media/written/literary/verse/' | relative_url }}">
+      {% include section-label.html num="02" title="verse" badge="LITERARY" %}
+      <h2>verse</h2>
+      <p>{{ verse.size }} poems. Raw chorus sibling to curated analysis.</p>
+      <span class="media-hub-card__cta">open shelf →</span>
+    </a>
+  </div>
+</div>

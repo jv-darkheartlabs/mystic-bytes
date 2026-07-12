@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Find Other Builders While Traveling
 dek: "Your tribe is overlap: craft, schedule, and mutual respect for focus time."
 date: 2021-09-23
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel', 'oceania']
 redirect_from:
   - /writing/journal/how-to-find-other-builders-while-traveling/
+  - /media/written/journal/how-to-find-other-builders-while-traveling/
+  - /media/written/journal/travel/how-to-find-other-builders-while-traveling/
+number: 910.33
+sort_key: 0910.33
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

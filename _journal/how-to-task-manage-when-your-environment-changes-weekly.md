@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Task-Manage When Your Environment Changes Weekly
 dek: "Context switch is geographic now — your system must survive new Wi-Fi and new noise."
 date: 2022-04-16
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel', 'oceania']
 redirect_from:
   - /writing/journal/how-to-task-manage-when-your-environment-changes-weekly/
+  - /media/written/journal/how-to-task-manage-when-your-environment-changes-weekly/
+  - /media/written/journal/travel/how-to-task-manage-when-your-environment-changes-weekly/
+number: 910.38
+sort_key: 0910.38
+cover: /assets/images/cover-archive.svg
 ---
 
 I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.

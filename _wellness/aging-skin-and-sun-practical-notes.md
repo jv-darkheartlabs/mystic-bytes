@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Aging Skin and Sun — Practical Notes
 dek: "SPF daily beats any oil narrative."
 date: 2020-07-31
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/aging-skin-and-sun-practical-notes/
+  - /media/written/wellness/aging-skin-and-sun-practical-notes/
+  - /media/written/journal/wellness/aging-skin-and-sun-practical-notes/
+number: 615.02
+sort_key: 0615.02
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Complementary Wellness for Developers Under Load
 dek: "Oils, movement, and sleep hygiene sit in the same toolbox."
 date: 2024-03-12
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/complementary-wellness-for-developers-under-load/
+  - /media/written/wellness/complementary-wellness-for-developers-under-load/
+  - /media/written/journal/wellness/complementary-wellness-for-developers-under-load/
+number: 615.24
+sort_key: 0615.24
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

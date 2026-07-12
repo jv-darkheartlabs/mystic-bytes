@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: Notes on While Providing Contemporary Work Facilities
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2026-05-01
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/notes-on-while-providing-contemporary-work-facilities/
+  - /media/written/journal/notes-on-while-providing-contemporary-work-facilities/
+  - /media/written/journal/travel/notes-on-while-providing-contemporary-work-facilities/
+number: 910.73
+sort_key: 0910.73
+cover: /assets/images/cover-archive.svg
 ---
 
 Remote work on the road is calendar math plus honest boundaries. The view does not replace standups, async updates, or sleep.

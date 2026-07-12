@@ -1,5 +1,4 @@
 ---
-layout: wellness
 title: Tarragon Oil for Evening Wind-Down
 dek: "Anise-like herb — polarizing scent profile."
 date: 2025-03-07
@@ -8,6 +7,10 @@ tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
   - /writing/wellness/tarragon-oil-for-evening-wind-down/
+  - /media/written/wellness/tarragon-oil-for-evening-wind-down/
+  - /media/written/journal/wellness/tarragon-oil-for-evening-wind-down/
+number: 615.30
+sort_key: 0615.30
 ---
 
 Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.

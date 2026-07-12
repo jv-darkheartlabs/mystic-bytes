@@ -1,5 +1,4 @@
 ---
-layout: journal
 title: How to Find Remote Work Opportunities Tailored
 dek: "Field notes for remote developers traveling in Oceania and beyond."
 date: 2021-07-03
@@ -7,6 +6,11 @@ read_time: 6
 tags: ['travel']
 redirect_from:
   - /writing/journal/how-to-find-remote-work-opportunities-tailored/
+  - /media/written/journal/how-to-find-remote-work-opportunities-tailored/
+  - /media/written/journal/travel/how-to-find-remote-work-opportunities-tailored/
+number: 910.31
+sort_key: 0910.31
+cover: /assets/images/cover-archive.svg
 ---
 
 Remote work on the road is calendar math plus honest boundaries. The view does not replace standups, async updates, or sleep.
