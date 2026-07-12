@@ -233,7 +233,6 @@
 
 @media (prefers-reduced-motion: reduce) {
   .atmosphere__bloom,
-  .ticker__track,
   .signal-pulse,
   .reading-log-header__pulse {
     animation: none !important;
@@ -610,6 +609,8 @@ section:has(> .section-label):not(.mission-timeline) {
 // Ticker
 .ticker {
   @include panel-plain;
+  display: block;
+  width: 100%;
   overflow: hidden;
   transition: border-color 0.2s;
 

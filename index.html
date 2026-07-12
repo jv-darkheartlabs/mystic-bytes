@@ -15,7 +15,7 @@ permalink: /
       <div class="ticker__viewport">
         <div class="ticker__track">
           {% assign messages = site.data.site.ticker_messages %}
-          {% for repeat in (1..3) %}
+          {% for repeat in (1..2) %}
             {% for msg in messages %}
               <span class="ticker__item">{{ msg }}</span>
             {% endfor %}
