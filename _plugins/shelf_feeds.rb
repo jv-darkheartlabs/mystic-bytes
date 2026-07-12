@@ -37,6 +37,16 @@ module DarkHeartLabs
         "hidden_slug_key" => "hidden_slugs",
         "date_field" => "date_watched",
         "image_field" => "poster"
+      },
+      "verse" => {
+        "path" => "/verse-feed.xml",
+        "title" => "Verse",
+        "subtitle" => "Uncut image — raw chorus sibling to curated literary analysis.",
+        "limit" => 100,
+        "hidden_data_key" => "verse_shelf_exclusions",
+        "hidden_slug_key" => "hidden_slugs",
+        "date_field" => "date_written",
+        "image_field" => nil
       }
     }.freeze
 
@@ -216,6 +226,7 @@ module DarkHeartLabs
       text = strip_markdown(doc.content.to_s)
       text = text.sub(/\AHook & thesis\s*/i, "")
       text = text.split(/\*\*Verdict:\*\*/i).last.to_s.strip if text.include?("**Verdict:**")
+      text = text.sub(/\AJV · Dark Heart Labs\s*$/i, "").strip
       CGI.escapeHTML(text[0, 280].strip)
     end
 

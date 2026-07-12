@@ -1,0 +1,70 @@
+---
+layout: default
+---
+{% assign cat = site.data.verse_categories.categories[page.category] %}
+{% assign form = site.data.verse_categories.forms[page.form] %}
+{% assign era = site.data.verse_categories.eras[page.era] %}
+
+<article class="verse essay"{% if cat %} data-family="{{ cat.family }}"{% endif %}>
+  <div class="essay-inner">
+    <a class="essay-back" href="{{ '/media/verse/' | relative_url }}">← verse</a>
+
+    <div class="essay-meta">
+      <span class="essay-signal">verse_№_{{ page.number }}</span>
+      {% if page.date %}
+      <span class="essay-date">published {{ page.date | date: "%b %-d, %Y" }}</span>
+      {% endif %}
+      {% if page.date_written %}
+      <span class="essay-date essay-date--read">written {{ page.date_written | date: "%b %-d, %Y" }}</span>
+      {% endif %}
+      <span class="essay-badge essay-badge--type">verse</span>
+    </div>
+
+    <header class="verse-hero reading-hero">
+      <div class="reading-hero__main">
+        <h1 class="essay-title">{{ page.title }}</h1>
+        <div class="reading-meta">
+          {% if cat %}
+          <span class="reading-meta__cat">{{ cat.label }}</span>
+          {% endif %}
+          {% if form %}
+          <span class="reading-meta__spice" title="{{ form.label }}">{{ form.label }}</span>
+          {% endif %}
+          {% if era %}
+          <span class="reading-meta__spice" title="{{ era.label }} · {{ era.years }}">{{ era.label }}</span>
+          {% endif %}
+        </div>
+        {% if page.dek %}
+        <p class="essay-dek reading-hero__dek">{{ page.dek }}</p>
+        {% endif %}
+      </div>
+    </header>
+
+    {% if page.content_warnings.size > 0 %}
+    <aside class="reading-cw panel">
+      <span class="reading-cw__label">content notes</span>
+      <ul class="reading-cw__list">
+        {% for cw in page.content_warnings %}
+        <li>{{ cw }}</li>
+        {% endfor %}
+      </ul>
+    </aside>
+    {% endif %}
+
+    <div class="essay-body reading-body verse-body prose verse-body--poem">
+      {{ content }}
+    </div>
+
+    {% if page.tags.size > 0 %}
+    <div class="reading-tags">
+      {% for tag in page.tags %}
+      <span class="reading-tag">#{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <footer class="essay-closing">
+      <span>CLOSING TRANSMISSION // VERSE №_{{ page.number }}</span>
+    </footer>
+  </div>
+</article>

@@ -25,6 +25,9 @@ collections:
   films:
     output: true
     permalink: /f/:name/
+  verse:
+    output: true
+    permalink: /v/:name/
   gallery:
     output: true
     permalink: /media/gallery/:name/
@@ -50,6 +53,11 @@ defaults:
       type: films
     values:
       layout: film
+  - scope:
+      path: ""
+      type: verse
+    values:
+      layout: verse
   - scope:
       path: ""
       type: gallery

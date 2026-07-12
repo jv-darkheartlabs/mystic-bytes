@@ -1,0 +1,20 @@
+{
+  "started_at": "2026-07-11",
+  "bulk_order": ["dedupe-nola", "spirituality", "grief-loss-resilience", "love", "nola", "rest"],
+  "completed": {
+    "dedupe-nola": { "deleted": 7, "remaining": 63 },
+    "pilots": 6,
+    "spirituality": { "on_site": 45, "off_site": 1, "total_rewritten": 46 },
+    "grief-loss-resilience": { "total": 27, "rewritten": 27 },
+    "love": { "total": 37, "rewritten": 37 },
+    "nola": { "total": 63, "rewritten": 63, "on_site": 62, "off_site": 1 },
+    "nature": { "total": 45, "rewritten": 45 },
+    "curiosity": { "total": 25, "rewritten": 25 },
+    "mind-and-self": { "total": 1, "rewritten": 1 },
+    "life": { "total": 78, "rewritten": 78 },
+    "justice": { "total": 20, "rewritten": 20 },
+    "misc": { "total": 10, "rewritten": 10, "on_site": 9, "off_site": 1, "pilot_slug": "demon-roast" }
+  },
+  "in_progress": {},
+  "pending": []
+}

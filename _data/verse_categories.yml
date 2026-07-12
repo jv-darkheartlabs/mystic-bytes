@@ -1,0 +1,64 @@
+categories:
+  nature:
+    label: nature
+    family: wonder
+  curiosity:
+    label: curiosity
+    family: wonder
+  nola:
+    label: New Orleans
+    family: place
+  love:
+    label: love
+    family: desire
+  spirituality:
+    label: spirituality
+    family: wonder
+  life:
+    label: life
+    family: self
+  grief-loss-resilience:
+    label: grief & resilience
+    family: loss
+  justice:
+    label: justice
+    family: witness
+  misc:
+    label: misc
+    family: gothic
+  mind-and-self:
+    label: mind & self
+    family: self
+
+forms:
+  free-verse:
+    label: free verse
+  closed:
+    label: closed form
+  shaped:
+    label: shaped / thematic
+  open:
+    label: open form
+
+eras:
+  elementary:
+    label: elementary wonder
+    years: "1986–1991"
+  middle:
+    label: place memory
+    years: "1992–1994"
+  high:
+    label: grief edge
+    years: "1995–1998"
+  college:
+    label: witness
+    years: "1999–2002"
+  early-adult:
+    label: place return
+    years: "2003–2009"
+  gothic-edge:
+    label: gothic edge
+    years: "2010–2014"
+  orchid:
+    label: uncut orchid
+    years: "2015+"

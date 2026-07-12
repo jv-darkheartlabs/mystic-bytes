@@ -65,7 +65,7 @@
 
           <p class="hint">
             Subscribe in your feed reader using this page URL, or copy the feed address from your browser.
-            Essays: <code>/feed.xml</code> · Literary analysis: <code>/readings-feed.xml</code> · Projection Room: <code>/films-feed.xml</code>
+            Essays: <code>/feed.xml</code> · Literary analysis: <code>/readings-feed.xml</code> · Projection Room: <code>/films-feed.xml</code> · Verse: <code>/verse-feed.xml</code>
           </p>
         </div>
       </body>

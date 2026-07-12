@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-07-11T23:35:25.347Z",
+  "nola_total": 70,
+  "cluster_count": 5,
+  "files_to_delete": 7,
+  "files_after_dedupe": 63,
+  "clusters": [
+    {
+      "key": "the untamed spirit of crescent's freedom",
+      "keeper": "The Untamed Spirit of Crescent's Freedom.md",
+      "losers": [
+        "The Untamed Spirit of Crescent's Freedom (v2).md",
+        "The Untamed Spirit of Crescent's Freedom (v3).md",
+        "The Untamed Spirit of Crescent's Freedom-1.md"
+      ],
+      "count": 4
+    },
+    {
+      "key": "the melody of joy in new orleans",
+      "keeper": "The Melody of Joy in New Orleans.md",
+      "losers": [
+        "The Melody of Joy in New Orleans (v2).md"
+      ],
+      "count": 2
+    },
+    {
+      "key": "the odyssey of new orleans",
+      "keeper": "The Odyssey of New Orleans.md",
+      "losers": [
+        "The Odyssey of New Orleans (v2).md"
+      ],
+      "count": 2
+    },
+    {
+      "key": "unbroken spirit- a tribute to new orleans",
+      "keeper": "Unbroken Spirit- A Tribute to New Orleans.md",
+      "losers": [
+        "Unbroken Spirit- A Tribute to New Orleans (v2).md"
+      ],
+      "count": 2
+    },
+    {
+      "key": "underground riches- a symphony of new orleans",
+      "keeper": "Underground Riches- A Symphony of New Orleans….md",
+      "losers": [
+        "Underground Riches- A Symphony of New Orleans…-1.md"
+      ],
+      "count": 2
+    }
+  ],
+  "delete_paths": [
+    "/Users/jenthedev/Documents/Documents - Jennifer’s MacBook Pro/Active/dark-heart-labs/poetry/nola/The Melody of Joy in New Orleans (v2).md",
+    "/Users/jenthedev/Documents/Documents - Jennifer’s MacBook Pro/Active/dark-heart-labs/poetry/nola/The Odyssey of New Orleans (v2).md",
+    "/Users/jenthedev/Documents/Documents - Jennifer’s MacBook Pro/Active/dark-heart-labs/poetry/nola/The Untamed Spirit of Crescent's Freedom (v2).md",
+    "/Users/jenthedev/Documents/Documents - Jennifer’s MacBook Pro/Active/dark-heart-labs/poetry/nola/The Untamed Spirit of Crescent's Freedom (v3).md",
+    "/Users/jenthedev/Documents/Documents - Jennifer’s MacBook Pro/Active/dark-heart-labs/poetry/nola/The Untamed Spirit of Crescent's Freedom-1.md",
+    "/Users/jenthedev/Documents/Documents - Jennifer’s MacBook Pro/Active/dark-heart-labs/poetry/nola/Unbroken Spirit- A Tribute to New Orleans (v2).md",
+    "/Users/jenthedev/Documents/Documents - Jennifer’s MacBook Pro/Active/dark-heart-labs/poetry/nola/Underground Riches- A Symphony of New Orleans…-1.md"
+  ]
+}

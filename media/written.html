@@ -30,8 +30,8 @@ permalink: /media/written/
     <p class="page-eyebrow">[written]</p>
     <h1 class="page-title">written transmissions</h1>
     <p class="media-sub-lede">
-      Technical essays from Dark Heart Labs, literary analysis, and the Projection Room —
-      critical book reviews and adaptation analysis on dark romance, trope, craft, and the ethics of desire.
+      Technical essays from Dark Heart Labs, literary analysis, the Projection Room, and verse —
+      critical book reviews, adaptation analysis, and the uncut image.
     </p>
   </header>
 
@@ -117,6 +117,36 @@ permalink: /media/written/
     </ul>
     <p class="media-written-more">
       <a href="{{ '/media/projection-room/' | relative_url }}">{{ film_count }} reviews total →</a>
+    </p>
+  </section>
+
+  <section class="media-written-recent panel media-written-recent--verse">
+    <h2 class="media-sub-section">&gt;_ verse</h2>
+    <p class="media-written-intro">
+      Uncut image — raw chorus sibling to curated literary analysis. Body-first, era-voiced, refusal to tidy.
+    </p>
+    <div class="media-written-links">
+      <a class="btn-outline" href="{{ '/media/verse/' | relative_url }}">open full shelf →</a>
+      <a class="btn-outline" href="{{ '/verse-feed.xml' | absolute_url }}">atom feed ↗</a>
+    </div>
+    <ul class="media-written-list">
+      {% assign verse_sorted = site.verse | sort: "sort_key" | reverse %}
+      {% assign verse_shown = 0 %}
+      {% for poem in verse_sorted %}
+      {% if poem.shelf == false %}{% continue %}{% endif %}
+      {% if verse_shown >= 8 %}{% break %}{% endif %}
+      {% assign verse_shown = verse_shown | plus: 1 %}
+      <li>
+        <a href="{{ poem.url | relative_url }}">
+          <span class="media-written-list__num">{{ poem.number }}</span>
+          <span class="media-written-list__title">{{ poem.title }}</span>
+          <span class="media-written-list__date">{{ poem.date_written | default: poem.date | date: "%b %-d, %Y" }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="media-written-more">
+      <a href="{{ '/media/verse/' | relative_url }}">{{ site.verse.size }} poems total →</a>
     </p>
   </section>
 

@@ -1,0 +1,75 @@
+---
+layout: default
+title: "verse — uncut image"
+eyebrow: "[media/verse]"
+permalink: /media/verse/
+---
+
+{% assign categories = site.data.verse_categories.categories %}
+{% assign sorted = site.verse | sort: "sort_key" | reverse %}
+{% assign shelf_count = 0 %}
+{% for v in sorted %}
+  {% if v.shelf == false %}{% continue %}{% endif %}
+  {% assign shelf_count = shelf_count | plus: 1 %}
+{% endfor %}
+
+<div class="container reading-log-page verse-log-page">
+  <header class="archive-header reading-log-header signal-header">
+    <a class="essay-back" href="{{ '/media/written/' | relative_url }}">← /media/written</a>
+    {% include signal-badge.html code="VERSE" %}
+    <p class="page-eyebrow">[verse]</p>
+    <h1 class="page-title">verse</h1>
+    <p class="archive-count">
+      {{ shelf_count }} poems. The uncut image — raw chorus sibling to curated literary analysis.
+    </p>
+  </header>
+
+  <div class="reading-toolbar">
+    <div class="reading-toolbar__row">
+      <label class="sr-only" for="verse-search">Search verse</label>
+      <input
+        type="search"
+        id="verse-search"
+        class="reading-search"
+        placeholder="search title, category…"
+        autocomplete="off"
+      />
+    </div>
+  </div>
+
+  <ul class="media-written-list verse-list" id="verse-list">
+    {% for poem in sorted %}
+    {% if poem.shelf == false %}{% continue %}{% endif %}
+    <li
+      class="verse-list__item"
+      data-title="{{ poem.title | downcase }}"
+      data-category="{{ poem.category | downcase }}"
+    >
+      <a href="{{ poem.url | relative_url }}">
+        <span class="media-written-list__num">{{ poem.number }}</span>
+        <span class="media-written-list__title">{{ poem.title }}</span>
+        <span class="media-written-list__date">{{ poem.date_written | default: poem.date | date: "%b %-d, %Y" }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <p class="media-written-more">
+    <a href="{{ '/verse-feed.xml' | absolute_url }}">atom feed ↗</a>
+  </p>
+</div>
+
+<script>
+(function () {
+  var input = document.getElementById("verse-search");
+  var items = document.querySelectorAll(".verse-list__item");
+  if (!input || !items.length) return;
+  input.addEventListener("input", function () {
+    var q = input.value.trim().toLowerCase();
+    items.forEach(function (el) {
+      var hay = (el.dataset.title || "") + " " + (el.dataset.category || "");
+      el.style.display = !q || hay.indexOf(q) !== -1 ? "" : "none";
+    });
+  });
+})();
+</script>
