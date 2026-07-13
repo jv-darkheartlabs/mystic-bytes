@@ -277,35 +277,21 @@
 .site-brand {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
-  @include font-mono;
-  font-size: 0.875rem;
+  flex-shrink: 1;
+  min-width: 0;
   color: var(--foreground);
+}
 
-  .signal-mark {
-    color: var(--teal);
-    flex-shrink: 0;
+.site-brand__logo {
+  display: block;
+  height: 3.25rem;
+  width: auto;
+  max-width: min(100%, 14rem);
+
+  @media (max-width: 767px) {
+    height: 2.625rem;
+    max-width: min(100%, 11rem);
   }
-}
-
-.site-brand__text {
-  display: flex;
-  flex-direction: column;
-  line-height: 1;
-}
-
-.site-brand__title {
-  font-weight: 700;
-  letter-spacing: 0.18em;
-  text-shadow: 0 0 20px color-mix(in oklab, var(--red) 30%, transparent);
-}
-
-.site-brand__coords {
-  margin-top: 0.25rem;
-  font-size: 0.5625rem;
-  text-transform: uppercase;
-  letter-spacing: 0.22em;
-  color: color-mix(in oklab, var(--teal) 70%, transparent);
 }
 
 .nav-toggle {

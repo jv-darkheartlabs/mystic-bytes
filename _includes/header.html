@@ -1,11 +1,14 @@
 <header class="site-header">
   <div class="site-header__inner">
     <a class="site-brand" href="{{ '/' | relative_url }}">
-      {% include signal-mark.html %}
-      <span class="site-brand__text">
-        <span class="site-brand__title">DARK HEART LABS</span>
-        <span class="site-brand__coords">{{ site.data.site.coordinates }}</span>
-      </span>
+      <img
+        class="site-brand__logo"
+        src="{{ site.data.site.logo | relative_url }}"
+        alt="{{ site.data.site.logo_alt }}"
+        width="2000"
+        height="2000"
+        decoding="async"
+      >
     </a>
 
     <button
