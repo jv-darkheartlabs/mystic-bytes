@@ -370,6 +370,34 @@
   }
 }
 
+.site-brand__lockup--footer {
+  .site-brand__emblem {
+    width: 2.75rem;
+    height: 2.75rem;
+  }
+
+  .site-brand__name {
+    font-size: 0.875rem;
+    letter-spacing: 0.1em;
+  }
+
+  .site-brand__tagline {
+    font-size: 0.875rem;
+  }
+}
+
+.site-footer__brand-link {
+  display: inline-block;
+  margin: 0.5rem 0 0;
+  color: inherit;
+  text-decoration: none;
+
+  &:hover .site-brand__name,
+  &:focus-visible .site-brand__name {
+    color: color-mix(in oklab, var(--red) 88%, white);
+  }
+}
+
 .nav-toggle {
   display: flex;
   flex-direction: column;

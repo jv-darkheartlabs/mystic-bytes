@@ -3,7 +3,9 @@
     <div class="site-footer__grid">
       <div>
         <div class="site-footer__label">// signal</div>
-        <p class="site-footer__brand">DARK HEART LABS</p>
+        <a class="site-footer__brand-link" href="{{ '/' | relative_url }}">
+          {% include brand-lockup.html variant: footer %}
+        </a>
         <p>{{ site.tagline }}</p>
         <p class="site-footer__amber">{{ site.data.site.footer_tagline }}</p>
       </div>

@@ -1,22 +1,7 @@
 <header class="site-header">
   <div class="site-header__inner">
     <a class="site-brand" href="{{ '/' | relative_url }}">
-      <span class="site-brand__lockup">
-        <span class="site-brand__row">
-          <img
-            class="site-brand__emblem"
-            src="{{ site.data.site.icon | relative_url }}"
-            alt=""
-            width="1000"
-            height="1000"
-            decoding="async"
-          >
-          <span class="site-brand__copy">
-            <span class="site-brand__name">{{ site.data.site.brand_name }}</span>
-            <span class="site-brand__tagline">{{ site.data.site.brand_tagline }}</span>
-          </span>
-        </span>
-      </span>
+      {% include brand-lockup.html %}
     </a>
 
     <button
