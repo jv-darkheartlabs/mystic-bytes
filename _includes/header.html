@@ -1,14 +1,17 @@
 <header class="site-header">
   <div class="site-header__inner">
     <a class="site-brand" href="{{ '/' | relative_url }}">
-      <img
-        class="site-brand__logo"
-        src="{{ site.data.site.logo | relative_url }}"
-        alt="{{ site.data.site.logo_alt }}"
-        width="200"
-        height="200"
-        decoding="async"
-      >
+      <span class="site-brand__lockup">
+        <img
+          class="site-brand__logo"
+          src="{{ site.data.site.logo_header | relative_url }}"
+          alt="Dark Heart Labs"
+          width="200"
+          height="142"
+          decoding="async"
+        >
+        <span class="site-brand__tagline">{{ site.data.site.brand_tagline }}</span>
+      </span>
     </a>
 
     <button
