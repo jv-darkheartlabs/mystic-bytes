@@ -987,6 +987,230 @@ section:has(> .section-label):not(.mission-timeline) {
   margin-top: 4rem;
 }
 
+.home-scryfall {
+  margin-top: var(--space-section-y);
+}
+
+.scryfall-search {
+  margin-top: 1rem;
+  padding: 1.25rem;
+  display: grid;
+  gap: 0.75rem;
+
+  &__label {
+    @include font-mono;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--teal);
+  }
+
+  &__row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: stretch;
+  }
+
+  &__input {
+    flex: 1 1 16rem;
+    min-width: 0;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--border);
+    background: color-mix(in oklab, var(--background) 88%, var(--violet));
+    color: var(--foreground);
+    @include font-mono;
+    font-size: 0.9375rem;
+
+    &::placeholder {
+      color: var(--muted-foreground);
+    }
+
+    &:focus {
+      outline: 2px solid color-mix(in oklab, var(--violet) 55%, transparent);
+      outline-offset: 2px;
+      border-color: color-mix(in oklab, var(--violet) 45%, var(--border));
+    }
+  }
+
+  &__submit {
+    flex: 0 0 auto;
+    align-self: stretch;
+  }
+
+  &__hint {
+    margin: 0;
+    font-size: 0.8125rem;
+    color: var(--muted-foreground);
+
+    a {
+      color: var(--rose);
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &__status {
+    margin: 1rem 0 0;
+    min-height: 1.25rem;
+    @include font-mono;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted-foreground);
+
+    &[data-tone="error"] {
+      color: var(--red);
+    }
+
+    &[data-tone="ok"] {
+      color: var(--teal);
+    }
+  }
+}
+
+.scryfall-grid {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(auto-fill, minmax(12.5rem, 1fr));
+  }
+}
+
+.scryfall-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  color: inherit;
+  border-color: color-mix(in oklab, var(--violet) 28%, var(--border));
+  transition: border-color 0.2s, box-shadow 0.2s;
+  overflow: hidden;
+
+  &:hover {
+    border-color: color-mix(in oklab, var(--violet) 55%, var(--border));
+    box-shadow: var(--glow-violet), var(--glow-red);
+  }
+
+  &__image {
+    aspect-ratio: 5 / 7;
+    background: color-mix(in oklab, var(--background) 70%, black);
+    border-bottom: 1px solid var(--border);
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+    }
+  }
+
+  &__placeholder {
+    display: grid;
+    place-items: center;
+    height: 100%;
+    @include font-mono;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    color: var(--muted-foreground);
+  }
+
+  &__body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding: 0.875rem 1rem 1rem;
+    flex: 1;
+  }
+
+  &__name {
+    margin: 0;
+    @include font-mono;
+    font-size: 0.9375rem;
+    font-weight: 700;
+    line-height: 1.35;
+  }
+
+  &__mana,
+  &__type {
+    margin: 0;
+    font-size: 0.8125rem;
+    color: var(--muted-foreground);
+    line-height: 1.4;
+  }
+
+  &__mana {
+    @include font-mono;
+    letter-spacing: 0.04em;
+  }
+
+  &__meta {
+    margin: 0.25rem 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 0.75rem;
+    @include font-mono;
+    font-size: 0.6875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  &__price {
+    color: var(--amber);
+  }
+
+  &__set {
+    color: var(--teal);
+  }
+
+  &__artist {
+    margin: 0.15rem 0 0;
+    font-size: 0.6875rem;
+    color: color-mix(in oklab, var(--muted-foreground) 85%, var(--foreground));
+  }
+}
+
+.scryfall-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem 1rem;
+  margin-top: 1.5rem;
+
+  &__label {
+    @include font-mono;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted-foreground);
+  }
+
+  &__btn:disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+  }
+}
+
+.scryfall-attribution {
+  margin: 2rem 0 0;
+  font-size: 0.8125rem;
+  color: var(--muted-foreground);
+  text-align: center;
+
+  a {
+    color: var(--rose);
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
 .text-center {
   text-align: center;
 }
