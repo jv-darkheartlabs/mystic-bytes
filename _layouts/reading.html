@@ -6,7 +6,7 @@ layout: default
 
 <article class="reading essay"{% if cat %} data-family="{{ cat.family }}"{% endif %}>
   <div class="essay-inner">
-    <a class="essay-back" href="{{ '/media/written/literary/analysis/' | relative_url }}">← literary analysis</a>
+    <a class="essay-back" href="{{ '/media/written/reviews/' | relative_url }}">← reviews</a>
 
     <div class="essay-meta">
       <span class="essay-signal">review_№_{{ page.number }}</span>
@@ -16,7 +16,7 @@ layout: default
       {% if page.date_read %}
       <span class="essay-date essay-date--read">read {{ page.date_read | date: "%b %-d, %Y" }}</span>
       {% endif %}
-      <span class="essay-badge essay-badge--type">literary analysis</span>
+      <span class="essay-badge essay-badge--type">reviews</span>
     </div>
 
     <div class="reading-hero">

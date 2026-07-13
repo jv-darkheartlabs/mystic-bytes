@@ -20,8 +20,8 @@ module DarkHeartLabs
     FEEDS = {
       "readings" => {
         "path" => "/readings-feed.xml",
-        "title" => "Literary Analysis",
-        "subtitle" => "Book reviews as critical essays — dark romance, trope, craft, and the ethics of desire.",
+        "title" => "reviews",
+        "subtitle" => "Book reviews on dark romance — trope, craft, and the ethics of desire.",
         "limit" => 100,
         "hidden_data_key" => "shelf_exclusions",
         "hidden_slug_key" => "hidden_slugs",
@@ -30,8 +30,8 @@ module DarkHeartLabs
       },
       "films" => {
         "path" => "/films-feed.xml",
-        "title" => "Projection Room",
-        "subtitle" => "Adaptation reviews as cinematic literary art — fidelity, craft, and book-to-screen critique.",
+        "title" => "projection room",
+        "subtitle" => "Adaptation reviews as cinematic art — fidelity, craft, and book-to-screen critique.",
         "limit" => 100,
         "hidden_data_key" => "film_shelf_exclusions",
         "hidden_slug_key" => "hidden_slugs",
@@ -40,8 +40,8 @@ module DarkHeartLabs
       },
       "verse" => {
         "path" => "/verse-feed.xml",
-        "title" => "Verse",
-        "subtitle" => "Uncut image — raw chorus sibling to curated literary analysis.",
+        "title" => "verse",
+        "subtitle" => "Uncut image — raw chorus sibling to the curated shelves.",
         "limit" => 100,
         "hidden_data_key" => "verse_shelf_exclusions",
         "hidden_slug_key" => "hidden_slugs",
