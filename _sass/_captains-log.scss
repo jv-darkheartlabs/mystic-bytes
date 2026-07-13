@@ -284,36 +284,70 @@
   color: var(--foreground);
 
   @media (min-width: 768px) {
-    max-width: min(44%, 18rem);
+    max-width: min(52%, 24rem);
   }
 }
 
 .site-brand__lockup {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 0.25rem;
+  display: block;
   min-width: 0;
   overflow: visible;
 }
 
-.site-brand__logo {
+.site-brand__row {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  min-width: 0;
+}
+
+.site-brand__emblem {
   display: block;
   flex-shrink: 0;
-  height: 3.5rem;
-  width: auto;
-  max-width: min(58vw, 11.5rem);
+  width: 3.25rem;
+  height: 3.25rem;
   object-fit: contain;
-  object-position: left top;
 
   @media (min-width: 768px) {
-    height: 4.25rem;
-    max-width: 14rem;
+    width: 3.875rem;
+    height: 3.875rem;
+  }
+}
+
+.site-brand__copy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.2rem;
+  min-width: 0;
+}
+
+.site-brand__name {
+  @include font-mono;
+  font-size: 0.9375rem;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--red);
+  text-shadow:
+    0 0 10px color-mix(in oklab, var(--red) 70%, transparent),
+    0 0 22px color-mix(in oklab, var(--red) 42%, transparent),
+    0 0 36px color-mix(in oklab, var(--violet) 14%, transparent);
+
+  @media (min-width: 768px) {
+    font-size: 1.0625rem;
+    letter-spacing: 0.14em;
   }
 
   @media (min-width: 1100px) {
-    height: 4.5rem;
-    max-width: 14.75rem;
+    font-size: 1.125rem;
+  }
+
+  @media (max-width: 380px) {
+    font-size: 0.8125rem;
+    letter-spacing: 0.08em;
   }
 }
 
