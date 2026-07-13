@@ -2,17 +2,13 @@
   <div class="site-header__inner">
     <a class="site-brand" href="{{ '/' | relative_url }}">
       <img
-        class="site-brand__icon"
-        src="{{ site.data.site.icon | relative_url }}"
-        alt=""
-        width="1000"
-        height="1000"
+        class="site-brand__logo"
+        src="{{ site.data.site.logo_header | relative_url }}"
+        alt="{{ site.data.site.logo_alt }}"
+        width="2000"
+        height="1420"
         decoding="async"
       >
-      <span class="site-brand__text">
-        <span class="site-brand__title">{{ site.data.site.brand_name }}</span>
-        <span class="site-brand__tagline">{{ site.data.site.brand_tagline }}</span>
-      </span>
     </a>
 
     <button
