@@ -2,7 +2,7 @@
 layout: default
 ticker: true
 title: "JV · Dark Heart Labs — the signal, the void, the warmth"
-description: "Signal Protocol v2. First light in the void, newly cut from the dark, and dispatches drawn up from the depths."
+description: "Dark Heart Labs — Magic: The Gathering card search, podcast, and technical signal."
 permalink: /
 ---
 
@@ -41,73 +41,46 @@ permalink: /
     <a class="now-broadcasting__external" href="https://open.spotify.com/show/{{ site.data.site.spotify.show_id }}" target="_blank" rel="noreferrer">spotify ↗</a>
   </div>
 
-  {% assign essays = site.essays | where_exp: "e", "e.locked != true" | sort: "sort_key" | reverse %}
-  {% assign featured = essays | first %}
+  <section class="home-scryfall home-section">
+    {% include section-label.html num="00" title="card search" badge="HOME" %}
+    <form id="scryfall-search-form" class="scryfall-search panel" role="search" action="#" method="get">
+      <label class="scryfall-search__label" for="scryfall-search-input">query</label>
+      <div class="scryfall-search__row">
+        <input
+          type="search"
+          id="scryfall-search-input"
+          class="scryfall-search__input"
+          name="q"
+          placeholder="c:r t:creature mv&lt;=3"
+          autocomplete="off"
+          spellcheck="false"
+          maxlength="1000"
+          enterkeyhint="search"
+        >
+        <button type="submit" class="scryfall-search__submit btn-outline">search</button>
+      </div>
+      <p class="scryfall-search__hint">
+        full Scryfall syntax —
+        <a href="https://scryfall.com/docs/syntax" target="_blank" rel="noreferrer">syntax guide ↗</a>
+      </p>
+    </form>
 
-  <div class="home-grid">
-    <section>
-      {% include section-label.html num="00" title="first light in the void" badge="HOME" %}
-      {% if featured %}
-      {% assign featured_words = featured.content | strip_html | number_of_words %}
-      {% assign featured_mins = featured_words | divided_by: 200 %}
-      {% if featured_mins < 1 %}
-        {% assign featured_mins = 1 %}
-      {% endif %}
-      <a class="featured-card" href="{{ featured.url | relative_url }}" style="position: relative;">
-        <div class="featured-card__glow" aria-hidden="true"></div>
-        <div class="featured-card__media">
-          {% if featured.cover %}
-          <img src="{{ featured.cover | relative_url }}" alt="Cover art for transmission №{{ featured.number }} — {{ featured.title }}">
-          {% endif %}
-          <div class="featured-card__overlay"></div>
-          <div class="featured-card__badge">№_{{ featured.number }}</div>
-          <div class="featured-card__meta">{{ featured.date | date: "%b %-d, %Y" }} · transmission length: {{ featured_mins }} min</div>
-        </div>
-        <div class="featured-card__body">
-          <h2 class="featured-card__title">{{ featured.title }}</h2>
-          <p class="featured-card__dek">{{ featured.dek }}</p>
-          <span class="featured-card__cta">descend <span aria-hidden="true">→</span></span>
-        </div>
-      </a>
-      {% else %}
-      <p class="featured-card__dek" style="margin-top: 1rem;">Essays arrive in Phase 2.</p>
-      {% endif %}
-    </section>
+    <p id="scryfall-search-status" class="scryfall-search__status" role="status" aria-live="polite"></p>
 
-    <section>
-      {% include section-label.html num="01" title="newly cut from the dark" badge="HOME" %}
-      <ul class="essay-list">
-        {% for essay in essays offset: 1 limit: 3 %}
-        <li>
-          <a class="essay-list__item" href="{{ essay.url | relative_url }}">
-            <div class="essay-list__item__meta">
-              <span>{{ essay.date | date: "%b %-d, %Y" }}</span>
-              <span class="essay-list__item__free">[free]</span>
-            </div>
-            <div class="essay-list__item__number">№_{{ essay.number }}</div>
-            <h3 class="essay-list__item__title">{{ essay.title }}</h3>
-            <p class="essay-list__item__dek">{{ essay.dek }}</p>
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
-    </section>
-  </div>
+    <div id="scryfall-results-grid" class="scryfall-grid" aria-live="polite"></div>
 
-  <section class="home-section">
-    {% include section-label.html num="02" title="drawn up from the depths" badge="HOME" %}
-    <div class="trending-grid">
-      {% for essay in essays offset: 4 limit: 6 %}
-      <a class="trending-card" href="{{ essay.url | relative_url }}">
-        <div class="trending-card__number">№_{{ essay.number }}</div>
-        <h3 class="trending-card__title">{{ essay.title }}</h3>
-        <p class="trending-card__dek">{{ essay.dek }}</p>
-        <div class="trending-card__date">{{ essay.date | date: "%b %-d, %Y" }}</div>
-      </a>
-      {% endfor %}
-    </div>
-    <div class="text-center mt-8">
-      <a class="btn-outline" href="{{ '/media/written/' | relative_url }}">written transmissions <span aria-hidden="true">→</span></a>
-    </div>
+    <nav id="scryfall-pagination" class="scryfall-pagination" aria-label="Search results pages" hidden>
+      <button type="button" class="scryfall-pagination__btn btn-outline" data-page="prev" disabled>previous</button>
+      <span id="scryfall-pagination-label" class="scryfall-pagination__label"></span>
+      <button type="button" class="scryfall-pagination__btn btn-outline" data-page="next" disabled>next</button>
+    </nav>
+
+    <p class="scryfall-attribution">
+      card search powered by
+      <a href="https://scryfall.com/" target="_blank" rel="noreferrer">Scryfall ↗</a>.
+      Magic: The Gathering is a trademark of Wizards of the Coast.
+    </p>
   </section>
 </div>
+
+<script src="{{ '/assets/js/scryfall-search.js' | relative_url }}?v=1" defer></script>
