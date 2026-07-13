@@ -1,4 +1,4 @@
-# Hidden from /media/literary-analysis/ grid (individual /r/:slug/ pages remain).
+# Hidden from /media/written/reviews/ grid (individual /r/:slug/ pages remain).
 # Study guides + non-literary reference; tech/aromatherapy reference stays visible when present.
 hidden_slugs:
   - schaums-outline-of-essential-computer-mathematics
