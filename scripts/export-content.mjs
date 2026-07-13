@@ -206,7 +206,7 @@ writeYamlFile(path.join(root, "_data/status_tags.yml"), { tags: statusTags });
 
 // ── CV data (from cv.tsx structure, embedded in export) ────────────
 writeYamlFile(path.join(root, "_data/cv.yml"), {
-  name: "Jennifer Vise Picado",
+  name: "Jennifer Vise",
   intro: "Developer Programmer with 25+ years across iOS/macOS development, web, UI/UX, and infrastructure tooling. Currently based in Louisiana, US; relocating to Auckland, NZ in 2027 (on-ground interviews Dec 2026 – Feb 2027). Remote-first; open to contract, freelance, or permanent engagements.",
   primary_code: "261312",
   supporting_codes: ["261212", "262113"],

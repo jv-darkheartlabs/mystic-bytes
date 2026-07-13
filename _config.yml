@@ -5,7 +5,7 @@ description: "Essays on code and creativity. Dark Heart Labs — technical signa
 url: "https://darkheartlabs.technology"
 baseurl: ""
 email: jv@darkheartlabs.technology
-author: Jennifer Vise Picado
+author: JV · Dark Heart Labs
 
 markdown: kramdown
 highlighter: rouge
