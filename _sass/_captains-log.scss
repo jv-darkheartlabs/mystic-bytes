@@ -288,17 +288,26 @@
   }
 }
 
-.site-brand__logo {
+.site-brand > .site-brand__logo {
   display: block;
-  height: clamp(3.5rem, 11vw, 5.25rem);
+  flex-shrink: 0;
+  height: clamp(3rem, 9vw, 4.25rem);
   width: auto;
-  max-width: min(72vw, 16rem);
+  max-width: min(62vw, 13.5rem);
+  max-height: 4.25rem;
   object-fit: contain;
   object-position: left center;
 
   @media (min-width: 768px) {
-    height: clamp(4.75rem, 7.5vw, 6.75rem);
-    max-width: 22rem;
+    height: clamp(3.5rem, 5.5vw, 4.75rem);
+    max-width: 17rem;
+    max-height: 4.75rem;
+  }
+
+  @media (min-width: 1100px) {
+    height: clamp(4rem, 4.5vw, 5.25rem);
+    max-width: 19rem;
+    max-height: 5.25rem;
   }
 }
 
