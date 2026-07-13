@@ -61,49 +61,8 @@ permalink: /projects/
     </div>
   </section>
 
-  <section class="projects-craft">
-    {% include section-label.html num="01" title="craft & side channels" badge="PROJECT" %}
-    <div class="projects-craft-grid">
-      {% for item in data.craft %}
-      <article class="craft-card panel">
-        {% if item.cover %}
-        <div class="craft-card__cover">
-          <img src="{{ item.cover | relative_url }}" alt="" loading="lazy" width="400" height="80">
-        </div>
-        {% endif %}
-        <div class="craft-card__body">
-          <h2 class="craft-card__title">
-            {% if item.href %}
-            <a href="{{ item.href }}" target="_blank" rel="noreferrer">{{ item.name }} ↗</a>
-            {% else %}
-            {{ item.name }}
-            {% endif %}
-          </h2>
-          <p>{{ item.body }}</p>
-          {% if item.links.size > 0 %}
-          <ul class="craft-card__links">
-            {% for link in item.links %}
-            <li>
-              <a href="{{ link.href }}" target="_blank" rel="noreferrer">{{ link.label }} ↗</a>
-            </li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-          {% if item.tags.size > 0 %}
-          <div class="craft-card__tags">
-            {% for tag in item.tags %}
-            <span class="project-tag">{{ tag }}</span>
-            {% endfor %}
-          </div>
-          {% endif %}
-        </div>
-      </article>
-      {% endfor %}
-    </div>
-  </section>
-
   <section class="projects-github">
-    {% include section-label.html num="02" title="everything else" badge="PROJECT" %}
+    {% include section-label.html num="01" title="everything else" badge="PROJECT" %}
     <div class="projects-github-cta panel">
       <p class="projects-github-cta__lede">Dozens of repos — samples, forks, experiments, and work-in-progress. The full index lives on GitHub, not here.</p>
       <a class="projects-github-cta__link" href="https://github.com/jv-darkheartlabs" target="_blank" rel="noreferrer">github.com/jv-darkheartlabs ↗</a>

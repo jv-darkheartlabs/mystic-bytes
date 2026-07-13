@@ -47,26 +47,6 @@ featured:
       - Accessibility
       - ViewComponents
       - Open source
-craft:
-  -
-    name: dark heart themes
-    href: "https://github.com/jv-darkheartlabs/dark-heart-themes"
-    cover: /assets/images/cover-craft.svg
-    body: "Cyberpunk and Magic: The Gathering colour schemes for Cursor and Zed. High contrast, long-session palettes — install, fork, remix."
-    tags:
-      - Cursor
-      - Zed
-      - Themes
-      - Design
-  -
-    name: mystic-bytes
-    href: "https://github.com/jv-darkheartlabs/mystic-bytes"
-    cover: /assets/images/cover-craft.svg
-    body: "This site. Jekyll portfolio theme — forked, heavily customised."
-    tags:
-      - Jekyll
-      - SCSS
-      - Meta
 repositories:
   -
     name: NeuroShell

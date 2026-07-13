@@ -360,12 +360,6 @@ writeYamlFile(path.join(root, "_data/about.yml"), {
   },
   quote: "If you're being quiet it means you're thinking. If I'm being quiet it means I'm in flow. Ping me on Discord — I promise I'll resurface.",
   relocation: "On the ground in Auckland December 2026 through February 2027 for interviews and in-person introductions; full relocation from Louisiana lands in 2027. AU UD/601 ETA and NZ eTA approved, housing secured. Open to remote contract or freelance work in the interim.",
-  artifacts: [
-    { code: "ANZSCO 261312", title: "NeuroShell", blurb: "Swift / SwiftUI macOS terminal and AI productivity suite. Award-winning at the Tetrate Buildathon. Primary evidence under Developer Programmer.", links: [{ label: "github", href: "https://github.com/jv-darkheartlabs/NeuroShell" }] },
-    { code: "ANZSCO 263111", title: "focus-guard", blurb: "Rust-based Envoy dynamic module that enforces deep-work policies at the proxy layer. Evidence for Network & Systems Engineer.", links: [{ label: "github", href: "https://github.com/jv-darkheartlabs/focus-guard" }] },
-    { code: "ANZSCO 261212", title: "accessibility-rails-components", blurb: "ViewComponents library with WCAG 2.1 AA patterns and Stimulus controllers. Evidence for Web Developer.", links: [] },
-    { code: "ANZSCO 262113", title: "Workspace & tooling configs", blurb: "Reproducible dotfiles, macOS/Linux setup automation, and team tooling integration across distributed contributors. Evidence for Systems Administrator.", links: [] },
-  ],
   award: {
     title: "Human-Focused AI Award",
     subtitle: "Tetrate Buildathon — selected from 170+ applicants",

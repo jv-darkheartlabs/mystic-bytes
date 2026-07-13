@@ -69,26 +69,6 @@ redirect_from:
     </div>
   </section>
 
-  <section class="about-artifacts">
-    {% include section-label.html num="02" title="selected work" badge="ABOUT" %}
-    <div class="artifacts-grid">
-      {% for artifact in about.artifacts %}
-      <article class="artifact-card panel">
-        <span class="artifact-card__role">{{ artifact.role }}</span>
-        <h3>{{ artifact.title }}</h3>
-        <p>{{ artifact.blurb }}</p>
-        {% if artifact.links.size > 0 %}
-        <div class="artifact-links">
-          {% for link in artifact.links %}
-          <a href="{{ link.href }}" target="_blank" rel="noreferrer">{{ link.label }} ↗</a>
-          {% endfor %}
-        </div>
-        {% endif %}
-      </article>
-      {% endfor %}
-    </div>
-  </section>
-
   <section class="about-award panel">
     <p class="about-award__label">recognition</p>
     <h2>{{ about.award.title }}</h2>

@@ -92,31 +92,6 @@ manual:
         v: "If I do it twice, I'll automate it."
 quote: "If you're being quiet it means you're thinking. If I'm being quiet it means I'm in flow. Ping me on Discord — I promise I'll resurface."
 relocation: "On the ground in Auckland December 2026 through February 2027 for interviews and in-person introductions; full relocation from Louisiana lands in 2027. AU UD/601 ETA and NZ eTA approved, housing attainable. Open to remote contract or freelance work in the interim."
-artifacts:
-  -
-    role: macOS development
-    title: NeuroShell
-    blurb: Swift / SwiftUI macOS terminal and AI productivity suite. Human-Focused AI Award, Tetrate Buildathon — shipped and maintained.
-    links:
-      -
-        label: github
-        href: "https://github.com/jv-darkheartlabs/NeuroShell"
-  -
-    role: network & infra
-    title: focus-guard
-    blurb: "Rust Envoy dynamic module that enforces deep-work policies at the proxy layer — distractions blocked before they reach the browser."
-    links:
-      -
-        label: github
-        href: "https://github.com/jv-darkheartlabs/focus-guard"
-  -
-    role: web & accessibility
-    title: accessibility-rails-components
-    blurb: ViewComponents library with WCAG 2.1 AA patterns and Stimulus controllers — accessible defaults, not bolt-on fixes.
-  -
-    role: systems & tooling
-    title: "Workspace & tooling configs"
-    blurb: "Reproducible dotfiles, macOS/Linux setup automation, and team tooling integration across distributed contributors."
 award:
   title: Human-Focused AI Award
   subtitle: Tetrate Buildathon — selected from 170+ applicants
