@@ -174,7 +174,10 @@
       grid.innerHTML = "";
       pagination.hidden = true;
       grid.removeAttribute("aria-busy");
-      var message = (err && err.details) || "search failed — wait a moment and try again";
+      var message =
+        (err && err.details) ||
+        (err && err.message) ||
+        "search failed — wait a moment and try again";
       setStatus(message, "error");
     });
   }
