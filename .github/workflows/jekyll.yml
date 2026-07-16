@@ -39,7 +39,7 @@ jobs:
           bundle exec htmlproofer _site
           --assume-extension
           --allow-hash-href
-          --ignore-urls "/pagefind/,/instagram.com/,/threads.net/,/facebook.com/,/twitch.tv/,/tiktok.com/,/youtube.com/,/discord.gg/"
+          --ignore-urls "/pagefind/,/instagram.com/,/twitch.tv/,/youtube.com/,/discord.gg/"
           --ignore-status-codes 301,404,403,429,999,0
 
       - name: Upload artifact
