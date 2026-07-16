@@ -6,7 +6,7 @@ rate_basis: "Benchmark: Auckland AEWV market for senior Developer Programmer (~N
 specs:
   - label: hourly_rate
     value: "NZD $205 · USD $120 · 4–8 hour minimum"
-  - label: retainer
+  - label: part_time
     value: "80 hrs / month · NZD $16,400 · USD $9,600"
   - label: full_time
     value: "160 hrs / month · NZD $32,800 · USD $19,200"
