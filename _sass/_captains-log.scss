@@ -2957,6 +2957,8 @@ section:has(> .section-label):not(.mission-timeline) {
 
 .podcast-summary { margin-top: 1.5rem; }
 
+// CV print density lives in /assets/css/cv-print.css (plain CSS) —
+// kept out of this Sass file because sass-embedded crashes on the dense print block.
 @media print {
   .site-header,
   .site-footer,
@@ -2965,50 +2967,8 @@ section:has(> .section-label):not(.mission-timeline) {
   .signal-badge,
   .page-eyebrow,
   .essay-back,
-  .btn-outline,
-  .cv-aewv__evidence,
-  .cv-aewv__official {
+  .btn-outline {
     display: none !important;
-  }
-
-  .cv-aewv__print-summary {
-    display: block !important;
-  }
-
-  .site-main {
-    padding-block: 0;
-  }
-
-  .cv-page .panel {
-    border: 1px solid #ccc;
-    box-shadow: none;
-    break-inside: avoid;
-  }
-
-  .cv-grid {
-    display: block;
-    margin-top: 1rem;
-  }
-
-  .cv-sidebar {
-    margin-top: 1.5rem;
-  }
-
-  .cv-header.signal-header::after,
-  .cv-page .panel::after {
-    display: none !important;
-  }
-
-  body {
-    background: #fff;
-    color: #111;
-  }
-
-  .cv-intro,
-  .cv-job__summary,
-  .cv-job__duties,
-  .cv-skill-list {
-    color: #333;
   }
 }
 
