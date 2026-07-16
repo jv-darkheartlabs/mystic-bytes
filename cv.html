@@ -54,10 +54,11 @@ permalink: /cv/
               <h3>{{ job.org }}</h3>
               <p class="cv-job__role">{{ job.role }}</p>
             </div>
+            {% if job.location != blank %}
             <div class="cv-job__meta">
-              <span>{{ job.period }}</span>
               <span>{{ job.location }}</span>
             </div>
+            {% endif %}
           </div>
           <p class="cv-job__summary">{{ job.summary }}</p>
           <ul class="cv-job__duties">

@@ -1,7 +1,7 @@
 name: Developer Programmer
 headline: ""
 location_line: "Louisiana, US → Auckland, NZ (2027)"
-intro: "Developer Programmer with 25+ years in iOS/macOS and web development. Strengths in accessibility (WCAG 2.1 AA), technical documentation, and code review. Based in Louisiana, US; relocating to Auckland, New Zealand (2027). NZ eTA approved for on-ground employer interviews (Dec 2026–Feb 2027). Australian business visitor visa approved — open to roles with AU employers while based in New Zealand. Seeking employer-sponsored work visa for New Zealand; open to remote, contract, or permanent roles."
+intro: "Developer Programmer with deep experience across iOS/macOS and web development. Strengths in accessibility (WCAG 2.1 AA), technical documentation, and code review. Based in Louisiana, US; relocating to Auckland, New Zealand (2027). NZ eTA approved for on-ground employer interviews (Dec 2026–Feb 2027). Australian business visitor visa approved — open to roles with AU employers while based in New Zealand. Seeking employer-sponsored work visa for New Zealand; open to remote, contract, or permanent roles."
 primary_code: 261312
 supporting_codes:
   - 261212
@@ -48,8 +48,7 @@ experience:
   -
     org: Dark Heart Labs — Independent / Open Source
     role: Open-Source Developer · UI/UX
-    period: 2024 — Present
-    location: "Remote (Louisiana, US → Auckland, NZ 2027)"
+    location: "Remote (Louisiana, US → Auckland, NZ)"
     codes:
       - 261312
       - 261212
@@ -74,7 +73,6 @@ experience:
   -
     org: DigitalSpellCraft LLC
     role: iOS/macOS Developer · UI/UX · IT Specialist
-    period: 2015 — 2024
     location: "Remote, United States"
     codes:
       - 261312
@@ -100,8 +98,7 @@ experience:
   -
     org: 365 Connect LLC
     role: Graphic Designer · UI/UX · DevOps
-    period: 2003 — 2015
-    location: On-site 2003–2007; remote 2007–2015
+    location: On-site / remote
     codes:
       - 261212
       - 262113
