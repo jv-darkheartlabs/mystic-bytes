@@ -7,41 +7,17 @@ channels:
     url: "https://www.instagram.com/darkheartlabs/"
     blurb: "Shelf studies, process, studio light."
   -
-    id: threads
-    label: Threads
-    handle: "@darkheartlabs"
-    url: "https://www.threads.net/@darkheartlabs"
-    blurb: "Short signal — essays, shelf, studio."
-  -
-    id: facebook
-    label: Facebook
-    handle: "darkheartlabs"
-    url: "https://www.facebook.com/darkheartlabs"
-    blurb: "Dark Heart Labs — updates and shares."
-  -
     id: twitch
     label: Twitch
     handle: "darkheartlabs"
     url: "https://www.twitch.tv/darkheartlabs"
     blurb: "Live builds, studio signal, and work sessions."
   -
-    id: tiktok
-    label: TikTok
-    handle: "@darkheartlabs"
-    url: "https://www.tiktok.com/@darkheartlabs"
-    blurb: "Short-form signal — shelf, process, studio."
-  -
     id: youtube
     label: YouTube
     handle: "@darkheartlabs"
     url: "https://www.youtube.com/@darkheartlabs"
     blurb: "Long-form video, builds, and studio sessions."
-  -
-    id: pinterest
-    label: Pinterest
-    handle: ""
-    url: ""
-    blurb: "Moodboards, covers, visual reference."
 
 set_themes:
   - orchid-room
