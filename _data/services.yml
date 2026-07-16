@@ -1,21 +1,21 @@
 tagline: "contract work · fixed packages · no equity-only"
-lede: "Deep experience shipping Apple-platform software, developer-facing writing, and original music. Remote-only. Rates are modelled on an Auckland AEWV senior IC package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity, delivered async."
+lede: "Deep experience shipping Apple-platform software, developer-facing writing, and original music. Rates are modelled on an Auckland AEWV senior IC package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity. Remote, hybrid, and on-site work included at these rates."
 
 rate_basis: "Benchmark: Auckland AEWV market for senior Developer Programmer (~NZD $150,000 / year) plus NZD $2,000 / month housing–settling stipend ≈ NZD $14,500 / month fully shaped. The 80-hour retainer is the half-time version with a light contract premium; the full-time line doubles that capacity. AUD/USD invoices use mid-market FX."
 
 specs:
   - label: hourly_rate
     value: "NZD $205 · USD $120 · 4–8 hour minimum"
-  - label: part_time
-    value: "80 hrs / month · NZD $16,400 · USD $9,600"
-  - label: full_time
-    value: "160 hrs / month · NZD $32,800 · USD $19,200"
   - label: rate_basis
     value: "Auckland AEWV senior IC + NZD $2k/mo stipend"
+  - label: part_time
+    value: "80 hrs / month · NZD $16,400 · USD $9,600"
   - label: payment
     value: "PayPal · Wise · AUD/NZD/USD at mid-market rate"
+  - label: full_time
+    value: "160 hrs / month · NZD $32,800 · USD $19,200"
   - label: engagement
-    value: "Remote only · async-first"
+    value: "Remote · hybrid · on-site · async-first"
   - label: employment
     value: "Full-time / sponsored roles → see CV"
   - label: availability
@@ -65,9 +65,9 @@ realms:
           - "Sustained IC work across your stack"
           - "Code review, docs, CI/devops, and accessibility hardening"
           - "Priced as Auckland AEWV senior package + stipend, half-time delivery"
-          - "Async standups — no meeting theatre"
+          - "Remote, hybrid, or on-site · async standups — no meeting theatre"
         excludes:
-          - "On-site work · CMS · finance · medical"
+          - "CMS · finance · medical"
 
   - id: written
     title: written
