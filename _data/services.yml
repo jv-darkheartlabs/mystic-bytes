@@ -1,13 +1,19 @@
 tagline: "contract work · fixed packages · no equity-only"
-lede: "Deep experience shipping Apple-platform software, developer-facing writing, and original music. Remote-only. Packages below; custom briefs welcome when the fit is right."
+lede: "Deep experience shipping Apple-platform software, developer-facing writing, and original music. Remote-only. Rates are modelled on an Auckland AEWV senior IC package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity, delivered async."
+
+rate_basis: "Benchmark: Auckland AEWV market for senior Developer Programmer (~NZD $150,000 / year) plus NZD $2,000 / month housing–settling stipend ≈ NZD $14,500 / month fully shaped. The 80-hour retainer is the half-time version with a light contract premium; the full-time line doubles that capacity. AUD/USD invoices use mid-market FX."
 
 specs:
   - label: hourly_rate
-    value: "$120 USD · 4–8 hour minimum block"
+    value: "NZD $205 · USD $120 · 4–8 hour minimum"
   - label: retainer
-    value: "80 hours / month · $9,600 USD"
+    value: "80 hrs / month · NZD $16,400 · USD $9,600"
+  - label: full_time
+    value: "160 hrs / month · NZD $32,800 · USD $19,200"
+  - label: rate_basis
+    value: "Auckland AEWV senior IC + NZD $2k/mo stipend"
   - label: payment
-    value: "PayPal · Wise · AUD/NZD at mid-market rate"
+    value: "PayPal · Wise · AUD/NZD/USD at mid-market rate"
   - label: engagement
     value: "Remote only · async-first"
   - label: employment
@@ -53,11 +59,12 @@ realms:
         excludes:
           - "Open-ended backlog without a written scope"
       - name: Engineering Retainer
-        price: "$9,600 USD / month"
-        timeline: "80 hours · monthly cadence"
+        price: "NZD $16,400 · USD $9,600 / month"
+        timeline: "80 hours · monthly cadence · AEWV-shaped"
         includes:
           - "Sustained IC work across your stack"
           - "Code review, docs, CI/devops, and accessibility hardening"
+          - "Priced as Auckland AEWV senior package + stipend, half-time delivery"
           - "Async standups — no meeting theatre"
         excludes:
           - "On-site work · CMS · finance · medical"
@@ -142,7 +149,7 @@ realms:
 
 open_source:
   title: open source
-  blurb: "Paid advisory on the same $120/hr rate · 4 hour minimum. Sponsorship tiers and maintainer support — contact with repo context."
+  blurb: "Paid advisory on the same NZD $205 / USD $120 hourly · 4 hour minimum. Sponsorship tiers and maintainer support — contact with repo context."
 
 literary_commission:
   blurb: "Commission a book or adaptation review — custom brief. Contact with title, angle, and deadline."

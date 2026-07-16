@@ -32,16 +32,52 @@ permalink: /cv/
       <h2 id="cv-summary-heading" class="cv-section__title">Professional Summary</h2>
       <p class="cv-intro">{{ cv.intro }}</p>
     </section>
-    <div class="cv-apply-strip panel">
-      <p class="cv-apply-strip__label">Applying under (NZ skilled migration)</p>
-      <p class="cv-apply-strip__codes cv-apply-strip__codes--verbose">
-        <strong>{{ cv.primary_code }} {{ cv.anzsco[cv.primary_code].title }}</strong> (primary)<span class="cv-apply-strip__sep"> · </span>
-        {% for code in cv.supporting_codes %}
-        {{ code }} {{ cv.anzsco[code].title }}{% unless forloop.last %}<span class="cv-apply-strip__sep"> · </span>{% endunless %}
-        {% endfor %}
-      </p>
-    </div>
+    <section class="cv-aewv panel" aria-labelledby="cv-aewv-heading">
+      <div class="cv-aewv__head">
+        <h2 id="cv-aewv-heading" class="cv-section__title">{{ cv.aewv.heading }}</h2>
+        <span class="cv-tag">Auckland · AEWV</span>
+      </div>
+      <p class="cv-aewv__status">{{ cv.aewv.status }}</p>
+      <dl class="cv-aewv__details">
+        <div>
+          <dt>Role match</dt>
+          <dd>{{ cv.aewv.role }}</dd>
+        </div>
+        <div>
+          <dt>Relocation</dt>
+          <dd>{{ cv.aewv.relocation }}</dd>
+        </div>
+        <div>
+          <dt>Mobility</dt>
+          <dd>{{ cv.aewv.mobility }}</dd>
+        </div>
+      </dl>
+      <details class="cv-aewv__evidence">
+        <summary>Employer due-diligence pack</summary>
+        <ul>
+          {% for item in cv.aewv.evidence %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+        <p>{{ cv.aewv.documentation_note }}</p>
+      </details>
+      <a class="cv-aewv__official" href="{{ cv.aewv.official_url }}" target="_blank" rel="noreferrer">
+        Official Immigration New Zealand AEWV process ↗
+      </a>
+    </section>
   </header>
+
+  <section class="cv-core-fit" aria-labelledby="cv-core-fit-heading">
+    <h2 id="cv-core-fit-heading" class="cv-section__title">Core fit</h2>
+    <div class="cv-core-fit__grid">
+      {% for item in cv.core_fit %}
+      <article class="cv-core-fit__item panel">
+        <h3>{{ item.label }}</h3>
+        <p>{{ item.value }}</p>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
 
   <div class="cv-grid">
     <div class="cv-main">
@@ -143,7 +179,7 @@ permalink: /cv/
 
       <section class="cv-section panel" aria-labelledby="cv-contact-heading">
         <h2 id="cv-contact-heading" class="cv-section__title">Contact</h2>
-        <p class="cv-sidebar__text">Remote-first. Contract, freelance, or permanent. Seeking employer-sponsored work visa for New Zealand.</p>
+        <p class="cv-sidebar__text">Async-friendly · remote-first. Contract, freelance, or permanent. Seeking AEWV employer sponsorship in Auckland / New Zealand.</p>
         <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact form →</a>
         <div class="cv-social">
           <a href="{{ site.data.site.social.github }}" target="_blank" rel="noreferrer">github ↗</a>
