@@ -111,7 +111,7 @@ permalink: /cv/
     </div>
 
     <aside class="cv-sidebar">
-      <section class="cv-section panel" aria-labelledby="cv-skills-heading">
+      <section class="cv-section panel cv-skills-web no-print" aria-labelledby="cv-skills-heading">
         <h2 id="cv-skills-heading" class="cv-section__title">Skills</h2>
         {% if skills.languages.size > 0 %}
         <div class="cv-skill-group">
@@ -190,7 +190,61 @@ permalink: /cv/
         {% endif %}
       </section>
 
-      <section class="cv-section panel" aria-labelledby="cv-contact-heading">
+      <section class="cv-section cv-skills-print print-only" aria-labelledby="cv-skills-print-heading">
+        <h2 id="cv-skills-print-heading" class="cv-section__title">Skills</h2>
+        <dl class="cv-skills-print__list">
+          {% if skills.languages.size > 0 %}
+          <div>
+            <dt>Languages</dt>
+            <dd>{{ skills.languages | join: " · " }}</dd>
+          </div>
+          {% endif %}
+          {% for group in skills.groups %}
+          <div>
+            <dt>{{ group.code }} {{ group.title }}</dt>
+            <dd>
+              {% assign print_bits = "" %}
+              {% if group.software.size > 0 %}
+                {% assign print_bits = group.software | join: " · " %}
+              {% endif %}
+              {% if group.accessibility_and_ui.size > 0 %}
+                {% assign a11y = group.accessibility_and_ui | join: " · " %}
+                {% if print_bits != "" %}
+                  {% assign print_bits = print_bits | append: " · " | append: a11y %}
+                {% else %}
+                  {% assign print_bits = a11y %}
+                {% endif %}
+              {% endif %}
+              {% if group.quality.size > 0 %}
+                {% assign quality = group.quality | join: " · " %}
+                {% if print_bits != "" %}
+                  {% assign print_bits = print_bits | append: " · " | append: quality %}
+                {% else %}
+                  {% assign print_bits = quality %}
+                {% endif %}
+              {% endif %}
+              {% if group.practices.size > 0 %}
+                {% assign practices = group.practices | join: " · " %}
+                {% if print_bits != "" %}
+                  {% assign print_bits = print_bits | append: " · " | append: practices %}
+                {% else %}
+                  {% assign print_bits = practices %}
+                {% endif %}
+              {% endif %}
+              {{ print_bits }}
+            </dd>
+          </div>
+          {% endfor %}
+          {% if skills.collaboration.items.size > 0 %}
+          <div>
+            <dt>Collaboration</dt>
+            <dd>{{ skills.collaboration.items | join: " · " }}</dd>
+          </div>
+          {% endif %}
+        </dl>
+      </section>
+
+      <section class="cv-section panel cv-contact-aside no-print" aria-labelledby="cv-contact-heading">
         <h2 id="cv-contact-heading" class="cv-section__title">Contact</h2>
         <p class="cv-sidebar__text">Async-friendly · remote-first. Contract, freelance, or permanent. Seeking AEWV employer sponsorship in Auckland / New Zealand.</p>
         <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact form →</a>
