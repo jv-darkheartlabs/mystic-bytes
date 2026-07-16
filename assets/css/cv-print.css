@@ -1,7 +1,7 @@
 /* CV print layout — plain CSS so Jekyll Sass need not compile this block. */
 @page {
   size: letter;
-  margin: 0.4in;
+  margin: 0.6in 0.4in 0.4in;
 }
 
 @media print {
@@ -13,6 +13,11 @@
   }
 
   .skip-link,
+  .site-header,
+  .site-footer,
+  .atmosphere,
+  .cv-print-btn,
+  .no-print,
   .cv-aewv__evidence,
   .cv-aewv__official,
   .cv-skills-web,

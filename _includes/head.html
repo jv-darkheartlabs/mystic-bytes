@@ -22,8 +22,15 @@
   {% if page.permalink == '/cv/' or page.url == '/cv/' %}
   <link rel="stylesheet" href="{{ '/assets/css/cv-print.css' | relative_url }}?v={{ asset_v }}">
   {% endif %}
+  {% assign page_path = page.url | default: page.permalink | default: '' %}
+  {% if page_path == '/cv/' or page_path == '/media/' or page_path == '/about/' or page_path == '/contact/' %}
+  {% assign favicon_href = site.data.site.icon | default: '/assets/images/dark-heart-labs-icon.png' %}
+  <link rel="icon" type="image/png" href="{{ favicon_href | relative_url }}?v={{ asset_v }}">
+  <link rel="apple-touch-icon" href="{{ favicon_href | relative_url }}?v={{ asset_v }}">
+  {% else %}
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon.png' | relative_url }}?v={{ asset_v }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}?v={{ asset_v }}">
+  {% endif %}
 
   {% include feed-autodiscovery.html %}
 
