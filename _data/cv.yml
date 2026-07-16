@@ -1,22 +1,23 @@
 name: Developer Programmer
 headline: ""
 location_line: "Louisiana, US → Auckland, NZ (2027)"
-intro: "Developer Programmer (ANZSCO 261312) with deep experience across iOS/macOS and web development. Strengths in accessible product engineering, technical documentation, code review, and async collaboration. Builds useful software for real people — accessibility first, craft over grind."
+intro: "Developer Programmer (ANZSCO 261312) focused on indie software, tools/engine-adjacent systems, and accessible interactive UI. Builds Swift, Rust, TypeScript, and web systems with strong attention to state, tooling, documentation, and long-session usability. Public portfolio demonstrates transferable game-programming foundations across Apple platforms and interactive systems."
 core_fit:
-  - label: Apple platforms
-    value: "Swift 6 · SwiftUI · Xcode · Core ML · Vision"
-  - label: Accessible web
-    value: "TypeScript · React · Rails · ViewComponents · WCAG 2.1 AA"
-  - label: Delivery systems
-    value: "GitHub Actions · Docker · Linux/macOS migrations · release engineering"
-  - label: Applied AI
-    value: "Local LLMs · MCP · pgvector RAG · eval harnesses · structured output"
+  - label: Interactive systems
+    value: "Swift 6 · SwiftUI · state machines · real-time UI patterns · Scryfall API integration"
+  - label: Tools & engine-adjacent programming
+    value: "Rust · TypeScript · Python · command workflows · developer tooling · automation"
+  - label: Accessible game-adjacent UI
+    value: "VoiceOver · Dynamic Type · keyboard-first UX · WCAG 2.1 AA · long-session interface design"
+  - label: Delivery & production craft
+    value: "GitHub Actions · Docker · release engineering · technical documentation · code review"
 aewv:
   heading: AEWV sponsorship pathway
   status: "Seeking an offer from an AEWV-accredited employer for an Auckland / New Zealand role."
   role: "261312 Developer Programmer · supporting fit: 261212 Web Developer and 262113 Systems Administrator"
   relocation: "Relocating to Auckland in 2027 · available for in-person employer meetings Dec 2026–Feb 2027"
   mobility: "NZ eTA approved · Australian business visitor visa approved · AU/NZ dual-presence roles welcome"
+  print_summary: "Formal dated CV, references, and evidence pack available on request for employer due diligence and the immigration process."
   evidence:
     - Formal dated CV and employment chronology
     - Role-aligned duty evidence and references
@@ -41,7 +42,7 @@ anzsco:
   261312:
     title: Developer Programmer
     role: Primary nominated occupation
-    summary: "Interprets specifications, designs and develops, tests, debugs, documents, and maintains program code across iOS/macOS, web, and tooling stacks."
+    summary: "Interprets specifications, designs and develops, tests, debugs, documents, and maintains program code across interactive systems, tools, Apple platforms, and web stacks."
     duties:
       - Interpret specifications and translate requirements into program designs
       - "Write, test, and maintain program code against documented standards"
@@ -75,20 +76,20 @@ experience:
       - 261312
       - 261212
       - 263111
-    summary: "Independent development of macOS productivity software, proxy-layer focus tooling, and accessible web component libraries during caretaker leave."
+    summary: "Independent development of interactive macOS tooling, proxy-layer systems, and accessible UI libraries — transferable foundations for tools/engine-adjacent and game-adjacent product work."
     duties:
       -
         code: 261312
-        text: "Designed, wrote, tested, and maintained NeuroShell — a Swift/SwiftUI macOS terminal and AI productivity suite — including specification, architecture, and release engineering through v2 and into v3."
+        text: "Designed, wrote, tested, and maintained NeuroShell — a Swift/SwiftUI macOS terminal and AI productivity suite — including specification, architecture, session-recovery state machines, and release engineering through v2 into v3."
       -
         code: 261312
-        text: "Implemented AI-assisted command parsing, session-recovery state machines, and accessibility settings layers against documented behavioural specifications."
+        text: "Shipped accessibility settings layers (VoiceOver, Dynamic Type, sensory tooling) against documented behavioural specifications for long-session interactive UI."
       -
         code: 263111
-        text: "Authored focus-guard, a Rust-based Envoy dynamic module that enforces deep-work policies at the proxy layer; planned the configuration and deployment model for team-scale rollout."
+        text: "Authored focus-guard, a Rust-based Envoy dynamic module that enforces deep-work policies at the proxy layer; planned configuration and deployment for team-scale rollout."
       -
         code: 261212
-        text: "Built and maintained accessibility-rails-components, a WCAG 2.1 AA ViewComponents library with keyboard-first patterns and Stimulus controllers, derived from real audit findings."
+        text: "Built accessibility-rails-components (WCAG 2.1 AA ViewComponents, keyboard-first patterns) and integrated Scryfall API search into darkheartlabs.technology for API-driven interactive content tooling."
       -
         code: 261312
         text: "Maintained version control, code review, and release standards across 25+ public repositories under github.com/jv-darkheartlabs."
@@ -100,23 +101,23 @@ experience:
       - 261312
       - 263111
       - 262113
-    summary: "Full-cycle Apple-platform development, AI integration, and infrastructure modernisation for a distributed creative-technology studio."
+    summary: "Full-cycle Apple-platform development, AI-assisted tooling, and infrastructure modernisation for a distributed creative-technology studio."
     duties:
       -
         code: 261312
-        text: "Designed and developed iOS and macOS applications using Swift, SwiftUI, and Xcode against documented user requirements and accessibility specifications."
+        text: "Designed and developed iOS and macOS applications in Swift, SwiftUI, and Xcode against documented user requirements and accessibility specifications."
       -
         code: 261312
-        text: "Modified and refactored existing Swift/Objective-C code to correct defects, improve performance, and adapt to new Apple SDK generations."
+        text: "Refactored Swift/Objective-C codebases for defect correction, performance, and adaptation to new Apple SDK generations."
       -
         code: 261312
         text: "Integrated local LLM (Ollama) and GPT-based tooling into developer workflows and conversational UI, including prompt design and structured-output validation."
       -
         code: 263111
-        text: "Led macOS and Linux migration programmes (Snow Leopard through current releases) and introduced Docker containerisation for reproducible, scalable deployments."
+        text: "Led macOS and Linux migration programmes (Snow Leopard through current releases) and introduced Docker containerisation for reproducible deployments."
       -
         code: 262113
-        text: "Maintained and configured developer workspaces, build infrastructure, and async collaboration tooling (GitHub, Slack, Discord) across distributed contributors."
+        text: "Configured developer workspaces, build infrastructure, and async collaboration tooling (GitHub, Slack, Discord) across distributed contributors."
   -
     org: 365 Connect LLC
     role: Graphic Designer · UI/UX · DevOps
@@ -124,14 +125,14 @@ experience:
     codes:
       - 261212
       - 262113
-    summary: "Front-end and design-systems work for an enterprise property-management platform, with infrastructure-adjacent tooling evaluation and integration."
+    summary: "Front-end and design-systems work for an enterprise property-management platform, with tooling evaluation and integration across company systems."
     duties:
       -
         code: 261212
-        text: "Refined and maintained front-end elements of enterprise property-management web applications to improve usability, accessibility, and cross-browser compatibility."
+        text: "Refined front-end elements of enterprise web applications for usability, accessibility, and cross-browser compatibility."
       -
         code: 261212
-        text: Built and maintained visual design systems and component libraries using Adobe Creative Suite; delivered training to senior technical staff.
+        text: "Built and maintained visual design systems and component libraries using Adobe Creative Suite; delivered training to senior technical staff."
       -
         code: 262113
-        text: "Evaluated, integrated, and documented software tooling across company platforms, ensuring performance, compatibility, and reproducible installation."
+        text: "Evaluated, integrated, and documented software tooling across company platforms for performance, compatibility, and reproducible installation."

@@ -52,6 +52,9 @@ permalink: /cv/
           <dd>{{ cv.aewv.mobility }}</dd>
         </div>
       </dl>
+      {% if cv.aewv.print_summary != blank %}
+      <p class="cv-aewv__print-summary">{{ cv.aewv.print_summary }}</p>
+      {% endif %}
       <details class="cv-aewv__evidence">
         <summary>Employer due-diligence pack</summary>
         <ul>
@@ -128,6 +131,16 @@ permalink: /cv/
             <p class="cv-skill-subsection__label">Software</p>
             <ul class="cv-skill-list">
               {% for item in group.software %}
+              <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+          {% if group.accessibility_and_ui.size > 0 %}
+          <div class="cv-skill-subsection">
+            <p class="cv-skill-subsection__label">Accessibility &amp; UI</p>
+            <ul class="cv-skill-list">
+              {% for item in group.accessibility_and_ui %}
               <li>{{ item }}</li>
               {% endfor %}
             </ul>

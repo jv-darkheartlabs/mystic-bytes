@@ -18,15 +18,19 @@ groups:
     software:
       - SwiftUI
       - Xcode 16
+      - State machines / interactive UI
+      - Scryfall API integration
       - Core ML
       - Vision
-      - "Accessibility (VoiceOver, Dynamic Type)"
       - Local LLM (Ollama)
       - MCP servers
-      - TARS (Tetrate Agent Router)
       - pgvector RAG
       - Eval harnesses
       - AI-assisted development / prompt design
+    accessibility_and_ui:
+      - "Accessibility (VoiceOver, Dynamic Type)"
+      - Keyboard-first interaction
+      - Long-session / sensory-aware UI
     operating_systems:
       - macOS (development)
       - iOS (shipping)
@@ -35,6 +39,7 @@ groups:
       - Technical documentation
       - Code review
       - Git / GitHub
+      - Release engineering
   -
     code: "261212"
     title: Web Developer
@@ -74,6 +79,7 @@ collaboration:
     - Confluence
     - Cursor
     - Figma
+    - Adobe Creative Suite
     - Jira
     - Linear
     - Slack

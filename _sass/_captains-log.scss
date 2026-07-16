@@ -1950,6 +1950,14 @@ section:has(> .section-label):not(.mission-timeline) {
     }
   }
 
+  &__print-summary {
+    display: none;
+    margin: 0.75rem 0 0;
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    color: var(--muted-foreground);
+  }
+
   &__official {
     display: inline-block;
     margin-top: 0.75rem;
@@ -2957,8 +2965,14 @@ section:has(> .section-label):not(.mission-timeline) {
   .signal-badge,
   .page-eyebrow,
   .essay-back,
-  .btn-outline {
+  .btn-outline,
+  .cv-aewv__evidence,
+  .cv-aewv__official {
     display: none !important;
+  }
+
+  .cv-aewv__print-summary {
+    display: block !important;
   }
 
   .site-main {
