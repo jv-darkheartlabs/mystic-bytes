@@ -29,6 +29,10 @@ permalink: /services/
     {% endfor %}
   </section>
 
+  {% if s.rate_basis %}
+  <p class="services-rate-basis panel">{{ s.rate_basis }}</p>
+  {% endif %}
+
   <section class="services-rules">
     {% include section-label.html num="—" title="engagement rules" badge="SVC" %}
     <div class="tenets-grid tenets-grid--rules">

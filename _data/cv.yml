@@ -1,7 +1,29 @@
 name: Developer Programmer
 headline: ""
 location_line: "Louisiana, US → Auckland, NZ (2027)"
-intro: "Developer Programmer with deep experience across iOS/macOS and web development. Strengths in accessibility (WCAG 2.1 AA), technical documentation, and code review. Based in Louisiana, US; relocating to Auckland, New Zealand (2027). NZ eTA approved for on-ground employer interviews (Dec 2026–Feb 2027). Australian business visitor visa approved — open to roles with AU employers while based in New Zealand. Seeking employer-sponsored work visa for New Zealand; open to remote, contract, or permanent roles."
+intro: "Developer Programmer (ANZSCO 261312) with deep experience across iOS/macOS and web development. Strengths in accessible product engineering, technical documentation, code review, and async collaboration. Builds useful software for real people — accessibility first, craft over grind."
+core_fit:
+  - label: Apple platforms
+    value: "Swift 6 · SwiftUI · Xcode · Core ML · Vision"
+  - label: Accessible web
+    value: "TypeScript · React · Rails · ViewComponents · WCAG 2.1 AA"
+  - label: Delivery systems
+    value: "GitHub Actions · Docker · Linux/macOS migrations · release engineering"
+  - label: Applied AI
+    value: "Local LLMs · MCP · pgvector RAG · eval harnesses · structured output"
+aewv:
+  heading: AEWV sponsorship pathway
+  status: "Seeking an offer from an AEWV-accredited employer for an Auckland / New Zealand role."
+  role: "261312 Developer Programmer · supporting fit: 261212 Web Developer and 262113 Systems Administrator"
+  relocation: "Relocating to Auckland in 2027 · available for in-person employer meetings Dec 2026–Feb 2027"
+  mobility: "NZ eTA approved · Australian business visitor visa approved · AU/NZ dual-presence roles welcome"
+  evidence:
+    - Formal dated CV and employment chronology
+    - Role-aligned duty evidence and references
+    - Public portfolio and 25+ GitHub repositories
+    - Identity, qualification, and immigration documents on request
+  documentation_note: "Employment dates are omitted from this public web CV. A formal dated version and supporting evidence are available for employer due diligence and the immigration process."
+  official_url: "https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/"
 primary_code: 261312
 supporting_codes:
   - 261212
