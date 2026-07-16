@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "cv — Jennifer Vise"
+title: "cv — Developer Programmer"
 eyebrow: "[cv]"
 permalink: /cv/
 ---
@@ -15,7 +15,9 @@ permalink: /cv/
     <div class="cv-header__top">
       <div class="cv-header__identity">
         <h1 class="page-title">{{ cv.name }}</h1>
+        {% if cv.headline != blank %}
         <p class="cv-headline">{{ cv.headline }}</p>
+        {% endif %}
       </div>
       <button type="button" class="btn-outline cv-print-btn">Save as PDF</button>
     </div>
