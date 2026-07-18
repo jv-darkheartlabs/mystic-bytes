@@ -1,7 +1,7 @@
 tagline: "contract work · fixed packages · no equity-only"
-lede: "Deep experience shipping Apple-platform software, developer-facing writing, and original music. Rates are modelled on an Auckland AEWV senior IC package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity. Remote, hybrid, and on-site work included at these rates."
+lede: "Apple-platform software, accessibility, AI integration, and Louisiana Gulf Fix & Fish days for yacht owners who want tech support without skipping the charter. Rates are modelled on an Auckland AEWV senior IC package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity. Remote, hybrid, and on-site work included at these rates."
 
-rate_basis: "Benchmark: Auckland AEWV market for senior Developer Programmer (~NZD $150,000 / year) plus NZD $2,000 / month housing–settling stipend ≈ NZD $14,500 / month fully shaped. The 80-hour retainer is the half-time version with a light contract premium; the full-time line doubles that capacity. AUD/USD invoices use mid-market FX."
+rate_basis: "Benchmark: Auckland AEWV market for senior Developer Programmer (~NZD $150,000 / year) plus NZD $2,000 / month housing–settling stipend ≈ NZD $14,500 / month fully shaped. The 80-hour retainer is the half-time version with a light contract premium; the full-time line doubles that capacity. AUD/USD invoices use mid-market FX. Fix & Fish is a separate Louisiana field day-rate (diagnostic gate required)."
 
 specs:
   - label: hourly_rate
@@ -15,11 +15,11 @@ specs:
   - label: full_time
     value: "160 hrs / month · NZD $32,800 · USD $19,200"
   - label: engagement
-    value: "Remote · hybrid · on-site · async-first"
+    value: "Remote · hybrid · on-site · Louisiana field"
   - label: employment
     value: "Full-time / sponsored roles → see CV"
   - label: availability
-    value: "Open for new clients"
+    value: "Open for new clients · ~1 Fix & Fish / week"
 
 rules:
   - "Nothing unpaid — spec work and ‘exposure’ are declined."
@@ -27,12 +27,60 @@ rules:
   - "No equity-only engagements."
   - "No CMS builds, finance products, or medical software."
   - "Human approval on what ships — AI assists; you lead."
+  - "Fix & Fish: dockside diagnostic first; client vessel or client-hired charter; client buys parts; you provision food."
 
 realms:
+  - id: fix_and_fish
+    title: fix & fish
+    badge: FIELD
+    section_num: "00"
+    summary: "Louisiana Gulf · your yacht or a charter you hire · I fix what plugs in while your guests fish · up to 3–4 computers with advance notice · ~1 booking / week"
+    booking:
+      label: "Request Fix & Fish →"
+      href: "/contact/?intent=fix-and-fish"
+      note: "Include marina, vessel type, device count, and half- or full-day preference."
+    proof: []
+    packages:
+      - name: Dockside Diagnostic
+        price: "$420 USD"
+        timeline: "1–2 hours · required before any Fix & Fish day"
+        includes:
+          - "On-vessel or marina meetup — triage devices, network, and whatever plugs in"
+          - "Written go / no-go: software-fixable today vs parts required"
+          - "Parts list for anything you need to buy (client purchases; I do not stock hardware)"
+          - "Full credit toward Half-Day or Full-Day Fix & Fish if booked within 30 days"
+        excludes:
+          - "Fishing time · motherboard soldering · screen replacement · board-level repair"
+          - "Charter day itself (book after diagnostic clears or after parts arrive)"
+      - name: Half-Day Fix & Fish
+        price: "$1,650 USD"
+        timeline: "~4 hours tech capacity · parallel with your charter"
+        includes:
+          - "Up to 3–4 computers / devices with advance notice — MacBook software repairs and connected gear"
+          - "You and guests fish; I work until problems are solved, then I may join the line"
+          - "Your yacht or a vessel you charter — I am IT crew, not the captain"
+          - "Optional galley prep if you supply the food — catered, dock restaurant, or coolers are fine"
+          - "Alcohol at your discretion (BYO / your tab)"
+        excludes:
+          - "Food cost (you feed yourselves and me) · parts · travel beyond the local Gulf day"
+          - "Motherboard soldering · screen replacements · more than 4 machines without a custom brief"
+          - "Charter hire, fuel, slip, or captain fees (your arrangement)"
+      - name: Full-Day Fix & Fish
+        price: "$2,850 USD"
+        timeline: "~6–8 hours tech capacity · parallel with your charter"
+        includes:
+          - "Same scope as Half-Day with a full charter window — up to 3–4 computers with advance notice"
+          - "Diagnostic credit applied if Dockside Diagnostic was paid within 30 days"
+          - "Weather / parts pause: if hardware is required, the charter day waits until parts arrive — no soldering, no screen swaps"
+          - "Out-of-area yachts: this day-rate plus travel billed at USD $120 / hr and lodging at cost"
+        excludes:
+          - "Food cost · parts · charter vessel hire"
+          - "Motherboard soldering · screen replacements · open-ended office IT retainers (see technology)"
+
   - id: technology
     title: technology
     badge: TECH
-    section_num: "00"
+    section_num: "01"
     summary: "iOS/macOS · AI integration · accessibility · Rails/web · devops · technical documentation"
     proof:
       - label: NeuroShell
@@ -69,92 +117,11 @@ realms:
         excludes:
           - "CMS · finance · medical"
 
-  - id: written
-    title: written
-    badge: WRITE
-    section_num: "01"
-    summary: "Ghostwritten technical essays · developer docs · personalized gift verse"
-    proof:
-      - label: journal essays
-        href: "/media/written/journal/essays/"
-      - label: sample verse
-        href: "/media/written/literary/verse/"
-    packages:
-      - name: Tech Essay
-        price: "$950 USD"
-        timeline: "Typically 7–10 business days"
-        includes:
-          - "~1,500 words · ghostwritten under your byline"
-          - "Descriptive title, dek, and one revision round"
-          - "Developer thought-leadership tone — not SEO sludge"
-        excludes:
-          - "Ongoing editorial retainer (ask for custom brief)"
-      - name: Doc Site
-        price: "$3,800 USD"
-        timeline: "Typically 2–3 weeks"
-        includes:
-          - "README + landing page copy"
-          - "Doc site skeleton — up to 8 pages"
-          - "Developer-facing structure and navigation labels"
-        excludes:
-          - "CMS setup · ongoing content ops"
-      - name: Gift Verse
-        price: "$250 USD"
-        timeline: "Typically 5–7 business days"
-        includes:
-          - "Personalized acrostic poem for a dedicated recipient"
-          - "Short Q&A to capture names, memories, and tone"
-          - "One revision round"
-        excludes:
-          - "Commercial licensing (see musical realm)"
-
-  - id: musical
-    title: musical
-    badge: AUDIO
-    section_num: "02"
-    summary: "Ambient · dark electronic · orchestral — WAV delivery · commercial use · BMI registered"
-    proof:
-      - label: album on Spotify
-        href: "https://open.spotify.com/album/2g7xp2f6gWbXnb5eu3JWz9"
-      - label: podcast
-        href: "/media/podcast/"
-    packages:
-      - name: Single Track
-        price: "$900 USD"
-        timeline: "Typically 1–2 weeks"
-        includes:
-          - "One 2–4 minute WAV · full structure"
-          - "Commercial use license"
-          - "One revision round · reference track welcome"
-        excludes:
-          - "Stem packs (available on request)"
-      - name: Mini Release
-        price: "$2,800 USD"
-        timeline: "Typically 2–3 weeks"
-        includes:
-          - "Three cohesive tracks · WAV"
-          - "Commercial use · unified mood brief"
-          - "One revision round per track"
-        excludes:
-          - "Distribution to streaming platforms (client or separate brief)"
-      - name: Full Album
-        price: "$8,500 USD"
-        timeline: "2–4 weeks to delivery"
-        includes:
-          - "8–10 tracks · structured album arc"
-          - "Commercial use · BMI-registered works"
-          - "Reference-driven production · two revision passes per track"
-        excludes:
-          - "Album go-live to streaming (allow 2–4 weeks after masters)"
-
 open_source:
   title: open source
   blurb: "Paid advisory on the same NZD $205 / USD $120 hourly · 4 hour minimum. Sponsorship tiers and maintainer support — contact with repo context."
 
-literary_commission:
-  blurb: "Commission a book or adaptation review — custom brief. Contact with title, angle, and deadline."
-
 cta:
   label: "Request a brief"
   href: "/contact/"
-  note: "Include realm, package name, timeline, and budget. Rush requests noted upfront."
+  note: "Include package name, timeline, and budget. For Fix & Fish: marina, vessel type, device count, and preferred half- or full-day. Rush requests noted upfront."

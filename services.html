@@ -55,6 +55,12 @@ permalink: /services/
       {% endfor %}
     </p>
     {% endif %}
+    {% if realm.booking %}
+    <p class="services-booking panel">
+      <a class="btn-outline" href="{{ realm.booking.href | relative_url }}">{{ realm.booking.label }}</a>
+      {% if realm.booking.note %}<span class="services-booking__note">{{ realm.booking.note }}</span>{% endif %}
+    </p>
+    {% endif %}
     <div class="services-packages">
       {% for pkg in realm.packages %}
       <article class="service-package panel">
@@ -86,8 +92,6 @@ permalink: /services/
   <section class="services-aside panel">
     <h2 class="services-aside__title">&gt;_ {{ s.open_source.title }}</h2>
     <p>{{ s.open_source.blurb }}</p>
-    <h2 class="services-aside__title">&gt;_ literary commission</h2>
-    <p>{{ s.literary_commission.blurb }}</p>
   </section>
 
   <section class="services-cta panel">

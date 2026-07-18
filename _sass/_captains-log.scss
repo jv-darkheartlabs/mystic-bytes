@@ -3016,6 +3016,23 @@ section:has(> .section-label):not(.mission-timeline) {
   }
 }
 
+.services-booking {
+  margin: 1rem 0 0;
+  padding: 1rem 1.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem 1.25rem;
+
+  &__note {
+    @include font-mono;
+    font-size: 0.75rem;
+    color: var(--muted-foreground);
+    line-height: 1.45;
+    max-width: 28rem;
+  }
+}
+
 .services-packages {
   display: grid;
   gap: 1rem;

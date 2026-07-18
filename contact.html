@@ -5,7 +5,7 @@ eyebrow: "[contact]"
 subtitle: "open a channel. the void listens."
 permalink: /contact/
 ---
-<p>Remote-first. Packages and rates on the <a href="{{ '/services/' | relative_url }}">services</a> page. Open to contract and freelance work; full-time roles on the <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
+<p>Remote-first. Packages and rates on the <a href="{{ '/services/' | relative_url }}">services</a> page. For Fix &amp; Fish, pick that realm below and fill marina, vessel, and device count. Open to contract and freelance work; full-time roles on the <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
 
 <form id="raven-form" class="panel scanlines" style="margin-top: 2rem; padding: 1.5rem; display: grid; gap: 1.25rem;">
   <div>
@@ -17,9 +17,57 @@ permalink: /contact/
     <input class="field-input" id="email" name="email" type="email" required placeholder="you@example.com">
   </div>
   <div>
+    <label class="field-label" for="realm">$ realm</label>
+    <select class="field-input" id="realm" name="realm" required>
+      <option value="">select…</option>
+      <option value="fix-and-fish">fix &amp; fish (Louisiana Gulf)</option>
+      <option value="technology">technology</option>
+      <option value="other">other / general</option>
+    </select>
+  </div>
+  <div>
     <label class="field-label" for="subject">$ subject</label>
     <input class="field-input" id="subject" name="subject" type="text" required placeholder="re: collaboration">
   </div>
+
+  <fieldset id="fix-and-fish-fields" class="fix-fish-fields" hidden>
+    <legend class="field-label">$ fix_and_fish brief</legend>
+    <p class="fix-fish-hint">Dockside diagnostic first. Louisiana for now · up to 3–4 computers with advance notice · you provision food.</p>
+    <div>
+      <label class="field-label" for="marina">$ marina / meet point</label>
+      <input class="field-input" id="marina" name="marina" type="text" placeholder="e.g. Venice, Empire, local slip name">
+    </div>
+    <div>
+      <label class="field-label" for="vessel">$ vessel</label>
+      <input class="field-input" id="vessel" name="vessel" type="text" placeholder="your yacht · or charter you are hiring">
+    </div>
+    <div>
+      <label class="field-label" for="device_count">$ device_count</label>
+      <select class="field-input" id="device_count" name="device_count">
+        <option value="">select…</option>
+        <option value="1">1 computer</option>
+        <option value="2">2 computers</option>
+        <option value="3">3 computers</option>
+        <option value="4">4 computers</option>
+        <option value="5+">5+ (custom brief)</option>
+      </select>
+    </div>
+    <div>
+      <label class="field-label" for="day_length">$ day_length</label>
+      <select class="field-input" id="day_length" name="day_length">
+        <option value="">select…</option>
+        <option value="diagnostic">dockside diagnostic only</option>
+        <option value="half">half-day fix &amp; fish</option>
+        <option value="full">full-day fix &amp; fish</option>
+        <option value="unsure">not sure yet</option>
+      </select>
+    </div>
+    <div>
+      <label class="field-label" for="preferred_window">$ preferred_window</label>
+      <input class="field-input" id="preferred_window" name="preferred_window" type="text" placeholder="week of… · weekday · weather-flexible">
+    </div>
+  </fieldset>
+
   <div>
     <label class="field-label" for="message">$ message</label>
     <textarea class="field-input" id="message" name="message" rows="6" required placeholder="type message…"></textarea>
@@ -28,15 +76,57 @@ permalink: /contact/
 </form>
 
 <script>
-  document.getElementById('raven-form').addEventListener('submit', function (e) {
-    e.preventDefault();
-    var d = new FormData(e.target);
-    var subject = encodeURIComponent('[jv] ' + d.get('subject'));
-    var body = encodeURIComponent(
-      'From: ' + d.get('name') + ' <' + d.get('email') + '>\n\n' + d.get('message')
-    );
-    window.location.href = 'mailto:{{ site.email }}?subject=' + subject + '&body=' + body;
-  });
+  (function () {
+    var form = document.getElementById('raven-form');
+    var realm = document.getElementById('realm');
+    var fixFields = document.getElementById('fix-and-fish-fields');
+    var fixInputs = ['marina', 'vessel', 'device_count', 'day_length'];
+
+    function syncFixFish() {
+      var on = realm.value === 'fix-and-fish';
+      fixFields.hidden = !on;
+      fixInputs.forEach(function (id) {
+        var el = document.getElementById(id);
+        if (!el) return;
+        if (on) el.setAttribute('required', 'required');
+        else el.removeAttribute('required');
+      });
+      if (on && !document.getElementById('subject').value) {
+        document.getElementById('subject').value = 'Fix & Fish — diagnostic / charter day';
+        document.getElementById('subject').placeholder = 'Fix & Fish — marina + date window';
+      }
+    }
+
+    var params = new URLSearchParams(window.location.search);
+    var intent = params.get('intent') || params.get('realm');
+    if (intent === 'fix-and-fish' || intent === 'fix_and_fish') {
+      realm.value = 'fix-and-fish';
+    }
+    syncFixFish();
+    realm.addEventListener('change', syncFixFish);
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var d = new FormData(e.target);
+      var subject = encodeURIComponent('[jv] ' + d.get('subject'));
+      var lines = [
+        'From: ' + d.get('name') + ' <' + d.get('email') + '>',
+        'Realm: ' + d.get('realm')
+      ];
+      if (d.get('realm') === 'fix-and-fish') {
+        lines.push(
+          'Marina / meet: ' + d.get('marina'),
+          'Vessel: ' + d.get('vessel'),
+          'Device count: ' + d.get('device_count'),
+          'Day length: ' + d.get('day_length'),
+          'Preferred window: ' + (d.get('preferred_window') || '(not specified)')
+        );
+      }
+      lines.push('', d.get('message'));
+      var body = encodeURIComponent(lines.join('\n'));
+      window.location.href = 'mailto:{{ site.email }}?subject=' + subject + '&body=' + body;
+    });
+  })();
 </script>
 
 <style>
@@ -57,9 +147,36 @@ permalink: /contact/
     font-family: var(--font-mono);
     font-size: 0.875rem;
   }
+  select.field-input {
+    appearance: none;
+    border-radius: 0;
+    cursor: pointer;
+  }
   .field-input:focus {
     outline: none;
     border-color: var(--teal);
+  }
+  .fix-fish-fields {
+    margin: 0;
+    padding: 1rem 0 0;
+    border: none;
+    border-top: 1px solid var(--border);
+    display: grid;
+    gap: 1.25rem;
+  }
+  .fix-fish-fields[hidden] {
+    display: none;
+  }
+  .fix-fish-fields legend {
+    padding: 0;
+    margin-bottom: 0.25rem;
+  }
+  .fix-fish-hint {
+    margin: 0;
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    line-height: 1.5;
+    color: var(--muted, #8a8a8a);
   }
   .btn-transmit {
     justify-self: start;
