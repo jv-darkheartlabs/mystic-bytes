@@ -5,7 +5,7 @@ eyebrow: "[contact]"
 subtitle: "open a channel. the void listens."
 permalink: /contact/
 ---
-<p>Remote-first. Packages and rates on the <a href="{{ '/services/' | relative_url }}">services</a> page. For Fix &amp; Fish, pick that realm below and fill marina, vessel, and device count. Open to contract and freelance work; full-time roles on the <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
+<p>Remote-first. Packages and rates on the <a href="{{ '/services/' | relative_url }}">services</a> page. For Fix &amp; Fish or a Jekyll site, pick that realm below and fill the brief fields. Open to contract and freelance work; full-time roles on the <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
 
 <form id="raven-form" class="panel scanlines" style="margin-top: 2rem; padding: 1.5rem; display: grid; gap: 1.25rem;">
   <div>
@@ -21,6 +21,7 @@ permalink: /contact/
     <select class="field-input" id="realm" name="realm" required>
       <option value="">select…</option>
       <option value="fix-and-fish">fix &amp; fish (Louisiana Gulf)</option>
+      <option value="sites">sites (Jekyll + GitHub Pages)</option>
       <option value="technology">technology</option>
       <option value="other">other / general</option>
     </select>
@@ -30,9 +31,44 @@ permalink: /contact/
     <input class="field-input" id="subject" name="subject" type="text" required placeholder="re: collaboration">
   </div>
 
-  <fieldset id="fix-and-fish-fields" class="fix-fish-fields" hidden>
+  <fieldset id="sites-fields" class="brief-fields" hidden>
+    <legend class="field-label">$ sites brief</legend>
+    <p class="brief-hint">Structure, theme, and deploy only — you write the copy. Repo set up then transferred. Domain stays yours.</p>
+    <div>
+      <label class="field-label" for="site_package">$ package</label>
+      <select class="field-input" id="site_package" name="site_package">
+        <option value="">select…</option>
+        <option value="jekyll-starter">Jekyll Starter</option>
+        <option value="studio-site">Studio Site</option>
+        <option value="content-hub">Content Hub</option>
+        <option value="publishing-care">Publishing Care retainer</option>
+        <option value="unsure">not sure yet</option>
+      </select>
+    </div>
+    <div>
+      <label class="field-label" for="migrate_from">$ migrate_from</label>
+      <select class="field-input" id="migrate_from" name="migrate_from">
+        <option value="">select…</option>
+        <option value="none">greenfield (no migration)</option>
+        <option value="wordpress">WordPress</option>
+        <option value="other-static">other static / JAMstack</option>
+        <option value="other">other</option>
+      </select>
+    </div>
+    <div>
+      <label class="field-label" for="domain_status">$ domain</label>
+      <select class="field-input" id="domain_status" name="domain_status">
+        <option value="">select…</option>
+        <option value="owned">I already own the domain</option>
+        <option value="need-dns">owned — need advanced DNS help</option>
+        <option value="need-domain">still choosing / buying</option>
+      </select>
+    </div>
+  </fieldset>
+
+  <fieldset id="fix-and-fish-fields" class="brief-fields" hidden>
     <legend class="field-label">$ fix_and_fish brief</legend>
-    <p class="fix-fish-hint">Dockside diagnostic first. Louisiana for now · up to 3–4 computers with advance notice · you provision food.</p>
+    <p class="brief-hint">Dockside diagnostic first. Louisiana for now · up to 3–4 computers with advance notice · you provision food.</p>
     <div>
       <label class="field-label" for="marina">$ marina / meet point</label>
       <input class="field-input" id="marina" name="marina" type="text" placeholder="e.g. Venice, Empire, local slip name">
@@ -79,31 +115,53 @@ permalink: /contact/
   (function () {
     var form = document.getElementById('raven-form');
     var realm = document.getElementById('realm');
-    var fixFields = document.getElementById('fix-and-fish-fields');
-    var fixInputs = ['marina', 'vessel', 'device_count', 'day_length'];
+    var subjectEl = document.getElementById('subject');
+    var briefs = {
+      'fix-and-fish': {
+        fields: document.getElementById('fix-and-fish-fields'),
+        required: ['marina', 'vessel', 'device_count', 'day_length'],
+        subject: 'Fix & Fish — diagnostic / charter day',
+        placeholder: 'Fix & Fish — marina + date window'
+      },
+      sites: {
+        fields: document.getElementById('sites-fields'),
+        required: ['site_package', 'migrate_from', 'domain_status'],
+        subject: 'Sites — Jekyll + GitHub Pages',
+        placeholder: 'Sites — package + domain'
+      }
+    };
 
-    function syncFixFish() {
-      var on = realm.value === 'fix-and-fish';
-      fixFields.hidden = !on;
-      fixInputs.forEach(function (id) {
+    function setRequired(ids, on) {
+      ids.forEach(function (id) {
         var el = document.getElementById(id);
         if (!el) return;
         if (on) el.setAttribute('required', 'required');
         else el.removeAttribute('required');
       });
-      if (on && !document.getElementById('subject').value) {
-        document.getElementById('subject').value = 'Fix & Fish — diagnostic / charter day';
-        document.getElementById('subject').placeholder = 'Fix & Fish — marina + date window';
-      }
+    }
+
+    function syncBrief() {
+      Object.keys(briefs).forEach(function (key) {
+        var brief = briefs[key];
+        var on = realm.value === key;
+        brief.fields.hidden = !on;
+        setRequired(brief.required, on);
+        if (on && !subjectEl.value) {
+          subjectEl.value = brief.subject;
+          subjectEl.placeholder = brief.placeholder;
+        }
+      });
     }
 
     var params = new URLSearchParams(window.location.search);
     var intent = params.get('intent') || params.get('realm');
     if (intent === 'fix-and-fish' || intent === 'fix_and_fish') {
       realm.value = 'fix-and-fish';
+    } else if (intent === 'sites' || intent === 'site') {
+      realm.value = 'sites';
     }
-    syncFixFish();
-    realm.addEventListener('change', syncFixFish);
+    syncBrief();
+    realm.addEventListener('change', syncBrief);
 
     form.addEventListener('submit', function (e) {
       e.preventDefault();
@@ -120,6 +178,13 @@ permalink: /contact/
           'Device count: ' + d.get('device_count'),
           'Day length: ' + d.get('day_length'),
           'Preferred window: ' + (d.get('preferred_window') || '(not specified)')
+        );
+      }
+      if (d.get('realm') === 'sites') {
+        lines.push(
+          'Package: ' + d.get('site_package'),
+          'Migrate from: ' + d.get('migrate_from'),
+          'Domain: ' + d.get('domain_status')
         );
       }
       lines.push('', d.get('message'));
@@ -156,7 +221,7 @@ permalink: /contact/
     outline: none;
     border-color: var(--teal);
   }
-  .fix-fish-fields {
+  .brief-fields {
     margin: 0;
     padding: 1rem 0 0;
     border: none;
@@ -164,14 +229,14 @@ permalink: /contact/
     display: grid;
     gap: 1.25rem;
   }
-  .fix-fish-fields[hidden] {
+  .brief-fields[hidden] {
     display: none;
   }
-  .fix-fish-fields legend {
+  .brief-fields legend {
     padding: 0;
     margin-bottom: 0.25rem;
   }
-  .fix-fish-hint {
+  .brief-hint {
     margin: 0;
     font-family: var(--font-mono);
     font-size: 0.75rem;

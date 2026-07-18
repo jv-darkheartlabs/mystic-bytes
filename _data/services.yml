@@ -1,7 +1,7 @@
 tagline: "contract work · fixed packages · no equity-only"
-lede: "Apple-platform software, accessibility, AI integration, and Louisiana Gulf Fix & Fish days for yacht owners who want tech support without skipping the charter. Rates are modelled on an Auckland AEWV senior IC package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity. Remote, hybrid, and on-site work included at these rates."
+lede: "Apple-platform software, accessibility, AI integration, Jekyll sites on GitHub Pages, and Louisiana Gulf Fix & Fish days for yacht owners who want tech support without skipping the charter. Rates are modelled on an Auckland AEWV senior IC package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity. Remote, hybrid, and on-site work included at these rates."
 
-rate_basis: "Benchmark: Auckland AEWV market for senior Developer Programmer (~NZD $150,000 / year) plus NZD $2,000 / month housing–settling stipend ≈ NZD $14,500 / month fully shaped. The 80-hour retainer is the half-time version with a light contract premium; the full-time line doubles that capacity. AUD/USD invoices use mid-market FX. Fix & Fish is a separate Louisiana field day-rate (diagnostic gate required)."
+rate_basis: "Benchmark: Auckland AEWV market for senior Developer Programmer (~NZD $150,000 / year) plus NZD $2,000 / month housing–settling stipend ≈ NZD $14,500 / month fully shaped. The 80-hour retainer is the half-time version with a light contract premium; the full-time line doubles that capacity. AUD/USD invoices use mid-market FX. Fix & Fish is a separate Louisiana field day-rate (diagnostic gate required). Sites packages are fixed build or publishing retainers on top of the same hourly floor."
 
 specs:
   - label: hourly_rate
@@ -25,9 +25,10 @@ rules:
   - "Nothing unpaid — spec work and ‘exposure’ are declined."
   - "Rush timelines billed at 2× for inconvenience."
   - "No equity-only engagements."
-  - "No CMS builds, finance products, or medical software."
+  - "No CMS builds, finance products, medical software, ecommerce, or member login."
   - "Human approval on what ships — AI assists; you lead."
   - "Fix & Fish: dockside diagnostic first; client vessel or client-hired charter; client buys parts; you provision food."
+  - "Sites: structure, theme, and deploy only — you write the content; repo set up then transferred; domain stays client-owned."
 
 realms:
   - id: fix_and_fish
@@ -77,10 +78,65 @@ realms:
           - "Food cost · parts · charter vessel hire"
           - "Motherboard soldering · screen replacements · open-ended office IT retainers (see technology)"
 
+  - id: sites
+    title: sites
+    badge: SITE
+    section_num: "01"
+    summary: "Static Jekyll on GitHub Pages · custom domain · embeds when you want them · built from your brief or Figma · I set up the repo then transfer it · you write the words"
+    booking:
+      label: "Request a site →"
+      href: "/contact/?intent=sites"
+      note: "Say which package, whether you are migrating, and if the domain is already yours."
+    proof:
+      - label: darkheartlabs.technology
+        href: "https://darkheartlabs.technology/"
+    packages:
+      - name: Jekyll Starter
+        price: "$2,800 USD"
+        timeline: "Typically 2–3 weeks · one-shot build + handoff"
+        includes:
+          - "Jekyll 4 site · GitHub Pages · up to 6 pages from your brief or Figma"
+          - "Custom domain wiring checklist · mailto contact form"
+          - "Repo created under studio, then transferred to your GitHub"
+          - "One revision round on structure and theme · you supply all copy"
+          - "Options: domain / advanced DNS +$250 · CI pipeline +$600 · migration from WordPress or similar from +$1,800"
+        excludes:
+          - "Content writing · Decap/CMS · ecommerce · member login"
+          - "Ongoing publishing (see Publishing Care)"
+      - name: Studio Site
+        price: "$5,400 USD"
+        timeline: "Typically 3–5 weeks · this-site class build + handoff"
+        includes:
+          - "Collections, SCSS theme system, embeds (Spotify, video, etc. as you choose)"
+          - "Custom domain · mailto · README handoff · repo setup then transfer"
+          - "Built from brief or Figma · one revision round · you write the content"
+          - "Same options as Starter: DNS +$250 · CI (build → Pagefind → link check) +$600 · migration from +$1,800"
+        excludes:
+          - "Content writing · CMS · ecommerce · member login"
+      - name: Content Hub
+        price: "$8,400 USD"
+        timeline: "Typically 5–8 weeks · larger archive + handoff"
+        includes:
+          - "Essay / media / multi-shelf information architecture · redirects · search-ready layout"
+          - "Everything in Studio Site at larger scope · embeds where useful"
+          - "Repo setup then transfer · client-owned domain · you supply copy and assets"
+          - "Options: DNS +$250 · CI +$600 · WordPress or other migration from +$1,800 (scoped after inventory)"
+        excludes:
+          - "Content writing · CMS · ecommerce · member login"
+      - name: Publishing Care
+        price: "$900 USD / month"
+        timeline: "Retainer · ~6 hours / month · cancel anytime with 30 days notice"
+        includes:
+          - "Publish posts you write · small page updates · dependency bumps · deploy help"
+          - "Available after any sites package handoff — or for an existing Jekyll/GitHub Pages site after a short audit"
+        excludes:
+          - "New feature builds (use Studio Site scope or technology Build Sprint)"
+          - "CI setup (one-time +$600 add-on if not already in place)"
+
   - id: technology
     title: technology
     badge: TECH
-    section_num: "01"
+    section_num: "02"
     summary: "iOS/macOS · AI integration · accessibility · Rails/web · devops · technical documentation"
     proof:
       - label: NeuroShell
@@ -115,7 +171,7 @@ realms:
           - "Priced as Auckland AEWV senior package + stipend, half-time delivery"
           - "Remote, hybrid, or on-site · async standups — no meeting theatre"
         excludes:
-          - "CMS · finance · medical"
+          - "CMS · finance · medical · ecommerce · member login"
 
 open_source:
   title: open source
@@ -124,4 +180,4 @@ open_source:
 cta:
   label: "Request a brief"
   href: "/contact/"
-  note: "Include package name, timeline, and budget. For Fix & Fish: marina, vessel type, device count, and preferred half- or full-day. Rush requests noted upfront."
+  note: "Include package name, timeline, and budget. For Fix & Fish: marina, vessel, devices. For sites: package, migration source if any, domain status. Rush requests noted upfront."
