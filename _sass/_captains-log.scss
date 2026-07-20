@@ -226,11 +226,6 @@
   50% { opacity: 1; transform: scale(1.08); }
 }
 
-@keyframes ticker-scroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
-
 @media (prefers-reduced-motion: reduce) {
   .atmosphere__bloom,
   .signal-pulse,
@@ -693,60 +688,6 @@ section:has(> .section-label):not(.mission-timeline) {
 @media (max-width: 640px) {
   :root {
     --section-grid-size: var(--section-grid-size-mobile);
-  }
-}
-
-// Ticker
-.ticker {
-  @include panel-plain;
-  display: block;
-  width: 100%;
-  overflow: hidden;
-  transition: border-color 0.2s;
-
-  &:hover {
-    border-color: var(--teal);
-  }
-
-  &__inner {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    min-width: 0;
-    padding: 0.5rem 1rem;
-    @include font-mono;
-    font-size: 0.6875rem;
-    text-transform: uppercase;
-  }
-
-  &__label {
-    flex-shrink: 0;
-    color: var(--teal);
-    letter-spacing: 0.18em;
-  }
-
-  &__viewport {
-    flex: 1;
-    min-width: 0;
-    overflow: hidden;
-  }
-
-  &__track {
-    display: flex;
-    gap: 2rem;
-    width: max-content;
-    white-space: nowrap;
-    animation: ticker-scroll 30s linear infinite;
-  }
-
-  &__item {
-    color: var(--muted-foreground);
-
-    &::before {
-      content: "·";
-      margin-right: 0.5rem;
-      color: var(--amber);
-    }
   }
 }
 
@@ -3003,6 +2944,31 @@ section:has(> .section-label):not(.mission-timeline) {
   max-width: 42rem;
   color: var(--muted-foreground);
   line-height: 1.55;
+}
+
+.services-realm__pitch {
+  margin: 1.25rem 0 0;
+  max-width: 42rem;
+  padding: 1rem 1.25rem;
+
+  &-title {
+    margin: 0 0 0.75rem;
+    @include font-mono;
+    font-size: 0.75rem;
+    text-transform: lowercase;
+    color: var(--amber);
+  }
+
+  &-line {
+    margin: 0 0 0.75rem;
+    color: var(--foreground);
+    line-height: 1.6;
+
+    &:last-child {
+      margin-bottom: 0;
+      color: var(--muted-foreground);
+    }
+  }
 }
 
 .services-proof {

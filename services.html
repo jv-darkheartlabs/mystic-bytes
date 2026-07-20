@@ -48,6 +48,14 @@ permalink: /services/
   <section class="services-realm">
     {% include section-label.html num=realm.section_num title=realm.title badge=realm.badge %}
     <p class="services-realm__summary">{{ realm.summary }}</p>
+    {% if realm.pitch %}
+    <aside class="services-realm__pitch panel">
+      <p class="services-realm__pitch-title">&gt;_ {{ realm.pitch.title }}</p>
+      {% for line in realm.pitch.lines %}
+      <p class="services-realm__pitch-line">{{ line }}</p>
+      {% endfor %}
+    </aside>
+    {% endif %}
     {% if realm.proof.size > 0 %}
     <p class="services-proof">
       {% for link in realm.proof %}

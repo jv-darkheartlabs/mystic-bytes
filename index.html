@@ -1,6 +1,5 @@
 ---
 layout: default
-ticker: true
 title: "JV · Dark Heart Labs — the signal, the void, the warmth"
 description: "Dark Heart Labs — Magic: The Gathering card search, podcast, and technical signal."
 permalink: /
@@ -8,22 +7,6 @@ permalink: /
 
 <div class="container">
   <h1 class="sr-only">JV · DARK HEART LABS — code, creativity, and the technical void</h1>
-
-  <a class="ticker" href="{{ '/about/' | relative_url }}">
-    <div class="ticker__inner">
-      <span class="ticker__label">&gt;_ TRANSMISSION</span>
-      <div class="ticker__viewport">
-        <div class="ticker__track">
-          {% assign messages = site.data.site.ticker_messages %}
-          {% for repeat in (1..2) %}
-            {% for msg in messages %}
-              <span class="ticker__item">{{ msg }}</span>
-            {% endfor %}
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </a>
 
   <div class="now-broadcasting">
     <span class="now-broadcasting__label">&gt;_ NOW BROADCASTING</span>
