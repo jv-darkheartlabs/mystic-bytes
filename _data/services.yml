@@ -49,7 +49,7 @@ realms:
     proof: []
     packages:
       - name: Dockside Diagnostic
-        price: "what it was worth to you"
+        price: "you name what it's worth"
         timeline: "1–2 hours · required before any Fix & Fish day"
         includes:
           - "On-vessel or marina meetup — triage devices, network, and whatever plugs in"
@@ -60,7 +60,7 @@ realms:
           - "Charter day itself (book after diagnostic clears or after parts arrive)"
           - "Any hardware cost — parts are always client-purchased"
       - name: Half-Day Fix & Fish
-        price: "what the half-day was worth to you"
+        price: "you name what the half-day is worth"
         timeline: "~4 hours tech capacity · parallel with your charter"
         includes:
           - "Up to 3–4 computers / devices with advance notice — MacBook software repairs and connected gear"
@@ -73,7 +73,7 @@ realms:
           - "Motherboard soldering · screen replacements · more than 4 machines without a custom brief"
           - "Charter hire, fuel, slip, or captain fees (your arrangement)"
       - name: Full-Day Fix & Fish
-        price: "what the full day was worth to you"
+        price: "you name what the full-day is worth"
         timeline: "~6–8 hours tech capacity · parallel with your charter"
         includes:
           - "Same scope as Half-Day with a full charter window — up to 3–4 computers with advance notice"
