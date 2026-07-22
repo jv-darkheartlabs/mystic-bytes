@@ -2971,6 +2971,49 @@ section:has(> .section-label):not(.mission-timeline) {
   }
 }
 
+.services-realm__access {
+  margin: 1.25rem 0 0;
+  max-width: 42rem;
+  padding: 1rem 1.25rem;
+
+  &-disclaimer,
+  &-other {
+    margin: 0.75rem 0 0;
+    color: var(--muted-foreground);
+    line-height: 1.55;
+    font-size: 0.875rem;
+  }
+
+  &-steps {
+    margin: 0.75rem 0 0;
+    padding-left: 1.25rem;
+    color: var(--foreground);
+    line-height: 1.55;
+
+    li {
+      margin-bottom: 0.5rem;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  &-help {
+    margin: 0.75rem 0 0;
+    @include font-mono;
+    font-size: 0.75rem;
+
+    a {
+      color: var(--rose);
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
 .services-proof {
   margin: 0.75rem 0 0;
   @include font-mono;

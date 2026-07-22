@@ -84,14 +84,46 @@ realms:
     badge: SITE
     section_num: "01"
     summary: "Static Jekyll on GitHub Pages · custom domain · embeds when you want them · built from your brief or Figma · I set up the repo then transfer it · you write the words"
+    pitch:
+      title: "advanced dns and the business owner"
+      lines:
+        - "You did not start a company to learn what an apex record is at 11 p.m. The site is ready — or the developer is waiting — and GoDaddy opens Advanced DNS like a storm door: CNAME, TXT, SRV, nameservers from 2014 still whispering from the attic."
+        - "That shaking in your chest is not incompetence. It is a sane response to an interface that treats your livelihood like a lab experiment. GitHub Pages wants four truths. Your old email forwarder wants an SPF. Someone on YouTube says click here; the panel says something else. You are the owner. You should not have to become a network priest to publish."
+        - "I map the records, verify propagation, and leave you a short written ledger of what changed. You keep the domain and the keys. I never ask for your password — on GoDaddy you invite me with Domains Only access (steps below). Other registrar? Name it in your brief; the goal is the same: DNS handled without trauma."
+    access:
+      title: "GoDaddy · Domains Only delegate access"
+      disclaimer: "Dark Heart Labs is not affiliated with GoDaddy. UI labels change; if yours looks different, use their help article linked below."
+      steps:
+        - "Sign in at godaddy.com with the account that owns the domain."
+        - "Open your profile (avatar) → Account Settings → Delegate Access — or go to the Delegate Access page while signed in."
+        - "Under People who can access my account, select Invite to Access."
+        - "Name: Jennifer · Email: jv@darkheartlabs.technology"
+        - "Access level: Domains Only — not Products, not purchases, not your billing or payment methods."
+        - "Select Invite. GoDaddy emails me; I accept from the studio side. Pending invites expire in about 48–72 hours if not accepted; you can cancel anytime."
+        - "Optional: after I accept, you can restrict which domains I see via Domain Portfolio → folder permissions if you manage many names."
+      other_registrars: "Cloudflare, Namecheap, Squarespace Domains, and others: same outcome, different clicks — tell me which registrar in your site brief and I will send the matching checklist. No password sharing on any of them."
+      help:
+        label: "GoDaddy · invite a delegate"
+        href: "https://www.godaddy.com/help/invite-a-delegate-to-access-my-godaddy-account-12376"
     booking:
       label: "Request a site →"
       href: "/contact/?intent=sites"
-      note: "Say which package, whether you are migrating, and if the domain is already yours."
+      note: "Say which package, whether you are migrating, and if the domain is already yours. DNS-only: Advanced DNS Setup ($250 USD). GoDaddy: send Domains Only delegate invite before we start."
     proof:
       - label: darkheartlabs.technology
         href: "https://darkheartlabs.technology/"
     packages:
+      - name: Advanced DNS Setup
+        price: "$250 USD"
+        timeline: "Typically 1–3 business days after delegate access is accepted"
+        includes:
+          - "DNS for GitHub Pages or your stated host — A, AAAA, CNAME, TXT as required"
+          - "Written before/after summary and propagation verification notes"
+          - "GoDaddy: you invite Jennifer (jv@darkheartlabs.technology) with Domains Only — see steps above"
+          - "Other registrars: checklist after you name them in your brief"
+        excludes:
+          - "Full Jekyll site build (see packages below) · buying or transferring the domain"
+          - "Email mailbox migration · sharing your login · Products-level GoDaddy access"
       - name: Jekyll Starter
         price: "$2,800 USD"
         timeline: "Typically 2–3 weeks · one-shot build + handoff"
@@ -100,7 +132,7 @@ realms:
           - "Custom domain wiring checklist · mailto contact form"
           - "Repo created under studio, then transferred to your GitHub"
           - "One revision round on structure and theme · you supply all copy"
-          - "Options: domain / advanced DNS +$250 · CI pipeline +$600 · migration from WordPress or similar from +$1,800"
+          - "Options: Advanced DNS Setup standalone above · or DNS bundled with build +$250 · CI pipeline +$600 · migration from WordPress or similar from +$1,800"
         excludes:
           - "Content writing · Decap/CMS · ecommerce · member login"
           - "Ongoing publishing (see Publishing Care)"
@@ -111,7 +143,7 @@ realms:
           - "Collections, SCSS theme system, embeds (Spotify, video, etc. as you choose)"
           - "Custom domain · mailto · README handoff · repo setup then transfer"
           - "Built from brief or Figma · one revision round · you write the content"
-          - "Same options as Starter: DNS +$250 · CI (build → Pagefind → link check) +$600 · migration from +$1,800"
+          - "Same options as Starter: Advanced DNS Setup standalone · or DNS bundled +$250 · CI (build → Pagefind → link check) +$600 · migration from +$1,800"
         excludes:
           - "Content writing · CMS · ecommerce · member login"
       - name: Content Hub
@@ -121,7 +153,7 @@ realms:
           - "Essay / media / multi-shelf information architecture · redirects · search-ready layout"
           - "Everything in Studio Site at larger scope · embeds where useful"
           - "Repo setup then transfer · client-owned domain · you supply copy and assets"
-          - "Options: DNS +$250 · CI +$600 · WordPress or other migration from +$1,800 (scoped after inventory)"
+          - "Options: Advanced DNS Setup standalone · or DNS bundled +$250 · CI +$600 · WordPress or other migration from +$1,800 (scoped after inventory)"
         excludes:
           - "Content writing · CMS · ecommerce · member login"
       - name: Publishing Care
