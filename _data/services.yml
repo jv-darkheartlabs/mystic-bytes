@@ -8,12 +8,8 @@ specs:
     value: "NZD $205 · USD $120 · 4–8 hour minimum"
   - label: rate_basis
     value: "Auckland AEWV senior IC + NZD $2k/mo stipend"
-  - label: part_time
-    value: "80 hrs / month · NZD $16,400 · USD $9,600"
   - label: payment
     value: "PayPal · Wise · AUD/NZD/USD at mid-market rate"
-  - label: full_time
-    value: "160 hrs / month · NZD $32,800 · USD $19,200"
   - label: engagement
     value: "Remote · hybrid · on-site · Louisiana field"
   - label: employment
