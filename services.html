@@ -56,6 +56,27 @@ permalink: /services/
       {% endfor %}
     </aside>
     {% endif %}
+    {% if realm.access %}
+    <aside class="services-realm__access panel">
+      <p class="services-realm__pitch-title">&gt;_ {{ realm.access.title }}</p>
+      {% if realm.access.disclaimer %}
+      <p class="services-realm__access-disclaimer">{{ realm.access.disclaimer }}</p>
+      {% endif %}
+      <ol class="services-realm__access-steps">
+        {% for step in realm.access.steps %}
+        <li>{{ step }}</li>
+        {% endfor %}
+      </ol>
+      {% if realm.access.other_registrars %}
+      <p class="services-realm__access-other">{{ realm.access.other_registrars }}</p>
+      {% endif %}
+      {% if realm.access.help %}
+      <p class="services-realm__access-help">
+        <a href="{{ realm.access.help.href }}" target="_blank" rel="noreferrer">{{ realm.access.help.label }} ↗</a>
+      </p>
+      {% endif %}
+    </aside>
+    {% endif %}
     {% if realm.proof.size > 0 %}
     <p class="services-proof">
       {% for link in realm.proof %}
