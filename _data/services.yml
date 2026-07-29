@@ -1,7 +1,7 @@
 tagline: "contract work · fixed packages · no equity-only"
-lede: "Apple-platform software, accessibility, AI integration, Jekyll sites on GitHub Pages, and Louisiana Gulf Fix & Fish days for yacht owners who want tech support without skipping the charter. Rates are modelled on an Auckland AEWV senior IC package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity. Remote, hybrid, and on-site work included at these rates."
+lede: "Apple-platform software, accessibility, AI integration, Jekyll sites on GitHub Pages, and Louisiana Gulf Debug & Drift days for yacht owners who want tech support without skipping the charter. Rates are modelled on an Auckland AEWV senior IC package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity. Remote, hybrid, and on-site work included at these rates."
 
-rate_basis: "Benchmark: Auckland AEWV market for senior Developer Programmer (~NZD $150,000 / year) plus NZD $2,000 / month housing–settling stipend ≈ NZD $14,500 / month fully shaped. The 80-hour retainer is the half-time version with a light contract premium; the full-time line doubles that capacity. AUD/USD invoices use mid-market FX. Fix & Fish is Louisiana field work — dockside diagnostic first; you name what the service was worth (parts are always yours to buy). Sites packages are fixed build or publishing retainers on top of the same hourly floor."
+rate_basis: "Benchmark: Auckland AEWV market for senior Developer Programmer (~NZD $150,000 / year) plus NZD $2,000 / month housing–settling stipend ≈ NZD $14,500 / month fully shaped. The 80-hour retainer is the half-time version with a light contract premium; the full-time line doubles that capacity. AUD/USD invoices use mid-market FX. Debug & Drift is Louisiana field work — Slipside Service diagnostic first; you name what the service was worth (parts are always yours to buy). Sites packages are fixed build or publishing retainers on top of the same hourly floor."
 
 specs:
   - label: hourly_rate
@@ -15,7 +15,7 @@ specs:
   - label: employment
     value: "Full-time / sponsored roles → see CV"
   - label: availability
-    value: "Open for new clients · ~1 Fix & Fish / week"
+    value: "Open for new clients · ~1 Debug & Drift / week"
 
 rules:
   - "Nothing unpaid — spec work and ‘exposure’ are declined."
@@ -23,12 +23,12 @@ rules:
   - "No equity-only engagements."
   - "No CMS builds, finance products, medical software, ecommerce, or member login."
   - "Human approval on what ships — AI assists; you lead."
-  - "Fix & Fish: dockside diagnostic first; client vessel or client-hired charter; parts never included (you buy); service fee is what the day was worth to you — no stamped menu price."
+  - "Debug & Drift: Slipside Service diagnostic first; client vessel or client-hired charter; parts never included (you buy); service fee is what the day was worth to you — no stamped menu price."
   - "Sites: structure, theme, and deploy only — you write the content; repo set up then transferred; domain stays client-owned."
 
 realms:
-  - id: fix_and_fish
-    title: fix & fish
+  - id: debug_and_drift
+    title: debug & drift
     badge: FIELD
     section_num: "00"
     summary: "Louisiana Gulf · your yacht or a charter you hire · I fix what plugs in while your guests fish · up to 3–4 computers with advance notice · ~1 booking / week"
@@ -36,26 +36,26 @@ realms:
       title: "charted water, dead screen"
       lines:
         - "Dawn at the slip. The partner's laptop will not wake. The charter is paid for, the tide is moving, and the redfish do not care about your inbox. You are not choosing between love and the line — you are choosing whether shame sits on the gunwale while everyone else casts."
-        - "I got you, captain. Fix & Fish puts IT on your vessel or the boat you hire: dockside diagnostic first, then a half- or full-day while your people fish. I work what plugs in — MacBooks, Wi‑Fi, the small disasters — until the software yields or we write the parts list you take to the chandlery yourself."
+        - "I got you, captain. Debug & Drift puts IT on your vessel or the boat you hire: Slipside Service first, then on-vessel support for a half- or full-day while your people fish. I work what plugs in — MacBooks, Wi‑Fi, the small disasters — until the software yields or we write the parts list you take to the chandlery yourself."
         - "Parts are never on my tab. What you pay for the service is what that peace was worth to you — can anyone really stamp a global price on convenience? Your charter, slip, fuel, and hardware are yours. I bring the hands; you decide what a guilt-free day on the Gulf costs."
     booking:
-      label: "Request Fix & Fish →"
-      href: "/contact/?intent=fix-and-fish"
-      note: "Include marina, vessel type, device count, and half- or full-day preference."
+      label: "Request Debug & Drift →"
+      href: "/contact/?intent=debug-and-drift"
+      note: "Include marina, vessel type, device count, and Slipside Service vs half- or full-day on-vessel support."
     proof: []
     packages:
-      - name: Dockside Diagnostic
+      - name: Slipside Service
         price: "you name what it's worth"
-        timeline: "1–2 hours · required before any Fix & Fish day"
+        timeline: "1–2 hours · required before any on-vessel support day"
         includes:
-          - "On-vessel or marina meetup — triage devices, network, and whatever plugs in"
+          - "Slip or marina meetup — triage devices, network, and whatever plugs in"
           - "Written go / no-go: software-fixable today vs parts required"
           - "Parts list for anything you need to buy (never included in service; I do not stock hardware)"
         excludes:
           - "Fishing time · motherboard soldering · screen replacement · board-level repair"
-          - "Charter day itself (book after diagnostic clears or after parts arrive)"
+          - "On-vessel support day itself (book after Slipside Service clears or after parts arrive)"
           - "Any hardware cost — parts are always client-purchased"
-      - name: Half-Day Fix & Fish
+      - name: Half-Day On-Vessel Support
         price: "you name what the half-day is worth"
         timeline: "~4 hours tech capacity · parallel with your charter"
         includes:
@@ -68,11 +68,11 @@ realms:
           - "Parts (never included) · food cost · travel beyond the local Gulf day"
           - "Motherboard soldering · screen replacements · more than 4 machines without a custom brief"
           - "Charter hire, fuel, slip, or captain fees (your arrangement)"
-      - name: Full-Day Fix & Fish
+      - name: Full-Day On-Vessel Support
         price: "you name what the full-day is worth"
         timeline: "~6–8 hours tech capacity · parallel with your charter"
         includes:
-          - "Same scope as Half-Day with a full charter window — up to 3–4 computers with advance notice"
+          - "Same scope as Half-Day On-Vessel Support with a full charter window — up to 3–4 computers with advance notice"
           - "Weather / parts pause: if hardware is required, the charter day waits until parts arrive — no soldering, no screen swaps"
           - "Out-of-area yachts: travel and lodging at cost; service fee still at your discretion"
         excludes:
@@ -213,4 +213,4 @@ open_source:
 cta:
   label: "Request a brief"
   href: "/contact/"
-  note: "Include package name, timeline, and budget. For Fix & Fish: marina, vessel, devices, and what you intend for the service fee. For sites: package, migration source if any, domain status. Rush requests noted upfront."
+  note: "Include package name, timeline, and budget. For Debug & Drift: marina, vessel, devices, and what you intend for the service fee. For sites: package, migration source if any, domain status. Rush requests noted upfront."

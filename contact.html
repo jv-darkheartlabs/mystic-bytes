@@ -5,7 +5,7 @@ eyebrow: "[contact]"
 subtitle: "open a channel. the void listens."
 permalink: /contact/
 ---
-<p>Remote-first. Packages and rates on the <a href="{{ '/services/' | relative_url }}">services</a> page. For Fix &amp; Fish or a Jekyll site, pick that realm below and fill the brief fields. Open to contract and freelance work; full-time roles on the <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
+<p>Remote-first. Packages and rates on the <a href="{{ '/services/' | relative_url }}">services</a> page. For Debug &amp; Drift or a Jekyll site, pick that realm below and fill the brief fields. Open to contract and freelance work; full-time roles on the <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
 
 <form id="raven-form" class="panel scanlines" style="margin-top: 2rem; padding: 1.5rem; display: grid; gap: 1.25rem;">
   <div>
@@ -20,7 +20,7 @@ permalink: /contact/
     <label class="field-label" for="realm">$ realm</label>
     <select class="field-input" id="realm" name="realm" required>
       <option value="">select…</option>
-      <option value="fix-and-fish">fix &amp; fish (Louisiana Gulf)</option>
+      <option value="debug-and-drift">debug &amp; drift (Louisiana Gulf)</option>
       <option value="sites">sites (Jekyll + GitHub Pages)</option>
       <option value="technology">technology</option>
       <option value="other">other / general</option>
@@ -66,9 +66,9 @@ permalink: /contact/
     </div>
   </fieldset>
 
-  <fieldset id="fix-and-fish-fields" class="brief-fields" hidden>
-    <legend class="field-label">$ fix_and_fish brief</legend>
-    <p class="brief-hint">Dockside diagnostic first. Louisiana for now · up to 3–4 computers with advance notice · you provision food.</p>
+  <fieldset id="debug-and-drift-fields" class="brief-fields" hidden>
+    <legend class="field-label">$ debug_and_drift brief</legend>
+    <p class="brief-hint">Slipside Service first. Louisiana for now · up to 3–4 computers with advance notice · you provision food.</p>
     <div>
       <label class="field-label" for="marina">$ marina / meet point</label>
       <input class="field-input" id="marina" name="marina" type="text" placeholder="e.g. Venice, Empire, local slip name">
@@ -92,9 +92,9 @@ permalink: /contact/
       <label class="field-label" for="day_length">$ day_length</label>
       <select class="field-input" id="day_length" name="day_length">
         <option value="">select…</option>
-        <option value="diagnostic">dockside diagnostic only</option>
-        <option value="half">half-day fix &amp; fish</option>
-        <option value="full">full-day fix &amp; fish</option>
+        <option value="diagnostic">slipside service (diagnostic only)</option>
+        <option value="half">half-day on-vessel support</option>
+        <option value="full">full-day on-vessel support</option>
         <option value="unsure">not sure yet</option>
       </select>
     </div>
@@ -117,11 +117,11 @@ permalink: /contact/
     var realm = document.getElementById('realm');
     var subjectEl = document.getElementById('subject');
     var briefs = {
-      'fix-and-fish': {
-        fields: document.getElementById('fix-and-fish-fields'),
+      'debug-and-drift': {
+        fields: document.getElementById('debug-and-drift-fields'),
         required: ['marina', 'vessel', 'device_count', 'day_length'],
-        subject: 'Fix & Fish — diagnostic / charter day',
-        placeholder: 'Fix & Fish — marina + date window'
+        subject: 'Debug & Drift — Slipside Service / on-vessel support',
+        placeholder: 'Debug & Drift — marina + date window'
       },
       sites: {
         fields: document.getElementById('sites-fields'),
@@ -155,8 +155,8 @@ permalink: /contact/
 
     var params = new URLSearchParams(window.location.search);
     var intent = params.get('intent') || params.get('realm');
-    if (intent === 'fix-and-fish' || intent === 'fix_and_fish') {
-      realm.value = 'fix-and-fish';
+    if (intent === 'debug-and-drift' || intent === 'debug_and_drift') {
+      realm.value = 'debug-and-drift';
     } else if (intent === 'sites' || intent === 'site') {
       realm.value = 'sites';
     }
@@ -171,7 +171,7 @@ permalink: /contact/
         'From: ' + d.get('name') + ' <' + d.get('email') + '>',
         'Realm: ' + d.get('realm')
       ];
-      if (d.get('realm') === 'fix-and-fish') {
+      if (d.get('realm') === 'debug-and-drift') {
         lines.push(
           'Marina / meet: ' + d.get('marina'),
           'Vessel: ' + d.get('vessel'),
