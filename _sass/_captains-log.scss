@@ -3111,6 +3111,30 @@ section:has(> .section-label):not(.mission-timeline) {
       margin-top: 0.35rem;
     }
   }
+
+  &__pitch {
+    margin: 0 0 0.75rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: var(--muted-foreground);
+  }
+
+  &__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin-top: auto;
+    padding-top: 1rem;
+  }
+
+  &--featured {
+    border-color: color-mix(in oklab, var(--violet) 45%, var(--border));
+    box-shadow: var(--section-glow-soft);
+
+    @media (min-width: 768px) {
+      grid-column: 1 / -1;
+    }
+  }
 }
 
 .services-aside {

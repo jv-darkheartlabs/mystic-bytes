@@ -22,6 +22,7 @@ permalink: /contact/
       <option value="">select…</option>
       <option value="debug-and-drift">debug &amp; drift (Louisiana Gulf)</option>
       <option value="sites">sites (Jekyll + GitHub Pages)</option>
+      <option value="date-proposal">ask — date proposal</option>
       <option value="technology">technology</option>
       <option value="other">other / general</option>
     </select>
@@ -104,6 +105,44 @@ permalink: /contact/
     </div>
   </fieldset>
 
+  <fieldset id="date-proposal-fields" class="brief-fields" hidden>
+    <legend class="field-label">$ date_proposal brief</legend>
+    <p class="brief-hint">Interactive date proposal on ask.darkheartlabs.technology — private link, hand-built from your brief.</p>
+    <div>
+      <label class="field-label" for="proposal_recipient">$ recipient_name</label>
+      <input class="field-input" id="proposal_recipient" name="proposal_recipient" type="text" placeholder="who is this for?">
+    </div>
+    <div>
+      <label class="field-label" for="proposal_sender">$ your_name</label>
+      <input class="field-input" id="proposal_sender" name="proposal_sender" type="text" placeholder="who is asking?">
+    </div>
+    <div>
+      <label class="field-label" for="proposal_theme">$ theme</label>
+      <select class="field-input" id="proposal_theme" name="proposal_theme">
+        <option value="">select…</option>
+        <option value="dhl">DHL polished (dark, literary)</option>
+        <option value="chaos">chaos mode (viral meme energy)</option>
+        <option value="unsure">not sure — show me the demo first</option>
+      </select>
+    </div>
+    <div>
+      <label class="field-label" for="proposal_days">$ day_options</label>
+      <input class="field-input" id="proposal_days" name="proposal_days" type="text" placeholder="e.g. Friday, Saturday, Surprise me">
+    </div>
+    <div>
+      <label class="field-label" for="proposal_times">$ time_options</label>
+      <input class="field-input" id="proposal_times" name="proposal_times" type="text" placeholder="e.g. 7:00 PM, 8:00 PM">
+    </div>
+    <div>
+      <label class="field-label" for="proposal_food">$ food_options</label>
+      <input class="field-input" id="proposal_food" name="proposal_food" type="text" placeholder="e.g. pasta, tacos, pizza">
+    </div>
+    <div>
+      <label class="field-label" for="proposal_punchline">$ custom_punchline</label>
+      <input class="field-input" id="proposal_punchline" name="proposal_punchline" type="text" placeholder="optional — or keep the Cursor lunch default">
+    </div>
+  </fieldset>
+
   <div>
     <label class="field-label" for="message">$ message</label>
     <textarea class="field-input" id="message" name="message" rows="6" required placeholder="type message…"></textarea>
@@ -128,6 +167,12 @@ permalink: /contact/
         required: ['site_package', 'migrate_from', 'domain_status'],
         subject: 'Sites — Jekyll + GitHub Pages',
         placeholder: 'Sites — package + domain'
+      },
+      'date-proposal': {
+        fields: document.getElementById('date-proposal-fields'),
+        required: ['proposal_recipient', 'proposal_sender', 'proposal_theme'],
+        subject: 'Ask — custom date proposal',
+        placeholder: 'Ask — date proposal brief'
       }
     };
 
@@ -159,6 +204,8 @@ permalink: /contact/
       realm.value = 'debug-and-drift';
     } else if (intent === 'sites' || intent === 'site') {
       realm.value = 'sites';
+    } else if (intent === 'date-proposal' || intent === 'ask') {
+      realm.value = 'date-proposal';
     }
     syncBrief();
     realm.addEventListener('change', syncBrief);
@@ -185,6 +232,17 @@ permalink: /contact/
           'Package: ' + d.get('site_package'),
           'Migrate from: ' + d.get('migrate_from'),
           'Domain: ' + d.get('domain_status')
+        );
+      }
+      if (d.get('realm') === 'date-proposal') {
+        lines.push(
+          'Recipient: ' + d.get('proposal_recipient'),
+          'Sender: ' + d.get('proposal_sender'),
+          'Theme: ' + d.get('proposal_theme'),
+          'Day options: ' + (d.get('proposal_days') || '(not specified)'),
+          'Time options: ' + (d.get('proposal_times') || '(not specified)'),
+          'Food options: ' + (d.get('proposal_food') || '(not specified)'),
+          'Custom punchline: ' + (d.get('proposal_punchline') || '(default)')
         );
       }
       lines.push('', d.get('message'));

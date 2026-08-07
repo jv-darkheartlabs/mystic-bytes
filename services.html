@@ -92,12 +92,15 @@ permalink: /services/
     {% endif %}
     <div class="services-packages">
       {% for pkg in realm.packages %}
-      <article class="service-package panel">
+      <article class="service-package panel{% if pkg.featured %} service-package--featured{% endif %}">
         <header class="service-package__head">
           <h2 class="service-package__name">{{ pkg.name }}</h2>
           <p class="service-package__price">{{ pkg.price }}</p>
           <p class="service-package__timeline">{{ pkg.timeline }}</p>
         </header>
+        {% if pkg.pitch %}
+        <p class="service-package__pitch">{{ pkg.pitch }}</p>
+        {% endif %}
         <div class="service-package__body">
           <p class="service-package__label">includes</p>
           <ul class="service-package__list">
@@ -112,6 +115,16 @@ permalink: /services/
             {% endfor %}
           </ul>
         </div>
+        {% if pkg.demo or pkg.booking %}
+        <div class="service-package__actions">
+          {% if pkg.demo %}
+          <a class="btn-outline" href="{% if pkg.demo.href contains 'http' %}{{ pkg.demo.href }}{% else %}{{ pkg.demo.href | relative_url }}{% endif %}"{% if pkg.demo.href contains 'http' %} target="_blank" rel="noreferrer"{% endif %}>{{ pkg.demo.label }}</a>
+          {% endif %}
+          {% if pkg.booking %}
+          <a class="btn-outline" href="{{ pkg.booking.href | relative_url }}">{{ pkg.booking.label }}</a>
+          {% endif %}
+        </div>
+        {% endif %}
       </article>
       {% endfor %}
     </div>
