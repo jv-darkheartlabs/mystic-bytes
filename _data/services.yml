@@ -129,7 +129,7 @@ realms:
         includes:
           - "Custom interactive proposal on ask.darkheartlabs.technology/p/{your-slug}/"
           - "Runaway No button · day, time, and food vote wizard"
-          - "DHL polished theme or chaos mode"
+          - "Dark Heart Labs Signal Protocol theme"
           - "Custom names, options, and punchline from your brief"
           - "Private unlisted URL · noindex by default"
         excludes:
