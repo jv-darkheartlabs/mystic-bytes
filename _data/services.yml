@@ -119,7 +119,7 @@ realms:
         price: "pricing TBD · demo live"
         timeline: "Typically 48 hours after brief"
         featured: true
-        pitch: "The viral ask — runaway No button, pick a day, vote on tacos vs pasta, land on a punchline that admits you built a whole website instead of texting."
+        pitch: "The viral ask — runaway No button, pick a day, vote on gelatos vs gyros, land on a punchline that admits you built a whole website instead of texting."
         demo:
           label: "Try the demo ↗"
           href: "https://ask.darkheartlabs.technology/demo/"
