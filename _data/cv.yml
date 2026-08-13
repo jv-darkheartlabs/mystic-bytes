@@ -50,7 +50,6 @@ selected_documentation:
   -
     title: Ops how-tos
     text: "DNS, email authentication, hosting, and Docker written so a non-specialist can finish the task without a call."
-    url: ""
 experience:
   -
     org: Independent

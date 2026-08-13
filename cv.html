@@ -88,7 +88,7 @@ permalink: /cv/
     <ul class="cv-selected-docs__list">
       {% for item in cv.selected_documentation %}
       <li class="panel">
-        <h3>{% if item.url != blank %}<a href="{{ item.url }}" target="_blank" rel="noreferrer">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3>
+        <h3>{% if item.url contains 'http' %}<a href="{{ item.url }}" target="_blank" rel="noreferrer">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3>
         <p>{{ item.text }}</p>
       </li>
       {% endfor %}
