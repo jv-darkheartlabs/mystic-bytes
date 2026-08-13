@@ -1,15 +1,15 @@
 tagline: "contract work · fixed packages · no equity-only"
-lede: "How-to articles, knowledge bases, incident copy, and documentation sites — plus Louisiana Gulf Debug & Drift days for yacht owners who want tech support without skipping the charter. Rates are modelled on an Auckland AEWV senior Technical Writer package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity. Remote, hybrid, and on-site work included at these rates."
+lede: "How-to articles, knowledge bases, incident copy, and documentation sites — plus Louisiana Gulf Debug & Drift days for yacht owners who want tech support without skipping the charter. Rates are for the work, anywhere: senior how-to writing, accessible docs sites, and DNS / mail / endpoint notes a tired first-time user can finish. Remote, hybrid, and on-site at the same floor."
 
-rate_basis: "Benchmark: Auckland AEWV market for senior Technical Writer (~NZD $150,000 / year) plus NZD $2,000 / month housing–settling stipend ≈ NZD $14,500 / month fully shaped. The 80-hour retainer is the half-time version with a light contract premium; the full-time line doubles that capacity. AUD/USD invoices use mid-market FX. Debug & Drift is Louisiana field work — Slipside Service diagnostic first; you name what the service was worth (parts are always yours to buy). Ask date proposals are hand-built microsites. Documentation and docs-site packages sit on the same hourly floor."
+rate_basis: "USD $120 / hour, 4-hour minimum — a competitive independent rate for senior technical writing with accessible front-end and IT-notes literacy in the same brief. Fixed packages below are scoped so you are not buying hours in the dark; they sit on that floor. Invoices in USD; AUD, NZD, or EUR at mid-market if you prefer. Debug & Drift is Louisiana field work — Slipside Service diagnostic first; you name what the service was worth (parts are always yours to buy). Ask date proposals are hand-built microsites."
 
 specs:
   - label: hourly_rate
-    value: "NZD $205 · USD $120 · 4–8 hour minimum"
+    value: "USD $120 · 4-hour minimum"
   - label: rate_basis
-    value: "Auckland AEWV senior Technical Writer + NZD $2k/mo stipend"
+    value: "Global freelance floor · the work, not a local salary"
   - label: payment
-    value: "PayPal · Wise · AUD/NZD/USD at mid-market rate"
+    value: "PayPal · Wise · USD (AUD / NZD / EUR at mid-market)"
   - label: engagement
     value: "Remote · hybrid · on-site · Louisiana field"
   - label: employment
@@ -231,19 +231,19 @@ realms:
         excludes:
           - "Open-ended backlog without a written scope · software feature builds"
       - name: Documentation Retainer
-        price: "NZD $16,400 · USD $9,600 / month"
-        timeline: "80 hours · monthly cadence · AEWV-shaped"
+        price: "$9,600 USD / month"
+        timeline: "80 hours · monthly cadence · half-time capacity"
         includes:
           - "Sustained senior technical writing across your product docs"
           - "How-tos, KB, incident notes, README upkeep, and edit passes"
-          - "Priced as Auckland AEWV senior Technical Writer package + stipend, half-time delivery"
+          - "Same USD $120 hourly floor as the rest of the page"
           - "Remote, hybrid, or on-site · async standups — no meeting theatre"
         excludes:
           - "CMS · finance · medical · ecommerce · member login · software feature builds"
 
 open_source:
   title: open source
-  blurb: "Paid docs advisory on the same NZD $205 / USD $120 hourly · 4 hour minimum. README and how-to work on public repos — contact with repo context."
+  blurb: "Paid docs advisory on the same USD $120 hourly · 4-hour minimum. README and how-to work on public repos — contact with repo context."
 
 cta:
   label: "Request a brief"
