@@ -1,6 +1,4 @@
 languages:
-  - HTML/CSS
-  - JavaScript
   - Markdown
   - YAML
   - Liquid
@@ -16,9 +14,6 @@ groups:
       - Incident notes
       - Customer-facing explanations
       - Plain language
-    accessibility_and_ui:
-      - First-time-user reading path
-      - Accessibility-aware help text
   -
     title: Front end
     software:
@@ -28,22 +23,17 @@ groups:
       - Jekyll
       - WordPress
       - Drupal
-    accessibility_and_ui:
-      - Accessible UI
       - WCAG 2.1
   -
     title: IT analysis & desktop support
     software:
       - DNS
-      - Email deliverability (SPF / DKIM / DMARC)
+      - SPF / DKIM / DMARC
       - Hosting
       - Docker
     operating_systems:
       - macOS
       - Windows
-    practices:
-      - Recurring-issue runbooks
-      - Endpoint notes
 
 collaboration:
   title: Tools
@@ -55,4 +45,3 @@ collaboration:
     - Linear
     - Jira
     - Confluence
-    - Async-first collaboration

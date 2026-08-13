@@ -35,6 +35,9 @@ permalink: /cv/
     <section class="cv-summary" aria-labelledby="cv-summary-heading">
       <h2 id="cv-summary-heading" class="cv-section__title">Professional Summary</h2>
       <p class="cv-intro">{{ cv.intro }}</p>
+      {% if cv.remote_practice != blank %}
+      <p class="cv-intro">{{ cv.remote_practice }}</p>
+      {% endif %}
     </section>
     <section class="cv-aewv panel" aria-labelledby="cv-aewv-heading">
       <div class="cv-aewv__head">
@@ -73,18 +76,6 @@ permalink: /cv/
       </a>
     </section>
   </header>
-
-  <section class="cv-core-fit" aria-labelledby="cv-core-fit-heading">
-    <h2 id="cv-core-fit-heading" class="cv-section__title">Core fit</h2>
-    <div class="cv-core-fit__grid">
-      {% for item in cv.core_fit %}
-      <article class="cv-core-fit__item panel">
-        <h3>{{ item.label }}</h3>
-        <p>{{ item.value }}</p>
-      </article>
-      {% endfor %}
-    </div>
-  </section>
 
   {% if cv.selected_documentation.size > 0 %}
   <section class="cv-selected-docs" aria-labelledby="cv-docs-heading">

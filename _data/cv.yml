@@ -4,15 +4,6 @@ phone: "504.510.1878"
 location_line: "Remote · async (US and New Zealand)"
 intro: "Async remote hire who writes the how-to, ships the accessible page, and documents the DNS, mail, or endpoint failure so a tired first-time user can finish without a call. Comfortable in technical writing, front-end delivery, and IT analysis / desktop-support work — applying as an individual contributor, not a staff engineering seat."
 remote_practice: "Async-first · written handoffs · Slack · GitHub · Markdown · distributed clients across US timezones while based in New Zealand part of the year"
-core_fit:
-  - label: Technical writing
-    value: "How-to articles, knowledge base, READMEs, incident notes, customer-facing explanations, plain language"
-  - label: Front end
-    value: "HTML · CSS · JavaScript · Jekyll · accessible UI · WCAG 2.1 · WordPress · Drupal"
-  - label: IT analysis & desktop support
-    value: "DNS · email deliverability (SPF / DKIM / DMARC) · hosting · Docker · macOS and Windows endpoint notes · recurring-issue runbooks"
-  - label: Remote practice
-    value: "Async-first · written handoffs · Slack · GitHub · Markdown · US and New Zealand"
 aewv:
   heading: AEWV sponsorship pathway
   status: "Seeking an async remote IC role in technical writing, accessible frontend, or IT support, including offers from AEWV-accredited employers in Auckland / New Zealand."
