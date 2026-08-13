@@ -1,5 +1,5 @@
 tagline: the voice behind the signal. not the résumé.
-bio: "I build quiet software for loud minds. My workbench spans Apple platforms — Swift, SwiftUI, Core ML — with detours through Rust proxy modules, edge TypeScript, and whatever the moment asks for. The credentials live on the CV."
+bio: "I write how-tos a tired first-time user can finish. Incident notes and customer-facing copy when DNS, email, or deploys break. Enough hosting and mail literacy to document the system without waiting on an engineer for every sentence. The credentials live on the CV."
 specs:
   -
     label: comm_channel
@@ -23,7 +23,7 @@ tenets:
   -
     line: "Human hands, human yes — AI helps; people lead and approve what ships."
   -
-    line: "Built for loud minds — tools that respect brains that do not sit still."
+    line: "Written for loud minds — docs that respect brains that do not sit still."
   -
     line: "Open tools, sealed work — share what we can; some things stay private on purpose."
 manual:
@@ -85,8 +85,8 @@ manual:
         k: "Brainstorming & ideating"
         v: "Whiteboard sessions, wild ideas, yes-and energy."
       -
-        k: "Designing & creating"
-        v: "Making things that didn't exist before."
+        k: "Writing & explaining"
+        v: "Turning a messy Slack thread into a page someone can finish."
       -
         k: "Automating & optimizing"
         v: "If I do it twice, I'll automate it."

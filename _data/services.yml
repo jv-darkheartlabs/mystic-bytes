@@ -1,13 +1,13 @@
 tagline: "contract work · fixed packages · no equity-only"
-lede: "Apple-platform software, accessibility, AI integration, Jekyll sites on GitHub Pages, and Louisiana Gulf Debug & Drift days for yacht owners who want tech support without skipping the charter. Rates are modelled on an Auckland AEWV senior IC package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity. Remote, hybrid, and on-site work included at these rates."
+lede: "How-to articles, knowledge bases, incident copy, and documentation sites — plus Louisiana Gulf Debug & Drift days for yacht owners who want tech support without skipping the charter. Rates are modelled on an Auckland AEWV senior Technical Writer package plus a settling stipend — so retainers read like sponsorship-shaped monthly capacity. Remote, hybrid, and on-site work included at these rates."
 
-rate_basis: "Benchmark: Auckland AEWV market for senior Developer Programmer (~NZD $150,000 / year) plus NZD $2,000 / month housing–settling stipend ≈ NZD $14,500 / month fully shaped. The 80-hour retainer is the half-time version with a light contract premium; the full-time line doubles that capacity. AUD/USD invoices use mid-market FX. Debug & Drift is Louisiana field work — Slipside Service diagnostic first; you name what the service was worth (parts are always yours to buy). Sites packages are fixed build or publishing retainers on top of the same hourly floor."
+rate_basis: "Benchmark: Auckland AEWV market for senior Technical Writer (~NZD $150,000 / year) plus NZD $2,000 / month housing–settling stipend ≈ NZD $14,500 / month fully shaped. The 80-hour retainer is the half-time version with a light contract premium; the full-time line doubles that capacity. AUD/USD invoices use mid-market FX. Debug & Drift is Louisiana field work — Slipside Service diagnostic first; you name what the service was worth (parts are always yours to buy). Ask date proposals are hand-built microsites. Documentation and docs-site packages sit on the same hourly floor."
 
 specs:
   - label: hourly_rate
     value: "NZD $205 · USD $120 · 4–8 hour minimum"
   - label: rate_basis
-    value: "Auckland AEWV senior IC + NZD $2k/mo stipend"
+    value: "Auckland AEWV senior Technical Writer + NZD $2k/mo stipend"
   - label: payment
     value: "PayPal · Wise · AUD/NZD/USD at mid-market rate"
   - label: engagement
@@ -24,7 +24,8 @@ rules:
   - "No CMS builds, finance products, medical software, ecommerce, or member login."
   - "Human approval on what ships — AI assists; you lead."
   - "Debug & Drift: Slipside Service diagnostic first; client vessel or client-hired charter; parts never included (you buy); service fee is what the day was worth to you — no stamped menu price."
-  - "Sites: structure, theme, and deploy only — you write the content; repo set up then transferred; domain stays client-owned."
+  - "Ask date proposals: hand-built from your brief; private unlisted URL."
+  - "Documentation: I write the how-tos. You supply product facts and approve the draft. Domain and repo stay yours on docs-site work."
 
 realms:
   - id: debug_and_drift
@@ -77,13 +78,13 @@ realms:
           - "Out-of-area yachts: travel and lodging at cost; service fee still at your discretion"
         excludes:
           - "Parts (never included) · food cost · charter vessel hire"
-          - "Motherboard soldering · screen replacements · open-ended office IT retainers (see technology)"
+          - "Motherboard soldering · screen replacements · open-ended office IT retainers (see documentation)"
 
   - id: sites
     title: sites
     badge: SITE
     section_num: "01"
-    summary: "Static Jekyll on GitHub Pages · custom domain · Ask date proposals · embeds when you want them · built from your brief or Figma · I set up the repo then transfer it · you write the words"
+    summary: "Ask date proposals stay as they are · documentation sites on Jekyll / GitHub Pages · custom domain · I write the how-tos and help pages · repo set up then transferred · domain stays yours"
     pitch:
       title: "advanced dns and the business owner"
       lines:
@@ -108,7 +109,7 @@ realms:
     booking:
       label: "Request a site →"
       href: "/contact/?intent=sites"
-      note: "Say which package, whether you are migrating, and if the domain is already yours. Date proposals: /contact/?intent=date-proposal. DNS-only: Advanced DNS Setup ($250 USD)."
+      note: "Date proposals: /contact/?intent=date-proposal. Docs sites: say which package and whether you need how-tos written. DNS-only: Advanced DNS Setup ($250 USD)."
     proof:
       - label: darkheartlabs.technology
         href: "https://darkheartlabs.technology/"
@@ -150,89 +151,95 @@ realms:
         price: "$2,800 USD"
         timeline: "Typically 2–3 weeks · one-shot build + handoff"
         includes:
-          - "Jekyll 4 site · GitHub Pages · up to 6 pages from your brief or Figma"
+          - "Jekyll 4 documentation site · GitHub Pages · up to 6 pages"
+          - "How-to and help-page copy written from your product facts"
           - "Custom domain wiring checklist · mailto contact form"
           - "Repo created under studio, then transferred to your GitHub"
-          - "One revision round on structure and theme · you supply all copy"
+          - "One revision round on structure, theme, and docs · you approve the drafts"
           - "Options: Advanced DNS Setup standalone above · or DNS bundled with build +$250 · CI pipeline +$600 · migration from WordPress or similar from +$1,800"
         excludes:
-          - "Content writing · Decap/CMS · ecommerce · member login"
+          - "Decap/CMS · ecommerce · member login · Ask date proposals (see package above)"
           - "Ongoing publishing (see Publishing Care)"
       - name: Studio Site
         price: "$5,400 USD"
         timeline: "Typically 3–5 weeks · this-site class build + handoff"
         includes:
           - "Collections, SCSS theme system, embeds (Spotify, video, etc. as you choose)"
+          - "How-tos, help pages, and README-scale docs written from your brief"
           - "Custom domain · mailto · README handoff · repo setup then transfer"
-          - "Built from brief or Figma · one revision round · you write the content"
+          - "One revision round · you approve the drafts"
           - "Same options as Starter: Advanced DNS Setup standalone · or DNS bundled +$250 · CI (build → Pagefind → link check) +$600 · migration from +$1,800"
         excludes:
-          - "Content writing · CMS · ecommerce · member login"
+          - "CMS · ecommerce · member login · Ask date proposals (see package above)"
       - name: Content Hub
         price: "$8,400 USD"
         timeline: "Typically 5–8 weeks · larger archive + handoff"
         includes:
-          - "Essay / media / multi-shelf information architecture · redirects · search-ready layout"
-          - "Everything in Studio Site at larger scope · embeds where useful"
-          - "Repo setup then transfer · client-owned domain · you supply copy and assets"
+          - "Essay / media / docs archive · information architecture · redirects · search-ready layout"
+          - "How-tos and handbook-scale writing at larger scope · embeds where useful"
+          - "Repo setup then transfer · client-owned domain · you supply product facts and assets"
           - "Options: Advanced DNS Setup standalone · or DNS bundled +$250 · CI +$600 · WordPress or other migration from +$1,800 (scoped after inventory)"
         excludes:
-          - "Content writing · CMS · ecommerce · member login"
+          - "CMS · ecommerce · member login"
       - name: Publishing Care
         price: "$900 USD / month"
         timeline: "Retainer · ~6 hours / month · cancel anytime with 30 days notice"
         includes:
-          - "Publish posts you write · small page updates · dependency bumps · deploy help"
-          - "Available after any sites package handoff — or for an existing Jekyll/GitHub Pages site after a short audit"
+          - "Edit and publish how-tos you already have · small page updates · dependency bumps · deploy help"
+          - "Available after any sites package handoff — or for an existing Jekyll/GitHub Pages docs site after a short audit"
         excludes:
-          - "New feature builds (use Studio Site scope or technology Build Sprint)"
+          - "New docs-site builds (use Studio Site) · new how-to sets (use How-to Pack)"
           - "CI setup (one-time +$600 add-on if not already in place)"
 
-  - id: technology
-    title: technology
-    badge: TECH
+  - id: documentation
+    title: documentation
+    badge: DOCS
     section_num: "02"
-    summary: "iOS/macOS · AI integration · accessibility · Rails/web · devops · technical documentation"
+    summary: "How-tos · knowledge base · incident and customer copy · READMEs · docs a tired first-time user can finish"
     proof:
-      - label: NeuroShell
+      - label: NeuroShell README
         href: "https://github.com/jv-darkheartlabs/NeuroShell"
-      - label: accessibility-rails-components
-        href: "https://github.com/jv-darkheartlabs/accessibility-rails-components"
+      - label: writing
+        href: "https://darkheartlabs.technology/writing"
+    booking:
+      label: "Request documentation →"
+      href: "/contact/?intent=documentation"
+      note: "Name the package, the product, and where the messy notes live (Slack, tickets, a repo)."
     packages:
-      - name: Accessibility Audit
+      - name: Docs Audit
         price: "$1,800 USD"
         timeline: "Typically 5–10 business days"
         includes:
-          - "WCAG 2.1 AA review of one app surface or web property"
-          - "Written findings report with severity and fix order"
-          - "Top-priority remediation notes — not a checkbox PDF"
+          - "Inventory of existing help text, READMEs, and knowledge-base gaps"
+          - "Written findings: what to rewrite first, what to delete, who the reader is"
+          - "Sample rewrite of one high-traffic article — not a checkbox PDF"
         excludes:
-          - "Full implementation (available as sprint or retainer)"
-      - name: Build Sprint
+          - "Full rewrite of the set (see How-to Pack or retainer)"
+      - name: How-to Pack
         price: "$5,400 USD"
         timeline: "40 focused hours · ~1 week calendar"
         includes:
-          - "One scoped slice — feature, integration, or doc pass"
-          - "README-scale web work, AI/MCP wiring, or a11y fixes"
-          - "Handoff notes and one revision round on deliverables"
+          - "A scoped set of task-oriented how-tos from engineer notes, Slack threads, or a live system"
+          - "Incident or customer-facing explanation when the brief includes an outage"
+          - "Handoff in Markdown / GitHub · one revision round"
         excludes:
-          - "Open-ended backlog without a written scope"
-      - name: Engineering Retainer
+          - "Open-ended backlog without a written scope · software feature builds"
+      - name: Documentation Retainer
         price: "NZD $16,400 · USD $9,600 / month"
         timeline: "80 hours · monthly cadence · AEWV-shaped"
         includes:
-          - "Sustained IC work across your stack"
-          - "Code review, docs, CI/devops, and accessibility hardening"
-          - "Priced as Auckland AEWV senior package + stipend, half-time delivery"
+          - "Sustained senior technical writing across your product docs"
+          - "How-tos, KB, incident notes, README upkeep, and edit passes"
+          - "Priced as Auckland AEWV senior Technical Writer package + stipend, half-time delivery"
           - "Remote, hybrid, or on-site · async standups — no meeting theatre"
         excludes:
-          - "CMS · finance · medical · ecommerce · member login"
+          - "CMS · finance · medical · ecommerce · member login · software feature builds"
 
 open_source:
   title: open source
-  blurb: "Paid advisory on the same NZD $205 / USD $120 hourly · 4 hour minimum. Sponsorship tiers and maintainer support — contact with repo context."
+  blurb: "Paid docs advisory on the same NZD $205 / USD $120 hourly · 4 hour minimum. README and how-to work on public repos — contact with repo context."
 
 cta:
   label: "Request a brief"
   href: "/contact/"
-  note: "Include package name, timeline, and budget. For Debug & Drift: marina, vessel, devices, and what you intend for the service fee. For sites: package, migration source if any, domain status. Rush requests noted upfront."
+  note: "Include package name, timeline, and budget. For Debug & Drift: marina, vessel, devices, and what you intend for the service fee. For Ask: recipient, options, punchline. For documentation: package, product, and where the notes live. Rush requests noted upfront."

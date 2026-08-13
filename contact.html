@@ -5,7 +5,7 @@ eyebrow: "[contact]"
 subtitle: "open a channel. the void listens."
 permalink: /contact/
 ---
-<p>Remote-first. Packages and rates on the <a href="{{ '/services/' | relative_url }}">services</a> page. For Debug &amp; Drift or a Jekyll site, pick that realm below and fill the brief fields. Open to contract and freelance work; full-time roles on the <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
+<p>Remote-first. Packages and rates on the <a href="{{ '/services/' | relative_url }}">services</a> page. For Debug &amp; Drift, an Ask date proposal, or documentation work, pick that realm below and fill the brief fields. Open to contract and freelance writing; full-time roles on the <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
 
 <form id="raven-form" class="panel scanlines" style="margin-top: 2rem; padding: 1.5rem; display: grid; gap: 1.25rem;">
   <div>
@@ -21,9 +21,9 @@ permalink: /contact/
     <select class="field-input" id="realm" name="realm" required>
       <option value="">select…</option>
       <option value="debug-and-drift">debug &amp; drift (Louisiana Gulf)</option>
-      <option value="sites">sites (Jekyll + GitHub Pages)</option>
+      <option value="sites">docs site (Jekyll + GitHub Pages)</option>
       <option value="date-proposal">ask — date proposal</option>
-      <option value="technology">technology</option>
+      <option value="documentation">documentation (how-tos, KB, incident copy)</option>
       <option value="other">other / general</option>
     </select>
   </div>
@@ -34,7 +34,7 @@ permalink: /contact/
 
   <fieldset id="sites-fields" class="brief-fields" hidden>
     <legend class="field-label">$ sites brief</legend>
-    <p class="brief-hint">Structure, theme, and deploy only — you write the copy. Repo set up then transferred. Domain stays yours.</p>
+    <p class="brief-hint">I write the how-tos and help pages. Repo set up then transferred. Domain stays yours. Date proposals use the Ask realm.</p>
     <div>
       <label class="field-label" for="site_package">$ package</label>
       <select class="field-input" id="site_package" name="site_package">
@@ -142,6 +142,29 @@ permalink: /contact/
     </div>
   </fieldset>
 
+  <fieldset id="documentation-fields" class="brief-fields" hidden>
+    <legend class="field-label">$ documentation brief</legend>
+    <p class="brief-hint">How-tos, knowledge base, incident copy. You supply product facts; I write the page a tired first-time user can finish.</p>
+    <div>
+      <label class="field-label" for="docs_package">$ package</label>
+      <select class="field-input" id="docs_package" name="docs_package">
+        <option value="">select…</option>
+        <option value="docs-audit">Docs Audit</option>
+        <option value="how-to-pack">How-to Pack</option>
+        <option value="documentation-retainer">Documentation Retainer</option>
+        <option value="unsure">not sure yet</option>
+      </select>
+    </div>
+    <div>
+      <label class="field-label" for="docs_product">$ product / system</label>
+      <input class="field-input" id="docs_product" name="docs_product" type="text" placeholder="what are we documenting?">
+    </div>
+    <div>
+      <label class="field-label" for="docs_notes">$ where_the_notes_live</label>
+      <input class="field-input" id="docs_notes" name="docs_notes" type="text" placeholder="Slack · tickets · README · a call">
+    </div>
+  </fieldset>
+
   <div>
     <label class="field-label" for="message">$ message</label>
     <textarea class="field-input" id="message" name="message" rows="6" required placeholder="type message…"></textarea>
@@ -164,14 +187,20 @@ permalink: /contact/
       sites: {
         fields: document.getElementById('sites-fields'),
         required: ['site_package', 'migrate_from', 'domain_status'],
-        subject: 'Sites — Jekyll + GitHub Pages',
-        placeholder: 'Sites — package + domain'
+        subject: 'Docs site — Jekyll + GitHub Pages',
+        placeholder: 'Docs site — package + domain'
       },
       'date-proposal': {
         fields: document.getElementById('date-proposal-fields'),
         required: ['proposal_recipient', 'proposal_sender', 'proposal_theme'],
         subject: 'Ask — custom date proposal',
         placeholder: 'Ask — date proposal brief'
+      },
+      documentation: {
+        fields: document.getElementById('documentation-fields'),
+        required: ['docs_package', 'docs_product'],
+        subject: 'Documentation — how-tos / KB / incident copy',
+        placeholder: 'Documentation — package + product'
       }
     };
 
@@ -205,6 +234,8 @@ permalink: /contact/
       realm.value = 'sites';
     } else if (intent === 'date-proposal' || intent === 'ask') {
       realm.value = 'date-proposal';
+    } else if (intent === 'documentation' || intent === 'docs' || intent === 'technology') {
+      realm.value = 'documentation';
     }
     syncBrief();
     realm.addEventListener('change', syncBrief);
@@ -242,6 +273,13 @@ permalink: /contact/
           'Time options: ' + (d.get('proposal_times') || '(not specified)'),
           'Food options: ' + (d.get('proposal_food') || '(not specified)'),
           'Custom punchline: ' + (d.get('proposal_punchline') || '(default)')
+        );
+      }
+      if (d.get('realm') === 'documentation') {
+        lines.push(
+          'Package: ' + d.get('docs_package'),
+          'Product / system: ' + d.get('docs_product'),
+          'Notes live: ' + (d.get('docs_notes') || '(not specified)')
         );
       }
       lines.push('', d.get('message'));

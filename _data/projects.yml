@@ -1,51 +1,49 @@
 featured:
   -
     name: NeuroShell
-    role: "Creator & Lead Developer"
+    role: Technical writer
     period: 2024 — Present
     href: "https://github.com/jv-darkheartlabs/NeuroShell"
     cover: /assets/images/project-neuroshell.svg
-    headline: "AI productivity for loud minds"
-    outcome: "Shipped v2 on macOS; v3 in active development. Human-Focused AI Award, Tetrate Buildathon."
-    body: "Open-source terminal and AI productivity suite built for developers with ADHD and cognitive differences. Plain-English command input, session recovery, focus timers, sensory tooling, and a full accessibility settings layer — AI that works for humans, not the other way around."
+    headline: "How-tos for an ADHD-friendly macOS tool"
+    outcome: "User docs and README for v2; v3 docs in progress. Human-Focused AI Award, Tetrate Buildathon."
+    body: "Task-oriented feature docs, keyboard shortcuts, and a plain-English “why it exists” — written for a tired first-time user, not an architecture review. The product won an award; the writing is how someone actually uses it."
     quote:
       text: NeuroShell puts AI to work while centering real human value.
       attribution: "Birger Moëll, Associate Professor in Computational Linguistics, Uppsala University"
     tags:
-      - macOS
-      - Swift
-      - AI
+      - How-to
+      - README
       - Accessibility
+      - macOS
       - Award winner
   -
     name: focus-guard
-    role: "Creator & Lead Developer"
+    role: Technical writer
     period: 2026 — Present
     href: "https://github.com/jv-darkheartlabs/focus-guard"
     cover: /assets/images/project-focus-guard.svg
-    headline: "Focus policies at the proxy layer"
-    outcome: "Blocks distractions upstream of the browser — environmental guardrails, not willpower."
-    body: "Envoy dynamic module written in Rust. Teams define when and how deep-work sessions are protected at the edge, before distractions reach APIs, services, or the browser."
+    headline: "Explain the proxy policy before anyone has to read Rust"
+    outcome: "Operator-facing docs for focus policies at the edge — what it does, when it fires, how to turn it off."
+    body: "README and run-of-show notes for an Envoy module that blocks distractions upstream of the browser. The reader is a tired operator, not the person who wrote the crate."
     tags:
-      - Envoy
-      - Rust
+      - README
+      - Runbook
       - Focus tooling
-      - Proxy
       - Open source
   -
     name: accessibility-rails-components
-    role: "Creator & Maintainer"
+    role: Technical writer
     period: 2025 — Present
     href: "https://github.com/jv-darkheartlabs/accessibility-rails-components"
     cover: /assets/images/cover-craft.svg
-    headline: "Accessible Rails components by default"
-    outcome: "WCAG 2.1 AA patterns wired into ViewComponents and Stimulus — built from real audit findings."
-    body: "Inclusive defaults, keyboard-first interaction, and assistive-tech-ready markup. Drop-in components for Rails apps that treat accessibility as a baseline, not a checklist."
+    headline: "Component docs that name the keyboard path"
+    outcome: "How-tos for WCAG 2.1 AA ViewComponents — what to drop in, what the user hears, what to test."
+    body: "Usage docs and inclusive-default notes for Rails components. Written so a first-time implementer can ship the accessible path without an audit PDF."
     tags:
-      - Rails
-      - Ruby
+      - How-to
       - Accessibility
-      - ViewComponents
+      - Rails
       - Open source
 repositories:
   -
