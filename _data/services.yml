@@ -80,11 +80,39 @@ realms:
           - "Parts (never included) · food cost · charter vessel hire"
           - "Motherboard soldering · screen replacements · open-ended office IT retainers (see documentation)"
 
+  - id: ask
+    title: ask
+    badge: ASK
+    section_num: "01"
+    summary: "Interactive date proposal · private unlisted URL · hand-built from your brief · typically 48 hours"
+    proof: []
+    packages:
+      - name: Ask — Date Proposal
+        price: "pricing TBD · demo live"
+        timeline: "Typically 48 hours after brief"
+        featured: true
+        pitch: "The viral ask — runaway No button, pick a day, vote on gelatos vs gyros, land on a punchline that admits you built a whole website instead of texting."
+        demo:
+          label: "Try the demo ↗"
+          href: "https://ask.darkheartlabs.technology/demo/"
+        booking:
+          label: "Request Ask →"
+          href: "/contact/?intent=date-proposal"
+        includes:
+          - "Custom interactive proposal on ask.darkheartlabs.technology/p/{your-slug}/"
+          - "Runaway No button · day, time, and food vote wizard"
+          - "Dark Heart Labs Signal Protocol theme"
+          - "Custom names, options, and punchline from your brief"
+          - "Private unlisted URL · noindex by default"
+        excludes:
+          - "Custom domain on your own name (see Jekyll Starter under sites)"
+          - "Self-serve editor — each build is hand-crafted from your brief"
+
   - id: sites
     title: sites
     badge: SITE
-    section_num: "01"
-    summary: "Ask date proposals stay as they are · documentation sites on Jekyll / GitHub Pages · custom domain · I write the how-tos and help pages · repo set up then transferred · domain stays yours"
+    section_num: "02"
+    summary: "Documentation sites on Jekyll / GitHub Pages · custom domain · I write the how-tos and help pages · repo set up then transferred · domain stays yours"
     pitch:
       title: "advanced dns and the business owner"
       lines:
@@ -109,33 +137,11 @@ realms:
     booking:
       label: "Request a site →"
       href: "/contact/?intent=sites"
-      note: "Date proposals: /contact/?intent=date-proposal. Docs sites: say which package and whether you need how-tos written. DNS-only: Advanced DNS Setup ($250 USD)."
+      note: "Say which package and whether you need how-tos written. DNS-only: Advanced DNS Setup ($250 USD)."
     proof:
       - label: darkheartlabs.technology
         href: "https://darkheartlabs.technology/"
-      - label: Ask demo
-        href: "https://ask.darkheartlabs.technology/demo/"
     packages:
-      - name: Ask — Date Proposal
-        price: "pricing TBD · demo live"
-        timeline: "Typically 48 hours after brief"
-        featured: true
-        pitch: "The viral ask — runaway No button, pick a day, vote on gelatos vs gyros, land on a punchline that admits you built a whole website instead of texting."
-        demo:
-          label: "Try the demo ↗"
-          href: "https://ask.darkheartlabs.technology/demo/"
-        booking:
-          label: "Request Ask →"
-          href: "/contact/?intent=date-proposal"
-        includes:
-          - "Custom interactive proposal on ask.darkheartlabs.technology/p/{your-slug}/"
-          - "Runaway No button · day, time, and food vote wizard"
-          - "Dark Heart Labs Signal Protocol theme"
-          - "Custom names, options, and punchline from your brief"
-          - "Private unlisted URL · noindex by default"
-        excludes:
-          - "Custom domain on your own name (see Jekyll Starter)"
-          - "Self-serve editor — each build is hand-crafted from your brief"
       - name: Advanced DNS Setup
         price: "$250 USD"
         timeline: "Typically 1–3 business days after delegate access is accepted"
@@ -158,7 +164,7 @@ realms:
           - "One revision round on structure, theme, and docs · you approve the drafts"
           - "Options: Advanced DNS Setup standalone above · or DNS bundled with build +$250 · CI pipeline +$600 · migration from WordPress or similar from +$1,800"
         excludes:
-          - "Decap/CMS · ecommerce · member login · Ask date proposals (see package above)"
+          - "Decap/CMS · ecommerce · member login · Ask date proposals (see ask)"
           - "Ongoing publishing (see Publishing Care)"
       - name: Studio Site
         price: "$5,400 USD"
@@ -170,7 +176,7 @@ realms:
           - "One revision round · you approve the drafts"
           - "Same options as Starter: Advanced DNS Setup standalone · or DNS bundled +$250 · CI (build → Pagefind → link check) +$600 · migration from +$1,800"
         excludes:
-          - "CMS · ecommerce · member login · Ask date proposals (see package above)"
+          - "CMS · ecommerce · member login · Ask date proposals (see ask)"
       - name: Content Hub
         price: "$8,400 USD"
         timeline: "Typically 5–8 weeks · larger archive + handoff"
@@ -194,7 +200,7 @@ realms:
   - id: documentation
     title: documentation
     badge: DOCS
-    section_num: "02"
+    section_num: "03"
     summary: "How-tos · knowledge base · incident and customer copy · READMEs · docs a tired first-time user can finish"
     proof:
       - label: NeuroShell README
