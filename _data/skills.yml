@@ -1,33 +1,38 @@
 languages:
-  - Markdown
   - HTML/CSS
+  - JavaScript
+  - Markdown
   - YAML
   - Liquid
   - Bash/Shell
 
 groups:
   -
-    code: "212415"
-    title: Technical Writer
+    title: Technical writing
     software:
-      - How-to / task-oriented articles
+      - How-to articles
       - Knowledge base
       - READMEs
       - Incident notes
       - Customer-facing explanations
-      - Checklists / run-of-show
-    accessibility_and_ui:
       - Plain language
+    accessibility_and_ui:
       - First-time-user reading path
       - Accessibility-aware help text
-    practices:
-      - Git / GitHub
-      - Markdown docs-as-source
-      - SME interviews from Slack threads and live systems
-      - Edit passes (cut jargon, name the user, action first)
   -
-    code: ""
-    title: Domain literacy
+    title: Front end
+    software:
+      - HTML
+      - CSS
+      - JavaScript
+      - Jekyll
+      - WordPress
+      - Drupal
+    accessibility_and_ui:
+      - Accessible UI
+      - WCAG 2.1
+  -
+    title: IT analysis & desktop support
     software:
       - DNS
       - Email deliverability (SPF / DKIM / DMARC)
@@ -35,24 +40,19 @@ groups:
       - Docker
     operating_systems:
       - macOS
-      - Linux
+      - Windows
     practices:
-      - Document the setup so a non-specialist can finish it
-  -
-    code: ""
-    title: Publishing
-    software:
-      - WordPress
-      - Drupal
-      - Jekyll · Liquid
-      - GitHub Pages
+      - Recurring-issue runbooks
+      - Endpoint notes
 
 collaboration:
-  title: Collaboration
+  title: Tools
   items:
-    - Async-first collaboration
+    - Git
     - GitHub
     - Slack
+    - Discord
     - Linear
     - Jira
     - Confluence
+    - Async-first collaboration

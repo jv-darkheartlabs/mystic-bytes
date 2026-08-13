@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "cv — Senior Technical Writer"
+title: "cv — Technical Writer · Accessible Frontend · IT Support"
 eyebrow: "[cv]"
 permalink: /cv/
 ---
@@ -22,6 +22,10 @@ permalink: /cv/
       <button type="button" class="btn-outline cv-print-btn">Save as PDF</button>
     </div>
     <div class="cv-contact">
+      {% if cv.phone != blank %}
+      <a href="tel:+1{{ cv.phone | replace: '.', '' }}">{{ cv.phone }}</a>
+      <span class="cv-contact__sep">·</span>
+      {% endif %}
       <a href="mailto:{{ site.email }}">{{ site.email }}</a>
       <span class="cv-contact__sep">·</span>
       <a href="{{ site.data.site.social.linkedin }}" target="_blank" rel="noreferrer">linkedin.com/in/darkheartlabs</a>
@@ -84,7 +88,7 @@ permalink: /cv/
 
   {% if cv.selected_documentation.size > 0 %}
   <section class="cv-selected-docs" aria-labelledby="cv-docs-heading">
-    <h2 id="cv-docs-heading" class="cv-section__title">Selected documentation</h2>
+    <h2 id="cv-docs-heading" class="cv-section__title">Selected work</h2>
     <ul class="cv-selected-docs__list">
       {% for item in cv.selected_documentation %}
       <li class="panel">
@@ -107,9 +111,10 @@ permalink: /cv/
               <h3>{{ job.org }}</h3>
               <p class="cv-job__role">{{ job.role }}</p>
             </div>
-            {% if job.location != blank %}
+            {% if job.location != blank or job.dates != blank %}
             <div class="cv-job__meta">
-              <span>{{ job.location }}</span>
+              {% if job.dates != blank %}<span>{{ job.dates }}</span>{% endif %}
+              {% if job.location != blank %}<span>{{ job.location }}</span>{% endif %}
             </div>
             {% endif %}
           </div>
@@ -206,7 +211,7 @@ permalink: /cv/
 
       <section class="cv-section panel cv-contact-aside no-print" aria-labelledby="cv-contact-heading">
         <h2 id="cv-contact-heading" class="cv-section__title">Contact</h2>
-        <p class="cv-sidebar__text">Async-friendly · remote-first. Senior technical writer. Open to AEWV employer sponsorship in Auckland / New Zealand.</p>
+        <p class="cv-sidebar__text">Async-friendly · remote-first. Technical writer, accessible frontend, and IT support. Open to AEWV employer sponsorship in Auckland / New Zealand.</p>
         <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact form →</a>
         <div class="cv-social">
           <a href="{{ site.data.site.social.github }}" target="_blank" rel="noreferrer">github ↗</a>
