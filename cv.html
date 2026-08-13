@@ -42,7 +42,7 @@ permalink: /cv/
     <section class="cv-aewv panel" aria-labelledby="cv-aewv-heading">
       <div class="cv-aewv__head">
         <h2 id="cv-aewv-heading" class="cv-section__title">{{ cv.aewv.heading }}</h2>
-        <span class="cv-tag">Auckland · AEWV</span>
+        <span class="cv-tag">{% if cv.aewv.tag != blank %}{{ cv.aewv.tag }}{% else %}Remote · global{% endif %}</span>
       </div>
       <p class="cv-aewv__status">{{ cv.aewv.status }}</p>
       <dl class="cv-aewv__details">
@@ -202,7 +202,7 @@ permalink: /cv/
 
       <section class="cv-section panel cv-contact-aside no-print" aria-labelledby="cv-contact-heading">
         <h2 id="cv-contact-heading" class="cv-section__title">Contact</h2>
-        <p class="cv-sidebar__text">Async-friendly · remote-first. Technical writer, accessible frontend, and IT support. Open to AEWV employer sponsorship in Auckland / New Zealand.</p>
+        <p class="cv-sidebar__text">Async-friendly · remote-first · worldwide. Technical writer, accessible frontend, and IT support. AEWV sponsorship in New Zealand is welcome, not required.</p>
         <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact form →</a>
         <div class="cv-social">
           <a href="{{ site.data.site.social.github }}" target="_blank" rel="noreferrer">github ↗</a>
