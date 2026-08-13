@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "cv — Developer Programmer"
+title: "cv — Senior Technical Writer"
 eyebrow: "[cv]"
 permalink: /cv/
 ---
@@ -82,6 +82,20 @@ permalink: /cv/
     </div>
   </section>
 
+  {% if cv.selected_documentation.size > 0 %}
+  <section class="cv-selected-docs" aria-labelledby="cv-docs-heading">
+    <h2 id="cv-docs-heading" class="cv-section__title">Selected documentation</h2>
+    <ul class="cv-selected-docs__list">
+      {% for item in cv.selected_documentation %}
+      <li class="panel">
+        <h3>{% if item.url != blank %}<a href="{{ item.url }}" target="_blank" rel="noreferrer">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3>
+        <p>{{ item.text }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
   <div class="cv-grid">
     <div class="cv-main">
       <section class="cv-section" aria-labelledby="cv-experience-heading">
@@ -125,7 +139,7 @@ permalink: /cv/
         {% endif %}
         {% for group in skills.groups %}
         <div class="cv-skill-group">
-          <h3 class="cv-skill-group__heading">{{ group.code }} {{ group.title }}</h3>
+          <h3 class="cv-skill-group__heading">{% if group.code != blank %}{{ group.code }} {% endif %}{{ group.title }}</h3>
           {% if group.software.size > 0 %}
           <div class="cv-skill-subsection">
             <p class="cv-skill-subsection__label">Software</p>
@@ -192,7 +206,7 @@ permalink: /cv/
 
       <section class="cv-section panel cv-contact-aside no-print" aria-labelledby="cv-contact-heading">
         <h2 id="cv-contact-heading" class="cv-section__title">Contact</h2>
-        <p class="cv-sidebar__text">Async-friendly · remote-first. Contract, freelance, or permanent. Seeking AEWV employer sponsorship in Auckland / New Zealand.</p>
+        <p class="cv-sidebar__text">Async-friendly · remote-first. Senior technical writer. Open to AEWV employer sponsorship in Auckland / New Zealand.</p>
         <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact form →</a>
         <div class="cv-social">
           <a href="{{ site.data.site.social.github }}" target="_blank" rel="noreferrer">github ↗</a>

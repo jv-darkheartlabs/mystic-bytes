@@ -1,85 +1,58 @@
 languages:
-  - Swift 6
-  - TypeScript
-  - JavaScript
-  - Python
-  - Ruby
-  - Rust
-  - Bash/Shell
-  - SQL
+  - Markdown
   - HTML/CSS
-  - Liquid
   - YAML
+  - Liquid
+  - Bash/Shell
 
 groups:
   -
-    code: "261312"
-    title: Developer Programmer
+    code: "212415"
+    title: Technical Writer
     software:
-      - SwiftUI
-      - Xcode 16
-      - State machines / interactive UI
-      - Scryfall API integration
-      - Core ML
-      - Vision
-      - Local LLM (Ollama)
-      - MCP servers
-      - pgvector RAG
-      - Eval harnesses
-      - AI-assisted development / prompt design
+      - How-to / task-oriented articles
+      - Knowledge base
+      - READMEs
+      - Incident notes
+      - Customer-facing explanations
+      - Checklists / run-of-show
     accessibility_and_ui:
-      - "Accessibility (VoiceOver, Dynamic Type)"
-      - Keyboard-first interaction
-      - Long-session / sensory-aware UI
-    operating_systems:
-      - macOS (development)
-      - iOS (shipping)
-      - Linux (cross-platform tooling)
+      - Plain language
+      - First-time-user reading path
+      - Accessibility-aware help text
     practices:
-      - Technical documentation
-      - Code review
       - Git / GitHub
-      - Release engineering
+      - Markdown docs-as-source
+      - SME interviews from Slack threads and live systems
+      - Edit passes (cut jargon, name the user, action first)
   -
-    code: "261212"
-    title: Web Developer
+    code: ""
+    title: Domain literacy
     software:
-      - React 19
-      - Vite
-      - Ruby on Rails · ViewComponents · Stimulus
-      - Jekyll · Liquid
-      - Node.js
-      - GitHub Pages
-    quality:
-      - WCAG 2.1 AA
-      - SEO / web performance optimization
-    operating_systems:
-      - Linux (server/hosting)
-      - macOS (local development)
-  -
-    code: "262113"
-    title: Systems Administrator
-    software:
-      - GitHub Actions
+      - DNS
+      - Email deliverability (SPF / DKIM / DMARC)
+      - Hosting
       - Docker
     operating_systems:
       - macOS
       - Linux
-      - Windows
     practices:
-      - Onboarding documentation for technical staff
-      - Tier-2 / tier-3 technical support
-      - Tooling evaluation & integration documentation
-      - macOS & Linux migration programmes
+      - Document the setup so a non-specialist can finish it
+  -
+    code: ""
+    title: Publishing
+    software:
+      - WordPress
+      - Drupal
+      - Jekyll · Liquid
+      - GitHub Pages
 
 collaboration:
-  title: Collaboration & design tools
+  title: Collaboration
   items:
     - Async-first collaboration
-    - Confluence
-    - Cursor
-    - Figma
-    - Adobe Creative Suite
-    - Jira
-    - Linear
+    - GitHub
     - Slack
+    - Linear
+    - Jira
+    - Confluence

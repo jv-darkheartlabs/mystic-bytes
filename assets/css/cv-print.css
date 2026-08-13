@@ -199,6 +199,32 @@
     line-height: 1.12 !important;
   }
 
+  .cv-selected-docs {
+    margin-top: 0.28rem !important;
+  }
+
+  .cv-selected-docs__list {
+    display: block !important;
+    gap: 0 !important;
+  }
+
+  .cv-selected-docs__list li {
+    margin: 0 0 0.12rem !important;
+    padding: 0 !important;
+    border: none !important;
+  }
+
+  .cv-selected-docs__list h3 {
+    margin: 0 !important;
+    font-size: 10pt !important;
+  }
+
+  .cv-selected-docs__list p {
+    margin: 0.04rem 0 0 !important;
+    font-size: 9pt !important;
+    line-height: 1.12 !important;
+  }
+
   .cv-grid {
     display: grid !important;
     grid-template-columns: 1.7fr 1fr !important;
