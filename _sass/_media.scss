@@ -446,6 +446,19 @@
     color: var(--muted-foreground);
     line-height: 1.45;
   }
+
+  &__open {
+    margin: 0.75rem 0 0;
+    font-family: var(--font-mono);
+    font-size: 0.6875rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+
+    a {
+      color: var(--teal);
+      &:hover { text-decoration: underline; }
+    }
+  }
 }
 
 .youtube-embed {

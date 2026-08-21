@@ -76,7 +76,16 @@ permalink: /media/
         {% if pl.blurb %}
         <p class="youtube-embed-card__blurb">{{ pl.blurb }}</p>
         {% endif %}
-        {% include youtube-embed.html playlist=pl.id title=pl.title %}
+        {% if pl.embed_playlist == false %}
+          {% include youtube-embed.html video=pl.video title=pl.title %}
+        {% elsif pl.video %}
+          {% include youtube-embed.html video=pl.video playlist=pl.id title=pl.title %}
+        {% else %}
+          {% include youtube-embed.html playlist=pl.id title=pl.title %}
+        {% endif %}
+        <p class="youtube-embed-card__open">
+          <a href="https://www.youtube.com/playlist?list={{ pl.id }}" target="_blank" rel="noreferrer">open playlist ↗</a>
+        </p>
       </div>
       {% endfor %}
     </div>

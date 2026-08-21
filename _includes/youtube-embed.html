@@ -1,12 +1,16 @@
 {% comment %}
   YouTube playlist or video embed.
-  Pass playlist=ID or video=ID, plus title.
+  Pass playlist=ID and/or video=ID, plus title.
+  When both are set, start on the video inside the playlist (more reliable
+  than videoseries). Pass video alone when YouTube rejects list= embeds.
 {% endcomment %}
 {% assign yt_src = nil %}
-{% if include.playlist %}
-  {% assign yt_src = "https://www.youtube-nocookie.com/embed/videoseries?list=" | append: include.playlist %}
+{% if include.video and include.playlist %}
+  {% assign yt_src = "https://www.youtube-nocookie.com/embed/" | append: include.video | append: "?list=" | append: include.playlist %}
 {% elsif include.video %}
   {% assign yt_src = "https://www.youtube-nocookie.com/embed/" | append: include.video %}
+{% elsif include.playlist %}
+  {% assign yt_src = "https://www.youtube-nocookie.com/embed/videoseries?list=" | append: include.playlist %}
 {% endif %}
 {% if yt_src %}
 <div class="youtube-embed">
