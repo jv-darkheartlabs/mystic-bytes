@@ -1,0 +1,70 @@
+{% comment %}
+  Section-by-section clarification wizard.
+  include.mode = "realm" (single service page) or "contact" (all realms).
+  include.realm required when mode is realm.
+{% endcomment %}
+{% assign s = site.data.services %}
+{% assign brief = s.brief %}
+{% assign mode = include.mode | default: "realm" %}
+{% assign realm = include.realm %}
+{% assign form_id = include.form_id | default: "raven-form" %}
+{% assign id_prefix = include.id_prefix | default: "" %}
+
+{% if mode == "contact" %}
+  {% assign subject_preset = "" %}
+  {% assign realm_value = "" %}
+{% else %}
+  {% assign subject_preset = realm.brief.subject %}
+  {% assign realm_value = realm.intent %}
+{% endif %}
+
+<form
+  id="{{ form_id }}"
+  class="brief-wizard panel scanlines"
+  data-brief-wizard
+  data-brief-mode="{{ mode }}"
+  {% if realm_value != "" %}data-brief-realm="{{ realm_value }}"{% endif %}
+  data-brief-email="{{ site.email }}"
+  novalidate
+>
+  <header class="brief-wizard__intro">
+    {% include section-label.html num="—" title="clarify the brief" badge="BRIEF" %}
+    <p class="brief-wizard__lede">One section at a time. Answer what you know; skip what you do not. The raven waits until the last step.</p>
+    <p class="brief-progress" data-brief-progress aria-live="polite"></p>
+  </header>
+
+  {% include brief-step.html step=brief.identity id_prefix=id_prefix %}
+
+  {% if mode == "contact" %}
+    {% include brief-step.html step=brief.realm_picker id_prefix=id_prefix %}
+    {% for r in s.realms %}
+      {% for step in r.brief.sections %}
+        {% if forloop.first %}
+          {% assign step_hint = r.brief.hint %}
+        {% else %}
+          {% assign step_hint = "" %}
+        {% endif %}
+        {% include brief-step.html step=step realm_value=r.intent hint=step_hint id_prefix=id_prefix %}
+      {% endfor %}
+    {% endfor %}
+  {% else %}
+    <input type="hidden" name="realm" value="{{ realm_value }}" data-mail-label="Realm">
+    <input type="hidden" name="subject" value="{{ subject_preset }}" data-mail-label="Subject">
+    {% for step in realm.brief.sections %}
+      {% if forloop.first %}
+        {% assign step_hint = realm.brief.hint %}
+      {% else %}
+        {% assign step_hint = "" %}
+      {% endif %}
+      {% include brief-step.html step=step id_prefix=id_prefix hint=step_hint %}
+    {% endfor %}
+  {% endif %}
+
+  {% include brief-step.html step=brief.message id_prefix=id_prefix %}
+
+  <div class="brief-nav">
+    <button type="button" class="btn-outline brief-nav__back" data-brief-back>← back</button>
+    <button type="button" class="btn-outline brief-nav__next" data-brief-next>next section →</button>
+    <button type="submit" class="btn-transmit brief-nav__submit" data-brief-submit>✉ transmit →</button>
+  </div>
+</form>

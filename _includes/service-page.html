@@ -1,0 +1,38 @@
+{% assign s = site.data.services %}
+{% assign realm = false %}
+{% for r in s.realms %}
+  {% if r.slug == include.slug %}
+    {% assign realm = r %}
+  {% endif %}
+{% endfor %}
+
+<div class="container services-page services-page--detail about-page">
+  <header class="services-header signal-header">
+    <a class="essay-back" href="{{ '/services/' | relative_url }}">← /services</a>
+    {% include signal-badge.html code=realm.badge %}
+    <p class="page-eyebrow">[services / {{ realm.title }}]</p>
+    <h1 class="page-title" id="service-title">{{ realm.title }}</h1>
+    <p class="page-subtitle">{{ realm.summary }}</p>
+    <p class="services-detail-rate">{{ s.specs[0].value }} · <a href="{{ '/services/' | relative_url }}">engagement rules on the hub</a></p>
+  </header>
+
+  {% include service-realm.html realm=realm standalone=true %}
+
+  <section id="brief" class="services-brief">
+    {% include service-brief.html mode="realm" realm=realm %}
+  </section>
+
+  <aside class="media-crosslink panel">
+    <p class="media-crosslink__label">other services</p>
+    <ul>
+      {% for r in s.realms %}
+        {% unless r.slug == realm.slug %}
+        <li><a href="{{ '/services/' | append: r.slug | append: '/' | relative_url }}">{{ r.title }}</a></li>
+        {% endunless %}
+      {% endfor %}
+    </ul>
+  </aside>
+</div>
+
+{% assign asset_v = site.github.build_revision | default: site.asset_version | default: site.time | date: '%s' %}
+<script src="{{ '/assets/js/service-brief.js' | relative_url }}?v={{ asset_v }}" defer></script>
