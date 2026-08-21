@@ -25,7 +25,14 @@ layout: default
     </div>
 
     {% if page.related_transmission %}
-    {% assign related = site.essays | where: "name", page.related_transmission | first %}
+    {% assign related = nil %}
+    {% for essay in site.essays %}
+      {% assign essay_stem = essay.path | split: "/" | last | remove: ".md" %}
+      {% if essay_stem == page.related_transmission %}
+        {% assign related = essay %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
     {% if related %}
     <p class="podcast-related">
       related transmission:
@@ -67,10 +74,15 @@ layout: default
     </section>
     {% endif %}
 
+    {% if page.spotify_episode_id %}
+      {% assign spotify_embed_src = "https://open.spotify.com/embed/episode/" | append: page.spotify_episode_id %}
+    {% else %}
+      {% assign spotify_embed_src = "https://open.spotify.com/embed/show/" | append: site.data.site.spotify.show_id %}
+    {% endif %}
     <div class="podcast-embed panel">
       <iframe
         style="border-radius:12px"
-        src="https://open.spotify.com/embed/show/{{ site.data.site.spotify.show_id }}?utm_source=generator&theme=0"
+        src="{{ spotify_embed_src }}?utm_source=generator&theme=0"
         width="100%"
         height="152"
         frameBorder="0"

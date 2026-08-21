@@ -1,0 +1,34 @@
+# YouTube @darkheartlabs — curated embeds for /media and /media/video
+channel_url: "https://www.youtube.com/@darkheartlabs"
+playlists_url: "https://www.youtube.com/@darkheartlabs/playlists"
+
+# Highest-performing public playlists (playlist views + contained-track reach),
+# excluding Inside the Lab which lives on /media/video.
+featured_playlists:
+  -
+    id: PLoa1jowA6-8avZWSLtUELIgIim_VduKqA
+    title: "dark & cinematic · the theatrical side"
+    blurb: "Score and atmosphere — the theatrical side of the catalog."
+  -
+    id: PLoa1jowA6-8bz5Y3SZk9QPoeu_5k3YF7T
+    title: "nook's cozy lofi lounge"
+    blurb: "Low-stakes study beats for long sessions."
+  -
+    id: PLoa1jowA6-8ZpssjCZGuHxQj6iDr9xH2R
+    title: "classic blues essentials"
+    blurb: "The load-bearing blues stack."
+  -
+    id: PLoa1jowA6-8ZgL2EVQ4E5br_EGCTdgDwT
+    title: "golden hour"
+    blurb: "Warm light, slower tempo."
+
+inside_the_lab:
+  id: PLEzteUrtOBHY
+  title: "Inside the Lab: Tools & Infrastructure"
+  blurb: "Load-bearing architecture — terminals, Rust modules, and the stack choices that keep focus intact and survive the attention tax. Tools that actually ship."
+
+longform:
+  -
+    id: QPjwALe9WaU
+    title: "Envoy Retry Protection: Focus Guard in Rust"
+    blurb: "Long-form — stopping cascading HTTP retries at the edge."

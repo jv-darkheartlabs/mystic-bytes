@@ -405,6 +405,75 @@
   }
 }
 
+.media-playlists {
+  margin-bottom: 2.5rem;
+
+  &__lede {
+    margin: 0 0 1rem;
+    font-size: 0.8125rem;
+    color: var(--muted-foreground);
+    line-height: 1.5;
+
+    a {
+      color: var(--rose);
+      &:hover { text-decoration: underline; }
+    }
+  }
+}
+
+.youtube-embed-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  margin-bottom: 1.5rem;
+}
+
+.youtube-embed-card {
+  padding: 1rem;
+
+  &__label {
+    font-family: var(--font-mono);
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--teal);
+    margin: 0 0 0.5rem;
+  }
+
+  &__blurb {
+    margin: 0 0 0.75rem;
+    font-size: 0.8125rem;
+    color: var(--muted-foreground);
+    line-height: 1.45;
+  }
+}
+
+.youtube-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: 12px;
+  background: color-mix(in oklab, var(--violet) 12%, #000);
+
+  iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+.video-lab,
+.video-longform {
+  margin-bottom: 2.5rem;
+
+  .media-sub-lede {
+    margin-bottom: 1rem;
+  }
+}
+
 .gallery-set-body {
   margin-top: 1.5rem;
 }

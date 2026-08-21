@@ -6,6 +6,7 @@ permalink: /media/
 ---
 
 {% assign spotify = site.data.site.spotify %}
+{% assign youtube = site.data.youtube %}
 {% assign episodes = site.podcast | sort: "date" | reverse %}
 {% assign essays = site.essays | where_exp: "e", "e.locked != true" %}
 {% assign gallery_sets = site.gallery | where_exp: "g", "g.published != false" | sort: "sort_key" | reverse %}
@@ -32,7 +33,7 @@ permalink: /media/
     <a class="media-hub-card panel" href="{{ '/media/podcast/' | relative_url }}">
       {% include section-label.html num="01" title="spoken" badge="MEDIA" %}
       <h2>spoken transmissions</h2>
-      <p>{{ episodes.size }} episodes. Essays read aloud — relocation, craft, the model, the void.</p>
+      <p>{{ episodes.size }} episodes. Transmissions — essays read aloud for the commute, the walk, the 2am mind.</p>
       <span class="media-hub-card__cta">enter →</span>
     </a>
     <a class="media-hub-card panel" href="{{ '/media/album/' | relative_url }}">
@@ -56,13 +57,34 @@ permalink: /media/
     <a class="media-hub-card panel" href="{{ '/media/video/' | relative_url }}">
       {% include section-label.html num="04" title="video" badge="MEDIA" %}
       <h2>moving image</h2>
-      <p>Embedded reels and long-form — linked from the networks until the first local drop.</p>
+      <p>Inside the Lab — tools, infrastructure, and long-form builds from @darkheartlabs.</p>
       <span class="media-hub-card__cta">enter →</span>
     </a>
   </div>
 
+  {% if youtube.featured_playlists.size > 0 %}
+  <section class="media-playlists">
+    {% include section-label.html num="05" title="playlists" badge="MEDIA" %}
+    <p class="media-playlists__lede">
+      Highest-performing sets from
+      <a href="{{ youtube.playlists_url }}" target="_blank" rel="me noreferrer">@darkheartlabs/playlists ↗</a>
+    </p>
+    <div class="youtube-embed-grid">
+      {% for pl in youtube.featured_playlists %}
+      <div class="youtube-embed-card panel">
+        <p class="youtube-embed-card__label">{{ pl.title }}</p>
+        {% if pl.blurb %}
+        <p class="youtube-embed-card__blurb">{{ pl.blurb }}</p>
+        {% endif %}
+        {% include youtube-embed.html playlist=pl.id title=pl.title %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
   <section class="media-embed">
-    {% include section-label.html num="05" title="now playing" badge="MEDIA" %}
+    {% include section-label.html num="06" title="now playing" badge="MEDIA" %}
     <div class="spotify-embeds">
       <div class="spotify-embed panel">
         <p class="spotify-embed__label">podcast show</p>
@@ -70,7 +92,7 @@ permalink: /media/
           style="border-radius:12px"
           src="https://open.spotify.com/embed/show/{{ spotify.show_id }}?utm_source=generator&theme=0"
           width="100%"
-          height="352"
+          height="472"
           frameBorder="0"
           allowfullscreen=""
           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
@@ -98,7 +120,7 @@ permalink: /media/
   {% assign linked_channels = channels | where_exp: "c", "c.url != empty" %}
   {% if linked_channels.size > 0 %}
   <section class="media-channels">
-    {% include section-label.html num="06" title="networks" badge="MEDIA" %}
+    {% include section-label.html num="07" title="networks" badge="MEDIA" %}
     <div class="media-channels__grid">
       {% for ch in linked_channels %}
       <a class="media-channel panel" href="{{ ch.url }}" target="_blank" rel="me noreferrer">
