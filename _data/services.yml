@@ -1,7 +1,12 @@
 tagline: "contract work · fixed packages · no equity-only"
-lede: "How-to articles, knowledge bases, incident copy, and documentation sites — plus Louisiana Gulf Debug & Drift days for yacht owners who want tech support without skipping the charter. Rates are for the work, anywhere: senior how-to writing, accessible docs sites, and DNS / mail / endpoint notes a tired first-time user can finish. Remote, hybrid, and on-site at the same floor."
+lede: "How-to articles, knowledge bases, incident copy, and documentation sites — plus virtual tech support by Jump Desktop, and Louisiana Gulf Debug & Drift days for yacht owners who want help without skipping the charter. Rates are for the work, anywhere: senior how-to writing, accessible docs sites, and DNS / mail / endpoint notes a tired first-time user can finish. Remote, hybrid, and on-site at the same floor."
 
-rate_basis: "USD $120 / hour, 4-hour minimum — a competitive independent rate for senior technical writing with accessible front-end and IT-notes literacy in the same brief. Fixed packages below are scoped so you are not buying hours in the dark; they sit on that floor. Invoices in USD; AUD, NZD, or EUR at mid-market if you prefer. Debug & Drift is Louisiana field work — Slipside Service diagnostic first; you name what the service was worth (parts are always yours to buy). Ask date proposals are hand-built microsites."
+rate_basis: "USD $120 / hour, 4-hour minimum — a competitive independent rate for senior technical writing with accessible front-end and IT-notes literacy in the same brief. Fixed packages below are scoped so you are not buying hours in the dark; they sit on that floor. Invoices in USD; AUD, NZD, or EUR at mid-market if you prefer. Virtual tech support is a Jump Desktop session at that floor. Debug & Drift is Louisiana field work — Slipside Service diagnostic first; you name what the service was worth (parts are always yours to buy). Ask date proposals are hand-built microsites."
+
+virtual_support:
+  label: "Request virtual tech support ↗"
+  href: "https://app.jumpdesktop.com/invite/277139301"
+  note: "Install Jump Desktop Connect, add Jennifer, revoke anytime. Same USD $120 / hour · 4-hour minimum."
 
 specs:
   - label: hourly_rate
@@ -15,7 +20,7 @@ specs:
   - label: employment
     value: "Full-time / sponsored roles → see CV"
   - label: availability
-    value: "Open for new clients · ~1 Debug & Drift / week"
+    value: "Open for new clients · virtual sessions · ~1 Debug & Drift / week"
 
 rules:
   - "Nothing unpaid — spec work and ‘exposure’ are declined."
@@ -24,14 +29,54 @@ rules:
   - "No CMS builds, finance products, medical software, ecommerce, or member login."
   - "Human approval on what ships — AI assists; you lead."
   - "Debug & Drift: Slipside Service diagnostic first; client vessel or client-hired charter; parts never included (you buy); service fee is what the day was worth to you — no stamped menu price."
+  - "Virtual support: request via the Jump Desktop invite; you install Connect and can revoke access anytime. No password sharing."
   - "Ask date proposals: hand-built from your brief; private unlisted URL."
   - "Documentation: I write the how-tos. You supply product facts and approve the draft. Domain and repo stay yours on docs-site work."
 
 realms:
+  - id: virtual_support
+    title: virtual support
+    badge: REMOTE
+    section_num: "00"
+    summary: "Jump Desktop Connect · macOS / Windows / Linux · you grant access, you can revoke it · same USD $120 / hour · 4-hour minimum"
+    pitch:
+      title: "the screen will not yield"
+      lines:
+        - "The laptop froze an hour before the meeting. Mail will not send. DNS looks like a storm door. You do not need a yacht day for that — you need someone on the other side of the glass."
+        - "Virtual tech support is a Jump Desktop session: you install Connect, add Jennifer, I work the software until it yields or we write the parts list. You keep the keys. You can revoke access when we are done."
+        - "Dark Heart Labs is not affiliated with Jump Desktop. I never ask for your password. Parts stay yours to buy."
+    access:
+      title: "Jump Desktop · grant Jennifer access"
+      disclaimer: "Dark Heart Labs is not affiliated with Jump Desktop. UI labels change; if yours looks different, stay on the invite page and follow its steps."
+      steps:
+        - "Open the invite (button below) on the computer that needs help."
+        - "Install Jump Desktop Connect. Skip this step if Connect is already installed."
+        - "Add Jennifer as a remote access user when Connect asks."
+        - "Stay at the machine until the session starts. Revoke access anytime from Connect when you are done."
+      other_registrars: "The invite is for this studio only — Jennifer at Dark Heart Labs. If someone else sent you a Jump link, that is not this service."
+    booking:
+      label: "Request virtual tech support ↗"
+      href: "https://app.jumpdesktop.com/invite/277139301"
+      note: "Install Jump Desktop Connect, add Jennifer, revoke anytime. Same USD $120 / hour · 4-hour minimum."
+    proof: []
+    packages:
+      - name: Virtual Session
+        price: "USD $120 / hour · 4-hour minimum"
+        timeline: "remote · Jump Desktop Connect"
+        featured: true
+        includes:
+          - "Remote session on macOS, Windows, or Linux via Jump Desktop Connect"
+          - "Software repair, DNS / mail / endpoint triage, and a short written note of what changed"
+          - "You install Connect from the invite; you can revoke Jennifer's access anytime"
+        excludes:
+          - "Hardware / parts (you buy) · motherboard soldering · screen replacement"
+          - "Always-on MSP retainers or unattended fleet admin"
+          - "On-vessel Debug & Drift days (Louisiana Gulf — see that realm)"
+
   - id: debug_and_drift
     title: debug & drift
     badge: FIELD
-    section_num: "00"
+    section_num: "01"
     summary: "Louisiana Gulf · your yacht or a charter you hire · I fix what plugs in while your guests fish · up to 3–4 computers with advance notice · ~1 booking / week"
     pitch:
       title: "charted water, dead screen"
@@ -83,7 +128,7 @@ realms:
   - id: ask
     title: ask
     badge: ASK
-    section_num: "01"
+    section_num: "02"
     summary: "Interactive date proposal · private unlisted URL · hand-built from your brief · typically 48 hours"
     proof: []
     packages:
@@ -111,7 +156,7 @@ realms:
   - id: sites
     title: sites
     badge: SITE
-    section_num: "02"
+    section_num: "03"
     summary: "Documentation sites on Jekyll / GitHub Pages · custom domain · I write the how-tos and help pages · repo set up then transferred · domain stays yours"
     pitch:
       title: "advanced dns and the business owner"
@@ -200,7 +245,7 @@ realms:
   - id: documentation
     title: documentation
     badge: DOCS
-    section_num: "03"
+    section_num: "04"
     summary: "How-tos · knowledge base · incident and customer copy · READMEs · docs a tired first-time user can finish"
     proof:
       - label: NeuroShell README
@@ -248,4 +293,4 @@ open_source:
 cta:
   label: "Request a brief"
   href: "/contact/"
-  note: "Include package name, timeline, and budget. For Debug & Drift: marina, vessel, devices, and what you intend for the service fee. For Ask: recipient, options, punchline. For documentation: package, product, and where the notes live. Rush requests noted upfront."
+  note: "Include package name, timeline, and budget. For virtual tech support: use the Jump Desktop invite — do not wait on a raven. For Debug & Drift: marina, vessel, devices, and what you intend for the service fee. For Ask: recipient, options, punchline. For documentation: package, product, and where the notes live. Rush requests noted upfront."
