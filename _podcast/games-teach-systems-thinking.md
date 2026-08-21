@@ -1,7 +1,7 @@
 ---
 layout: podcast
 slug: games-teach-systems-thinking
-number: 04
+number: "04"
 title: Games Teach Systems Thinking
 dek: "We apologize for playing games and call PowerPoints strategy. The best systems training on earth is sitting in your Steam library."
 date: 2026-08-20

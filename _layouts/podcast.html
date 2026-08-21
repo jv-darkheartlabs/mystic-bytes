@@ -25,7 +25,14 @@ layout: default
     </div>
 
     {% if page.related_transmission %}
-    {% assign related = site.essays | where: "name", page.related_transmission | first %}
+    {% assign related = nil %}
+    {% for essay in site.essays %}
+      {% assign essay_stem = essay.path | split: "/" | last | remove: ".md" %}
+      {% if essay_stem == page.related_transmission %}
+        {% assign related = essay %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
     {% if related %}
     <p class="podcast-related">
       related transmission:

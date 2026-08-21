@@ -1,7 +1,7 @@
 ---
 layout: podcast
 slug: ttrpgs-are-collaborative-software
-number: 05
+number: "05"
 title: TTRPGs Are Collaborative Software
 dek: "The rulebook is the kernel. The table is the runtime."
 date: 2026-08-21

@@ -1,7 +1,7 @@
 ---
 layout: podcast
 slug: trust-is-a-technical-protocol
-number: 03
+number: "03"
 title: Trust is a Technical Protocol
 dek: It handshakes the same way TLS does.
 date: 2026-07-20
