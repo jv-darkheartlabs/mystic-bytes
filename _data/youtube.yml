@@ -4,21 +4,30 @@ playlists_url: "https://www.youtube.com/@darkheartlabs/playlists"
 
 # Highest-performing public playlists (playlist views + contained-track reach),
 # excluding Inside the Lab which lives on /media/video.
+#
+# video: first track, used as the embed start.
+# embed_playlist: false when YouTube rejects list= / videoseries embeds
+# (the player stays on VIDEO_ID=videoseries → "This video is unavailable").
 featured_playlists:
   -
     id: PLoa1jowA6-8avZWSLtUELIgIim_VduKqA
+    video: "9RfVp-GhKfs"
+    embed_playlist: false
     title: "dark & cinematic · the theatrical side"
     blurb: "Score and atmosphere — the theatrical side of the catalog."
   -
     id: PLoa1jowA6-8bz5Y3SZk9QPoeu_5k3YF7T
+    video: "xJ4-tI19s5Y"
     title: "nook's cozy lofi lounge"
     blurb: "Low-stakes study beats for long sessions."
   -
     id: PLoa1jowA6-8ZpssjCZGuHxQj6iDr9xH2R
+    video: "QyW0S1oD-UA"
     title: "classic blues essentials"
     blurb: "The load-bearing blues stack."
   -
     id: PLoa1jowA6-8ZgL2EVQ4E5br_EGCTdgDwT
+    video: "-F_NdQXU8Bk"
     title: "golden hour"
     blurb: "Warm light, slower tempo."
 
