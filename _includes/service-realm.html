@@ -1,0 +1,89 @@
+{% assign realm = include.realm %}
+
+<section class="services-realm"{% if include.standalone %} aria-labelledby="service-title"{% endif %}>
+  {% unless include.standalone %}
+  {% include section-label.html num=realm.section_num title=realm.title badge=realm.badge %}
+  <p class="services-realm__summary">{{ realm.summary }}</p>
+  {% endunless %}
+  {% if realm.pitch %}
+  <aside class="services-realm__pitch panel">
+    <p class="services-realm__pitch-title">&gt;_ {{ realm.pitch.title }}</p>
+    {% for line in realm.pitch.lines %}
+    <p class="services-realm__pitch-line">{{ line }}</p>
+    {% endfor %}
+  </aside>
+  {% endif %}
+  {% if realm.access %}
+  <aside class="services-realm__access panel">
+    <p class="services-realm__pitch-title">&gt;_ {{ realm.access.title }}</p>
+    {% if realm.access.disclaimer %}
+    <p class="services-realm__access-disclaimer">{{ realm.access.disclaimer }}</p>
+    {% endif %}
+    <ol class="services-realm__access-steps">
+      {% for step in realm.access.steps %}
+      <li>{{ step }}</li>
+      {% endfor %}
+    </ol>
+    {% if realm.access.other_registrars %}
+    <p class="services-realm__access-other">{{ realm.access.other_registrars }}</p>
+    {% endif %}
+    {% if realm.access.help %}
+    <p class="services-realm__access-help">
+      <a href="{{ realm.access.help.href }}" target="_blank" rel="noreferrer">{{ realm.access.help.label }} ↗</a>
+    </p>
+    {% endif %}
+  </aside>
+  {% endif %}
+  {% if realm.proof.size > 0 %}
+  <p class="services-proof">
+    {% for link in realm.proof %}
+    <a href="{% if link.href contains 'http' %}{{ link.href }}{% else %}{{ link.href | relative_url }}{% endif %}"{% if link.href contains 'http' %} target="_blank" rel="noreferrer"{% endif %}>{{ link.label }} ↗</a>{% unless forloop.last %} · {% endunless %}
+    {% endfor %}
+  </p>
+  {% endif %}
+  <div class="services-packages">
+    {% for pkg in realm.packages %}
+    <article class="service-package panel{% if pkg.featured %} service-package--featured{% endif %}">
+      <header class="service-package__head">
+        <h2 class="service-package__name">{{ pkg.name }}</h2>
+        <p class="service-package__price">{{ pkg.price }}</p>
+        <p class="service-package__timeline">{{ pkg.timeline }}</p>
+      </header>
+      {% if pkg.pitch %}
+      <p class="service-package__pitch">{{ pkg.pitch }}</p>
+      {% endif %}
+      <div class="service-package__body">
+        <p class="service-package__label">includes</p>
+        <ul class="service-package__list">
+          {% for item in pkg.includes %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+        <p class="service-package__label">excludes</p>
+        <ul class="service-package__list service-package__list--muted">
+          {% for item in pkg.excludes %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% if pkg.demo or pkg.booking %}
+      <div class="service-package__actions">
+        {% if pkg.demo %}
+        <a class="btn-outline" href="{% if pkg.demo.href contains 'http' %}{{ pkg.demo.href }}{% else %}{{ pkg.demo.href | relative_url }}{% endif %}"{% if pkg.demo.href contains 'http' %} target="_blank" rel="noreferrer"{% endif %}>{{ pkg.demo.label }}</a>
+        {% endif %}
+        {% if pkg.booking %}
+        {% assign pkg_book = pkg.booking.href %}
+        <a class="btn-outline" href="{{ pkg_book }}">{{ pkg.booking.label }}</a>
+        {% endif %}
+      </div>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+  {% if realm.booking %}
+  <p class="services-booking panel">
+    <a class="btn-outline" href="{{ realm.booking.href }}">{{ realm.booking.label }}</a>
+    {% if realm.booking.note %}<span class="services-booking__note">{{ realm.booking.note }}</span>{% endif %}
+  </p>
+  {% endif %}
+</section>

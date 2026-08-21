@@ -3218,3 +3218,223 @@ section:has(> .section-label):not(.mission-timeline) {
   }
 }
 
+.services-hub {
+  margin-top: 2.5rem;
+}
+
+.services-hub__lede {
+  margin: 0.75rem 0 0;
+  max-width: 42rem;
+  color: var(--muted-foreground);
+  line-height: 1.55;
+}
+
+.services-hub-grid {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.25rem;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+}
+
+.services-hub-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.25rem;
+  color: inherit;
+  transition: border-color 0.2s, box-shadow 0.2s;
+
+  h2 {
+    margin: 0;
+    font-size: 1.0625rem;
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.8125rem;
+    color: var(--muted-foreground);
+    line-height: 1.45;
+  }
+
+  &__packages {
+    @include font-mono;
+    font-size: 0.6875rem;
+    color: var(--silver);
+    line-height: 1.45;
+  }
+
+  &__cta {
+    margin-top: auto;
+    padding-top: 0.5rem;
+    @include font-mono;
+    font-size: 0.6875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--teal);
+  }
+
+  &:hover {
+    border-color: color-mix(in oklab, var(--teal) 45%, var(--border));
+    box-shadow: var(--section-glow-soft);
+  }
+}
+
+.services-detail-rate {
+  margin: 0.75rem 0 0;
+  @include font-mono;
+  font-size: 0.75rem;
+  color: var(--muted-foreground);
+
+  a {
+    color: var(--rose);
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.services-brief {
+  margin-top: 2.5rem;
+  scroll-margin-top: 6rem;
+}
+
+.contact-service-list {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+
+  a {
+    color: var(--rose);
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.brief-wizard {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  display: grid;
+  gap: 1.25rem;
+}
+
+.brief-wizard__lede {
+  margin: 0.75rem 0 0;
+  max-width: 42rem;
+  color: var(--muted-foreground);
+  font-size: 0.875rem;
+  line-height: 1.55;
+}
+
+.brief-progress {
+  margin: 0.75rem 0 0;
+  @include font-mono;
+  font-size: 0.75rem;
+  text-transform: lowercase;
+  letter-spacing: 0.08em;
+  color: var(--teal);
+}
+
+.brief-step__prompt {
+  margin: 0.75rem 0 0;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 1.125rem;
+  color: var(--foreground);
+  line-height: 1.45;
+}
+
+.brief-hint {
+  margin: 0.5rem 0 0;
+  @include font-mono;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  color: var(--muted-foreground);
+}
+
+.brief-field {
+  margin-top: 1.25rem;
+}
+
+.field-label {
+  display: block;
+  @include font-mono;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  color: var(--amber);
+}
+
+.field-input {
+  width: 100%;
+  margin-top: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+  background: var(--background);
+  color: var(--foreground);
+  @include font-mono;
+  font-size: 0.875rem;
+
+  &:focus {
+    outline: none;
+    border-color: var(--teal);
+  }
+}
+
+select.field-input {
+  appearance: none;
+  border-radius: 0;
+  cursor: pointer;
+}
+
+.brief-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.btn-transmit {
+  padding: 0.75rem 1.5rem;
+  border: 1px solid var(--teal);
+  background: var(--teal);
+  color: var(--ink);
+  @include font-mono;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: box-shadow 0.2s;
+
+  &:hover {
+    box-shadow: var(--shadow-glow);
+  }
+}
+
+.brief-wizard.is-ready .brief-step {
+  display: none;
+}
+
+.brief-wizard.is-ready .brief-step.is-active {
+  display: block;
+}
+
+.brief-wizard:not(.is-ready) {
+  .brief-nav__back,
+  .brief-nav__next {
+    display: none;
+  }
+}
+
+.brief-wizard.is-ready.is-first .brief-nav__back {
+  display: none;
+}
+
+.brief-wizard.is-ready:not(.is-last) .brief-nav__submit {
+  display: none;
+}
+
+.brief-wizard.is-ready.is-last .brief-nav__next {
+  display: none;
+}
+

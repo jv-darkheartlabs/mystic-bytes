@@ -1,0 +1,43 @@
+{% assign field = include.field %}
+{% assign field_id = include.id_prefix | append: field.name %}
+<div class="brief-field">
+  <label class="field-label" for="{{ field_id }}">{{ field.label }}</label>
+  {% if field.type == "select" %}
+  <select class="field-input" id="{{ field_id }}" name="{{ field.name }}"{% if field.required %} required{% endif %}{% if field.mail_label %} data-mail-label="{{ field.mail_label | escape }}"{% endif %}>
+    <option value="">select…</option>
+    {% for opt in field.options %}
+    <option value="{{ opt.value }}">{{ opt.label }}</option>
+    {% endfor %}
+  </select>
+  {% elsif field.type == "textarea" %}
+  <textarea
+    class="field-input"
+    id="{{ field_id }}"
+    name="{{ field.name }}"
+    rows="{{ field.rows | default: 6 }}"
+    {% if field.required %}required{% endif %}
+    {% if field.placeholder %}placeholder="{{ field.placeholder | escape }}"{% endif %}
+    {% if field.mail_label %}data-mail-label="{{ field.mail_label | escape }}"{% endif %}
+  ></textarea>
+  {% elsif field.type == "email" %}
+  <input
+    class="field-input"
+    id="{{ field_id }}"
+    name="{{ field.name }}"
+    type="email"
+    {% if field.required %}required{% endif %}
+    {% if field.placeholder %}placeholder="{{ field.placeholder | escape }}"{% endif %}
+    {% if field.mail_label %}data-mail-label="{{ field.mail_label | escape }}"{% endif %}
+  >
+  {% else %}
+  <input
+    class="field-input"
+    id="{{ field_id }}"
+    name="{{ field.name }}"
+    type="text"
+    {% if field.required %}required{% endif %}
+    {% if field.placeholder %}placeholder="{{ field.placeholder | escape }}"{% endif %}
+    {% if field.mail_label %}data-mail-label="{{ field.mail_label | escape }}"{% endif %}
+  >
+  {% endif %}
+</div>

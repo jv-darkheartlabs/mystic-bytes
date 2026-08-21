@@ -1,0 +1,19 @@
+{% assign step = include.step %}
+<section
+  class="brief-step"
+  data-brief-step
+  {% if include.realm_value %}data-realm="{{ include.realm_value }}"{% endif %}
+>
+  <header class="brief-step__head">
+    {% include section-label.html num=step.num title=step.title badge="BRIEF" %}
+    {% if step.prompt %}
+    <p class="brief-step__prompt">{{ step.prompt }}</p>
+    {% endif %}
+    {% if include.hint %}
+    <p class="brief-hint">{{ include.hint }}</p>
+    {% endif %}
+  </header>
+  {% for field in step.fields %}
+    {% include brief-field.html field=field id_prefix=include.id_prefix %}
+  {% endfor %}
+</section>
