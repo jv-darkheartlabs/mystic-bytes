@@ -1,0 +1,22 @@
+{% comment %}
+  YouTube playlist or video embed.
+  Pass playlist=ID or video=ID, plus title.
+{% endcomment %}
+{% assign yt_src = nil %}
+{% if include.playlist %}
+  {% assign yt_src = "https://www.youtube-nocookie.com/embed/videoseries?list=" | append: include.playlist %}
+{% elsif include.video %}
+  {% assign yt_src = "https://www.youtube-nocookie.com/embed/" | append: include.video %}
+{% endif %}
+{% if yt_src %}
+<div class="youtube-embed">
+  <iframe
+    src="{{ yt_src }}"
+    title="{{ include.title | default: 'YouTube embed' | escape }}"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+  ></iframe>
+</div>
+{% endif %}

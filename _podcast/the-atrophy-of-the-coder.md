@@ -1,7 +1,7 @@
 ---
 layout: podcast
 slug: the-atrophy-of-the-coder
-number: 02
+number: 01
 title: The Atrophy of the Coder
 dek: When the builder becomes the inspector — and the craft starts to fade.
 date: 2026-05-21

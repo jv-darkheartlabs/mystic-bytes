@@ -1,7 +1,7 @@
 ---
 layout: podcast
 slug: why-moving-countries-feels-like-refactoring-your-life
-number: 01
+number: 02
 title: Why Moving Countries Feels Like Refactoring Your Life
 dek: Moving countries is a migration with no rollback plan.
 date: 2026-06-29

@@ -5,6 +5,8 @@ eyebrow: "[media/video]"
 permalink: /media/video/
 ---
 
+{% assign youtube = site.data.youtube %}
+{% assign lab = youtube.inside_the_lab %}
 {% assign channels = site.data.gallery_channels.channels %}
 
 <div class="container video-index">
@@ -14,31 +16,39 @@ permalink: /media/video/
     <p class="page-eyebrow">[video]</p>
     <h1 class="page-title">moving image</h1>
     <p class="media-sub-lede">
-      Reels, process clips, and long-form — embedded from the networks until local video ships.
+      Process, infrastructure, and long-form from
+      <a href="{{ youtube.channel_url }}" target="_blank" rel="me noreferrer">@darkheartlabs ↗</a>.
+      Music playlists live on <a href="{{ '/media/' | relative_url }}">/media</a>.
     </p>
   </header>
 
-  <section class="gallery-empty panel">
-    <p class="gallery-empty__signal">[ awaiting first embed ]</p>
-    <p>
-      Video gallery scaffold is live. First pass: outbound links and embeds from Twitch, Instagram Reels,
-      or YouTube. Self-hosted files can follow if you want full ownership on-domain.
+  <section class="video-lab">
+    <h2 class="media-sub-section">&gt;_ {{ lab.title }}</h2>
+    <p class="media-sub-lede">{{ lab.blurb }}</p>
+    <div class="youtube-embed-card panel">
+      {% include youtube-embed.html playlist=lab.id title=lab.title %}
+    </div>
+    <p class="media-written-more">
+      <a href="https://www.youtube.com/playlist?list={{ lab.id }}" target="_blank" rel="noreferrer">open full playlist on youtube ↗</a>
     </p>
   </section>
 
-  <section class="video-placeholder">
-    <h2 class="media-sub-section">&gt;_ embed slots</h2>
-    <div class="video-embed-grid">
-      <div class="video-embed-slot panel">
-        <span class="video-embed-slot__label">slot_01</span>
-        <p>Primary reel or long-form embed — paste iframe or link when ready.</p>
+  {% if youtube.longform.size > 0 %}
+  <section class="video-longform">
+    <h2 class="media-sub-section">&gt;_ long-form</h2>
+    <div class="youtube-embed-grid">
+      {% for vid in youtube.longform %}
+      <div class="youtube-embed-card panel">
+        <p class="youtube-embed-card__label">{{ vid.title }}</p>
+        {% if vid.blurb %}
+        <p class="youtube-embed-card__blurb">{{ vid.blurb }}</p>
+        {% endif %}
+        {% include youtube-embed.html video=vid.id title=vid.title %}
       </div>
-      <div class="video-embed-slot panel">
-        <span class="video-embed-slot__label">slot_02</span>
-        <p>Secondary — b-roll, reading shelf, or process.</p>
-      </div>
+      {% endfor %}
     </div>
   </section>
+  {% endif %}
 
   <section class="gallery-channels">
     <h2 class="media-sub-section">&gt;_ networks</h2>
