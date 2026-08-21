@@ -86,7 +86,7 @@ permalink: /services/
     {% endif %}
     {% if realm.booking %}
     <p class="services-booking panel">
-      <a class="btn-outline" href="{{ realm.booking.href | relative_url }}">{{ realm.booking.label }}</a>
+      <a class="btn-outline" href="{% if realm.booking.href contains 'http' %}{{ realm.booking.href }}{% else %}{{ realm.booking.href | relative_url }}{% endif %}"{% if realm.booking.href contains 'http' %} target="_blank" rel="noreferrer"{% endif %}>{{ realm.booking.label }}</a>
       {% if realm.booking.note %}<span class="services-booking__note">{{ realm.booking.note }}</span>{% endif %}
     </p>
     {% endif %}
@@ -121,7 +121,7 @@ permalink: /services/
           <a class="btn-outline" href="{% if pkg.demo.href contains 'http' %}{{ pkg.demo.href }}{% else %}{{ pkg.demo.href | relative_url }}{% endif %}"{% if pkg.demo.href contains 'http' %} target="_blank" rel="noreferrer"{% endif %}>{{ pkg.demo.label }}</a>
           {% endif %}
           {% if pkg.booking %}
-          <a class="btn-outline" href="{{ pkg.booking.href | relative_url }}">{{ pkg.booking.label }}</a>
+          <a class="btn-outline" href="{% if pkg.booking.href contains 'http' %}{{ pkg.booking.href }}{% else %}{{ pkg.booking.href | relative_url }}{% endif %}"{% if pkg.booking.href contains 'http' %} target="_blank" rel="noreferrer"{% endif %}>{{ pkg.booking.label }}</a>
           {% endif %}
         </div>
         {% endif %}
