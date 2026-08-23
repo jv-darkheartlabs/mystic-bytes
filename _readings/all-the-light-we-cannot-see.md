@@ -8,9 +8,8 @@ number: R412
 sort_key: 412
 date: 2026-02-14
 date_read: 2007-10-22
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/all-the-light-we-cannot-see.jpg
-spice: 1
 content_warnings:
   - "war"
   - "violence"

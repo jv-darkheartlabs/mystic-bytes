@@ -8,9 +8,8 @@ number: R396
 sort_key: 396
 date: 2026-02-12
 date_read: 2011-03-01
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-girls-in-the-garden.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "teen trauma"

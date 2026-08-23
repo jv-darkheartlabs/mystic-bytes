@@ -7,9 +7,8 @@ number: R1864
 sort_key: 1864
 date: 2026-07-15
 date_read: 2009-04-04
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/no-country-for-old-men.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

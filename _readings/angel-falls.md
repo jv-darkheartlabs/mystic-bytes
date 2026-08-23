@@ -8,9 +8,8 @@ number: R435
 sort_key: 435
 date: 2026-02-16
 date_read: 2010-06-10
-category: romantic-suspense
+category: historical
 cover: /assets/readings/angel-falls.jpg
-spice: 2
 content_warnings:
   - "amnesia"
   - "marital crisis"

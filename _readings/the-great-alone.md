@@ -8,9 +8,8 @@ number: R429
 sort_key: 429
 date: 2026-02-16
 date_read: 2014-09-19
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-great-alone.jpg
-spice: 2
 content_warnings:
   - "domestic violence"
   - "isolation"

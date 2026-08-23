@@ -7,10 +7,9 @@ number: R2084
 sort_key: 2084
 date: 2026-07-29
 date_read: 2009-08-16
-category: romantic-suspense
+category: memoir-nonfiction
 shelf: false
 cover: /assets/readings/word-smart-ii.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

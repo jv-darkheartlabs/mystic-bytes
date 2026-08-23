@@ -8,9 +8,8 @@ number: R393
 sort_key: 393
 date: 2026-02-12
 date_read: 2008-09-19
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-crash.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "accident"

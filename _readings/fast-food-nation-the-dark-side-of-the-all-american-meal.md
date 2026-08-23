@@ -7,9 +7,8 @@ number: R2184
 sort_key: 2184
 date: 2026-08-05
 date_read: 2009-09-19
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/fast-food-nation-the-dark-side-of-the-all-american-meal.jpg
-spice: 1
 content_warnings:
   - "graphic descriptions"
   - "food industry exploitation"

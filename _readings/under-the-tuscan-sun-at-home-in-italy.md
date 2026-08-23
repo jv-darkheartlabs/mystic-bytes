@@ -7,9 +7,8 @@ number: R2185
 sort_key: 2185
 date: 2026-08-05
 date_read: 2010-10-22
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/under-the-tuscan-sun-at-home-in-italy.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -8,9 +8,8 @@ number: R348
 sort_key: 348
 date: 2026-02-07
 date_read: 2013-09-19
-category: romantic-suspense
+category: sff
 cover: /assets/readings/jurassic-park.jpg
-spice: 2
 content_warnings:
   - "suspense"
   - "psychological intensity"

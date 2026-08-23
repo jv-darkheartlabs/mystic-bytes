@@ -7,9 +7,8 @@ number: R1710
 sort_key: 1710
 date: 2026-07-01
 date_read: 2005-03-01
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/the-red-badge-of-courage.jpg
-spice: 1
 content_warnings:
   - "war"
   - "violence"

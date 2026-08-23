@@ -8,9 +8,8 @@ number: R400
 sort_key: 400
 date: 2026-02-13
 date_read: 2005-07-13
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-truth-about-melody-browne.jpg
-spice: 2
 content_warnings:
   - "identity"
   - "psychological intensity"

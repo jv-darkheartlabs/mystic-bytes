@@ -7,9 +7,8 @@ number: R1807
 sort_key: 1807
 date: 2026-07-10
 date_read: 2012-10-22
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/milk-and-honey.jpg
-spice: 1
 content_warnings:
   - "abuse"
   - "trauma"

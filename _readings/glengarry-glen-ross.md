@@ -7,9 +7,8 @@ number: R1838
 sort_key: 1838
 date: 2026-07-13
 date_read: 2013-05-07
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/glengarry-glen-ross.jpg
-spice: 2
 content_warnings:
   - "strong language"
   - "themes of manipulation"

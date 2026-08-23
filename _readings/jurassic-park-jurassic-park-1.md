@@ -7,9 +7,8 @@ number: R1557
 sort_key: 1557
 date: 2026-06-17
 date_read: 2012-03-01
-category: romantic-suspense
+category: sff
 cover: /assets/readings/jurassic-park-jurassic-park-1.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "death"

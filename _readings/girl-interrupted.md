@@ -7,9 +7,8 @@ number: R1871
 sort_key: 1871
 date: 2026-07-16
 date_read: 2006-11-25
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/girl-interrupted.jpg
-spice: 2
 content_warnings:
   - "mental illness"
   - "self-harm"

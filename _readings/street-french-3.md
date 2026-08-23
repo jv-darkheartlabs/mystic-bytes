@@ -7,9 +7,8 @@ number: R2149
 sort_key: 2149
 date: 2026-08-01
 date_read: 2014-10-22
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/street-french-3.jpg
-spice: 2
 content_warnings:
 tags:
   - darkthriller

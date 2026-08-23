@@ -8,9 +8,8 @@ number: R361
 sort_key: 361
 date: 2026-02-08
 date_read: 2006-04-04
-category: romantic-suspense
+category: sff
 cover: /assets/readings/the-ferryman.jpg
-spice: 2
 content_warnings:
   - "death"
   - "violence"

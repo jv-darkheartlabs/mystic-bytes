@@ -8,9 +8,8 @@ number: R432
 sort_key: 432
 date: 2026-02-16
 date_read: 2007-03-01
-category: romantic-suspense
+category: historical
 cover: /assets/readings/code-name-h-l-ne.jpg
-spice: 2
 content_warnings:
   - "war"
   - "violence"

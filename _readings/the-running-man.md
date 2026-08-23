@@ -7,9 +7,8 @@ number: R1942
 sort_key: 1942
 date: 2026-07-22
 date_read: 2007-10-22
-category: romantic-suspense
+category: horror
 cover: /assets/readings/the-running-man.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

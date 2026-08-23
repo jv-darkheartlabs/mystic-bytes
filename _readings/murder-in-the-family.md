@@ -8,9 +8,8 @@ number: R416
 sort_key: 416
 date: 2026-02-14
 date_read: 2011-05-07
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/murder-in-the-family.jpg
-spice: 2
 content_warnings:
   - "murder"
   - "violence"

@@ -7,9 +7,8 @@ number: R1703
 sort_key: 1703
 date: 2026-07-01
 date_read: 2008-05-07
-category: romantic-suspense
+category: juvenile-fiction
 cover: /assets/readings/henry-huggins-henry-huggins-1.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

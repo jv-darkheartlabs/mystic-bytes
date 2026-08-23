@@ -7,9 +7,8 @@ number: R2050
 sort_key: 2050
 date: 2026-07-26
 date_read: 2005-10-22
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/philosophy-of-religion-an-introduction.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

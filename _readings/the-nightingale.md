@@ -8,9 +8,8 @@ number: R403
 sort_key: 403
 date: 2026-02-13
 date_read: 2008-10-22
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-nightingale.jpg
-spice: 2
 content_warnings:
   - "war"
   - "violence"

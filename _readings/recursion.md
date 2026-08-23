@@ -8,9 +8,8 @@ number: R346
 sort_key: 346
 date: 2026-02-07
 date_read: 2011-07-13
-category: romantic-suspense
+category: sff
 cover: /assets/readings/recursion.jpg
-spice: 2
 content_warnings:
   - "suspense"
   - "psychological intensity"

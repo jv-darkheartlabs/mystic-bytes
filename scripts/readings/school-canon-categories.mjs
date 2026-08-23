@@ -167,6 +167,18 @@ const JUVENILE = new Set([
   "if you give a mouse a cookie",
   "green eggs and ham",
   "how the grinch stole christmas",
+  "curious george",
+  "old yeller",
+  "because of winn dixie",
+  "where the red fern grows",
+  "dear mr henshaw",
+  "henry huggins",
+  "the mouse and the motorcycle",
+  "runaway ralph",
+  "the whipping boy",
+  "shiloh",
+  "diary of a wimpy kid",
+  "the bad beginning",
 ]);
 
 const MYSTERY_SERIES = /^nancy-drew-|^hardy-boys-|^nancy-drew-1-64$/;

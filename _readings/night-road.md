@@ -8,9 +8,8 @@ number: R413
 sort_key: 413
 date: 2026-02-14
 date_read: 2008-11-25
-category: romantic-suspense
+category: historical
 cover: /assets/readings/night-road.jpg
-spice: 2
 content_warnings:
   - "grief"
   - "tragedy"

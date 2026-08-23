@@ -8,9 +8,8 @@ number: R415
 sort_key: 415
 date: 2026-02-14
 date_read: 2010-04-04
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-younger-wife.jpg
-spice: 2
 content_warnings:
   - "marital secrets"
   - "family drama"

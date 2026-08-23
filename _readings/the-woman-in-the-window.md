@@ -7,9 +7,8 @@ number: R1797
 sort_key: 1797
 date: 2026-07-09
 date_read: 2012-09-19
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-woman-in-the-window.jpg
-spice: 2
 content_warnings:
   - "mental illness"
   - "violence"

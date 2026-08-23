@@ -7,9 +7,8 @@ number: R1746
 sort_key: 1746
 date: 2026-07-05
 date_read: 2011-03-01
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/black-mass.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

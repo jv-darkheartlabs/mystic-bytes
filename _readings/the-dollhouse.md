@@ -8,9 +8,8 @@ number: R353
 sort_key: 353
 date: 2026-02-07
 date_read: 2008-05-07
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-dollhouse.jpg
-spice: 2
 content_warnings:
   - "psychological manipulation"
   - "violence"

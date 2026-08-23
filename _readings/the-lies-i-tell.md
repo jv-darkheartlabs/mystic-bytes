@@ -8,9 +8,8 @@ number: R383
 sort_key: 383
 date: 2026-02-11
 date_read: 2008-08-16
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-lies-i-tell.jpg
-spice: 2
 content_warnings:
   - "deception"
   - "psychological intensity"

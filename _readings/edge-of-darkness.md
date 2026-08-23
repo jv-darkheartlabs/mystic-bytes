@@ -8,9 +8,8 @@ number: R355
 sort_key: 355
 date: 2026-02-08
 date_read: 2010-07-13
-category: romantic-suspense
+category: sff
 cover: /assets/readings/edge-of-darkness.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

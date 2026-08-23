@@ -8,9 +8,8 @@ number: R357
 sort_key: 357
 date: 2026-02-08
 date_read: 2012-09-19
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/a-great-deliverance.jpg
-spice: 1
 content_warnings:
   - "murder"
   - "violence"

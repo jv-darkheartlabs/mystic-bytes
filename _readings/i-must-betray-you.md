@@ -8,9 +8,8 @@ number: R409
 sort_key: 409
 date: 2026-02-14
 date_read: 2014-07-13
-category: romantic-suspense
+category: historical
 cover: /assets/readings/i-must-betray-you.jpg
-spice: 2
 content_warnings:
   - "political violence"
   - "betrayal"

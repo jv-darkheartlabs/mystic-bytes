@@ -7,9 +7,8 @@ number: R1941
 sort_key: 1941
 date: 2026-07-22
 date_read: 2006-09-19
-category: romantic-suspense
+category: sff
 cover: /assets/readings/the-gunslinger-the-dark-tower-1.jpg
-spice: 2
 content_warnings:
 tags:
   - darkthriller

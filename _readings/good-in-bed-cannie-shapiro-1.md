@@ -7,9 +7,8 @@ number: R2175
 sort_key: 2175
 date: 2026-08-04
 date_read: 2010-09-19
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/good-in-bed-cannie-shapiro-1.jpg
-spice: 2
 content_warnings:
 tags:
   - darkthriller

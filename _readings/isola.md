@@ -7,9 +7,8 @@ number: R440
 sort_key: 440
 date: 2026-02-17
 date_read: 2005-11-25
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/isola.jpg
-spice: 2
 content_warnings:
   - "religious persecution"
   - "isolation"

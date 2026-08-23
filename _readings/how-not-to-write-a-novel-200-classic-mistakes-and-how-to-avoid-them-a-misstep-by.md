@@ -7,9 +7,8 @@ number: R2037
 sort_key: 2037
 date: 2026-07-25
 date_read: 2012-06-10
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/how-not-to-write-a-novel-200-classic-mistakes-and-how-to-avoid-them-a-misstep-by.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

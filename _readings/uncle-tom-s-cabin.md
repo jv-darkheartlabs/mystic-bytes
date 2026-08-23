@@ -7,9 +7,8 @@ number: R2236
 sort_key: 2236
 date: 2026-08-06
 date_read: 2011-07-13
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/uncle-tom-s-cabin.jpg
-spice: 1
 content_warnings:
   - "racism"
   - "slavery"

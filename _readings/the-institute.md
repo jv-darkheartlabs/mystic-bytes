@@ -8,9 +8,8 @@ number: R352
 sort_key: 352
 date: 2026-02-07
 date_read: 2007-04-04
-category: romantic-suspense
+category: horror
 cover: /assets/readings/the-institute.jpg
-spice: 2
 content_warnings:
   - "kidnapping"
   - "child abuse"

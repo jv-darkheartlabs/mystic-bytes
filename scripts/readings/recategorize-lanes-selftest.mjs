@@ -67,6 +67,56 @@ const cases = [
     overrides: { "a-homerun-proposal": "enemies-to-lovers" },
     want: "enemies-to-lovers",
   },
+  {
+    name: "Curious George",
+    meta: {
+      slug: "curious-george",
+      title: "Curious George",
+      author: "H.A. Rey",
+      category: "romantic-suspense",
+    },
+    want: "juvenile-fiction",
+  },
+  {
+    name: "Word Smart",
+    meta: {
+      slug: "word-smart-ii",
+      title: "Word Smart II",
+      author: "Adam Robinson",
+      category: "romantic-suspense",
+    },
+    want: "memoir-nonfiction",
+  },
+  {
+    name: "Cowles",
+    meta: {
+      slug: "ashes-of-you",
+      title: "Ashes of You",
+      author: "Catherine Cowles",
+      category: "romantic-suspense",
+    },
+    want: "romantic-suspense",
+  },
+  {
+    name: "Misery",
+    meta: {
+      slug: "misery",
+      title: "Misery",
+      author: "Stephen  King",
+      category: "romantic-suspense",
+    },
+    want: "horror",
+  },
+  {
+    name: "Pelican Brief",
+    meta: {
+      slug: "the-pelican-brief",
+      title: "The Pelican Brief",
+      author: "John Grisham",
+      category: "romantic-suspense",
+    },
+    want: "mystery-crime",
+  },
 ];
 
 let failed = 0;

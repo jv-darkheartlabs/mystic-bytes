@@ -7,9 +7,8 @@ number: R1926
 sort_key: 1926
 date: 2026-07-20
 date_read: 2011-03-01
-category: romantic-suspense
+category: horror
 cover: /assets/readings/geralds-game.jpg
-spice: 3
 content_warnings:
   - "sexual assault"
   - "isolation"

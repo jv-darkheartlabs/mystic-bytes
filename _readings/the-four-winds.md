@@ -8,9 +8,8 @@ number: R406
 sort_key: 406
 date: 2026-02-13
 date_read: 2011-04-04
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-four-winds.jpg
-spice: 2
 content_warnings:
   - "poverty"
   - "violence"

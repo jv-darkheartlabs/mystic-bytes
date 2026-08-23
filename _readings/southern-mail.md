@@ -7,9 +7,8 @@ number: R1646
 sort_key: 1646
 date: 2026-06-25
 date_read: 2011-11-25
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/southern-mail.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

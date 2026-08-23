@@ -7,9 +7,8 @@ number: R1596
 sort_key: 1596
 date: 2026-06-20
 date_read: 2011-06-10
-category: romantic-suspense
+category: sff
 cover: /assets/readings/the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

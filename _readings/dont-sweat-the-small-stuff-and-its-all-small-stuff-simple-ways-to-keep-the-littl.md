@@ -7,9 +7,8 @@ number: R1541
 sort_key: 1541
 date: 2026-06-16
 date_read: 2006-05-07
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/dont-sweat-the-small-stuff-and-its-all-small-stuff-simple-ways-to-keep-the-littl.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

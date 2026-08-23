@@ -7,9 +7,8 @@ number: R1869
 sort_key: 1869
 date: 2026-07-16
 date_read: 2014-09-19
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/dead-poets-society.jpg
-spice: 2
 content_warnings:
   - "suicide"
   - "mental health issues"

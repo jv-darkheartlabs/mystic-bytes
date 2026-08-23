@@ -8,9 +8,8 @@ number: R392
 sort_key: 392
 date: 2026-02-12
 date_read: 2007-08-16
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-making-of-us.jpg
-spice: 2
 content_warnings:
   - "family secrets"
   - "grief"

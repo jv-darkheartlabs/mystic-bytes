@@ -7,10 +7,9 @@ number: R2045
 sort_key: 2045
 date: 2026-07-26
 date_read: 2010-05-07
-category: romantic-suspense
+category: memoir-nonfiction
 shelf: false
 cover: /assets/readings/schaums-outline-of-essential-computer-mathematics.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

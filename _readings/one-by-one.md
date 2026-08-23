@@ -8,9 +8,8 @@ number: R418
 sort_key: 418
 date: 2026-02-15
 date_read: 2013-07-13
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/one-by-one.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "isolation"

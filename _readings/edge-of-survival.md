@@ -8,9 +8,8 @@ number: R366
 sort_key: 366
 date: 2026-02-09
 date_read: 2011-09-19
-category: romantic-suspense
+category: sff
 cover: /assets/readings/edge-of-survival.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

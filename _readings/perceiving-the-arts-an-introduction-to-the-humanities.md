@@ -7,9 +7,8 @@ number: R2051
 sort_key: 2051
 date: 2026-07-27
 date_read: 2006-11-25
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/perceiving-the-arts-an-introduction-to-the-humanities.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

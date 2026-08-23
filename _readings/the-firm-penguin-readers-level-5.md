@@ -7,9 +7,8 @@ number: R1798
 sort_key: 1798
 date: 2026-07-09
 date_read: 2013-10-22
-category: romantic-suspense
+category: juvenile-fiction
 cover: /assets/readings/the-firm-penguin-readers-level-5.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "crime"

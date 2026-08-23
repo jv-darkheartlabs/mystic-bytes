@@ -7,9 +7,8 @@ number: R2235
 sort_key: 2235
 date: 2026-08-06
 date_read: 2010-06-10
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/deliverance.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "sexual assault"

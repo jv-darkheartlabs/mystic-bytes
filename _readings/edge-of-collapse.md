@@ -8,9 +8,8 @@ number: R365
 sort_key: 365
 date: 2026-02-09
 date_read: 2010-08-16
-category: romantic-suspense
+category: sff
 cover: /assets/readings/edge-of-collapse.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

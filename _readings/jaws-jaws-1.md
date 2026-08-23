@@ -7,9 +7,8 @@ number: R1937
 sort_key: 1937
 date: 2026-07-21
 date_read: 2012-05-07
-category: romantic-suspense
+category: horror
 cover: /assets/readings/jaws-jaws-1.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

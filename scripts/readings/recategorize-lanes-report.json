@@ -1,46 +1,39 @@
 {
   "dryRun": false,
-  "changed": 5,
-  "spiceStripped": 5,
+  "changed": 4,
+  "spiceStripped": 0,
   "cwStripped": 0,
   "unknown": [],
   "byRule": {
-    "sff": 5
+    "override": 4
   },
   "changes": [
     {
-      "slug": "a-wizard-of-earthsea",
-      "from": "fantasy-romance",
-      "to": "sff",
-      "rule": "sff",
+      "slug": "harper-lees-to-kill-a-mockingbird",
+      "from": "literary-fiction",
+      "to": "classic-literature",
+      "rule": "override",
+      "lane": "canon"
+    },
+    {
+      "slug": "stephen-king-the-stand-captain-trips-1-of-5",
+      "from": "literary-fiction",
+      "to": "horror",
+      "rule": "override",
       "lane": "genre"
     },
     {
-      "slug": "dune-dune-1",
-      "from": "fantasy-romance",
-      "to": "sff",
-      "rule": "sff",
-      "lane": "genre"
+      "slug": "the-firm-penguin-readers-level-5",
+      "from": "literary-fiction",
+      "to": "juvenile-fiction",
+      "rule": "override",
+      "lane": "juvenile"
     },
     {
-      "slug": "project-hail-mary",
-      "from": "fantasy-romance",
-      "to": "sff",
-      "rule": "sff",
-      "lane": "genre"
-    },
-    {
-      "slug": "seveneves",
-      "from": "fantasy-romance",
-      "to": "sff",
-      "rule": "sff",
-      "lane": "genre"
-    },
-    {
-      "slug": "the-left-hand-of-darkness",
-      "from": "fantasy-romance",
-      "to": "sff",
-      "rule": "sff",
+      "slug": "the-stand-captain-trips",
+      "from": "literary-fiction",
+      "to": "horror",
+      "rule": "override",
       "lane": "genre"
     }
   ]

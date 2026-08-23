@@ -8,9 +8,8 @@ number: R424
 sort_key: 424
 date: 2026-02-15
 date_read: 2009-04-04
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-last-murder-at-the-end-of-the-world.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "apocalypse"

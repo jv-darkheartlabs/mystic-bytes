@@ -7,9 +7,8 @@ number: R2177
 sort_key: 2177
 date: 2026-08-04
 date_read: 2012-11-25
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-bourne-identity-jason-bourne-1.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

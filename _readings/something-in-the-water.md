@@ -7,9 +7,8 @@ number: R377
 sort_key: 377
 date: 2026-02-10
 date_read: 2012-11-25
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/something-in-the-water.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "crime"

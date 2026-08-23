@@ -8,9 +8,8 @@ number: R372
 sort_key: 372
 date: 2026-02-09
 date_read: 2007-06-10
-category: romantic-suspense
+category: sff
 cover: /assets/readings/edge-of-valor.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

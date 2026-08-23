@@ -7,9 +7,8 @@ number: R1554
 sort_key: 1554
 date: 2026-06-17
 date_read: 2009-09-19
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/a-thousand-splendid-suns.jpg
-spice: 2
 content_warnings:
   - "domestic abuse"
   - "war"

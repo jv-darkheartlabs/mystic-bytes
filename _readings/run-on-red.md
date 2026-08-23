@@ -8,9 +8,8 @@ number: R359
 sort_key: 359
 date: 2026-02-08
 date_read: 2014-11-25
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/run-on-red.jpg
-spice: 2
 content_warnings:
   - "stalking"
   - "violence"

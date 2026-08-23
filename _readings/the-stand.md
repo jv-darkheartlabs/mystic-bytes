@@ -7,9 +7,8 @@ number: R1861
 sort_key: 1861
 date: 2026-07-15
 date_read: 2006-10-22
-category: romantic-suspense
+category: horror
 cover: /assets/readings/the-stand.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

@@ -7,9 +7,8 @@ number: R1974
 sort_key: 1974
 date: 2026-07-24
 date_read: 2009-06-10
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-bone-collector-lincoln-rhyme-1.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "murder"

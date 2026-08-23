@@ -7,9 +7,8 @@ number: R398
 sort_key: 398
 date: 2026-02-12
 date_read: 2013-05-07
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/smile-beach-murder.jpg
-spice: 1
 content_warnings:
   - "murder"
 tags:

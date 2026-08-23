@@ -8,9 +8,8 @@ number: R374
 sort_key: 374
 date: 2026-02-10
 date_read: 2009-08-16
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/red-dragon.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "serial killers"

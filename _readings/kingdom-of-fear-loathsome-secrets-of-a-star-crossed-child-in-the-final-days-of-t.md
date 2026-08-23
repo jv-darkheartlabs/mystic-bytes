@@ -7,9 +7,8 @@ number: R1546
 sort_key: 1546
 date: 2026-06-16
 date_read: 2011-10-22
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/kingdom-of-fear-loathsome-secrets-of-a-star-crossed-child-in-the-final-days-of-t.jpg
-spice: 3
 content_warnings:
   - "substance abuse"
   - "mental health issues"

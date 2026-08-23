@@ -8,9 +8,8 @@ number: R433
 sort_key: 433
 date: 2026-02-16
 date_read: 2008-04-04
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-book-of-lost-names.jpg
-spice: 2
 content_warnings:
   - "holocaust"
   - "war"

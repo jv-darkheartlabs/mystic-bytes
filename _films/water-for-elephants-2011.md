@@ -24,7 +24,6 @@ category: period-drama
 format: feature-film
 fidelity: faithful
 mpaa_rating: "PG-13"
-spice: 2
 content_warnings:
   - "violence"
   - "animal cruelty"
@@ -38,7 +37,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
-lane: romance
+lane: genre
 ---
 
 ## Hook & thesis

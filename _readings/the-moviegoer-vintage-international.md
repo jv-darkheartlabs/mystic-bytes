@@ -7,9 +7,8 @@ number: R2237
 sort_key: 2237
 date: 2026-08-06
 date_read: 2012-08-16
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/the-moviegoer-vintage-international.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -8,9 +8,8 @@ number: R386
 sort_key: 386
 date: 2026-02-11
 date_read: 2011-11-25
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/then-she-was-gone.jpg
-spice: 2
 content_warnings:
   - "missing person"
   - "grief"

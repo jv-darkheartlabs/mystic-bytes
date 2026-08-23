@@ -7,9 +7,8 @@ number: R1608
 sort_key: 1608
 date: 2026-06-21
 date_read: 2013-09-19
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/broken.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "mental health issues"

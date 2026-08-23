@@ -8,9 +8,8 @@ number: R438
 sort_key: 438
 date: 2026-02-17
 date_read: 2013-09-19
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-huntress.jpg
-spice: 2
 content_warnings:
   - "war crimes"
   - "violence"

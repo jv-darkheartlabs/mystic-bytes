@@ -8,9 +8,8 @@ number: R371
 sort_key: 371
 date: 2026-02-09
 date_read: 2006-05-07
-category: romantic-suspense
+category: sff
 cover: /assets/readings/edge-of-madness.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

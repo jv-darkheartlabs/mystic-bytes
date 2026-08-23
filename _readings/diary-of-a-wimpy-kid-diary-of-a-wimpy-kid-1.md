@@ -7,9 +7,8 @@ number: R1812
 sort_key: 1812
 date: 2026-07-10
 date_read: 2007-06-10
-category: romantic-suspense
+category: juvenile-fiction
 cover: /assets/readings/diary-of-a-wimpy-kid-diary-of-a-wimpy-kid-1.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

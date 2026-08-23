@@ -7,9 +7,8 @@ number: R1724
 sort_key: 1724
 date: 2026-07-03
 date_read: 2009-08-16
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/casino-royale-james-bond-1.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "gambling"

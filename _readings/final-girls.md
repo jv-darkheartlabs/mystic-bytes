@@ -7,9 +7,8 @@ number: R1692
 sort_key: 1692
 date: 2026-06-29
 date_read: 2007-03-01
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/final-girls.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "murder"

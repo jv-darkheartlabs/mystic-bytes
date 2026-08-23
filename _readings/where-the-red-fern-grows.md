@@ -7,9 +7,8 @@ number: R1616
 sort_key: 1616
 date: 2026-06-22
 date_read: 2011-08-16
-category: romantic-suspense
+category: juvenile-fiction
 cover: /assets/readings/where-the-red-fern-grows.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -7,9 +7,8 @@ number: R2151
 sort_key: 2151
 date: 2026-08-01
 date_read: 2006-03-01
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/street-french-1-the-best-of-french-slang.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

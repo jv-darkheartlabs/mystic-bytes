@@ -8,9 +8,8 @@ number: R391
 sort_key: 391
 date: 2026-02-12
 date_read: 2006-07-13
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-good-sister.jpg
-spice: 2
 content_warnings:
   - "family secrets"
   - "psychological intensity"

@@ -7,9 +7,8 @@ number: R1751
 sort_key: 1751
 date: 2026-07-06
 date_read: 2006-08-16
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-living-a-good.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

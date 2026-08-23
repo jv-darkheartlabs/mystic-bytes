@@ -7,9 +7,8 @@ number: R1943
 sort_key: 1943
 date: 2026-07-22
 date_read: 2008-11-25
-category: romantic-suspense
+category: sff
 cover: /assets/readings/v-for-vendetta-1.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "political themes"

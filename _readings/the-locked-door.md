@@ -8,9 +8,8 @@ number: R417
 sort_key: 417
 date: 2026-02-14
 date_read: 2012-06-10
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-locked-door.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "secrets"

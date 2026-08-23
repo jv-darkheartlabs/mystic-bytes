@@ -7,10 +7,9 @@ number: R2076
 sort_key: 2076
 date: 2026-07-28
 date_read: 2011-09-19
-category: romantic-suspense
+category: memoir-nonfiction
 shelf: false
 cover: /assets/readings/word-smart-building-an-educated-vocabulary.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

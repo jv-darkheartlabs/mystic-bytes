@@ -7,10 +7,9 @@ number: R2055
 sort_key: 2055
 date: 2026-07-27
 date_read: 2010-06-10
-category: romantic-suspense
+category: memoir-nonfiction
 shelf: false
 cover: /assets/readings/essential-essays-by-the-minimalists.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -7,9 +7,8 @@ number: R2246
 sort_key: 2246
 date: 2026-08-07
 date_read: 2017-08-16
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/a-streetcar-named-desire.jpg
-spice: 3
 content_warnings:
   - "mental illness"
   - "domestic violence"

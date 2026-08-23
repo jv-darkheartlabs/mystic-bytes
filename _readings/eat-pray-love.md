@@ -7,9 +7,8 @@ number: R1754
 sort_key: 1754
 date: 2026-07-06
 date_read: 2009-11-25
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/eat-pray-love.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

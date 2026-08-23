@@ -7,9 +7,8 @@ number: R1712
 sort_key: 1712
 date: 2026-07-02
 date_read: 2007-05-07
-category: romantic-suspense
+category: juvenile-fiction
 cover: /assets/readings/old-yeller.jpg
-spice: 1
 content_warnings:
   - "animal death"
   - "violence"

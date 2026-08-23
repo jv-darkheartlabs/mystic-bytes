@@ -7,9 +7,8 @@ number: R1704
 sort_key: 1704
 date: 2026-07-01
 date_read: 2009-06-10
-category: romantic-suspense
+category: juvenile-fiction
 cover: /assets/readings/the-whipping-boy.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

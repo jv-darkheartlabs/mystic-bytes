@@ -7,9 +7,8 @@ number: R1867
 sort_key: 1867
 date: 2026-07-16
 date_read: 2012-07-13
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/requiem-for-a-dream.jpg
-spice: 3
 content_warnings:
   - "substance abuse"
   - "mental illness"

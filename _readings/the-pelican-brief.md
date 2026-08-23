@@ -7,9 +7,8 @@ number: R1977
 sort_key: 1977
 date: 2026-07-24
 date_read: 2012-09-19
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-pelican-brief.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "murder"

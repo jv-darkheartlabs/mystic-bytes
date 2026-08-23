@@ -7,9 +7,8 @@ number: R1883
 sort_key: 1883
 date: 2026-07-17
 date_read: 2008-05-07
-category: romantic-suspense
+category: sff
 cover: /assets/readings/world-war-z-an-oral-history-of-the-zombie-war.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

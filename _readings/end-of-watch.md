@@ -8,9 +8,8 @@ number: R367
 sort_key: 367
 date: 2026-02-09
 date_read: 2012-10-22
-category: romantic-suspense
+category: horror
 cover: /assets/readings/end-of-watch.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "murder"

@@ -7,9 +7,8 @@ number: R382
 sort_key: 382
 date: 2026-02-11
 date_read: 2007-07-13
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/murder-at-the-bookstore.jpg
-spice: 1
 content_warnings:
   - "murder"
 tags:

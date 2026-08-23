@@ -7,9 +7,8 @@ number: R1878
 sort_key: 1878
 date: 2026-07-17
 date_read: 2013-09-19
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-woman-in-cabin-10-lo-blacklock-1.jpg
-spice: 2
 content_warnings:
   - "murder"
   - "violence"

@@ -7,9 +7,8 @@ number: R1717
 sort_key: 1717
 date: 2026-07-02
 date_read: 2016-10-22
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/white-fang.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

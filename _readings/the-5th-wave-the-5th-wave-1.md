@@ -7,9 +7,8 @@ number: R1655
 sort_key: 1655
 date: 2026-06-26
 date_read: 2010-11-25
-category: romantic-suspense
+category: ya-fiction
 cover: /assets/readings/the-5th-wave-the-5th-wave-1.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

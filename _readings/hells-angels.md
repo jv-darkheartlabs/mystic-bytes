@@ -7,9 +7,8 @@ number: R1553
 sort_key: 1553
 date: 2026-06-17
 date_read: 2008-08-16
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/hells-angels.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "drug use"

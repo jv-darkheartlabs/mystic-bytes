@@ -8,9 +8,8 @@ number: R410
 sort_key: 410
 date: 2026-02-14
 date_read: 2005-08-16
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-housemaid.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "domestic suspense"

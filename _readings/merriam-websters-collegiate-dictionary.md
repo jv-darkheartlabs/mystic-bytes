@@ -7,9 +7,8 @@ number: R2259
 sort_key: 2259
 date: 2026-08-09
 date_read: 2014-03-01
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/merriam-websters-collegiate-dictionary.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

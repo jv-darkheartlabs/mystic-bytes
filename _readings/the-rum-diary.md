@@ -7,9 +7,8 @@ number: R1556
 sort_key: 1556
 date: 2026-06-17
 date_read: 2011-11-25
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/the-rum-diary.jpg
-spice: 2
 content_warnings:
   - "substance abuse"
   - "mental health issues"

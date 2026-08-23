@@ -7,9 +7,8 @@ number: R2038
 sort_key: 2038
 date: 2026-07-25
 date_read: 2013-07-13
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/how-to-write-anything-a-guide-and-reference-with-readings.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

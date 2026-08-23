@@ -7,9 +7,8 @@ number: R1866
 sort_key: 1866
 date: 2026-07-15
 date_read: 2011-06-10
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/l-a-confidential-l-a-quartet-3.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "mature themes"

@@ -7,9 +7,8 @@ number: R1605
 sort_key: 1605
 date: 2026-06-21
 date_read: 2010-06-10
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-informationist-vanessa-michael-munroe-1.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "mature themes"

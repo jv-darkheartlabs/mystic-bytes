@@ -7,9 +7,8 @@ number: R2080
 sort_key: 2080
 date: 2026-07-29
 date_read: 2005-04-04
-category: romantic-suspense
+category: juvenile-fiction
 cover: /assets/readings/the-mouse-and-the-motorcycle-ralph-s-mouse-1.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -7,9 +7,8 @@ number: R2243
 sort_key: 2243
 date: 2026-08-07
 date_read: 2008-05-07
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/cat-on-a-hot-tin-roof.jpg
-spice: 2
 content_warnings:
   - "substance abuse"
   - "family dysfunction"

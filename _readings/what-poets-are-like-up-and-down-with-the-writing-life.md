@@ -7,9 +7,8 @@ number: R2042
 sort_key: 2042
 date: 2026-07-26
 date_read: 2007-11-25
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/what-poets-are-like-up-and-down-with-the-writing-life.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

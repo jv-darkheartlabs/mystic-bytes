@@ -8,9 +8,8 @@ number: R407
 sort_key: 407
 date: 2026-02-13
 date_read: 2012-05-07
-category: romantic-suspense
+category: historical
 cover: /assets/readings/we-were-the-lucky-ones.jpg
-spice: 1
 content_warnings:
   - "holocaust"
   - "war"

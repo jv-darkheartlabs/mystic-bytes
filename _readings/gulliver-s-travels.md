@@ -7,9 +7,8 @@ number: R1843
 sort_key: 1843
 date: 2026-07-13
 date_read: 2008-10-22
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/gulliver-s-travels.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

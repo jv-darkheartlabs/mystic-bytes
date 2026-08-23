@@ -7,9 +7,8 @@ number: R2039
 sort_key: 2039
 date: 2026-07-26
 date_read: 2014-08-16
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/write-good-or-die.jpg
-spice: 2
 content_warnings:
 tags:
   - darkthriller

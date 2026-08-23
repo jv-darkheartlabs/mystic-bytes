@@ -7,9 +7,8 @@ number: R2173
 sort_key: 2173
 date: 2026-08-04
 date_read: 2008-07-13
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/three-cups-of-tea-one-mans-mission-to-promote-peace-one-school-at-a-time.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

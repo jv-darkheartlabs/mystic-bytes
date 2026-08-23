@@ -7,9 +7,8 @@ number: R1978
 sort_key: 1978
 date: 2026-07-24
 date_read: 2013-10-22
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-runaway-jury.jpg
-spice: 2
 content_warnings:
   - "legal drama"
   - "manipulation"

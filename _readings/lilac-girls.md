@@ -8,9 +8,8 @@ number: R402
 sort_key: 402
 date: 2026-02-13
 date_read: 2007-09-19
-category: romantic-suspense
+category: historical
 cover: /assets/readings/lilac-girls.jpg
-spice: 1
 content_warnings:
   - "holocaust"
   - "violence"

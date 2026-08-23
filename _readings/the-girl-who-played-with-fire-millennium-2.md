@@ -7,9 +7,8 @@ number: R2170
 sort_key: 2170
 date: 2026-08-03
 date_read: 2005-04-04
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-girl-who-played-with-fire-millennium-2.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "sexual assault"

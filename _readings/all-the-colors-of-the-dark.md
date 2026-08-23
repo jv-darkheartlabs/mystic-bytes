@@ -8,9 +8,8 @@ number: R381
 sort_key: 381
 date: 2026-02-10
 date_read: 2006-06-10
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/all-the-colors-of-the-dark.jpg
-spice: 2
 content_warnings:
   - "abduction"
   - "grief"

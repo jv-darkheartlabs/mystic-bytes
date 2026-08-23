@@ -7,9 +7,8 @@ number: R2159
 sort_key: 2159
 date: 2026-08-02
 date_read: 2014-11-25
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/running-with-scissors.jpg
-spice: 2
 content_warnings:
   - "abuse"
   - "mental illness"

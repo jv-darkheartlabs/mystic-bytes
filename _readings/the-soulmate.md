@@ -8,9 +8,8 @@ number: R395
 sort_key: 395
 date: 2026-02-12
 date_read: 2010-11-25
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-soulmate.jpg
-spice: 2
 content_warnings:
   - "psychological intensity"
 tags:

@@ -7,9 +7,8 @@ number: R2171
 sort_key: 2171
 date: 2026-08-03
 date_read: 2006-05-07
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-hunt-for-red-october-jack-ryan-3.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -8,9 +8,8 @@ number: R356
 sort_key: 356
 date: 2026-02-08
 date_read: 2011-08-16
-category: romantic-suspense
+category: horror
 cover: /assets/readings/holly.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "murder"

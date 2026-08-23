@@ -8,9 +8,8 @@ number: R362
 sort_key: 362
 date: 2026-02-08
 date_read: 2007-05-07
-category: romantic-suspense
+category: sff
 cover: /assets/readings/edge-of-defiance.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

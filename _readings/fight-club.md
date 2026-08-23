@@ -7,9 +7,8 @@ number: R1872
 sort_key: 1872
 date: 2026-07-16
 date_read: 2007-03-01
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/fight-club.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "mental illness"

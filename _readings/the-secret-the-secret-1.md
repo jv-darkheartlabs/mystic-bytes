@@ -7,9 +7,8 @@ number: R1750
 sort_key: 1750
 date: 2026-07-06
 date_read: 2005-07-13
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/the-secret-the-secret-1.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

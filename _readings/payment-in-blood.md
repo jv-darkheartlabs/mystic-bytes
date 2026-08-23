@@ -8,9 +8,8 @@ number: R360
 sort_key: 360
 date: 2026-02-08
 date_read: 2005-03-01
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/payment-in-blood.jpg
-spice: 1
 content_warnings:
   - "murder"
   - "violence"

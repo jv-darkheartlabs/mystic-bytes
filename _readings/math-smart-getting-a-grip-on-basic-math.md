@@ -7,9 +7,8 @@ number: R2082
 sort_key: 2082
 date: 2026-07-29
 date_read: 2007-06-10
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/math-smart-getting-a-grip-on-basic-math.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

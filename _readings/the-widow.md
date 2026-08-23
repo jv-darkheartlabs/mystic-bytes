@@ -7,9 +7,8 @@ number: R1788
 sort_key: 1788
 date: 2026-07-08
 date_read: 2013-09-19
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-widow.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

@@ -7,9 +7,8 @@ number: R2049
 sort_key: 2049
 date: 2026-07-26
 date_read: 2014-09-19
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/experience-psychology-greenville-tech-edition.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

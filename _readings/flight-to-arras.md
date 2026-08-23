@@ -7,9 +7,8 @@ number: R1543
 sort_key: 1543
 date: 2026-06-16
 date_read: 2008-07-13
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/flight-to-arras.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

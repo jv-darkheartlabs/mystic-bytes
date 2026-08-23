@@ -7,9 +7,8 @@ number: R1642
 sort_key: 1642
 date: 2026-06-25
 date_read: 2007-07-13
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/amadeus.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

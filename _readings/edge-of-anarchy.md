@@ -8,9 +8,8 @@ number: R358
 sort_key: 358
 date: 2026-02-08
 date_read: 2013-10-22
-category: romantic-suspense
+category: sff
 cover: /assets/readings/edge-of-anarchy.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

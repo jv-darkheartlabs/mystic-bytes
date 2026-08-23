@@ -7,9 +7,8 @@ number: R1748
 sort_key: 1748
 date: 2026-07-05
 date_read: 2013-05-07
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/heaven-is-for-real-a-little-boys-astounding-story-of-his-trip-to-heaven-and-back.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

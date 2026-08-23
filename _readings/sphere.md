@@ -8,9 +8,8 @@ number: R349
 sort_key: 349
 date: 2026-02-07
 date_read: 2014-10-22
-category: romantic-suspense
+category: sff
 cover: /assets/readings/sphere.jpg
-spice: 2
 content_warnings:
   - "suspense"
   - "psychological intensity"

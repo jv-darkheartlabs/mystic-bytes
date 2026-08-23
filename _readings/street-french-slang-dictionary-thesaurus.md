@@ -7,9 +7,8 @@ number: R2148
 sort_key: 2148
 date: 2026-08-01
 date_read: 2013-09-19
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/street-french-slang-dictionary-thesaurus.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

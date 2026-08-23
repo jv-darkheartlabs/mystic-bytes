@@ -7,9 +7,8 @@ number: R1922
 sort_key: 1922
 date: 2026-07-20
 date_read: 2007-08-16
-category: romantic-suspense
+category: sff
 cover: /assets/readings/do-androids-dream-of-electric-sheep.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "existential themes"

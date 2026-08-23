@@ -7,9 +7,8 @@ number: R394
 sort_key: 394
 date: 2026-02-12
 date_read: 2009-10-22
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-summer-she-went-missing.jpg
-spice: 2
 content_warnings:
   - "missing person"
   - "teen violence"

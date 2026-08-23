@@ -25,7 +25,6 @@ category: psychological-thriller
 format: feature-film
 fidelity: faithful
 mpaa_rating: "PG-13"
-spice: 1
 content_warnings:
   - "violence"
   - "religious controversy"
@@ -39,7 +38,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
-lane: romance
+lane: genre
 ---
 
 ## Hook & thesis

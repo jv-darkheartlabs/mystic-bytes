@@ -8,9 +8,8 @@ number: R363
 sort_key: 363
 date: 2026-02-08
 date_read: 2008-06-10
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-murder-of-roger-ackroyd.jpg
-spice: 1
 content_warnings:
   - "murder"
   - "death"

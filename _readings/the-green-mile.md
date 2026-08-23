@@ -7,9 +7,8 @@ number: R1927
 sort_key: 1927
 date: 2026-07-20
 date_read: 2012-04-04
-category: romantic-suspense
+category: horror
 cover: /assets/readings/the-green-mile.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

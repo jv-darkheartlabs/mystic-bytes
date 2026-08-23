@@ -7,9 +7,8 @@ number: R1854
 sort_key: 1854
 date: 2026-07-14
 date_read: 2009-03-01
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/why-literature-still-matters.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

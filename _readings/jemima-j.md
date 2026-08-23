@@ -7,9 +7,8 @@ number: R2167
 sort_key: 2167
 date: 2026-08-03
 date_read: 2012-10-22
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/jemima-j.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

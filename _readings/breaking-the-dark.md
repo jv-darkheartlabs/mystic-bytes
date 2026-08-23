@@ -8,9 +8,8 @@ number: R388
 sort_key: 388
 date: 2026-02-11
 date_read: 2013-04-04
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/breaking-the-dark.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "trauma"

@@ -7,9 +7,8 @@ number: R2172
 sort_key: 2172
 date: 2026-08-03
 date_read: 2007-06-10
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-girl-who-kicked-the-hornet-s-nest-millennium-3.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "sexual assault"

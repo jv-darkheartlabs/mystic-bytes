@@ -7,9 +7,8 @@ number: R1784
 sort_key: 1784
 date: 2026-07-08
 date_read: 2009-05-07
-category: romantic-suspense
+category: ya-fiction
 cover: /assets/readings/the-sisterhood-of-the-traveling-pants-sisterhood-1.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

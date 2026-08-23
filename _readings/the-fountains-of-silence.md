@@ -8,9 +8,8 @@ number: R431
 sort_key: 431
 date: 2026-02-16
 date_read: 2006-11-25
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-fountains-of-silence.jpg
-spice: 2
 content_warnings:
   - "political oppression"
   - "violence"

@@ -7,9 +7,8 @@ number: R2052
 sort_key: 2052
 date: 2026-07-27
 date_read: 2007-03-01
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/nikola-tesla-imagination-and-the-man-that-invented-the-20th-century.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

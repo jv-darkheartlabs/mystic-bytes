@@ -7,9 +7,8 @@ number: R1645
 sort_key: 1645
 date: 2026-06-25
 date_read: 2010-10-22
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/all-the-kings-men.jpg
-spice: 2
 content_warnings:
   - "political corruption"
   - "violence"

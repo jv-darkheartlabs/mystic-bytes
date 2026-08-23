@@ -8,9 +8,8 @@ number: R345
 sort_key: 345
 date: 2026-02-06
 date_read: 2010-06-10
-category: romantic-suspense
+category: sff
 cover: /assets/readings/dark-matter.jpg
-spice: 2
 content_warnings:
   - "suspense"
   - "psychological intensity"

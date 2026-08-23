@@ -7,7 +7,7 @@ number: R2060
 sort_key: 2060
 date: 2026-07-27
 date_read: 2005-11-25
-category: romantic-suspense
+category: dark-billionaire
 cover: /assets/readings/mister-and-missus-ebook-bundle.jpg
 spice: 3
 content_warnings:

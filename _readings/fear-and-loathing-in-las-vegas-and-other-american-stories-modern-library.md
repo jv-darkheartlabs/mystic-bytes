@@ -7,9 +7,8 @@ number: R1674
 sort_key: 1674
 date: 2026-06-28
 date_read: 2009-03-01
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/fear-and-loathing-in-las-vegas-and-other-american-stories-modern-library.jpg
-spice: 2
 content_warnings:
   - "substance abuse"
   - "mental health issues"

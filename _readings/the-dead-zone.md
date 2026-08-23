@@ -7,9 +7,8 @@ number: R1939
 sort_key: 1939
 date: 2026-07-21
 date_read: 2014-07-13
-category: romantic-suspense
+category: horror
 cover: /assets/readings/the-dead-zone.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

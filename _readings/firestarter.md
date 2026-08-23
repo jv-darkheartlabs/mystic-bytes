@@ -7,9 +7,8 @@ number: R1901
 sort_key: 1901
 date: 2026-07-18
 date_read: 2006-05-07
-category: romantic-suspense
+category: horror
 cover: /assets/readings/firestarter.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "child abuse"

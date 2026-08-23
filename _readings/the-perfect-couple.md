@@ -8,9 +8,8 @@ number: R1344
 sort_key: 1344
 date: 2026-05-26
 date_read: 2009-06-10
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-perfect-couple.jpg
-spice: 1
 content_warnings:
   - "murder"
   - "death"

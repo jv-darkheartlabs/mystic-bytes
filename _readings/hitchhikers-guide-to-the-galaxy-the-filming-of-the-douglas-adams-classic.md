@@ -7,9 +7,8 @@ number: R1673
 sort_key: 1673
 date: 2026-06-28
 date_read: 2008-11-25
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/hitchhikers-guide-to-the-galaxy-the-filming-of-the-douglas-adams-classic.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

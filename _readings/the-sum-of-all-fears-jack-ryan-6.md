@@ -7,9 +7,8 @@ number: R1969
 sort_key: 1969
 date: 2026-07-23
 date_read: 2014-10-22
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-sum-of-all-fears-jack-ryan-6.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "war"

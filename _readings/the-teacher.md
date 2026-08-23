@@ -8,9 +8,8 @@ number: R384
 sort_key: 384
 date: 2026-02-11
 date_read: 2009-09-19
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-teacher.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "school setting"

@@ -7,9 +7,8 @@ number: R2186
 sort_key: 2186
 date: 2026-08-05
 date_read: 2011-11-25
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/freakonomics-a-rogue-economist-explores-the-hidden-side-of-everything.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

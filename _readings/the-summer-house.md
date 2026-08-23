@@ -8,9 +8,8 @@ number: R426
 sort_key: 426
 date: 2026-02-15
 date_read: 2011-06-10
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-summer-house.jpg
-spice: 2
 content_warnings:
   - "violence"
 tags:

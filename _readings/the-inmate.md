@@ -8,9 +8,8 @@ number: R387
 sort_key: 387
 date: 2026-02-11
 date_read: 2012-03-01
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-inmate.jpg
-spice: 2
 content_warnings:
   - "prison"
   - "violence"

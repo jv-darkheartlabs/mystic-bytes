@@ -7,9 +7,8 @@ number: R1971
 sort_key: 1971
 date: 2026-07-23
 date_read: 2006-03-01
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/clear-and-present-danger-jack-ryan-5-jack-ryan-universe-6.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "political corruption"

@@ -8,9 +8,8 @@ number: R373
 sort_key: 373
 date: 2026-02-10
 date_read: 2008-07-13
-category: romantic-suspense
+category: horror
 cover: /assets/readings/finders-keepers.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "murder"

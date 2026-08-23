@@ -7,9 +7,8 @@ number: R1975
 sort_key: 1975
 date: 2026-07-24
 date_read: 2010-07-13
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-lincoln-lawyer-the-lincoln-lawyer-1-harry-bosch-universe-16.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "crime"

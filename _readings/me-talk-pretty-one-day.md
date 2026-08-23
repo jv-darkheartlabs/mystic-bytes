@@ -7,9 +7,8 @@ number: R2228
 sort_key: 2228
 date: 2026-08-05
 date_read: 2013-08-16
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/me-talk-pretty-one-day.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

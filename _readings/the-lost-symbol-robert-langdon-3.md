@@ -7,9 +7,8 @@ number: R2161
 sort_key: 2161
 date: 2026-08-02
 date_read: 2006-04-04
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-lost-symbol-robert-langdon-3.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "mature themes"

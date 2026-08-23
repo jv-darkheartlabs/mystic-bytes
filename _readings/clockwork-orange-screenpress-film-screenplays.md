@@ -7,9 +7,8 @@ number: R1675
 sort_key: 1675
 date: 2026-06-28
 date_read: 2010-04-04
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/clockwork-orange-screenpress-film-screenplays.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "sexual content"

@@ -7,10 +7,9 @@ number: R1749
 sort_key: 1749
 date: 2026-07-06
 date_read: 2014-06-10
-category: romantic-suspense
+category: memoir-nonfiction
 shelf: false
 cover: /assets/readings/who-moved-my-cheese.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

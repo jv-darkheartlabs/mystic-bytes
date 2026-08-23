@@ -7,9 +7,8 @@ number: R1875
 sort_key: 1875
 date: 2026-07-16
 date_read: 2010-06-10
-category: romantic-suspense
+category: ya-fiction
 cover: /assets/readings/a-good-girls-guide-to-murder-a-good-girls-guide-to-murder-1.jpg
-spice: 2
 content_warnings:
   - "murder"
   - "violence"

@@ -7,9 +7,8 @@ number: R2058
 sort_key: 2058
 date: 2026-07-27
 date_read: 2013-09-19
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/think-like-a-genius-the-ultimate-users-manual-for-your-brain.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

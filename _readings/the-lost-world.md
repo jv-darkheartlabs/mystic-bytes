@@ -8,9 +8,8 @@ number: R351
 sort_key: 351
 date: 2026-02-07
 date_read: 2006-03-01
-category: romantic-suspense
+category: sff
 cover: /assets/readings/the-lost-world.jpg
-spice: 2
 content_warnings:
   - "suspense"
   - "psychological intensity"

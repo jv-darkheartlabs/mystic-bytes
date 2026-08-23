@@ -7,9 +7,8 @@ number: R2260
 sort_key: 2260
 date: 2026-08-09
 date_read: 2005-04-04
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/the-elements-of-style.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -7,9 +7,8 @@ number: R1722
 sort_key: 1722
 date: 2026-07-03
 date_read: 2021-06-10
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-island-of-dr-moreau.jpg
-spice: 2
 content_warnings:
   - "animal experimentation"
   - "violence"

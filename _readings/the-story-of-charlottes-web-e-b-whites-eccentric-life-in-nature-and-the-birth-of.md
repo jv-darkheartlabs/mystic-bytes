@@ -7,9 +7,8 @@ number: R2261
 sort_key: 2261
 date: 2026-08-09
 date_read: 2006-05-07
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/the-story-of-charlottes-web-e-b-whites-eccentric-life-in-nature-and-the-birth-of.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

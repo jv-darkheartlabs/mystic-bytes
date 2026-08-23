@@ -7,9 +7,8 @@ number: R1629
 sort_key: 1629
 date: 2026-06-24
 date_read: 2014-03-01
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/atonement.jpg
-spice: 2
 content_warnings:
   - "sexual assault"
   - "war"

@@ -7,9 +7,8 @@ number: R370
 sort_key: 370
 date: 2026-02-09
 date_read: 2005-04-04
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/eyes-of-iris.jpg
-spice: 2
 content_warnings:
   - "psychological horror"
   - "violence"

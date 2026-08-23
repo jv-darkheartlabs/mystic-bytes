@@ -7,9 +7,8 @@ number: R1740
 sort_key: 1740
 date: 2026-07-05
 date_read: 2005-06-10
-category: romantic-suspense
+category: ya-fiction
 cover: /assets/readings/uglies-uglies-1.jpg
-spice: 2
 content_warnings:
   - "body image issues"
   - "dystopian themes"

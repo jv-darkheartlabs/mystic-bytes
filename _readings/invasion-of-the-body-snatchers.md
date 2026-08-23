@@ -7,9 +7,8 @@ number: R1923
 sort_key: 1923
 date: 2026-07-20
 date_read: 2008-09-19
-category: romantic-suspense
+category: horror
 cover: /assets/readings/invasion-of-the-body-snatchers.jpg
-spice: 2
 content_warnings:
   - "body horror"
   - "paranoia"

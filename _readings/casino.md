@@ -7,9 +7,8 @@ number: R1735
 sort_key: 1735
 date: 2026-07-04
 date_read: 2010-10-22
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/casino.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "crime"

@@ -8,9 +8,8 @@ number: R430
 sort_key: 430
 date: 2026-02-16
 date_read: 2005-10-22
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-next-ship-home.jpg
-spice: 2
 content_warnings:
   - "immigration hardship"
   - "historical trauma"

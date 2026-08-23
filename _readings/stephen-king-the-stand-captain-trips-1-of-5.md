@@ -7,9 +7,8 @@ number: R1792
 sort_key: 1792
 date: 2026-07-09
 date_read: 2007-04-04
-category: romantic-suspense
+category: horror
 cover: /assets/readings/stephen-king-the-stand-captain-trips-1-of-5.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

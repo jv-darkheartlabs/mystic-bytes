@@ -8,9 +8,8 @@ number: R411
 sort_key: 411
 date: 2026-02-14
 date_read: 2006-09-19
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-boyfriend.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "deception"

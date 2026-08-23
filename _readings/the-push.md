@@ -7,9 +7,8 @@ number: R2067
 sort_key: 2067
 date: 2026-07-28
 date_read: 2012-09-19
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-push.jpg
-spice: 2
 content_warnings:
   - "mental health issues"
   - "parental neglect"

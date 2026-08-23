@@ -7,9 +7,8 @@ number: R1542
 sort_key: 1542
 date: 2026-06-16
 date_read: 2007-06-10
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/better-than-sex-confessions-of-a-political-junkie.jpg
-spice: 2
 content_warnings:
   - "political themes"
   - "substance use"

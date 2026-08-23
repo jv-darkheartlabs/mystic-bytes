@@ -7,9 +7,8 @@ number: R1604
 sort_key: 1604
 date: 2026-06-21
 date_read: 2009-05-07
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-da-vinci-code-robert-langdon-2.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "murder"

@@ -8,9 +8,8 @@ number: R439
 sort_key: 439
 date: 2026-02-17
 date_read: 2014-10-22
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/by-any-other-name.jpg
-spice: 2
 content_warnings:
   - "gender discrimination"
 tags:

@@ -7,9 +7,8 @@ number: R2056
 sort_key: 2056
 date: 2026-07-27
 date_read: 2011-07-13
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/the-four-year-career-young-living-edition.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -8,9 +8,8 @@ number: R110
 sort_key: 110
 date: 2026-01-12
 date_read: 2005-05-07
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/verity.jpg
-spice: 3
 content_warnings:
   - "psychological distress"
   - "manipulation"

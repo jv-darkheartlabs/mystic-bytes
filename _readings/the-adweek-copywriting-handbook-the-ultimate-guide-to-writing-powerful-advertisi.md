@@ -7,9 +7,8 @@ number: R1656
 sort_key: 1656
 date: 2026-06-27
 date_read: 2011-03-01
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/the-adweek-copywriting-handbook-the-ultimate-guide-to-writing-powerful-advertisi.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

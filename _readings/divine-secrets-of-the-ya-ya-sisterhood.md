@@ -7,9 +7,8 @@ number: R2242
 sort_key: 2242
 date: 2026-08-07
 date_read: 2007-04-04
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/divine-secrets-of-the-ya-ya-sisterhood.jpg
-spice: 2
 content_warnings:
   - "family dysfunction"
   - "emotional abuse"

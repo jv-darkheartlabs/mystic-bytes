@@ -7,9 +7,8 @@ number: R2130
 sort_key: 2130
 date: 2026-07-30
 date_read: 2005-09-19
-category: romantic-suspense
+category: juvenile-fiction
 cover: /assets/readings/dear-mr-henshaw-leigh-botts-1.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

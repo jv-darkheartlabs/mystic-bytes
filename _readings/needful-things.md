@@ -7,9 +7,8 @@ number: R1661
 sort_key: 1661
 date: 2026-06-27
 date_read: 2006-08-16
-category: romantic-suspense
+category: horror
 cover: /assets/readings/needful-things.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "manipulation"

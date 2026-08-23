@@ -7,9 +7,8 @@ number: R1972
 sort_key: 1972
 date: 2026-07-23
 date_read: 2007-04-04
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-rainmaker.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "legal drama"

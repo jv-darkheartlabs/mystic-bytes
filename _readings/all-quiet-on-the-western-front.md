@@ -7,9 +7,8 @@ number: R1647
 sort_key: 1647
 date: 2026-06-26
 date_read: 2012-03-01
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/all-quiet-on-the-western-front.jpg
-spice: 1
 content_warnings:
   - "graphic violence"
   - "war themes"

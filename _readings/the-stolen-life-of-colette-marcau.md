@@ -8,9 +8,8 @@ number: R441
 sort_key: 441
 date: 2026-02-17
 date_read: 2006-03-01
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-stolen-life-of-colette-marcau.jpg
-spice: 2
 content_warnings:
   - "war"
   - "identity theft"

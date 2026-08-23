@@ -8,9 +8,8 @@ number: R385
 sort_key: 385
 date: 2026-02-11
 date_read: 2010-10-22
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/none-of-this-is-true.jpg
-spice: 2
 content_warnings:
   - "deception"
   - "psychological intensity"

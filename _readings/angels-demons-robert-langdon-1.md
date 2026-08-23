@@ -7,9 +7,8 @@ number: R1636
 sort_key: 1636
 date: 2026-06-24
 date_read: 2011-10-22
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/angels-demons-robert-langdon-1.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "murder"

@@ -8,9 +8,8 @@ number: R437
 sort_key: 437
 date: 2026-02-17
 date_read: 2012-08-16
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-alice-network.jpg
-spice: 2
 content_warnings:
   - "war"
   - "violence"

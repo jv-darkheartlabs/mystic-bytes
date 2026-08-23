@@ -8,9 +8,8 @@ number: R397
 sort_key: 397
 date: 2026-02-12
 date_read: 2012-04-04
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-house-across-the-lake.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "obsession"

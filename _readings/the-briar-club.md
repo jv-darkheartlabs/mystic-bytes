@@ -8,9 +8,8 @@ number: R434
 sort_key: 434
 date: 2026-02-16
 date_read: 2009-05-07
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-briar-club.jpg
-spice: 2
 content_warnings:
   - "war trauma"
   - "secrets"

@@ -7,9 +7,8 @@ number: R2231
 sort_key: 2231
 date: 2026-08-06
 date_read: 2006-11-25
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/the-bell-jar.jpg
-spice: 2
 content_warnings:
   - "mental illness"
   - "suicidal thoughts"

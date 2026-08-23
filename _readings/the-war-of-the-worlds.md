@@ -7,9 +7,8 @@ number: R1919
 sort_key: 1919
 date: 2026-07-20
 date_read: 2014-05-07
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/the-war-of-the-worlds.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "death"

@@ -8,9 +8,8 @@ number: R408
 sort_key: 408
 date: 2026-02-13
 date_read: 2013-06-10
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-things-we-cannot-say.jpg
-spice: 2
 content_warnings:
   - "war"
   - "family secrets"

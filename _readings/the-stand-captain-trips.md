@@ -7,9 +7,8 @@ number: R1944
 sort_key: 1944
 date: 2026-07-22
 date_read: 2009-03-01
-category: romantic-suspense
+category: horror
 cover: /assets/readings/the-stand-captain-trips.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

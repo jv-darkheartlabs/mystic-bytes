@@ -8,9 +8,8 @@ number: R428
 sort_key: 428
 date: 2026-02-16
 date_read: 2013-08-16
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-rose-code.jpg
-spice: 2
 content_warnings:
   - "war"
   - "betrayal"

@@ -7,9 +7,8 @@ number: R2044
 sort_key: 2044
 date: 2026-07-26
 date_read: 2009-04-04
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/heathkit-educational-systems-microprocessors-book-1-book-2.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -7,9 +7,8 @@ number: R1768
 sort_key: 1768
 date: 2026-07-07
 date_read: 2013-07-13
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/sherlock-holmes-perunding-detektif-pertama-dunia.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

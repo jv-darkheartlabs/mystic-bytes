@@ -7,9 +7,8 @@ number: R844
 sort_key: 844
 date: 2026-04-03
 date_read: 2009-10-22
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-last-thing-he-told-me.jpg
-spice: 2
 content_warnings:
   - "violence"
 tags:

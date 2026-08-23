@@ -7,9 +7,8 @@ number: R1708
 sort_key: 1708
 date: 2026-07-01
 date_read: 2013-10-22
-category: romantic-suspense
+category: juvenile-fiction
 cover: /assets/readings/because-of-winn-dixie.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

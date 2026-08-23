@@ -8,9 +8,8 @@ number: R399
 sort_key: 399
 date: 2026-02-12
 date_read: 2014-06-10
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-mother-in-law.jpg
-spice: 2
 content_warnings:
   - "family secrets"
   - "death"

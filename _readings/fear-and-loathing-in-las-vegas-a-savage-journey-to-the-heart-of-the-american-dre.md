@@ -7,9 +7,8 @@ number: R1549
 sort_key: 1549
 date: 2026-06-16
 date_read: 2014-04-04
-category: romantic-suspense
+category: memoir-nonfiction
 cover: /assets/readings/fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dre.jpg
-spice: 2
 content_warnings:
   - "substance abuse"
   - "violence"

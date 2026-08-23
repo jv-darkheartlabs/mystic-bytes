@@ -8,9 +8,8 @@ number: R405
 sort_key: 405
 date: 2026-02-13
 date_read: 2010-03-01
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-tenant.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "obsession"

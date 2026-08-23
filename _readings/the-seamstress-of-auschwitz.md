@@ -7,9 +7,8 @@ number: R404
 sort_key: 404
 date: 2026-02-13
 date_read: 2009-11-25
-category: romantic-suspense
+category: historical
 cover: /assets/readings/the-seamstress-of-auschwitz.jpg
-spice: 1
 content_warnings:
   - "holocaust"
   - "violence"

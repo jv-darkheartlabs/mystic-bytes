@@ -7,9 +7,8 @@ number: R1970
 sort_key: 1970
 date: 2026-07-23
 date_read: 2005-11-25
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/splinter-cell-tom-clancys-splinter-cell-1.jpg
-spice: 2
 content_warnings:
 tags:
   - darkthriller

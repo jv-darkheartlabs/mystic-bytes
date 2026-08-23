@@ -7,10 +7,9 @@ number: R2085
 sort_key: 2085
 date: 2026-07-29
 date_read: 2010-09-19
-category: romantic-suspense
+category: memoir-nonfiction
 shelf: false
 cover: /assets/readings/word-smart-for-business-cultivating-a-six-figure-vocabulary-smart-guides.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

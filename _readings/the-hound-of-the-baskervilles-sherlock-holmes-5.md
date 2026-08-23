@@ -7,9 +7,8 @@ number: R1911
 sort_key: 1911
 date: 2026-07-19
 date_read: 2018-06-10
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-hound-of-the-baskervilles-sherlock-holmes-5.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "death"

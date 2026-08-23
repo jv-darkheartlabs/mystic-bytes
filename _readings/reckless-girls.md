@@ -7,9 +7,8 @@ number: R376
 sort_key: 376
 date: 2026-02-10
 date_read: 2011-10-22
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/reckless-girls.jpg
-spice: 2
 content_warnings:
   - "death"
 tags:

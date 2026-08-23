@@ -7,9 +7,8 @@ number: R2164
 sort_key: 2164
 date: 2026-08-03
 date_read: 2009-07-13
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/one-flew-over-the-cuckoo-s-nest.jpg
-spice: 2
 content_warnings:
   - "mental illness"
   - "abuse"

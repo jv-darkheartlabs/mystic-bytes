@@ -8,9 +8,8 @@ number: R813
 sort_key: 813
 date: 2026-03-30
 date_read: 2024-06-10
-category: stalker-obsession
+category: mystery-crime
 cover: /assets/readings/the-housemaid-is-watching.jpg
-spice: 2
 content_warnings:
   - "stalking"
   - "violence"

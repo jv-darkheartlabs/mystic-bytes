@@ -7,9 +7,8 @@ number: R1602
 sort_key: 1602
 date: 2026-06-21
 date_read: 2007-03-01
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/truly-madly-deeply.jpg
-spice: 3
 content_warnings:
   - "mental health issues"
   - "intense emotional themes"

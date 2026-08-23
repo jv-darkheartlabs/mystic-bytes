@@ -7,9 +7,8 @@ number: R1687
 sort_key: 1687
 date: 2026-06-29
 date_read: 2012-07-13
-category: romantic-suspense
+category: classic-literature
 cover: /assets/readings/harper-lees-to-kill-a-mockingbird.jpg
-spice: 1
 content_warnings:
   - "racism"
   - "violence"

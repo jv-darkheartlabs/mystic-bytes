@@ -7,9 +7,8 @@ number: R1766
 sort_key: 1766
 date: 2026-07-07
 date_read: 2011-05-07
-category: romantic-suspense
+category: ya-fiction
 cover: /assets/readings/inside-divergent-the-initiates-world.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

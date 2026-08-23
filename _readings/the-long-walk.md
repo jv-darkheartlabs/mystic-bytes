@@ -8,9 +8,8 @@ number: R368
 sort_key: 368
 date: 2026-02-09
 date_read: 2013-11-25
-category: romantic-suspense
+category: horror
 cover: /assets/readings/the-long-walk.jpg
-spice: 2
 content_warnings:
   - "death"
   - "violence"

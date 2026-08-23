@@ -7,9 +7,8 @@ number: R421
 sort_key: 421
 date: 2026-02-15
 date_read: 2006-10-22
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/murder-on-mustang-beach.jpg
-spice: 1
 content_warnings:
   - "murder"
 tags:

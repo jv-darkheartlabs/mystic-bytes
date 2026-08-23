@@ -7,9 +7,8 @@ number: R1744
 sort_key: 1744
 date: 2026-07-05
 date_read: 2009-10-22
-category: romantic-suspense
+category: literary-fiction
 cover: /assets/readings/the-goldfinch.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "substance abuse"

@@ -7,9 +7,8 @@ number: R1821
 sort_key: 1821
 date: 2026-07-11
 date_read: 2006-06-10
-category: romantic-suspense
+category: juvenile-fiction
 cover: /assets/readings/curious-george.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

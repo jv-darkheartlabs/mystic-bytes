@@ -7,9 +7,8 @@ number: R1564
 sort_key: 1564
 date: 2026-06-18
 date_read: 2023-08-08
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/the-psychopath-next-door.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "psychological trauma"

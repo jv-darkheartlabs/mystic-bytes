@@ -8,9 +8,8 @@ number: R427
 sort_key: 427
 date: 2026-02-16
 date_read: 2012-07-13
-category: romantic-suspense
+category: historical
 cover: /assets/readings/true-colors.jpg
-spice: 2
 content_warnings:
   - "family conflict"
   - "grief"

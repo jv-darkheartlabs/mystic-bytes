@@ -8,9 +8,8 @@ number: R364
 sort_key: 364
 date: 2026-02-09
 date_read: 2009-07-13
-category: romantic-suspense
+category: mystery-crime
 cover: /assets/readings/well-schooled-in-murder.jpg
-spice: 1
 content_warnings:
   - "murder"
   - "violence"
