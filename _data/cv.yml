@@ -42,6 +42,35 @@ anzsco:
       - Build and maintain accessible HTML/CSS/JavaScript and Jekyll sites
       - Implement responsive front end and in-product help text
       - Document CMS and publishing workflows so a client can ship without a developer on the call
+print_resume:
+  name: JENNIFER PICADO
+  title: Technical Writer · Accessible Frontend
+  contact_line: "Remote · async · global  •  504.510.1878  •  jv@darkheartlabs.technology  •  linkedin.com/in/darkheartlabs  •  github.com/jv-darkheartlabs"
+  jobs:
+    -
+      org: Independent contractor, Remote
+      dates: 2015 – Present
+      role: Documentation, accessible frontend, and remote technical support
+      bullets:
+        - "Selected from 170+ applicants for the Human-Focused AI Award (Tetrate Buildathon) for NeuroShell user docs: task-oriented how-tos, keyboard shortcuts, and accessibility notes a first-time user can finish."
+        - "Closed remote-support loops in writing: hosting, registrar DNS, mail authentication (SPF, DKIM, DMARC), and break-fix for software that can be fixed remotely — documented so the next similar ticket did not start from zero."
+        - "Shipped public HTML/CSS/JavaScript and Jekyll properties (darkheartlabs.technology; Ask microsites) plus CMS how-tos so clients could publish without a developer on the call."
+        - "Documented WCAG 2.1 AA Rails ViewComponents (keyboard path, what the user hears, what to test) so an implementer could ship the accessible default without an audit PDF."
+    -
+      org: 365 Connect LLC
+      dates: 2003 – 2015
+      role: Web Developer — On-site 2003–2007 · remote 2007–2015
+      bullets:
+        - "Delivered front-end UI and in-product help text for a property-management platform (WordPress, Drupal) across a 12-year tenure."
+        - "Implemented responsive CSS and JavaScript so the platform held layout and interaction across devices."
+        - "Partnered with design on accessibility; used observed user behavior to fix help-text and interface bottlenecks."
+        - "Converted recurring support tickets into internal notes so the same outage was not re-explained from scratch."
+  selected_work:
+    - "mystic-bytes — Jekyll site: writing, CV, search, CI link checks. github.com/jv-darkheartlabs/mystic-bytes"
+    - "NeuroShell — ADHD-friendly macOS tool docs. Human-Focused AI Award. github.com/jv-darkheartlabs/NeuroShell"
+    - "accessibility-rails-components — WCAG 2.1 AA ViewComponents and keyboard-path how-tos. github.com/jv-darkheartlabs/accessibility-rails-components"
+  skills: "How-tos · READMEs · Knowledge base · HTML · CSS · JavaScript · Jekyll · WordPress · Drupal · WCAG 2.1 · Hosting · Registrar DNS · Remote break-fix · Git · GitHub · Markdown"
+  development: "RHCSA (EX200) — Studying; exam date to be determined"
 certifications:
   -
     name: RHCSA (EX200)

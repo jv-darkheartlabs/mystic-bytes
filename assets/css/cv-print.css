@@ -1,27 +1,21 @@
-/* CV print layout — plain CSS so Jekyll Sass need not compile this block. */
+/* Screen: one-pager is print-only. Print: match the 212415 application resume. */
+.cv-print-onepager {
+  display: none;
+}
+
 @page {
   size: letter;
-  margin: 0.6in 0.4in 0.4in;
+  margin: 0.3in 0.75in;
 }
 
 @media print {
-  .cv-page,
-  .cv-page * {
-    color: #000 !important;
-    text-shadow: none !important;
-    -webkit-text-fill-color: #000 !important;
-  }
-
   .skip-link,
   .site-header,
   .site-footer,
   .atmosphere,
   .cv-print-btn,
   .no-print,
-  .cv-aewv__evidence,
-  .cv-aewv__official,
-  .cv-contact-aside,
-  .cv-job__summary {
+  .cv-web {
     display: none !important;
   }
 
@@ -29,8 +23,6 @@
   body {
     background: #fff !important;
     color: #000 !important;
-    font-size: 11pt !important;
-    line-height: 1.18 !important;
   }
 
   .site-main {
@@ -42,284 +34,99 @@
     width: 100% !important;
     max-width: none !important;
     margin: 0 !important;
-  }
-
-  .cv-header.signal-header,
-  .cv-page .signal-header {
     padding: 0 !important;
-    margin: 0 !important;
-    border: none !important;
-    background: none !important;
-    box-shadow: none !important;
-    backdrop-filter: none !important;
   }
 
-  .cv-header.signal-header::before,
-  .cv-header.signal-header::after,
-  .cv-page .panel::after,
-  .cv-page .panel::before {
-    display: none !important;
+  .cv-print-onepager {
+    display: block !important;
+    color: #000 !important;
+    font-family: Montserrat, "Fira Sans", sans-serif !important;
+    font-size: 10pt !important;
+    line-height: 1.15 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
 
-  .cv-page .panel {
-    border: none !important;
+  .cv-print-onepager,
+  .cv-print-onepager * {
+    color: #000 !important;
+    text-shadow: none !important;
+    -webkit-text-fill-color: #000 !important;
     box-shadow: none !important;
     background: transparent !important;
-    padding: 0 !important;
-    margin: 0 0 0.32rem !important;
-    break-inside: auto;
-    backdrop-filter: none !important;
   }
 
-  .cv-page .page-title {
-    font-size: 12pt !important;
-    margin: 0 !important;
-    line-height: 1.05 !important;
-  }
-
-  .cv-occupation {
-    margin: 0.08rem 0 0 !important;
-    font-size: 8.5pt !important;
-  }
-
-  .cv-certs .cv-skill-list {
-    margin: 0.04rem 0 0 !important;
-    padding-left: 0.8rem !important;
-    font-size: 8.8pt !important;
-    line-height: 1.12 !important;
-  }
-
-  .cv-header__top {
-    margin: 0 !important;
-    gap: 0.15rem !important;
-  }
-
-  .cv-contact {
-    margin-top: 0.12rem !important;
-    font-size: 9pt !important;
-    gap: 0.12rem 0.25rem !important;
-  }
-
-  .cv-summary {
-    margin-top: 0.25rem !important;
-  }
-
-  .cv-summary .cv-section__title {
-    display: none !important;
-  }
-
-  .cv-intro {
-    max-width: none !important;
-    margin: 0 !important;
-    font-size: 10pt !important;
-    line-height: 1.18 !important;
-  }
-
-  .cv-aewv {
-    margin-top: 0.25rem !important;
-    max-width: none !important;
-    padding: 0.16rem 0 0.16rem 0.35rem !important;
-    border-left: 1px solid #000 !important;
-  }
-
-  .cv-aewv__head {
-    gap: 0.2rem !important;
-  }
-
-  .cv-aewv__head .cv-section__title {
-    margin: 0 !important;
-    font-size: 10pt !important;
-  }
-
-  .cv-aewv__status {
-    margin: 0.08rem 0 0 !important;
-    font-size: 9pt !important;
-    font-weight: 500;
-    line-height: 1.15;
-  }
-
-  .cv-aewv__details {
-    display: block !important;
-    margin: 0.16rem 0 0 !important;
-  }
-
-  .cv-aewv__details div {
-    display: block;
-    margin: 0 0 0.06rem;
-  }
-
-  .cv-aewv__details dt {
-    display: inline;
-    font-size: 9pt;
-    letter-spacing: normal;
-    text-transform: none;
-  }
-
-  .cv-aewv__details dt::after {
-    content: ": ";
-  }
-
-  .cv-aewv__details dd {
-    display: inline;
+  .cv-print-onepager__name {
     margin: 0;
-    font-size: 9pt;
-    line-height: 1.12;
-  }
-
-  .cv-aewv__print-summary {
-    display: block !important;
-    margin: 0.12rem 0 0;
-    font-size: 9pt;
+    text-align: center;
+    font-size: 16pt;
+    font-weight: 700;
+    letter-spacing: 0.02em;
     line-height: 1.15;
   }
 
-  .cv-tag {
-    font-size: 8pt !important;
-    padding: 0.02rem 0.18rem !important;
-    border-color: #000 !important;
+  .cv-print-onepager__title,
+  .cv-print-onepager__contact {
+    margin: 0.08rem 0 0;
+    text-align: center;
+    font-size: 9pt;
+    font-weight: 400;
+    line-height: 1.25;
   }
 
-  .cv-section__title {
-    margin: 0 0 0.16rem !important;
-    font-size: 11pt !important;
+  .cv-print-onepager__section {
+    margin: 0.7rem 0 0.28rem;
+    padding-bottom: 0.08rem;
+    text-align: center;
+    font-size: 11pt;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border-bottom: 0.5pt solid #000;
   }
 
-  .cv-core-fit {
-    margin-top: 0.28rem !important;
+  .cv-print-onepager__job {
+    margin: 0 0 0.42rem;
   }
 
-  .cv-core-fit__grid {
-    display: grid !important;
-    grid-template-columns: 1fr 1fr !important;
-    gap: 0.1rem 0.42rem !important;
+  .cv-print-onepager__job-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.75rem;
+    font-size: 11pt;
+    font-weight: 700;
+    line-height: 1.2;
   }
 
-  .cv-core-fit__item {
-    margin: 0 !important;
-    padding: 0 !important;
-    border: none !important;
+  .cv-print-onepager__dates {
+    flex-shrink: 0;
   }
 
-  .cv-core-fit__item h3 {
-    margin: 0 !important;
-    font-size: 9pt !important;
+  .cv-print-onepager__role {
+    margin: 0.04rem 0 0.12rem;
+    font-size: 10pt;
+    font-weight: 700;
+    line-height: 1.2;
   }
 
-  .cv-core-fit__item p {
-    margin: 0.04rem 0 0 !important;
-    font-size: 9pt !important;
-    line-height: 1.12 !important;
+  .cv-print-onepager__bullets {
+    margin: 0;
+    padding-left: 1.1rem;
+    font-size: 10pt;
+    font-weight: 400;
+    line-height: 1.18;
   }
 
-  .cv-selected-docs {
-    margin-top: 0.28rem !important;
+  .cv-print-onepager__bullets li {
+    margin: 0 0 0.12rem;
   }
 
-  .cv-selected-docs__list {
-    display: block !important;
-    gap: 0 !important;
-  }
-
-  .cv-selected-docs__list li {
-    margin: 0 0 0.12rem !important;
-    padding: 0 !important;
-    border: none !important;
-  }
-
-  .cv-selected-docs__list h3 {
-    margin: 0 !important;
-    font-size: 10pt !important;
-  }
-
-  .cv-selected-docs__list p {
-    margin: 0.04rem 0 0 !important;
-    font-size: 9pt !important;
-    line-height: 1.12 !important;
-  }
-
-  .cv-grid {
-    display: grid !important;
-    grid-template-columns: 1.7fr 1fr !important;
-    gap: 0.38rem !important;
-    margin-top: 0.34rem !important;
-    align-items: start !important;
-  }
-
-  .cv-sidebar {
-    margin-top: 0 !important;
-  }
-
-  .cv-section {
-    margin-bottom: 0.24rem !important;
-  }
-
-  .cv-job {
-    margin-bottom: 0.22rem !important;
-    padding-bottom: 0.16rem !important;
-    border-bottom: 1px solid #000;
-    break-inside: avoid;
-  }
-
-  .cv-job:last-child {
-    border-bottom: none;
-    padding-bottom: 0 !important;
-  }
-
-  .cv-job h3 {
-    margin: 0 !important;
-    font-size: 11pt !important;
-    line-height: 1.05 !important;
-  }
-
-  .cv-job__head {
-    gap: 0.08rem 0.35rem !important;
-    margin-bottom: 0.08rem !important;
-  }
-
-  .cv-job__role,
-  .cv-job__meta {
-    margin: 0 !important;
-    font-size: 9pt !important;
-    text-align: left !important;
-  }
-
-  .cv-job__duties {
-    margin: 0.08rem 0 0 !important;
-    padding-left: 0.8rem !important;
-    font-size: 9pt !important;
-    line-height: 1.12 !important;
-  }
-
-  .cv-job__duties li {
-    margin-bottom: 0.05rem !important;
-  }
-
-  .cv-skills-web .cv-skill-group {
-    margin-bottom: 0.14rem !important;
-  }
-
-  .cv-skills-web .cv-skill-group__heading {
-    margin: 0 0 0.06rem !important;
-    font-size: 9pt !important;
-  }
-
-  .cv-skills-web .cv-skill-subsection {
-    margin-top: 0.06rem !important;
-  }
-
-  .cv-skills-web .cv-skill-subsection__label {
-    margin: 0 !important;
-    font-size: 8pt !important;
-  }
-
-  .cv-skills-web .cv-skill-list {
-    margin: 0.04rem 0 0 !important;
-    padding-left: 0.8rem !important;
-    font-size: 8.8pt !important;
-    line-height: 1.12 !important;
-  }
-
-  .cv-skills-web .cv-skill-list li {
-    margin-bottom: 0.03rem !important;
+  .cv-print-onepager__skills {
+    margin: 0.12rem 0 0;
+    font-size: 10pt;
+    font-weight: 400;
+    line-height: 1.25;
+    text-align: left;
   }
 }

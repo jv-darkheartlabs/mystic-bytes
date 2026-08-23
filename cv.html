@@ -9,6 +9,7 @@ permalink: /cv/
 {% assign skills = site.data.skills %}
 
 <div class="container cv-page">
+  <div class="cv-web">
   <header class="cv-header signal-header">
     {% include signal-badge.html code="CV" %}
     <p class="page-eyebrow">[cv]</p>
@@ -225,5 +226,44 @@ permalink: /cv/
       </section>
     </aside>
   </div>
+  </div>
+
+  {% if cv.print_resume %}
+  {% assign pr = cv.print_resume %}
+  <article class="cv-print-onepager" aria-hidden="true">
+    <h1 class="cv-print-onepager__name">{{ pr.name }}</h1>
+    <p class="cv-print-onepager__title">{{ pr.title }}</p>
+    <p class="cv-print-onepager__contact">{{ pr.contact_line }}</p>
+
+    <h2 class="cv-print-onepager__section">Professional Experience</h2>
+    {% for job in pr.jobs %}
+    <section class="cv-print-onepager__job">
+      <div class="cv-print-onepager__job-head">
+        <span class="cv-print-onepager__org">{{ job.org }}</span>
+        <span class="cv-print-onepager__dates">{{ job.dates }}</span>
+      </div>
+      <p class="cv-print-onepager__role">{{ job.role }}</p>
+      <ul class="cv-print-onepager__bullets">
+        {% for bullet in job.bullets %}
+        <li>{{ bullet }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endfor %}
+
+    <h2 class="cv-print-onepager__section">Selected Work</h2>
+    <ul class="cv-print-onepager__bullets">
+      {% for item in pr.selected_work %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+
+    <h2 class="cv-print-onepager__section">Skills</h2>
+    <p class="cv-print-onepager__skills">{{ pr.skills }}</p>
+
+    <h2 class="cv-print-onepager__section">Professional Development</h2>
+    <p class="cv-print-onepager__role">{{ pr.development }}</p>
+  </article>
+  {% endif %}
 </div>
 <script src="{{ '/assets/js/cv-print.js' | relative_url }}" defer></script>
