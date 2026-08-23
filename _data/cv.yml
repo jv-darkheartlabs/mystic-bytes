@@ -1,14 +1,15 @@
 name: Jennifer Picado
-headline: "Technical Writer · Accessible Frontend · IT Support"
+headline: "Technical Writer · Accessible Frontend · Remote Technical Support"
+occupation_line: "ANZSCO 212415 Technical Writer (primary) · 261212 Web Developer (related)"
 phone: "504.510.1878"
 location_line: "Remote · async · global"
-intro: "Async remote hire who writes the how-to, ships the accessible page, and documents the DNS, mail, or endpoint failure so a tired first-time user can finish without a call. Comfortable in technical writing, front-end delivery, and IT analysis / desktop-support work — applying as an individual contributor, not a staff engineering seat."
-remote_practice: "Async-first · written handoffs · Slack · GitHub · Markdown · timezone-flexible with teams worldwide"
+intro: "Async remote IC who writes the how-to, ships the accessible page, and closes hosting, registrar DNS, and remotely fixable software failures in writing so a tired first-time user can finish without a call. Clients typically need technical remote support; the deliverable is the fix plus the page that prevents the next ticket. Applying as an individual contributor, not a staff engineering seat."
+remote_practice: "Async-first · written handoffs · Slack · GitHub · Markdown · overlapping hours with US, Oceania, and EU teams"
 aewv:
   heading: Availability
   tag: Remote · global
   status: "Seeking an async remote IC role worldwide in technical writing, accessible frontend, or IT support. AEWV-accredited employers in New Zealand are welcome; they are not required."
-  role: "Technical Writer · Accessible Frontend · IT Support"
+  role: "Technical Writer · Accessible Frontend · Remote Technical Support"
   relocation: "On the ground in Auckland Dec 2026–Feb 2027 for in-person meetings · full NZ relocation in 2027 if an offer funds it"
   mobility: "NZ eTA approved · Australian business visitor visa approved · overlapping hours with US, Oceania, and EU teams"
   print_summary: "Formal dated CV, references, and writing samples available on request for employer due diligence and the immigration process."
@@ -20,7 +21,8 @@ aewv:
   documentation_note: "A formal evidence pack is available for employer due diligence and the immigration process."
   official_url: "https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/"
 primary_code: 212415
-supporting_codes: []
+supporting_codes:
+  - 261212
 anzsco:
   212415:
     title: Technical Writer
@@ -31,60 +33,69 @@ anzsco:
       - Write and maintain user guides, READMEs, knowledge-base articles, and handbooks
       - Edit drafts for plain language, accuracy, and a first-time-user reading path
       - Write incident notes and customer-facing explanations when systems fail
-      - Document DNS, email, hosting, and Docker setups so a non-specialist can complete the task
+      - Document hosting, registrar DNS, mail authentication, and remote break-fix so a non-specialist can complete the task
+  261212:
+    title: Web Developer
+    role: Related capability — use when the job is web delivery with a docs load
+    summary: "Plans, produces and maintains websites using web programming languages, software applications, technologies and databases together with specifications of user needs."
+    duties:
+      - Build and maintain accessible HTML/CSS/JavaScript and Jekyll sites
+      - Implement responsive front end and in-product help text
+      - Document CMS and publishing workflows so a client can ship without a developer on the call
+certifications:
+  -
+    name: RHCSA (EX200)
+    status: Studying; exam date to be determined
 selected_documentation:
   -
-    title: NeuroShell
-    text: "User docs and README for an ADHD-friendly macOS tool: task-oriented how-tos, keyboard shortcuts, accessibility notes."
-    url: "https://github.com/jv-darkheartlabs/NeuroShell"
-  -
-    title: mystic-bytes
-    text: "Jekyll / GitHub Pages site for darkheartlabs.technology: HTML/CSS, writing section, CV, search."
+    title: mystic-bytes / darkheartlabs.technology
+    text: "Jekyll / GitHub Pages site: HTML/CSS, writing section, CV, search, CI link checks. Public writing at darkheartlabs.technology/writing."
     url: "https://github.com/jv-darkheartlabs/mystic-bytes"
   -
-    title: ask
-    text: "Interactive front-end microsites (date-proposal flow) on a static stack."
+    title: Ask
+    text: "Interactive HTML/CSS/JavaScript microsites: multi-step wizard, reduced-motion path, mobile viewport, client build guide."
     url: "https://github.com/jv-darkheartlabs/ask"
   -
     title: accessibility-rails-components
-    text: "WCAG 2.1 AA Rails ViewComponents with usage docs and keyboard-path how-tos."
+    text: "WCAG 2.1 AA Rails ViewComponents with usage docs and keyboard-path how-tos. Live demo on Render."
     url: "https://github.com/jv-darkheartlabs/accessibility-rails-components"
+  -
+    title: NeuroShell
+    text: "User docs and README for an ADHD-friendly macOS tool. Human-Focused AI Award, Tetrate Buildathon (selected from 170+ applicants)."
+    url: "https://github.com/jv-darkheartlabs/NeuroShell"
   -
     title: focus-guard
     text: "Operator-facing README and policy notes for an Envoy focus-mode module."
     url: "https://github.com/jv-darkheartlabs/focus-guard"
-  -
-    title: dark-heart-themes
-    text: "High-contrast editor themes (Cursor / Zed) for long sessions."
-    url: "https://github.com/jv-darkheartlabs/dark-heart-themes"
 experience:
   -
     org: Independent contractor
-    role: Documentation, front end, and IT support
+    role: Documentation, accessible frontend, and remote technical support
     dates: 2015–Present
     location: Remote
     codes:
       - 212415
-    summary: "How-tos, accessible pages, and written fixes for DNS, mail, and endpoints — individual contributor, not a staff engineering seat."
+      - 261212
+    summary: "How-tos, accessible pages, and written fixes for hosting, registrar DNS, and remotely fixable software — individual contributor, not a staff engineering seat."
     duties:
-      - text: "Wrote how-tos, READMEs, and help text from engineer notes, Slack threads, live systems, and sessions with clients and implementers — what the user actually needed to do, in a form a first-time user can finish."
-      - text: "Turned client questions and first-week chaos into revised how-tos, setup checklists, and onboarding guides so the same confusion did not become another ticket."
-      - text: "Built and maintained accessible HTML/CSS/JS and Jekyll sites (darkheartlabs.technology, Ask microsites); documented CMS workflows so clients could publish without a developer on the call."
-      - text: "Evaluated tools for client setups and recommended what to keep, drop, or replace — in writing."
-      - text: "Wrote step-by-step DNS, mail authentication (SPF, DKIM, DMARC), hosting, and Docker setup so a non-specialist could finish without a call."
-      - text: "Supported remote macOS and Windows endpoints and wrote the fix down so the next similar ticket did not start from zero."
+      - text: "Selected from 170+ applicants for the Human-Focused AI Award (Tetrate Buildathon) for NeuroShell user docs: task-oriented how-tos, keyboard shortcuts, and accessibility notes a first-time user can finish."
+      - text: "Closed remote-support loops in writing: hosting, registrar DNS, mail authentication (SPF, DKIM, DMARC), and break-fix for software issues that can be resolved remotely — documented so the next similar ticket did not start from zero."
+      - text: "Shipped and maintained public HTML/CSS/JavaScript and Jekyll properties (darkheartlabs.technology; Ask microsites), including writing, CV, search, and CMS how-tos so clients could publish without a developer on the call."
+      - text: "Documented WCAG 2.1 AA Rails ViewComponents (keyboard path, what the user hears, what to test) so an implementer could ship the accessible default without an audit PDF."
+      - text: "Turned first-week client chaos into revised how-tos, setup checklists, and onboarding guides so the same confusion did not reopen as another ticket."
+      - text: "Evaluated client tools in writing — what to keep, drop, or replace — so the next person inherited a decision, not a Slack thread."
   -
     org: 365 Connect LLC
     role: Web Developer
-    dates: 2007–2015
-    location: On-site / remote
+    dates: 2003–2015
+    location: On-site 2003–2007 · remote 2007–2015
     codes:
       - 212415
+      - 261212
     summary: "Front-end and help text for a property-management platform, plus internal notes so recurring fixes did not have to be re-explained."
     duties:
-      - text: "Front-end and help text for a property-management platform (WordPress, Drupal)."
-      - text: "Implemented responsive CSS and JavaScript so the platform held up across devices."
-      - text: "Worked with design on accessibility for the property-management UI."
-      - text: "Used what users actually did in the product to fix help text and interface bottlenecks."
-      - text: "Documented publishing workflows for teammates and clients."
-      - text: "Turned recurring support tickets into internal notes — IT analysis so the same outage was not explained from scratch."
+      - text: "Delivered front-end UI and in-product help text for a property-management platform (WordPress, Drupal) across a 12-year tenure."
+      - text: "Implemented responsive CSS and JavaScript so the platform held layout and interaction across devices."
+      - text: "Partnered with design on accessibility in the property-management UI; used observed user behavior to fix help-text and interface bottlenecks."
+      - text: "Documented publishing workflows for teammates and clients so recurring CMS tasks did not require a developer walkthrough."
+      - text: "Converted recurring support tickets into internal notes so the same outage was not re-explained from scratch."

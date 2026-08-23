@@ -77,6 +77,18 @@
     line-height: 1.05 !important;
   }
 
+  .cv-occupation {
+    margin: 0.08rem 0 0 !important;
+    font-size: 8.5pt !important;
+  }
+
+  .cv-certs .cv-skill-list {
+    margin: 0.04rem 0 0 !important;
+    padding-left: 0.8rem !important;
+    font-size: 8.8pt !important;
+    line-height: 1.12 !important;
+  }
+
   .cv-header__top {
     margin: 0 !important;
     gap: 0.15rem !important;

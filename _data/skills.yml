@@ -24,12 +24,15 @@ groups:
       - WordPress
       - Drupal
       - WCAG 2.1
+      - Keyboard paths
+      - Reduced motion
   -
-    title: IT analysis & desktop support
+    title: Remote technical support
     software:
-      - DNS
-      - SPF / DKIM / DMARC
       - Hosting
+      - Registrar DNS
+      - Remote break-fix
+      - SPF / DKIM / DMARC
       - Docker
     operating_systems:
       - macOS

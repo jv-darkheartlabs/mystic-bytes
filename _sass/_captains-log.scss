@@ -1784,6 +1784,13 @@ section:has(> .section-label):not(.mission-timeline) {
   color: var(--teal);
 }
 
+.cv-occupation {
+  margin: 0.25rem 0 0;
+  @include font-mono;
+  font-size: 0.75rem;
+  color: var(--muted-foreground);
+}
+
 .cv-contact {
   display: flex;
   flex-wrap: wrap;

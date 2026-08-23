@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "cv — Technical Writer · Accessible Frontend · IT Support"
+title: "cv — Technical Writer · Accessible Frontend · Remote Technical Support"
 eyebrow: "[cv]"
 permalink: /cv/
 ---
@@ -17,6 +17,9 @@ permalink: /cv/
         <h1 class="page-title">{{ cv.name }}</h1>
         {% if cv.headline != blank %}
         <p class="cv-headline">{{ cv.headline }}</p>
+        {% endif %}
+        {% if cv.occupation_line != blank %}
+        <p class="cv-occupation">{{ cv.occupation_line }}</p>
         {% endif %}
       </div>
       <button type="button" class="btn-outline cv-print-btn">Save as PDF</button>
@@ -200,9 +203,20 @@ permalink: /cv/
         {% endif %}
       </section>
 
+      {% if cv.certifications.size > 0 %}
+      <section class="cv-section panel cv-certs" aria-labelledby="cv-certs-heading">
+        <h2 id="cv-certs-heading" class="cv-section__title">Professional development</h2>
+        <ul class="cv-skill-list">
+          {% for item in cv.certifications %}
+          <li>{{ item.name }} — {{ item.status }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+
       <section class="cv-section panel cv-contact-aside no-print" aria-labelledby="cv-contact-heading">
         <h2 id="cv-contact-heading" class="cv-section__title">Contact</h2>
-        <p class="cv-sidebar__text">Async-friendly · remote-first · worldwide. Technical writer, accessible frontend, and IT support. AEWV sponsorship in New Zealand is welcome, not required.</p>
+        <p class="cv-sidebar__text">Async-friendly · remote-first · worldwide. Technical writer, accessible frontend, and remote technical support. AEWV sponsorship in New Zealand is welcome, not required.</p>
         <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact form →</a>
         <div class="cv-social">
           <a href="{{ site.data.site.social.github }}" target="_blank" rel="noreferrer">github ↗</a>
