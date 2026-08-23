@@ -3,6 +3,8 @@
   exact: true
 - label: projects
   url: /projects/
+- label: live demos
+  url: /demos/
 - label: services
   url: /services/
 - label: cv

@@ -1,0 +1,65 @@
+---
+layout: default
+title: "live demos — click the running ones"
+description: "Ask, Metalmenders, and Vector — live sites you can open, not case studies. Documentation stays on Projects."
+eyebrow: "[live demos]"
+permalink: /demos/
+---
+
+{% assign data = site.data.demos %}
+
+<div class="container demos-page projects-page">
+  <header class="projects-header signal-header">
+    {% include signal-badge.html code="DEMO" %}
+    <p class="page-eyebrow">[live demos]</p>
+    <h1 class="page-title">click the running ones</h1>
+    <p class="projects-lede">{{ data.lede }}</p>
+  </header>
+
+  <section class="projects-featured">
+    {% include section-label.html num="00" title="on the wire" badge="DEMO" %}
+    <div class="projects-featured-grid">
+      {% for demo in data.items %}
+      <article class="project-card panel">
+        <div class="project-card__body">
+          <div class="project-card__meta">
+            <span>{{ demo.role }}</span>
+            <span>{{ demo.period }}</span>
+          </div>
+          {% if demo.headline %}
+          <p class="project-card__headline">{{ demo.headline }}</p>
+          {% endif %}
+          <h2 class="project-card__title">
+            <a href="{{ demo.href }}" target="_blank" rel="noreferrer">{{ demo.name }} ↗</a>
+          </h2>
+          {% if demo.subtitle %}
+          <p class="project-card__outcome">{{ demo.subtitle }}</p>
+          {% endif %}
+          <p>{{ demo.body }}</p>
+          <div class="demo-card__actions">
+            <a class="demo-card__live" href="{{ demo.href }}" target="_blank" rel="noreferrer">open demo ↗</a>
+            {% if demo.source %}
+            <a href="{{ demo.source.href }}" target="_blank" rel="noreferrer">{{ demo.source.label }} ↗</a>
+            {% endif %}
+            {% if demo.related %}
+            <a href="{{ demo.related.href | relative_url }}">{{ demo.related.label }} →</a>
+            {% endif %}
+          </div>
+          <div class="project-card__tags">
+            {% for tag in demo.tags %}
+            <span class="project-tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <aside class="media-crosslink panel">
+    <p class="media-crosslink__label">sibling shelf</p>
+    <ul>
+      <li><a href="{{ '/projects/' | relative_url }}">projects — documentation I still maintain</a></li>
+    </ul>
+  </aside>
+</div>

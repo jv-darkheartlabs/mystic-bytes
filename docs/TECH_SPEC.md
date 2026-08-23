@@ -32,6 +32,7 @@ Pushes to `main` run `.github/workflows/jekyll.yml`.
 |---------|------|
 | Essays | `_essays/` |
 | Site data | `_data/` |
+| Live demos | `demos.html`, `_data/demos.yml` |
 | Layout | `_includes/`, `_layouts/` |
 | CI deploy | `.github/workflows/jekyll.yml` |
 
