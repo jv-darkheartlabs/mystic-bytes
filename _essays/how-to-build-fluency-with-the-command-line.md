@@ -4,20 +4,19 @@ title: How to Build Fluency With the Command Line
 dek: "The terminal is honest interface — no chrome, direct feedback."
 number: 007.88
 sort_key: 000788
-date: 2015-01-24
+date: 2026-04-25
 cover: /assets/images/cover-craft.svg
-read_time: 7
+type: micro
+read_time: 2
 tags: ['craft']
 ---
-GUI tools hide steps; the shell shows them. Fluency starts with navigation: pwd, ls, cd, history, tab completion.
 
-Learn piping — stdout to the next tool — early. grep, jq, sort, head, tail cover most inspection tasks.
+The shell shows every step a GUI would hide, which is why fluency compounds across stacks.
 
-Write aliases for repeated sequences; promote stable aliases to scripts in repo.
+I built NeuroShell because the blinking cursor is an honest interface: you type, it answers, the error is yours to read. Fluency starts with navigation — `pwd`, `ls`, `cd`, history, tab completion — not with a ricing contest. Then piping: stdout into the next tool. `grep`, `jq`, `sort`, `head`, `tail` cover most of the inspection I do on mystic-bytes builds and on Nightbind logs. Last month I found a broken cover path by piping the Jekyll build log through `grep` and `sort` instead of scrolling a GUI. Write aliases for sequences you repeat; promote the stable ones into scripts in the repo so the team inherits them.
 
-The blinking cursor is invitation, not judgment. Type; read errors; adjust.
+They wait to "feel ready" for the terminal. Readiness is a hundred small recoveries from typos. The cursor is an invitation, not a judgment. Type. Read the error. Adjust. GUI tools collapse the path into a click you cannot paste into a runbook. The shell leaves a trail.
 
-Terminal skill pays compound interest across every stack you will touch.
-
+Terminal skill pays compound interest: every new stack still has a prompt. Learn the prompt once, then stop being afraid of it.
 
 — JV · Dark Heart Labs.

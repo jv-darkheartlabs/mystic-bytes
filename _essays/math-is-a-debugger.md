@@ -4,7 +4,7 @@ title: Math Is a Debugger
 dek: "Symbols are a way to think more carefully than English allows."
 number: 510.0
 sort_key: 0510.00
-date: 2025-08-10
+date: 2026-07-18
 cover: /assets/images/cover-mind.svg
 type: micro
 brief:

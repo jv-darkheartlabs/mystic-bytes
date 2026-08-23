@@ -4,7 +4,7 @@ title: Scope Creep Is a Symptom
 dek: "Nobody adds work to a project that was already winning."
 number: 658.404
 sort_key: 0658.404
-date: 2025-02-02
+date: 2026-08-08
 cover: /assets/images/cover-craft.svg
 type: micro
 brief:

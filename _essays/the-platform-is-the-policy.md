@@ -4,7 +4,7 @@ title: The Platform Is the Policy
 dek: "Defaults govern more people than rules do."
 number: 303.483
 sort_key: 0303.483
-date: 2025-09-14
+date: 2026-07-03
 cover: /assets/images/cover-systems.svg
 type: micro
 brief:

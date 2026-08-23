@@ -4,7 +4,7 @@ title: Writing Is Thinking
 dek: "If you cannot write it down, you do not know it yet."
 number: 808.0
 sort_key: 0808.00
-date: 2025-04-06
+date: 2026-08-20
 cover: /assets/images/cover-language.svg
 type: micro
 brief:

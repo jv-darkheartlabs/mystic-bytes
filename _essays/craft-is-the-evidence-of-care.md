@@ -4,7 +4,7 @@ title: Craft Is the Evidence of Care
 dek: "Polish is what attention looks like when it stays."
 number: 700.1
 sort_key: 0700.01
-date: 2025-04-27
+date: 2026-08-13
 cover: /assets/images/cover-craft.svg
 type: micro
 brief:

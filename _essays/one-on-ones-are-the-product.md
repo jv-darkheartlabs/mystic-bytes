@@ -4,7 +4,7 @@ title: One-on-Ones Are the Product
 dek: "The meeting nobody talks about is the one that decides everything."
 number: 658.314
 sort_key: 0658.314
-date: 2024-12-22
+date: 2026-08-02
 cover: /assets/images/cover-craft.svg
 type: micro
 brief:

@@ -4,7 +4,7 @@ title: Plain Language Is an Act of Respect
 dek: "Jargon is the cost of admission you should refuse to charge."
 number: 400.1
 sort_key: 0400.01
-date: 2025-09-07
+date: 2026-07-13
 cover: /assets/images/cover-language.svg
 type: micro
 brief:

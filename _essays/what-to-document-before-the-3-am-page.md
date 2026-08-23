@@ -4,7 +4,7 @@ title: What to Document Before the 3 AM Page
 dek: "Documentation is irrelevant until it is critical. Write for the operator who has no context and no Slack."
 number: 006.23
 sort_key: 0006.23
-date: 2009-06-05
+date: 2026-03-11
 cover: /assets/images/cover-craft.svg
 read_time: 6
 tags: [culture]

@@ -4,7 +4,7 @@ title: "The Ghost in the Binary: Undefined Behavior"
 dek: "Undefined behavior is the boogeyman of systems programming."
 number: 005.3
 sort_key: 0005.03
-date: 2025-12-21
+date: 2026-01-11
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

@@ -4,7 +4,7 @@ title: How to Take on Projects That Scare You
 dek: "Being asked to build what you have not built before is the job, not a mistake in the assignment system."
 number: 006.6
 sort_key: 0006.06
-date: 2004-07-26
+date: 2026-02-15
 cover: /assets/images/cover-craft.svg
 read_time: 6
 tags: [craft]

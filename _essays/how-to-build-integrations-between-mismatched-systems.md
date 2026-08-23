@@ -4,7 +4,7 @@ title: How to Build Integrations Between Mismatched Systems
 dek: "Every integration is diplomacy between two APIs that disagree about what a customer is."
 number: 006.25
 sort_key: 0006.25
-date: 2011-03-06
+date: 2026-03-14
 cover: /assets/images/cover-code.svg
 read_time: 7
 tags: [culture, ops]

@@ -4,7 +4,7 @@ title: Metrics Shape the Thing They Measure
 dek: "The dashboard becomes the org chart."
 number: 658.51
 sort_key: 0658.51
-date: 2025-01-19
+date: 2026-08-10
 cover: /assets/images/cover-craft.svg
 type: micro
 brief:

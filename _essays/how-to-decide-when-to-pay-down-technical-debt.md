@@ -4,7 +4,7 @@ title: How to Decide When to Pay Down Technical Debt
 dek: "Debt compounds in code whether or not finance can see it. Scheduling the fix is a judgment call with a price tag."
 number: 006.21
 sort_key: 0006.21
-date: 2005-07-16
+date: 2026-03-09
 cover: /assets/images/cover-craft.svg
 read_time: 6
 tags: [culture, ops]

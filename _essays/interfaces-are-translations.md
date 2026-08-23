@@ -4,7 +4,7 @@ title: Interfaces Are Translations
 dek: "Every screen is a sentence in someone else's first language."
 number: 411.0
 sort_key: 0411.00
-date: 2025-08-31
+date: 2026-07-15
 cover: /assets/images/cover-language.svg
 type: micro
 brief:

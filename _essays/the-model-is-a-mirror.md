@@ -4,7 +4,7 @@ title: The Model Is a Mirror
 dek: "Whatever you bring to the prompt, the model hands back with better grammar."
 number: 006.42
 sort_key: 0006.42
-date: 2026-06-28
+date: 2026-03-29
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

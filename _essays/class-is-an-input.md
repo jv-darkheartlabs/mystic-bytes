@@ -4,7 +4,7 @@ title: Class Is an Input
 dek: "Every tool was built for someone, and that someone was usually not everyone."
 number: 305.5
 sort_key: 0305.05
-date: 2025-06-15
+date: 2026-07-04
 cover: /assets/images/cover-systems.svg
 type: micro
 brief:

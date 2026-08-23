@@ -4,7 +4,7 @@ title: Email Is an Interface
 dek: "The inbox is a UI everybody ships into."
 number: 652.5
 sort_key: 0652.05
-date: 2025-09-28
+date: 2026-07-28
 cover: /assets/images/cover-craft.svg
 type: micro
 brief:

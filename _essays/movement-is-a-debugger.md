@@ -4,7 +4,7 @@ title: Movement Is a Debugger
 dek: "The walk that solves the bug is doing more than you think."
 number: 613.7
 sort_key: 0613.07
-date: 2025-05-25
+date: 2026-07-23
 cover: /assets/images/cover-craft.svg
 type: micro
 brief:

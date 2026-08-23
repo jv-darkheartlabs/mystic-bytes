@@ -4,7 +4,7 @@ title: Relocation as Refactor
 dek: "Moving countries is a migration with no rollback plan."
 number: 910.4
 sort_key: 0910.04
-date: 2026-05-24
+date: 2026-08-23
 cover: /assets/images/cover-archive.svg
 type: pillar
 brief:
@@ -13,56 +13,58 @@ brief:
   constraint: production traffic continues; staged cutover only
 ---
 
-Moving countries is a migration with no rollback plan. You lift an entire system — paperwork, relationships, daily routines, the small infrastructure of being a person — and redeploy it onto unfamiliar substrate. Some services come back up immediately. Others stay broken for months. The ones that stay broken the longest are the ones you forgot were running.
+## Thesis
+
+Moving a life between countries is a refactor of personal infrastructure: healthcare, work, relationships, the unnoticed defaults that make a day runnable. You do not get a maintenance window. Production continues. The honest constraint is staged cutover. Big-bang relocation is a story people tell after the fact.
 
 ## Context
 
-I made the call to leave on a Tuesday, in the bath, with a spreadsheet open on my phone. Two columns — what I would keep, what I would let lapse — and a row count that kept growing every time I thought of something else. That spreadsheet is the migration plan. The bath is the staging environment. The Tuesday is the ticket number I will quote when I forget why I started.
+I am moving a life from Louisiana toward Tāmaki Makaurau, Aotearoa. New Orleans is still the live region. Auckland is the region being stood up. The brand line is Auckland-bound. The operational fact is dual-stack: one operator, two geographies, no freeze on being a person.
 
-The brief is not metaphor for sport. Production traffic continues: clients pay, code ships, the newsletter goes out. Staged cutover is the only honest constraint — Auckland interview window first, full relocation once an offer funds the move rather than speculates on it. One operator, no maintenance window for being a person.
+I made the call to leave on a Tuesday, in the bath, with a spreadsheet open on my phone. Two columns: what I would keep, what I would let lapse. The row count kept growing. That spreadsheet is the migration plan. The bath is the staging environment. The Tuesday is the ticket number I will quote when I forget why I started.
+
+This is not a travel journal. The journal is for routes and rooms. This essay is how you port a running life without pretending the old runtime is a snapshot you can restore.
+
+Visitor reconnaissance is the first cutover stage I will actually run: a block on the ground in Auckland in the New Zealand summer of 2026–27, then back to the Louisiana stack. That is a recce, not arrival. I am not going to narrate visa outcomes I do not have. Official rules live on official sites. This piece is about the life-system, not the stamp.
 
 ## Mechanism
 
-**The system you migrate is mostly invisible.** Visible relocation is immigration paperwork, lease termination, the dog import permit, the box of cables you finally throw out. Invisible work is substrate: the GP who knows your history, the pharmacist who fills the script without asking, the friend who picks up on the second ring at 11pm. None of that migrates with the tarball.
+The system you migrate is mostly invisible. Visible relocation is paperwork, a lease, a box of cables you finally throw out. Invisible work is substrate: the GP who knows your history, the pharmacist who fills the script without asking, the friend who picks up on the second ring at 11pm. None of that migrates with the tarball. Relocation is a cold start of a service mesh. Every dependency re-resolves against a new environment. The first months teach which habits were portable and which were runtime-specific to the Gulf Coast.
 
-Software engineers underestimate this because we are trained to think in data transfer. Relocation is a cold start of an entire service mesh. Every dependency re-resolves against a new environment. Every retry policy re-tunes for new latencies. The first six months teach which habits were portable and which were runtime-specific.
+Martin Fowler's strangler-fig pattern applies uncomfortably well. You do not big-bang the life stack. You route selected traffic to new providers while old ones still run, until a later cutover is earned.[^1] Louisiana keeps answering. Auckland gets a slice: a bank conversation, a GP search, a week of noticing which assumptions were actually New Orleans defaults. Dual maintenance is expensive. Speculative all-at-once is a rollback fantasy.
 
-Martin Fowler's strangler-fig pattern for incremental rewrites applies uncomfortably well: you do not big-bang the life stack; you route traffic to new providers while old ones still run, until cutover is earned.[^1] The personal version is phased deploy — December 2026 through February 2027 on the ground in Auckland, full move later in 2027 when funding exists.
+Defaults become explicit configuration. Coffee order, bin day, dinner-table rudeness rules: none of them conscious until a border swaps them. Cognitive load is not only learning new things. It is unlearning old assumptions that no longer hold. Weather, daylight, work hours, social distance, politeness shift together. For a while you run on a debugger. Every action is stepped manually because cached assumptions are untrustworthy. The exhaustion of those months is the bill for every constant becoming a variable at once.
 
-**Defaults become explicit configuration.** At home, coffee order, bin day, dinner-table rudeness rules — all defaults, none conscious until a border swaps them. Cognitive load is not learning new things alone. It is unlearning old assumptions that no longer hold. Auckland will not be the city I left. Weather, daylight, work hours, social distance, politeness shift simultaneously. Small deltas, enormous aggregate.
+Hot migration: no downtime for income or identity. Remote work continues. The life refactor has to happen beside that, not instead of it. Circular dependencies show up immediately. Housing wants local history you do not have yet. Healthcare wants a local record that does not exist until you are a patient. Recce, then return, then another increment. Not a cinematic one-way door.
 
-For months you run on a debugger — every action stepped manually because cached assumptions are untrustworthy. The exhaustion of the first six months is not weakness. It is the bill for every constant becoming a variable at once.
+Regressions come before improvements. Rewriting money flow, sleep location, emergency contacts, and the language you use with a doctor looks worse before it looks better. First dashboards are red. You have deployed without warm cache, and latency reads as failure until you remember it is absence of history. Measure progress in commits, not feelings. A bank conversation, a local health contact, the Sunday bus: each is a commit. Feelings catch up later.
 
-**Hot migration: no downtime for income or identity.** The mortgage application wants a payslip dated this month, in the new currency, from the new employer who has not hired you because you have not arrived. The whole migration runs with live writes and partial schema. Treating relocation as two deploys instead of one is what makes it tractable from inside.
+Intentional deprecation. Not every service is worth restoring. Friendships on inertia, commitments that drain more than they return: the legacy system gave cover to keep them running. The new system requires opt-in. Most you quietly do not. That is honest accounting, not coldness. You cannot rehydrate every connection. Pretending you will eats the first year.
 
-**Regressions before improvements.** Refactors that rewrite money flow, sleep location, emergency contacts, and doctor language look worse before better. First dashboards are red. You have not ruined your life; you have deployed without warm cache, and latency reads as failure until you remember it is absence of history.
-
-Measure progress in commits, not feelings. Opened a bank account — commit. Registered with a GP — commit. Learned which bus runs Sundays — commit. Feelings catch up later. Commits go first.
-
-**Intentional deprecation.** Not every service is worth restoring. Friendships on inertia, commitments that drain more than they return — the legacy system gave cover to keep them running. The new system requires opt-in. Most quietly you do not. That is not coldness. It is honest accounting. You cannot rehydrate every connection; pretending you will eats the first year maintaining a system you no longer inhabit.
-
-Michael Nygard's production stability work emphasizes that every system carries baggage you only notice during migration — hidden couplings, silent dependencies, operational folklore.[^2] Personal infrastructure has the same archaeology.
+Michael Nygard's production-stability work is blunt about baggage you only notice during migration: hidden couplings, silent dependencies, operational folklore.[^2] Personal infrastructure has the same archaeology. You discover it when the GP is an ocean away and the 11pm friend is asleep.
 
 ## Tradeoffs
 
-**Speed vs staged cutover.** Faster move reduces dual-maintenance tax (two countries, two mental models). Slower move reduces financial and emotional risk. I chose staged because speculative migration is a rollback fantasy that keeps half your bandwidth in the old runtime.
+Speed versus staged cutover. A faster move reduces dual-maintenance tax. A slower move reduces blast radius. I chose staged because I still have a production life in Louisiana and a reconnaissance life in Aotearoa. Collapsing those into one leap would be a rewrite with no tests. Visitor blocks are the canary. They are not the whole cutover.
 
-**Rollback that is not rollback.** You can move back, eventually, into a country that evolved without you, into a schema that no longer matches the life you left. "Rollback" is another migration. Closing that door frees cycles to rebuild.
+Rollback that is not rollback. You can return. You return into a country that evolved without you, into a schema that no longer matches the life you paused. "Rollback" is another migration. Keep the option. Stop calling it a snapshot restore.
 
-**Optimization targets.** Some people optimize for career checkpoint; some for family network; some for climate and sensory environment. Tradeoffs are real. Naming them beats pretending one path is universally correct.
+Optimization targets. Some people optimize for a career checkpoint, some for family network, some for climate and sensory environment. Naming the target beats pretending one path is universally correct. Mine is Louisiana to Aotearoa, remote work as the bridge, Auckland as the region under test.
 
-**When to stop calling it temporary.** Settling behaviors — half the boxes unpacked, half the relationships on old timezone — extend dual-stack cost. Pick a cutover date for "home" even when perfection is unavailable.
+When to stop calling it temporary. Half the boxes unpacked, half the relationships on the old timezone: dual-stack cost with extra steps. Pick a date when "home" means one pole, even if the other pole still gets visits. Indefinite temporary is a leak.
 
 ## Close
 
-Auckland is not the destination. It is the next checkpoint. Ship the migration cleanly, document the breaking changes for the version of me who lives inside the result, and resist calling it done. Relocations, like codebases, finish only when someone stops working on them.
+Auckland is not a destination in the travel-journal sense. It is the next region in a staged refactor of a running life. Ship the increment. Document the breaking changes. Resist calling it done.
 
-Accept no rollback. Commit in small steps. Delete what should not survive the port.
+Accept that undo is another migration. Commit in small steps. Delete what should not survive the port.
 
 — JV · Dark Heart Labs.
 
 ## References
 
-[^1]: Martin Fowler, "StranglerFigApplication" (bliki, 2004) — incremental migration by routing functionality to a new system while the old one remains, the standard pattern for large rewrites without big-bang cutover.
+[^1]: Martin Fowler, "StranglerFigApplication" (bliki, 2004). Incremental migration by routing functionality to a new system while the old one remains.
 
-[^2]: Michael T. Nygard, *Release It! Design and Deploy Production-Ready Software* (Pragmatic Bookshelf, 2007, revised 2018). Nygard documents hidden dependencies and migration risk in production systems — applicable to personal infrastructure that was "always just there" until it wasn't.
+[^2]: Michael T. Nygard, *Release It!* (Pragmatic Bookshelf, 2007; revised 2018). Hidden dependencies and migration risk in production systems, including the ones that were "always just there" until they were not.
+
+[^3]: New Zealand Immigration, [immigration.govt.nz](https://www.immigration.govt.nz). Official visitor and visa information. Status is verified there, not in an essay.

@@ -4,7 +4,7 @@ title: How to Onboard Engineers Without Drowning Them
 dek: "Starting a new codebase is learning a city by walking it. Drop them near a map, not the ocean."
 number: 006.27
 sort_key: 0006.27
-date: 2012-02-24
+date: 2026-03-17
 cover: /assets/images/cover-craft.svg
 read_time: 6
 tags: [culture]

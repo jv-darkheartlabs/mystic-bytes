@@ -4,7 +4,7 @@ title: Logs Are Letters to Future-You
 dek: "The log line you skipped is the outage you cannot explain."
 number: 006.5
 sort_key: 0006.05
-date: 2024-10-13
+date: 2026-02-14
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

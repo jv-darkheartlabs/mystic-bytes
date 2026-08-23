@@ -4,7 +4,7 @@ title: Naming Things Is Still the Hardest Problem
 dek: "A name is a contract with every future reader of the code."
 number: 401.9
 sort_key: 0401.09
-date: 2026-06-14
+date: 2026-07-14
 cover: /assets/images/cover-language.svg
 type: micro
 brief:

@@ -1,8 +1,8 @@
 ---
 title: How to Engage With Local Culture Without Performing Tourism
-dek: "Respect is logistics: language effort, local businesses, and not treating place as backdrop."
-date: 2019-09-16
-read_time: 6
+dek: "Respect is logistics: language effort, local businesses, and not treating a city as backdrop."
+date: 2026-02-16
+read_time: 2
 tags: ['travel', 'oceania']
 redirect_from:
   - /writing/journal/how-to-engage-with-local-culture-without-performing-tourism/
@@ -13,14 +13,18 @@ sort_key: 0910.15
 cover: /assets/images/cover-archive.svg
 ---
 
-I am building a life between Louisiana and Aotearoa — remote work, relocation paperwork, and the ordinary logistics of staying online while the hemisphere changes. These notes are for builders who travel, not influencers performing travel.
+The first week I treated Auckland like a set. Harbour light, decent coffee, laptop in the corner. The barista started greeting me by drink, not name, which is when I noticed I had been using the city as wallpaper.
 
-Learn a few te reo Māori or local phrases where you land — effort matters more than fluency. Shop local markets; eat where workers eat; ask permission before photographing people or sacred sites.
+Engaging with a place is not a personality. It is a set of errands you repeat until you stop being scenery. Language effort is the cheapest one. A few words of te reo Māori where you land. Please and thank you in the language of the counter. You will mispronounce things. That is still better than assuming English is a courtesy the city owes you.
 
-Remote work lets you stay long enough to be a regular. That is when culture stops being content and starts being relationship.
+Shop where the people who live there shop. Fruit from the market. Hardware from the shop that has been on the corner longer than the coworking space. Eat where workers eat at 11:30, not where the listing photos were taken at golden hour. Money is a vote you cast every day. Spend it like you mean to stay past the weekend.
 
-Leave places cleaner than you found them. Tip where customary. Close the laptop in shared spaces when locals are trying to live their Tuesday.
+Remote work is what makes this possible. You can be a regular. Regulars get corrected. They learn which door is the quiet one, which hours the library actually has desks, which beach is a family place and not a backdrop for a stand-up. Tourism performs belonging for an afternoon. Logistics is returning the tray, learning the recycling rules, asking before you photograph a person or a site that is not yours.
 
-Authenticity is behavior, not adjectives in a caption.
+Leave places cleaner than you found them. Tip where it is customary and do not invent a custom where it is not. Close the laptop when the table is needed. If you are on a call in a café, you are occupying a public room. Act like it.
+
+I still catch myself framing a street because the light is doing something interesting. Then I put the phone away and buy the thing I came for. Authenticity is not an adjective in a caption. It is whether the grocer would recognize you next Tuesday.
+
+Louisiana taught me that a city has a pulse you join or you talk over. Aotearoa taught me the same lesson at a lower volume. Engagement is showing up as a neighbor with a deadline, not a visitor extracting a vibe.
 
 — JV · Dark Heart Labs.

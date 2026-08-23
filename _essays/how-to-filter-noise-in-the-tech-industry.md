@@ -4,7 +4,7 @@ title: How to Filter Noise in the Tech Industry
 dek: "You do not need to hear every framework launch. You need a filter that favors experience, maintainability, and voices that build instead of perform."
 number: 006.19
 sort_key: 0006.19
-date: 2006-11-25
+date: 2026-03-06
 cover: /assets/images/cover-craft.svg
 read_time: 7
 tags: ['design', 'craft']

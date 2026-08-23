@@ -4,7 +4,7 @@ title: Sleep Is Infrastructure
 dek: "The brain has uptime requirements."
 number: 612.8
 sort_key: 0612.08
-date: 2025-06-01
+date: 2026-07-22
 cover: /assets/images/cover-craft.svg
 type: micro
 brief:

@@ -4,7 +4,7 @@ title: Tags Are Not Taxonomies
 dek: "A flat label set is not a classification system, no matter how many you add."
 number: 025.4
 sort_key: 0025.04
-date: 2026-04-12
+date: 2026-06-11
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

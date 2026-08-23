@@ -1,60 +1,66 @@
 ---
 layout: essay
 title: Schema Migration as Archaeology
-dek: "The migration file is a time capsule."
+dek: "Read the migration chain before you trust the models."
 number: 005.7
 sort_key: 0005.07
-date: 2026-01-04
+date: 2026-01-14
 cover: /assets/images/cover-code.svg
 type: pillar
 brief:
-  system: the merge queue
-  issue: "the contract no longer matches the caller's expectations"
-  constraint: must hold on a tired 2am mind. document the trace.
+  system: Nightbind Postgres migration chain; mystic-bytes frontmatter as a file analog
+  issue: callers break on a "small" change; the oral history is gone
+  constraint: must hold on a tired 2am mind; the chain is the trace
 ---
 
-The migration file is a time capsule. It records, in unambiguous SQL, what the team believed about the world on a specific day. Read the migrations in order and you can reconstruct the history of a product almost more reliably than from the commit log.
+## Thesis
+
+**The migration chain is the strata. Application code is the soft tissue.** Read the files in order and you can reconstruct what the team believed on specific days, often more reliably than from the commit subject lines.
 
 ## Context
 
-I joined a merge-queue-heavy project where callers kept breaking on "small" schema changes. The application code looked fine. The migrations told the real story: three years of additive columns, a renamed enum buried in a single `ALTER`, a nullable field that became load-bearing without a backfill step anyone documented. At 2am, the on-call engineer does not have the oral history. They have the migration chain — if it was written for strangers.
+This is the reading essay. The sibling about writing the next file is a different job. Here the work is forensic: you arrived late, the people who knew why column seventeen exists are gone, and the ORM models are a flattering portrait.
 
-The merge queue brief is apt. Schema is the contract the queue serializes against. When the contract drifts from caller expectations, the failure looks like a flaky test until it looks like an outage.
+I have onboarded to Nightbind's Postgres history that way. The application looked fine. The migrations told on it: years of additive columns, a renamed enum buried in a single `ALTER`, a nullable field that became load-bearing without a backfill anyone wrote down. At 2am the operator does not have the oral history. They have the chain — if it was written for strangers.
+
+mystic-bytes is not a database. It is YAML and Markdown. The analog still holds. Frontmatter fields accumulate. `type`, `brief`, `sort_key`, `cover` — each one is a layer. When a script in `content-data.ts` assumes a field that older essays never grew, the failure looks like a flaky build until you read the history of the shape. Cursor will complete against the current type. It will not warn you that half the corpus is an earlier civilization.
+
+Auckland 2026 does not restore the archaeologist who left. Fedora's `git log` on `db/migrate` is the trench.
 
 ## Mechanism
 
-**The schema is the skeleton; migrations are the strata.** Application code is soft tissue — refactored, deleted, rewritten in a season. Migrations accumulate. Each file is a layer: here we split the user table; here we added the feature flag column; here we fixed the mistake from Q3 with a compensating migration that only makes sense if you know Q3 happened.
+Application code is rewritten in a season. Migrations accumulate. Each file is a layer: here the user table split; here a feature-flag column arrived; here a compensating change only makes sense if you know the previous quarter happened. Fowler and Sadalage treat that sequence as the primary narrative of data change — small, reversible steps, continuously integrated, never pretending the database started in its current shape yesterday.[^1] Production data outlives every deploy branch. That is why the strata matter.
 
-Martin Fowler and Pramod Sadalage's evolutionary database design treats migrations as the primary narrative of data change — small, reversible steps, continuously integrated, never pretending the database started in its current shape yesterday.[^1] That discipline exists because production data outlives every deploy branch.
+Naming and commentary are forensic tools. `20240301_fix.sql` is a crime scene without a report. `20240301_backfill_order_status_after_checkout_redesign` is evidence. Comment the reasoning you will not be present to recite: why nullable, why now, what backfill ran, what rollback was rejected and why. The tired 2am mind is not smarter than the 3pm mind. It has less bandwidth. The migration must carry the context grep cannot reconstruct from caffeine.
 
-**Naming and commentary are forensic tools.** `20240301_fix.sql` is a crime scene without a report. `20240301_backfill_order_status_after_checkout_redesign` is evidence. Comment the reasoning: why nullable, why now, what backfill ran, what rollback was rejected and why. The tired 2am mind is not smarter than the alert engineer at 3pm. It has less bandwidth. The migration must carry the context the engineer cannot reconstruct from caffeine and grep.
+Nygard's stability work pairs here. Schema and integration drift are production failure modes, not aesthetic ones.[^2] A merge queue serializes against a contract. When the contract drifted from caller expectations, the failure looked like a flaky test until it looked like an outage. We traced one break to a migration that changed a column default without updating the serializer. The comment said "align with new spec." The spec link was dead. Archaeology failed because the dig site was unlabeled.
 
-**Squashing is a trade, not a virtue.** Teams squash migrations for aesthetic origin stories — one clean initial schema, no embarrassing middle ages. They also erase the archaeology. You lose the sequence that explains why column seventeen exists, why two indexes overlap, why the constraint name references a vendor that left the stack in 2019. Squash for greenfield clones if you must; preserve the chain in the repo history that production actually ran.
+Squashing is a trade, not a virtue. Teams squash migrations for a clean origin story. They also erase the sequence that explains why two indexes overlap, why a constraint name references a vendor that left in 2019, why column seventeen exists. Squash for a greenfield clone if you must. Preserve the chain that production actually ran. Git history of a squash is not the same artifact as the files a recovery might need to replay.
 
-**Read migrations before code.** When I onboard to a project, I read migrations first. They answer questions code hides: what is nullable because nobody trusted the backfill; what is denormalized because read latency mattered; what foreign keys were deferred because the merge queue could not tolerate lock duration. The schema is the accumulated decision log. The ORM models are a flattering portrait.
+Read migrations before models. On Nightbind they answer questions the Ruby hides: what is nullable because nobody trusted the backfill; what is denormalized because read latency mattered; what foreign keys were deferred because a lock could not last through the deploy. The schema is the accumulated decision log. The models are the press release.
 
-For caller-contract drift: we traced the break to a migration that changed a column default without updating the API serializer's assumptions. The migration comment said "align with new spec." The spec link was dead. Archaeology failed because the dig site was unlabeled.
+On mystic-bytes I do a thinner version of the same read: open the oldest essays and the newest, diff the frontmatter keys, then open the script that assumes today's keys. The gap is the site. Treating that gap as "Jekyll being Jekyll" is how you skip the trench.
 
 ## Tradeoffs
 
-**Migration size vs deploy risk.** Large migrations are easier to read as single stories; small migrations are easier to roll forward safely. Prefer small steps with clear comments over epic rewrites that lock tables through lunch.
+**Migration size vs deploy risk.** Large migrations are easier to read as a single story. Small migrations are easier to roll forward safely. Prefer small steps with comments over an epic that locks tables through lunch.
 
-**Zero-downtime patterns vs complexity.** Expand-contract-backfill patterns buy availability at the cost of multi-phase mental overhead. Document the phase in each file or the next maintainer deploys phase three before phase two.
+**Zero-downtime patterns vs complexity.** Expand-contract-backfill buys availability at the cost of multi-phase overhead. Document the phase in each file or the next person deploys phase three before phase two.
 
-**When squashing helps.** Early-stage products with no long-lived production data can reset cheaply. The rule: squash only when you are certain no environment still needs the intermediate strata for recovery or audit.
+**When squashing helps.** Early products with no long-lived production data can reset cheaply. Squash only when you are sure no environment still needs the intermediate strata for recovery or audit. Essay frontmatter is cheap to reset. Payment rows are not.
 
-**Tooling vs discipline.** Flyway, Liquibase, Rails migrations, Prisma migrate — the tool enforces ordering, not intent. The comment field is still yours.
+**Tooling vs discipline.** Flyway, Liquibase, Rails migrations, Prisma: the tool enforces order, not intent. The comment field is still yours. Cursor will write a down migration that is a lie in production. Read it as a source, not as a spell.
 
 ## Close
 
-When you join a project, read the migrations before the code. When you write a migration, write it for the stranger at 2am who inherits your assumptions without your memory.
+When you join a project, read the migrations before the models. When you inherit a writing corpus, read the oldest frontmatter before you trust the type. The messiness is the evidence. Preserve it.
 
-The messiness is the evidence. Preserve it.
+The next file you add is a confession. That is a different essay. This one is the trench. Bring a label.
 
 — JV · Dark Heart Labs.
 
 ## References
 
-[^1]: Pramod J. Sadalage and Martin Fowler, *Refactoring Databases: Evolutionary Database Design* (Addison-Wesley, 2006). Fowler and Sadalage are the definitive reference for incremental schema change, migration sequencing, and treating database history as a first-class engineering artifact.
+[^1]: Pramod J. Sadalage and Martin Fowler, *Refactoring Databases: Evolutionary Database Design* (Addison-Wesley, 2006). Incremental schema change and database history as a first-class artifact.
 
-[^2]: Michael T. Nygard, *Release It! Design and Deploy Production-Ready Software* (Pragmatic Bookshelf, 2007, revised 2018). Nygard's work on stability patterns includes schema and integration drift as production failure modes — complementary to reading migration history as operational archaeology.
+[^2]: Michael T. Nygard, *Release It!* (Pragmatic Bookshelf, 2007; revised 2018). Schema and integration drift as production failure modes.

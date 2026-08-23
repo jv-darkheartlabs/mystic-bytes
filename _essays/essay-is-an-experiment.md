@@ -4,7 +4,7 @@ title: The Essay Is an Experiment
 dek: "To essay is to try, and trying is its own value."
 number: 808.4
 sort_key: 0808.04
-date: 2025-03-30
+date: 2026-08-22
 cover: /assets/images/cover-language.svg
 type: micro
 brief:

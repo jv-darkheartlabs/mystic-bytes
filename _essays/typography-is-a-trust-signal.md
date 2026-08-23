@@ -4,7 +4,7 @@ title: Typography Is a Trust Signal
 dek: "Letter spacing reads before words do."
 number: 741.6
 sort_key: 0741.06
-date: 2025-04-20
+date: 2026-08-14
 cover: /assets/images/cover-craft.svg
 type: micro
 brief:

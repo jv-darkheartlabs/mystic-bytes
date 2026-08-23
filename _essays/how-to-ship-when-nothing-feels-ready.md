@@ -4,7 +4,7 @@ title: How to Ship When Nothing Feels Ready
 dek: "Readiness is a story we tell ourselves. Shipping is the practice of acting before the story finishes."
 number: 006.8
 sort_key: 0006.08
-date: 2006-09-15
+date: 2026-02-20
 cover: /assets/images/cover-craft.svg
 read_time: 7
 tags: ['craft']

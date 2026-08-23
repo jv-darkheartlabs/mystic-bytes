@@ -4,7 +4,7 @@ title: Critical Thinking Is a Muscle
 dek: "The brain trains the way the body does."
 number: 153.42
 sort_key: 0153.42
-date: 2025-03-16
+date: 2026-06-26
 cover: /assets/images/cover-mind.svg
 type: micro
 brief:

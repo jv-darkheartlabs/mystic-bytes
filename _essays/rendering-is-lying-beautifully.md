@@ -4,7 +4,7 @@ title: Rendering Is Lying Beautifully
 dek: "The screen shows you something that doesn't exist."
 number: 006.6
 sort_key: 0006.06
-date: 2026-01-18
+date: 2026-02-16
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

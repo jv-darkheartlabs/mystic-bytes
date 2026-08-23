@@ -4,7 +4,7 @@ title: CI Is the Norm Enforcer
 dek: "The pipeline is the team's collective conscience."
 number: 006.42
 sort_key: 0006.42
-date: 2024-10-20
+date: 2026-03-28
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

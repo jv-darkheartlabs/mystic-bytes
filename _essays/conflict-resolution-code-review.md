@@ -4,7 +4,7 @@ title: Conflict Resolution in Code Review and in Life
 dek: "Code review is conflict management with a technical object in the middle."
 number: 303.6
 sort_key: 0303.06
-date: 2026-03-01
+date: 2026-07-01
 cover: /assets/images/cover-systems.svg
 type: micro
 brief:

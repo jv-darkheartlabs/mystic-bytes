@@ -1,8 +1,8 @@
 ---
 title: Celery Seed Oil Notes for Calm Focus
 dek: "Earthy, quiet notes for people who dislike sweet florals."
-date: 2021-05-27
-read_time: 6
+date: 2026-02-09
+read_time: 2
 tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
@@ -13,10 +13,14 @@ number: 615.07
 sort_key: 0615.07
 ---
 
-Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.
+Celery seed oil is the quiet green bottle I reach for when sweet florals would be a lie. It smells like crushed stems and wet earth, not soup. A little bitter. Easy to overdo.
 
-Celery seed oil is niche — herbaceous and grounding. Diffuse sparingly; blend with citrus if the earthiness feels heavy. May support a calm desk atmosphere for some users.
+I keep it for desk diffusion, and even then I treat it as a short cue, not room perfume. One drop in a small diffuser. Two drops is how the room starts to smell like a garden after rain and my head starts to complain. It is not a neat oil. I do not roll it on wrists. I do not drip it on a tissue and leave it in a closed office. Pets clock it faster than people do.
 
-**General safety:** dilute for skin; keep away from pets; store away from heat; consult a practitioner if pregnant, nursing, or managing chronic conditions.
+What it may do is mark a calmer stretch of afternoon work. What it does not do is fix focus, anxiety, or anything a clinician would treat. Nothing here is medical advice. Scent is a preference with a safety sheet attached.
+
+If it ever meets skin, dilute it in a carrier first and keep it off sun-exposed areas. Celery seed can raise photosensitivity. Do not ingest it. Store the bottle away from heat. If you are pregnant, nursing, or managing a chronic condition, ask someone qualified before you open it.
+
+Window cracked. Timer on. Then off.
 
 — JV · Dark Heart Labs.

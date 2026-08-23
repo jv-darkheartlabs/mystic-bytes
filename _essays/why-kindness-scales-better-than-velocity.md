@@ -4,7 +4,7 @@ title: Why Kindness Scales Better Than Velocity
 dek: "The 10x developer is a fairy tale. The real multiplier is clarity, patience, and code other people can safely change."
 number: 006.12
 sort_key: 0006.12
-date: 2011-10-05
+date: 2026-02-25
 cover: /assets/images/cover-craft.svg
 read_time: 7
 tags: ['craft', 'culture']

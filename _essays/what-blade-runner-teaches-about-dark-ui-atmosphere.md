@@ -4,16 +4,25 @@ title: What Blade Runner Teaches About Dark UI Atmosphere
 dek: "Warmth in private spaces, cold spectacle in public — a palette lesson for interfaces."
 number: 008.7
 sort_key: 0008.07
-date: 2003-10-16
+date: 2026-05-19
 cover: /assets/images/cover-craft.svg
-read_time: 6
+read_time: 2
 tags: ['film', 'craft']
+type: micro
+brief:
+  system: darkheartlabs.technology writing index
+  issue: hero gradients passed the vibe check; body text failed WCAG on a dim laptop
+  constraint: keep the dark theme; raise contrast where people actually read
 ---
 
-Blade Runner builds mood without exposition dumps — density felt, not narrated. Strong interfaces behave similarly: affordances learned through use, not tooltip walls.
+Public surfaces in that film are cold on purpose. Private rooms are not. Dark UI needs the same split: spectacle can be dim; reading cannot.
 
-**Palette:** amber intimacy vs teal noise mirrors where you place warmth in a dark theme. Body text contrast matters more than hero gradients.
+I learned this on the darkheartlabs.technology writing index. The hero gradient looked finished on a calibrated monitor. Body text on a dim laptop at 11pm did not. I had spent the contrast budget on atmosphere and left the essay list under the floor. Blade Runner builds mood without an exposition dump; you feel density by walking through it. Interfaces should do the same for affordances, and then still pass a contrast check. Amber for the places you sit. Cooler chrome for the places you glance. Neither excuse a 3:1 ratio on the words.[^1]
 
-**Rain-ready design:** account for bad conditions — slow networks, tired users, 3 AM deploys. Design for the edge case user, not the demo laptop.
+Design for bad conditions: slow networks, tired eyes, a phone outside at 3am. Tooltip walls do not replace a control that looks like a control. Hero motion does not replace a link you can find after the animation ends. They will praise the mood. Users will bounce off the list.
+
+If the palette only works on the demo laptop, it is a trailer, not a theme. Fix the body first.
 
 — JV · Dark Heart Labs.
+
+[^1]: W3C, WCAG 2.2 Success Criterion 1.4.3 Contrast (Minimum) — body text contrast is the constraint; decorative gradients are not a waiver.

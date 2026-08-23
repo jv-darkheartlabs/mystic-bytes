@@ -4,7 +4,7 @@ title: Build the Debugger You Needed Yesterday
 dek: "Tooling is just the previous bug, automated."
 number: 005.13
 sort_key: 0005.13
-date: 2025-11-16
+date: 2026-01-20
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

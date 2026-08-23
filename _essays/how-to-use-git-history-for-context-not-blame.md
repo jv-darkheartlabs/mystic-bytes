@@ -4,7 +4,7 @@ title: How to Use Git History for Context, Not Blame
 dek: "Git blame shows who touched a line. It does not show what the room sounded like when they wrote it."
 number: 006.20
 sort_key: 0006.20
-date: 2004-05-16
+date: 2026-03-08
 cover: /assets/images/cover-craft.svg
 read_time: 6
 tags: [culture]

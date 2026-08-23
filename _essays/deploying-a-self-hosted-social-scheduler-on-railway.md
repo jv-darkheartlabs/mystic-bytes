@@ -4,25 +4,21 @@ title: Deploying a Self-Hosted Social Scheduler on Railway
 dek: "Multi-service deploy on Railway — app, Postgres, Redis — with sane defaults."
 number: 008.22
 sort_key: 0008.22
-date: 2022-08-02
+date: 2026-06-07
 cover: /assets/images/cover-code.svg
-read_time: 6
+type: micro
+read_time: 2
 tags: ['ops']
 ---
 
-Self-hosted schedulers replace SaaS buffers when you want RSS-driven cross-posting under your control.
+A self-hosted scheduler is three services that must agree on a URL before they agree on a post.
 
-**Topology (typical):** web app + PostgreSQL + Redis on a PaaS. Pin application version explicitly — auto-upgrades break OAuth and migrations.
+I run one on Railway so Dark Heart Labs can RSS-cross-post from mystic-bytes without handing the calendar to a SaaS buffer. Typical topology: web app, PostgreSQL, Redis. Pin the application version. Auto-upgrades break OAuth and migrations on a Tuesday you did not schedule. They want "the template just works." It works until the public hostname and the env vars describe two different sites.
 
-**Critical steps**
+Order matters. Deploy the services. Expose networking. Set public URL env vars after the port is actually reachable — not before. Generate a strong JWT secret. Create the admin account, then close open registration. Connect OAuth in the provider consoles; store client secrets in the host env, never in the repo.
 
-1. Deploy template or compose equivalent services
-2. Set public URL env vars *after* networking exposes the correct port
-3. Generate strong JWT secret; disable open registration after admin account exists
-4. Connect OAuth per platform in provider settings — store secrets in host env, not repo
+The feed path is site to scheduler to platforms. Canonical URL always points at darkheartlabs.technology. If a post exists only on a network, you lost the original.
 
-**RSS flow:** canonical blog feed → scheduler → platforms. Canonical URL always points to your site.
-
-**Cost awareness:** hobby tier suffices for personal volume; watch database storage growth from media uploads.
+Hobby volume fits a small tier. Watch database growth from media uploads; that is the bill that surprises people. Pin the tag. Smoke-test the RSS fetch. Then connect the first provider.
 
 — JV · Dark Heart Labs.

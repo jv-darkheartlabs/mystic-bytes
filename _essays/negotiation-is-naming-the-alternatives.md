@@ -4,7 +4,7 @@ title: Negotiation Is Naming the Alternatives
 dek: "BATNA is just honesty about what happens if the deal fails."
 number: 327.1
 sort_key: 0327.01
-date: 2024-12-15
+date: 2026-07-05
 cover: /assets/images/cover-systems.svg
 type: micro
 brief:

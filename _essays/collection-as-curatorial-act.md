@@ -4,7 +4,7 @@ title: The Collection as Curatorial Act
 dek: "Every collection encodes a theory of what matters."
 number: 080.0
 sort_key: 0080.00
-date: 2026-02-15
+date: 2026-06-20
 cover: /assets/images/cover-code.svg
 type: micro
 locked: true

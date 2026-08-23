@@ -4,7 +4,7 @@ title: How to Sustain Creative Intensity Without Burning Out
 dek: "Creative heat transforms raw possibility into working software — but only if you feed the fire instead of letting it consume the room."
 number: 006.9
 sort_key: 0006.09
-date: 2006-07-06
+date: 2026-02-21
 cover: /assets/images/cover-craft.svg
 read_time: 7
 tags: ['craft']

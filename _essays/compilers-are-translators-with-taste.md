@@ -4,7 +4,7 @@ title: Compilers Are Translators with Taste
 dek: "Every optimization is an aesthetic preference."
 number: 005.45
 sort_key: 0005.45
-date: 2025-06-22
+date: 2026-01-27
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

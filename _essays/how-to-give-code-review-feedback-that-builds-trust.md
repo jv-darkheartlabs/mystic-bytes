@@ -4,7 +4,7 @@ title: How to Give Code Review Feedback That Builds Trust
 dek: "A pull request is a conversation about the system. Tone is part of the interface."
 number: 006.24
 sort_key: 0006.24
-date: 2010-05-26
+date: 2026-03-13
 cover: /assets/images/cover-craft.svg
 read_time: 6
 tags: [culture]

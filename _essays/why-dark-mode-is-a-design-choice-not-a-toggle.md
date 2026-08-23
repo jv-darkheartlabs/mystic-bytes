@@ -4,7 +4,7 @@ title: Why Dark Mode Is a Design Choice, Not a Toggle
 dek: "Dark interfaces are not the absence of light — they are deliberate decisions about contrast, focus, and who the product is for at midnight."
 number: 006.17
 sort_key: 0006.17
-date: 2003-03-17
+date: 2026-03-04
 cover: /assets/images/cover-craft.svg
 read_time: 7
 tags: ['design', 'craft']

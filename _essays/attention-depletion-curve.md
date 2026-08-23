@@ -4,7 +4,7 @@ title: Attention Is a Resource With a Depletion Curve
 dek: "Attention degrades over the course of the day."
 number: 152.1
 sort_key: 0152.01
-date: 2026-02-22
+date: 2026-06-21
 cover: /assets/images/cover-mind.svg
 type: micro
 brief:

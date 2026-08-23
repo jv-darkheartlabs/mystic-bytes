@@ -4,7 +4,7 @@ title: How to Write Error Messages That Help Users Recover
 dek: "Anyone can handle the happy path. Great code tells the truth when things break — and tells the user what to do next."
 number: 006.18
 sort_key: 0006.18
-date: 2003-12-26
+date: 2026-03-05
 cover: /assets/images/cover-craft.svg
 read_time: 7
 tags: ['design', 'craft']

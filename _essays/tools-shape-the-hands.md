@@ -4,7 +4,7 @@ title: Tools Shape the Hands
 dek: "The first thing a new tool builds is its user."
 number: 303.4
 sort_key: 0303.04
-date: 2025-10-12
+date: 2026-06-30
 cover: /assets/images/cover-systems.svg
 type: micro
 brief:

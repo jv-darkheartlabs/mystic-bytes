@@ -4,7 +4,7 @@ title: Management Is a Bandwidth Problem
 dek: "The job is not knowing. The job is allocating attention."
 number: 658.4
 sort_key: 0658.04
-date: 2025-10-05
+date: 2026-07-31
 cover: /assets/images/cover-craft.svg
 type: micro
 brief:

@@ -4,7 +4,7 @@ title: Data Models Leak
 dek: "The schema you ship leaks into every report that ever queries it."
 number: 005.741
 sort_key: 0005.741
-date: 2024-11-03
+date: 2026-02-01
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

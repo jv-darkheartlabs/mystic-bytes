@@ -4,7 +4,7 @@ title: Copy-Paste Is an Honest First Draft
 dek: "Three call sites is when the shape becomes visible."
 number: 005.118
 sort_key: 0005.118
-date: 2025-08-17
+date: 2026-01-18
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

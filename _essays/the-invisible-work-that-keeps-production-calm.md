@@ -4,7 +4,7 @@ title: The Invisible Work That Keeps Production Calm
 dek: "A calm interface is not the absence of chaos. It is chaos anticipated, contained, and redirected before the user ever sees it."
 number: 006.11
 sort_key: 0006.11
-date: 2009-01-14
+date: 2026-02-24
 cover: /assets/images/cover-code.svg
 read_time: 8
 tags: ['craft', 'ops']

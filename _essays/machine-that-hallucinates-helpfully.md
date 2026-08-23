@@ -4,7 +4,7 @@ title: The Machine That Hallucinates Helpfully
 dek: "The LLM hallucinates. This is not a bug in the traditional sense."
 number: 006.32
 sort_key: 0006.32
-date: 2026-01-11
+date: 2026-03-26
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

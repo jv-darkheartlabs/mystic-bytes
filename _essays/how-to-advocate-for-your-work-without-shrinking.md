@@ -4,7 +4,7 @@ title: How to Advocate for Your Work Without Shrinking
 dek: "Confidence in engineering is not volume. It is the willingness to stand behind careful work and speak clearly in rooms that reward hedging."
 number: 006.13
 sort_key: 0006.13
-date: 2011-12-15
+date: 2026-02-27
 cover: /assets/images/cover-craft.svg
 read_time: 7
 tags: ['craft']

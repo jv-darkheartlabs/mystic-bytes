@@ -4,7 +4,7 @@ title: Hardware Is a Deadline
 dek: "Atoms do not patch on Tuesday."
 number: 621.39
 sort_key: 0621.39
-date: 2025-10-19
+date: 2026-07-26
 cover: /assets/images/cover-craft.svg
 type: micro
 brief:

@@ -1,8 +1,8 @@
 ---
 title: How Lavender May Support Sleep Across Time Zones
 dek: "A familiar scent can cue rest when your calendar still thinks it is afternoon elsewhere."
-date: 2023-07-16
-read_time: 6
+date: 2026-05-05
+read_time: 2
 tags: [wellness]
 cover: /assets/images/cover-craft.svg
 redirect_from:
@@ -13,14 +13,12 @@ number: 615.20
 sort_key: 0615.20
 ---
 
-Wellness for builders is not luxury — it is maintenance. Scent, touch, and ritual can support recovery when used with realistic expectations. Nothing here replaces medical care.
+Jet lag does not care that lavender has a reputation. Circadian math still wins. I use lavender as a bedtime cue when the local clock and my brain disagree, not as a knockout pill. Some people find it relaxing. Some people find it alerting, especially sharper lavandin. If you are in the second group, forcing it at 23:00 in a new hemisphere is a bad experiment.
 
-Lavender is the oil most people reach for first — and for sensible reasons. Inhaled aroma may support relaxation before bed, especially when you are adjusting to a new hemisphere or recovering from late deploy windows.
+When it works for me, it is one to three drops in a bedroom diffuser about half an hour before I am supposed to sleep, paired with dark screens and a fixed local bedtime. The scent may support the association: this room, this hour, lights down. It does not override a 04:00 meeting you refused to decline. Sleep hygiene still does the heavy lifting.
 
-**How I use it:** one to three drops in a bedroom diffuser 30 minutes before sleep; never on skin undiluted. Pair with dark mode on devices and a fixed local bedtime — scent cues rest, it does not override circadian math.
+Dilute if it touches skin and patch-test. Do not ingest it. Keep it away from pets; a closed hotel room plus a diffuser plus a cat is a hard no. Store it away from heat. Allergic reactions happen. If you are pregnant, nursing, or managing a condition, ask someone qualified.
 
-**What research suggests:** some small studies report anxiolytic and sleep-quality improvements with inhaled lavender; effects vary by person and are modest compared to sleep hygiene.
-
-**Cautions:** allergic reactions happen; patch-test diluted oil on inner arm. Avoid ingesting essential oils unless under qualified supervision.
+This is not medical advice, and it is not a treatment for insomnia. If sleep is broken for weeks, that is a clinician, not a flower.
 
 — JV · Dark Heart Labs.

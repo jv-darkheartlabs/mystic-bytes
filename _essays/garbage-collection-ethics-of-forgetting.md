@@ -4,7 +4,7 @@ title: Garbage Collection and the Ethics of Forgetting
 dek: "The garbage collector frees memory that is no longer reachable."
 number: 005.43
 sort_key: 0005.43
-date: 2025-12-28
+date: 2026-01-25
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

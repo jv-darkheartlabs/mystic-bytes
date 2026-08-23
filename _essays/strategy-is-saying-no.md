@@ -4,7 +4,7 @@ title: Strategy Is Saying No
 dek: "Anyone can list opportunities. Strategy is the cuts."
 number: 658.401
 sort_key: 0658.401
-date: 2025-02-23
+date: 2026-08-04
 cover: /assets/images/cover-craft.svg
 type: micro
 brief:

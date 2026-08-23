@@ -4,7 +4,7 @@ title: Why Old Code Still Teaches You Something
 dek: "Every system grows roots beneath the surface. Returning to old code is not embarrassment — it is archaeology with commit history."
 number: 006.14
 sort_key: 0006.14
-date: 2013-02-13
+date: 2026-02-28
 cover: /assets/images/cover-craft.svg
 read_time: 6
 tags: ['craft']

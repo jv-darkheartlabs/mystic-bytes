@@ -4,7 +4,7 @@ title: When to Delete Code and Rebuild Without Guilt
 dek: "Some code must die so the system can live. Deletion is architecture, not admission of failure."
 number: 006.10
 sort_key: 0006.10
-date: 2008-01-25
+date: 2026-02-23
 cover: /assets/images/cover-craft.svg
 read_time: 7
 tags: ['craft']

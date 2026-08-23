@@ -4,7 +4,7 @@ title: Technical Debt Is a Vocabulary Problem
 dek: "If finance cannot price it, engineering cannot pay it down."
 number: 336.3
 sort_key: 0336.03
-date: 2024-12-29
+date: 2026-07-09
 cover: /assets/images/cover-systems.svg
 type: micro
 brief:

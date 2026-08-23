@@ -4,7 +4,7 @@ title: How Daily Consistency Beats Inspiration
 dek: "Extraordinary work is built by people who showed up on Tuesday when the task was boring — not by people who waited for the perfect mood."
 number: 006.15
 sort_key: 0006.15
-date: 2014-04-15
+date: 2026-03-01
 cover: /assets/images/cover-craft.svg
 read_time: 6
 tags: ['craft']

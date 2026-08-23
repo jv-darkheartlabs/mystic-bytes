@@ -4,7 +4,7 @@ title: How to Run a Standup Under Fifteen Minutes
 dek: "A standup is not a status report. It is a daily alignment ritual with a hard time box."
 number: 006.22
 sort_key: 0006.22
-date: 2006-04-26
+date: 2026-03-10
 cover: /assets/images/cover-craft.svg
 read_time: 6
 tags: [culture]

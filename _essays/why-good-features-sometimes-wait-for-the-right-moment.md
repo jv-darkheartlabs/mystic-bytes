@@ -4,7 +4,7 @@ title: Why Good Features Sometimes Wait for the Right Moment
 dek: "Not every good idea arrives on schedule. Some prototypes are foresight with bad timing."
 number: 006.26
 sort_key: 0006.26
-date: 2011-07-26
+date: 2026-03-15
 cover: /assets/images/cover-craft.svg
 read_time: 6
 tags: [culture]

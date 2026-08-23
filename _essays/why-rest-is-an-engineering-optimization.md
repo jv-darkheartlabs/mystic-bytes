@@ -4,7 +4,7 @@ title: Why Rest Is an Engineering Optimization
 dek: "Burnout is a systems failure. Sleep is scheduled maintenance for the processor that writes the code."
 number: 006.7
 sort_key: 0006.07
-date: 2006-02-14
+date: 2026-02-19
 cover: /assets/images/cover-craft.svg
 read_time: 7
 tags: [craft]

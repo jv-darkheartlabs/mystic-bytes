@@ -4,7 +4,7 @@ title: Review Before Rewrite
 dek: "Most rewrites are reviews that were never written down."
 number: 005.6
 sort_key: 0005.06
-date: 2025-12-07
+date: 2026-01-13
 cover: /assets/images/cover-code.svg
 type: micro
 brief:

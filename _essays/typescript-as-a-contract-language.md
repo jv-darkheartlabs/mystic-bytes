@@ -4,16 +4,23 @@ title: TypeScript as a Contract Language
 dek: "Types are promises the compiler enforces — write them for readers too."
 number: 008.18
 sort_key: 0008.18
-date: 2007-02-04
+date: 2026-06-02
 cover: /assets/images/cover-craft.svg
 read_time: 6
 tags: ['craft', 'ai']
+type: micro
+brief:
+  system: Dark Heart Labs site toolchain TypeScript surfaces
+  issue: public functions without return types; state as a pile of optionals; `any` hiding from CI
+  constraint: strict mode; explicit public returns; discriminated unions; no `any` on merge
 ---
 
-TypeScript does not replace design; it documents intent under change pressure. Strict mode is kindness to future teammates.
+TypeScript is a contract language. The compiler is the notary.
 
-**Practice:** prefer explicit return types on public APIs; discriminated unions for state machines; avoid `any` as debt you hide from CI.
+I use it that way on the site toolchain and on anything with a public function. Strict mode is not pedantry. It is kindness to the next person who has to change a state machine under pressure — including you, including the model that will complete the next edit. Explicit return types on public APIs. Discriminated unions for states that used to be a pile of optional fields. `any` is debt you hide from CI. Types do not replace design. They document intent so the design cannot drift in silence when a field grows a third meaning. A contract that the compiler will not enforce is a comment with better fonts.
 
-See [why strict TypeScript is kindness to future you](/p/why-strict-typescript-is-kindness-to-future-you/).
+They treat types as a compile tax. The tax is cheaper than the runtime surprise, and cheaper than a comment that lies after the third refactor. Write types for readers, not only for the compiler. If a union needs a paragraph to be safe, the union is the wrong shape.
+
+If the type needs a comment to be safe, tighten the type. Then delete the comment.
 
 — JV · Dark Heart Labs.

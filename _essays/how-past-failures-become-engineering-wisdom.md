@@ -4,7 +4,7 @@ title: How Past Failures Become Engineering Wisdom
 dek: "Every failed project and painful review compiles into judgment — if you treat experience as data instead of debt."
 number: 006.16
 sort_key: 0006.16
-date: 2014-09-04
+date: 2026-03-02
 cover: /assets/images/cover-craft.svg
 read_time: 7
 tags: ['craft']
