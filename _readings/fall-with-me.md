@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228249.Becka_Mack"
 dek: ""
 number: R1368
 sort_key: 1368
-date: 2026-01-16
+date: 2026-05-29
 date_read: 2015-03-01
 category: enemies-to-lovers
 cover: /assets/readings/fall-with-me.jpg

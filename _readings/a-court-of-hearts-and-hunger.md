@@ -5,7 +5,7 @@ author: "Rebecca F. Kenney"
 dek: "A Wonderland Retelling"
 number: R542
 sort_key: 542
-date: 2023-04-08
+date: 2026-02-28
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/a-court-of-hearts-and-hunger.jpg

@@ -5,7 +5,7 @@ author: "Jill Santopolo"
 dek: "A secret brought to light. Two hearts in the balance."
 number: R746
 sort_key: 746
-date: 2023-12-21
+date: 2026-03-23
 date_read: 2017-11-25
 category: forbidden-love
 cover: /assets/readings/the-love-we-found.jpg

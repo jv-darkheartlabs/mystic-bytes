@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7124034.Keri_Lake"
 dek: "Mortui Vivos Docent. The Dead Teach the Living."
 number: R260
 sort_key: 260
-date: 2022-04-29
+date: 2026-01-28
 date_read: 2023-11-25
 category: vampire-paranormal
 cover: /assets/readings/nocticadia.jpg

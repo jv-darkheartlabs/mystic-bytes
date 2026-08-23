@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/73149.Scott_Lynch"
 dek: ""
 number: R681
 sort_key: 681
-date: 2023-09-29
+date: 2026-03-16
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/the-lies-of-locke-lamora.jpg

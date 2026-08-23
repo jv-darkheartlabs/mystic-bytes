@@ -5,7 +5,7 @@ author: "Audrey Blake"
 dek: "a novel"
 number: R623
 sort_key: 623
-date: 2023-07-23
+date: 2026-03-09
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/the-surgeons-daughter.jpg

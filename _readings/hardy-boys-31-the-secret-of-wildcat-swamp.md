@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #31"
 number: R2295
 sort_key: 2295
-date: 2026-06-15
+date: 2026-08-12
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-31-the-secret-of-wildcat-swamp.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

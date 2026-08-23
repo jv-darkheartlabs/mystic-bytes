@@ -4,7 +4,7 @@ title: "Unbounded Horizons"
 dek: "Future as clay, not prophecy."
 number: V0617
 sort_key: 617
-date: 2027-03-10
+date: 2026-06-04
 date_written: 1988-08-18
 category: curiosity
 form: free-verse

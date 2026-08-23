@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/28186.Anthony_Doerr"
 dek: "A Novel"
 number: R412
 sort_key: 412
-date: 2022-10-30
+date: 2026-02-14
 date_read: 2007-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/all-the-light-we-cannot-see.jpg
 spice: 1
 content_warnings:

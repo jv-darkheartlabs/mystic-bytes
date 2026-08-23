@@ -5,11 +5,10 @@ author: "William Shakespeare"
 dek: "A tale of revenge and madness set in the shadowy halls of Elsinore."
 number: R1905
 sort_key: 1905
-date: 2026-06-24
+date: 2026-07-18
 date_read: 2012-09-19
 category: classic-literature
 cover: /assets/readings/hamlet.jpg
-spice: 2
 content_warnings:
   - "death"
   - "betrayal"

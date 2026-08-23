@@ -5,11 +5,10 @@ author: "Kate Chopin"
 dek: ""
 number: R1628
 sort_key: 1628
-date: 2026-06-01
+date: 2026-06-23
 date_read: 2002-11-25
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-awakening.jpg
-spice: 2
 content_warnings:
   - "infidelity"
   - "suicidal thoughts"

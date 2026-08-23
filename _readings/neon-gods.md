@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "He was supposed to be a myth..."
 number: R567
 sort_key: 567
-date: 2023-05-13
+date: 2026-03-03
 date_read: 2022-11-05
 category: fantasy-romance
 cover: /assets/readings/neon-gods.jpg

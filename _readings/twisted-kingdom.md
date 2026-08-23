@@ -5,7 +5,7 @@ author: "Rina Kent"
 dek: "The kingdom isn't supposed to fall — Royal Elite Book 3"
 number: R026
 sort_key: 026
-date: 2021-07-27
+date: 2026-01-04
 date_read: 2017-11-25
 category: bully-romance
 cover: /assets/readings/twisted-kingdom.jpg

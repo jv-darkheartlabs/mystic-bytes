@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6897719.Josiah_Bancroft"
 dek: ""
 number: R711
 sort_key: 711
-date: 2023-11-05
+date: 2026-03-19
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/arm-of-the-sphinx.jpg

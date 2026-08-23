@@ -5,7 +5,7 @@ author: "Annabel Monaghan"
 dek: ""
 number: R1021
 sort_key: 1021
-date: 2024-11-14
+date: 2026-04-22
 date_read: 2016-07-13
 category: forbidden-love
 cover: /assets/readings/its-a-love-story.jpg

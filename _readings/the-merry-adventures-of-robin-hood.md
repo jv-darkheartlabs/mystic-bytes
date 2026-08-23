@@ -5,7 +5,7 @@ author: "Howard Pyle"
 dek: ""
 number: R1698
 sort_key: 1698
-date: 2026-07-01
+date: 2026-06-30
 date_read: 2021-09-19
 category: gothic-horror-romance
 cover: /assets/readings/the-merry-adventures-of-robin-hood.jpg

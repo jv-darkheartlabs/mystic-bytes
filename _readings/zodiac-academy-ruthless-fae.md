@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1092
 sort_key: 1092
-date: 2025-02-08
+date: 2026-04-30
 date_read: 2015-06-10
 category: bully-romance
 cover: /assets/readings/zodiac-academy-ruthless-fae.jpg

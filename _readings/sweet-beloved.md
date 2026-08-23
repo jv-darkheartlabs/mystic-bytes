@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19114755.Raya_Morris_Edwards"
 dek: "A Sovereign Mountain Novella"
 number: R154
 sort_key: 154
-date: 2021-12-31
+date: 2026-01-17
 date_read: 2025-04-04
 category: forbidden-love
 cover: /assets/readings/sweet-beloved.jpg

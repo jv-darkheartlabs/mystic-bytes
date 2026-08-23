@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21002065.Carissa_Broadbent"
 dek: "The Nightborn Duet Book One"
 number: R1322
 sort_key: 1322
-date: 2025-11-19
+date: 2026-05-24
 date_read: 2017-11-25
 category: vampire-paranormal
 cover: /assets/readings/the-serpent-the-wings-of-night.jpg

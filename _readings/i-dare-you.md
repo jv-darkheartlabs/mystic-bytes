@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "She is built for a man like me — a savage."
 number: R015
 sort_key: 015
-date: 2021-07-15
+date: 2026-01-03
 date_read: 2018-09-19
 category: bully-romance
 cover: /assets/readings/i-dare-you.jpg

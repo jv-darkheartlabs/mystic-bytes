@@ -5,11 +5,10 @@ author: "Gillian Flynn"
 dek: ""
 number: R1752
 sort_key: 1752
-date: 2026-05-08
+date: 2026-07-06
 date_read: 2007-09-19
-category: dark-thriller
+category: mystery-crime
 cover: /assets/readings/gone-girl.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "manipulation"

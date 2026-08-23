@@ -5,7 +5,7 @@ author: "Elle Kennedy"
 dek: ""
 number: R905
 sort_key: 905
-date: 2024-06-29
+date: 2026-04-09
 date_read: 2020-08-16
 category: enemies-to-lovers
 cover: /assets/readings/the-dixon-rule.jpg

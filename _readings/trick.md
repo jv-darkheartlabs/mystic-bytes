@@ -5,7 +5,7 @@ author: "Natalia Jaster"
 dek: "Foolish Kingdoms — Dark Seasons World"
 number: R1123
 sort_key: 1123
-date: 2025-03-18
+date: 2026-05-03
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/trick.jpg

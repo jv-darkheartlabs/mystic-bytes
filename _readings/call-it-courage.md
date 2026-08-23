@@ -5,7 +5,7 @@ author: "Armstrong Sperry"
 dek: ""
 number: R1701
 sort_key: 1701
-date: 2026-06-28
+date: 2026-06-30
 date_read: 2024-03-01
 category: gothic-horror-romance
 cover: /assets/readings/call-it-courage.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/14352829.Amanda_Bouchet"
 dek: "A Kingmaker Chronicles Novel"
 number: R1225
 sort_key: 1225
-date: 2025-07-20
+date: 2026-05-14
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/a-curse-of-queens.jpg

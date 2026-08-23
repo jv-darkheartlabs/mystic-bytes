@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4039811.Veronica_Roth"
 dek: "He'd die for her. She'd kill for him."
 number: R1120
 sort_key: 1120
-date: 2025-03-17
+date: 2026-05-03
 date_read: 2019-07-13
 category: enemies-to-lovers
 cover: /assets/readings/the-fates-divide.jpg

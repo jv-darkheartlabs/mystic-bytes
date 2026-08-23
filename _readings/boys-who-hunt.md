@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7154212.Clarissa_Wild"
 dek: ""
 number: R249
 sort_key: 249
-date: 2022-04-20
+date: 2026-01-27
 date_read: 2024-09-19
 category: stalker-obsession
 cover: /assets/readings/boys-who-hunt.jpg

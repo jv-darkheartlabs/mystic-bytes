@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3101342.Lexi_Ryan"
 dek: ""
 number: R1198
 sort_key: 1198
-date: 2025-06-19
+date: 2026-05-11
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/these-twisted-bonds.jpg

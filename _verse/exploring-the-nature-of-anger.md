@@ -4,7 +4,7 @@ title: "Exploring the Nature of Anger"
 dek: "Wrath as weather system — named, not worshipped."
 number: V0820
 sort_key: 820
-date: 2028-09-25
+date: 2026-06-24
 date_written: 2014-07-30
 category: life
 form: free-verse

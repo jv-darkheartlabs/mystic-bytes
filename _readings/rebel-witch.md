@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Kristen_Ciccarelli"
 dek: ""
 number: R927
 sort_key: 927
-date: 2024-07-21
+date: 2026-04-12
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/rebel-witch.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6518850.Cora_Reilly"
 dek: "A Mafia Romance"
 number: R173
 sort_key: 173
-date: 2022-01-23
+date: 2026-01-19
 date_read: 2020-05-07
 category: mafia-boss-and-innocent
 cover: /assets/readings/sin-and-redemption.jpg

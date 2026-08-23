@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228254.Catharina_Maura"
 dek: ""
 number: R1333
 sort_key: 1333
-date: 2025-12-01
+date: 2026-05-25
 date_read: 2016-04-04
 category: arranged-marriage
 cover: /assets/readings/the-secret-fianc-e.jpg

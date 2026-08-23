@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Kate_Stewart"
 dek: ""
 number: R1015
 sort_key: 1015
-date: 2024-11-06
+date: 2026-04-21
 date_read: 2022-10-22
 category: forbidden-love
 cover: /assets/readings/exodus.jpg

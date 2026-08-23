@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228253.Devney_Perry"
 dek: "The Edens"
 number: R1380
 sort_key: 1380
-date: 2026-01-25
+date: 2026-05-30
 date_read: 2015-06-10
 category: enemies-to-lovers
 cover: /assets/readings/juniper-hill.jpg

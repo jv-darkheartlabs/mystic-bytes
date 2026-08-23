@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Rin_Chupeco"
 dek: "The Bone Witch Book Two"
 number: R509
 sort_key: 509
-date: 2023-03-03
+date: 2026-02-25
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/the-heart-forger.jpg

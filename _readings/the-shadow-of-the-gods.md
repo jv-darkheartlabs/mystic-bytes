@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6449152.John_Gwynne"
 dek: ""
 number: R691
 sort_key: 691
-date: 2023-10-09
+date: 2026-03-17
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/the-shadow-of-the-gods.jpg

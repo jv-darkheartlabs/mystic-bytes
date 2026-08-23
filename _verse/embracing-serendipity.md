@@ -4,7 +4,7 @@ title: "Embracing Serendipity"
 dek: "Happy accident — plus your hands on the wheel."
 number: V0814
 sort_key: 814
-date: 2028-03-01
+date: 2026-06-20
 date_written: 2007-06-18
 category: life
 form: free-verse

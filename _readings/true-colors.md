@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/54485.Kristin_Hannah"
 dek: "A Novel"
 number: R427
 sort_key: 427
-date: 2022-11-20
+date: 2026-02-16
 date_read: 2012-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/true-colors.jpg
 spice: 2
 content_warnings:

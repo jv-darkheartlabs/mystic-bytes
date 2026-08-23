@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7277544.Kerri_Maniscalco"
 dek: ""
 number: R919
 sort_key: 919
-date: 2024-07-17
+date: 2026-04-11
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/kingdom-of-the-cursed.jpg

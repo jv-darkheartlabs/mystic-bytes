@@ -4,7 +4,7 @@ title: "Cycle of Violence"
 dek: "Blow as chain — care as break."
 number: V0913
 sort_key: 913
-date: 2034-08-17
+date: 2026-08-12
 date_written: 2011-01-21
 category: justice
 form: free-verse

@@ -5,7 +5,7 @@ author: "Maren Moore"
 dek: ""
 number: R1033
 sort_key: 1033
-date: 2024-11-28
+date: 2026-04-23
 date_read: 2016-10-22
 category: forbidden-love
 cover: /assets/readings/the-final-score.jpg

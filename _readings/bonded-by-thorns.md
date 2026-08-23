@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20318490.Elizabeth_Helen"
 dek: "Beasts of the Briar — Book One"
 number: R305
 sort_key: 305
-date: 2022-06-23
+date: 2026-02-02
 date_read: 2020-11-25
 category: vampire-paranormal
 cover: /assets/readings/bonded-by-thorns.jpg

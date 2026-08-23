@@ -4,7 +4,7 @@ title: "From the Ashes"
 dek: "Resurgence without the phoenix brochure."
 number: V0206
 sort_key: 206
-date: 2026-09-23
+date: 2026-02-09
 date_written: 1998-10-30
 category: grief-loss-resilience
 form: free-verse

@@ -4,7 +4,7 @@ title: "Valor Within"
 dek: "Courage is quieter than the hero brochure."
 number: V0202
 sort_key: 202
-date: 2026-09-19
+date: 2026-02-07
 date_written: 1996-09-04
 category: grief-loss-resilience
 form: free-verse

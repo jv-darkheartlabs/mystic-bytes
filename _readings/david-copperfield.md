@@ -5,11 +5,10 @@ author: "Charles Dickens"
 dek: ""
 number: R1732
 sort_key: 1732
-date: 2026-05-28
+date: 2026-07-04
 date_read: 2007-07-13
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/david-copperfield.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

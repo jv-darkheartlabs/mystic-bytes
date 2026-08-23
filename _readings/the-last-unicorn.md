@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/106760.Peter_S_Beagle"
 dek: ""
 number: R500
 sort_key: 500
-date: 2023-02-16
+date: 2026-02-24
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/the-last-unicorn.jpg

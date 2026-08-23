@@ -5,7 +5,7 @@ author: "M. James"
 dek: ""
 number: R796
 sort_key: 796
-date: 2024-02-14
+date: 2026-03-28
 date_read: 2019-07-13
 category: gothic-horror-romance
 cover: /assets/readings/carnal-desire.jpg

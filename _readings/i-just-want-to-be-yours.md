@@ -5,7 +5,7 @@ author: "Heather Garvin"
 dek: "Overcoming it all to hit the perfect note"
 number: R894
 sort_key: 894
-date: 2024-06-17
+date: 2026-04-08
 date_read: 2021-06-10
 category: enemies-to-lovers
 cover: /assets/readings/i-just-want-to-be-yours.jpg

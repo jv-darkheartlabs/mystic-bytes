@@ -5,9 +5,9 @@ author: "Robin Waterfield"
 dek: ""
 number: R1798
 sort_key: 1798
-date: 2026-07-01
+date: 2026-07-09
 date_read: 2013-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-firm-penguin-readers-level-5.jpg
 spice: 2
 content_warnings:

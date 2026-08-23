@@ -5,11 +5,10 @@ author: "Stephen  King"
 dek: "A chilling tale of a town plagued by a vampire's return."
 number: R1884
 sort_key: 1884
-date: 2026-04-06
+date: 2026-07-17
 date_read: 2015-06-10
-category: vampire-paranormal
+category: horror
 cover: /assets/readings/salem-s-lot.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "gore"

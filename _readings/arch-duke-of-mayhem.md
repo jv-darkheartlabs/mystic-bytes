@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/17138508.Angel_Lawson"
 dek: "Foe of Forbes"
 number: R035
 sort_key: 035
-date: 2021-08-11
-date_read: 2026-11-25
+date: 2026-01-05
+date_read: 2026-08-23
 category: bully-romance
 cover: /assets/readings/arch-duke-of-mayhem.jpg
 spice: 5

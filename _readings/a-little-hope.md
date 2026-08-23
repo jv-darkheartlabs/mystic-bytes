@@ -5,8 +5,8 @@ author: "Ethan Joella"
 dek: "A Novel"
 number: R755
 sort_key: 755
-date: 2024-01-01
-date_read: 2026-11-25
+date: 2026-03-24
+date_read: 2026-08-23
 category: forbidden-love
 cover: /assets/readings/a-little-hope.jpg
 spice: 2

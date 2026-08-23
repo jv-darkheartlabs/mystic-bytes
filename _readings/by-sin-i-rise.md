@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6518850.Cora_Reilly"
 dek: "A man made of ice. She has every intention of melting him..."
 number: R1280
 sort_key: 1280
-date: 2025-09-28
+date: 2026-05-20
 date_read: 2023-05-07
 category: mafia-boss-and-innocent
 cover: /assets/readings/by-sin-i-rise.jpg

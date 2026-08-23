@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21002065.Carissa_Broadbent"
 dek: "The War of Lost Hearts Vol. III"
 number: R1206
 sort_key: 1206
-date: 2025-07-03
+date: 2026-05-12
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/mother-of-death-dawn.jpg

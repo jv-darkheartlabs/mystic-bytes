@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Rina_Kent"
 dek: "I'm trapped by the devil."
 number: R321
 sort_key: 321
-date: 2022-07-13
+date: 2026-02-04
 date_read: 2024-09-19
 category: bully-romance
 cover: /assets/readings/god-of-wrath.jpg

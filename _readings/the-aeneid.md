@@ -5,11 +5,10 @@ author: "Virgil"
 dek: ""
 number: R1653
 sort_key: 1653
-date: 2026-05-07
+date: 2026-06-26
 date_read: 1996-05-15
 category: classic-literature
 cover: /assets/readings/the-aeneid.jpg
-spice: 1
 content_warnings:
 tags:
   - epic poetry

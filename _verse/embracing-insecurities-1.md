@@ -4,7 +4,7 @@ title: "Embracing Insecurities I"
 dek: "Doubt as signal, not landlord."
 number: V0810
 sort_key: 810
-date: 2027-11-13
+date: 2026-06-17
 date_written: 2015-05-16
 category: life
 form: free-verse

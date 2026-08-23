@@ -5,7 +5,7 @@ author: "Hannah Whitten"
 dek: ""
 number: R930
 sort_key: 930
-date: 2024-07-28
+date: 2026-04-12
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/the-foxglove-king.jpg

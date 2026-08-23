@@ -5,7 +5,7 @@ author: "Lucy Score"
 dek: "Bad boys don't live happily ever after."
 number: R862
 sort_key: 862
-date: 2024-05-08
+date: 2026-04-05
 date_read: 2025-10-22
 category: enemies-to-lovers
 cover: /assets/readings/things-we-left-behind.jpg

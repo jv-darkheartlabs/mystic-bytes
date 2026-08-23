@@ -5,7 +5,7 @@ author: "Astrid Lindgren"
 dek: "Pippi Longstocking Series"
 number: R1693
 sort_key: 1693
-date: 2026-07-06
+date: 2026-06-30
 date_read: 2016-04-04
 category: gothic-horror-romance
 cover: /assets/readings/pippi-longstocking-pippi-l-ngstrump-1.jpg

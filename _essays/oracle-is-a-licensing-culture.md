@@ -9,9 +9,9 @@ cover: /assets/images/cover-code.svg
 type: micro
 tags: [craft]
 brief:
-  system: datastore and language choices for small Dark Heart Labs tools
-  issue: "free" Java and MySQL paths look like engineering choices until the license page is the real architecture
-  constraint: public history only; no roast for sport; cautionary as a user of ecosystems
+  system: "datastore and language choices for small Dark Heart Labs tools"
+  issue: '"free" Java and MySQL paths look like engineering choices until the license page is the real architecture'
+  constraint: "public history only; no roast for sport; cautionary as a user of ecosystems"
 ---
 
 Oracle's talent is not a database. It is a culture that treats the license as the asset and the binary as the sample.

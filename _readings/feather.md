@@ -5,7 +5,7 @@ author: "Olivia Wildenstein"
 dek: ""
 number: R1492
 sort_key: 1492
-date: 2026-06-15
+date: 2026-06-12
 date_read: 2019-10-22
 category: gothic-horror-romance
 cover: /assets/readings/feather.jpg

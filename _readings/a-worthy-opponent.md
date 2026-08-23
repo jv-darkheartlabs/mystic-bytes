@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Wicked Villains"
 number: R1355
 sort_key: 1355
-date: 2025-12-31
+date: 2026-05-27
 date_read: 2026-08-16
 category: enemies-to-lovers
 cover: /assets/readings/a-worthy-opponent.jpg

@@ -5,7 +5,7 @@ author: "Kat Blackthorne"
 dek: "The Halloween Boys — Book One"
 number: R1317
 sort_key: 1317
-date: 2025-11-09
+date: 2026-05-23
 date_read: 2024-06-10
 category: stalker-obsession
 cover: /assets/readings/ghost.jpg

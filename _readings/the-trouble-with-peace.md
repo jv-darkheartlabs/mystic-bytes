@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/276660.Joe_Abercrombie"
 dek: ""
 number: R497
 sort_key: 497
-date: 2023-02-13
+date: 2026-02-23
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/the-trouble-with-peace.jpg

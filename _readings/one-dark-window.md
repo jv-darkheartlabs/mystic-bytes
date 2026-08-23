@@ -5,7 +5,7 @@ author: "Rachel Gillig"
 dek: ""
 number: R948
 sort_key: 948
-date: 2024-08-21
+date: 2026-04-14
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/one-dark-window.jpg

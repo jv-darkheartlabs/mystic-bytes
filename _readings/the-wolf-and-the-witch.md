@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202100.Charissa_Weaks"
 dek: "A Witch Walker Novella"
 number: R1222
 sort_key: 1222
-date: 2025-07-22
+date: 2026-05-13
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/the-wolf-and-the-witch.jpg

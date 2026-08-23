@@ -4,7 +4,7 @@ title: "Fire and Redemption"
 dek: "Anger in New Orleans runs hot enough to cook or scar."
 number: V0213
 sort_key: 213
-date: 2026-09-30
+date: 2026-02-14
 date_written: 2008-08-09
 category: grief-loss-resilience
 form: free-verse

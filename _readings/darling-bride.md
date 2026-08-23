@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19114755.Raya_Morris_Edwards"
 dek: "A Sovereign Mountain Novella"
 number: R007
 sort_key: 007
-date: 2021-07-10
+date: 2026-01-02
 date_read: 2022-10-22
 category: arranged-marriage
 cover: /assets/readings/darling-bride.jpg

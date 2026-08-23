@@ -5,7 +5,7 @@ author: "Dr. Seuss"
 dek: "Cat in the Hat Series"
 number: R1818
 sort_key: 1818
-date: 2026-06-11
+date: 2026-07-11
 date_read: 2021-03-01
 category: gothic-horror-romance
 cover: /assets/readings/the-cat-in-the-hat-cat-in-the-hat-1.jpg

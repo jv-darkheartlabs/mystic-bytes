@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7277544.Kerri_Maniscalco"
 dek: ""
 number: R921
 sort_key: 921
-date: 2024-07-22
+date: 2026-04-11
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/kingdom-of-the-feared.jpg

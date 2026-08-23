@@ -5,7 +5,7 @@ author: "Karina Halle"
 dek: ""
 number: R1440
 sort_key: 1440
-date: 2026-04-10
+date: 2026-06-06
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/ocean-of-sin-and-starlight.jpg

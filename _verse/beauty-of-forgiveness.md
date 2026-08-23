@@ -4,7 +4,7 @@ title: "Beauty of Forgiveness"
 dek: "Mercy with its eyes open."
 number: V0133
 sort_key: 133
-date: 2026-09-04
+date: 2026-01-27
 date_written: 2002-10-30
 category: spirituality
 form: free-verse

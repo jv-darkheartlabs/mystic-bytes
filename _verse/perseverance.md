@@ -4,7 +4,7 @@ title: "Perseverance"
 dek: "Endurance without the victory montage."
 number: V0209
 sort_key: 209
-date: 2026-09-26
+date: 2026-02-12
 date_written: 1997-04-03
 category: grief-loss-resilience
 form: free-verse

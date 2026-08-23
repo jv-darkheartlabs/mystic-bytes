@@ -4,7 +4,7 @@ title: "Unbroken Spirit"
 dek: "Resilience without the tourism brochure."
 number: V0409
 sort_key: 409
-date: 2026-11-27
+date: 2026-03-26
 date_written: 2006-09-01
 category: nola
 form: open

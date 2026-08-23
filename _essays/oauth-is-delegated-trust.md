@@ -10,9 +10,9 @@ type: pillar
 read_time: 8
 tags: [craft]
 brief:
-  system: GitHub OAuth and OIDC sign-in used as a customer of public identity providers from Auckland
-  issue: "Sign in with Google" taught as login when the protocol is delegated authorization
-  constraint: RFC 6749 and OIDC as the texts; no identity-vendor employment; not a copy-paste tutorial
+  system: "GitHub OAuth and OIDC sign-in used as a customer of public identity providers from Auckland"
+  issue: '"Sign in with Google" taught as login when the protocol is delegated authorization'
+  constraint: "RFC 6749 and OIDC as the texts; no identity-vendor employment; not a copy-paste tutorial"
 ---
 
 ## Thesis

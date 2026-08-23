@@ -4,7 +4,7 @@ title: "Torch at the Crossroads"
 dek: "She does not bless the working. She witnesses it."
 number: V0006
 sort_key: 6
-date: 2026-07-11
+date: 2026-01-05
 date_written: 2013-10-31
 category: spirituality
 form: free-verse

@@ -4,7 +4,7 @@ title: "Winter's Glow"
 dek: "Cold with fire as counteroffer."
 number: V0526
 sort_key: 526
-date: 2027-02-08
+date: 2026-05-15
 date_written: 1992-12-28
 category: nature
 form: free-verse

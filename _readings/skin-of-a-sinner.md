@@ -5,7 +5,7 @@ author: "Avina St. Graves"
 dek: "Missed me, princess?"
 number: R219
 sort_key: 219
-date: 2022-03-19
+date: 2026-01-24
 date_read: 2018-06-10
 category: stalker-obsession
 cover: /assets/readings/skin-of-a-sinner.jpg

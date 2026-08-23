@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/5194.Michael_Crichton"
 dek: ""
 number: R369
 sort_key: 369
-date: 2022-09-13
+date: 2026-02-09
 date_read: 2014-03-01
-category: dark-thriller
+category: sff
 cover: /assets/readings/the-andromeda-strain.jpg
-spice: 1
 content_warnings:
   - "death"
   - "disease"

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4721702.Mark_Lawrence"
 dek: ""
 number: R1196
 sort_key: 1196
-date: 2025-06-15
+date: 2026-05-10
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/the-book-that-wouldnt-burn.jpg

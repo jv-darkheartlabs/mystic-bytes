@@ -4,7 +4,7 @@ title: "Fame's Dance"
 dek: "Recognition in New Orleans — flame thin."
 number: V0908
 sort_key: 908
-date: 2034-03-27
+date: 2026-08-09
 date_written: 2013-03-07
 category: justice
 form: free-verse

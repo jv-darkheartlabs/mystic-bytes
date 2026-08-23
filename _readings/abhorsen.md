@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8347.Garth_Nix"
 dek: "Old Kingdom Book Three"
 number: R518
 sort_key: 518
-date: 2023-03-15
+date: 2026-02-26
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/abhorsen.jpg

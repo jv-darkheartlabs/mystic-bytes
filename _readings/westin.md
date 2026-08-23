@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19114755.Raya_Morris_Edwards"
 dek: "Two Sovereign Mountain"
 number: R090
 sort_key: 090
-date: 2021-10-13
+date: 2026-01-11
 date_read: 2021-03-01
 category: captor-and-captive
 cover: /assets/readings/westin.jpg

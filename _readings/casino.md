@@ -5,9 +5,9 @@ author: "Nicholas Pileggi"
 dek: ""
 number: R1735
 sort_key: 1735
-date: 2026-05-25
+date: 2026-07-04
 date_read: 2010-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/casino.jpg
 spice: 2
 content_warnings:

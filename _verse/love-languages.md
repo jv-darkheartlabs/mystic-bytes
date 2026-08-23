@@ -4,7 +4,7 @@ title: "Love Languages"
 dek: "Affirmation can bruise when it learns your password."
 number: V0104
 sort_key: 104
-date: 2026-08-06
+date: 2026-01-07
 date_written: 2016-02-14
 category: spirituality
 form: free-verse

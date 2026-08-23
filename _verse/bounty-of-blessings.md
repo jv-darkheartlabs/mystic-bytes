@@ -4,7 +4,7 @@ title: "Bounty of Blessings"
 dek: "Abundance counted without amnesia."
 number: V0132
 sort_key: 132
-date: 2026-09-03
+date: 2026-01-27
 date_written: 1999-11-11
 category: spirituality
 form: free-verse

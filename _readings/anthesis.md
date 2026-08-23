@@ -5,7 +5,7 @@ author: "Lauren    Elizabeth"
 dek: ""
 number: R1633
 sort_key: 1633
-date: 2026-05-27
+date: 2026-06-24
 date_read: 2016-07-13
 category: gothic-horror-romance
 cover: /assets/readings/anthesis.jpg

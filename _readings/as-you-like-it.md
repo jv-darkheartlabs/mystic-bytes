@@ -5,11 +5,10 @@ author: "William Shakespeare"
 dek: "A pastoral comedy exploring love and identity."
 number: R1630
 sort_key: 1630
-date: 2026-05-30
+date: 2026-06-24
 date_read: 2025-04-04
-category: enemies-to-lovers
+category: classic-literature
 cover: /assets/readings/as-you-like-it.jpg
-spice: 2
 content_warnings:
 tags:
   - enemiestolovers

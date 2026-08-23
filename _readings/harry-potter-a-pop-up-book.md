@@ -5,11 +5,10 @@ author: "Andrew Williamson"
 dek: ""
 number: R2019
 sort_key: 2019
-date: 2026-06-10
+date: 2026-07-25
 date_read: 2018-06-10
-category: gothic-horror-romance
+category: ya-fiction
 cover: /assets/readings/harry-potter-a-pop-up-book.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

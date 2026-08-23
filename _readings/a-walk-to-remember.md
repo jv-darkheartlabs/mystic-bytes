@@ -5,7 +5,7 @@ author: "Nicholas Sparks"
 dek: ""
 number: R1781
 sort_key: 1781
-date: 2026-04-09
+date: 2026-07-08
 date_read: 2020-11-25
 category: forbidden-love
 cover: /assets/readings/a-walk-to-remember.jpg

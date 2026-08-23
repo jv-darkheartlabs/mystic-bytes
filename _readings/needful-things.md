@@ -5,9 +5,9 @@ author: "Stephen  King"
 dek: ""
 number: R1661
 sort_key: 1661
-date: 2026-04-29
+date: 2026-06-27
 date_read: 2006-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/needful-things.jpg
 spice: 3
 content_warnings:

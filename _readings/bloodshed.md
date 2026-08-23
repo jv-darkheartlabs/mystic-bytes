@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Molly_Doyle"
 dek: "Unknown. Unspoken. Unseen."
 number: R196
 sort_key: 196
-date: 2022-02-16
+date: 2026-01-22
 date_read: 2019-10-22
 category: reverse-harem
 cover: /assets/readings/bloodshed.jpg

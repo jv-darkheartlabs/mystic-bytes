@@ -5,7 +5,7 @@ author: "Cornelia Funke"
 dek: "Inkworld Series"
 number: R1591
 sort_key: 1591
-date: 2026-07-08
+date: 2026-06-20
 date_read: 2022-10-22
 category: gothic-horror-romance
 cover: /assets/readings/inkheart-inkworld-1.jpg

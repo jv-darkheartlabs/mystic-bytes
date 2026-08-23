@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.A_P_Beswick"
 dek: ""
 number: R657
 sort_key: 657
-date: 2023-09-02
+date: 2026-03-13
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/a-forest-of-vanity-and-valour.jpg

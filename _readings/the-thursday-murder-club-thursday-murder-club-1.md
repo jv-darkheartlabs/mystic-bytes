@@ -5,11 +5,10 @@ author: "Richard Osman"
 dek: "Thursday Murder Club Series"
 number: R1745
 sort_key: 1745
-date: 2026-05-15
+date: 2026-07-05
 date_read: 2010-11-25
-category: dark-thriller
+category: mystery-crime
 cover: /assets/readings/the-thursday-murder-club-thursday-murder-club-1.jpg
-spice: 2
 content_warnings:
 tags:
   - darkthriller

@@ -5,9 +5,9 @@ author: "Cormac McCarthy"
 dek: ""
 number: R1864
 sort_key: 1864
-date: 2026-04-26
+date: 2026-07-15
 date_read: 2009-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/no-country-for-old-men.jpg
 spice: 2
 content_warnings:

@@ -5,7 +5,7 @@ author: "Caroline Peckham & Susanne Valenti"
 dek: "Die Brutalen Jungs der Everlake Prep Buch 3"
 number: R039
 sort_key: 039
-date: 2021-08-13
+date: 2026-01-05
 date_read: 2018-06-10
 category: bully-romance
 cover: /assets/readings/kings-of-anarchy.jpg

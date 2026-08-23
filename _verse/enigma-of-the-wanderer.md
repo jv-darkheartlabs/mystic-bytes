@@ -4,7 +4,7 @@ title: "Enigma of the Wanderer"
 dek: "Stranger as unanswered door."
 number: V0616
 sort_key: 616
-date: 2027-03-09
+date: 2026-06-04
 date_written: 1992-03-03
 category: curiosity
 form: open

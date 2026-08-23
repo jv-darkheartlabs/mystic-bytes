@@ -4,7 +4,7 @@ title: "Galactic Unknown"
 dek: "Unknown as address, not error."
 number: V0618
 sort_key: 618
-date: 2027-03-11
+date: 2026-06-05
 date_written: 1991-01-30
 category: curiosity
 form: free-verse

@@ -5,11 +5,10 @@ author: "Ria Wilde"
 dek: ""
 number: R326
 sort_key: 326
-date: 2022-07-23
+date: 2026-02-04
 date_read: 2017-05-07
-category: captor-and-captive
+category: classic-literature
 cover: /assets/readings/playing-with-fire.jpg
-spice: 4
 content_warnings:
   - "captivity themes"
   - "fire"

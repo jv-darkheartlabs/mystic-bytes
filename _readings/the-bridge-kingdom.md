@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7154216.Danielle_L_Jensen"
 dek: ""
 number: R1227
 sort_key: 1227
-date: 2025-07-26
+date: 2026-05-14
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/the-bridge-kingdom.jpg

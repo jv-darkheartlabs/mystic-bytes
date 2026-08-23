@@ -4,7 +4,7 @@ title: "Thrill of a Lifetime"
 dek: "Chase as pulse, not trophy."
 number: V0621
 sort_key: 621
-date: 2027-03-14
+date: 2026-06-07
 date_written: 1990-08-08
 category: curiosity
 form: free-verse

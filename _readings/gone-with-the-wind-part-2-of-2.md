@@ -5,7 +5,7 @@ author: "John Escott"
 dek: "Part 2 of the classic saga"
 number: R1682
 sort_key: 1682
-date: 2026-04-08
+date: 2026-06-29
 date_read: 2017-11-25
 category: enemies-to-lovers
 cover: /assets/readings/gone-with-the-wind-part-2-of-2.jpg

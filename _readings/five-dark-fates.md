@@ -5,7 +5,7 @@ author: "Kendare Blake"
 dek: "Three Dark Crowns — Book Four"
 number: R1425
 sort_key: 1425
-date: 2026-03-25
+date: 2026-06-04
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/five-dark-fates.jpg

@@ -5,7 +5,7 @@ author: "Traci Lovelot"
 dek: "Our Fae Queen — Book 3"
 number: R531
 sort_key: 531
-date: 2023-03-24
+date: 2026-02-27
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/bound-to-the-queen.jpg

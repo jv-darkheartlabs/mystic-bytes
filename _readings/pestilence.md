@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Laura_Thalassa"
 dek: ""
 number: R987
 sort_key: 987
-date: 2024-10-05
+date: 2026-04-18
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/pestilence.jpg

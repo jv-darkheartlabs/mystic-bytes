@@ -5,7 +5,7 @@ author: "Shirley Jackson"
 dek: ""
 number: R1729
 sort_key: 1729
-date: 2026-05-31
+date: 2026-07-04
 date_read: 2016-04-04
 category: gothic-horror-romance
 cover: /assets/readings/we-have-always-lived-in-the-castle.jpg

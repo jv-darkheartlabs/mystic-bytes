@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166897.Elle_Kennedy"
 dek: "Off-Campus Series — Book 2"
 number: R452
 sort_key: 452
-date: 2022-12-18
+date: 2026-02-18
 date_read: 2023-05-07
 category: enemies-to-lovers
 cover: /assets/readings/the-mistake.jpg

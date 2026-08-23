@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #2"
 number: R2282
 sort_key: 2282
-date: 2026-06-28
+date: 2026-08-11
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-02-the-house-on-the-cliff.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

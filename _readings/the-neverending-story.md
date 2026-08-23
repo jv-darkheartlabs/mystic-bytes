@@ -5,7 +5,7 @@ author: "Michael Ende"
 dek: ""
 number: R1610
 sort_key: 1610
-date: 2026-06-19
+date: 2026-06-22
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/the-neverending-story.jpg

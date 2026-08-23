@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Elise_Kova"
 dek: ""
 number: R1004
 sort_key: 1004
-date: 2024-10-25
+date: 2026-04-20
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/dance-with-the-fae-prince.jpg

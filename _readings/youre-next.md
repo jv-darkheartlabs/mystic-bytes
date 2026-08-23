@@ -5,7 +5,7 @@ author: "Tate James"
 dek: "Devil's Backbone — Chapter 3"
 number: R230
 sort_key: 230
-date: 2022-04-02
+date: 2026-01-25
 date_read: 2017-08-16
 category: stalker-obsession
 cover: /assets/readings/youre-next.jpg

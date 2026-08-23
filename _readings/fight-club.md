@@ -5,9 +5,9 @@ author: "Chuck Palahniuk"
 dek: ""
 number: R1872
 sort_key: 1872
-date: 2026-04-18
+date: 2026-07-16
 date_read: 2007-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/fight-club.jpg
 spice: 3
 content_warnings:

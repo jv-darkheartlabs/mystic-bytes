@@ -5,7 +5,7 @@ author: "Stephanie Archer"
 dek: "a novel"
 number: R1503
 sort_key: 1503
-date: 2026-06-28
+date: 2026-06-13
 date_read: 2018-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-vegas-rule.jpg

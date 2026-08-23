@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/14106524.Stephanie_Garber"
 dek: "A Caraval Novel"
 number: R1201
 sort_key: 1201
-date: 2025-06-20
+date: 2026-05-11
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/finale.jpg

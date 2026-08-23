@@ -5,11 +5,10 @@ author: "Beverly Cleary"
 dek: "Ramona's mischievous adventures continue"
 number: R1992
 sort_key: 1992
-date: 2026-07-07
+date: 2026-07-25
 date_read: 2007-06-10
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/ramona-the-pest-ramona-2.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

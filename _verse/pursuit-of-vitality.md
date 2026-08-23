@@ -4,7 +4,7 @@ title: "Pursuit of Vitality"
 dek: "Health as whole system — not brochure zest."
 number: V0863
 sort_key: 863
-date: 2032-04-21
+date: 2026-07-24
 date_written: 2012-10-24
 category: life
 form: free-verse

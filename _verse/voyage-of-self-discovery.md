@@ -4,7 +4,7 @@ title: "Voyage of Self-Discovery"
 dek: "Journey as who you become — not postcard."
 number: V0878
 sort_key: 878
-date: 2033-07-23
+date: 2026-08-03
 date_written: 2010-08-09
 category: life
 form: free-verse

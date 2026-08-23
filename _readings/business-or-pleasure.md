@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/16889821.Rachel_Lynn_Solomon"
 dek: ""
 number: R613
 sort_key: 613
-date: 2023-07-05
+date: 2026-03-08
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/business-or-pleasure.jpg

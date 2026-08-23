@@ -5,7 +5,7 @@ author: "Meghan Quinn"
 dek: "USA Today bestselling author"
 number: R1502
 sort_key: 1502
-date: 2026-06-28
+date: 2026-06-13
 date_read: 2017-11-25
 category: enemies-to-lovers
 cover: /assets/readings/runaway-groomsman.jpg

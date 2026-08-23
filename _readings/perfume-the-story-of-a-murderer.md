@@ -5,7 +5,7 @@ author: "Patrick Süskind"
 dek: ""
 number: R1865
 sort_key: 1865
-date: 2026-04-25
+date: 2026-07-15
 date_read: 2020-05-07
 category: gothic-horror-romance
 cover: /assets/readings/perfume-the-story-of-a-murderer.jpg

@@ -5,7 +5,7 @@ author: "Leah D. Cummings"
 dek: "A Dark Stalker Romance"
 number: R217
 sort_key: 217
-date: 2022-03-15
+date: 2026-01-24
 date_read: 2016-04-04
 category: stalker-obsession
 cover: /assets/readings/under-his-watch.jpg

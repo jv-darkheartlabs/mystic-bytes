@@ -5,11 +5,10 @@ author: "C.S. Lewis"
 dek: "Chronicles of Narnia Series"
 number: R2144
 sort_key: 2144
-date: 2026-05-16
+date: 2026-08-01
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/the-magician-s-nephew-chronicles-of-narnia-6.jpg
-spice: 1
 content_warnings:
 tags:
   - fantasy

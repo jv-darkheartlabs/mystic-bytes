@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228259.Emily_Rath"
 dek: "The Jacksonville Rays Hockey Series — Book 2"
 number: R1328
 sort_key: 1328
-date: 2025-11-27
+date: 2026-05-24
 date_read: 2023-08-16
 category: age-gap
 cover: /assets/readings/pucking-wild.jpg

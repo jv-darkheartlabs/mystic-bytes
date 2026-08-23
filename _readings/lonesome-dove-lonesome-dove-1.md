@@ -5,7 +5,7 @@ author: "Larry McMurtry"
 dek: "Lonesome Dove, #1"
 number: R1862
 sort_key: 1862
-date: 2026-04-28
+date: 2026-07-15
 date_read: 2017-11-25
 category: dark-cowboy-romance
 cover: /assets/readings/lonesome-dove-lonesome-dove-1.jpg

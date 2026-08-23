@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #27"
 number: R2290
 sort_key: 2290
-date: 2026-06-20
+date: 2026-08-12
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-27-the-secret-of-skull-mountain.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

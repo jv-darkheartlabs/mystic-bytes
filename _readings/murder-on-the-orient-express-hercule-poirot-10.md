@@ -5,11 +5,10 @@ author: "Agatha Christie"
 dek: "Hercule Poirot's most famous case"
 number: R1910
 sort_key: 1910
-date: 2026-06-19
+date: 2026-07-19
 date_read: 2005-05-07
-category: dark-thriller
+category: mystery-crime
 cover: /assets/readings/murder-on-the-orient-express-hercule-poirot-10.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "murder"

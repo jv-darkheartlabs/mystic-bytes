@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #7"
 number: R2382
 sort_key: 2382
-date: 2026-03-20
+date: 2026-08-22
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-07-the-clue-in-the-diary.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

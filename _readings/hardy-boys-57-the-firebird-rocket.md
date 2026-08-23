@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #57"
 number: R2323
 sort_key: 2323
-date: 2026-05-18
+date: 2026-08-16
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-57-the-firebird-rocket.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

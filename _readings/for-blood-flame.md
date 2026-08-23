@@ -5,7 +5,7 @@ author: "Jinapher J. Hoffman"
 dek: "A Wrathos Novel"
 number: R1234
 sort_key: 1234
-date: 2025-08-05
+date: 2026-05-15
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/for-blood-flame.jpg

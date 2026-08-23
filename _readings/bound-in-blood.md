@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19791123.Sadie_Kincaid"
 dek: "Broken Bloodlines Series — Book Three"
 number: R267
 sort_key: 267
-date: 2022-05-12
+date: 2026-01-29
 date_read: 2018-09-19
 category: vampire-paranormal
 cover: /assets/readings/bound-in-blood.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Scarlett_St_Clair"
 dek: ""
 number: R920
 sort_key: 920
-date: 2024-07-18
+date: 2026-04-11
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/a-game-of-retribution.jpg

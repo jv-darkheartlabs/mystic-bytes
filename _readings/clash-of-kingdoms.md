@@ -5,7 +5,7 @@ author: "Penelope Barsetti"
 dek: ""
 number: R931
 sort_key: 931
-date: 2024-07-30
+date: 2026-04-12
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/clash-of-kingdoms.jpg

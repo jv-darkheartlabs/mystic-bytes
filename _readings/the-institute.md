@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/3389.Stephen_King"
 dek: ""
 number: R352
 sort_key: 352
-date: 2022-08-20
+date: 2026-02-07
 date_read: 2007-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-institute.jpg
 spice: 2
 content_warnings:

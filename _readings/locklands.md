@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/2917927.Robert_Jackson_Bennet
 dek: "Foundryside Book Three"
 number: R506
 sort_key: 506
-date: 2023-03-02
+date: 2026-02-24
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/locklands.jpg

@@ -4,7 +4,7 @@ title: "Hope in Adversity"
 dek: "Light noted, not installed."
 number: V0216
 sort_key: 216
-date: 2026-10-03
+date: 2026-02-16
 date_written: 1998-06-18
 category: grief-loss-resilience
 form: free-verse

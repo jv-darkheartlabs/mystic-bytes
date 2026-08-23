@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17138508.Angel_Lawson"
 dek: "Royals of Forsyth — Book 2"
 number: R048
 sort_key: 048
-date: 2021-08-28
+date: 2026-01-06
 date_read: 2015-06-10
 category: bully-romance
 cover: /assets/readings/lords-of-wrath.jpg

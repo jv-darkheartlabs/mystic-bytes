@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19981277.Nikki_St_Crowe"
 dek: "Never, never let them win."
 number: R310
 sort_key: 310
-date: 2022-07-01
+date: 2026-02-03
 date_read: 2025-07-13
 category: vampire-paranormal
 cover: /assets/readings/the-fae-princes.jpg

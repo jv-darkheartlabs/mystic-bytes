@@ -4,7 +4,7 @@ title: "Time and Existence"
 dek: "Forever as homework in seconds."
 number: V0611
 sort_key: 611
-date: 2027-03-04
+date: 2026-05-31
 date_written: 1992-05-05
 category: curiosity
 form: free-verse

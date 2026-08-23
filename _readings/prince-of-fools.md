@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4721536.Mark_Lawrence"
 dek: "The Great God's War Book One"
 number: R696
 sort_key: 696
-date: 2023-10-18
+date: 2026-03-17
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/prince-of-fools.jpg

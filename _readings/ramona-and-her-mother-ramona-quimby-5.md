@@ -5,11 +5,10 @@ author: "Beverly Cleary"
 dek: "Ramona Quimby series"
 number: R2132
 sort_key: 2132
-date: 2026-05-28
+date: 2026-07-30
 date_read: 2007-11-25
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/ramona-and-her-mother-ramona-quimby-5.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

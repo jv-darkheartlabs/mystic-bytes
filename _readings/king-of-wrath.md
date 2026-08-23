@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17652030.Ana_Huang"
 dek: "Kings of Sin — Book 1"
 number: R002
 sort_key: 002
-date: 2021-07-04
+date: 2026-01-01
 date_read: 2017-05-07
 category: arranged-marriage
 cover: /assets/readings/king-of-wrath.jpg

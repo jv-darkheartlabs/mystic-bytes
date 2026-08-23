@@ -5,9 +5,9 @@ author: "Richard  Bachman"
 dek: ""
 number: R1942
 sort_key: 1942
-date: 2026-05-18
+date: 2026-07-22
 date_read: 2007-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-running-man.jpg
 spice: 2
 content_warnings:

@@ -5,9 +5,9 @@ author: "Wes Ball"
 dek: ""
 number: R1986
 sort_key: 1986
-date: 2026-04-04
+date: 2026-07-24
 date_read: 2011-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-maze-runner-my-friend-george.jpg
 spice: 2
 content_warnings:

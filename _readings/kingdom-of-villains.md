@@ -5,7 +5,7 @@ author: "Ella Fields"
 dek: "Fate is a bloodthirsty beast"
 number: R1210
 sort_key: 1210
-date: 2025-07-04
+date: 2026-05-12
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/kingdom-of-villains.jpg

@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/7166900.Adam_Silvera"
 dek: ""
 number: R1475
 sort_key: 1475
-date: 2026-05-29
-date_read: 2026-11-25
+date: 2026-06-10
+date_read: 2026-08-23
 category: forbidden-love
 cover: /assets/readings/they-both-die-at-the-end.jpg
 spice: 1

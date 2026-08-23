@@ -5,11 +5,10 @@ author: "Jules Verne"
 dek: ""
 number: R1632
 sort_key: 1632
-date: 2026-05-28
+date: 2026-06-24
 date_read: 2007-06-10
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/around-the-world-in-eighty-days.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -5,9 +5,9 @@ author: "Tom Clancy"
 dek: "Jack Ryan Series"
 number: R1973
 sort_key: 1973
-date: 2026-04-17
+date: 2026-07-24
 date_read: 2008-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/patriot-games-jack-ryan-1.jpg
 spice: 2
 content_warnings:

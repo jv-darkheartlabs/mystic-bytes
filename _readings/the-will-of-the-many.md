@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8420197.James_Islington"
 dek: "Hierarchy — Book One"
 number: R584
 sort_key: 584
-date: 2023-05-29
+date: 2026-03-05
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/the-will-of-the-many.jpg

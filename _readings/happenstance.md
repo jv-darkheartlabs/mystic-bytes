@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: ""
 number: R852
 sort_key: 852
-date: 2024-04-24
+date: 2026-04-03
 date_read: 2015-09-19
 category: enemies-to-lovers
 cover: /assets/readings/happenstance.jpg

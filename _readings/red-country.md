@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/276660.Joe_Abercrombie"
 dek: ""
 number: R491
 sort_key: 491
-date: 2023-02-09
+date: 2026-02-23
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/red-country.jpg

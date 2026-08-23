@@ -4,7 +4,7 @@ title: "Sense and Sensibility"
 dek: "1995 Thompson/Lee adaptation of Austen's sisterhood novel."
 number: F0041
 sort_key: 41
-date: 2026-07-11
+date: 2026-08-12
 date_watched: 1995-12-13
 year: 1995
 poster: /assets/films/sense-and-sensibility-1995.jpg
@@ -25,7 +25,6 @@ category: period-drama
 format: feature-film
 fidelity: faithful
 mpaa_rating: "PG"
-spice: 1
 source_readings:
   - "sense-and-sensibility"
 imdb_url: "https://www.imdb.com/title/tt0114388/"
@@ -36,6 +35,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: canon
 ---
 
 ## Hook & thesis

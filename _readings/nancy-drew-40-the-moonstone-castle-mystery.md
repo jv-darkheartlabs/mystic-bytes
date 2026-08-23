@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #40"
 number: R2363
 sort_key: 2363
-date: 2026-04-08
+date: 2026-08-20
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-40-the-moonstone-castle-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

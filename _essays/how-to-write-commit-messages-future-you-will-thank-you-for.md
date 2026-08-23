@@ -10,9 +10,9 @@ read_time: 7
 tags: ['craft']
 type: micro
 brief:
-  system: mystic-bytes git history on essay and pipeline commits
-  issue: "wip" and "fixed stuff" on main; 2am blame with no constraint recorded
-  constraint: conventional prefixes plus a why-body; incomplete work stays on a branch
+  system: "mystic-bytes git history on essay and pipeline commits"
+  issue: '"wip" and "fixed stuff" on main; 2am blame with no constraint recorded'
+  constraint: "conventional prefixes plus a why-body; incomplete work stays on a branch"
 ---
 
 The diff shows what changed. The message is the only record of why.

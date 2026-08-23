@@ -5,7 +5,7 @@ author: "Diana Wynne Jones"
 dek: "Howl's Moving Castle, #1"
 number: R1664
 sort_key: 1664
-date: 2026-04-26
+date: 2026-06-27
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/howls-moving-castle-howls-moving-castle-1.jpg

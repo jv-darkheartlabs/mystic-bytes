@@ -5,7 +5,7 @@ author: "Cornelia Funke"
 dek: "Inkworld Series Book 3"
 number: R1635
 sort_key: 1635
-date: 2026-05-25
+date: 2026-06-24
 date_read: 2018-09-19
 category: gothic-horror-romance
 cover: /assets/readings/inkdeath-inkworld-3.jpg

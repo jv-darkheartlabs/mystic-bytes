@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228242.Kyla_Stone"
 dek: "Edge of Collapse Series — Book Two"
 number: R371
 sort_key: 371
-date: 2022-09-15
+date: 2026-02-09
 date_read: 2006-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/edge-of-madness.jpg
 spice: 2
 content_warnings:

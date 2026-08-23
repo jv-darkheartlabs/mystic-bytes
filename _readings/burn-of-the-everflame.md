@@ -5,7 +5,7 @@ author: "Penn Cole"
 dek: "The Kindred's Curse Saga, Book Four"
 number: R1155
 sort_key: 1155
-date: 2025-04-26
+date: 2026-05-06
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/burn-of-the-everflame.jpg

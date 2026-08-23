@@ -5,11 +5,10 @@ author: "Frances Hodgson Burnett"
 dek: ""
 number: R1617
 sort_key: 1617
-date: 2026-06-12
+date: 2026-06-22
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/the-secret-garden.jpg
-spice: 1
 content_warnings:
 tags:
   - classic

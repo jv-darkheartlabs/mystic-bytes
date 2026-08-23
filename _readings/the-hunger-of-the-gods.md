@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6449152.John_Gwynne"
 dek: ""
 number: R723
 sort_key: 723
-date: 2023-11-15
+date: 2026-03-20
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/the-hunger-of-the-gods.jpg

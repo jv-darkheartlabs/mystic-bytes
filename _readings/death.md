@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Laura_Thalassa"
 dek: ""
 number: R996
 sort_key: 996
-date: 2024-10-22
+date: 2026-04-19
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/death.jpg

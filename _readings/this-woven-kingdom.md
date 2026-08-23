@@ -5,7 +5,7 @@ author: "Tahereh Mafi"
 dek: ""
 number: R1454
 sort_key: 1454
-date: 2026-04-26
+date: 2026-06-07
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/this-woven-kingdom.jpg

@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #46"
 number: R2369
 sort_key: 2369
-date: 2026-04-02
+date: 2026-08-21
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-46-the-invisible-intruder.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

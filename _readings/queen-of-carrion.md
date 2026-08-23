@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Aiden_Pierce"
 dek: "Death Bound Duet: Book 2"
 number: R162
 sort_key: 162
-date: 2022-01-06
+date: 2026-01-18
 date_read: 2021-03-01
 category: gothic-horror-romance
 cover: /assets/readings/queen-of-carrion.jpg

@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7443.Lisa_Jewell"
 dek: "A Novel"
 number: R386
 sort_key: 386
-date: 2022-10-02
+date: 2026-02-11
 date_read: 2011-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/then-she-was-gone.jpg
 spice: 2
 content_warnings:

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
 dek: "#1 New York Times Bestselling Series"
 number: R1131
 sort_key: 1131
-date: 2025-04-01
+date: 2026-05-04
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/throne-of-glass.jpg

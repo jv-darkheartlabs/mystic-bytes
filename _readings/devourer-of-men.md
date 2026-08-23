@@ -5,7 +5,7 @@ author: "Nikki St. Crowe"
 dek: "A Captain Hook, Crocodile, & Wendy Darling Reimagining"
 number: R1121
 sort_key: 1121
-date: 2025-03-17
+date: 2026-05-03
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/devourer-of-men.jpg

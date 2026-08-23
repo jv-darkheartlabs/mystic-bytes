@@ -5,11 +5,10 @@ author: "Beverly Cleary"
 dek: "Ramona's adventures continue in this beloved series."
 number: R2128
 sort_key: 2128
-date: 2026-06-01
+date: 2026-07-30
 date_read: 2019-07-13
-category: gothic-horror-romance
+category: juvenile-fiction
 cover: /assets/readings/ramona-the-brave-ramona-3.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

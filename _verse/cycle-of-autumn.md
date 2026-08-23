@@ -4,7 +4,7 @@ title: "Cycle of Autumn"
 dek: "Beauty that includes the bare branch."
 number: V0520
 sort_key: 520
-date: 2027-02-02
+date: 2026-05-11
 date_written: 1993-10-22
 category: nature
 form: free-verse

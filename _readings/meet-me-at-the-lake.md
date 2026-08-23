@@ -5,7 +5,7 @@ author: "Carley Fortune"
 dek: "a novel"
 number: R734
 sort_key: 734
-date: 2023-11-30
+date: 2026-03-21
 date_read: 2017-08-16
 category: forbidden-love
 cover: /assets/readings/meet-me-at-the-lake.jpg

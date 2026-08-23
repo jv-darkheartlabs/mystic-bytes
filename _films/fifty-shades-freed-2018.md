@@ -4,7 +4,7 @@ title: "Fifty Shades Freed"
 dek: "2018 conclusion — marriage, menace, and closure."
 number: F0021
 sort_key: 21
-date: 2026-07-11
+date: 2026-04-23
 date_watched: 2018-02-09
 year: 2018
 poster: /assets/films/fifty-shades-freed-2018.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

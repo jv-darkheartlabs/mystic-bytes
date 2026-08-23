@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4340345.David_Estes"
 dek: ""
 number: R493
 sort_key: 493
-date: 2023-02-13
+date: 2026-02-23
 date_read: 2016-10-22
 category: fantasy-romance
 cover: /assets/readings/kingfall.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4824774.Tahereh_Mafi"
 dek: ""
 number: R937
 sort_key: 937
-date: 2024-08-08
+date: 2026-04-13
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/defy-me.jpg

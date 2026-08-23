@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/150038.Cassandra_Clare"
 dek: "The Mortal Instruments — Book One"
 number: R527
 sort_key: 527
-date: 2023-03-21
+date: 2026-02-27
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/city-of-bones.jpg

@@ -4,7 +4,7 @@ title: "The Shining"
 dek: "1980 Kubrick reimagining of Stephen King's haunted hotel novel."
 number: F0009
 sort_key: 9
-date: 2026-07-11
+date: 2026-02-15
 date_watched: 1980-05-23
 year: 1980
 poster: /assets/films/the-shining-1980.jpg
@@ -26,7 +26,6 @@ category: psychological-thriller
 format: feature-film
 fidelity: reimagining
 mpaa_rating: "R"
-spice: 2
 content_warnings:
   - "violence"
   - "psychological horror"
@@ -41,6 +40,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: genre
 ---
 
 ## Hook & thesis

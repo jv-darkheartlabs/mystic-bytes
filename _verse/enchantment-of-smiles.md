@@ -4,7 +4,7 @@ title: "Enchantment of Smiles"
 dek: "Joy offered without contract."
 number: V0327
 sort_key: 327
-date: 2026-11-09
+date: 2026-03-13
 date_written: 2016-06-30
 category: love
 form: free-verse

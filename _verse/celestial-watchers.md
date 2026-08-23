@@ -4,7 +4,7 @@ title: "Celestial Watchers"
 dek: "They do not intervene. They record."
 number: V0115
 sort_key: 115
-date: 2026-08-17
+date: 2026-01-15
 date_written: 2013-08-31
 category: spirituality
 form: free-verse

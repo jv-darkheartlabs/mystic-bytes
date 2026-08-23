@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/16154106.Sara_Cate"
 dek: "Sinful Manor"
 number: R1085
 sort_key: 1085
-date: 2025-02-03
+date: 2026-04-29
 date_read: 2020-08-16
 category: arranged-marriage
 cover: /assets/readings/keep-me.jpg

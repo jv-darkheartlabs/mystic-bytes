@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166897.Elle_Kennedy"
 dek: "Off-Campus — Book 4"
 number: R1360
 sort_key: 1360
-date: 2026-01-01
+date: 2026-05-28
 date_read: 2019-04-04
 category: enemies-to-lovers
 cover: /assets/readings/the-goal.jpg

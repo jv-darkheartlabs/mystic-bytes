@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "A Broke and Beautiful Novel"
 number: R871
 sort_key: 871
-date: 2024-05-17
+date: 2026-04-06
 date_read: 2022-10-22
 category: enemies-to-lovers
 cover: /assets/readings/need-me.jpg

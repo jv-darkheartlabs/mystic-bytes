@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20135134.Harley_Laroux"
 dek: "Souls Trilogy — Book Two"
 number: R308
 sort_key: 308
-date: 2022-06-28
+date: 2026-02-02
 date_read: 2023-05-07
 category: vampire-paranormal
 cover: /assets/readings/her-soul-for-revenge.jpg

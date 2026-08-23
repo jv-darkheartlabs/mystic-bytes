@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Elise_Kova"
 dek: ""
 number: R952
 sort_key: 952
-date: 2024-08-27
+date: 2026-04-14
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/duet-with-the-siren-duke.jpg

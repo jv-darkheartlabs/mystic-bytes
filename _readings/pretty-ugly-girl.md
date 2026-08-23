@@ -5,7 +5,7 @@ author: "Endley Tyler"
 dek: "A Dark College Bully Romance"
 number: R018
 sort_key: 018
-date: 2021-07-22
+date: 2026-01-03
 date_read: 2021-03-01
 category: bully-romance
 cover: /assets/readings/pretty-ugly-girl.jpg

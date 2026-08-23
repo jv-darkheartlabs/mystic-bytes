@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/22683935.Luna_Mason"
 dek: "Beneath the Mask Series"
 number: R1573
 sort_key: 1573
-date: 2026-05-05
+date: 2026-06-19
 date_read: 2016-10-22
 category: mafia-boss-and-innocent
 cover: /assets/readings/detone.jpg

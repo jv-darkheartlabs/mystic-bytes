@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #12"
 number: R2332
 sort_key: 2332
-date: 2026-05-09
+date: 2026-08-17
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-12-the-message-in-the-hollow-oak.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

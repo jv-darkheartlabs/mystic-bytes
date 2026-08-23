@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15162444.Helen_Scheuerer"
 dek: "The Legends of Thezmarr Book II"
 number: R1224
 sort_key: 1224
-date: 2025-07-24
+date: 2026-05-14
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/vows-ruins.jpg

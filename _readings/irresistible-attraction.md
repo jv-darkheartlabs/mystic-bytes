@@ -5,7 +5,7 @@ author: "W. Winters"
 dek: "A glance. A kiss. A touch. They'll change you forever."
 number: R828
 sort_key: 828
-date: 2024-03-24
+date: 2026-04-01
 date_read: 2015-03-01
 category: dark-billionaire
 cover: /assets/readings/irresistible-attraction.jpg

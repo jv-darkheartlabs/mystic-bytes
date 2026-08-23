@@ -5,7 +5,7 @@ author: "E.J. Mellow"
 dek: ""
 number: R1526
 sort_key: 1526
-date: 2026-06-21
+date: 2026-06-14
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/song-of-the-forever-rains.jpg

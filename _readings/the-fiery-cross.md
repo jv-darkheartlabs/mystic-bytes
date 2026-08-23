@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3618.Diana_Gabaldon"
 dek: ""
 number: R629
 sort_key: 629
-date: 2023-07-24
+date: 2026-03-10
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/the-fiery-cross.jpg

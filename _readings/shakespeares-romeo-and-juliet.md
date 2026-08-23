@@ -5,11 +5,10 @@ author: "Michael Rosen"
 dek: "A retelling of the timeless tale of love and loss."
 number: R1831
 sort_key: 1831
-date: 2026-05-29
+date: 2026-07-12
 date_read: 2022-07-13
-category: forbidden-love
+category: classic-literature
 cover: /assets/readings/shakespeares-romeo-and-juliet.jpg
-spice: 2
 content_warnings:
 tags:
   - forbiddenlove

@@ -5,7 +5,7 @@ author: "Kira Cole"
 dek: "Devoted In Darkness Series"
 number: R1535
 sort_key: 1535
-date: 2026-06-12
+date: 2026-06-15
 date_read: 2026-08-16
 category: gothic-horror-romance
 cover: /assets/readings/sweetly-unhinged-devoted-in-darkness-1.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4575289.Leigh_Bardugo"
 dek: ""
 number: R984
 sort_key: 984
-date: 2024-10-04
+date: 2026-04-18
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/ruin-and-rising.jpg

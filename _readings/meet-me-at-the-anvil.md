@@ -5,7 +5,7 @@ author: "Kate Prior"
 dek: ""
 number: R618
 sort_key: 618
-date: 2023-07-10
+date: 2026-03-09
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/meet-me-at-the-anvil.jpg

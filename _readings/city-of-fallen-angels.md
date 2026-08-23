@@ -5,8 +5,8 @@ author: "Cassandra Clare"
 dek: "The Mortal Instruments — Book Four"
 number: R539
 sort_key: 539
-date: 2023-04-06
-date_read: 2026-11-25
+date: 2026-02-28
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/city-of-fallen-angels.jpg
 spice: 2

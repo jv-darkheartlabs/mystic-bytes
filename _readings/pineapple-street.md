@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228255.Jenny_Jackson"
 dek: "A Novel"
 number: R733
 sort_key: 733
-date: 2023-11-29
+date: 2026-03-21
 date_read: 2016-07-13
 category: forbidden-love
 cover: /assets/readings/pineapple-street.jpg

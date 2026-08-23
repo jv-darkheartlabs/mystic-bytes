@@ -5,7 +5,7 @@ author: "Gaston Leroux"
 dek: "A haunting tale of love and obsession beneath the Paris Opera House."
 number: R1733
 sort_key: 1733
-date: 2026-05-27
+date: 2026-07-04
 date_read: 2020-08-16
 category: gothic-horror-romance
 cover: /assets/readings/the-phantom-of-the-opera.jpg

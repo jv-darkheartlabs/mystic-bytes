@@ -5,7 +5,7 @@ author: "Laura Wood"
 dek: "She wants three things. He isn't one of them."
 number: R472
 sort_key: 472
-date: 2023-01-12
+date: 2026-02-21
 date_read: 2019-07-13
 category: enemies-to-lovers
 cover: /assets/readings/under-your-spell.jpg

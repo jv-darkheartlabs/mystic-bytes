@@ -4,7 +4,7 @@ title: "Magic of a Wish"
 dek: "The second wish is always the honest one."
 number: V0128
 sort_key: 128
-date: 2026-08-30
+date: 2026-01-24
 date_written: 2011-01-23
 category: spirituality
 form: free-verse

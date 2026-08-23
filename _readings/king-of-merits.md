@@ -5,7 +5,7 @@ author: "Juno Heart"
 dek: ""
 number: R1464
 sort_key: 1464
-date: 2026-05-09
+date: 2026-06-09
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/king-of-merits.jpg

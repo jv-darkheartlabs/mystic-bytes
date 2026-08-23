@@ -4,7 +4,7 @@ title: "Love's Betrayal"
 dek: "Navigation without the fresh-start brochure."
 number: V0304
 sort_key: 304
-date: 2026-10-17
+date: 2026-02-25
 date_written: 2020-01-19
 category: love
 form: free-verse

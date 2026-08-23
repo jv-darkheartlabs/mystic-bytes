@@ -5,11 +5,10 @@ author: "John Steinbeck"
 dek: ""
 number: R1860
 sort_key: 1860
-date: 2026-04-30
+date: 2026-07-15
 date_read: 1996-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/east-of-eden.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "abuse"

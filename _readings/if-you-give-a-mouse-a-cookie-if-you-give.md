@@ -5,11 +5,10 @@ author: "Laura Joffe Numeroff"
 dek: "If You Give..."
 number: R1828
 sort_key: 1828
-date: 2026-06-01
+date: 2026-07-12
 date_read: 2019-04-04
-category: gothic-horror-romance
+category: juvenile-fiction
 cover: /assets/readings/if-you-give-a-mouse-a-cookie-if-you-give.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

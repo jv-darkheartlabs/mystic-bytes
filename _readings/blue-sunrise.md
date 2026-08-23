@@ -5,7 +5,7 @@ author: "Gregg R. Overman"
 dek: ""
 number: R600
 sort_key: 600
-date: 2023-06-20
+date: 2026-03-07
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/blue-sunrise.jpg

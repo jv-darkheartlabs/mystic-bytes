@@ -4,7 +4,7 @@ title: "Flame of Innovation"
 dek: "Creativity as breach — mold optional."
 number: V0910
 sort_key: 910
-date: 2034-05-05
+date: 2026-08-10
 date_written: 2016-12-13
 category: justice
 form: free-verse

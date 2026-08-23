@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "New York Times Bestselling Author"
 number: R1299
 sort_key: 1299
-date: 2025-10-23
+date: 2026-05-22
 date_read: 2018-06-10
 category: reverse-harem
 cover: /assets/readings/forever-theirs.jpg

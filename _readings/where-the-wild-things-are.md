@@ -5,11 +5,10 @@ author: "Maurice Sendak"
 dek: ""
 number: R1593
 sort_key: 1593
-date: 2026-07-06
+date: 2026-06-20
 date_read: 1987-06-15
 category: juvenile-fiction
 cover: /assets/readings/where-the-wild-things-are.jpg
-spice: 1
 content_warnings:
 tags:
   - children's literature

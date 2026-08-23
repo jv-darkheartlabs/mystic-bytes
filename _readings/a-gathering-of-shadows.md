@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166830.V_E_Schwab"
 dek: "Shades of Magic Book Two"
 number: R780
 sort_key: 780
-date: 2024-01-26
+date: 2026-03-26
 date_read: 2015-09-19
 category: gothic-horror-romance
 cover: /assets/readings/a-gathering-of-shadows.jpg

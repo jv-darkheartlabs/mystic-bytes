@@ -5,7 +5,7 @@ author: "Annie Wild"
 dek: "A Dark Captive Romance"
 number: R327
 sort_key: 327
-date: 2022-07-25
+date: 2026-02-04
 date_read: 2018-06-10
 category: captor-and-captive
 cover: /assets/readings/killing-emma.jpg

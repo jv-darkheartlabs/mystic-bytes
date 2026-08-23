@@ -5,7 +5,7 @@ author: "E.A. Winters"
 dek: "The Blood and Flame Saga"
 number: R324
 sort_key: 324
-date: 2022-07-19
+date: 2026-02-04
 date_read: 2015-03-01
 category: captor-and-captive
 cover: /assets/readings/broken-bonds.jpg

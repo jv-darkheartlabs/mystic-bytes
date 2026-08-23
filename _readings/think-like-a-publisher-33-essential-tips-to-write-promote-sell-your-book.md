@@ -5,9 +5,9 @@ author: "Randy Davila"
 dek: ""
 number: R1536
 sort_key: 1536
-date: 2026-06-11
+date: 2026-06-15
 date_read: 2011-09-19
-category: dark-thriller
+category: romantic-suspense
 shelf: false
 cover: /assets/readings/think-like-a-publisher-33-essential-tips-to-write-promote-sell-your-book.jpg
 spice: 1

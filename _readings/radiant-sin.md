@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Dark Olympus"
 number: R1401
 sort_key: 1401
-date: 2026-02-27
+date: 2026-06-02
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/radiant-sin.jpg

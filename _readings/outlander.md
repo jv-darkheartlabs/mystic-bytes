@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3618.Diana_Gabaldon"
 dek: "A Novel"
 number: R624
 sort_key: 624
-date: 2023-07-23
+date: 2026-03-09
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/outlander.jpg

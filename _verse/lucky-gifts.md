@@ -4,7 +4,7 @@ title: "Lucky Gifts"
 dek: "Grace counted without pretending the bill disappeared."
 number: V0136
 sort_key: 136
-date: 2026-09-07
+date: 2026-01-29
 date_written: 2000-05-20
 category: spirituality
 form: free-verse

@@ -5,7 +5,7 @@ author: "Emma Grey"
 dek: "Author of The Last Love Note"
 number: R1507
 sort_key: 1507
-date: 2026-07-05
+date: 2026-06-13
 date_read: 2022-07-13
 category: forbidden-love
 cover: /assets/readings/pictures-of-you.jpg

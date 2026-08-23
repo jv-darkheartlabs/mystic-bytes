@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18775167.Lexie_Axelson"
 dek: "Grim Reaper — A Dark Military Romance"
 number: R109
 sort_key: 109
-date: 2021-11-06
+date: 2026-01-12
 date_read: 2016-04-04
 category: dark-military-romance
 cover: /assets/readings/see-you-soon.jpg

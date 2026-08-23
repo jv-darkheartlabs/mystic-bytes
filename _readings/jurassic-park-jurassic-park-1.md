@@ -5,9 +5,9 @@ author: "Michael Crichton"
 dek: "Jurassic Park Series"
 number: R1557
 sort_key: 1557
-date: 2026-05-21
+date: 2026-06-17
 date_read: 2012-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/jurassic-park-jurassic-park-1.jpg
 spice: 1
 content_warnings:

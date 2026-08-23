@@ -4,7 +4,7 @@ title: "Flame of Desire"
 dek: "Heat that does not apologize for its invoice."
 number: V0313
 sort_key: 313
-date: 2026-10-26
+date: 2026-03-03
 date_written: 2018-05-18
 category: love
 form: free-verse

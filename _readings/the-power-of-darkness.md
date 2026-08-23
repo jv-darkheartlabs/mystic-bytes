@@ -5,7 +5,7 @@ author: "Elisa S. Amore"
 dek: "Book Three: Brokenhearted — Touched"
 number: R1490
 sort_key: 1490
-date: 2026-06-13
+date: 2026-06-11
 date_read: 2017-08-16
 category: gothic-horror-romance
 cover: /assets/readings/the-power-of-darkness.jpg

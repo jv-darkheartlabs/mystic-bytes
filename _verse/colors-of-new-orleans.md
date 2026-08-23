@@ -4,7 +4,7 @@ title: "Colors of New Orleans"
 dek: "Palette as civic argument."
 number: V0417
 sort_key: 417
-date: 2026-12-05
+date: 2026-03-31
 date_written: 2008-04-13
 category: nola
 form: open

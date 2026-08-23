@@ -5,7 +5,7 @@ author: "Kerri Maniscalco"
 dek: "Deception is the most wicked game of all"
 number: R559
 sort_key: 559
-date: 2023-04-30
+date: 2026-03-02
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/throne-of-the-fallen.jpg

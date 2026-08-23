@@ -5,9 +5,9 @@ author: "Jennifer Weiner"
 dek: "Cannie Shapiro's journey of self-discovery and love"
 number: R2175
 sort_key: 2175
-date: 2026-04-15
+date: 2026-08-04
 date_read: 2010-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/good-in-bed-cannie-shapiro-1.jpg
 spice: 2
 content_warnings:

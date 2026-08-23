@@ -5,8 +5,8 @@ author: "W. Winters"
 dek: ""
 number: R827
 sort_key: 827
-date: 2024-03-25
-date_read: 2026-11-25
+date: 2026-04-01
+date_read: 2026-08-23
 category: dark-billionaire
 cover: /assets/readings/not-my-heart-to-break.jpg
 spice: 5

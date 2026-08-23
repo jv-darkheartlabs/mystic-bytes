@@ -5,7 +5,7 @@ author: "Taylor Jenkins Reid"
 dek: "Not your average love story"
 number: R759
 sort_key: 759
-date: 2024-01-04
+date: 2026-03-24
 date_read: 2018-06-10
 category: forbidden-love
 cover: /assets/readings/forever-interrupted.jpg

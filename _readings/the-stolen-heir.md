@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25422.Holly_Black"
 dek: ""
 number: R980
 sort_key: 980
-date: 2024-09-28
+date: 2026-04-17
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/the-stolen-heir.jpg

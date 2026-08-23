@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228261.Glendy_Vanderah"
 dek: "A novel"
 number: R1471
 sort_key: 1471
-date: 2026-05-23
+date: 2026-06-09
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/where-the-forest-meets-the-stars.jpg

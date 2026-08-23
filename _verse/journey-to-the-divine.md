@@ -4,7 +4,7 @@ title: "Journey to the Divine"
 dek: "The last mile is always pedestrian."
 number: V0144
 sort_key: 144
-date: 2026-09-15
+date: 2026-02-04
 date_written: 2003-08-08
 category: spirituality
 form: free-verse

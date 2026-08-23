@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4476932.Jennifer_L_Armentrout
 dek: ""
 number: R1531
 sort_key: 1531
-date: 2026-06-16
+date: 2026-06-15
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/the-primal-of-blood-and-bone.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21435889.Lola_King"
 dek: "Stoneview Stories — Book One"
 number: R237
 sort_key: 237
-date: 2022-04-06
+date: 2026-01-26
 date_read: 2024-06-10
 category: stalker-obsession
 cover: /assets/readings/giving-in.jpg

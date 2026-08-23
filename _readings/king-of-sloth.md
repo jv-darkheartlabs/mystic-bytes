@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17652030.Ana_Huang"
 dek: "Kings of Sin — Book 4"
 number: R099
 sort_key: 099
-date: 2021-10-23
+date: 2026-01-12
 date_read: 2018-03-01
 category: dark-billionaire
 cover: /assets/readings/king-of-sloth.jpg

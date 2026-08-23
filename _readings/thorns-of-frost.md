@@ -5,7 +5,7 @@ author: "Krista Street"
 dek: "Of Snow & Ice — Book 2"
 number: R1469
 sort_key: 1469
-date: 2026-05-15
+date: 2026-06-09
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/thorns-of-frost.jpg

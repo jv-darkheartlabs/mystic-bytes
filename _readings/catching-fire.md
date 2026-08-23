@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/153394.Suzanne_Collins"
 dek: ""
 number: R838
 sort_key: 838
-date: 2024-04-07
+date: 2026-04-02
 date_read: 2013-04-04
-category: dark-thriller
+category: ya-fiction
 cover: /assets/readings/catching-fire.jpg
-spice: 2
 content_warnings:
   - "suspense"
   - "psychological intensity"

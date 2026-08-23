@@ -4,7 +4,7 @@ title: "Tale of Transformation"
 dek: "A coffee bean's New Orleans ambition, without the fairy tale."
 number: V0225
 sort_key: 225
-date: 2026-10-12
+date: 2026-02-22
 date_written: 2009-06-21
 category: grief-loss-resilience
 form: free-verse

@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #40"
 number: R2305
 sort_key: 2305
-date: 2026-06-05
+date: 2026-08-14
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-40-mystery-of-the-desert-giant.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

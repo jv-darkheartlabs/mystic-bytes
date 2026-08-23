@@ -5,7 +5,7 @@ author: "Melissa K. Roehrich"
 dek: "The Legacy Series"
 number: R300
 sort_key: 300
-date: 2022-06-19
+date: 2026-02-01
 date_read: 2015-06-10
 category: vampire-paranormal
 cover: /assets/readings/storm-of-secrets-and-sorrow.jpg

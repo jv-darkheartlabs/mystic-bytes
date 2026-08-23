@@ -5,11 +5,10 @@ author: "C.S. Lewis"
 dek: "Chronicles of Narnia Series"
 number: R2136
 sort_key: 2136
-date: 2026-05-24
+date: 2026-07-31
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/the-last-battle-chronicles-of-narnia-7.jpg
-spice: 1
 content_warnings:
 tags:
   - fantasy

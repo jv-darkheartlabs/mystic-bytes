@@ -5,11 +5,10 @@ author: "Bruce Coville"
 dek: "Shakespeare Retellings, #2"
 number: R1685
 sort_key: 1685
-date: 2026-04-05
+date: 2026-06-29
 date_read: 2020-05-07
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/william-shakespeares-a-midsummer-nights-dream-shakespeare-retellings-2.jpg
-spice: 2
 content_warnings:
 tags:
   - gothic

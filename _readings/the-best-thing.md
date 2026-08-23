@@ -5,7 +5,7 @@ author: "Mariana Zapata"
 dek: ""
 number: R850
 sort_key: 850
-date: 2024-04-26
+date: 2026-04-03
 date_read: 2025-07-13
 category: enemies-to-lovers
 cover: /assets/readings/the-best-thing.jpg

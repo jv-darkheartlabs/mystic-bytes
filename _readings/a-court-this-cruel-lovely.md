@@ -5,7 +5,7 @@ author: "Stacia Stark"
 dek: ""
 number: R989
 sort_key: 989
-date: 2024-10-07
+date: 2026-04-18
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/a-court-this-cruel-lovely.jpg

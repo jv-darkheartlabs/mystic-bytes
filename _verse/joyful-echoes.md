@@ -4,7 +4,7 @@ title: "Joyful Echoes"
 dek: "Smiles as civic currency."
 number: V0420
 sort_key: 420
-date: 2026-12-08
+date: 2026-04-02
 date_written: 2006-06-15
 category: nola
 form: open

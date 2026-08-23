@@ -5,7 +5,7 @@ author: "Kalila Smith"
 dek: "A collection of haunting tales set in the heart of New Orleans."
 number: R2054
 sort_key: 2054
-date: 2026-05-06
+date: 2026-07-27
 date_read: 2017-05-07
 category: gothic-horror-romance
 cover: /assets/readings/tales-from-the-french-quarter.jpg

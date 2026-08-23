@@ -5,11 +5,10 @@ author: "Ann Einerson"
 dek: "A small town romance"
 number: R1040
 sort_key: 1040
-date: 2024-12-11
+date: 2026-04-24
 date_read: 2023-08-16
-category: forbidden-love
+category: juvenile-fiction
 cover: /assets/readings/if-you-give-a-single-dad-a-nanny.jpg
-spice: 3
 content_warnings:
 tags:
   - forbiddenlove

@@ -5,7 +5,7 @@ author: "C.S. Lewis"
 dek: ""
 number: R2086
 sort_key: 2086
-date: 2026-04-04
+date: 2026-07-29
 date_read: 2025-10-22
 category: gothic-horror-romance
 cover: /assets/readings/the-screwtape-letters.jpg

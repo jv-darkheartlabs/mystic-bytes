@@ -5,7 +5,7 @@ author: "Nicholas Sparks"
 dek: "The timeless love story that transcends time and memory."
 number: R2244
 sort_key: 2244
-date: 2026-05-16
+date: 2026-08-07
 date_read: 2015-06-10
 category: forbidden-love
 cover: /assets/readings/the-notebook-the-notebook-1.jpg

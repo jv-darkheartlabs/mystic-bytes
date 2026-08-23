@@ -5,8 +5,8 @@ author: "Judith Keim"
 dek: ""
 number: R611
 sort_key: 611
-date: 2023-07-05
-date_read: 2026-11-25
+date: 2026-03-08
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/breakfast-at-the-beach-house-hotel.jpg
 spice: 2

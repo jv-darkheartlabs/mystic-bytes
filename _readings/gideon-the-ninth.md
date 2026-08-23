@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6877923.Tamsyn_Muir"
 dek: ""
 number: R654
 sort_key: 654
-date: 2023-08-29
+date: 2026-03-13
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/gideon-the-ninth.jpg

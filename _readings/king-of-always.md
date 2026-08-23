@@ -5,7 +5,7 @@ author: "Juno Heart"
 dek: ""
 number: R1458
 sort_key: 1458
-date: 2026-05-05
+date: 2026-06-08
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/king-of-always.jpg

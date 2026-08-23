@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166899.Emily_Henry"
 dek: "A Novel"
 number: R454
 sort_key: 454
-date: 2022-12-20
+date: 2026-02-19
 date_read: 2025-07-13
 category: enemies-to-lovers
 cover: /assets/readings/happy-place.jpg

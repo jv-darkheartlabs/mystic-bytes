@@ -5,7 +5,7 @@ author: "Chris Van Allsburg"
 dek: ""
 number: R1816
 sort_key: 1816
-date: 2026-06-13
+date: 2026-07-10
 date_read: 2019-10-22
 category: gothic-horror-romance
 cover: /assets/readings/the-polar-express.jpg

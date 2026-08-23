@@ -5,7 +5,7 @@ author: "Rick Riordan"
 dek: "Percy Jackson and the Olympians, #1"
 number: R2163
 sort_key: 2163
-date: 2026-04-27
+date: 2026-08-03
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/the-lightning-thief-percy-jackson-and-the-olympians-1.jpg

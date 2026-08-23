@@ -5,7 +5,7 @@ author: "Roshani Chokshi"
 dek: "In love they breathed. In destiny they believed. In the end, would eternity be their defeat?"
 number: R563
 sort_key: 563
-date: 2023-05-10
+date: 2026-03-03
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/the-bronzed-beasts.jpg

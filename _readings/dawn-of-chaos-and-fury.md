@@ -5,7 +5,7 @@ author: "Melissa K. Roehrich"
 dek: "The Legacy Series"
 number: R298
 sort_key: 298
-date: 2022-06-17
+date: 2026-02-01
 date_read: 2025-04-04
 category: vampire-paranormal
 cover: /assets/readings/dawn-of-chaos-and-fury.jpg

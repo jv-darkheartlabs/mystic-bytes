@@ -5,9 +5,9 @@ author: "Mary Kubica"
 dek: ""
 number: R1787
 sort_key: 1787
-date: 2026-04-03
+date: 2026-07-08
 date_read: 2012-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/local-woman-missing.jpg
 spice: 2
 content_warnings:

@@ -5,7 +5,7 @@ author: "Gigi Styx"
 dek: ""
 number: R1105
 sort_key: 1105
-date: 2025-02-28
+date: 2026-05-01
 date_read: 2016-10-22
 category: captor-and-captive
 cover: /assets/readings/snaring-emberly.jpg

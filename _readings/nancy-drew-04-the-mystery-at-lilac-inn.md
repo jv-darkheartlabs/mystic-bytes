@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #4"
 number: R2362
 sort_key: 2362
-date: 2026-04-09
+date: 2026-08-20
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-04-the-mystery-at-lilac-inn.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

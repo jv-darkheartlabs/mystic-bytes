@@ -5,7 +5,7 @@ author: "Annie Wild"
 dek: "A Dark Romance"
 number: R817
 sort_key: 817
-date: 2024-03-15
+date: 2026-03-31
 date_read: 2016-10-22
 category: stalker-obsession
 cover: /assets/readings/no-control.jpg

@@ -5,11 +5,10 @@ author: "Beverly Cleary"
 dek: "Part of the beloved Ramona series"
 number: R2129
 sort_key: 2129
-date: 2026-05-31
+date: 2026-07-30
 date_read: 2014-08-16
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/ramona-forever-ramona-7.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

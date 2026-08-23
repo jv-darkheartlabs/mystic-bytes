@@ -5,7 +5,7 @@ author: "Melanie Moreland"
 dek: ""
 number: R826
 sort_key: 826
-date: 2024-03-20
+date: 2026-04-01
 date_read: 2025-10-22
 category: captor-and-captive
 cover: /assets/readings/my-favorite-kidnapper.jpg

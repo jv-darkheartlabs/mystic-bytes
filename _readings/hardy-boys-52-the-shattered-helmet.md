@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #52"
 number: R2318
 sort_key: 2318
-date: 2026-05-23
+date: 2026-08-15
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-52-the-shattered-helmet.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

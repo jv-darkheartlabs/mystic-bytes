@@ -4,7 +4,7 @@ title: "Marvel of Wonder"
 dek: "Awe as homework for the eyes."
 number: V0601
 sort_key: 601
-date: 2027-02-22
+date: 2026-05-24
 date_written: 1989-03-04
 category: curiosity
 form: free-verse

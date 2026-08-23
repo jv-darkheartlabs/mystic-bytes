@@ -5,7 +5,7 @@ author: "Howard Shore"
 dek: "Music from the Motion Picture Score"
 number: R1989
 sort_key: 1989
-date: 2026-04-01
+date: 2026-07-24
 date_read: 2024-03-01
 category: vampire-paranormal
 cover: /assets/readings/the-twilight-saga-eclipse-music-from-the-motion-picture-score-easy-piano.jpg

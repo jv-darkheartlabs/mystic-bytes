@@ -5,7 +5,7 @@ author: "Frankie Diane Mallis"
 dek: ""
 number: R1428
 sort_key: 1428
-date: 2026-03-31
+date: 2026-06-05
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/lady-of-the-drowned-empire.jpg

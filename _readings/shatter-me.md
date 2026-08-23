@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4824774.Tahereh_Mafi"
 dek: ""
 number: R949
 sort_key: 949
-date: 2024-08-22
+date: 2026-04-14
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/shatter-me.jpg

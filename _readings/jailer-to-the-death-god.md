@@ -5,8 +5,8 @@ author: "Rebecca F. Kenney"
 dek: ""
 number: R1007
 sort_key: 1007
-date: 2024-10-28
-date_read: 2026-11-25
+date: 2026-04-20
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/jailer-to-the-death-god.jpg
 spice: 4

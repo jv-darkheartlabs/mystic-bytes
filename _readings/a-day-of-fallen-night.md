@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5830526.Samantha_Shannon"
 dek: "The Roots of Chaos"
 number: R571
 sort_key: 571
-date: 2023-05-16
+date: 2026-03-03
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/a-day-of-fallen-night.jpg

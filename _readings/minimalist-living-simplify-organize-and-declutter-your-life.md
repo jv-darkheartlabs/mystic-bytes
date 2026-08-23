@@ -5,9 +5,9 @@ author: "Joshua Michaels"
 dek: ""
 number: R2053
 sort_key: 2053
-date: 2026-05-07
+date: 2026-07-27
 date_read: 2008-04-04
-category: dark-thriller
+category: romantic-suspense
 shelf: false
 cover: /assets/readings/minimalist-living-simplify-organize-and-declutter-your-life.jpg
 spice: 1

@@ -4,7 +4,7 @@ title: "Virtue of Devotion"
 dek: "Devotion is repetition, not romance."
 number: V0118
 sort_key: 118
-date: 2026-08-20
+date: 2026-01-17
 date_written: 2001-06-08
 category: spirituality
 form: free-verse

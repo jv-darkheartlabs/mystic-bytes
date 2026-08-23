@@ -5,7 +5,7 @@ author: "Tate James"
 dek: "Devil's Backbone — Chapter 2"
 number: R228
 sort_key: 228
-date: 2022-03-25
+date: 2026-01-25
 date_read: 2015-06-10
 category: stalker-obsession
 cover: /assets/readings/watch-your-back.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Traci_Lovelot"
 dek: "Our Fae Queen — Book 1"
 number: R523
 sort_key: 523
-date: 2023-03-21
+date: 2026-02-26
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/the-lost-queen.jpg

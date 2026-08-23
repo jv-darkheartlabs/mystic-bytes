@@ -5,9 +5,9 @@ author: "Sid Fleischman"
 dek: ""
 number: R1704
 sort_key: 1704
-date: 2026-06-25
+date: 2026-07-01
 date_read: 2009-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-whipping-boy.jpg
 spice: 1
 content_warnings:

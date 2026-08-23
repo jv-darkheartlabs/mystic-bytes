@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4824774.Tahereh_Mafi"
 dek: ""
 number: R933
 sort_key: 933
-date: 2024-07-30
+date: 2026-04-12
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/restore-me.jpg

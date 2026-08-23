@@ -5,11 +5,10 @@ author: "Robert Louis Stevenson"
 dek: ""
 number: R1917
 sort_key: 1917
-date: 2026-06-12
+date: 2026-07-19
 date_read: 1996-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/treasure-island.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

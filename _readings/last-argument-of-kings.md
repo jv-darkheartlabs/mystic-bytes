@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/276660.Joe_Abercrombie"
 dek: ""
 number: R679
 sort_key: 679
-date: 2023-09-25
+date: 2026-03-15
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/last-argument-of-kings.jpg

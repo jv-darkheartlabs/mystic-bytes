@@ -4,7 +4,7 @@ title: "Timeless Connection"
 dek: "Friendship that outlasts the romance plot."
 number: V0335
 sort_key: 335
-date: 2026-11-17
+date: 2026-03-19
 date_written: 2019-05-06
 category: love
 form: free-verse

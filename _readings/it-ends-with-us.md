@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: ""
 number: R1477
 sort_key: 1477
-date: 2026-05-27
+date: 2026-06-10
 date_read: 2016-04-04
 category: forbidden-love
 cover: /assets/readings/it-ends-with-us.jpg

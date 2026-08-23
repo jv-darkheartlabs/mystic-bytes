@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7244758.Freida_McFadden"
 dek: "A Satirical Novella"
 number: R389
 sort_key: 389
-date: 2022-10-07
+date: 2026-02-11
 date_read: 2014-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-widows-husbands-secret-lie.jpg
 spice: 2
 content_warnings:

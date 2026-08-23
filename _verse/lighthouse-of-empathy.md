@@ -4,7 +4,7 @@ title: "Lighthouse of Empathy"
 dek: "Signal for others. Smoke for you."
 number: V0129
 sort_key: 129
-date: 2026-08-31
+date: 2026-01-25
 date_written: 2002-04-06
 category: spirituality
 form: free-verse

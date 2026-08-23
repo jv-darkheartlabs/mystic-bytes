@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/17294851.Stuart_Turton"
 dek: "A Novel"
 number: R424
 sort_key: 424
-date: 2022-11-16
+date: 2026-02-15
 date_read: 2009-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-last-murder-at-the-end-of-the-world.jpg
 spice: 2
 content_warnings:

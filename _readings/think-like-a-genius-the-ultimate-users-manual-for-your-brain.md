@@ -5,9 +5,9 @@ author: "Todd Siler"
 dek: "N/A"
 number: R2058
 sort_key: 2058
-date: 2026-05-02
+date: 2026-07-27
 date_read: 2013-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/think-like-a-genius-the-ultimate-users-manual-for-your-brain.jpg
 spice: 1
 content_warnings:

@@ -4,7 +4,7 @@ title: "Moral Code"
 dek: "Rules you keep when nobody is grading."
 number: V0131
 sort_key: 131
-date: 2026-09-02
+date: 2026-01-26
 date_written: 2001-01-28
 category: spirituality
 form: free-verse

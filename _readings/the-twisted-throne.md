@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7136069.Danielle_L_Jensen"
 dek: "The Bridge Kingdom Book 2"
 number: R1247
 sort_key: 1247
-date: 2025-08-21
+date: 2026-05-16
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/the-twisted-throne.jpg

@@ -4,7 +4,7 @@ title: "Divergent"
 dek: "2014 YA dystopia — factions, fear, and Tris."
 number: F0022
 sort_key: 22
-date: 2026-07-11
+date: 2026-04-28
 date_watched: 2014-03-21
 year: 2014
 poster: /assets/films/divergent-2014.jpg
@@ -27,7 +27,6 @@ category: dystopian
 format: feature-film
 fidelity: loose
 mpaa_rating: "PG-13"
-spice: 2
 content_warnings:
   - "violence"
   - "death"
@@ -41,6 +40,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: juvenile
 ---
 
 ## Hook & thesis

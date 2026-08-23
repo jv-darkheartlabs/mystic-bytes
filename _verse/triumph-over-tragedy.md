@@ -4,7 +4,7 @@ title: "Triumph Over Tragedy"
 dek: "The word triumph arrives early and leaves a scar unpaid."
 number: V0201
 sort_key: 201
-date: 2026-09-18
+date: 2026-02-06
 date_written: 1998-05-12
 category: grief-loss-resilience
 form: free-verse

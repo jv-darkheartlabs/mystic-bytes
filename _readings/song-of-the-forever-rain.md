@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8123794.E_J_Mellow"
 dek: ""
 number: R957
 sort_key: 957
-date: 2024-08-30
+date: 2026-04-15
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/song-of-the-forever-rain.jpg

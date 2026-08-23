@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18222702.Catherine_Cowles"
 dek: "The Wrecked Series"
 number: R764
 sort_key: 764
-date: 2024-01-05
+date: 2026-03-25
 date_read: 2023-11-25
 category: forbidden-love
 cover: /assets/readings/perfect-wreckage.jpg

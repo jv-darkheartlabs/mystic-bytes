@@ -5,7 +5,7 @@ author: "Christina Lauren"
 dek: ""
 number: R864
 sort_key: 864
-date: 2024-05-13
+date: 2026-04-05
 date_read: 2015-03-01
 category: enemies-to-lovers
 cover: /assets/readings/something-wilder.jpg

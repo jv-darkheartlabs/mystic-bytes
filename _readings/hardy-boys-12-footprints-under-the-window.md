@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #12"
 number: R2274
 sort_key: 2274
-date: 2026-07-06
+date: 2026-08-10
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-12-footprints-under-the-window.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

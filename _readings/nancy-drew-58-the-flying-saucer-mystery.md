@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #58"
 number: R2386
 sort_key: 2386
-date: 2026-07-08
+date: 2026-08-23
 date_read: 1994-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-58-the-flying-saucer-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

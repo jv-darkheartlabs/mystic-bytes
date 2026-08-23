@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21230708.Olivie_Blake"
 dek: "Destiny is a choice"
 number: R579
 sort_key: 579
-date: 2023-05-28
+date: 2026-03-04
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/the-atlas-paradox.jpg

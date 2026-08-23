@@ -4,7 +4,7 @@ title: "Journey Through Endless Possibilities"
 dek: "Imagination as workshop, not escape hatch."
 number: V0804
 sort_key: 804
-date: 2027-05-20
+date: 2026-06-13
 date_written: 2010-12-10
 category: life
 form: free-verse

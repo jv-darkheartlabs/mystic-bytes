@@ -5,7 +5,7 @@ author: "Devney Perry"
 dek: "Tin Gypsy Series"
 number: R1292
 sort_key: 1292
-date: 2025-10-11
+date: 2026-05-21
 date_read: 2023-08-16
 category: motorcycle-club
 cover: /assets/readings/riven-knight.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6524620.Pierce_Brown"
 dek: "Red Rising Saga Book Six"
 number: R709
 sort_key: 709
-date: 2023-10-31
+date: 2026-03-19
 date_read: 2016-10-22
 category: fantasy-romance
 cover: /assets/readings/light-bringer.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17614050.Raven_Kennedy"
 dek: "The Plated Prisoner Series"
 number: R1153
 sort_key: 1153
-date: 2025-04-25
+date: 2026-05-06
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/glow.jpg

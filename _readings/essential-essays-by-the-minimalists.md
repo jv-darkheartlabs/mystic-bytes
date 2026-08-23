@@ -5,9 +5,9 @@ author: "Joshua Fields Millburn"
 dek: ""
 number: R2055
 sort_key: 2055
-date: 2026-05-05
+date: 2026-07-27
 date_read: 2010-06-10
-category: dark-thriller
+category: romantic-suspense
 shelf: false
 cover: /assets/readings/essential-essays-by-the-minimalists.jpg
 spice: 1

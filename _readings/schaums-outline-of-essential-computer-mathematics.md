@@ -5,9 +5,9 @@ author: "Seymour Lipschutz"
 dek: ""
 number: R2045
 sort_key: 2045
-date: 2026-05-15
+date: 2026-07-26
 date_read: 2010-05-07
-category: dark-thriller
+category: romantic-suspense
 shelf: false
 cover: /assets/readings/schaums-outline-of-essential-computer-mathematics.jpg
 spice: 1

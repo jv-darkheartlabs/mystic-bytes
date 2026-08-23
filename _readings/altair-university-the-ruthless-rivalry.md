@@ -5,7 +5,7 @@ author: "Amber Vant"
 dek: "The Ruthless Rivalry"
 number: R1510
 sort_key: 1510
-date: 2026-07-07
+date: 2026-06-14
 date_read: 2025-10-22
 category: bully-romance
 cover: /assets/readings/altair-university-the-ruthless-rivalry.jpg

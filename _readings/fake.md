@@ -5,7 +5,7 @@ author: "Tate James"
 dek: "Madison Kate #3"
 number: R1318
 sort_key: 1318
-date: 2025-11-12
+date: 2026-05-23
 date_read: 2025-07-13
 category: stalker-obsession
 cover: /assets/readings/fake.jpg

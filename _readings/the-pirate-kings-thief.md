@@ -5,7 +5,7 @@ author: "Alisha Klapheke"
 dek: ""
 number: R982
 sort_key: 982
-date: 2024-10-03
+date: 2026-04-18
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/the-pirate-kings-thief.jpg

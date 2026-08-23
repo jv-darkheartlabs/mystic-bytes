@@ -5,9 +5,9 @@ author: "N.H. Kleinbaum"
 dek: "A poignant exploration of the pressures of conformity and the beauty of self-expression."
 number: R1869
 sort_key: 1869
-date: 2026-04-21
+date: 2026-07-16
 date_read: 2014-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/dead-poets-society.jpg
 spice: 2
 content_warnings:

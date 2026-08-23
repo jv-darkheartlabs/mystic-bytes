@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4476932.Jennifer_L_Armentrout
 dek: ""
 number: R1165
 sort_key: 1165
-date: 2025-05-12
+date: 2026-05-07
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/a-kingdom-of-flesh-and-fire.jpg

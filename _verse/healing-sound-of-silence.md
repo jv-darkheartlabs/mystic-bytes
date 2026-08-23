@@ -4,7 +4,7 @@ title: "Healing Sound of Silence"
 dek: "What the ear learns when the noise stops lying."
 number: V0108
 sort_key: 108
-date: 2026-08-10
+date: 2026-01-10
 date_written: 2003-05-21
 category: spirituality
 form: free-verse

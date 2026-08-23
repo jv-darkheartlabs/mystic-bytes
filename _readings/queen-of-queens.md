@@ -5,7 +5,7 @@ author: "Traci Lovelot"
 dek: "Our Fae Queen — Book 5"
 number: R541
 sort_key: 541
-date: 2023-04-09
+date: 2026-02-28
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/queen-of-queens.jpg

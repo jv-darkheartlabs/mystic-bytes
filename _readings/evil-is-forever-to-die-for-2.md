@@ -5,9 +5,9 @@ author: "Trilina Pucci"
 dek: "To Die For Series"
 number: R1569
 sort_key: 1569
-date: 2026-05-09
+date: 2026-06-19
 date_read: 2014-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/evil-is-forever-to-die-for-2.jpg
 spice: 4
 content_warnings:

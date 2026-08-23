@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228246.Lynn_Painter"
 dek: ""
 number: R1385
 sort_key: 1385
-date: 2026-02-06
+date: 2026-05-31
 date_read: 2020-11-25
 category: enemies-to-lovers
 cover: /assets/readings/happily-never-after.jpg

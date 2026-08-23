@@ -4,7 +4,7 @@ title: "Whispers of Temptation"
 dek: "Forbidden is a pricing strategy."
 number: V0307
 sort_key: 307
-date: 2026-10-20
+date: 2026-02-27
 date_written: 2019-10-31
 category: love
 form: free-verse

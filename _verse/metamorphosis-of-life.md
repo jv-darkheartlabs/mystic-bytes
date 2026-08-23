@@ -4,7 +4,7 @@ title: "Metamorphosis of Life"
 dek: "Life-change as shed skin — again, life-wide."
 number: V0858
 sort_key: 858
-date: 2031-11-29
+date: 2026-07-20
 date_written: 2013-11-10
 category: life
 form: free-verse

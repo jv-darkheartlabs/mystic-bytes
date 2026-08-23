@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book Three of the Rain Wild Chronicles"
 number: R547
 sort_key: 547
-date: 2023-04-21
+date: 2026-03-01
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/city-of-dragons.jpg

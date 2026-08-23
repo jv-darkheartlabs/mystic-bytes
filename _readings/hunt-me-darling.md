@@ -5,7 +5,7 @@ author: "Maree Rose"
 dek: ""
 number: R216
 sort_key: 216
-date: 2022-03-15
+date: 2026-01-24
 date_read: 2015-03-01
 category: stalker-obsession
 cover: /assets/readings/hunt-me-darling.jpg

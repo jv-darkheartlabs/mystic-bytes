@@ -4,7 +4,7 @@ title: "Cosmic Odyssey"
 dek: "Odyssey as long question."
 number: V0614
 sort_key: 614
-date: 2027-03-07
+date: 2026-06-02
 date_written: 1990-12-01
 category: curiosity
 form: free-verse

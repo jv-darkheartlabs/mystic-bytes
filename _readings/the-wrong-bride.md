@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228254.Catharina_Maura"
 dek: ""
 number: R1330
 sort_key: 1330
-date: 2025-11-24
+date: 2026-05-25
 date_read: 2025-10-22
 category: arranged-marriage
 cover: /assets/readings/the-wrong-bride.jpg

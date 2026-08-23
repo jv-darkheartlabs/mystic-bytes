@@ -5,7 +5,7 @@ author: "Ava Reid"
 dek: ""
 number: R1047
 sort_key: 1047
-date: 2024-12-16
+date: 2026-04-25
 date_read: 2018-06-10
 category: gothic-horror-romance
 cover: /assets/readings/a-study-in-drowning.jpg

@@ -4,7 +4,7 @@ title: "Serendipitous Journey"
 dek: "Happy accident — hands still on the wheel."
 number: V0868
 sort_key: 868
-date: 2032-09-11
+date: 2026-07-27
 date_written: 2010-04-20
 category: life
 form: free-verse

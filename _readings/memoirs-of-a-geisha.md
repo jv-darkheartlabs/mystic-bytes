@@ -5,11 +5,10 @@ author: "Arthur Golden"
 dek: ""
 number: R1562
 sort_key: 1562
-date: 2026-05-16
+date: 2026-06-18
 date_read: 1997-05-15
-category: classic-literature
+category: literary-fiction
 cover: /assets/readings/memoirs-of-a-geisha.jpg
-spice: 2
 content_warnings:
   - "cultural appropriation"
   - "sexual content"

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5177122.Amy_Harmon"
 dek: "a novel"
 number: R337
 sort_key: 337
-date: 2022-07-30
+date: 2026-02-06
 date_read: 2016-07-13
 category: dark-cowboy-romance
 cover: /assets/readings/where-the-lost-wander.jpg

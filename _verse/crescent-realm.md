@@ -4,7 +4,7 @@ title: "Crescent Realm"
 dek: "Adventure as city dare."
 number: V0432
 sort_key: 432
-date: 2026-12-20
+date: 2026-04-10
 date_written: 2009-05-23
 category: nola
 form: open

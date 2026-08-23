@@ -5,9 +5,9 @@ author: "Joseph Sugarman"
 dek: ""
 number: R1656
 sort_key: 1656
-date: 2026-05-04
+date: 2026-06-27
 date_read: 2011-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-adweek-copywriting-handbook-the-ultimate-guide-to-writing-powerful-advertisi.jpg
 spice: 1
 content_warnings:

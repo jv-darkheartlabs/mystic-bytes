@@ -4,7 +4,7 @@ title: "Voyage of Discovery"
 dek: "Ship as question with sails."
 number: V0612
 sort_key: 612
-date: 2027-03-05
+date: 2026-06-01
 date_written: 1991-04-14
 category: curiosity
 form: open

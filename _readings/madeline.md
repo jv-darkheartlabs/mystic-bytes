@@ -5,11 +5,10 @@ author: "Ludwig Bemelmans"
 dek: ""
 number: R1814
 sort_key: 1814
-date: 2026-06-15
+date: 2026-07-10
 date_read: 2017-08-16
-category: gothic-horror-romance
+category: juvenile-fiction
 cover: /assets/readings/madeline.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

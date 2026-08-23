@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Twisted Hearts Novella"
 number: R1297
 sort_key: 1297
-date: 2025-10-19
+date: 2026-05-21
 date_read: 2016-04-04
 category: reverse-harem
 cover: /assets/readings/theirs-for-the-night.jpg

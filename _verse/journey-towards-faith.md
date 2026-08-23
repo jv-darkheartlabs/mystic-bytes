@@ -4,7 +4,7 @@ title: "Journey Towards Faith"
 dek: "Faith as walking, not arrival."
 number: V0130
 sort_key: 130
-date: 2026-09-01
+date: 2026-01-25
 date_written: 2003-02-19
 category: spirituality
 form: free-verse

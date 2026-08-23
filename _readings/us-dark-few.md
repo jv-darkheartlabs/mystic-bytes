@@ -5,9 +5,9 @@ author: "Alexis Patton"
 dek: ""
 number: R842
 sort_key: 842
-date: 2024-04-12
+date: 2026-04-02
 date_read: 2007-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/us-dark-few.jpg
 spice: 4
 content_warnings:

@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #61"
 number: R2389
 sort_key: 2389
-date: 2026-07-05
+date: 2026-08-23
 date_read: 1994-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-61-the-swamis-ring.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

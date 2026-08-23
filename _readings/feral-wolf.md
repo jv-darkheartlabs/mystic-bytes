@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1170
 sort_key: 1170
-date: 2025-05-17
+date: 2026-05-08
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/feral-wolf.jpg

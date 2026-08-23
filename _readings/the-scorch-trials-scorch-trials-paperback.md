@@ -5,11 +5,10 @@ author: "James Dashner"
 dek: "The Maze Runner Series"
 number: R1627
 sort_key: 1627
-date: 2026-06-02
+date: 2026-06-23
 date_read: 2012-10-22
-category: dark-thriller
+category: ya-fiction
 cover: /assets/readings/the-scorch-trials-scorch-trials-paperback.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

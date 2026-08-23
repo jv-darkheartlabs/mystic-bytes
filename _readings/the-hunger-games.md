@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/153394.Suzanne_Collins"
 dek: ""
 number: R837
 sort_key: 837
-date: 2024-04-03
+date: 2026-04-02
 date_read: 2012-04-01
-category: dark-thriller
+category: ya-fiction
 cover: /assets/readings/the-hunger-games.jpg
-spice: 2
 content_warnings:
   - "suspense"
   - "psychological intensity"

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8349.Christopher_Paolini"
 dek: ""
 number: R573
 sort_key: 573
-date: 2023-05-16
+date: 2026-03-04
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/to-sleep-in-a-sea-of-stars.jpg

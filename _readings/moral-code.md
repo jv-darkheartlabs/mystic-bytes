@@ -5,7 +5,7 @@ author: "Lois & Ross Melbourne"
 dek: ""
 number: R595
 sort_key: 595
-date: 2023-06-16
+date: 2026-03-06
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/moral-code.jpg

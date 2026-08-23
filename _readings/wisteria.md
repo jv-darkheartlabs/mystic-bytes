@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19684385.Adalyn_Grace"
 dek: "#1 New York Times Bestselling Author of the Belladonna Series"
 number: R525
 sort_key: 525
-date: 2023-03-21
+date: 2026-02-26
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/wisteria.jpg

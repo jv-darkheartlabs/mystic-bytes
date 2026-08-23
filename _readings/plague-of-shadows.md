@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228367.Michael_Wisehart"
 dek: "The Aldoran Chronicles — Book Two"
 number: R576
 sort_key: 576
-date: 2023-05-26
+date: 2026-03-04
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/plague-of-shadows.jpg

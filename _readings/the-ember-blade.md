@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/26023.Chris_Wooding"
 dek: ""
 number: R521
 sort_key: 521
-date: 2023-03-17
+date: 2026-02-26
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/the-ember-blade.jpg

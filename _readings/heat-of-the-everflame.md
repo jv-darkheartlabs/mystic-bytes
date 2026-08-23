@@ -5,7 +5,7 @@ author: "Penn Cole"
 dek: "The Kindred's Curse Saga, Book Three"
 number: R1156
 sort_key: 1156
-date: 2025-04-28
+date: 2026-05-06
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/heat-of-the-everflame.jpg

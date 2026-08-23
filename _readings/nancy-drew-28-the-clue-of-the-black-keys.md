@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #28"
 number: R2349
 sort_key: 2349
-date: 2026-04-22
+date: 2026-08-18
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-28-the-clue-of-the-black-keys.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

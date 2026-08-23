@@ -4,7 +4,7 @@ title: "Embers of Passion"
 dek: "Desire in New Orleans knows fire is both hearth and arson."
 number: V0303
 sort_key: 303
-date: 2026-10-16
+date: 2026-02-25
 date_written: 2017-09-21
 category: love
 form: free-verse

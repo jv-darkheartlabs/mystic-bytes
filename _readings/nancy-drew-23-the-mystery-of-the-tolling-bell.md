@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #23"
 number: R2344
 sort_key: 2344
-date: 2026-04-27
+date: 2026-08-18
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-23-the-mystery-of-the-tolling-bell.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

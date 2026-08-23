@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3618.Diana_Gabaldon"
 dek: ""
 number: R617
 sort_key: 617
-date: 2023-07-10
+date: 2026-03-09
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/a-breath-of-snow-and-ashes.jpg

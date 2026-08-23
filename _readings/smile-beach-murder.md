@@ -5,9 +5,9 @@ author: "Alicia Bessette"
 dek: "An Outer Banks Bookshop Mystery"
 number: R398
 sort_key: 398
-date: 2022-10-17
+date: 2026-02-12
 date_read: 2013-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/smile-beach-murder.jpg
 spice: 1
 content_warnings:

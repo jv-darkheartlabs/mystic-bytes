@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8347.Garth_Nix"
 dek: ""
 number: R496
 sort_key: 496
-date: 2023-02-13
+date: 2026-02-23
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/sabriel.jpg

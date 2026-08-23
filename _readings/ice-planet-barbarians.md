@@ -5,7 +5,7 @@ author: "Ruby Dixon"
 dek: "Special Edition"
 number: R568
 sort_key: 568
-date: 2023-05-16
+date: 2026-03-03
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/ice-planet-barbarians.jpg

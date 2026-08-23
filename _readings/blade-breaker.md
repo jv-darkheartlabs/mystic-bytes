@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8109635.Victoria_Aveyard"
 dek: ""
 number: R649
 sort_key: 649
-date: 2023-08-16
+date: 2026-03-12
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/blade-breaker.jpg

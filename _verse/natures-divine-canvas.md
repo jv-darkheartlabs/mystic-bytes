@@ -4,7 +4,7 @@ title: "Nature's Divine Canvas"
 dek: "The world paints without asking your theology."
 number: V0126
 sort_key: 126
-date: 2026-08-28
+date: 2026-01-23
 date_written: 1993-04-18
 category: spirituality
 form: closed

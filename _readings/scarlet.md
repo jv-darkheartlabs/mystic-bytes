@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8347.Stephen_R_Lawhead"
 dek: "King Raven Trilogy"
 number: R667
 sort_key: 667
-date: 2023-09-14
+date: 2026-03-14
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/scarlet.jpg

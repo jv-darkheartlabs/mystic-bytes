@@ -5,7 +5,7 @@ author: "Cassandra Clare"
 dek: "The Mortal Instruments — Book Six"
 number: R549
 sort_key: 549
-date: 2023-04-21
+date: 2026-03-01
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/city-of-heavenly-fire.jpg

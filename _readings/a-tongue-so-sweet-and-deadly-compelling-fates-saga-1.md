@@ -5,7 +5,7 @@ author: "Sophia St. Germain"
 dek: "Compelling Fates Saga, #1"
 number: R1955
 sort_key: 1955
-date: 2026-05-05
+date: 2026-07-23
 date_read: 2026-05-07
 category: gothic-horror-romance
 cover: /assets/readings/a-tongue-so-sweet-and-deadly-compelling-fates-saga-1.jpg

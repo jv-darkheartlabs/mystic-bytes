@@ -5,9 +5,9 @@ author: "Chelsea Ichaso"
 dek: "Nobody knows where Audrey is. Everybody knows who saw Audrey."
 number: R394
 sort_key: 394
-date: 2022-10-07
+date: 2026-02-12
 date_read: 2009-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-summer-she-went-missing.jpg
 spice: 2
 content_warnings:

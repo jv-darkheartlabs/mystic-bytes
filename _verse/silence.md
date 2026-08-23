@@ -4,7 +4,7 @@ title: "Silence"
 dek: "Quiet as counter-rhythm."
 number: V0427
 sort_key: 427
-date: 2026-12-15
+date: 2026-04-07
 date_written: 2005-10-03
 category: nola
 form: open

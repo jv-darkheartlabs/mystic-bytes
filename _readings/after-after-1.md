@@ -5,7 +5,7 @@ author: "Anna Todd"
 dek: "After series"
 number: R1651
 sort_key: 1651
-date: 2026-05-09
+date: 2026-06-26
 date_read: 2022-07-13
 category: enemies-to-lovers
 cover: /assets/readings/after-after-1.jpg

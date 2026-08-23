@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202100.Charissa_Weaks"
 dek: "A Witch Walker Novel"
 number: R1216
 sort_key: 1216
-date: 2025-07-08
+date: 2026-05-13
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/city-of-ruin.jpg

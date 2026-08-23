@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1099
 sort_key: 1099
-date: 2025-02-21
+date: 2026-04-30
 date_read: 2022-04-04
 category: bully-romance
 cover: /assets/readings/zodiac-academy-fated-throne.jpg

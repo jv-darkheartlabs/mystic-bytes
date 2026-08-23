@@ -4,7 +4,7 @@ title: "Jane Eyre"
 dek: "2011 Fukunaga adaptation of Charlotte Brontë's gothic romance."
 number: F0015
 sort_key: 15
-date: 2026-07-11
+date: 2026-03-20
 date_watched: 2011-03-11
 year: 2011
 poster: /assets/films/jane-eyre-2011.jpg
@@ -25,7 +25,6 @@ category: gothic-horror
 format: feature-film
 fidelity: faithful
 mpaa_rating: "PG-13"
-spice: 2
 content_warnings:
   - "psychological intensity"
   - "gothic horror"
@@ -39,6 +38,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: canon
 ---
 
 ## Hook & thesis

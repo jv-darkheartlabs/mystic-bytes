@@ -5,7 +5,7 @@ author: "Cassandra Clare"
 dek: "The Mortal Instruments — Book Three"
 number: R533
 sort_key: 533
-date: 2023-04-03
+date: 2026-02-27
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/city-of-glass.jpg

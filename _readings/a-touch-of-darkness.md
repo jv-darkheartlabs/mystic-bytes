@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Scarlett_St_Clair"
 dek: ""
 number: R911
 sort_key: 911
-date: 2024-07-01
+date: 2026-04-10
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/a-touch-of-darkness.jpg

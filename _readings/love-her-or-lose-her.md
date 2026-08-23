@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "This relationship needs a full renovation..."
 number: R856
 sort_key: 856
-date: 2024-04-28
+date: 2026-04-04
 date_read: 2019-04-04
 category: enemies-to-lovers
 cover: /assets/readings/love-her-or-lose-her.jpg

@@ -5,7 +5,7 @@ author: "Brit Bennett"
 dek: "a novel"
 number: R751
 sort_key: 751
-date: 2023-12-19
+date: 2026-03-23
 date_read: 2022-07-13
 category: forbidden-love
 cover: /assets/readings/the-vanishing-half.jpg

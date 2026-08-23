@@ -5,9 +5,9 @@ author: "Sara Gruen"
 dek: ""
 number: R2187
 sort_key: 2187
-date: 2026-04-03
+date: 2026-08-05
 date_read: 2010-03-08
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/water-for-elephants.jpg
 spice: 2
 content_warnings:

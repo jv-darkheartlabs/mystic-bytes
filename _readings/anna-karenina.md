@@ -5,11 +5,10 @@ author: "Leo Tolstoy"
 dek: ""
 number: R1634
 sort_key: 1634
-date: 2026-05-26
+date: 2026-06-24
 date_read: 2000-08-16
 category: classic-literature
 cover: /assets/readings/anna-karenina.jpg
-spice: 2
 content_warnings:
   - "infidelity"
   - "suicide"

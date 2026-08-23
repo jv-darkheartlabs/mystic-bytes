@@ -4,7 +4,7 @@ title: "Jubilant Laughter"
 dek: "Humor as civic repair."
 number: V0449
 sort_key: 449
-date: 2027-01-06
+date: 2026-04-22
 date_written: 2006-08-08
 category: nola
 form: open

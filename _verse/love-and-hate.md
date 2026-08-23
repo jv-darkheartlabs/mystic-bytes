@@ -4,7 +4,7 @@ title: "Love and Hate"
 dek: "Two appetites sharing a kitchen."
 number: V0305
 sort_key: 305
-date: 2026-10-18
+date: 2026-02-26
 date_written: 2016-11-11
 category: love
 form: free-verse

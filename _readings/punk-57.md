@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7139382.Penelope_Douglas"
 dek: "We were perfect together. Until we met."
 number: R121
 sort_key: 121
-date: 2021-11-17
+date: 2026-01-14
 date_read: 2016-07-13
 category: enemies-to-lovers
 cover: /assets/readings/punk-57.jpg

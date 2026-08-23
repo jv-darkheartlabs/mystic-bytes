@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4340345.David_Estes"
 dek: ""
 number: R517
 sort_key: 517
-date: 2023-03-12
+date: 2026-02-25
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/endfall.jpg

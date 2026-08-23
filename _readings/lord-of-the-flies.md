@@ -5,11 +5,10 @@ author: "William Golding"
 dek: ""
 number: R2189
 sort_key: 2189
-date: 2026-04-01
+date: 2026-08-05
 date_read: 1996-04-20
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/lord-of-the-flies.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

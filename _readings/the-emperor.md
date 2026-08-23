@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19586146.RuNyx"
 dek: "Dark Verse Book Three"
 number: R186
 sort_key: 186
-date: 2022-02-08
+date: 2026-01-21
 date_read: 2021-09-19
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-emperor.jpg

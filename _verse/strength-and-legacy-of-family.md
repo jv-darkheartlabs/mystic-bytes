@@ -4,7 +4,7 @@ title: "Strength and Legacy of Family"
 dek: "Kin as story — bond as labor."
 number: V0917
 sort_key: 917
-date: 2034-12-03
+date: 2026-08-15
 date_written: 2015-05-06
 category: justice
 form: free-verse

@@ -5,7 +5,7 @@ author: "Kate Golden"
 dek: "The Sacred Stones"
 number: R1160
 sort_key: 1160
-date: 2025-05-07
+date: 2026-05-07
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/a-promise-of-peridot.jpg

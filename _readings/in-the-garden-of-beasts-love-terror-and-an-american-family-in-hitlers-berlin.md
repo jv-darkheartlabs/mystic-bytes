@@ -5,9 +5,9 @@ author: "Erik Larson"
 dek: ""
 number: R2153
 sort_key: 2153
-date: 2026-05-07
+date: 2026-08-02
 date_read: 2008-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitlers-berlin.jpg
 spice: 1
 content_warnings:

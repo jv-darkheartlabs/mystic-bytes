@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228367.Michael_Wisehart"
 dek: "The Aldoran Chronicles — Book Four"
 number: R583
 sort_key: 583
-date: 2023-06-04
+date: 2026-03-05
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/the-tunnels-beneath.jpg

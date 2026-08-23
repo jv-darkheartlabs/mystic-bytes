@@ -5,7 +5,7 @@ author: "Rebecca Yarros"
 dek: ""
 number: R341
 sort_key: 341
-date: 2022-08-10
+date: 2026-02-06
 date_read: 2020-11-25
 category: dark-military-romance
 cover: /assets/readings/eyes-turned-skyward.jpg

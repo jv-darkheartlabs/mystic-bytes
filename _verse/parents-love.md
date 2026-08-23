@@ -4,7 +4,7 @@ title: "Parents' Love"
 dek: "Steady labor mistaken for forever."
 number: V0319
 sort_key: 319
-date: 2026-11-01
+date: 2026-03-08
 date_written: 2016-04-17
 category: love
 form: free-verse

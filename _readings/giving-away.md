@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21435889.Lola_King"
 dek: "If you fall for him, I'll raise hell."
 number: R125
 sort_key: 125
-date: 2021-11-24
+date: 2026-01-14
 date_read: 2020-11-25
 category: enemies-to-lovers
 cover: /assets/readings/giving-away.jpg

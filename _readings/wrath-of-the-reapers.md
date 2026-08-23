@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21447047.Jessa_Halliwell"
 dek: "A Lovesick Villains Trilogy"
 number: R199
 sort_key: 199
-date: 2022-02-21
+date: 2026-01-22
 date_read: 2022-04-04
 category: reverse-harem
 cover: /assets/readings/wrath-of-the-reapers.jpg

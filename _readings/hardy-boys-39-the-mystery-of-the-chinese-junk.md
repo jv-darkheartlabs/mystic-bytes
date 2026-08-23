@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #39"
 number: R2303
 sort_key: 2303
-date: 2026-06-07
+date: 2026-08-13
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-39-the-mystery-of-the-chinese-junk.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

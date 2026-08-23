@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Leigh_Rivers"
 dek: "The Edge of Darkness Trilogy"
 number: R127
 sort_key: 127
-date: 2021-11-30
+date: 2026-01-14
 date_read: 2022-04-04
 category: enemies-to-lovers
 cover: /assets/readings/restitution.jpg

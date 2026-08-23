@@ -5,9 +5,9 @@ author: "James  Patterson"
 dek: "Alex Cross Series"
 number: R1643
 sort_key: 1643
-date: 2026-05-17
+date: 2026-06-25
 date_read: 2008-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/along-came-a-spider-alex-cross-1.jpg
 spice: 2
 content_warnings:

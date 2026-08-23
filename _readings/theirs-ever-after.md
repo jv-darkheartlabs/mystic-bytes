@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "New York Times Bestselling Author"
 number: R1301
 sort_key: 1301
-date: 2025-10-19
+date: 2026-05-22
 date_read: 2020-08-16
 category: reverse-harem
 cover: /assets/readings/theirs-ever-after.jpg

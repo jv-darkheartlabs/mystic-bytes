@@ -5,9 +5,9 @@ author: "Khaled Hosseini"
 dek: ""
 number: R1554
 sort_key: 1554
-date: 2026-05-24
+date: 2026-06-17
 date_read: 2009-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/a-thousand-splendid-suns.jpg
 spice: 2
 content_warnings:

@@ -4,7 +4,7 @@ title: "Gone Girl"
 dek: "2014 Fincher adaptation of Gillian Flynn's marriage thriller."
 number: F0006
 sort_key: 6
-date: 2026-07-11
+date: 2026-01-29
 date_watched: 2014-10-03
 year: 2014
 poster: /assets/films/gone-girl-2014.jpg
@@ -25,7 +25,6 @@ category: psychological-thriller
 format: feature-film
 fidelity: faithful
 mpaa_rating: "R"
-spice: 3
 content_warnings:
   - "violence"
   - "psychological manipulation"
@@ -40,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: genre
 ---
 
 ## Hook & thesis

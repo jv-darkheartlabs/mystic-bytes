@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/38550.Brandon_Sanderson"
 dek: "The Stormlight Archive Book One"
 number: R516
 sort_key: 516
-date: 2023-03-07
+date: 2026-02-25
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/the-way-of-kings.jpg

@@ -4,7 +4,7 @@ title: "Compassion"
 dek: "Kindness as infrastructure."
 number: V0416
 sort_key: 416
-date: 2026-12-04
+date: 2026-03-30
 date_written: 2006-05-22
 category: nola
 form: open

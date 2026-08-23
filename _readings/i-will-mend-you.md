@@ -5,7 +5,7 @@ author: "Gigi Styx"
 dek: ""
 number: R256
 sort_key: 256
-date: 2022-04-23
+date: 2026-01-28
 date_read: 2019-07-13
 category: stalker-obsession
 cover: /assets/readings/i-will-mend-you.jpg

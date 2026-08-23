@@ -5,7 +5,7 @@ author: "Paisley Hope"
 dek: "A Silver Pines Novella"
 number: R833
 sort_key: 833
-date: 2024-04-03
+date: 2026-04-01
 date_read: 2020-08-16
 category: dark-cowboy-romance
 cover: /assets/readings/holding-the-reins.jpg

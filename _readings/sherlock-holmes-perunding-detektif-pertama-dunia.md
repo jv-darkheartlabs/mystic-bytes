@@ -5,9 +5,9 @@ author: "Arthur Conan Doyle"
 dek: ""
 number: R1768
 sort_key: 1768
-date: 2026-04-22
+date: 2026-07-07
 date_read: 2013-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/sherlock-holmes-perunding-detektif-pertama-dunia.jpg
 spice: 1
 content_warnings:

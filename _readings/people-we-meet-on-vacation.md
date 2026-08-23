@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166899.Emily_Henry"
 dek: "A novel"
 number: R1369
 sort_key: 1369
-date: 2026-01-17
+date: 2026-05-29
 date_read: 2016-04-04
 category: enemies-to-lovers
 cover: /assets/readings/people-we-meet-on-vacation.jpg

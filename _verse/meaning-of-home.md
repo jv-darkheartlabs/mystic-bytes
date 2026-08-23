@@ -4,7 +4,7 @@ title: "Meaning of Home"
 dek: "Belonging without the real-estate brochure."
 number: V0320
 sort_key: 320
-date: 2026-11-02
+date: 2026-03-08
 date_written: 2017-07-08
 category: love
 form: free-verse

@@ -4,7 +4,7 @@ title: "Underground Riches"
 dek: "Treasure beneath the visible city."
 number: V0445
 sort_key: 445
-date: 2027-01-02
+date: 2026-04-19
 date_written: 2008-01-08
 category: nola
 form: open

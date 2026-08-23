@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21665487.Melissa_K_Roehrich"
 dek: "A Lady of Darkness Novel"
 number: R1157
 sort_key: 1157
-date: 2025-04-28
+date: 2026-05-06
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/lady-of-ashes.jpg

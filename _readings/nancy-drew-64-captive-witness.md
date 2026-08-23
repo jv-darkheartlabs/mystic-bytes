@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #64"
 number: R2392
 sort_key: 2392
-date: 2026-07-02
+date: 2026-08-23
 date_read: 1995-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-64-captive-witness.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

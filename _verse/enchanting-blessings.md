@@ -4,7 +4,7 @@ title: "Enchanting Blessings"
 dek: "Charm is not the same as sanctuary."
 number: V0137
 sort_key: 137
-date: 2026-09-08
+date: 2026-01-30
 date_written: 2010-08-12
 category: spirituality
 form: free-verse

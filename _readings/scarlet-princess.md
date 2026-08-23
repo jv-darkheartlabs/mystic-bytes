@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Robin_D_Mahle"
 dek: "The Lochlann Feuds — Book 1"
 number: R524
 sort_key: 524
-date: 2023-03-18
+date: 2026-02-26
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/scarlet-princess.jpg

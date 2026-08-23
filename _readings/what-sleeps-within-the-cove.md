@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19845642.Harper_L_Woods"
 dek: "Of Flesh & Bone Book Four"
 number: R262
 sort_key: 262
-date: 2022-04-30
+date: 2026-01-28
 date_read: 2025-04-04
 category: vampire-paranormal
 cover: /assets/readings/what-sleeps-within-the-cove.jpg

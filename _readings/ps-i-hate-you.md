@@ -5,7 +5,7 @@ author: "Lauren Connolly"
 dek: "Two exes. Eight destinations."
 number: R904
 sort_key: 904
-date: 2024-06-29
+date: 2026-04-09
 date_read: 2019-07-13
 category: enemies-to-lovers
 cover: /assets/readings/ps-i-hate-you.jpg

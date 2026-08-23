@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Ava_Summers"
 dek: "Empire of Carnage — Book 3"
 number: R176
 sort_key: 176
-date: 2022-01-24
+date: 2026-01-20
 date_read: 2023-08-16
 category: mafia-boss-and-innocent
 cover: /assets/readings/reign-of-psychos.jpg

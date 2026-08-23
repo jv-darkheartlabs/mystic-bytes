@@ -5,9 +5,9 @@ author: "Hunter S. Thompson"
 dek: "The Gonzo Letters, Volume II, 1968-1976"
 number: R1551
 sort_key: 1551
-date: 2026-05-27
+date: 2026-06-17
 date_read: 2006-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/fear-and-loathing-in-america-the-brutal-odyssey-of-an-outlaw-journalist-the-gonz.jpg
 spice: 2
 content_warnings:

@@ -5,11 +5,10 @@ author: "Irvin D. Yalom"
 dek: ""
 number: R2266
 sort_key: 2266
-date: 2026-04-24
+date: 2026-08-09
 date_read: 2011-10-22
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/when-nietzsche-wept.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

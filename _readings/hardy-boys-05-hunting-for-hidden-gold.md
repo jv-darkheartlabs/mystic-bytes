@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #5"
 number: R2315
 sort_key: 2315
-date: 2026-05-26
+date: 2026-08-15
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-05-hunting-for-hidden-gold.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

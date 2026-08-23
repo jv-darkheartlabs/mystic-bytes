@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "I've always had a death wish, but now I have something to live for."
 number: R103
 sort_key: 103
-date: 2021-10-31
+date: 2026-01-12
 date_read: 2022-07-13
 category: dark-billionaire
 cover: /assets/readings/kingdom-grave.jpg

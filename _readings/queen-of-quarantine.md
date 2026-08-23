@@ -5,7 +5,7 @@ author: "Caroline Peckham & Susanne Valenti"
 dek: "Brutal Boys of Everlake Prep Book 4"
 number: R038
 sort_key: 038
-date: 2021-08-18
+date: 2026-01-05
 date_read: 2017-05-07
 category: bully-romance
 cover: /assets/readings/queen-of-quarantine.jpg

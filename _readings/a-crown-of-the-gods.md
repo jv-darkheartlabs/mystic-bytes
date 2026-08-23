@@ -5,7 +5,7 @@ author: "S. M. Gaither"
 dek: "Shadows & Crowns — Book Four"
 number: R1389
 sort_key: 1389
-date: 2026-02-06
+date: 2026-05-31
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/a-crown-of-the-gods.jpg

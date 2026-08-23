@@ -5,7 +5,7 @@ author: "Anne-Sophie Jouhanneau"
 dek: ""
 number: R463
 sort_key: 463
-date: 2023-01-06
+date: 2026-02-20
 date_read: 2022-07-13
 category: enemies-to-lovers
 cover: /assets/readings/kisses-and-croissants.jpg

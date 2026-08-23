@@ -5,7 +5,7 @@ author: "Eliza Raine"
 dek: ""
 number: R975
 sort_key: 975
-date: 2024-09-20
+date: 2026-04-17
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/of-blades-and-wings.jpg

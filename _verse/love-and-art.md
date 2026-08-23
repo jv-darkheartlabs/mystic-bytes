@@ -4,7 +4,7 @@ title: "Love and Art"
 dek: "Brushstroke against the weather."
 number: V0414
 sort_key: 414
-date: 2026-12-02
+date: 2026-03-29
 date_written: 2009-03-08
 category: nola
 form: open

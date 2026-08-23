@@ -4,7 +4,7 @@ title: "Spirit of Parenthood"
 dek: "Love as logistics and late mercy."
 number: V0120
 sort_key: 120
-date: 2026-08-22
+date: 2026-01-18
 date_written: 2006-04-02
 category: spirituality
 form: free-verse

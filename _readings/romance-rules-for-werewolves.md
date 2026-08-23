@@ -5,7 +5,7 @@ author: "Linsey Hall"
 dek: ""
 number: R1081
 sort_key: 1081
-date: 2025-01-28
+date: 2026-04-28
 date_read: 2016-04-04
 category: vampire-paranormal
 cover: /assets/readings/romance-rules-for-werewolves.jpg

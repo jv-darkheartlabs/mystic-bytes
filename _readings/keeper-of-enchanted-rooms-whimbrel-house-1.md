@@ -5,7 +5,7 @@ author: "Charlie N. Holmberg"
 dek: "Whimbrel House Series"
 number: R1565
 sort_key: 1565
-date: 2026-05-13
+date: 2026-06-18
 date_read: 2022-05-30
 category: gothic-horror-romance
 cover: /assets/readings/keeper-of-enchanted-rooms-whimbrel-house-1.jpg

@@ -5,9 +5,9 @@ author: "Spencer Johnson"
 dek: ""
 number: R1749
 sort_key: 1749
-date: 2026-05-11
+date: 2026-07-06
 date_read: 2014-06-10
-category: dark-thriller
+category: romantic-suspense
 shelf: false
 cover: /assets/readings/who-moved-my-cheese.jpg
 spice: 1

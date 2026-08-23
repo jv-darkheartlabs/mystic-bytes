@@ -5,11 +5,10 @@ author: "Orson Scott Card"
 dek: "Ender's Saga"
 number: R1903
 sort_key: 1903
-date: 2026-06-26
+date: 2026-07-18
 date_read: 2008-07-13
-category: dark-thriller
+category: sff
 cover: /assets/readings/ender-s-game-enders-saga-1.jpg
-spice: 2
 content_warnings:
 tags:
   - darkthriller

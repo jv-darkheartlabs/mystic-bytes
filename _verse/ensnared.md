@@ -4,7 +4,7 @@ title: "Ensnared"
 dek: "Temptation as trap the body recognizes too late."
 number: V0207
 sort_key: 207
-date: 2026-09-24
+date: 2026-02-10
 date_written: 2011-04-16
 category: grief-loss-resilience
 form: free-verse

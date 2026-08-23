@@ -5,7 +5,7 @@ author: "Lauren Biel"
 dek: "A Forbidden Romance Novella"
 number: R1253
 sort_key: 1253
-date: 2025-08-27
+date: 2026-05-17
 date_read: 2020-05-07
 category: forbidden-love
 cover: /assets/readings/last-mistake.jpg

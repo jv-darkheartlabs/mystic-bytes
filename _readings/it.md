@@ -5,11 +5,10 @@ author: "Stephen  King"
 dek: ""
 number: R1945
 sort_key: 1945
-date: 2026-05-15
+date: 2026-07-22
 date_read: 2016-04-04
-category: gothic-horror-romance
+category: horror
 cover: /assets/readings/it.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "child abuse"

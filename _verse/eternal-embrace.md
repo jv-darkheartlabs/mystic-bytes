@@ -4,7 +4,7 @@ title: "Eternal Embrace"
 dek: "Hold without the forever clause."
 number: V0315
 sort_key: 315
-date: 2026-10-28
+date: 2026-03-05
 date_written: 2016-02-29
 category: love
 form: free-verse

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21435889.Lola_King"
 dek: "I'd do it all over again. All for love."
 number: R124
 sort_key: 124
-date: 2021-11-26
+date: 2026-01-14
 date_read: 2019-10-22
 category: enemies-to-lovers
 cover: /assets/readings/giving-up.jpg

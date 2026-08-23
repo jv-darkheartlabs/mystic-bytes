@@ -5,7 +5,7 @@ author: "Stephanie Archer"
 dek: ""
 number: R846
 sort_key: 846
-date: 2024-04-18
+date: 2026-04-03
 date_read: 2021-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-wingman.jpg

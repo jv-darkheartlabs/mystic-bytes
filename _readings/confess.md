@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: ""
 number: R727
 sort_key: 727
-date: 2023-11-26
+date: 2026-03-21
 date_read: 2022-10-22
 category: forbidden-love
 cover: /assets/readings/confess.jpg

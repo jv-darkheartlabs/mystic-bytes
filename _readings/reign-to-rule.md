@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15143324.Zoey_Ellis"
 dek: "Myth of Omega: Reign 3"
 number: R073
 sort_key: 073
-date: 2021-09-23
+date: 2026-01-09
 date_read: 2016-04-04
 category: captor-and-captive
 cover: /assets/readings/reign-to-rule.jpg

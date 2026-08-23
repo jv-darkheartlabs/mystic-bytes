@@ -5,7 +5,7 @@ author: "Tennessee Williams"
 dek: ""
 number: R2239
 sort_key: 2239
-date: 2026-05-21
+date: 2026-08-07
 date_read: 2022-10-22
 category: gothic-horror-romance
 cover: /assets/readings/the-glass-menagerie.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/346732.George_R_R_Martin"
 dek: ""
 number: R685
 sort_key: 685
-date: 2023-10-05
+date: 2026-03-16
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/a-feast-for-crows.jpg

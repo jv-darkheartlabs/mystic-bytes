@@ -5,11 +5,10 @@ author: "Dr. Seuss"
 dek: ""
 number: R1829
 sort_key: 1829
-date: 2026-05-31
+date: 2026-07-12
 date_read: 2020-05-07
-category: gothic-horror-romance
+category: juvenile-fiction
 cover: /assets/readings/the-cat-in-the-hat-and-other-dr-seuss-favorites.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

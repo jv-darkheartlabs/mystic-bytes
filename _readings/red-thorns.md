@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Rina_Kent"
 dek: "Thorns Duet Book 1"
 number: R1088
 sort_key: 1088
-date: 2025-02-08
+date: 2026-04-29
 date_read: 2023-11-25
 category: bully-romance
 cover: /assets/readings/red-thorns.jpg

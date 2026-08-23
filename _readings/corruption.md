@@ -5,7 +5,7 @@ author: "Jenika Snow"
 dek: "Underworld Kings"
 number: R1286
 sort_key: 1286
-date: 2025-10-03
+date: 2026-05-20
 date_read: 2017-11-25
 category: mafia-boss-and-innocent
 cover: /assets/readings/corruption.jpg

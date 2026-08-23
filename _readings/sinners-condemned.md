@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21415443.Somme_Sketcher"
 dek: "Sinners Anonymous — Book Two"
 number: R159
 sort_key: 159
-date: 2022-01-06
+date: 2026-01-18
 date_read: 2018-09-19
 category: forbidden-love
 cover: /assets/readings/sinners-condemned.jpg

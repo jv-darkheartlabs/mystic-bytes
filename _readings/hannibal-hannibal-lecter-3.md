@@ -5,9 +5,9 @@ author: "Thomas  Harris"
 dek: "Hannibal Lecter series"
 number: R1928
 sort_key: 1928
-date: 2026-06-01
+date: 2026-07-21
 date_read: 2013-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/hannibal-hannibal-lecter-3.jpg
 spice: 3
 content_warnings:

@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/17294849.Riley_Sager"
 dek: "A Novel"
 number: R397
 sort_key: 397
-date: 2022-10-14
+date: 2026-02-12
 date_read: 2012-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-house-across-the-lake.jpg
 spice: 2
 content_warnings:

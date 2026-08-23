@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/11093.Julia_Quinn"
 dek: "Bridgerton — Gregory's Story"
 number: R634
 sort_key: 634
-date: 2023-07-31
+date: 2026-03-10
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/on-the-way-to-the-wedding.jpg

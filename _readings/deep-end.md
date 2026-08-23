@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21098177.Ali_Hazelwood"
 dek: "The global bestseller and TikTok sensation"
 number: R612
 sort_key: 612
-date: 2023-07-09
+date: 2026-03-08
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/deep-end.jpg

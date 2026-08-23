@@ -4,7 +4,7 @@ title: "Solitude"
 dek: "Loneliness losing the downbeat."
 number: V0443
 sort_key: 443
-date: 2026-12-31
+date: 2026-04-18
 date_written: 2007-12-12
 category: nola
 form: open

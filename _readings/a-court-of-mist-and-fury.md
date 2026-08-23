@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
 dek: ""
 number: R1139
 sort_key: 1139
-date: 2025-04-07
+date: 2026-05-05
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/a-court-of-mist-and-fury.jpg

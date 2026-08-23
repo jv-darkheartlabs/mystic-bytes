@@ -5,7 +5,7 @@ author: "Luna Day"
 dek: "a novel"
 number: R1057
 sort_key: 1057
-date: 2024-12-30
+date: 2026-04-26
 date_read: 2016-07-13
 category: reverse-harem
 cover: /assets/readings/three-hearts-hideaway.jpg

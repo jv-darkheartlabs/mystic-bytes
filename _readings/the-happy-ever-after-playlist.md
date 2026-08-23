@@ -5,7 +5,7 @@ author: "Abby Jimenez"
 dek: ""
 number: R883
 sort_key: 883
-date: 2024-05-31
+date: 2026-04-07
 date_read: 2022-04-04
 category: enemies-to-lovers
 cover: /assets/readings/the-happy-ever-after-playlist.jpg

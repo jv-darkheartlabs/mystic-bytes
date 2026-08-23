@@ -4,7 +4,7 @@ title: "Traditions"
 dek: "Custom as inherited rhythm."
 number: V0438
 sort_key: 438
-date: 2026-12-26
+date: 2026-04-14
 date_written: 2006-02-28
 category: nola
 form: open

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6897719.Josiah_Bancroft"
 dek: ""
 number: R707
 sort_key: 707
-date: 2023-10-29
+date: 2026-03-18
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/senlin-ascends.jpg

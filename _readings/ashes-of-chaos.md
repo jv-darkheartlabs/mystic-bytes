@@ -5,7 +5,7 @@ author: "Amelia Hutchins"
 dek: "Legacy of the Nine Realms 2"
 number: R1411
 sort_key: 1411
-date: 2026-03-10
+date: 2026-06-03
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/ashes-of-chaos.jpg

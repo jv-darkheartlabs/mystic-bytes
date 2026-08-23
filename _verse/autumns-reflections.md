@@ -4,7 +4,7 @@ title: "Autumn's Reflections"
 dek: "Fall as honest accounting."
 number: V0510
 sort_key: 510
-date: 2027-01-23
+date: 2026-05-04
 date_written: 1993-10-08
 category: nature
 form: free-verse

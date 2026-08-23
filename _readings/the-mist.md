@@ -5,9 +5,9 @@ author: "Stephen  King"
 dek: ""
 number: R1920
 sort_key: 1920
-date: 2026-06-09
+date: 2026-07-20
 date_read: 2005-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-mist.jpg
 spice: 3
 content_warnings:

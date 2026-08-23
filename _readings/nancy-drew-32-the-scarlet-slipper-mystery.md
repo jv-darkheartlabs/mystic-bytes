@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #32"
 number: R2354
 sort_key: 2354
-date: 2026-04-17
+date: 2026-08-19
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-32-the-scarlet-slipper-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

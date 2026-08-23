@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss"
 dek: ""
 number: R710
 sort_key: 710
-date: 2023-11-05
+date: 2026-03-19
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/the-wise-mans-fear.jpg

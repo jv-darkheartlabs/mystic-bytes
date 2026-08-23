@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/6897719.Josiah_Bancroft"
 dek: ""
 number: R719
 sort_key: 719
-date: 2023-11-13
-date_read: 2026-11-25
+date: 2026-03-20
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/the-hod-king.jpg
 spice: 3

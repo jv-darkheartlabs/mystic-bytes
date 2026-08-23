@@ -4,7 +4,7 @@ title: "Joy of Pet Ownership"
 dek: "Companion species — habit as love."
 number: V0925
 sort_key: 925
-date: 2035-08-07
+date: 2026-08-20
 date_written: 2021-03-21
 category: misc
 form: free-verse

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/11093.Julia_Quinn"
 dek: "Bridgerton — Hyacinth's Story"
 number: R628
 sort_key: 628
-date: 2023-07-23
+date: 2026-03-10
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/its-in-his-kiss.jpg

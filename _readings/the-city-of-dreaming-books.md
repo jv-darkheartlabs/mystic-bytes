@@ -5,7 +5,7 @@ author: "Walter Moers"
 dek: ""
 number: R2066
 sort_key: 2066
-date: 2026-04-24
+date: 2026-07-28
 date_read: 2017-08-16
 category: gothic-horror-romance
 cover: /assets/readings/the-city-of-dreaming-books.jpg

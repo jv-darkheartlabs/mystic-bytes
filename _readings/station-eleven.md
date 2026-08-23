@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/277648.Emily_St_John_Mandel"
 dek: ""
 number: R354
 sort_key: 354
-date: 2022-08-24
+date: 2026-02-07
 date_read: 2009-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/station-eleven.jpg
 spice: 1
 content_warnings:

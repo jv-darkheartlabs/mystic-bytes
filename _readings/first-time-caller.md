@@ -5,7 +5,7 @@ author: "B.K. Borison"
 dek: "Welcome to Heartstrings, Baltimore's romance hotline."
 number: R865
 sort_key: 865
-date: 2024-05-14
+date: 2026-04-05
 date_read: 2016-04-04
 category: enemies-to-lovers
 cover: /assets/readings/first-time-caller.jpg

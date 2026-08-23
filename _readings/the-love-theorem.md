@@ -5,7 +5,7 @@ author: "Camilla Isley"
 dek: ""
 number: R901
 sort_key: 901
-date: 2024-06-20
+date: 2026-04-09
 date_read: 2016-04-04
 category: enemies-to-lovers
 cover: /assets/readings/the-love-theorem.jpg

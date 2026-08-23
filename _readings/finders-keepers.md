@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/3389.Stephen_King"
 dek: "Author of Mr. Mercedes"
 number: R373
 sort_key: 373
-date: 2022-09-18
+date: 2026-02-10
 date_read: 2008-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/finders-keepers.jpg
 spice: 1
 content_warnings:

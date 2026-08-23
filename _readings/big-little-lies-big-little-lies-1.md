@@ -5,9 +5,9 @@ author: "Liane Moriarty"
 dek: "Big Little Lies, #1"
 number: R1877
 sort_key: 1877
-date: 2026-04-13
+date: 2026-07-16
 date_read: 2012-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/big-little-lies-big-little-lies-1.jpg
 spice: 2
 content_warnings:

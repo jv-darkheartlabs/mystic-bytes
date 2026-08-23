@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "Blood is required to silence their mantras. Only death will release them from their debt."
 number: R119
 sort_key: 119
-date: 2021-11-14
+date: 2026-01-13
 date_read: 2026-05-07
 category: enemies-to-lovers
 cover: /assets/readings/the-sacrifice.jpg

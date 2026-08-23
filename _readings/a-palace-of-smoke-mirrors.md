@@ -5,7 +5,7 @@ author: "Loren Little"
 dek: "The Gift War Book Two"
 number: R273
 sort_key: 273
-date: 2022-05-15
+date: 2026-01-30
 date_read: 2024-06-10
 category: vampire-paranormal
 cover: /assets/readings/a-palace-of-smoke-mirrors.jpg

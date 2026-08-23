@@ -5,7 +5,7 @@ author: "Janie Marie"
 dek: "Gods & Monsters"
 number: R1497
 sort_key: 1497
-date: 2026-06-18
+date: 2026-06-12
 date_read: 2024-06-10
 category: gothic-horror-romance
 cover: /assets/readings/the-fallen-queen.jpg

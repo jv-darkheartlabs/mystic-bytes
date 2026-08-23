@@ -5,9 +5,9 @@ author: "Hunter S. Thompson"
 dek: ""
 number: R1542
 sort_key: 1542
-date: 2026-06-05
+date: 2026-06-16
 date_read: 2007-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/better-than-sex-confessions-of-a-political-junkie.jpg
 spice: 2
 content_warnings:

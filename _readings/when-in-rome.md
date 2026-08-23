@@ -5,7 +5,7 @@ author: "Sarah Adams"
 dek: ""
 number: R854
 sort_key: 854
-date: 2024-04-25
+date: 2026-04-04
 date_read: 2017-11-25
 category: enemies-to-lovers
 cover: /assets/readings/when-in-rome.jpg

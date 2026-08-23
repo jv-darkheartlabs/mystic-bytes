@@ -5,7 +5,7 @@ author: "Rachel Gillig"
 dek: ""
 number: R950
 sort_key: 950
-date: 2024-08-25
+date: 2026-04-14
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/the-knight-and-the-moth.jpg

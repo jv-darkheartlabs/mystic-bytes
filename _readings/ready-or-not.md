@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Alina_May"
 dek: ""
 number: R188
 sort_key: 188
-date: 2022-02-12
+date: 2026-01-21
 date_read: 2023-11-25
 category: motorcycle-club
 cover: /assets/readings/ready-or-not.jpg

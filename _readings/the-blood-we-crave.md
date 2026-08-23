@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Monty_Jay"
 dek: "Hollow Boys Book Four — Will obsession be enough?"
 number: R1512
 sort_key: 1512
-date: 2026-07-05
+date: 2026-06-14
 date_read: 2015-03-01
 category: bully-romance
 cover: /assets/readings/the-blood-we-crave.jpg

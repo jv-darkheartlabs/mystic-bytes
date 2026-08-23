@@ -4,7 +4,7 @@ title: "Reflections of Time"
 dek: "Eternity is theory. Memory is weight."
 number: V0223
 sort_key: 223
-date: 2026-10-10
+date: 2026-02-20
 date_written: 1997-12-31
 category: grief-loss-resilience
 form: free-verse

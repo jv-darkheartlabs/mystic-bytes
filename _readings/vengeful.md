@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166830.V_E_Schwab"
 dek: ""
 number: R778
 sort_key: 778
-date: 2024-01-21
+date: 2026-03-26
 date_read: 2025-07-13
 category: gothic-horror-romance
 cover: /assets/readings/vengeful.jpg

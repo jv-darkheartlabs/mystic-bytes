@@ -5,7 +5,7 @@ author: "Jeffrey Eugenides"
 dek: ""
 number: R2155
 sort_key: 2155
-date: 2026-05-05
+date: 2026-08-02
 date_read: 2022-07-13
 category: gothic-horror-romance
 cover: /assets/readings/the-virgin-suicides.jpg

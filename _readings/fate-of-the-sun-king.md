@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21268673.Nisha_J_Tuli"
 dek: ""
 number: R1192
 sort_key: 1192
-date: 2025-06-16
+date: 2026-05-10
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/fate-of-the-sun-king.jpg

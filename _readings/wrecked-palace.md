@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18222702.Catherine_Cowles"
 dek: "The Wrecked Series"
 number: R761
 sort_key: 761
-date: 2024-01-07
+date: 2026-03-24
 date_read: 2020-08-16
 category: forbidden-love
 cover: /assets/readings/wrecked-palace.jpg

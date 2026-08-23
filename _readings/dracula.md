@@ -5,11 +5,10 @@ author: "Bram Stoker"
 dek: ""
 number: R2162
 sort_key: 2162
-date: 2026-04-28
+date: 2026-08-02
 date_read: 1996-05-15
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/dracula.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "sexual content"

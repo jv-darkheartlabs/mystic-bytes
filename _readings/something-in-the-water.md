@@ -5,9 +5,9 @@ author: "Catherine Steadman"
 dek: "A Novel"
 number: R377
 sort_key: 377
-date: 2022-09-17
+date: 2026-02-10
 date_read: 2012-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/something-in-the-water.jpg
 spice: 2
 content_warnings:

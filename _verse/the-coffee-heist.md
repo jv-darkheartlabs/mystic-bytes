@@ -4,7 +4,7 @@ title: "The Coffee Heist"
 dek: "Desire as petty theft before dawn."
 number: V0004
 sort_key: 4
-date: 2026-07-11
+date: 2026-01-03
 date_written: 2019-08-19
 category: love
 form: free-verse

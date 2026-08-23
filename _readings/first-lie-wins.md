@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/4841775.Ashley_Elston"
 dek: "A Novel"
 number: R422
 sort_key: 422
-date: 2022-11-11
+date: 2026-02-15
 date_read: 2007-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/first-lie-wins.jpg
 spice: 2
 content_warnings:

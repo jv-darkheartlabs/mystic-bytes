@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Katelyn_Taylor"
 dek: ""
 number: R160
 sort_key: 160
-date: 2022-01-09
+date: 2026-01-18
 date_read: 2019-10-22
 category: gothic-horror-romance
 cover: /assets/readings/graves.jpg

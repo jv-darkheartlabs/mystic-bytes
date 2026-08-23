@@ -4,7 +4,7 @@ title: "Night Sky"
 dek: "Stars as distance homework."
 number: V0508
 sort_key: 508
-date: 2027-01-21
+date: 2026-05-02
 date_written: 1994-01-14
 category: nature
 form: free-verse

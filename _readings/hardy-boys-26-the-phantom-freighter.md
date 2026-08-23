@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #26"
 number: R2289
 sort_key: 2289
-date: 2026-06-21
+date: 2026-08-12
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-26-the-phantom-freighter.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

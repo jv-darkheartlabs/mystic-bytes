@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien"
 dek: "The Lord of the Rings Part Two"
 number: R678
 sort_key: 678
-date: 2023-09-23
+date: 2026-03-15
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/the-two-towers.jpg

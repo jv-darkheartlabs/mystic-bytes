@@ -5,8 +5,8 @@ author: "Maree Rose"
 dek: ""
 number: R215
 sort_key: 215
-date: 2022-03-16
-date_read: 2026-11-25
+date: 2026-01-24
+date_read: 2026-08-23
 category: stalker-obsession
 cover: /assets/readings/hide-me-darling.jpg
 spice: 4

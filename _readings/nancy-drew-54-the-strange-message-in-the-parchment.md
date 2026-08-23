@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #54"
 number: R2378
 sort_key: 2378
-date: 2026-03-24
+date: 2026-08-22
 date_read: 1994-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-54-the-strange-message-in-the-parchment.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

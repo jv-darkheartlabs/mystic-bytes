@@ -5,7 +5,7 @@ author: "Mia Sheridan"
 dek: ""
 number: R742
 sort_key: 742
-date: 2023-12-13
+date: 2026-03-22
 date_read: 2025-07-13
 category: forbidden-love
 cover: /assets/readings/stinger.jpg

@@ -5,9 +5,9 @@ author: "David Sedaris"
 dek: ""
 number: R2228
 sort_key: 2228
-date: 2026-06-01
+date: 2026-08-05
 date_read: 2013-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/me-talk-pretty-one-day.jpg
 spice: 1
 content_warnings:

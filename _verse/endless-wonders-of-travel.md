@@ -4,7 +4,7 @@ title: "Endless Wonders of Travel"
 dek: "Miles as thought with scenery."
 number: V0615
 sort_key: 615
-date: 2027-03-08
+date: 2026-06-03
 date_written: 1991-06-21
 category: curiosity
 form: open

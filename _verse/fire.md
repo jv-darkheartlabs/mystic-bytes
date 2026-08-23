@@ -4,7 +4,7 @@ title: "Fire"
 dek: "Flame as contract with danger."
 number: V0515
 sort_key: 515
-date: 2027-01-28
+date: 2026-05-07
 date_written: 1992-12-05
 category: nature
 form: free-verse

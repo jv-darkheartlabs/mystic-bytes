@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19885120.H_D_Carlton"
 dek: "The beacon of light was supposed to save me..."
 number: R062
 sort_key: 062
-date: 2021-09-12
+date: 2026-01-08
 date_read: 2017-11-25
 category: captor-and-captive
 cover: /assets/readings/does-it-hurt.jpg

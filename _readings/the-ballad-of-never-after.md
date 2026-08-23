@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/14106524.Stephanie_Garber"
 dek: ""
 number: R1166
 sort_key: 1166
-date: 2025-05-10
+date: 2026-05-07
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/the-ballad-of-never-after.jpg

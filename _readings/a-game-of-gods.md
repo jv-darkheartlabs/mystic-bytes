@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Scarlett_St_Clair"
 dek: ""
 number: R926
 sort_key: 926
-date: 2024-07-22
+date: 2026-04-12
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/a-game-of-gods.jpg

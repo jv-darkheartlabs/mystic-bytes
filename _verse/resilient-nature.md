@@ -4,7 +4,7 @@ title: "Resilient Nature"
 dek: "Forest as monument that bends."
 number: V0535
 sort_key: 535
-date: 2027-02-17
+date: 2026-05-21
 date_written: 1993-04-02
 category: nature
 form: free-verse

@@ -5,7 +5,7 @@ author: "Megan Clawson"
 dek: "When opposites don't attract, can romance ever reign?"
 number: R872
 sort_key: 872
-date: 2024-05-18
+date: 2026-04-06
 date_read: 2023-11-25
 category: enemies-to-lovers
 cover: /assets/readings/love-at-first-knight.jpg

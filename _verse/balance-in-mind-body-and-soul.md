@@ -4,7 +4,7 @@ title: "Balance in Mind, Body, and Soul"
 dek: "Health as alignment — not a poster."
 number: V0823
 sort_key: 823
-date: 2028-12-06
+date: 2026-06-26
 date_written: 2015-05-12
 category: life
 form: free-verse

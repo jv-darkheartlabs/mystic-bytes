@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
 dek: "#1 New York Times Bestselling Series"
 number: R1124
 sort_key: 1124
-date: 2025-03-17
+date: 2026-05-03
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/the-assassins-blade.jpg

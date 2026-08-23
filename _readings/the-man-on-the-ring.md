@@ -5,7 +5,7 @@ author: "Diego Tovar"
 dek: ""
 number: R588
 sort_key: 588
-date: 2023-06-04
+date: 2026-03-05
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/the-man-on-the-ring.jpg

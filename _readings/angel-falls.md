@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/54485.Kristin_Hannah"
 dek: "A Novel"
 number: R435
 sort_key: 435
-date: 2022-11-29
+date: 2026-02-16
 date_read: 2010-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/angel-falls.jpg
 spice: 2
 content_warnings:

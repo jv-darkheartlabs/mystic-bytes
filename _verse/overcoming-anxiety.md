@@ -4,7 +4,7 @@ title: "Overcoming Anxiety"
 dek: "The nervous system does not attend your schedule."
 number: V0102
 sort_key: 102
-date: 2026-08-04
+date: 2026-01-06
 date_written: 2000-04-12
 category: spirituality
 form: free-verse

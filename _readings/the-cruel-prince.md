@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25422.Holly_Black"
 dek: "Lush, dangerous, a dark jewel of a book."
 number: R1146
 sort_key: 1146
-date: 2025-04-19
+date: 2026-05-05
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/the-cruel-prince.jpg

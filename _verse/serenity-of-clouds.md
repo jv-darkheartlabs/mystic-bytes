@@ -4,7 +4,7 @@ title: "Serenity of Clouds"
 dek: "Calm as shape-change you cannot keep."
 number: V0537
 sort_key: 537
-date: 2027-02-19
+date: 2026-05-22
 date_written: 1994-04-18
 category: nature
 form: free-verse

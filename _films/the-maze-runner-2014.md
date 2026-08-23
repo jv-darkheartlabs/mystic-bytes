@@ -4,7 +4,7 @@ title: "The Maze Runner"
 dek: "2014 adaptation of James Dashner's maze survival thriller."
 number: F0023
 sort_key: 23
-date: 2026-07-11
+date: 2026-05-04
 date_watched: 2014-09-19
 year: 2014
 poster: /assets/films/the-maze-runner-2014.jpg
@@ -27,7 +27,6 @@ category: dystopian
 format: feature-film
 fidelity: loose
 mpaa_rating: "PG-13"
-spice: 1
 content_warnings:
   - "violence"
   - "child peril"
@@ -41,6 +40,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: juvenile
 ---
 
 ## Hook & thesis

@@ -5,9 +5,9 @@ author: "Scott Westerfeld"
 dek: "Uglies Series Book 1"
 number: R1740
 sort_key: 1740
-date: 2026-05-20
+date: 2026-07-05
 date_read: 2005-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/uglies-uglies-1.jpg
 spice: 2
 content_warnings:

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "For her, I'd burn it all."
 number: R102
 sort_key: 102
-date: 2021-10-27
+date: 2026-01-12
 date_read: 2021-06-10
 category: dark-billionaire
 cover: /assets/readings/kingdom-cross.jpg

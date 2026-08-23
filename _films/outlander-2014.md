@@ -4,7 +4,7 @@ title: "Outlander"
 dek: "2014 Starz series adaptation of Diana Gabaldon's time-travel romance."
 number: F0031
 sort_key: 31
-date: 2026-07-11
+date: 2026-06-17
 date_watched: 2014-08-09
 year: 2014
 poster: /assets/films/outlander-2014.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

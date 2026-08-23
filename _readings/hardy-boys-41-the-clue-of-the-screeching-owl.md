@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #41"
 number: R2306
 sort_key: 2306
-date: 2026-06-04
+date: 2026-08-14
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-41-the-clue-of-the-screeching-owl.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

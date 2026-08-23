@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7176782.Kristin_Harmel"
 dek: "A Novel"
 number: R433
 sort_key: 433
-date: 2022-11-30
+date: 2026-02-16
 date_read: 2008-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-book-of-lost-names.jpg
 spice: 2
 content_warnings:

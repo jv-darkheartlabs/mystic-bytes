@@ -5,7 +5,7 @@ author: "Frank Herbert"
 dek: "Dune Series Book 2"
 number: R1915
 sort_key: 1915
-date: 2026-06-14
+date: 2026-07-19
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/dune-messiah-dune-2.jpg

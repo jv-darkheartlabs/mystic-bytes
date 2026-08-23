@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21175647.Cassia_Quinn"
 dek: "Her family broke their promise. Now he's going to take her for himself."
 number: R005
 sort_key: 005
-date: 2021-07-05
+date: 2026-01-02
 date_read: 2020-08-16
 category: arranged-marriage
 cover: /assets/readings/forced-union.jpg

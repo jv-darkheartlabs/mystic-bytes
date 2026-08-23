@@ -5,7 +5,7 @@ author: "Frankie Diane Mallis"
 dek: ""
 number: R1434
 sort_key: 1434
-date: 2026-04-01
+date: 2026-06-05
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/son-of-the-drowned-empire.jpg

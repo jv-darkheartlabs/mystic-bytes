@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #47"
 number: R2370
 sort_key: 2370
-date: 2026-04-01
+date: 2026-08-21
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-47-the-mysterious-mannequin.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

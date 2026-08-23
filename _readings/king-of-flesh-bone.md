@@ -5,7 +5,7 @@ author: "Liv Zander"
 dek: "The Pale Court Duet — Book One"
 number: R296
 sort_key: 296
-date: 2022-06-14
+date: 2026-02-01
 date_read: 2023-11-25
 category: vampire-paranormal
 cover: /assets/readings/king-of-flesh-bone.jpg

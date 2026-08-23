@@ -4,7 +4,7 @@ title: "Embracing Possibilities"
 dek: "Potential as verb, not poster."
 number: V0813
 sort_key: 813
-date: 2028-02-25
+date: 2026-06-20
 date_written: 2015-09-22
 category: life
 form: free-verse

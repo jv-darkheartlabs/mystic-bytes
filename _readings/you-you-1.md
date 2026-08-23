@@ -5,7 +5,7 @@ author: "Caroline Kepnes"
 dek: "You can't choose who you love."
 number: R1785
 sort_key: 1785
-date: 2026-04-05
+date: 2026-07-08
 date_read: 2024-06-10
 category: stalker-obsession
 cover: /assets/readings/you-you-1.jpg

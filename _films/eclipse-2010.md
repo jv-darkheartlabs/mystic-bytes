@@ -4,7 +4,7 @@ title: "The Twilight Saga: Eclipse"
 dek: "2010 third installment — army of newborn vampires."
 number: F0017
 sort_key: 17
-date: 2026-07-11
+date: 2026-03-31
 date_watched: 2010-06-30
 year: 2010
 poster: /assets/films/eclipse-2010.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

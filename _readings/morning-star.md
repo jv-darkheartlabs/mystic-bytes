@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6524620.Pierce_Brown"
 dek: "Red Rising Saga Book Three"
 number: R713
 sort_key: 713
-date: 2023-11-10
+date: 2026-03-19
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/morning-star.jpg

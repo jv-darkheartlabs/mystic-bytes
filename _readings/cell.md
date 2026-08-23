@@ -5,9 +5,9 @@ author: "Stephen  King"
 dek: ""
 number: R1899
 sort_key: 1899
-date: 2026-06-30
+date: 2026-07-18
 date_read: 2014-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/cell.jpg
 spice: 2
 content_warnings:

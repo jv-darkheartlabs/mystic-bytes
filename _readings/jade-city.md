@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Fonda_Lee"
 dek: ""
 number: R960
 sort_key: 960
-date: 2024-09-03
+date: 2026-04-15
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/jade-city.jpg

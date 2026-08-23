@@ -5,7 +5,7 @@ author: "Lisa J. Morgan"
 dek: ""
 number: R1054
 sort_key: 1054
-date: 2024-12-29
+date: 2026-04-25
 date_read: 2025-04-04
 category: reverse-harem
 cover: /assets/readings/unbroken-bonds.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8420077.Nicholas_Eames"
 dek: "The band is back in town."
 number: R693
 sort_key: 693
-date: 2023-10-11
+date: 2026-03-17
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/kings-of-the-wyld.jpg

@@ -5,7 +5,7 @@ author: "Amelia Hutchins"
 dek: "Legacy of the Nine Realms 4"
 number: R1423
 sort_key: 1423
-date: 2026-03-18
+date: 2026-06-04
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/crown-of-chaos.jpg

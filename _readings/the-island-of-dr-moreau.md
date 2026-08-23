@@ -5,7 +5,7 @@ author: "H.G. Wells"
 dek: ""
 number: R1722
 sort_key: 1722
-date: 2026-06-07
+date: 2026-07-03
 date_read: 2021-06-10
 category: gothic-horror-romance
 cover: /assets/readings/the-island-of-dr-moreau.jpg

@@ -5,9 +5,9 @@ author: "Riley Sager"
 dek: ""
 number: R1692
 sort_key: 1692
-date: 2026-07-07
+date: 2026-06-29
 date_read: 2007-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/final-girls.jpg
 spice: 2
 content_warnings:

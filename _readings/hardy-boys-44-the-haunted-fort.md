@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #44"
 number: R2309
 sort_key: 2309
-date: 2026-06-01
+date: 2026-08-14
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-44-the-haunted-fort.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

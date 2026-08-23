@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.J_Bree"
 dek: ""
 number: R1055
 sort_key: 1055
-date: 2025-01-01
+date: 2026-04-26
 date_read: 2026-05-07
 category: reverse-harem
 cover: /assets/readings/blood-bonds.jpg

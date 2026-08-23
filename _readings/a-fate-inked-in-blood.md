@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7154216.Danielle_L_Jensen"
 dek: "Saga of the Unfated Book One"
 number: R1180
 sort_key: 1180
-date: 2025-05-27
+date: 2026-05-09
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/a-fate-inked-in-blood.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "A Seven Deadly Sins Novel — Book 2"
 number: R212
 sort_key: 212
-date: 2022-03-07
+date: 2026-01-23
 date_read: 2023-08-16
 category: stalker-obsession
 cover: /assets/readings/obsession.jpg

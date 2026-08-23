@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Kate_Stewart"
 dek: ""
 number: R1014
 sort_key: 1014
-date: 2024-11-10
+date: 2026-04-21
 date_read: 2021-09-19
 category: forbidden-love
 cover: /assets/readings/flock.jpg

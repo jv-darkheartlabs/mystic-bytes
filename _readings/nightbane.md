@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18585257.Alex_Aster"
 dek: "From the #1 NYT bestselling author of Lightlark"
 number: R1217
 sort_key: 1217
-date: 2025-07-18
+date: 2026-05-13
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/nightbane.jpg

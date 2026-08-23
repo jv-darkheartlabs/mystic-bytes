@@ -4,7 +4,7 @@ title: "Art and Beauty"
 dek: "Canvas as moment arrested."
 number: V0619
 sort_key: 619
-date: 2027-03-12
+date: 2026-06-06
 date_written: 1989-11-11
 category: curiosity
 form: open

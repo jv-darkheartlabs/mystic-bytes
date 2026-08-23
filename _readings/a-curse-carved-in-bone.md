@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7154216.Danielle_L_Jensen"
 dek: "Saga of the Unfated Book Two"
 number: R1184
 sort_key: 1184
-date: 2025-05-31
+date: 2026-05-09
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/a-curse-carved-in-bone.jpg

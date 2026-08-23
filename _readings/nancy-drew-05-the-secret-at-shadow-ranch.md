@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #5"
 number: R2373
 sort_key: 2373
-date: 2026-03-29
+date: 2026-08-21
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-05-the-secret-at-shadow-ranch.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

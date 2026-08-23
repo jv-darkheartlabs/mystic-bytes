@@ -4,7 +4,7 @@ title: "Tidal Waves"
 dek: "Sadness as flood geometry, not metaphor only."
 number: V0214
 sort_key: 214
-date: 2026-10-01
+date: 2026-02-15
 date_written: 1997-09-14
 category: grief-loss-resilience
 form: free-verse

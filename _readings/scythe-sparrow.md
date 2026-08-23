@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21652469.Brynne_Weaver"
 dek: "The Ruinous Love Trilogy"
 number: R113
 sort_key: 113
-date: 2021-11-12
+date: 2026-01-13
 date_read: 2020-08-16
 category: enemies-to-lovers
 cover: /assets/readings/scythe-sparrow.jpg

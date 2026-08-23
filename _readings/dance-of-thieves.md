@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8725.Mary_E_Pearson"
 dek: ""
 number: R912
 sort_key: 912
-date: 2024-07-03
+date: 2026-04-10
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/dance-of-thieves.jpg

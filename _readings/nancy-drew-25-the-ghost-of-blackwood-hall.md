@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #25"
 number: R2346
 sort_key: 2346
-date: 2026-04-25
+date: 2026-08-18
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-25-the-ghost-of-blackwood-hall.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

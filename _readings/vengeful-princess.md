@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Ava_Summers"
 dek: "Empire of Carnage — Book 1"
 number: R178
 sort_key: 178
-date: 2022-01-27
+date: 2026-01-20
 date_read: 2025-10-22
 category: mafia-boss-and-innocent
 cover: /assets/readings/vengeful-princess.jpg

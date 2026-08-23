@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Simon_Jimenez"
 dek: ""
 number: R917
 sort_key: 917
-date: 2024-07-11
+date: 2026-04-11
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/the-spear-cuts-through-water.jpg

@@ -5,7 +5,7 @@ author: "Cassie Alexander"
 dek: ""
 number: R1254
 sort_key: 1254
-date: 2025-08-29
+date: 2026-05-17
 date_read: 2021-06-10
 category: forbidden-love
 cover: /assets/readings/bend-her.jpg

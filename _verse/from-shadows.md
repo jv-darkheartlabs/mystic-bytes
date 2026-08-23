@@ -4,7 +4,7 @@ title: "From Shadows"
 dek: "Violence leaves a weather the body keeps."
 number: V0208
 sort_key: 208
-date: 2026-09-25
+date: 2026-02-11
 date_written: 1998-08-19
 category: grief-loss-resilience
 form: free-verse

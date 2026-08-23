@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17802106.K_A_Knight"
 dek: "International Bestselling Author"
 number: R193
 sort_key: 193
-date: 2022-02-13
+date: 2026-01-21
 date_read: 2016-07-13
 category: reverse-harem
 cover: /assets/readings/den-of-vipers.jpg

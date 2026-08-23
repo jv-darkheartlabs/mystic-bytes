@@ -5,7 +5,7 @@ author: "Ira Levin"
 dek: "A chilling exploration of conformity and the dark side of suburban life."
 number: R1925
 sort_key: 1925
-date: 2026-06-04
+date: 2026-07-20
 date_read: 2020-11-25
 category: gothic-horror-romance
 cover: /assets/readings/the-stepford-wives.jpg

@@ -4,7 +4,7 @@ title: "Appreciation"
 dek: "Notice without invoice."
 number: V0127
 sort_key: 127
-date: 2026-08-29
+date: 2026-01-23
 date_written: 2000-07-14
 category: spirituality
 form: free-verse

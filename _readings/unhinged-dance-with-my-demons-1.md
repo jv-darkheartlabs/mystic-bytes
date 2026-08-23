@@ -5,7 +5,7 @@ author: "Steph Macca"
 dek: "Dance With My Demons Series"
 number: R1953
 sort_key: 1953
-date: 2026-05-07
+date: 2026-07-23
 date_read: 2024-03-01
 category: gothic-horror-romance
 cover: /assets/readings/unhinged-dance-with-my-demons-1.jpg

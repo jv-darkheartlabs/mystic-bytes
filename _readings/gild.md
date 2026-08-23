@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17614050.Raven_Kennedy"
 dek: "A gilded cage is still a prison"
 number: R1127
 sort_key: 1127
-date: 2025-03-25
+date: 2026-05-03
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/gild.jpg

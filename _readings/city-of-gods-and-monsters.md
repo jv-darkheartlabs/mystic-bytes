@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Kayla Edwards"
 dek: "When a devil is hunting you, there is nowhere you can hide."
 number: R514
 sort_key: 514
-date: 2023-03-05
+date: 2026-02-25
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/city-of-gods-and-monsters.jpg

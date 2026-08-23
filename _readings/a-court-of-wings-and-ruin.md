@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
 dek: ""
 number: R1129
 sort_key: 1129
-date: 2025-03-30
+date: 2026-05-03
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/a-court-of-wings-and-ruin.jpg

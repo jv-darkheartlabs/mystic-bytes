@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228250.Hannah_Grace"
 dek: "A Maple Hills Novel"
 number: R1363
 sort_key: 1363
-date: 2026-01-05
+date: 2026-05-28
 date_read: 2022-07-13
 category: enemies-to-lovers
 cover: /assets/readings/wildfire.jpg

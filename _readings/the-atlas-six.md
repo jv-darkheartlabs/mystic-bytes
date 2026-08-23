@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/21230708.Olivie_Blake"
 dek: "Knowledge is carnage. Six are chosen. Only five will walk away."
 number: R575
 sort_key: 575
-date: 2023-05-17
-date_read: 2026-11-25
+date: 2026-03-04
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/the-atlas-six.jpg
 spice: 3

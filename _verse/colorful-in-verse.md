@@ -4,7 +4,7 @@ title: "Colorful in Verse"
 dek: "Pigment as appetite made visible."
 number: V0332
 sort_key: 332
-date: 2026-11-14
+date: 2026-03-17
 date_written: 2016-11-03
 category: love
 form: free-verse

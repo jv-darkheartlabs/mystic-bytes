@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien"
 dek: "75th Anniversary Edition"
 number: R663
 sort_key: 663
-date: 2023-09-02
+date: 2026-03-14
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/the-hobbit.jpg
-spice: 2
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

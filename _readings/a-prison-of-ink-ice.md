@@ -5,7 +5,7 @@ author: "Rebecca F. Kenney"
 dek: ""
 number: R973
 sort_key: 973
-date: 2024-09-18
+date: 2026-04-17
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/a-prison-of-ink-ice.jpg

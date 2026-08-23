@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: ""
 number: R1359
 sort_key: 1359
-date: 2025-12-30
+date: 2026-05-28
 date_read: 2018-03-01
 category: enemies-to-lovers
 cover: /assets/readings/wicked-villain-shorts.jpg

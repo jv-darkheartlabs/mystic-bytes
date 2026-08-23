@@ -5,7 +5,7 @@ author: "Shel Silverstein"
 dek: ""
 number: R1679
 sort_key: 1679
-date: 2026-04-11
+date: 2026-06-28
 date_read: 2026-08-16
 category: gothic-horror-romance
 cover: /assets/readings/where-the-sidewalk-ends.jpg

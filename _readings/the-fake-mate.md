@@ -5,7 +5,7 @@ author: "Lana Ferguson"
 dek: "When love is a whole different animal."
 number: R605
 sort_key: 605
-date: 2023-06-26
+date: 2026-03-07
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/the-fake-mate.jpg

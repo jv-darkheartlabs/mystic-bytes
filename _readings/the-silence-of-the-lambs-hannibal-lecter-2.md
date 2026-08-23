@@ -5,11 +5,10 @@ author: "Thomas  Harris"
 dek: "Hannibal Lecter Series"
 number: R2180
 sort_key: 2180
-date: 2026-04-10
+date: 2026-08-04
 date_read: 2005-05-07
-category: dark-thriller
+category: mystery-crime
 cover: /assets/readings/the-silence-of-the-lambs-hannibal-lecter-2.jpg
-spice: 3
 content_warnings:
   - "graphic violence"
   - "murder"

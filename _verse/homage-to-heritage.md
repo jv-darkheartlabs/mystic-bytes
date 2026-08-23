@@ -4,7 +4,7 @@ title: "Homage to Heritage"
 dek: "New Orleans memory as inherited weather."
 number: V0336
 sort_key: 336
-date: 2026-11-18
+date: 2026-03-19
 date_written: 2020-06-28
 category: love
 form: free-verse

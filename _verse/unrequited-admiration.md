@@ -4,7 +4,7 @@ title: "Unrequited Admiration"
 dek: "Want without return still counts in the body."
 number: V0309
 sort_key: 309
-date: 2026-10-22
+date: 2026-03-01
 date_written: 2015-05-26
 category: love
 form: free-verse

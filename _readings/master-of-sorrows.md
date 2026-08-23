@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Justin_Call"
 dek: ""
 number: R675
 sort_key: 675
-date: 2023-09-18
+date: 2026-03-15
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/master-of-sorrows.jpg

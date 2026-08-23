@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #33"
 number: R2355
 sort_key: 2355
-date: 2026-04-16
+date: 2026-08-19
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-33-the-witch-tree-symbol.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

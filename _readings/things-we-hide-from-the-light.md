@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228260.Lucy_Score"
 dek: "Good guys don't fall for bad girls"
 number: R1371
 sort_key: 1371
-date: 2026-01-19
+date: 2026-05-29
 date_read: 2018-06-10
 category: enemies-to-lovers
 cover: /assets/readings/things-we-hide-from-the-light.jpg

@@ -5,9 +5,9 @@ author: "Bev  Vincent"
 dek: "Exploring Stephen King's Magnum Opus"
 number: R1889
 sort_key: 1889
-date: 2026-04-01
+date: 2026-07-18
 date_read: 2014-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-road-to-the-dark-tower-exploring-stephen-kings-magnum-opus.jpg
 spice: 1
 content_warnings:

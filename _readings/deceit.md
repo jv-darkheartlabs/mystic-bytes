@@ -5,7 +5,7 @@ author: "Katelyn Taylor"
 dek: ""
 number: R798
 sort_key: 798
-date: 2024-02-15
+date: 2026-03-28
 date_read: 2021-09-19
 category: gothic-horror-romance
 cover: /assets/readings/deceit.jpg

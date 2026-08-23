@@ -4,7 +4,7 @@ title: "Winter Whisper"
 dek: "Snow as hush with homework."
 number: V0527
 sort_key: 527
-date: 2027-02-09
+date: 2026-05-15
 date_written: 1993-12-14
 category: nature
 form: free-verse

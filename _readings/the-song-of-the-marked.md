@@ -5,7 +5,7 @@ author: "S. M. Gaither"
 dek: "Shadows & Crowns — Book One"
 number: R1455
 sort_key: 1455
-date: 2026-04-30
+date: 2026-06-08
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/the-song-of-the-marked.jpg

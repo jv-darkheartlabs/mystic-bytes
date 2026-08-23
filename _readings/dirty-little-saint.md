@@ -5,7 +5,7 @@ author: "M Violet"
 dek: ""
 number: R240
 sort_key: 240
-date: 2022-04-11
+date: 2026-01-26
 date_read: 2015-09-19
 category: stalker-obsession
 cover: /assets/readings/dirty-little-saint.jpg

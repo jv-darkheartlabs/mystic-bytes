@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #48"
 number: R2371
 sort_key: 2371
-date: 2026-03-31
+date: 2026-08-21
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-48-the-crooked-banister.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

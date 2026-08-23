@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "Dare Series Book Three"
 number: R013
 sort_key: 013
-date: 2021-07-11
+date: 2026-01-02
 date_read: 2016-07-13
 category: bully-romance
 cover: /assets/readings/if-you-dare.jpg

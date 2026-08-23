@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book Two of the Liveship Traders"
 number: R614
 sort_key: 614
-date: 2023-07-06
+date: 2026-03-08
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/mad-ship.jpg

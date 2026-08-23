@@ -5,7 +5,7 @@ author: "Shannon Chakraborty"
 dek: ""
 number: R1409
 sort_key: 1409
-date: 2026-03-03
+date: 2026-06-02
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/the-city-of-brass.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Ava_Summers"
 dek: "Empire of Carnage — Book 2"
 number: R177
 sort_key: 177
-date: 2022-01-25
+date: 2026-01-20
 date_read: 2024-09-19
 category: mafia-boss-and-innocent
 cover: /assets/readings/twisted-kings.jpg

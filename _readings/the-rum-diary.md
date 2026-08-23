@@ -5,9 +5,9 @@ author: "Hunter S. Thompson"
 dek: ""
 number: R1556
 sort_key: 1556
-date: 2026-05-22
+date: 2026-06-17
 date_read: 2011-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-rum-diary.jpg
 spice: 2
 content_warnings:

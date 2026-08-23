@@ -4,7 +4,7 @@ title: "Untamed Spirit"
 dek: "Freedom with brass in the bloodstream."
 number: V0418
 sort_key: 418
-date: 2026-12-06
+date: 2026-04-01
 date_written: 2009-10-31
 category: nola
 form: open

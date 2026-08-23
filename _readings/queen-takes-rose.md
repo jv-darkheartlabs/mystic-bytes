@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Wicked Villains"
 number: R1358
 sort_key: 1358
-date: 2026-01-05
+date: 2026-05-28
 date_read: 2017-11-25
 category: enemies-to-lovers
 cover: /assets/readings/queen-takes-rose.jpg

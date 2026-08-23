@@ -5,7 +5,7 @@ author: "Mary Alice Monroe"
 dek: "A Novel"
 number: R638
 sort_key: 638
-date: 2023-08-11
+date: 2026-03-11
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/where-the-rivers-merge.jpg

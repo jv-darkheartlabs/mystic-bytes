@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "a novel"
 number: R469
 sort_key: 469
-date: 2023-01-09
+date: 2026-02-20
 date_read: 2016-04-04
 category: enemies-to-lovers
 cover: /assets/readings/it-happened-one-summer.jpg

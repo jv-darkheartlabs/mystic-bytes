@@ -5,7 +5,7 @@ author: "Frankie Diane Mallis"
 dek: "A Drowned Empire Novella"
 number: R1422
 sort_key: 1422
-date: 2026-03-19
+date: 2026-06-04
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/solstice-of-the-drowned-empire.jpg

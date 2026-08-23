@@ -5,7 +5,7 @@ author: "Samuel Taylor Coleridge"
 dek: ""
 number: R1837
 sort_key: 1837
-date: 2026-05-23
+date: 2026-07-12
 date_read: 2016-04-04
 category: gothic-horror-romance
 cover: /assets/readings/the-rime-of-the-ancient-mariner.jpg

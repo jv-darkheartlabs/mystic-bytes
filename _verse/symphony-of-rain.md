@@ -4,7 +4,7 @@ title: "Symphony of Rain"
 dek: "Rain as city percussion."
 number: V0455
 sort_key: 455
-date: 2027-01-12
+date: 2026-04-26
 date_written: 2006-11-03
 category: nola
 form: open
@@ -17,7 +17,7 @@ content_warnings:
   - grief
   - emotional intensity
 shelf: true
-source_title: "The Symphony of Rain in NOLA"
+source_title: "The Symphony of Rain in New Orleans"
 ---
 
 Rain in New Orleans

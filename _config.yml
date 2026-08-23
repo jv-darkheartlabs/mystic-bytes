@@ -7,7 +7,7 @@ baseurl: ""
 email: jv@darkheartlabs.technology
 author: JV · Dark Heart Labs
 
-asset_version: "20260823a"
+asset_version: "20260823b"
 
 markdown: kramdown
 highlighter: rouge

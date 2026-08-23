@@ -5,7 +5,7 @@ author: "W. Winters"
 dek: "USA Today Bestselling Author"
 number: R819
 sort_key: 819
-date: 2024-03-17
+date: 2026-03-31
 date_read: 2018-03-01
 category: stalker-obsession
 cover: /assets/readings/what-i-would-do-for-you.jpg

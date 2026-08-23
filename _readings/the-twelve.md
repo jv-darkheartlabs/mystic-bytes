@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17226.Justin_Cronin"
 dek: "The Passage Book Two"
 number: R776
 sort_key: 776
-date: 2024-01-23
+date: 2026-03-26
 date_read: 2023-05-07
 category: gothic-horror-romance
 cover: /assets/readings/the-twelve.jpg

@@ -5,7 +5,7 @@ author: "Ali Hazelwood"
 dek: ""
 number: R874
 sort_key: 874
-date: 2024-05-24
+date: 2026-04-06
 date_read: 2025-04-04
 category: enemies-to-lovers
 cover: /assets/readings/stuck-with-you.jpg

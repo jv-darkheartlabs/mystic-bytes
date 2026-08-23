@@ -5,7 +5,7 @@ author: "Traci Lovelot"
 dek: "Our Fae Queen — Book 4"
 number: R535
 sort_key: 535
-date: 2023-04-04
+date: 2026-02-27
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/fated-queen.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.A_L_Woods"
 dek: "Bestselling Author"
 number: R643
 sort_key: 643
-date: 2023-08-12
+date: 2026-03-11
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/adrenaline.jpg

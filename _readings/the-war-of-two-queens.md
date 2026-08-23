@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4476932.Jennifer_L_Armentrout
 dek: ""
 number: R1171
 sort_key: 1171
-date: 2025-05-17
+date: 2026-05-08
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/the-war-of-two-queens.jpg

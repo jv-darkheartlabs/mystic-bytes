@@ -4,7 +4,7 @@ title: "Day in the Sun"
 dek: "Radiance as afternoon employment."
 number: V0523
 sort_key: 523
-date: 2027-02-05
+date: 2026-05-13
 date_written: 1994-07-19
 category: nature
 form: free-verse

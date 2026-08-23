@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/17202100.Charissa_Weaks"
 dek: "A Witch Walker Novel"
 number: R1187
 sort_key: 1187
-date: 2025-06-07
-date_read: 2026-11-25
+date: 2026-05-09
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/the-witch-collector.jpg
 spice: 3

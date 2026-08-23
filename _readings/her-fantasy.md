@@ -5,7 +5,7 @@ author: "Lauren Biel"
 dek: "Her dark desires are real..."
 number: R769
 sort_key: 769
-date: 2024-01-16
+date: 2026-03-25
 date_read: 2016-07-13
 category: forbidden-love
 cover: /assets/readings/her-fantasy.jpg

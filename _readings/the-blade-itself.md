@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/276660.Joe_Abercrombie"
 dek: ""
 number: R664
 sort_key: 664
-date: 2023-09-06
+date: 2026-03-14
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/the-blade-itself.jpg

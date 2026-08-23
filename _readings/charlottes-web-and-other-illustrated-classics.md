@@ -5,11 +5,10 @@ author: "E.B. White"
 dek: ""
 number: R1686
 sort_key: 1686
-date: 2026-04-04
+date: 2026-06-29
 date_read: 1988-05-15
 category: juvenile-fiction
 cover: /assets/readings/charlottes-web-and-other-illustrated-classics.jpg
-spice: 1
 content_warnings:
 tags:
   - classic

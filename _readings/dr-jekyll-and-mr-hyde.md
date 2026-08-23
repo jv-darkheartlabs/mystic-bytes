@@ -5,7 +5,7 @@ author: "Robert Louis Stevenson"
 dek: ""
 number: R1918
 sort_key: 1918
-date: 2026-06-11
+date: 2026-07-20
 date_read: 2025-04-04
 category: gothic-horror-romance
 cover: /assets/readings/dr-jekyll-and-mr-hyde.jpg

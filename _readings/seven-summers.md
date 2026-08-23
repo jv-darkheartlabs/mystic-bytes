@@ -5,7 +5,7 @@ author: "Paige Toon"
 dek: "Six summers to fall in love, one summer to change it all."
 number: R1023
 sort_key: 1023
-date: 2024-11-21
+date: 2026-04-22
 date_read: 2018-09-19
 category: forbidden-love
 cover: /assets/readings/seven-summers.jpg

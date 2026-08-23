@@ -5,7 +5,7 @@ author: "Mercedes Ron"
 dek: "How did I fall? Easy. He turned my world upside down."
 number: R743
 sort_key: 743
-date: 2023-12-15
+date: 2026-03-22
 date_read: 2026-08-16
 category: forbidden-love
 cover: /assets/readings/my-fault.jpg

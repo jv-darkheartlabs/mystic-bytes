@@ -4,7 +4,7 @@ title: "Limitations of Expectations"
 dek: "Design held too tight — potential squeezed out."
 number: V0839
 sort_key: 839
-date: 2030-04-12
+date: 2026-07-07
 date_written: 2008-02-20
 category: life
 form: free-verse

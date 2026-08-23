@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Dark Olympus"
 number: R1468
 sort_key: 1468
-date: 2026-05-16
+date: 2026-06-09
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/dark-restraint.jpg

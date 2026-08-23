@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4501753.Grace_Draven"
 dek: ""
 number: R1215
 sort_key: 1215
-date: 2025-07-08
+date: 2026-05-13
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/eidolon.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19845642.Harper_L_Woods"
 dek: "Death is his undoing."
 number: R288
 sort_key: 288
-date: 2022-06-01
+date: 2026-01-31
 date_read: 2015-03-01
 category: vampire-paranormal
 cover: /assets/readings/the-cursed.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4575289.Leigh_Bardugo"
 dek: ""
 number: R978
 sort_key: 978
-date: 2024-09-28
+date: 2026-04-17
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/crooked-kingdom.jpg

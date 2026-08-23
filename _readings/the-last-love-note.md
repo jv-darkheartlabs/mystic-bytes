@@ -5,7 +5,7 @@ author: "Emma Grey"
 dek: ""
 number: R1029
 sort_key: 1029
-date: 2024-11-28
+date: 2026-04-23
 date_read: 2024-06-10
 category: forbidden-love
 cover: /assets/readings/the-last-love-note.jpg

@@ -5,9 +5,9 @@ author: "Erich Maria Remarque"
 dek: ""
 number: R1647
 sort_key: 1647
-date: 2026-05-13
+date: 2026-06-26
 date_read: 2012-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/all-quiet-on-the-western-front.jpg
 spice: 1
 content_warnings:

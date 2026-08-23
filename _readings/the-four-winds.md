@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/54485.Kristin_Hannah"
 dek: "A Novel"
 number: R406
 sort_key: 406
-date: 2022-10-23
+date: 2026-02-13
 date_read: 2011-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-four-winds.jpg
 spice: 2
 content_warnings:

@@ -5,7 +5,7 @@ author: "Colette Rhodes"
 dek: "Shades of Sin"
 number: R642
 sort_key: 642
-date: 2023-08-14
+date: 2026-03-11
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/luxuria.jpg

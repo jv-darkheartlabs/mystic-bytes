@@ -5,7 +5,7 @@ author: "Cassandra Clare"
 dek: "The Infernal Devices — Book One"
 number: R561
 sort_key: 561
-date: 2023-05-01
+date: 2026-03-02
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/clockwork-angel.jpg

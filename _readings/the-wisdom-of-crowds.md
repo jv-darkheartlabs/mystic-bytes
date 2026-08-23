@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/276660.Joe_Abercrombie"
 dek: ""
 number: R504
 sort_key: 504
-date: 2023-02-25
+date: 2026-02-24
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/the-wisdom-of-crowds.jpg

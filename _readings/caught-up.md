@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/14168084.Navessa_Allen"
 dek: "Into Darkness — Book 1"
 number: R221
 sort_key: 221
-date: 2022-03-21
+date: 2026-01-24
 date_read: 2020-08-16
 category: stalker-obsession
 cover: /assets/readings/caught-up.jpg

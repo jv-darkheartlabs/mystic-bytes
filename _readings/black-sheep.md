@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21652469.Brynne_Weaver"
 dek: "She's not your meek little lamb"
 number: R120
 sort_key: 120
-date: 2021-11-15
+date: 2026-01-13
 date_read: 2015-06-10
 category: enemies-to-lovers
 cover: /assets/readings/black-sheep.jpg

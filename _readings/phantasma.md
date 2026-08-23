@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20135235.Kaylie_Smith"
 dek: "A Dark Fantasy Romance"
 number: R271
 sort_key: 271
-date: 2022-05-12
+date: 2026-01-29
 date_read: 2022-04-04
 category: vampire-paranormal
 cover: /assets/readings/phantasma.jpg

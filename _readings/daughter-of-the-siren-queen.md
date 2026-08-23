@@ -5,7 +5,7 @@ author: "Tricia Levenseller"
 dek: ""
 number: R1437
 sort_key: 1437
-date: 2026-04-04
+date: 2026-06-06
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/daughter-of-the-siren-queen.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228259.Emily_Rath"
 dek: "The Jacksonville Rays Hockey Series"
 number: R1499
 sort_key: 1499
-date: 2026-06-19
+date: 2026-06-12
 date_read: 2026-08-16
 category: reverse-harem
 cover: /assets/readings/pucking-sweet.jpg

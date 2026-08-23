@@ -5,11 +5,10 @@ author: "Henry James"
 dek: ""
 number: R1730
 sort_key: 1730
-date: 2026-05-30
+date: 2026-07-04
 date_read: 1996-05-15
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-turn-of-the-screw.jpg
-spice: 2
 content_warnings:
   - "ghosts"
   - "child endangerment"

@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/5194.Michael_Crichton"
 dek: ""
 number: R348
 sort_key: 348
-date: 2022-08-13
+date: 2026-02-07
 date_read: 2013-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/jurassic-park.jpg
 spice: 2
 content_warnings:

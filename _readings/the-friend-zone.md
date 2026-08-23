@@ -5,7 +5,7 @@ author: "Abby Jimenez"
 dek: ""
 number: R887
 sort_key: 887
-date: 2024-06-03
+date: 2026-04-07
 date_read: 2026-08-16
 category: enemies-to-lovers
 cover: /assets/readings/the-friend-zone.jpg

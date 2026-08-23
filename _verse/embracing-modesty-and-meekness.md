@@ -4,7 +4,7 @@ title: "Embracing Modesty and Meekness"
 dek: "Humility as quiet voltage."
 number: V0812
 sort_key: 812
-date: 2028-01-21
+date: 2026-06-19
 date_written: 2011-05-21
 category: life
 form: free-verse

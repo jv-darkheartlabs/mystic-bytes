@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6518850.Cora_Reilly"
 dek: ""
 number: R1277
 sort_key: 1277
-date: 2025-09-28
+date: 2026-05-19
 date_read: 2020-11-25
 category: mafia-boss-and-innocent
 cover: /assets/readings/bound-by-love.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3618.Diana_Gabaldon"
 dek: ""
 number: R619
 sort_key: 619
-date: 2023-07-11
+date: 2026-03-09
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/dragonfly-in-amber.jpg

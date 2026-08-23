@@ -5,9 +5,9 @@ author: "Rupi Kaur"
 dek: ""
 number: R1807
 sort_key: 1807
-date: 2026-06-22
+date: 2026-07-10
 date_read: 2012-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/milk-and-honey.jpg
 spice: 1
 content_warnings:

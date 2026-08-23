@@ -4,7 +4,7 @@ title: "Bound by Blood"
 dek: "Kin as lineage — not ornament."
 number: V0902
 sort_key: 902
-date: 2033-09-01
+date: 2026-08-05
 date_written: 2012-08-09
 category: justice
 form: free-verse

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Rina_Kent"
 dek: "Deception Trilogy 1"
 number: R801
 sort_key: 801
-date: 2024-02-25
+date: 2026-03-29
 date_read: 2024-03-01
 category: mafia-boss-and-innocent
 cover: /assets/readings/vow-of-deception.jpg

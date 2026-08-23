@@ -5,7 +5,7 @@ author: "Jaymin Eve & Tate James"
 dek: "Boys of Bellerose #1"
 number: R1089
 sort_key: 1089
-date: 2025-02-10
+date: 2026-04-29
 date_read: 2024-03-01
 category: bully-romance
 cover: /assets/readings/poison-roses.jpg

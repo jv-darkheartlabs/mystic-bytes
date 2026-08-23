@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #30"
 number: R2352
 sort_key: 2352
-date: 2026-04-19
+date: 2026-08-19
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-30-the-clue-of-the-velvet-mask.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

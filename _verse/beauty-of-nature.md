@@ -4,7 +4,7 @@ title: "Beauty of Nature"
 dek: "Design without designer sermon."
 number: V0525
 sort_key: 525
-date: 2027-02-07
+date: 2026-05-14
 date_written: 1992-04-09
 category: nature
 form: free-verse

@@ -5,7 +5,7 @@ author: "C.S. Lewis"
 dek: "Chronicles of Narnia Series"
 number: R2088
 sort_key: 2088
-date: 2026-04-02
+date: 2026-07-30
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/prince-caspian-chronicles-of-narnia-2.jpg

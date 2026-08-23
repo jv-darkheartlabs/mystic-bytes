@@ -5,7 +5,7 @@ author: "Shae Ruby"
 dek: "She doesn't want to be owned, yet he would bleed for her."
 number: R1255
 sort_key: 1255
-date: 2025-08-27
+date: 2026-05-17
 date_read: 2022-07-13
 category: forbidden-love
 cover: /assets/readings/bloody-tainted-lies.jpg

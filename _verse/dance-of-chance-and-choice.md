@@ -4,7 +4,7 @@ title: "Dance of Chance and Choice"
 dek: "Luck leads — choice still sets the tempo."
 number: V0851
 sort_key: 851
-date: 2031-04-01
+date: 2026-07-16
 date_written: 2003-05-25
 category: life
 form: free-verse

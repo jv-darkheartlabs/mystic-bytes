@@ -5,7 +5,7 @@ author: "Callie Rose"
 dek: "Ruthless Hearts Book 2"
 number: R1319
 sort_key: 1319
-date: 2025-11-12
+date: 2026-05-23
 date_read: 2026-08-16
 category: stalker-obsession
 cover: /assets/readings/pretty-wicked-secrets.jpg

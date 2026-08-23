@@ -5,7 +5,7 @@ author: "Lily Gold"
 dek: "A reverse harem romance"
 number: R1058
 sort_key: 1058
-date: 2025-01-03
+date: 2026-04-26
 date_read: 2017-08-16
 category: reverse-harem
 cover: /assets/readings/three-swedish-mountain-men.jpg

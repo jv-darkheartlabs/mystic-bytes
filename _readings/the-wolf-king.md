@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15077477.Lauren_Palphreyman"
 dek: ""
 number: R1191
 sort_key: 1191
-date: 2025-06-12
+date: 2026-05-10
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/the-wolf-king.jpg

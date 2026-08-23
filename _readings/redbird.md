@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19114755.Raya_Morris_Edwards"
 dek: "A Sovereign Mountain Novella"
 number: R091
 sort_key: 091
-date: 2021-10-16
+date: 2026-01-11
 date_read: 2022-04-04
 category: captor-and-captive
 cover: /assets/readings/redbird.jpg

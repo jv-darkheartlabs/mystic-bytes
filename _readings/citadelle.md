@@ -5,7 +5,7 @@ author: "Antoine de Saint-Exupéry"
 dek: ""
 number: R1550
 sort_key: 1550
-date: 2026-05-28
+date: 2026-06-17
 date_read: 2017-05-07
 category: gothic-horror-romance
 cover: /assets/readings/citadelle.jpg

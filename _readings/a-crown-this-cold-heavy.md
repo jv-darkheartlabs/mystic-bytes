@@ -5,7 +5,7 @@ author: "Stacia Stark"
 dek: ""
 number: R998
 sort_key: 998
-date: 2024-10-22
+date: 2026-04-19
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/a-crown-this-cold-heavy.jpg

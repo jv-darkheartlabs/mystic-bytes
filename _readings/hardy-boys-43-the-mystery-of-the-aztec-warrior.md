@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #43"
 number: R2308
 sort_key: 2308
-date: 2026-06-02
+date: 2026-08-14
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-43-the-mystery-of-the-aztec-warrior.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

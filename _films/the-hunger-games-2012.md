@@ -4,7 +4,7 @@ title: "The Hunger Games"
 dek: "2012 adaptation of Suzanne Collins's dystopian thriller."
 number: F0002
 sort_key: 2
-date: 2026-07-11
+date: 2026-01-07
 date_watched: 2012-03-23
 year: 2012
 poster: /assets/films/the-hunger-games-2012.jpg
@@ -27,7 +27,6 @@ category: dystopian
 format: feature-film
 fidelity: faithful
 mpaa_rating: "PG-13"
-spice: 2
 content_warnings:
   - "violence"
   - "child peril"
@@ -42,6 +41,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: juvenile
 ---
 
 ## Hook & thesis

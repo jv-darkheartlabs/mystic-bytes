@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5830526.Samantha_Shannon"
 dek: "A Bone Season Novel"
 number: R652
 sort_key: 652
-date: 2023-08-25
+date: 2026-03-12
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/the-dark-mirror.jpg

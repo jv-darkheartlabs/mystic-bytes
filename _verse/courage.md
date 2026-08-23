@@ -4,7 +4,7 @@ title: "Courage"
 dek: "Not every fight is won. Some are survived."
 number: V0205
 sort_key: 205
-date: 2026-09-22
+date: 2026-02-09
 date_written: 1997-07-21
 category: grief-loss-resilience
 form: free-verse

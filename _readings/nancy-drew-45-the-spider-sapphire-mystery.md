@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #45"
 number: R2368
 sort_key: 2368
-date: 2026-04-03
+date: 2026-08-21
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-45-the-spider-sapphire-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

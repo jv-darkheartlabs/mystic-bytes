@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6888929.Pam_Godwin"
 dek: "a dark romance"
 number: R081
 sort_key: 081
-date: 2021-10-08
+date: 2026-01-10
 date_read: 2024-03-01
 category: captor-and-captive
 cover: /assets/readings/cage-of-ice-and-echoes.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Scarlett_St_Clair"
 dek: ""
 number: R915
 sort_key: 915
-date: 2024-07-09
+date: 2026-04-10
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/a-game-of-fate.jpg

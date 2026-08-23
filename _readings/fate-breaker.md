@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8109635.Victoria_Aveyard"
 dek: ""
 number: R485
 sort_key: 485
-date: 2023-01-30
+date: 2026-02-22
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/fate-breaker.jpg

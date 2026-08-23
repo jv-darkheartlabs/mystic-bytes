@@ -4,7 +4,7 @@ title: "Serenade of the Sky"
 dek: "Clouds as slow brass."
 number: V0452
 sort_key: 452
-date: 2027-01-09
+date: 2026-04-24
 date_written: 2007-07-07
 category: nola
 form: open
@@ -15,7 +15,7 @@ tags:
   - darkheartlabs
 content_warnings: []
 shelf: true
-source_title: "The Serenade of the NOLA Sky"
+source_title: "The Serenade of the New Orleans Sky"
 ---
 
 Clouds over New Orleans

@@ -5,11 +5,10 @@ author: "C.S. Lewis"
 dek: "Chronicles of Narnia Series"
 number: R2142
 sort_key: 2142
-date: 2026-05-18
+date: 2026-07-31
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/the-voyage-of-the-dawn-treader-chronicles-of-narnia-3.jpg
-spice: 1
 content_warnings:
 tags:
   - fantasy

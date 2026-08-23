@@ -5,7 +5,7 @@ author: "Tylor Paige"
 dek: ""
 number: R1534
 sort_key: 1534
-date: 2026-06-13
+date: 2026-06-15
 date_read: 2025-07-13
 category: forbidden-love
 cover: /assets/readings/slash-or-pass.jpg

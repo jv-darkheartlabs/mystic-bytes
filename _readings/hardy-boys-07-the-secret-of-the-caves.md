@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #7"
 number: R2326
 sort_key: 2326
-date: 2026-05-15
+date: 2026-08-16
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-07-the-secret-of-the-caves.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

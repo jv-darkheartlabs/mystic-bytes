@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1580
 sort_key: 1580
-date: 2026-04-28
+date: 2026-06-19
 date_read: 2023-08-16
 category: reverse-harem
 cover: /assets/readings/savage-fae.jpg

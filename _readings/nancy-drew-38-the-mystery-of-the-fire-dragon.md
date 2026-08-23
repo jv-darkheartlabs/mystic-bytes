@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #38"
 number: R2360
 sort_key: 2360
-date: 2026-04-11
+date: 2026-08-20
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-38-the-mystery-of-the-fire-dragon.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

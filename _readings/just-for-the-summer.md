@@ -5,7 +5,7 @@ author: "Abby Jimenez"
 dek: "The #1 New York Times Bestseller"
 number: R475
 sort_key: 475
-date: 2023-01-21
+date: 2026-02-21
 date_read: 2022-10-22
 category: enemies-to-lovers
 cover: /assets/readings/just-for-the-summer.jpg

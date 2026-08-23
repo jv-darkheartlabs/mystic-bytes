@@ -4,7 +4,7 @@ title: "Radiant Bliss"
 dek: "Joy without the eternal harmony invoice."
 number: V0224
 sort_key: 224
-date: 2026-10-11
+date: 2026-02-21
 date_written: 1998-07-07
 category: grief-loss-resilience
 form: free-verse

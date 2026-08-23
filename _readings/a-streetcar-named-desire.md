@@ -5,7 +5,7 @@ author: "Tennessee Williams"
 dek: ""
 number: R2246
 sort_key: 2246
-date: 2026-05-14
+date: 2026-08-07
 date_read: 2017-08-16
 category: gothic-horror-romance
 cover: /assets/readings/a-streetcar-named-desire.jpg

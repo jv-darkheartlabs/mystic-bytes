@@ -5,7 +5,7 @@ author: "Marion Blackwood"
 dek: ""
 number: R1005
 sort_key: 1005
-date: 2024-10-29
+date: 2026-04-20
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/throne-of-ice-and-blood.jpg

@@ -5,7 +5,7 @@ author: "E.L. James"
 dek: "Fifty Shades as Told by Christian"
 number: R2062
 sort_key: 2062
-date: 2026-04-28
+date: 2026-07-28
 date_read: 2025-04-04
 category: dark-billionaire
 cover: /assets/readings/darker-fifty-shades-as-told-by-christian-2.jpg

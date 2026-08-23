@@ -4,7 +4,7 @@ title: "Dual Nature of Pride"
 dek: "Dignity and appetite — same animal."
 number: V0853
 sort_key: 853
-date: 2031-06-09
+date: 2026-07-17
 date_written: 2006-04-13
 category: life
 form: free-verse

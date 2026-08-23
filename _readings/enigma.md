@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19586146.RuNyx"
 dek: "A Tale of Dark Romance"
 number: R161
 sort_key: 161
-date: 2022-01-07
+date: 2026-01-18
 date_read: 2020-11-25
 category: gothic-horror-romance
 cover: /assets/readings/enigma.jpg

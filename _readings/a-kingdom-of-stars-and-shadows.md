@@ -5,7 +5,7 @@ author: "Holly Renee"
 dek: ""
 number: R1435
 sort_key: 1435
-date: 2026-04-04
+date: 2026-06-05
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/a-kingdom-of-stars-and-shadows.jpg

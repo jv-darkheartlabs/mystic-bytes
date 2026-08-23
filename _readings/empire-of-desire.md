@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Rina_Kent"
 dek: ""
 number: R331
 sort_key: 331
-date: 2022-07-30
+date: 2026-02-05
 date_read: 2022-10-22
 category: dark-billionaire
 cover: /assets/readings/empire-of-desire.jpg

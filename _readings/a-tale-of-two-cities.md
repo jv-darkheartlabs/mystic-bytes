@@ -5,11 +5,10 @@ author: "Charles Dickens"
 dek: ""
 number: R1600
 sort_key: 1600
-date: 2026-06-29
+date: 2026-06-21
 date_read: 2005-10-22
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/a-tale-of-two-cities.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "death"

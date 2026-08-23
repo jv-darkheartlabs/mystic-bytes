@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book One of the Fitz and the Fool Trilogy"
 number: R648
 sort_key: 648
-date: 2023-08-18
+date: 2026-03-12
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/fools-assassin.jpg

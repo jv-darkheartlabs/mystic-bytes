@@ -5,7 +5,7 @@ author: "Lauren Biel"
 dek: "A Dark Hitchhiker Romance"
 number: R1311
 sort_key: 1311
-date: 2025-11-06
+date: 2026-05-23
 date_read: 2018-09-19
 category: stalker-obsession
 cover: /assets/readings/white-lines.jpg

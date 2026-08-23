@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18146740.Erin_A_Craig"
 dek: ""
 number: R1275
 sort_key: 1275
-date: 2025-09-20
+date: 2026-05-19
 date_read: 2018-09-19
 category: gothic-horror-romance
 cover: /assets/readings/house-of-roots-and-ruin.jpg

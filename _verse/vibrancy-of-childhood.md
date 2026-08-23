@@ -4,7 +4,7 @@ title: "Vibrancy of Childhood"
 dek: "Young ones loud with becoming — not prophecy."
 number: V0872
 sort_key: 872
-date: 2033-01-27
+date: 2026-07-30
 date_written: 1999-06-28
 category: life
 form: free-verse

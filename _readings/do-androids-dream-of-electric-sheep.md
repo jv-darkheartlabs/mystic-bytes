@@ -5,9 +5,9 @@ author: "Philip K. Dick"
 dek: "A dystopian exploration of humanity and artificial intelligence."
 number: R1922
 sort_key: 1922
-date: 2026-06-07
+date: 2026-07-20
 date_read: 2007-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/do-androids-dream-of-electric-sheep.jpg
 spice: 2
 content_warnings:

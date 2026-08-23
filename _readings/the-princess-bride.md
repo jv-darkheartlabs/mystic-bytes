@@ -5,7 +5,7 @@ author: "William Goldman"
 dek: "A tale of true love and high adventure."
 number: R1598
 sort_key: 1598
-date: 2026-07-01
+date: 2026-06-20
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/the-princess-bride.jpg

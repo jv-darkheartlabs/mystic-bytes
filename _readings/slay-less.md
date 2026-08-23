@@ -5,7 +5,7 @@ author: "Tylor Paige"
 dek: ""
 number: R1267
 sort_key: 1267
-date: 2025-09-13
+date: 2026-05-18
 date_read: 2022-10-22
 category: gothic-horror-romance
 cover: /assets/readings/slay-less.jpg

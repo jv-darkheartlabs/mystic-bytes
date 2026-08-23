@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7176781.Heather_Webb"
 dek: "A Novel of Ellis Island"
 number: R430
 sort_key: 430
-date: 2022-11-26
+date: 2026-02-16
 date_read: 2005-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-next-ship-home.jpg
 spice: 2
 content_warnings:

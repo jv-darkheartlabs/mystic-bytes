@@ -5,11 +5,10 @@ author: "Herman Melville"
 dek: ""
 number: R2092
 sort_key: 2092
-date: 2026-07-07
+date: 2026-07-30
 date_read: 2000-03-20
 category: classic-literature
 cover: /assets/readings/moby-dick-or-the-whale.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "death"

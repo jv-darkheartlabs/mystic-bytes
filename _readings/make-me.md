@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "A Broke and Beautiful Novel"
 number: R884
 sort_key: 884
-date: 2024-06-02
+date: 2026-04-07
 date_read: 2023-05-07
 category: enemies-to-lovers
 cover: /assets/readings/make-me.jpg

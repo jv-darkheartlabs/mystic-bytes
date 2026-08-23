@@ -5,7 +5,7 @@ author: "Elisa S. Amore"
 dek: "Book One: Touched — What if you fell in love with Death?"
 number: R784
 sort_key: 784
-date: 2024-02-04
+date: 2026-03-27
 date_read: 2019-04-04
 category: gothic-horror-romance
 cover: /assets/readings/the-caress-of-fate.jpg

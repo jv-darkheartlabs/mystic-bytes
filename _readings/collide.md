@@ -5,7 +5,7 @@ author: "Bal Khabra"
 dek: ""
 number: R1504
 sort_key: 1504
-date: 2026-07-03
+date: 2026-06-13
 date_read: 2019-04-04
 category: enemies-to-lovers
 cover: /assets/readings/collide.jpg

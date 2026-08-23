@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3618.Diana_Gabaldon"
 dek: "A Novel"
 number: R616
 sort_key: 616
-date: 2023-07-08
+date: 2026-03-08
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/voyager.jpg

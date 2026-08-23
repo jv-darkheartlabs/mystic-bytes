@@ -5,7 +5,7 @@ author: "Holly Black"
 dek: ""
 number: R534
 sort_key: 534
-date: 2023-04-03
+date: 2026-02-27
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/book-of-night.jpg

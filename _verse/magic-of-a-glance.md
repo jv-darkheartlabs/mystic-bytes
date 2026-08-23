@@ -4,7 +4,7 @@ title: "Magic of a Glance"
 dek: "Eye contact as ignition, not destiny."
 number: V0318
 sort_key: 318
-date: 2026-10-31
+date: 2026-03-07
 date_written: 2017-01-22
 category: love
 form: free-verse

@@ -4,7 +4,7 @@ title: "To Kill a Mockingbird"
 dek: "1962 classic adaptation of Harper Lee's moral landmark."
 number: F0034
 sort_key: 34
-date: 2026-07-11
+date: 2026-07-04
 date_watched: 1962-12-25
 year: 1962
 poster: /assets/films/to-kill-a-mockingbird-1962.jpg
@@ -25,7 +25,6 @@ category: literary-adaptation
 format: feature-film
 fidelity: faithful
 mpaa_rating: "Unrated"
-spice: 1
 content_warnings:
   - "racism"
   - "violence"
@@ -40,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: canon
 ---
 
 ## Hook & thesis

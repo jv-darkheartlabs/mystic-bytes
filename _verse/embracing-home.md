@@ -4,7 +4,7 @@ title: "Embracing Home"
 dek: "Belonging with gumbo on the stove."
 number: V0412
 sort_key: 412
-date: 2026-11-30
+date: 2026-03-28
 date_written: 2006-12-24
 category: nola
 form: open

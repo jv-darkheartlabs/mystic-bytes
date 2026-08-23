@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/12607.Max_Brooks"
 dek: ""
 number: R350
 sort_key: 350
-date: 2022-08-16
+date: 2026-02-07
 date_read: 2005-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/world-war-z.jpg
 spice: 2
 content_warnings:

@@ -5,7 +5,7 @@ author: "Jamie Linden"
 dek: ""
 number: R1777
 sort_key: 1777
-date: 2026-04-13
+date: 2026-07-07
 date_read: 2016-07-13
 category: forbidden-love
 cover: /assets/readings/dear-john-screenplay.jpg

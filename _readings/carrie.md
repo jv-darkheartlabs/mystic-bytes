@@ -5,11 +5,10 @@ author: "Stephen  King"
 dek: ""
 number: R1948
 sort_key: 1948
-date: 2026-05-12
+date: 2026-07-22
 date_read: 2019-07-13
-category: gothic-horror-romance
+category: horror
 cover: /assets/readings/carrie.jpg
-spice: 3
 content_warnings:
   - "bullying"
   - "violence"

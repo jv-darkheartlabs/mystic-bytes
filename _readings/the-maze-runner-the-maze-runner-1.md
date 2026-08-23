@@ -5,11 +5,10 @@ author: "James Dashner"
 dek: "The Maze Runner Series"
 number: R1741
 sort_key: 1741
-date: 2026-05-19
+date: 2026-07-05
 date_read: 2006-07-13
-category: dark-thriller
+category: ya-fiction
 cover: /assets/readings/the-maze-runner-the-maze-runner-1.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

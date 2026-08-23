@@ -4,7 +4,7 @@ title: "Grace of Waterfalls"
 dek: "Fall as vertical argument."
 number: V0513
 sort_key: 513
-date: 2027-01-26
+date: 2026-05-06
 date_written: 1994-06-02
 category: nature
 form: open

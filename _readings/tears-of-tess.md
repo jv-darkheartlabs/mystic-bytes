@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7155338.Pepper_Winters"
 dek: "A Novel"
 number: R083
 sort_key: 083
-date: 2021-10-04
+date: 2026-01-10
 date_read: 2026-05-07
 category: captor-and-captive
 cover: /assets/readings/tears-of-tess.jpg

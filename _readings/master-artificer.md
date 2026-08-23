@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Justin_Call"
 dek: "Every tool has its purpose."
 number: R682
 sort_key: 682
-date: 2023-10-01
+date: 2026-03-16
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/master-artificer.jpg

@@ -5,11 +5,10 @@ author: "Geoffrey Chaucer"
 dek: "A collection of stories that explore the complexities of love, morality, and human nature."
 number: R1779
 sort_key: 1779
-date: 2026-04-11
+date: 2026-07-07
 date_read: 1996-05-15
 category: classic-literature
 cover: /assets/readings/the-canterbury-tales.jpg
-spice: 1
 content_warnings:
 tags:
   - classic

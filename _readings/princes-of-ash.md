@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17138508.Angel_Lawson"
 dek: "Boys of Forbes"
 number: R023
 sort_key: 023
-date: 2021-07-29
+date: 2026-01-04
 date_read: 2026-08-16
 category: bully-romance
 cover: /assets/readings/princes-of-ash.jpg

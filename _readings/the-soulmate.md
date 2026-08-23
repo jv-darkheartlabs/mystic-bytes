@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/6868939.Sally_Hepworth"
 dek: "What happens when love pushes you to the edge?"
 number: R395
 sort_key: 395
-date: 2022-10-09
+date: 2026-02-12
 date_read: 2010-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-soulmate.jpg
 spice: 2
 content_warnings:

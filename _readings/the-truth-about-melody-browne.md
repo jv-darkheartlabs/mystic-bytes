@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7443.Lisa_Jewell"
 dek: "A Novel"
 number: R400
 sort_key: 400
-date: 2022-10-21
+date: 2026-02-13
 date_read: 2005-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-truth-about-melody-browne.jpg
 spice: 2
 content_warnings:

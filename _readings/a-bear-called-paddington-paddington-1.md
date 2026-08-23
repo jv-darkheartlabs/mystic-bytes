@@ -5,8 +5,8 @@ author: "Michael Bond"
 dek: "Paddington's adventures in London"
 number: R1691
 sort_key: 1691
-date: 2026-07-08
-date_read: 2026-11-25
+date: 2026-06-29
+date_read: 2026-08-23
 category: gothic-horror-romance
 cover: /assets/readings/a-bear-called-paddington-paddington-1.jpg
 spice: 1

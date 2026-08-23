@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #1"
 number: R2271
 sort_key: 2271
-date: 2026-07-09
+date: 2026-08-10
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-01-the-tower-treasure.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

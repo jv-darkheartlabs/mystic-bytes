@@ -5,9 +5,9 @@ author: "Rebecca Wells"
 dek: ""
 number: R2242
 sort_key: 2242
-date: 2026-05-18
+date: 2026-08-07
 date_read: 2007-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/divine-secrets-of-the-ya-ya-sisterhood.jpg
 spice: 2
 content_warnings:

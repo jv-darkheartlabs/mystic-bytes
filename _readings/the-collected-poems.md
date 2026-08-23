@@ -5,7 +5,7 @@ author: "Langston Hughes"
 dek: ""
 number: R1830
 sort_key: 1830
-date: 2026-05-30
+date: 2026-07-12
 date_read: 2021-06-10
 category: gothic-horror-romance
 cover: /assets/readings/the-collected-poems.jpg

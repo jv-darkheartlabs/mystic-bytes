@@ -5,7 +5,7 @@ author: "Stephanie Archer"
 dek: ""
 number: R860
 sort_key: 860
-date: 2024-05-07
+date: 2026-04-04
 date_read: 2023-08-16
 category: enemies-to-lovers
 cover: /assets/readings/finn-rhodes-forever.jpg

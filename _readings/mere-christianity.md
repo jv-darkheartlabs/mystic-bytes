@@ -5,11 +5,10 @@ author: "C.S. Lewis"
 dek: ""
 number: R2087
 sort_key: 2087
-date: 2026-04-03
+date: 2026-07-30
 date_read: 2002-04-20
-category: dark-thriller
+category: philosophy-criticism
 cover: /assets/readings/mere-christianity.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228248.Ana_Huang"
 dek: "He'll do anything to have her. Including lie."
 number: R1501
 sort_key: 1501
-date: 2026-06-29
+date: 2026-06-13
 date_read: 2016-10-22
 category: stalker-obsession
 cover: /assets/readings/twisted-lies.jpg

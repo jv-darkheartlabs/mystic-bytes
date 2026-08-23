@@ -5,7 +5,7 @@ author: "Chloe C. Peñaranda"
 dek: "A Nytefall Novel"
 number: R1463
 sort_key: 1463
-date: 2026-05-09
+date: 2026-06-08
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/the-dark-is-descending.jpg

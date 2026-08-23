@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/442240.Blake_Crouch"
 dek: ""
 number: R346
 sort_key: 346
-date: 2022-08-10
+date: 2026-02-07
 date_read: 2011-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/recursion.jpg
 spice: 2
 content_warnings:

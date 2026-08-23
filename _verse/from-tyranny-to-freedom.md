@@ -4,7 +4,7 @@ title: "From Tyranny to Freedom"
 dek: "Oppression as chain — vigilance as toll."
 number: V0909
 sort_key: 909
-date: 2034-04-01
+date: 2026-08-09
 date_written: 2012-08-10
 category: justice
 form: free-verse

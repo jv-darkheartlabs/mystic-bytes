@@ -4,7 +4,7 @@ title: "Crescent City Love Story"
 dek: "First love with brass in the walls."
 number: V0410
 sort_key: 410
-date: 2026-11-28
+date: 2026-03-26
 date_written: 2007-02-14
 category: nola
 form: open

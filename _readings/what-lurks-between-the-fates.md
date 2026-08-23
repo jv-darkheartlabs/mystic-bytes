@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19845642.Harper_L_Woods"
 dek: "Of Flesh & Bone Book Three"
 number: R263
 sort_key: 263
-date: 2022-05-04
+date: 2026-01-28
 date_read: 2026-05-07
 category: vampire-paranormal
 cover: /assets/readings/what-lurks-between-the-fates.jpg

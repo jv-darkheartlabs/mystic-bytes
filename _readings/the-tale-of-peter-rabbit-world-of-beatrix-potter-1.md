@@ -5,7 +5,7 @@ author: "Beatrix Potter"
 dek: "World of Beatrix Potter"
 number: R1817
 sort_key: 1817
-date: 2026-06-12
+date: 2026-07-11
 date_read: 2020-11-25
 category: gothic-horror-romance
 cover: /assets/readings/the-tale-of-peter-rabbit-world-of-beatrix-potter-1.jpg

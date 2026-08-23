@@ -5,9 +5,9 @@ author: "C. K. McAdam"
 dek: "A WWII Historical Fiction Novel"
 number: R404
 sort_key: 404
-date: 2022-10-24
+date: 2026-02-13
 date_read: 2009-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-seamstress-of-auschwitz.jpg
 spice: 1
 content_warnings:

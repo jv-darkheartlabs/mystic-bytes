@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7154216.Danielle_L_Jensen"
 dek: "The Bridge Kingdom Book 4"
 number: R1246
 sort_key: 1246
-date: 2025-08-18
+date: 2026-05-16
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/the-endless-war.jpg

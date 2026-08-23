@@ -5,11 +5,10 @@ author: "William Shakespeare"
 dek: "A timeless tale of star-crossed lovers."
 number: R1609
 sort_key: 1609
-date: 2026-06-20
+date: 2026-06-22
 date_read: 1995-03-15
 category: classic-literature
 cover: /assets/readings/romeo-and-juliet.jpg
-spice: 2
 content_warnings:
 tags:
   - forbiddenlove

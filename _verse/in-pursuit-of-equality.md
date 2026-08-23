@@ -4,7 +4,7 @@ title: "In Pursuit of Equality"
 dek: "Rigged stair — shared humanity as tool."
 number: V0911
 sort_key: 911
-date: 2034-06-09
+date: 2026-08-11
 date_written: 2010-06-06
 category: justice
 form: free-verse

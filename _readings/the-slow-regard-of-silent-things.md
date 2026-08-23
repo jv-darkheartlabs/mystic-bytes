@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss"
 dek: ""
 number: R698
 sort_key: 698
-date: 2023-10-21
+date: 2026-03-17
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/the-slow-regard-of-silent-things.jpg

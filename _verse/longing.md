@@ -4,7 +4,7 @@ title: "Longing"
 dek: "Yearning as weather, not warranty."
 number: V0312
 sort_key: 312
-date: 2026-10-25
+date: 2026-03-03
 date_written: 2017-12-02
 category: love
 form: open

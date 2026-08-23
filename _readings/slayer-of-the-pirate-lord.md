@@ -5,7 +5,7 @@ author: "Rebecca F. Kenney"
 dek: ""
 number: R1000
 sort_key: 1000
-date: 2024-10-20
+date: 2026-04-20
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/slayer-of-the-pirate-lord.jpg

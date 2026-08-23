@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #1"
 number: R2329
 sort_key: 2329
-date: 2026-05-12
+date: 2026-08-16
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-01-the-secret-of-the-old-clock.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

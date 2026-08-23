@@ -4,7 +4,7 @@ title: "Resilience"
 dek: "Grief held in humid arms."
 number: V0422
 sort_key: 422
-date: 2026-12-10
+date: 2026-04-03
 date_written: 2006-08-29
 category: nola
 form: open

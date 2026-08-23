@@ -4,7 +4,7 @@ title: "Tempest of Temper"
 dek: "Anger as weather the body cannot outrun."
 number: V0203
 sort_key: 203
-date: 2026-09-20
+date: 2026-02-07
 date_written: 1997-11-08
 category: grief-loss-resilience
 form: free-verse

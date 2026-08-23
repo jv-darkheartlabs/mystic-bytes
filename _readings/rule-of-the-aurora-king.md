@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21415124.Nisha_J_Tuli"
 dek: ""
 number: R1208
 sort_key: 1208
-date: 2025-07-03
+date: 2026-05-12
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/rule-of-the-aurora-king.jpg

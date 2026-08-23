@@ -5,9 +5,9 @@ author: "Amy Tan"
 dek: ""
 number: R1743
 sort_key: 1743
-date: 2026-05-17
+date: 2026-07-05
 date_read: 2008-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-joy-luck-club.jpg
 spice: 1
 content_warnings:

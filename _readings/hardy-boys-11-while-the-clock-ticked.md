@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #11"
 number: R2273
 sort_key: 2273
-date: 2026-07-07
+date: 2026-08-10
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-11-while-the-clock-ticked.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

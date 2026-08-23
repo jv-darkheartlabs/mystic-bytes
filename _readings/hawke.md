@@ -5,7 +5,7 @@ author: "Jescie Hall"
 dek: ""
 number: R222
 sort_key: 222
-date: 2022-03-21
+date: 2026-01-24
 date_read: 2021-09-19
 category: stalker-obsession
 cover: /assets/readings/hawke.jpg

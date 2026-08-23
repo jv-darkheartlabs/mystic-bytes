@@ -5,7 +5,7 @@ author: "Elisa S. Amore"
 dek: "Book Two: Unfaithful — Touched"
 number: R1498
 sort_key: 1498
-date: 2026-06-19
+date: 2026-06-12
 date_read: 2025-07-13
 category: gothic-horror-romance
 cover: /assets/readings/the-deception-of-night.jpg

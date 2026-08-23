@@ -5,11 +5,10 @@ author: "James Dashner"
 dek: "The Maze Runner Series"
 number: R1763
 sort_key: 1763
-date: 2026-04-27
+date: 2026-07-06
 date_read: 2008-11-25
-category: dark-thriller
+category: ya-fiction
 cover: /assets/readings/the-scorch-trials-the-maze-runner-2.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

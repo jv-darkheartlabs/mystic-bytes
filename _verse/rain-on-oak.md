@@ -4,7 +4,7 @@ title: "Rain on Oak"
 dek: "Sadness in New Orleans keeps time with the brass."
 number: V0003
 sort_key: 3
-date: 2026-07-11
+date: 2026-01-03
 date_written: 2006-11-03
 category: nola
 form: open

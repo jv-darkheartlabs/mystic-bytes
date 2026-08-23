@@ -5,11 +5,10 @@ author: "Alexandre Dumas"
 dek: "Le vicomte de Bragelonne series"
 number: R1725
 sort_key: 1725
-date: 2026-06-04
+date: 2026-07-03
 date_read: 2010-09-19
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-man-in-the-iron-mask-le-vicomte-de-bragelonne-4-4.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

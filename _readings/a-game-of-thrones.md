@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/346732.George_R_R_Martin"
 dek: ""
 number: R662
 sort_key: 662
-date: 2023-09-04
+date: 2026-03-14
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/a-game-of-thrones.jpg

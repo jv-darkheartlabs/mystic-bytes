@@ -4,7 +4,7 @@ title: "Power of a Wish"
 dek: "Want spoken aloud costs more than hope."
 number: V0124
 sort_key: 124
-date: 2026-08-26
+date: 2026-01-21
 date_written: 2010-05-07
 category: spirituality
 form: free-verse

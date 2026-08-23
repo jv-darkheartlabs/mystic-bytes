@@ -5,11 +5,10 @@ author: "Oscar Wilde"
 dek: "Includes 'The Picture of Dorian Gray' and 'The Canterville Ghost'"
 number: R2145
 sort_key: 2145
-date: 2026-05-15
+date: 2026-08-01
 date_read: 2024-06-10
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/obras-de-oscar-wilde-el-retrato-de-dorian-gray-el-fantasma-de-canterville-el-ni.jpg
-spice: 2
 content_warnings:
   - "dark themes"
   - "moral ambiguity"

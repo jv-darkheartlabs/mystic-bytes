@@ -5,11 +5,10 @@ author: "William Shakespeare"
 dek: "A tale of ambition and its dark consequences."
 number: R1545
 sort_key: 1545
-date: 2026-06-02
+date: 2026-06-16
 date_read: 1996-03-10
 category: classic-literature
 cover: /assets/readings/macbeth.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "murder"

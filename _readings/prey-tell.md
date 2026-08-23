@@ -5,7 +5,7 @@ author: "Amanda Richardson"
 dek: ""
 number: R1270
 sort_key: 1270
-date: 2025-09-15
+date: 2026-05-19
 date_read: 2025-04-04
 category: gothic-horror-romance
 cover: /assets/readings/prey-tell.jpg

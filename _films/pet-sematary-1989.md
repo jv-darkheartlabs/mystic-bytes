@@ -4,7 +4,7 @@ title: "Pet Sematary"
 dek: "1989 adaptation of King's burial-ground horror."
 number: F0026
 sort_key: 26
-date: 2026-07-11
+date: 2026-05-21
 date_watched: 1989-04-21
 year: 1989
 poster: /assets/films/pet-sematary-1989.jpg
@@ -25,7 +25,6 @@ category: horror
 format: feature-film
 fidelity: faithful
 mpaa_rating: "R"
-spice: 2
 content_warnings:
   - "violence"
   - "gore"
@@ -41,6 +40,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: genre
 ---
 
 ## Hook & thesis

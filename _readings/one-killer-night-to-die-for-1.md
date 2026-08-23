@@ -5,9 +5,9 @@ author: "Trilina Pucci"
 dek: "To Die For Series"
 number: R1568
 sort_key: 1568
-date: 2026-05-10
+date: 2026-06-18
 date_read: 2013-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/one-killer-night-to-die-for-1.jpg
 spice: 3
 content_warnings:

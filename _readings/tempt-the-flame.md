@@ -5,11 +5,10 @@ author: "Ria Wilde"
 dek: ""
 number: R768
 sort_key: 768
-date: 2024-01-10
+date: 2026-03-25
 date_read: 2015-06-10
-category: forbidden-love
+category: classic-literature
 cover: /assets/readings/tempt-the-flame.jpg
-spice: 4
 content_warnings:
   - "fire"
   - "emotional intensity"

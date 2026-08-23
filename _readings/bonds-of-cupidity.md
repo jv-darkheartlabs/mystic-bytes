@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Raven_Kennedy"
 dek: "Heart Hassle Book Two — A Fantasy Reverse Harem Story"
 number: R807
 sort_key: 807
-date: 2024-02-29
+date: 2026-03-29
 date_read: 2018-09-19
 category: reverse-harem
 cover: /assets/readings/bonds-of-cupidity.jpg

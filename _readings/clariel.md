@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8347.Garth_Nix"
 dek: "Old Kingdom Book Four"
 number: R522
 sort_key: 522
-date: 2023-03-21
+date: 2026-02-26
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/clariel.jpg

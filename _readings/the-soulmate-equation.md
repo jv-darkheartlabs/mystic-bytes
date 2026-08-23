@@ -5,7 +5,7 @@ author: "Christina Lauren"
 dek: ""
 number: R875
 sort_key: 875
-date: 2024-05-25
+date: 2026-04-06
 date_read: 2026-05-07
 category: enemies-to-lovers
 cover: /assets/readings/the-soulmate-equation.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19154446.Harley_Laroux"
 dek: "Part 2"
 number: R202
 sort_key: 202
-date: 2022-02-26
+date: 2026-01-22
 date_read: 2025-07-13
 category: reverse-harem
 cover: /assets/readings/losers.jpg

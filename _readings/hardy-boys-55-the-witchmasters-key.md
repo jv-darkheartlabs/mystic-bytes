@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #55"
 number: R2321
 sort_key: 2321
-date: 2026-05-20
+date: 2026-08-15
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-55-the-witchmasters-key.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

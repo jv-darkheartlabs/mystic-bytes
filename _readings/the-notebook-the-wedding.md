@@ -5,7 +5,7 @@ author: "Nicholas Sparks"
 dek: ""
 number: R1774
 sort_key: 1774
-date: 2026-04-16
+date: 2026-07-07
 date_read: 2025-04-04
 category: forbidden-love
 cover: /assets/readings/the-notebook-the-wedding.jpg

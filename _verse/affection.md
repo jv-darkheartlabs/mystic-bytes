@@ -4,7 +4,7 @@ title: "Affection"
 dek: "Glue that still dries slowly."
 number: V0334
 sort_key: 334
-date: 2026-11-16
+date: 2026-03-18
 date_written: 2018-05-19
 category: love
 form: free-verse

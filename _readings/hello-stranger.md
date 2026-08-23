@@ -5,7 +5,7 @@ author: "Katherine Center"
 dek: "A Novel"
 number: R877
 sort_key: 877
-date: 2024-05-30
+date: 2026-04-06
 date_read: 2016-07-13
 category: enemies-to-lovers
 cover: /assets/readings/hello-stranger.jpg

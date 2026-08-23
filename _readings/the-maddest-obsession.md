@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17697330.Danielle_Lori"
 dek: "She fears the dark, he rules it."
 number: R168
 sort_key: 168
-date: 2022-01-13
+date: 2026-01-19
 date_read: 2015-09-19
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-maddest-obsession.jpg

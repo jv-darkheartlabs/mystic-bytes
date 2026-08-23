@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228257.Ali_Hazelwood"
 dek: ""
 number: R1377
 sort_key: 1377
-date: 2026-01-23
+date: 2026-05-30
 date_read: 2024-03-01
 category: enemies-to-lovers
 cover: /assets/readings/below-zero.jpg

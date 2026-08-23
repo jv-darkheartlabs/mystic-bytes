@@ -4,7 +4,7 @@ title: "Voyage of Maturity"
 dek: "Adulthood as voyage — not arrival poster."
 number: V0873
 sort_key: 873
-date: 2033-02-01
+date: 2026-07-31
 date_written: 2008-06-21
 category: life
 form: free-verse

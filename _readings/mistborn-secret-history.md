@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/38550.Brandon_Sanderson"
 dek: ""
 number: R488
 sort_key: 488
-date: 2023-02-05
+date: 2026-02-22
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/mistborn-secret-history.jpg

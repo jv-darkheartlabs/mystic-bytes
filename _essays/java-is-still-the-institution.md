@@ -10,9 +10,9 @@ read_time: 2
 tags: [craft]
 type: micro
 brief:
-  system: JVM-backed APIs and enterprise defaults encountered from the outside
-  issue: "Java is dead" as a fashion take against a runtime institutions still default to
-  constraint: no invented Java employer; describe the JVM as institutional infrastructure
+  system: "JVM-backed APIs and enterprise defaults encountered from the outside"
+  issue: '"Java is dead" as a fashion take against a runtime institutions still default to'
+  constraint: "no invented Java employer; describe the JVM as institutional infrastructure"
 ---
 
 Java is still the institution. Not because it is fashionable, and not because I write it daily. Because the JVM is where payroll, identity, and the API you actually have to call still live after three generations of "this will replace it."

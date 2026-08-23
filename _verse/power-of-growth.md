@@ -4,7 +4,7 @@ title: "Power of Growth"
 dek: "Growth as weathering — light not guaranteed."
 number: V0877
 sort_key: 877
-date: 2033-06-19
+date: 2026-08-03
 date_written: 2013-03-25
 category: life
 form: free-verse

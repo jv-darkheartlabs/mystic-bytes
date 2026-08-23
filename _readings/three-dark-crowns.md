@@ -5,7 +5,7 @@ author: "Kendare Blake"
 dek: ""
 number: R1407
 sort_key: 1407
-date: 2026-03-02
+date: 2026-06-02
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/three-dark-crowns.jpg

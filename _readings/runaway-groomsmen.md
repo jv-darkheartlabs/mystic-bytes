@@ -5,7 +5,7 @@ author: "Meghan Quinn"
 dek: ""
 number: R470
 sort_key: 470
-date: 2023-01-10
+date: 2026-02-20
 date_read: 2017-05-07
 category: enemies-to-lovers
 cover: /assets/readings/runaway-groomsmen.jpg

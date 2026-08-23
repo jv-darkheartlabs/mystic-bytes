@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "A Broke and Beautiful Novel"
 number: R890
 sort_key: 890
-date: 2024-06-13
+date: 2026-04-08
 date_read: 2017-11-25
 category: enemies-to-lovers
 cover: /assets/readings/chase-me.jpg

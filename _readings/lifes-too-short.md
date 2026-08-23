@@ -5,7 +5,7 @@ author: "Abby Jimenez"
 dek: ""
 number: R876
 sort_key: 876
-date: 2024-05-26
+date: 2026-04-06
 date_read: 2015-06-10
 category: enemies-to-lovers
 cover: /assets/readings/lifes-too-short.jpg

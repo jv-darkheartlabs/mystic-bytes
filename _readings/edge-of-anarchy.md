@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228242.Kyla_Stone"
 dek: "Edge of Collapse Series — Book Four"
 number: R358
 sort_key: 358
-date: 2022-08-30
+date: 2026-02-08
 date_read: 2013-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/edge-of-anarchy.jpg
 spice: 2
 content_warnings:

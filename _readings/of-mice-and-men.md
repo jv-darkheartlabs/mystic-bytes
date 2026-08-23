@@ -5,11 +5,10 @@ author: "John Steinbeck"
 dek: ""
 number: R1601
 sort_key: 1601
-date: 2026-06-28
+date: 2026-06-21
 date_read: 1995-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/of-mice-and-men.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "death"

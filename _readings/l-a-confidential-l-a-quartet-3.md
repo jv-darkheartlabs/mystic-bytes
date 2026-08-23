@@ -5,9 +5,9 @@ author: "James Ellroy"
 dek: "L.A. Quartet, #3"
 number: R1866
 sort_key: 1866
-date: 2026-04-24
+date: 2026-07-15
 date_read: 2011-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/l-a-confidential-l-a-quartet-3.jpg
 spice: 2
 content_warnings:

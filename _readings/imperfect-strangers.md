@@ -5,7 +5,7 @@ author: "Mary Frame"
 dek: ""
 number: R879
 sort_key: 879
-date: 2024-05-28
+date: 2026-04-06
 date_read: 2018-09-19
 category: enemies-to-lovers
 cover: /assets/readings/imperfect-strangers.jpg

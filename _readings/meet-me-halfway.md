@@ -5,8 +5,8 @@ author: "Lilian T. James"
 dek: ""
 number: R1043
 sort_key: 1043
-date: 2024-12-15
-date_read: 2026-11-25
+date: 2026-04-24
+date_read: 2026-08-23
 category: forbidden-love
 cover: /assets/readings/meet-me-halfway.jpg
 spice: 3

@@ -5,7 +5,7 @@ author: "Colette Rhodes"
 dek: "Sins of the Flesh"
 number: R1010
 sort_key: 1010
-date: 2024-11-06
+date: 2026-04-21
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/superbia.jpg

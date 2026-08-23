@@ -5,11 +5,10 @@ author: "John Milton"
 dek: "A profound exploration of sin and redemption."
 number: R1845
 sort_key: 1845
-date: 2026-05-15
+date: 2026-07-13
 date_read: 2002-03-01
 category: classic-literature
 cover: /assets/readings/paradise-lost.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "religious themes"

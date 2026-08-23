@@ -4,7 +4,7 @@ title: "Celebrating Independence"
 dek: "Chains broken — price remembered."
 number: V0905
 sort_key: 905
-date: 2033-12-13
+date: 2026-08-07
 date_written: 2011-01-07
 category: justice
 form: free-verse

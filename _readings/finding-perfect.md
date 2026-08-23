@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: "A Novella"
 number: R1483
 sort_key: 1483
-date: 2026-06-02
+date: 2026-06-11
 date_read: 2022-10-22
 category: forbidden-love
 cover: /assets/readings/finding-perfect.jpg

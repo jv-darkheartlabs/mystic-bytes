@@ -5,7 +5,7 @@ author: "Chloe C. Peñaranda"
 dek: "A Nyxia Novel"
 number: R1402
 sort_key: 1402
-date: 2026-02-25
+date: 2026-06-02
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/the-stars-are-dying.jpg

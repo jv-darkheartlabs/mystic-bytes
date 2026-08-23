@@ -4,7 +4,7 @@ title: "Dreamscape"
 dek: "Fantasy with humidity in the margins."
 number: V0408
 sort_key: 408
-date: 2026-11-26
+date: 2026-03-25
 date_written: 2009-07-04
 category: nola
 form: open

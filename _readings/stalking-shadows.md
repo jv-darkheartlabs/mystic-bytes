@@ -5,7 +5,7 @@ author: "Lisa J. Morgan"
 dek: ""
 number: R1060
 sort_key: 1060
-date: 2025-01-05
+date: 2026-04-26
 date_read: 2019-10-22
 category: stalker-obsession
 cover: /assets/readings/stalking-shadows.jpg

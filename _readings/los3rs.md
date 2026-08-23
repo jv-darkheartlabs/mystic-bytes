@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19154446.Harley_Laroux"
 dek: "Part 2"
 number: R1578
 sort_key: 1578
-date: 2026-04-30
+date: 2026-06-19
 date_read: 2021-06-10
 category: reverse-harem
 cover: /assets/readings/los3rs.jpg

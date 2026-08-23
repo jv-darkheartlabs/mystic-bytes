@@ -5,7 +5,7 @@ author: "Rebecca Quinn"
 dek: "Brutes of Bristlebrook Book 1"
 number: R1011
 sort_key: 1011
-date: 2024-11-07
+date: 2026-04-21
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/ensnared.jpg

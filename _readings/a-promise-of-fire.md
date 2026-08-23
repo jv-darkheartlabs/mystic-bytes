@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/14352829.Amanda_Bouchet"
 dek: "Fantasy romance at its finest"
 number: R1185
 sort_key: 1185
-date: 2025-06-04
+date: 2026-05-09
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/a-promise-of-fire.jpg

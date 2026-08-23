@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25422.Holly_Black"
 dek: ""
 number: R985
 sort_key: 985
-date: 2024-10-01
+date: 2026-04-18
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/the-prisoners-throne.jpg

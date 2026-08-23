@@ -5,7 +5,7 @@ author: "Salman Rushdie"
 dek: "Penguin Drop Caps"
 number: R2065
 sort_key: 2065
-date: 2026-04-25
+date: 2026-07-28
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/haroun-and-the-sea-of-stories-penguin-drop-caps.jpg

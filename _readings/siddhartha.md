@@ -5,9 +5,9 @@ author: "Hermann Hesse"
 dek: ""
 number: R2154
 sort_key: 2154
-date: 2026-05-06
+date: 2026-08-02
 date_read: 2009-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/siddhartha.jpg
 spice: 1
 content_warnings:

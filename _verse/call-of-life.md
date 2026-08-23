@@ -4,7 +4,7 @@ title: "Call of Life"
 dek: "Carpe diem without the brochure."
 number: V0218
 sort_key: 218
-date: 2026-10-05
+date: 2026-02-18
 date_written: 1998-04-22
 category: grief-loss-resilience
 form: free-verse

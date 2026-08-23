@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.A_P_Beswick"
 dek: ""
 number: R665
 sort_key: 665
-date: 2023-09-11
+date: 2026-03-14
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/sea-of-sorrow-and-scorn.jpg

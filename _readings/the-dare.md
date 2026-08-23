@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19154446.Harley_Laroux"
 dek: ""
 number: R155
 sort_key: 155
-date: 2022-01-03
+date: 2026-01-17
 date_read: 2026-05-07
 category: forbidden-love
 cover: /assets/readings/the-dare.jpg

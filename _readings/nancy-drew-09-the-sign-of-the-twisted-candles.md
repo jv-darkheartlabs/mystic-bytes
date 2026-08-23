@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #9"
 number: R2384
 sort_key: 2384
-date: 2026-03-18
+date: 2026-08-22
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-09-the-sign-of-the-twisted-candles.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

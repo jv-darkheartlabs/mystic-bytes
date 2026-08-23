@@ -5,7 +5,7 @@ author: "Amelia Hutchins"
 dek: "Legacy of the Nine Realms"
 number: R1429
 sort_key: 1429
-date: 2026-04-01
+date: 2026-06-05
 date_read: 2016-10-22
 category: fantasy-romance
 cover: /assets/readings/queen-of-chaos.jpg

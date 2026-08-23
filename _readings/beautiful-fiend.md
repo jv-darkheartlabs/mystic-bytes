@@ -5,7 +5,7 @@ author: "Lola King"
 dek: "Being at my mercy looks good on you — North Shore Stories Book One"
 number: R050
 sort_key: 050
-date: 2021-08-28
+date: 2026-01-06
 date_read: 2017-08-16
 category: bully-romance
 cover: /assets/readings/beautiful-fiend.jpg

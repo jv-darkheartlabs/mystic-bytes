@@ -4,7 +4,7 @@ title: "Resilience of the Roast"
 dek: "Empires of caffeine also leave rubble."
 number: V0221
 sort_key: 221
-date: 2026-10-08
+date: 2026-02-19
 date_written: 2013-07-04
 category: grief-loss-resilience
 form: free-verse

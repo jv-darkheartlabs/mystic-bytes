@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6524620.Pierce_Brown"
 dek: "Red Rising Saga Book Five"
 number: R703
 sort_key: 703
-date: 2023-10-23
+date: 2026-03-18
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/dark-age.jpg

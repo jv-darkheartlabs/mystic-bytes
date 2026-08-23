@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20138863.Amber_V_Nicole"
 dek: "Gods & Monsters Book One"
 number: R294
 sort_key: 294
-date: 2022-06-11
+date: 2026-02-01
 date_read: 2021-09-19
 category: vampire-paranormal
 cover: /assets/readings/the-book-of-azrael.jpg

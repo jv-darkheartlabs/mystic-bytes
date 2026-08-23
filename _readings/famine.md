@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Laura_Thalassa"
 dek: ""
 number: R992
 sort_key: 992
-date: 2024-10-09
+date: 2026-04-19
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/famine.jpg

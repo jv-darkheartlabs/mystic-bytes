@@ -4,7 +4,7 @@ title: "Embracing the Unknown"
 dek: "Wonder as appetite, not innocence."
 number: V0818
 sort_key: 818
-date: 2028-07-17
+date: 2026-06-23
 date_written: 2017-11-01
 category: life
 form: free-verse

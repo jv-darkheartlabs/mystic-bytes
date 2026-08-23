@@ -5,7 +5,7 @@ author: "Anna Todd"
 dek: "After series"
 number: R1649
 sort_key: 1649
-date: 2026-05-11
+date: 2026-06-26
 date_read: 2020-05-07
 category: enemies-to-lovers
 cover: /assets/readings/after-we-fell-after-3.jpg

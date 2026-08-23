@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228251.Liz_Tomforde"
 dek: ""
 number: R460
 sort_key: 460
-date: 2023-01-02
+date: 2026-02-19
 date_read: 2019-04-04
 category: enemies-to-lovers
 cover: /assets/readings/mile-high.jpg

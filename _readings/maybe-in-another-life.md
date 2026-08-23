@@ -5,7 +5,7 @@ author: "Taylor Jenkins Reid"
 dek: "What if everything that is possible actually happens?"
 number: R749
 sort_key: 749
-date: 2023-12-19
+date: 2026-03-23
 date_read: 2020-05-07
 category: forbidden-love
 cover: /assets/readings/maybe-in-another-life.jpg

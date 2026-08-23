@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21435889.Lola_King"
 dek: "North Shore Stories — Book Two"
 number: R242
 sort_key: 242
-date: 2022-04-09
+date: 2026-01-26
 date_read: 2017-11-25
 category: stalker-obsession
 cover: /assets/readings/heartless-beloved.jpg

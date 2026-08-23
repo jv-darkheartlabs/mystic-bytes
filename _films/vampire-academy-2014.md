@@ -4,7 +4,7 @@ title: "Vampire Academy"
 dek: "2014 boarding-school vampires from Richelle Mead's series opener."
 number: F0040
 sort_key: 40
-date: 2026-07-11
+date: 2026-08-06
 date_watched: 2014-02-07
 year: 2014
 poster: /assets/films/vampire-academy-2014.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

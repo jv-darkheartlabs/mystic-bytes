@@ -5,7 +5,7 @@ author: "Stephanie Archer"
 dek: "A Romantic Comedy"
 number: R855
 sort_key: 855
-date: 2024-04-26
+date: 2026-04-04
 date_read: 2018-03-01
 category: enemies-to-lovers
 cover: /assets/readings/in-your-dreams-holden-rhodes.jpg

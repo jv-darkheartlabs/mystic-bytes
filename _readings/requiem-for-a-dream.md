@@ -5,9 +5,9 @@ author: "Hubert Selby Jr."
 dek: ""
 number: R1867
 sort_key: 1867
-date: 2026-04-23
+date: 2026-07-16
 date_read: 2012-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/requiem-for-a-dream.jpg
 spice: 3
 content_warnings:

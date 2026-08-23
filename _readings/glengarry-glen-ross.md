@@ -5,9 +5,9 @@ author: "David Mamet"
 dek: ""
 number: R1838
 sort_key: 1838
-date: 2026-05-22
+date: 2026-07-13
 date_read: 2013-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/glengarry-glen-ross.jpg
 spice: 2
 content_warnings:

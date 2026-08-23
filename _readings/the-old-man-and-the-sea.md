@@ -5,11 +5,10 @@ author: "Ernest Hemingway"
 dek: ""
 number: R1909
 sort_key: 1909
-date: 2026-06-20
+date: 2026-07-19
 date_read: 1996-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-old-man-and-the-sea.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

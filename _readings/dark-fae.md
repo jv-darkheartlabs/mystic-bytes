@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1579
 sort_key: 1579
-date: 2026-04-29
+date: 2026-06-19
 date_read: 2022-07-13
 category: reverse-harem
 cover: /assets/readings/dark-fae.jpg

@@ -5,7 +5,7 @@ author: "Pittacus Lore"
 dek: "Lorien Legacies Series"
 number: R1739
 sort_key: 1739
-date: 2026-05-21
+date: 2026-07-05
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/i-am-number-four-lorien-legacies-1.jpg

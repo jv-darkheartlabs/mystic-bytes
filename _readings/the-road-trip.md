@@ -5,7 +5,7 @@ author: "Beth O'Leary"
 dek: "One car. Five people. A whole lot of history."
 number: R903
 sort_key: 903
-date: 2024-06-25
+date: 2026-04-09
 date_read: 2018-06-10
 category: enemies-to-lovers
 cover: /assets/readings/the-road-trip.jpg

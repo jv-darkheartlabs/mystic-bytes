@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18585257.Alex_Aster"
 dek: ""
 number: R1181
 sort_key: 1181
-date: 2025-05-28
+date: 2026-05-09
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/lightlark.jpg

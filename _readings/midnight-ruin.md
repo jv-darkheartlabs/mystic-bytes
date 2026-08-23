@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Dark Olympus"
 number: R1462
 sort_key: 1462
-date: 2026-05-09
+date: 2026-06-08
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/midnight-ruin.jpg

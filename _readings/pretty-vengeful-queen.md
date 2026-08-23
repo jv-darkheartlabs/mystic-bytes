@@ -5,7 +5,7 @@ author: "Callie Rose"
 dek: "Ruthless Hearts Book 3"
 number: R1320
 sort_key: 1320
-date: 2025-11-15
+date: 2026-05-24
 date_read: 2015-09-19
 category: stalker-obsession
 cover: /assets/readings/pretty-vengeful-queen.jpg

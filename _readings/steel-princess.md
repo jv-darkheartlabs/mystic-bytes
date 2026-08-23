@@ -5,7 +5,7 @@ author: "Rina Kent"
 dek: "The princess isn't supposed to dethrone the king — Royal Elite Book 2"
 number: R017
 sort_key: 017
-date: 2021-07-23
+date: 2026-01-03
 date_read: 2020-11-25
 category: bully-romance
 cover: /assets/readings/steel-princess.jpg

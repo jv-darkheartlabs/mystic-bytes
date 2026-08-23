@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18222706.Kate_Quinn"
 dek: "A Novel"
 number: R437
 sort_key: 437
-date: 2022-11-30
+date: 2026-02-17
 date_read: 2012-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-alice-network.jpg
 spice: 2
 content_warnings:

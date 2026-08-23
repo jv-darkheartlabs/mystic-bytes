@@ -5,7 +5,7 @@ author: "E.A. Winters"
 dek: "The Blood and Flame Saga"
 number: R557
 sort_key: 557
-date: 2023-04-28
+date: 2026-03-02
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/crimson-queen.jpg

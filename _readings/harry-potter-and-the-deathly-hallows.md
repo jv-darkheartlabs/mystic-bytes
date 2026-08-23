@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/1077326.J_K_Rowling"
 dek: ""
 number: R958
 sort_key: 958
-date: 2024-08-29
+date: 2026-04-15
 date_read: 2007-08-01
-category: juvenile-fiction
+category: ya-fiction
 cover: /assets/readings/harry-potter-and-the-deathly-hallows.jpg
-spice: 1
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

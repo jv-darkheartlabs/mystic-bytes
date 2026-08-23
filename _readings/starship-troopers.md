@@ -5,9 +5,9 @@ author: "Robert A. Heinlein"
 dek: ""
 number: R1914
 sort_key: 1914
-date: 2026-06-15
+date: 2026-07-19
 date_read: 2009-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/starship-troopers.jpg
 spice: 2
 content_warnings:

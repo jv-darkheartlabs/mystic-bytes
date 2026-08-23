@@ -4,7 +4,7 @@ title: "Reflection on Friendship"
 dek: "Alliance without the forever brochure."
 number: V0325
 sort_key: 325
-date: 2026-11-07
+date: 2026-03-12
 date_written: 2019-05-05
 category: love
 form: free-verse

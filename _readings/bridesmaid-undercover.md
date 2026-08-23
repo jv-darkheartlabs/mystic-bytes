@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7139134.Meghan_Quinn"
 dek: ""
 number: R608
 sort_key: 608
-date: 2023-07-04
+date: 2026-03-08
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/bridesmaid-undercover.jpg

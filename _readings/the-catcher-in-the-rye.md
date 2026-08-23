@@ -5,11 +5,10 @@ author: "J.D. Salinger"
 dek: ""
 number: R1611
 sort_key: 1611
-date: 2026-06-18
+date: 2026-06-22
 date_read: 1997-04-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-catcher-in-the-rye.jpg
-spice: 2
 content_warnings:
   - "mental health issues"
   - "suicidal thoughts"

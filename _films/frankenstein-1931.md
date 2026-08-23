@@ -4,7 +4,7 @@ title: "Frankenstein"
 dek: "1931 Universal classic — the screen birth of the modern monster."
 number: F0014
 sort_key: 14
-date: 2026-07-11
+date: 2026-03-15
 date_watched: 1931-11-21
 year: 1931
 poster: /assets/films/frankenstein-1931.jpg
@@ -26,7 +26,6 @@ category: gothic-horror
 format: feature-film
 fidelity: loose
 mpaa_rating: "Unrated"
-spice: 1
 content_warnings:
   - "violence"
   - "body horror"
@@ -40,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: canon
 ---
 
 ## Hook & thesis

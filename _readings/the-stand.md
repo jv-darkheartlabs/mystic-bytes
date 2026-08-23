@@ -5,9 +5,9 @@ author: "Stephen  King"
 dek: ""
 number: R1861
 sort_key: 1861
-date: 2026-04-29
+date: 2026-07-15
 date_read: 2006-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-stand.jpg
 spice: 2
 content_warnings:

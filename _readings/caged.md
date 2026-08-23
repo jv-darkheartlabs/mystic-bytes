@@ -5,7 +5,7 @@ author: "Luna Mason"
 dek: "Beneath the Secrets Series"
 number: R093
 sort_key: 093
-date: 2021-10-20
+date: 2026-01-11
 date_read: 2024-06-10
 category: captor-and-captive
 cover: /assets/readings/caged.jpg

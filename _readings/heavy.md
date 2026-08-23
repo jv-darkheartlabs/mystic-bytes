@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.M_L_Burns"
 dek: "A Dark Taboo Romance"
 number: R141
 sort_key: 141
-date: 2021-12-14
+date: 2026-01-16
 date_read: 2024-09-19
 category: forbidden-love
 cover: /assets/readings/heavy.jpg

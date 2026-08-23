@@ -5,7 +5,7 @@ author: "Holly Renee"
 dek: ""
 number: R959
 sort_key: 959
-date: 2024-08-30
+date: 2026-04-15
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/the-veiled-kingdom.jpg

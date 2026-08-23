@@ -4,7 +4,7 @@ title: "Struggle"
 dek: "Conflict without the victory clause."
 number: V0217
 sort_key: 217
-date: 2026-10-04
+date: 2026-02-17
 date_written: 1999-01-11
 category: grief-loss-resilience
 form: free-verse

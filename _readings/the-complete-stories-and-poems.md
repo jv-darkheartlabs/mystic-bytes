@@ -5,11 +5,10 @@ author: "Edgar Allan Poe"
 dek: ""
 number: R2262
 sort_key: 2262
-date: 2026-04-28
+date: 2026-08-09
 date_read: 2021-06-10
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-complete-stories-and-poems.jpg
-spice: 1
 content_warnings:
   - "death"
   - "violence"

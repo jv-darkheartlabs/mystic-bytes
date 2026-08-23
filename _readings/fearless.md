@@ -5,7 +5,7 @@ author: "Lauren Roberts"
 dek: ""
 number: R967
 sort_key: 967
-date: 2024-09-14
+date: 2026-04-16
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/fearless.jpg

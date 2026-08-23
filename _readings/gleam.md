@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17614050.Raven_Kennedy"
 dek: "But the truth may hold you"
 number: R1140
 sort_key: 1140
-date: 2025-04-06
+date: 2026-05-05
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/gleam.jpg

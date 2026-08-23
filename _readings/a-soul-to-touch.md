@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Opal_Reyne"
 dek: ""
 number: R993
 sort_key: 993
-date: 2024-10-17
+date: 2026-04-19
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/a-soul-to-touch.jpg

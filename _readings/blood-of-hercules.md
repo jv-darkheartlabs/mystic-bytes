@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21808620.Jasmine_Mas"
 dek: ""
 number: R1197
 sort_key: 1197
-date: 2025-06-16
+date: 2026-05-11
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/blood-of-hercules.jpg

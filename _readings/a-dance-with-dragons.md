@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/346732.George_R_R_Martin"
 dek: ""
 number: R692
 sort_key: 692
-date: 2023-10-12
+date: 2026-03-17
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/a-dance-with-dragons.jpg

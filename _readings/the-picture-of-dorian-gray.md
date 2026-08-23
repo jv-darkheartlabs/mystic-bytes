@@ -5,11 +5,10 @@ author: "Oscar Wilde"
 dek: ""
 number: R1614
 sort_key: 1614
-date: 2026-06-15
+date: 2026-06-22
 date_read: 1999-06-10
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-picture-of-dorian-gray.jpg
-spice: 2
 content_warnings:
   - "moral corruption"
   - "suicide"

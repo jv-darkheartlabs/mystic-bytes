@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien"
 dek: "The Lord of the Rings Part Three"
 number: R686
 sort_key: 686
-date: 2023-10-08
+date: 2026-03-16
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/the-return-of-the-king.jpg

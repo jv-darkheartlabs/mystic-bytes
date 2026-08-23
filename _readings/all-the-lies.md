@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Rina_Kent"
 dek: "When lies become truths"
 number: R1118
 sort_key: 1118
-date: 2025-03-18
+date: 2026-05-02
 date_read: 2017-05-07
 category: enemies-to-lovers
 cover: /assets/readings/all-the-lies.jpg

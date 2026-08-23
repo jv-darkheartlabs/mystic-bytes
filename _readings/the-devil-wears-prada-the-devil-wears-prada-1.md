@@ -5,7 +5,7 @@ author: "Lauren Weisberger"
 dek: "The Devil Wears Prada, #1"
 number: R1782
 sort_key: 1782
-date: 2026-04-08
+date: 2026-07-08
 date_read: 2021-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-devil-wears-prada-the-devil-wears-prada-1.jpg

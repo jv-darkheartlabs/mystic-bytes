@@ -5,7 +5,7 @@ author: "Emma Hamm"
 dek: ""
 number: R544
 sort_key: 544
-date: 2023-04-09
+date: 2026-02-28
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/song-of-the-abyss.jpg

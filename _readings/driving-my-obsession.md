@@ -5,7 +5,7 @@ author: "Lauren Biel"
 dek: "A Dark Hitchhiker Romance"
 number: R248
 sort_key: 248
-date: 2022-04-14
+date: 2026-01-27
 date_read: 2023-08-16
 category: stalker-obsession
 cover: /assets/readings/driving-my-obsession.jpg

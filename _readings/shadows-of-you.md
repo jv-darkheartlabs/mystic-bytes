@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228267.Catherine_Cowles"
 dek: "The Lost & Found Series"
 number: R1348
 sort_key: 1348
-date: 2025-12-19
+date: 2026-05-27
 date_read: 2013-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/shadows-of-you.jpg
 spice: 3
 content_warnings:

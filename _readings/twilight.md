@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/94137.Stephenie_Meyer"
 dek: ""
 number: R1068
 sort_key: 1068
-date: 2025-01-13
+date: 2026-04-27
 date_read: 2008-09-10
 category: vampire-paranormal
 cover: /assets/readings/twilight.jpg

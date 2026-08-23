@@ -5,7 +5,7 @@ author: "S. Massery"
 dek: "He's a hockey god—and she's the one who will ruin him."
 number: R225
 sort_key: 225
-date: 2022-03-23
+date: 2026-01-25
 date_read: 2024-03-01
 category: stalker-obsession
 cover: /assets/readings/devious-obsession.jpg

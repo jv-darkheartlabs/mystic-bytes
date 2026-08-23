@@ -5,11 +5,10 @@ author: "Lewis Carroll"
 dek: "Alice's Adventures in Wonderland, #2"
 number: R1697
 sort_key: 1697
-date: 2026-07-02
+date: 2026-06-30
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/through-the-looking-glass-and-what-alice-found-there-alices-adventures-in-wonder.jpg
-spice: 1
 content_warnings:
 tags:
   - fantasy

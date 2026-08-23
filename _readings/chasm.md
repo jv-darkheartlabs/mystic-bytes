@@ -5,7 +5,7 @@ author: "Stacey McEwan"
 dek: "The Glacian Trilogy — Book Two"
 number: R1450
 sort_key: 1450
-date: 2026-04-20
+date: 2026-06-07
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/chasm.jpg

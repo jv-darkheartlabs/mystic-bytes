@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #21"
 number: R2284
 sort_key: 2284
-date: 2026-06-26
+date: 2026-08-11
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-21-the-clue-of-the-broken-blade.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19586146.RuNyx"
 dek: "A Tale of Dark Romance"
 number: R131
 sort_key: 131
-date: 2021-12-02
+date: 2026-01-15
 date_read: 2026-08-16
 category: forbidden-love
 cover: /assets/readings/gothikana.jpg

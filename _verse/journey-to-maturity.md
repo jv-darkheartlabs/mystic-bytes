@@ -4,7 +4,7 @@ title: "Journey to Maturity"
 dek: "Growing up as accumulated grammar."
 number: V0832
 sort_key: 832
-date: 2029-09-13
+date: 2026-07-03
 date_written: 2009-11-01
 category: life
 form: free-verse

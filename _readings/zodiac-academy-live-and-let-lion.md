@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1098
 sort_key: 1098
-date: 2025-02-16
+date: 2026-04-30
 date_read: 2021-03-01
 category: bully-romance
 cover: /assets/readings/zodiac-academy-live-and-let-lion.jpg

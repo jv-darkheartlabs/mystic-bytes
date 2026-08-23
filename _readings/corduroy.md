@@ -5,11 +5,10 @@ author: "Don Freeman"
 dek: ""
 number: R1827
 sort_key: 1827
-date: 2026-06-02
+date: 2026-07-11
 date_read: 2018-03-01
-category: gothic-horror-romance
+category: juvenile-fiction
 cover: /assets/readings/corduroy.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

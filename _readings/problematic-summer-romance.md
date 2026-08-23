@@ -5,7 +5,7 @@ author: "Ali Hazelwood"
 dek: ""
 number: R896
 sort_key: 896
-date: 2024-06-15
+date: 2026-04-08
 date_read: 2023-08-16
 category: enemies-to-lovers
 cover: /assets/readings/problematic-summer-romance.jpg

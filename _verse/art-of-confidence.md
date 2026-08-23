@@ -4,7 +4,7 @@ title: "Art of Confidence"
 dek: "Assurance as craft, not armor polish."
 number: V0701
 sort_key: 701
-date: 2027-03-19
+date: 2026-06-11
 date_written: 2020-03-08
 category: mind-and-self
 form: free-verse

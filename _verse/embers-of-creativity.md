@@ -4,7 +4,7 @@ title: "Embers of Creativity"
 dek: "The spark does not ask if you are ready."
 number: V0107
 sort_key: 107
-date: 2026-08-09
+date: 2026-01-10
 date_written: 2011-07-04
 category: spirituality
 form: free-verse

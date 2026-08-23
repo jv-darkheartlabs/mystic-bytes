@@ -5,7 +5,7 @@ author: "Mary Gribbin"
 dek: ""
 number: R1667
 sort_key: 1667
-date: 2026-04-23
+date: 2026-06-28
 date_read: 2026-05-07
 category: gothic-horror-romance
 cover: /assets/readings/the-science-of-philip-pullmans-his-dark-materials.jpg

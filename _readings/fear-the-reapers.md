@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21447047.Jessa_Halliwell"
 dek: "A Lovesick Villains Trilogy"
 number: R201
 sort_key: 201
-date: 2022-02-27
+date: 2026-01-22
 date_read: 2024-06-10
 category: reverse-harem
 cover: /assets/readings/fear-the-reapers.jpg

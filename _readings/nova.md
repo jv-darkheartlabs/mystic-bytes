@@ -5,7 +5,7 @@ author: "Rebecca Yarros"
 dek: ""
 number: R835
 sort_key: 835
-date: 2024-04-05
+date: 2026-04-02
 date_read: 2022-10-22
 category: dark-military-romance
 cover: /assets/readings/nova.jpg

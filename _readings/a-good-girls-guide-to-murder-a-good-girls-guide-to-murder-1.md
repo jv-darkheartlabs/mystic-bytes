@@ -5,9 +5,9 @@ author: "Holly  Jackson"
 dek: "A Good Girl's Guide to Murder, #1"
 number: R1875
 sort_key: 1875
-date: 2026-04-15
+date: 2026-07-16
 date_read: 2010-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/a-good-girls-guide-to-murder-a-good-girls-guide-to-murder-1.jpg
 spice: 2
 content_warnings:

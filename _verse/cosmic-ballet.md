@@ -4,7 +4,7 @@ title: "Cosmic Ballet"
 dek: "Stars as dance you cannot join."
 number: V0623
 sort_key: 623
-date: 2027-03-16
+date: 2026-06-09
 date_written: 1992-02-02
 category: curiosity
 form: free-verse

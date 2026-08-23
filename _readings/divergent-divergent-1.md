@@ -5,11 +5,10 @@ author: "Veronica Roth"
 dek: "Divergent Series"
 number: R2032
 sort_key: 2032
-date: 2026-05-28
+date: 2026-07-25
 date_read: 2007-10-22
-category: dark-thriller
+category: ya-fiction
 cover: /assets/readings/divergent-divergent-1.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

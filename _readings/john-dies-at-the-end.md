@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/225399.David_Wong"
 dek: ""
 number: R787
 sort_key: 787
-date: 2024-02-07
+date: 2026-03-27
 date_read: 2022-07-13
 category: gothic-horror-romance
 cover: /assets/readings/john-dies-at-the-end.jpg

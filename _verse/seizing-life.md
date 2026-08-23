@@ -4,7 +4,7 @@ title: "Seizing Life"
 dek: "Carpe diem — cost included."
 number: V0844
 sort_key: 844
-date: 2030-09-01
+date: 2026-07-11
 date_written: 2013-03-27
 category: life
 form: free-verse

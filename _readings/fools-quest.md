@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book Two of the Fitz and the Fool Trilogy"
 number: R722
 sort_key: 722
-date: 2023-11-17
+date: 2026-03-20
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/fools-quest.jpg

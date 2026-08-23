@@ -5,11 +5,10 @@ author: "Friedrich Nietzsche"
 dek: ""
 number: R2264
 sort_key: 2264
-date: 2026-04-26
+date: 2026-08-09
 date_read: 2009-08-16
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/human-all-too-human-a-book-for-free-spirits.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

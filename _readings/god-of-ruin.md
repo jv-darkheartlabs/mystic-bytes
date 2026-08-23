@@ -5,7 +5,7 @@ author: "Rina Kent"
 dek: "Legacy of Gods"
 number: R822
 sort_key: 822
-date: 2024-03-17
+date: 2026-03-31
 date_read: 2021-06-10
 category: bully-romance
 cover: /assets/readings/god-of-ruin.jpg

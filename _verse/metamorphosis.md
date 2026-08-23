@@ -4,7 +4,7 @@ title: "Metamorphosis"
 dek: "Change as shed skin — not brochure sunrise."
 number: V0834
 sort_key: 834
-date: 2029-11-21
+date: 2026-07-04
 date_written: 2010-04-16
 category: life
 form: free-verse

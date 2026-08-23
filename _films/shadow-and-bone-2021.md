@@ -4,7 +4,7 @@ title: "Shadow and Bone"
 dek: "2021 Netflix adaptation of Leigh Bardugo's Grishaverse fantasy."
 number: F0011
 sort_key: 11
-date: 2026-07-11
+date: 2026-02-26
 date_watched: 2021-04-23
 year: 2021
 poster: /assets/films/shadow-and-bone-2021.jpg
@@ -40,6 +40,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

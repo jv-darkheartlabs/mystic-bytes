@@ -5,11 +5,10 @@ author: "William Shakespeare"
 dek: ""
 number: R1852
 sort_key: 1852
-date: 2026-05-08
+date: 2026-07-14
 date_read: 2019-10-22
-category: enemies-to-lovers
+category: classic-literature
 cover: /assets/readings/much-ado-about-nothing.jpg
-spice: 2
 content_warnings:
 tags:
   - enemiestolovers

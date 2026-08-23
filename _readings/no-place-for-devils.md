@@ -5,7 +5,7 @@ author: "Santana Knox & Amy Oliveira"
 dek: "Fallen Gods Motorcycle Club — Book One"
 number: R1290
 sort_key: 1290
-date: 2025-10-10
+date: 2026-05-21
 date_read: 2021-06-10
 category: motorcycle-club
 cover: /assets/readings/no-place-for-devils.jpg

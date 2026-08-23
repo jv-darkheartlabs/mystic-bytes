@@ -5,7 +5,7 @@ author: "Anna Todd"
 dek: "After We Collided (After, #2)"
 number: R1650
 sort_key: 1650
-date: 2026-05-10
+date: 2026-06-26
 date_read: 2021-06-10
 category: enemies-to-lovers
 cover: /assets/readings/after-we-collided-after-2.jpg

@@ -5,7 +5,7 @@ author: "Audrey Niffenegger"
 dek: ""
 number: R2160
 sort_key: 2160
-date: 2026-04-30
+date: 2026-08-02
 date_read: 2015-03-01
 category: gothic-horror-romance
 cover: /assets/readings/her-fearful-symmetry.jpg

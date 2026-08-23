@@ -5,11 +5,10 @@ author: "Edgar Allan Poe"
 dek: ""
 number: R1832
 sort_key: 1832
-date: 2026-05-28
+date: 2026-07-12
 date_read: 1996-05-15
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-raven-and-other-poems.jpg
-spice: 2
 content_warnings:
   - "death"
   - "mental illness"

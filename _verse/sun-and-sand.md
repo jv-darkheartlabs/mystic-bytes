@@ -4,7 +4,7 @@ title: "Sun and Sand"
 dek: "Beach as temporary jurisdiction."
 number: V0531
 sort_key: 531
-date: 2027-02-13
+date: 2026-05-18
 date_written: 1994-07-28
 category: nature
 form: free-verse

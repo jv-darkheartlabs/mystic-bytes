@@ -5,9 +5,9 @@ author: "E.L. James"
 dek: "A thrilling collection of stories that explore the darker sides of love."
 number: R2060
 sort_key: 2060
-date: 2026-04-30
+date: 2026-07-27
 date_read: 2005-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/mister-and-missus-ebook-bundle.jpg
 spice: 3
 content_warnings:

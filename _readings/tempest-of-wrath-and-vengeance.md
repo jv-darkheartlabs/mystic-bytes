@@ -5,7 +5,7 @@ author: "Melissa K. Roehrich"
 dek: "The Legacy Series"
 number: R299
 sort_key: 299
-date: 2022-06-17
+date: 2026-02-01
 date_read: 2026-05-07
 category: vampire-paranormal
 cover: /assets/readings/tempest-of-wrath-and-vengeance.jpg

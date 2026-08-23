@@ -67,7 +67,7 @@ layout: default
           {% if page.mpaa_rating %}
           <span class="film-meta__rating">{{ page.mpaa_rating }}</span>
           {% endif %}
-          {% if spice %}
+          {% if page.lane == "romance" and spice %}
           <span class="reading-meta__spice" title="intensity {{ page.spice }} · {{ spice.label }}">
             {{ spice.peppers }} · {{ spice.label }}
           </span>

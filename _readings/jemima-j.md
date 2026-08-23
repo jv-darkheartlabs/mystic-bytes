@@ -5,9 +5,9 @@ author: "Jane Green"
 dek: ""
 number: R2167
 sort_key: 2167
-date: 2026-04-23
+date: 2026-08-03
 date_read: 2012-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/jemima-j.jpg
 spice: 1
 content_warnings:

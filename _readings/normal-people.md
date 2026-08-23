@@ -5,7 +5,7 @@ author: "Sally Rooney"
 dek: ""
 number: R1022
 sort_key: 1022
-date: 2024-11-17
+date: 2026-04-22
 date_read: 2017-08-16
 category: forbidden-love
 cover: /assets/readings/normal-people.jpg

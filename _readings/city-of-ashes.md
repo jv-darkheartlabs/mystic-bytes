@@ -5,7 +5,7 @@ author: "Cassandra Clare"
 dek: "The Mortal Instruments — Book Two"
 number: R530
 sort_key: 530
-date: 2023-03-24
+date: 2026-02-27
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/city-of-ashes.jpg

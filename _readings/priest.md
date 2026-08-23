@@ -5,8 +5,8 @@ author: "Sierra Simone"
 dek: "forgive us our sins."
 number: R1259
 sort_key: 1259
-date: 2025-08-31
-date_read: 2026-11-25
+date: 2026-05-17
+date_read: 2026-08-23
 category: forbidden-love
 cover: /assets/readings/priest.jpg
 spice: 5

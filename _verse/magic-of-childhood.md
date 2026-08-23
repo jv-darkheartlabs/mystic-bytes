@@ -4,7 +4,7 @@ title: "Magic of Childhood"
 dek: "Young ones as future — not porcelain myth."
 number: V0857
 sort_key: 857
-date: 2031-10-25
+date: 2026-07-20
 date_written: 1999-04-26
 category: life
 form: free-verse

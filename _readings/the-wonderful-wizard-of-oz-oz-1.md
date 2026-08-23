@@ -5,7 +5,7 @@ author: "L. Frank Baum"
 dek: "Oz Series Book 1"
 number: R1621
 sort_key: 1621
-date: 2026-06-08
+date: 2026-06-23
 date_read: 2016-04-04
 category: gothic-horror-romance
 cover: /assets/readings/the-wonderful-wizard-of-oz-oz-1.jpg

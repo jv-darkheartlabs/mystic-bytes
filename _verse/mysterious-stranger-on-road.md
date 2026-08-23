@@ -4,7 +4,7 @@ title: "Mysterious Stranger on the Road"
 dek: "Sojourner as question — not verdict."
 number: V0926
 sort_key: 926
-date: 2035-09-11
+date: 2026-08-21
 date_written: 2022-07-14
 category: misc
 form: free-verse

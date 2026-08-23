@@ -5,7 +5,7 @@ author: "Katie Golightly"
 dek: "Five years later, she's still the one."
 number: R1041
 sort_key: 1041
-date: 2024-12-12
+date: 2026-04-24
 date_read: 2024-09-19
 category: forbidden-love
 cover: /assets/readings/the-ones-we-remember.jpg

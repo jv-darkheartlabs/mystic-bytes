@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/137902.Richelle_Mead"
 dek: "The international bestseller"
 number: R1325
 sort_key: 1325
-date: 2025-11-23
+date: 2026-05-24
 date_read: 2020-05-07
 category: vampire-paranormal
 cover: /assets/readings/vampire-academy.jpg

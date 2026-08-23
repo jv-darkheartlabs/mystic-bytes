@@ -5,7 +5,7 @@ author: "Kyla Faye"
 dek: "Down We Go — Book Two"
 number: R1269
 sort_key: 1269
-date: 2025-09-13
+date: 2026-05-18
 date_read: 2024-03-01
 category: gothic-horror-romance
 cover: /assets/readings/ashes.jpg

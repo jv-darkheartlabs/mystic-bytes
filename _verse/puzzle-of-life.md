@@ -4,7 +4,7 @@ title: "Puzzle of Life"
 dek: "Riddle unsolved — curiosity still lit."
 number: V0864
 sort_key: 864
-date: 2032-05-25
+date: 2026-07-25
 date_written: 2018-12-08
 category: life
 form: free-verse

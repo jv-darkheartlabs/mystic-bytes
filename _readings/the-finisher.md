@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19586146.RuNyx"
 dek: "Dark Verse Book Four"
 number: R129
 sort_key: 129
-date: 2021-11-28
+date: 2026-01-14
 date_read: 2024-06-10
 category: enemies-to-lovers
 cover: /assets/readings/the-finisher.jpg

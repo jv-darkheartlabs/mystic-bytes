@@ -5,7 +5,7 @@ author: "Stacia Stark"
 dek: ""
 number: R1003
 sort_key: 1003
-date: 2024-10-23
+date: 2026-04-20
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/a-queen-this-fierce-deadly.jpg

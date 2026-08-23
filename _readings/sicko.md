@@ -5,7 +5,7 @@ author: "Amo Jones"
 dek: "All my life he was my protector. Now he's who I needed to be protected from..."
 number: R220
 sort_key: 220
-date: 2022-03-21
+date: 2026-01-24
 date_read: 2019-07-13
 category: stalker-obsession
 cover: /assets/readings/sicko.jpg

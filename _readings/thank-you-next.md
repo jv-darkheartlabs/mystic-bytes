@@ -5,7 +5,7 @@ author: "Sophie Ranald"
 dek: "A perfect uplifting and funny romantic comedy"
 number: R610
 sort_key: 610
-date: 2023-07-04
+date: 2026-03-08
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/thank-you-next.jpg

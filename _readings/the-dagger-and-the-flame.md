@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Catherine_Doyle"
 dek: ""
 number: R484
 sort_key: 484
-date: 2023-01-29
+date: 2026-02-22
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/the-dagger-and-the-flame.jpg

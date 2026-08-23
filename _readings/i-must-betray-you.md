@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/3113344.Ruta_Sepetys"
 dek: ""
 number: R409
 sort_key: 409
-date: 2022-10-27
+date: 2026-02-14
 date_read: 2014-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/i-must-betray-you.jpg
 spice: 2
 content_warnings:

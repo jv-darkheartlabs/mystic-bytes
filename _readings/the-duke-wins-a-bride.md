@@ -5,7 +5,7 @@ author: "Nina Jarrett"
 dek: "Inconvenient Brides"
 number: R640
 sort_key: 640
-date: 2023-08-12
+date: 2026-03-11
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/the-duke-wins-a-bride.jpg

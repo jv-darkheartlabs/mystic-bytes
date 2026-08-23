@@ -5,7 +5,7 @@ author: "Catharina Maura"
 dek: ""
 number: R1034
 sort_key: 1034
-date: 2024-12-01
+date: 2026-04-23
 date_read: 2017-11-25
 category: forbidden-love
 cover: /assets/readings/the-devious-husband.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Layla_Fae"
 dek: "Jaga and the Devil — Book 2"
 number: R139
 sort_key: 139
-date: 2021-12-13
+date: 2026-01-15
 date_read: 2022-07-13
 category: forbidden-love
 cover: /assets/readings/devils-doom.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6546370.Claire_Contreras"
 dek: "3 years ago she ruined my life, now I'm going to ruin hers."
 number: R115
 sort_key: 115
-date: 2021-11-12
+date: 2026-01-13
 date_read: 2022-10-22
 category: enemies-to-lovers
 cover: /assets/readings/until-i-get-you.jpg

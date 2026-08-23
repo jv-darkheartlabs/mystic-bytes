@@ -5,7 +5,7 @@ author: "Norman Bridwell"
 dek: ""
 number: R1820
 sort_key: 1820
-date: 2026-06-09
+date: 2026-07-11
 date_read: 2023-05-07
 category: gothic-horror-romance
 cover: /assets/readings/clifford-the-big-red-dog.jpg

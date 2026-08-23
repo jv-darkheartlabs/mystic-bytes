@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "A Dark College Romance"
 number: R010
 sort_key: 010
-date: 2021-07-08
+date: 2026-01-02
 date_read: 2025-04-04
 category: bully-romance
 cover: /assets/readings/the-sinner.jpg

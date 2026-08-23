@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: "A Novel"
 number: R729
 sort_key: 729
-date: 2023-11-26
+date: 2026-03-21
 date_read: 2024-03-01
 category: forbidden-love
 cover: /assets/readings/regretting-you.jpg

@@ -5,7 +5,7 @@ author: "E.L. James"
 dek: "Fifty Shades series"
 number: R1778
 sort_key: 1778
-date: 2026-04-12
+date: 2026-07-07
 date_read: 2017-08-16
 category: dark-billionaire
 cover: /assets/readings/fifty-shades-freed-fifty-shades-3.jpg

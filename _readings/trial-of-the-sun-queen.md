@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21268673.Nisha_J_Tuli"
 dek: ""
 number: R1207
 sort_key: 1207
-date: 2025-07-02
+date: 2026-05-12
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/trial-of-the-sun-queen.jpg

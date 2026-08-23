@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21605510.Ali_Hazelwood"
 dek: ""
 number: R1327
 sort_key: 1327
-date: 2025-11-25
+date: 2026-05-24
 date_read: 2022-07-13
 category: vampire-paranormal
 cover: /assets/readings/bride.jpg

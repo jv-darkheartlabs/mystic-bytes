@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228243.Micaiah_Johnson"
 dek: "380 realities. 8 chances to survive."
 number: R602
 sort_key: 602
-date: 2023-06-22
+date: 2026-03-07
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/the-space-between-worlds.jpg

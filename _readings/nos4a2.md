@@ -5,11 +5,10 @@ author: "Joe  Hill"
 dek: ""
 number: R1936
 sort_key: 1936
-date: 2026-05-24
+date: 2026-07-21
 date_read: 2019-04-04
-category: gothic-horror-romance
+category: horror
 cover: /assets/readings/nos4a2.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "gore"

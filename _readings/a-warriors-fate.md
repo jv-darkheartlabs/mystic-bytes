@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1308
 sort_key: 1308
-date: 2025-11-03
+date: 2026-05-22
 date_read: 2015-06-10
 category: reverse-harem
 cover: /assets/readings/a-warriors-fate.jpg

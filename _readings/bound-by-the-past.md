@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6518850.Cora_Reilly"
 dek: "Will his betrayal from the past destroy everything?"
 number: R1575
 sort_key: 1575
-date: 2026-05-03
+date: 2026-06-19
 date_read: 2018-03-01
 category: mafia-boss-and-innocent
 cover: /assets/readings/bound-by-the-past.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228252.Elsie_Silver"
 dek: ""
 number: R1343
 sort_key: 1343
-date: 2025-12-15
+date: 2026-05-26
 date_read: 2026-05-07
 category: dark-cowboy-romance
 cover: /assets/readings/out-of-the-gate.jpg

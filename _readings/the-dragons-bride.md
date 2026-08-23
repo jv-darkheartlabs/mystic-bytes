@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "A Deal with a Demon Novel"
 number: R1334
 sort_key: 1334
-date: 2025-11-30
+date: 2026-05-25
 date_read: 2017-05-07
 category: captor-and-captive
 cover: /assets/readings/the-dragons-bride.jpg

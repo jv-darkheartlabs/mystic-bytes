@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228367.Michael_Wisehart"
 dek: "The Aldoran Chronicles — Book Three"
 number: R581
 sort_key: 581
-date: 2023-05-30
+date: 2026-03-05
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/the-four-part-key.jpg

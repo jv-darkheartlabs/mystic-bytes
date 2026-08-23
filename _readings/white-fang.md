@@ -5,7 +5,7 @@ author: "Jack London"
 dek: ""
 number: R1717
 sort_key: 1717
-date: 2026-06-12
+date: 2026-07-02
 date_read: 2016-10-22
 category: gothic-horror-romance
 cover: /assets/readings/white-fang.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21652469.Brynne_Weaver"
 dek: "The Ruinous Love Trilogy"
 number: R126
 sort_key: 126
-date: 2021-11-28
+date: 2026-01-14
 date_read: 2021-03-01
 category: enemies-to-lovers
 cover: /assets/readings/butcher-blackbird.jpg

@@ -5,11 +5,10 @@ author: "Mary Wollstonecraft Shelley"
 dek: ""
 number: R2188
 sort_key: 2188
-date: 2026-04-02
+date: 2026-08-05
 date_read: 1999-09-15
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/frankenstein.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

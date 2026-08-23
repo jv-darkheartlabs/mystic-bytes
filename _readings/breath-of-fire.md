@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/14352829.Amanda_Bouchet"
 dek: "The Kingmaker Chronicles"
 number: R1214
 sort_key: 1214
-date: 2025-07-09
+date: 2026-05-12
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/breath-of-fire.jpg

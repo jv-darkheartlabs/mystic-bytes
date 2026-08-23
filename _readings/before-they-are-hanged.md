@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/276660.Joe_Abercrombie"
 dek: ""
 number: R671
 sort_key: 671
-date: 2023-09-20
+date: 2026-03-15
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/before-they-are-hanged.jpg

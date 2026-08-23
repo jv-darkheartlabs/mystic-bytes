@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/2063919.Michael_J_Sullivan"
 dek: "Riyria Revelations"
 number: R520
 sort_key: 520
-date: 2023-03-19
+date: 2026-02-26
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/heir-of-novron.jpg

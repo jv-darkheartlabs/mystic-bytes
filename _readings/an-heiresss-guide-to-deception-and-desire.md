@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228263.Manda_Collins"
 dek: "They're partners in crime—and enemies in love."
 number: R1378
 sort_key: 1378
-date: 2026-01-24
+date: 2026-05-30
 date_read: 2025-04-04
 category: enemies-to-lovers
 cover: /assets/readings/an-heiresss-guide-to-deception-and-desire.jpg

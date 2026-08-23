@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
 dek: "Crescent City"
 number: R1528
 sort_key: 1528
-date: 2026-06-19
+date: 2026-06-14
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/crescent-city-house-of-earth-and-blood.jpg

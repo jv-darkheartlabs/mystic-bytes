@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19678643.H_D_Carlton"
 dek: ""
 number: R209
 sort_key: 209
-date: 2022-03-02
+date: 2026-01-23
 date_read: 2020-05-07
 category: stalker-obsession
 cover: /assets/readings/haunting-adeline.jpg

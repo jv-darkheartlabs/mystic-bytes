@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/11093.Julia_Quinn"
 dek: "Bridgerton — Anthony's Story"
 number: R479
 sort_key: 479
-date: 2023-01-23
+date: 2026-02-21
 date_read: 2026-05-07
 category: enemies-to-lovers
 cover: /assets/readings/the-viscount-who-loved-me.jpg

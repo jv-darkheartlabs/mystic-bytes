@@ -5,11 +5,10 @@ author: "John Kennedy Toole"
 dek: ""
 number: R2249
 sort_key: 2249
-date: 2026-05-11
+date: 2026-08-08
 date_read: 2014-11-25
-category: dark-thriller
+category: literary-fiction
 cover: /assets/readings/a-confederacy-of-dunces.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -5,11 +5,10 @@ author: "Edith Wharton"
 dek: "A tale of love and societal constraints in 19th century New York."
 number: R1652
 sort_key: 1652
-date: 2026-05-08
+date: 2026-06-26
 date_read: 2023-08-16
-category: forbidden-love
+category: classic-literature
 cover: /assets/readings/the-age-of-innocence.jpg
-spice: 2
 content_warnings:
   - "class disparity"
   - "societal expectations"

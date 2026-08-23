@@ -5,7 +5,7 @@ author: "Caroline Peckham & Susanne Valenti"
 dek: "Die Brutalen Jungs der Everlake Prep Buch 2"
 number: R040
 sort_key: 040
-date: 2021-08-15
+date: 2026-01-05
 date_read: 2019-07-13
 category: bully-romance
 cover: /assets/readings/kings-of-lockdown.jpg

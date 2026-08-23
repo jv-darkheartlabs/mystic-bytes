@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20138863.Amber_V_Nicole"
 dek: "Gods & Monsters Book Four"
 number: R291
 sort_key: 291
-date: 2022-06-04
+date: 2026-01-31
 date_read: 2018-06-10
 category: vampire-paranormal
 cover: /assets/readings/the-wrath-of-the-fallen.jpg

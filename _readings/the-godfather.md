@@ -5,11 +5,10 @@ author: "Chris Rice"
 dek: ""
 number: R1592
 sort_key: 1592
-date: 2026-07-07
+date: 2026-06-20
 date_read: 2007-11-25
-category: dark-thriller
+category: literary-fiction
 cover: /assets/readings/the-godfather.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "crime"

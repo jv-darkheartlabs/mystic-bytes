@@ -5,8 +5,8 @@ author: "Devney Perry"
 dek: "Tin Gypsy Series"
 number: R1295
 sort_key: 1295
-date: 2025-10-19
-date_read: 2026-11-25
+date: 2026-05-21
+date_read: 2026-08-23
 category: motorcycle-club
 cover: /assets/readings/fallen-jester.jpg
 spice: 4

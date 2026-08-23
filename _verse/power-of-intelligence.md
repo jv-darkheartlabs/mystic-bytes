@@ -4,7 +4,7 @@ title: "Power of Intelligence"
 dek: "Mind as navigation — not IQ poster."
 number: V0862
 sort_key: 862
-date: 2032-03-17
+date: 2026-07-23
 date_written: 2004-02-10
 category: life
 form: free-verse

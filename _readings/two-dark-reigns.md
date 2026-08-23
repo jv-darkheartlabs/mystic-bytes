@@ -5,7 +5,7 @@ author: "Kendare Blake"
 dek: "Three Dark Crowns — Book Three"
 number: R1419
 sort_key: 1419
-date: 2026-03-16
+date: 2026-06-04
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/two-dark-reigns.jpg

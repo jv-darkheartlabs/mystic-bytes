@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228263.Manda_Collins"
 dek: "Of all the crime scenes in all the world, she walks into his. Twice."
 number: R1384
 sort_key: 1384
-date: 2026-02-04
+date: 2026-05-31
 date_read: 2019-10-22
 category: enemies-to-lovers
 cover: /assets/readings/a-ladys-guide-to-mischief-and-mayhem.jpg

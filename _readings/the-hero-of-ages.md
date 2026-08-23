@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/38550.Brandon_Sanderson"
 dek: "Mistborn Book Three"
 number: R708
 sort_key: 708
-date: 2023-10-31
+date: 2026-03-19
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/the-hero-of-ages.jpg

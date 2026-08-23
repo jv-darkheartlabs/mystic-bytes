@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7139382.Penelope_Douglas"
 dek: "New York Times Bestselling Author"
 number: R001
 sort_key: 001
-date: 2021-07-01
+date: 2026-01-01
 date_read: 2016-04-04
 category: age-gap
 cover: /assets/readings/birthday-girl.jpg

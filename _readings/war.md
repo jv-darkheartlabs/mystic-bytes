@@ -5,7 +5,7 @@ author: "Laura Thalassa"
 dek: "The Four Horsemen — Book 2"
 number: R552
 sort_key: 552
-date: 2023-04-24
+date: 2026-03-01
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/war.jpg

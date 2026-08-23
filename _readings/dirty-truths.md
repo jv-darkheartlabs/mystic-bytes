@@ -5,7 +5,7 @@ author: "Brittanee Nicole"
 dek: "Boston Billionaires"
 number: R1109
 sort_key: 1109
-date: 2025-03-02
+date: 2026-05-01
 date_read: 2020-05-07
 category: dark-billionaire
 cover: /assets/readings/dirty-truths.jpg

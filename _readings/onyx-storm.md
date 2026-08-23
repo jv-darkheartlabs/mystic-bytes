@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7039365.Rebecca_Yarros"
 dek: "Brave the dark."
 number: R1137
 sort_key: 1137
-date: 2025-04-02
+date: 2026-05-04
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/onyx-storm.jpg

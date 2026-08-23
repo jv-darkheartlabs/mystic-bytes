@@ -5,7 +5,7 @@ author: "Neil Gaiman"
 dek: "American Gods, #1"
 number: R1641
 sort_key: 1641
-date: 2026-05-19
+date: 2026-06-25
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/american-gods-american-gods-1.jpg

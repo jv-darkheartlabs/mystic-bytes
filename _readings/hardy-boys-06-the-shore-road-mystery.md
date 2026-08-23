@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #6"
 number: R2325
 sort_key: 2325
-date: 2026-05-16
+date: 2026-08-16
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-06-the-shore-road-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

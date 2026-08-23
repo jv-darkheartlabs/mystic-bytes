@@ -5,7 +5,7 @@ author: "S. Massery"
 dek: "He's a hockey god... and she's the one who got away."
 number: R223
 sort_key: 223
-date: 2022-03-21
+date: 2026-01-25
 date_read: 2022-10-22
 category: stalker-obsession
 cover: /assets/readings/twisted-obsession.jpg

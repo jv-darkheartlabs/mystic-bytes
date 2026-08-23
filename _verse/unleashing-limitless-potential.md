@@ -4,7 +4,7 @@ title: "Unleashing Limitless Potential"
 dek: "Potential as verb — limits included."
 number: V0875
 sort_key: 875
-date: 2033-04-11
+date: 2026-08-01
 date_written: 2009-07-12
 category: life
 form: free-verse

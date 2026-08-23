@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: "a novel"
 number: R760
 sort_key: 760
-date: 2024-01-04
+date: 2026-03-24
 date_read: 2019-07-13
 category: forbidden-love
 cover: /assets/readings/maybe-not.jpg

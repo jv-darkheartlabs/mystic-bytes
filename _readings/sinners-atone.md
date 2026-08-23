@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21650344.Somme_Sketcher"
 dek: "Sinners Anonymous — Book Four"
 number: R157
 sort_key: 157
-date: 2022-01-02
+date: 2026-01-17
 date_read: 2016-07-13
 category: forbidden-love
 cover: /assets/readings/sinners-atone.jpg

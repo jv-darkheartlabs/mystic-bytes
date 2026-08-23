@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4729143.K_A_Tucker"
 dek: ""
 number: R1226
 sort_key: 1226
-date: 2025-07-21
+date: 2026-05-14
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/a-fate-of-wrath-flame.jpg

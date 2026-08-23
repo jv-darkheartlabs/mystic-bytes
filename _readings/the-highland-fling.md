@@ -5,7 +5,7 @@ author: "Meghan Quinn"
 dek: "Relationship status: It's complicated."
 number: R882
 sort_key: 882
-date: 2024-05-28
+date: 2026-04-07
 date_read: 2021-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-highland-fling.jpg

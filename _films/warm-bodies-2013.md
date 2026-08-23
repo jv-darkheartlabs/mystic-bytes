@@ -4,7 +4,7 @@ title: "Warm Bodies"
 dek: "2013 zombie rom-com from Isaac Marion's novel."
 number: F0032
 sort_key: 32
-date: 2026-07-11
+date: 2026-06-23
 date_watched: 2013-02-01
 year: 2013
 poster: /assets/films/warm-bodies-2013.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

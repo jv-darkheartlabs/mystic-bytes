@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4034046.Madeline_Miller"
 dek: ""
 number: R1230
 sort_key: 1230
-date: 2025-07-29
+date: 2026-05-14
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/the-song-of-achilles.jpg

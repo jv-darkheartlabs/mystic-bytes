@@ -4,7 +4,7 @@ title: "Building Equality"
 dek: "Unfair scales — hands on the beam."
 number: V0904
 sort_key: 904
-date: 2033-11-09
+date: 2026-08-06
 date_written: 2011-01-18
 category: justice
 form: free-verse

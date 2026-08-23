@@ -4,7 +4,7 @@ title: "Dual Nature of Fire"
 dek: "Warmth and ruin share a wick."
 number: V0210
 sort_key: 210
-date: 2026-09-27
+date: 2026-02-12
 date_written: 1998-12-01
 category: grief-loss-resilience
 form: free-verse

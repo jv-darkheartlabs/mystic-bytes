@@ -5,7 +5,7 @@ author: "Ashley Marie Witter"
 dek: "A graphic novel retelling of Claudia's story from Anne Rice's 'Interview with the Vampire.'"
 number: R1888
 sort_key: 1888
-date: 2026-04-02
+date: 2026-07-17
 date_read: 2019-10-22
 category: vampire-paranormal
 cover: /assets/readings/interview-with-the-vampire-claudias-story.jpg

@@ -5,7 +5,7 @@ author: "R. Raeta"
 dek: "These Gilded Lies Book Two"
 number: R1530
 sort_key: 1530
-date: 2026-06-17
+date: 2026-06-15
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/pits-poison.jpg

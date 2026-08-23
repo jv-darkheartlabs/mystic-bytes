@@ -4,7 +4,7 @@ title: "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
 dek: "2005 Walden Media adaptation of Lewis's wardrobe portal fantasy."
 number: F0038
 sort_key: 38
-date: 2026-07-11
+date: 2026-07-26
 date_watched: 2005-12-09
 year: 2005
 poster: /assets/films/the-lion-the-witch-and-the-wardrobe-2005.jpg
@@ -29,7 +29,6 @@ category: fantasy
 format: feature-film
 fidelity: faithful
 mpaa_rating: "PG"
-spice: 1
 content_warnings:
   - "fantasy violence"
   - "war"
@@ -43,6 +42,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: juvenile
 ---
 
 ## Hook & thesis

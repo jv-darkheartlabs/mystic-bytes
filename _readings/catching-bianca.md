@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.I_A_Dice"
 dek: "Shadows of Obsession Series Book Four"
 number: R816
 sort_key: 816
-date: 2024-03-13
+date: 2026-03-30
 date_read: 2015-09-19
 category: stalker-obsession
 cover: /assets/readings/catching-bianca.jpg

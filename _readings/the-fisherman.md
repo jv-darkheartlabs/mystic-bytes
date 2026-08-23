@@ -5,7 +5,7 @@ author: "John  Langan"
 dek: ""
 number: R1881
 sort_key: 1881
-date: 2026-04-09
+date: 2026-07-17
 date_read: 2024-03-01
 category: gothic-horror-romance
 cover: /assets/readings/the-fisherman.jpg

@@ -5,7 +5,7 @@ author: "Hal Leonard"
 dek: "Music from the Motion Picture Score"
 number: R2017
 sort_key: 2017
-date: 2026-06-12
+date: 2026-07-25
 date_read: 2016-04-04
 category: gothic-horror-romance
 cover: /assets/readings/the-twilight-saga-eclipse-songbook-music-from-the-motion-picture-score.jpg

@@ -4,7 +4,7 @@ title: "Enduring Bonds"
 dek: "Friendship as treaty, not eternal bliss."
 number: V0321
 sort_key: 321
-date: 2026-11-03
+date: 2026-03-09
 date_written: 2018-11-24
 category: love
 form: free-verse

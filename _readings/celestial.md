@@ -5,7 +5,7 @@ author: "Olivia Wildenstein"
 dek: ""
 number: R1495
 sort_key: 1495
-date: 2026-06-17
+date: 2026-06-12
 date_read: 2022-04-04
 category: gothic-horror-romance
 cover: /assets/readings/celestial.jpg

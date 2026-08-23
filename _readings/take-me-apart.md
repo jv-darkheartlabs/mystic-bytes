@@ -5,7 +5,7 @@ author: "Brea Alepou & Skyler Snow"
 dek: ""
 number: R1283
 sort_key: 1283
-date: 2025-10-03
+date: 2026-05-20
 date_read: 2026-08-16
 category: mafia-boss-and-innocent
 cover: /assets/readings/take-me-apart.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21002065.Carissa_Broadbent"
 dek: "Mortal enemies to monster lovers"
 number: R1326
 sort_key: 1326
-date: 2025-11-24
+date: 2026-05-24
 date_read: 2021-06-10
 category: vampire-paranormal
 cover: /assets/readings/slaying-the-vampire-conqueror.jpg

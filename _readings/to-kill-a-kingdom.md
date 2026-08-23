@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15291253.Alexandra_Christo"
 dek: "To save her prince"
 number: R1176
 sort_key: 1176
-date: 2025-05-27
+date: 2026-05-08
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/to-kill-a-kingdom.jpg

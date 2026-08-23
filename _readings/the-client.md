@@ -5,11 +5,10 @@ author: "John Grisham"
 dek: ""
 number: R1688
 sort_key: 1688
-date: 2026-04-02
+date: 2026-06-29
 date_read: 2013-08-16
-category: dark-thriller
+category: mystery-crime
 cover: /assets/readings/the-client.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "crime"

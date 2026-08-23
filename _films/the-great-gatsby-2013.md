@@ -4,7 +4,7 @@ title: "The Great Gatsby"
 dek: "2013 Luhrmann spectacle adaptation of Fitzgerald's Jazz Age tragedy."
 number: F0012
 sort_key: 12
-date: 2026-07-11
+date: 2026-03-04
 date_watched: 2013-05-10
 year: 2013
 poster: /assets/films/the-great-gatsby-2013.jpg
@@ -26,7 +26,6 @@ category: literary-adaptation
 format: feature-film
 fidelity: reimagining
 mpaa_rating: "PG-13"
-spice: 2
 content_warnings:
   - "violence"
   - "suicide"
@@ -40,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: canon
 ---
 
 ## Hook & thesis

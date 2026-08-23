@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228264.Dustin_Thao"
 dek: "How do you move forward when everything you love is on the line?"
 number: R1472
 sort_key: 1472
-date: 2026-05-24
+date: 2026-06-09
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/youve-reached-sam.jpg

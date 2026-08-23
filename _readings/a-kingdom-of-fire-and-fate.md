@@ -5,7 +5,7 @@ author: "Holly Renee"
 dek: ""
 number: R1442
 sort_key: 1442
-date: 2026-04-17
+date: 2026-06-06
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/a-kingdom-of-fire-and-fate.jpg

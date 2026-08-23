@@ -5,11 +5,10 @@ author: "Roald Dahl"
 dek: ""
 number: R1619
 sort_key: 1619
-date: 2026-06-10
+date: 2026-06-23
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/charlie-and-the-chocolate-factory.jpg
-spice: 1
 content_warnings:
 tags:
   - fantasy

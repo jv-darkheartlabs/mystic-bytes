@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6877923.Tamsyn_Muir"
 dek: ""
 number: R655
 sort_key: 655
-date: 2023-08-29
+date: 2026-03-13
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/nona-the-ninth.jpg

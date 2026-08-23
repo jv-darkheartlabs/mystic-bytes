@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/442240.Blake_Crouch"
 dek: ""
 number: R345
 sort_key: 345
-date: 2022-08-15
+date: 2026-02-06
 date_read: 2010-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/dark-matter.jpg
 spice: 2
 content_warnings:

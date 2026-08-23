@@ -4,7 +4,7 @@ title: "New Orleans Childhood"
 dek: "Playground humidity before the body learns cost."
 number: V0402
 sort_key: 402
-date: 2026-11-20
+date: 2026-03-21
 date_written: 1994-03-12
 category: nola
 form: free-verse

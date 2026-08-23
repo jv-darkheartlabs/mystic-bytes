@@ -4,7 +4,7 @@ title: "Virtue and Righteousness"
 dek: "Ethics as labor, not laurel."
 number: V0109
 sort_key: 109
-date: 2026-08-11
+date: 2026-01-11
 date_written: 2000-10-03
 category: spirituality
 form: free-verse

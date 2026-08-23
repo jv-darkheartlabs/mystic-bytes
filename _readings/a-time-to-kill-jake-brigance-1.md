@@ -5,11 +5,10 @@ author: "John Grisham"
 dek: "Jake Brigance Series"
 number: R2240
 sort_key: 2240
-date: 2026-05-20
+date: 2026-08-07
 date_read: 2005-11-25
-category: dark-thriller
+category: mystery-crime
 cover: /assets/readings/a-time-to-kill-jake-brigance-1.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "racial themes"

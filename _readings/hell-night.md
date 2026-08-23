@@ -5,7 +5,7 @@ author: "Winters, Reeds & Cruz"
 dek: "Three Stories. One Town. A Dark & Bloody Anthology"
 number: R788
 sort_key: 788
-date: 2024-02-08
+date: 2026-03-27
 date_read: 2023-08-16
 category: gothic-horror-romance
 cover: /assets/readings/hell-night.jpg

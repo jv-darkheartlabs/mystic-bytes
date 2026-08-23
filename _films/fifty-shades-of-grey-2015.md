@@ -4,7 +4,7 @@ title: "Fifty Shades of Grey"
 dek: "2015 adaptation of E.L. James's dark-billionaire romance."
 number: F0003
 sort_key: 3
-date: 2026-07-11
+date: 2026-01-12
 date_watched: 2015-02-13
 year: 2015
 poster: /assets/films/fifty-shades-of-grey-2015.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

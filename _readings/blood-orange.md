@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4342215.Karina_Halle"
 dek: "New York Times Bestselling Author"
 number: R146
 sort_key: 146
-date: 2021-12-18
+date: 2026-01-16
 date_read: 2017-05-07
 category: forbidden-love
 cover: /assets/readings/blood-orange.jpg

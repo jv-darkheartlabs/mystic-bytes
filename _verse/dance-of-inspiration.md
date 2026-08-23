@@ -4,7 +4,7 @@ title: "Dance of Inspiration"
 dek: "Spark before the brush earns it."
 number: V0425
 sort_key: 425
-date: 2026-12-13
+date: 2026-04-06
 date_written: 2008-11-07
 category: nola
 form: open

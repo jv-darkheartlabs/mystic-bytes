@@ -5,7 +5,7 @@ author: "Robin D. Mahle & Elle Madison"
 dek: "The Lochlann Feuds — Book 3"
 number: R548
 sort_key: 548
-date: 2023-04-20
+date: 2026-03-01
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/crimson-kingdom.jpg

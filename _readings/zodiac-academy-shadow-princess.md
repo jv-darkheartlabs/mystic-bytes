@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1095
 sort_key: 1095
-date: 2025-02-11
+date: 2026-04-30
 date_read: 2018-09-19
 category: bully-romance
 cover: /assets/readings/zodiac-academy-shadow-princess.jpg

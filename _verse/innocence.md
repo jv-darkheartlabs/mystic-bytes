@@ -4,7 +4,7 @@ title: "Innocence"
 dek: "Brightness before the city teaches price."
 number: V0419
 sort_key: 419
-date: 2026-12-07
+date: 2026-04-01
 date_written: 1996-08-09
 category: nola
 form: open

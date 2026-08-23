@@ -4,7 +4,7 @@ title: "Embracing Solitude"
 dek: "Alone as room, not verdict."
 number: V0815
 sort_key: 815
-date: 2028-04-05
+date: 2026-06-21
 date_written: 2005-09-22
 category: life
 form: free-verse

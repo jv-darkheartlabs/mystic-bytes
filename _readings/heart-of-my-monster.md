@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18306242.Rina_Kent"
 dek: "Monster Trilogy Book Three"
 number: R065
 sort_key: 065
-date: 2021-09-16
+date: 2026-01-08
 date_read: 2020-05-07
 category: captor-and-captive
 cover: /assets/readings/heart-of-my-monster.jpg

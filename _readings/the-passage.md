@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17226.Justin_Cronin"
 dek: ""
 number: R774
 sort_key: 774
-date: 2024-01-24
+date: 2026-03-26
 date_read: 2021-03-01
 category: gothic-horror-romance
 cover: /assets/readings/the-passage.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1164
 sort_key: 1164
-date: 2025-05-10
+date: 2026-05-07
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/caged-wolf.jpg

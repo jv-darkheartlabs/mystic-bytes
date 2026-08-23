@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6540057.Andy_Weir"
 dek: "A Novel"
 number: R597
 sort_key: 597
-date: 2023-06-19
+date: 2026-03-06
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/the-martian.jpg

@@ -5,7 +5,7 @@ author: "C.M. Nascosta"
 dek: "a MonsterBait romance"
 number: R1013
 sort_key: 1013
-date: 2024-11-12
+date: 2026-04-21
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/girls-weekend.jpg

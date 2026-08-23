@@ -5,9 +5,9 @@ author: "Marcia Lerner"
 dek: ""
 number: R2082
 sort_key: 2082
-date: 2026-04-08
+date: 2026-07-29
 date_read: 2007-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/math-smart-getting-a-grip-on-basic-math.jpg
 spice: 1
 content_warnings:

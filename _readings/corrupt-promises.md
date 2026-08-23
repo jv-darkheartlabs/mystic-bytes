@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21175647.Cassia_Quinn"
 dek: "She's the wrong bride, but he can never learn the truth."
 number: R003
 sort_key: 003
-date: 2021-07-02
+date: 2026-01-01
 date_read: 2018-06-10
 category: arranged-marriage
 cover: /assets/readings/corrupt-promises.jpg

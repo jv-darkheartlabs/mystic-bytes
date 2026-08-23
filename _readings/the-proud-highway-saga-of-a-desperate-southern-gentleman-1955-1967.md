@@ -5,11 +5,10 @@ author: "Hunter S. Thompson"
 dek: ""
 number: R1548
 sort_key: 1548
-date: 2026-05-30
+date: 2026-06-16
 date_read: 2013-03-01
-category: dark-thriller
+category: memoir-nonfiction
 cover: /assets/readings/the-proud-highway-saga-of-a-desperate-southern-gentleman-1955-1967.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

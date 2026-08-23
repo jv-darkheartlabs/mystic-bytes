@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book Two of the Tawny Man Trilogy"
 number: R490
 sort_key: 490
-date: 2023-02-07
+date: 2026-02-22
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/golden-fool.jpg

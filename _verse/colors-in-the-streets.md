@@ -4,7 +4,7 @@ title: "Colors in the Streets"
 dek: "Hue as neighborhood dialect."
 number: V0453
 sort_key: 453
-date: 2027-01-10
+date: 2026-04-25
 date_written: 2006-10-14
 category: nola
 form: open

@@ -5,7 +5,7 @@ author: "Mia Sheridan"
 dek: ""
 number: R747
 sort_key: 747
-date: 2023-12-14
+date: 2026-03-23
 date_read: 2018-03-01
 category: forbidden-love
 cover: /assets/readings/finding-eden.jpg

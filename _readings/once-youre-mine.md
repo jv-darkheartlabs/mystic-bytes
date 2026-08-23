@@ -5,7 +5,7 @@ author: "Morgan Bridges"
 dek: "Possessing Her — Book 1"
 number: R255
 sort_key: 255
-date: 2022-04-26
+date: 2026-01-28
 date_read: 2018-06-10
 category: stalker-obsession
 cover: /assets/readings/once-youre-mine.jpg

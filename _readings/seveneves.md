@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/545.Neal_Stephenson"
 dek: ""
 number: R700
 sort_key: 700
-date: 2023-10-23
+date: 2026-03-18
 date_read: 2019-10-22
-category: fantasy-romance
+category: sff
 cover: /assets/readings/seveneves.jpg
-spice: 2
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/137902.Richelle_Mead"
 dek: ""
 number: R1063
 sort_key: 1063
-date: 2025-01-06
+date: 2026-04-26
 date_read: 2022-04-04
 category: vampire-paranormal
 cover: /assets/readings/shadow-kiss.jpg

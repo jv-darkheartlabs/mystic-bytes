@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/73149.Scott_Lynch"
 dek: ""
 number: R666
 sort_key: 666
-date: 2023-09-14
+date: 2026-03-14
 date_read: 2000-03-01
-category: classic-literature
+category: philosophy-criticism
 cover: /assets/readings/the-republic-of-thieves.jpg
-spice: 4
 content_warnings:
   - "sexual content"
   - "emotional intensity"

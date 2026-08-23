@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228248.Ana_Huang"
 dek: "Twisted — Book One"
 number: R731
 sort_key: 731
-date: 2023-12-02
+date: 2026-03-21
 date_read: 2026-05-07
 category: forbidden-love
 cover: /assets/readings/twisted-love.jpg

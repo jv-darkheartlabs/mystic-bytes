@@ -4,7 +4,7 @@ title: "Homage to Gratitude"
 dek: "Thanks as discipline, not decoration."
 number: V0142
 sort_key: 142
-date: 2026-09-13
+date: 2026-02-03
 date_written: 1999-09-09
 category: spirituality
 form: free-verse

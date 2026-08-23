@@ -5,7 +5,7 @@ author: "Grady Hendrix"
 dek: ""
 number: R1663
 sort_key: 1663
-date: 2026-04-27
+date: 2026-06-27
 date_read: 2022-10-22
 category: gothic-horror-romance
 cover: /assets/readings/my-best-friends-exorcism.jpg

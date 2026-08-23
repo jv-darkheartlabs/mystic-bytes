@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: ""
 number: R732
 sort_key: 732
-date: 2023-11-29
+date: 2026-03-21
 date_read: 2015-06-10
 category: forbidden-love
 cover: /assets/readings/ugly-love.jpg

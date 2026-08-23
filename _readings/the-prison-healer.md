@@ -5,7 +5,7 @@ author: "Lynette Noni"
 dek: ""
 number: R1335
 sort_key: 1335
-date: 2025-12-02
+date: 2026-05-25
 date_read: 2018-06-10
 category: captor-and-captive
 cover: /assets/readings/the-prison-healer.jpg

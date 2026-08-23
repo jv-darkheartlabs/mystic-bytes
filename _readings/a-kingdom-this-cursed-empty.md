@@ -5,7 +5,7 @@ author: "Stacia Stark"
 dek: ""
 number: R994
 sort_key: 994
-date: 2024-10-17
+date: 2026-04-19
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/a-kingdom-this-cursed-empty.jpg

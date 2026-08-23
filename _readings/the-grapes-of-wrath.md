@@ -5,11 +5,10 @@ author: "John Steinbeck"
 dek: ""
 number: R2169
 sort_key: 2169
-date: 2026-04-21
+date: 2026-08-03
 date_read: 2014-03-01
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-grapes-of-wrath.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "poverty"

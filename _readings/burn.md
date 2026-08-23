@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7154212.Clarissa_Wild"
 dek: "New York Times & USA Today Bestselling Author"
 number: R111
 sort_key: 111
-date: 2021-11-07
+date: 2026-01-12
 date_read: 2018-06-10
 category: enemies-to-lovers
 cover: /assets/readings/burn.jpg

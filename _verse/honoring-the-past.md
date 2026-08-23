@@ -4,7 +4,7 @@ title: "Honoring the Past"
 dek: "Memory as foundation — not museum."
 number: V0829
 sort_key: 829
-date: 2029-06-01
+date: 2026-07-01
 date_written: 2017-03-06
 category: life
 form: free-verse

@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #14"
 number: R2276
 sort_key: 2276
-date: 2026-07-04
+date: 2026-08-10
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-14-the-hidden-harbor-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

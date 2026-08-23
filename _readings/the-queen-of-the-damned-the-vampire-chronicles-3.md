@@ -5,7 +5,7 @@ author: "Anne Rice"
 dek: "The Vampire Chronicles, #3"
 number: R1885
 sort_key: 1885
-date: 2026-04-05
+date: 2026-07-17
 date_read: 2016-07-13
 category: vampire-paranormal
 cover: /assets/readings/the-queen-of-the-damned-the-vampire-chronicles-3.jpg

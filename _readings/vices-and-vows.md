@@ -5,7 +5,7 @@ author: "Candice Wright"
 dek: ""
 number: R1288
 sort_key: 1288
-date: 2025-10-07
+date: 2026-05-20
 date_read: 2019-04-04
 category: mafia-boss-and-innocent
 cover: /assets/readings/vices-and-vows.jpg

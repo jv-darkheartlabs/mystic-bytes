@@ -5,7 +5,7 @@ author: "Gigi Meadows"
 dek: ""
 number: R818
 sort_key: 818
-date: 2024-03-16
+date: 2026-03-31
 date_read: 2017-11-25
 category: stalker-obsession
 cover: /assets/readings/soul-of-a-psycho.jpg

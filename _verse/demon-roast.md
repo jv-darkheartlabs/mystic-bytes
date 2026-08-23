@@ -4,7 +4,7 @@ title: "Demon Roast"
 dek: "She does not host. She haunts."
 number: V0005
 sort_key: 5
-date: 2026-07-11
+date: 2026-01-04
 date_written: 2019-04-07
 category: misc
 form: free-verse

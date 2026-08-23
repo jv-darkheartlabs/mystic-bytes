@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4362149.Karina_Halle"
 dek: "New York Times Bestselling Author"
 number: R306
 sort_key: 306
-date: 2022-06-23
+date: 2026-02-02
 date_read: 2021-03-01
 category: vampire-paranormal
 cover: /assets/readings/grave-matter.jpg

@@ -5,7 +5,7 @@ author: "Alexandria Bellefleur"
 dek: "He's looking for the one... but maybe he's already met her?"
 number: R466
 sort_key: 466
-date: 2023-01-06
+date: 2026-02-20
 date_read: 2025-10-22
 category: enemies-to-lovers
 cover: /assets/readings/hang-the-moon.jpg

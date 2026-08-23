@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20318490.Elizabeth_Helen"
 dek: "Beasts of the Briar — Book Two"
 number: R303
 sort_key: 303
-date: 2022-06-19
+date: 2026-02-02
 date_read: 2018-09-19
 category: vampire-paranormal
 cover: /assets/readings/woven-by-gold.jpg

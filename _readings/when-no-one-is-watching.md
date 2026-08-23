@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/6870224.Alyssa_Cole"
 dek: "A Thriller"
 number: R420
 sort_key: 420
-date: 2022-11-15
+date: 2026-02-15
 date_read: 2005-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/when-no-one-is-watching.jpg
 spice: 2
 content_warnings:

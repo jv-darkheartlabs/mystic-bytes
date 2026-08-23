@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6524620.Pierce_Brown"
 dek: "Book 1 of the Red Rising Trilogy"
 number: R672
 sort_key: 672
-date: 2023-09-20
+date: 2026-03-15
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/red-rising.jpg

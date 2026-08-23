@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #15"
 number: R2277
 sort_key: 2277
-date: 2026-07-03
+date: 2026-08-10
 date_read: 1993-06-01
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-15-the-sinister-signpost.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

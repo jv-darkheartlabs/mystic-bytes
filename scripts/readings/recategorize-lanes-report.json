@@ -1,0 +1,47 @@
+{
+  "dryRun": false,
+  "changed": 5,
+  "spiceStripped": 5,
+  "cwStripped": 0,
+  "unknown": [],
+  "byRule": {
+    "sff": 5
+  },
+  "changes": [
+    {
+      "slug": "a-wizard-of-earthsea",
+      "from": "fantasy-romance",
+      "to": "sff",
+      "rule": "sff",
+      "lane": "genre"
+    },
+    {
+      "slug": "dune-dune-1",
+      "from": "fantasy-romance",
+      "to": "sff",
+      "rule": "sff",
+      "lane": "genre"
+    },
+    {
+      "slug": "project-hail-mary",
+      "from": "fantasy-romance",
+      "to": "sff",
+      "rule": "sff",
+      "lane": "genre"
+    },
+    {
+      "slug": "seveneves",
+      "from": "fantasy-romance",
+      "to": "sff",
+      "rule": "sff",
+      "lane": "genre"
+    },
+    {
+      "slug": "the-left-hand-of-darkness",
+      "from": "fantasy-romance",
+      "to": "sff",
+      "rule": "sff",
+      "lane": "genre"
+    }
+  ]
+}

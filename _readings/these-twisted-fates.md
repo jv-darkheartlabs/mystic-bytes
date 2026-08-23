@@ -5,7 +5,7 @@ author: "Violet Jackson"
 dek: "Of Fae & Monsters Book 1 — Revised Edition"
 number: R297
 sort_key: 297
-date: 2022-06-17
+date: 2026-02-01
 date_read: 2024-03-01
 category: vampire-paranormal
 cover: /assets/readings/these-twisted-fates.jpg

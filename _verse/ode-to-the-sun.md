@@ -4,7 +4,7 @@ title: "Ode to the Sun"
 dek: "Praise as survival math."
 number: V0522
 sort_key: 522
-date: 2027-02-04
+date: 2026-05-12
 date_written: 1994-06-21
 category: nature
 form: closed

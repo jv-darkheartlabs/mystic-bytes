@@ -4,7 +4,7 @@ title: "Unity and Loyalty"
 dek: "Brotherhood as load-bearing bond."
 number: V0901
 sort_key: 901
-date: 2033-08-27
+date: 2026-08-04
 date_written: 2005-07-08
 category: justice
 form: free-verse

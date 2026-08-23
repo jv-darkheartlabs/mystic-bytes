@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Rina_Kent"
 dek: "The truth doesn't set you free"
 number: R1117
 sort_key: 1117
-date: 2025-03-16
+date: 2026-05-02
 date_read: 2016-04-04
 category: enemies-to-lovers
 cover: /assets/readings/all-the-truths.jpg

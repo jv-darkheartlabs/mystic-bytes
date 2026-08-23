@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/2458.Jodi_Picoult"
 dek: "A Novel"
 number: R439
 sort_key: 439
-date: 2022-12-04
+date: 2026-02-17
 date_read: 2014-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/by-any-other-name.jpg
 spice: 2
 content_warnings:

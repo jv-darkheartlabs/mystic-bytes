@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6449152.John_Gwynne"
 dek: "Even the brave will fall."
 number: R660
 sort_key: 660
-date: 2023-09-01
+date: 2026-03-13
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/malice.jpg

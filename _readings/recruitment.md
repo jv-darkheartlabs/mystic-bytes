@@ -5,7 +5,7 @@ author: "K.A. Riley"
 dek: "The Resistance Trilogy"
 number: R599
 sort_key: 599
-date: 2023-06-17
+date: 2026-03-07
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/recruitment.jpg

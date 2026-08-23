@@ -5,7 +5,7 @@ author: "Geneva Lee"
 dek: ""
 number: R1072
 sort_key: 1072
-date: 2025-01-21
+date: 2026-04-27
 date_read: 2019-04-04
 category: vampire-paranormal
 cover: /assets/readings/filthy-rich-vampires-three-queens.jpg

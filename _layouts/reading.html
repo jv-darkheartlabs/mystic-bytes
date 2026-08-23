@@ -3,10 +3,25 @@ layout: default
 ---
 {% assign cat = site.data.reading_categories.categories[page.category] %}
 {% assign spice = site.data.reading_categories.spice_levels | where: "level", page.spice | first %}
+{% assign lane_path = "/media/written/reviews/" %}
+{% assign lane_label = "reviews" %}
+{% if cat.lane == "romance" %}
+  {% assign lane_path = "/media/written/reviews/romance/" %}
+  {% assign lane_label = "orchid room" %}
+{% elsif cat.lane == "canon" %}
+  {% assign lane_path = "/media/written/reviews/canon/" %}
+  {% assign lane_label = "canon" %}
+{% elsif cat.lane == "genre" %}
+  {% assign lane_path = "/media/written/reviews/genre/" %}
+  {% assign lane_label = "genre" %}
+{% elsif cat.lane == "juvenile" %}
+  {% assign lane_path = "/media/written/reviews/juvenile/" %}
+  {% assign lane_label = "juvenile" %}
+{% endif %}
 
 <article class="reading essay"{% if cat %} data-family="{{ cat.family }}"{% endif %}>
   <div class="essay-inner">
-    <a class="essay-back" href="{{ '/media/written/reviews/' | relative_url }}">← reviews</a>
+    <a class="essay-back" href="{{ lane_path | relative_url }}">← {{ lane_label }}</a>
 
     <div class="essay-meta">
       <span class="essay-signal">review_№_{{ page.number }}</span>
@@ -41,7 +56,7 @@ layout: default
           {% if cat %}
           <span class="reading-meta__cat">{{ cat.label }}</span>
           {% endif %}
-          {% if spice %}
+          {% if cat.lane == "romance" and spice %}
           <span class="reading-meta__spice" title="spice level {{ page.spice }} · {{ spice.label }}">
             {{ spice.peppers }} · {{ spice.label }}
           </span>

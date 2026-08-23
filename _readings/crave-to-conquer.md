@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15143324.Zoey_Ellis"
 dek: "Myth of Omega: Crave 1"
 number: R079
 sort_key: 079
-date: 2021-10-04
+date: 2026-01-10
 date_read: 2022-10-22
 category: captor-and-captive
 cover: /assets/readings/crave-to-conquer.jpg

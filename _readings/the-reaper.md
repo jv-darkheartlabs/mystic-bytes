@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19586146.RuNyx"
 dek: "Dark Verse Book Two"
 number: R187
 sort_key: 187
-date: 2022-02-11
+date: 2026-01-21
 date_read: 2022-10-22
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-reaper.jpg

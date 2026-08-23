@@ -4,7 +4,7 @@ title: "Power of Freedom"
 dek: "Liberty as lived posture."
 number: V0916
 sort_key: 916
-date: 2034-11-29
+date: 2026-08-14
 date_written: 2003-05-22
 category: justice
 form: free-verse

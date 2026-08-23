@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4721702.Mark_Lawrence"
 dek: ""
 number: R1202
 sort_key: 1202
-date: 2025-06-25
+date: 2026-05-11
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/the-book-that-broke-the-world.jpg

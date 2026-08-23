@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6518850.Cora_Reilly"
 dek: ""
 number: R1282
 sort_key: 1282
-date: 2025-10-02
+date: 2026-05-20
 date_read: 2025-07-13
 category: mafia-boss-and-innocent
 cover: /assets/readings/fragile-allegiance.jpg

@@ -4,7 +4,7 @@ title: "Resilience Amidst Struggle"
 dek: "The fray continues after the lesson."
 number: V0222
 sort_key: 222
-date: 2026-10-09
+date: 2026-02-20
 date_written: 1999-03-08
 category: grief-loss-resilience
 form: free-verse

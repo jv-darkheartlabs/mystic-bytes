@@ -5,9 +5,9 @@ author: "Hunter S. Thompson"
 dek: ""
 number: R1540
 sort_key: 1540
-date: 2026-06-07
+date: 2026-06-15
 date_read: 2005-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/generation-of-swine-tales-of-shame-and-degradation-in-the-80s.jpg
 spice: 2
 content_warnings:

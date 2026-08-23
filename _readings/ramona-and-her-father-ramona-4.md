@@ -5,11 +5,10 @@ author: "Beverly Cleary"
 dek: "Ramona's adventures continue as she navigates life with her father."
 number: R2131
 sort_key: 2131
-date: 2026-05-29
+date: 2026-07-30
 date_read: 2006-10-22
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/ramona-and-her-father-ramona-4.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

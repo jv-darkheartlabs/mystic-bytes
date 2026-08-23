@@ -5,7 +5,7 @@ author: "David Seltzer"
 dek: ""
 number: R1930
 sort_key: 1930
-date: 2026-05-30
+date: 2026-07-21
 date_read: 2025-07-13
 category: gothic-horror-romance
 cover: /assets/readings/the-omen.jpg

@@ -5,7 +5,7 @@ author: "Pam Godwin"
 dek: ""
 number: R325
 sort_key: 325
-date: 2022-07-19
+date: 2026-02-04
 date_read: 2016-04-04
 category: captor-and-captive
 cover: /assets/readings/sea-of-ruin.jpg

@@ -10,9 +10,9 @@ type: pillar
 read_time: 7
 tags: [ai, craft]
 brief:
-  system: mystic-bytes catalog order, sort_key, and any ranking that pretends to be neutral
-  issue: "the algorithm" used as a shield; proxies like clicks quietly rewrite editorial intent
-  constraint: small studio; make the objective legible in code review and in the repo
+  system: "mystic-bytes catalog order, sort_key, and any ranking that pretends to be neutral"
+  issue: '"the algorithm" used as a shield; proxies like clicks quietly rewrite editorial intent'
+  constraint: "small studio; make the objective legible in code review and in the repo"
 ---
 
 People talk about algorithms as weather. A recommendation engine, a feed ranker, and a `ORDER BY` are the same species: rules, weights, and an objective someone picked. Fear fades when you can name the objective. This is not a machine-learning platform essay. I do not run one. It is about the sort you already shipped.

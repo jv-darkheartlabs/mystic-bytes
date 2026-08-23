@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/1077326.J_K_Rowling"
 dek: ""
 number: R932
 sort_key: 932
-date: 2024-07-28
+date: 2026-04-12
 date_read: 1994-05-15
-category: fantasy-romance
+category: ya-fiction
 cover: /assets/readings/harry-potter-and-the-sorcerers-stone.jpg
-spice: 1
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

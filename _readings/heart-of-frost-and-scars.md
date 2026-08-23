@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6888929.Pam_Godwin"
 dek: "a dark romance"
 number: R080
 sort_key: 080
-date: 2021-10-04
+date: 2026-01-10
 date_read: 2023-11-25
 category: captor-and-captive
 cover: /assets/readings/heart-of-frost-and-scars.jpg

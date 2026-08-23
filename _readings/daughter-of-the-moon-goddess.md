@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21147047.Sue_Lynn_Tan"
 dek: "A retelling inspired by the Mid-Autumn legend"
 number: R1249
 sort_key: 1249
-date: 2025-08-24
+date: 2026-05-16
 date_read: 2016-10-22
 category: fantasy-romance
 cover: /assets/readings/daughter-of-the-moon-goddess.jpg

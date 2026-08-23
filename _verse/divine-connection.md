@@ -4,7 +4,7 @@ title: "Divine Connection"
 dek: "Connection without rescue."
 number: V0121
 sort_key: 121
-date: 2026-08-23
+date: 2026-01-19
 date_written: 2002-09-30
 category: spirituality
 form: free-verse

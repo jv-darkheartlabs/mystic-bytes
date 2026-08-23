@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/14106734.Martha_Hall_Kelly"
 dek: "A Novel"
 number: R402
 sort_key: 402
-date: 2022-10-23
+date: 2026-02-13
 date_read: 2007-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/lilac-girls.jpg
 spice: 1
 content_warnings:

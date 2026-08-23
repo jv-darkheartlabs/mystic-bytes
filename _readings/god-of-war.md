@@ -5,7 +5,7 @@ author: "Rina Kent"
 dek: "Legacy of Gods"
 number: R845
 sort_key: 845
-date: 2024-04-19
+date: 2026-04-03
 date_read: 2020-11-25
 category: enemies-to-lovers
 cover: /assets/readings/god-of-war.jpg

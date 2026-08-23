@@ -5,11 +5,10 @@ author: "Edgar Allan Poe"
 dek: ""
 number: R1720
 sort_key: 1720
-date: 2026-06-09
+date: 2026-07-03
 date_read: 1996-05-15
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-fall-of-the-house-of-usher.jpg
-spice: 2
 content_warnings:
   - "death"
   - "mental illness"

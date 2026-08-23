@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228253.Devney_Perry"
 dek: "The Edens"
 number: R1346
 sort_key: 1346
-date: 2025-12-17
+date: 2026-05-26
 date_read: 2011-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/crimson-river.jpg
 spice: 3
 content_warnings:

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8109635.Victoria_Aveyard"
 dek: ""
 number: R636
 sort_key: 636
-date: 2023-08-05
+date: 2026-03-11
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/realm-breaker.jpg

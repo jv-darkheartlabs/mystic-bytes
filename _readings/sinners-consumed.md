@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21415443.Somme_Sketcher"
 dek: "Sinners Anonymous — Book Three"
 number: R158
 sort_key: 158
-date: 2022-01-06
+date: 2026-01-18
 date_read: 2017-08-16
 category: forbidden-love
 cover: /assets/readings/sinners-consumed.jpg

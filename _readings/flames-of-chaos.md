@@ -5,7 +5,7 @@ author: "Amelia Hutchins"
 dek: "Legacy of the Nine Realms 1"
 number: R1405
 sort_key: 1405
-date: 2026-02-24
+date: 2026-06-02
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/flames-of-chaos.jpg

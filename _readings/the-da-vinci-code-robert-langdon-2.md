@@ -5,9 +5,9 @@ author: "Dan    Brown"
 dek: "Robert Langdon, #2"
 number: R1604
 sort_key: 1604
-date: 2026-06-25
+date: 2026-06-21
 date_read: 2009-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-da-vinci-code-robert-langdon-2.jpg
 spice: 2
 content_warnings:

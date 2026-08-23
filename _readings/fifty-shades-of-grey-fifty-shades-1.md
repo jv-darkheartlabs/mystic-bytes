@@ -5,7 +5,7 @@ author: "E.L. James"
 dek: "Fifty Shades, #1"
 number: R1965
 sort_key: 1965
-date: 2026-04-25
+date: 2026-07-23
 date_read: 2024-06-10
 category: dark-billionaire
 cover: /assets/readings/fifty-shades-of-grey-fifty-shades-1.jpg

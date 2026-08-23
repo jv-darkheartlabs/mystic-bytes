@@ -5,7 +5,7 @@ author: "Luna Pierce"
 dek: ""
 number: R1279
 sort_key: 1279
-date: 2025-09-27
+date: 2026-05-19
 date_read: 2022-04-04
 category: mafia-boss-and-innocent
 cover: /assets/readings/villain-era.jpg

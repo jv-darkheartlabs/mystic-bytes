@@ -5,7 +5,7 @@ author: "S. Massery"
 dek: "He's a hockey god... and she's the one he can't have."
 number: R226
 sort_key: 226
-date: 2022-03-22
+date: 2026-01-25
 date_read: 2025-04-04
 category: stalker-obsession
 cover: /assets/readings/secret-obsession.jpg

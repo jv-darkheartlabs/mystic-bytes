@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/26023.Chris_Wooding"
 dek: ""
 number: R515
 sort_key: 515
-date: 2023-03-06
+date: 2026-02-25
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/the-shadow-casket.jpg

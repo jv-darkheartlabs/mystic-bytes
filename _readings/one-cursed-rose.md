@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4038901.Rebecca_Zanetti"
 dek: "New York Times Bestselling Author"
 number: R144
 sort_key: 144
-date: 2021-12-18
+date: 2026-01-16
 date_read: 2015-03-01
 category: forbidden-love
 cover: /assets/readings/one-cursed-rose.jpg

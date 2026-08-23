@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4729143.K_A_Tucker"
 dek: ""
 number: R1245
 sort_key: 1245
-date: 2025-08-14
+date: 2026-05-16
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/a-dawn-of-gods-fury.jpg

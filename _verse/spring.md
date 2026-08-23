@@ -4,7 +4,7 @@ title: "Spring"
 dek: "Bloom as annual recommitment."
 number: V0451
 sort_key: 451
-date: 2027-01-08
+date: 2026-04-23
 date_written: 2005-03-20
 category: nola
 form: open
@@ -16,7 +16,7 @@ tags:
   - darkheartlabs
 content_warnings: []
 shelf: true
-source_title: "Spring Symphony in NOLA"
+source_title: "Spring Symphony in New Orleans"
 ---
 
 Spring in New Orleans

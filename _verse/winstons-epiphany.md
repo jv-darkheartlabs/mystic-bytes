@@ -4,7 +4,7 @@ title: "Winston's Epiphany"
 dek: "Private lore. Not for the public shelf."
 number: V0929
 sort_key: 929
-date: 2035-12-23
+date: 2026-08-23
 date_written: 2016-10-12
 category: misc
 form: free-verse

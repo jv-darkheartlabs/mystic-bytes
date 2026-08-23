@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7244758.Freida_McFadden"
 dek: "It's a lesson she'll never forget."
 number: R384
 sort_key: 384
-date: 2022-10-03
+date: 2026-02-11
 date_read: 2009-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-teacher.jpg
 spice: 2
 content_warnings:

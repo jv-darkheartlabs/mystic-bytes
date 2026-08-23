@@ -5,9 +5,9 @@ author: "Scott Nicholson"
 dek: ""
 number: R2039
 sort_key: 2039
-date: 2026-05-21
+date: 2026-07-26
 date_read: 2014-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/write-good-or-die.jpg
 spice: 2
 content_warnings:

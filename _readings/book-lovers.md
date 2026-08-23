@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166899.Emily_Henry"
 dek: ""
 number: R1370
 sort_key: 1370
-date: 2026-01-16
+date: 2026-05-29
 date_read: 2017-05-07
 category: enemies-to-lovers
 cover: /assets/readings/book-lovers.jpg

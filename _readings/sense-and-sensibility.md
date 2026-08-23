@@ -5,11 +5,10 @@ author: "Jane Austen"
 dek: ""
 number: R2227
 sort_key: 2227
-date: 2026-06-02
+date: 2026-08-05
 date_read: 2022-07-13
-category: enemies-to-lovers
+category: classic-literature
 cover: /assets/readings/sense-and-sensibility.jpg
-spice: 2
 content_warnings:
 tags:
   - enemiestolovers

@@ -4,7 +4,7 @@ title: "Journey for Heart and Soul"
 dek: "Travel as inner mileage."
 number: V0620
 sort_key: 620
-date: 2027-03-13
+date: 2026-06-06
 date_written: 1991-07-04
 category: curiosity
 form: open

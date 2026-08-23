@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228254.Catharina_Maura"
 dek: ""
 number: R313
 sort_key: 313
-date: 2022-07-05
+date: 2026-02-03
 date_read: 2016-10-22
 category: arranged-marriage
 cover: /assets/readings/the-temporary-wife.jpg

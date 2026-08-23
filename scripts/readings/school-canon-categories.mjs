@@ -58,10 +58,6 @@ const CLASSIC_LIT = new Set([
   "anna karenina",
   "crime and punishment",
   "the brothers karamazov",
-  "beyond good and evil",
-  "thus spoke zarathustra",
-  "the republic",
-  "mere christianity",
   "the divine comedy",
   "paradise lost",
   "the canterbury tales",
@@ -98,11 +94,28 @@ const CLASSIC_LIT = new Set([
   "around the world in eighty days",
   "journey to the center of the earth",
   "twenty thousand leagues under the sea",
+]);
+
+const LITERARY_CONTEMPORARY = new Set([
   "good omens",
   "memoirs of a geisha",
   "wicked",
   "the kite runner",
   "the time traveler s wife",
+  "a clockwork orange",
+  "a confederacy of dunces",
+  "the godfather",
+  "the handmaids tale",
+]);
+
+const PHILOSOPHY = new Set([
+  "beyond good and evil",
+  "thus spoke zarathustra",
+  "the republic",
+  "mere christianity",
+  "a nietzsche reader",
+  "basic writings of nietzsche",
+  "the nietzsche reader",
 ]);
 
 const JUVENILE = new Set([
@@ -149,6 +162,11 @@ const JUVENILE = new Set([
   "harry potter and the half blood prince",
   "harry potter and the deathly hallows",
   "harry potter and the philosopher s stone",
+  "corduroy",
+  "madeline",
+  "if you give a mouse a cookie",
+  "green eggs and ham",
+  "how the grinch stole christmas",
 ]);
 
 const MYSTERY_SERIES = /^nancy-drew-|^hardy-boys-|^nancy-drew-1-64$/;
@@ -271,10 +289,10 @@ export function resolveSchoolCategory(meta) {
   let reason = "";
 
   if (MYSTERY_SERIES.test(slug) || slug === "nancy-drew-1-64") {
-    target = "dark-thriller";
+    target = "juvenile-fiction";
     reason = "juvenile mystery series";
   } else if (matchesSet(core, GOTHIC_CLASSICS)) {
-    target = "gothic-horror-romance";
+    target = "classic-literature";
     reason = "gothic school canon";
   } else if (matchesSet(core, JUVENILE)) {
     target = "juvenile-fiction";
@@ -301,7 +319,7 @@ export function resolveSchoolCategory(meta) {
       )
     )
   ) {
-    target = slug.includes("drew") || slug.includes("hardy-boys") ? "dark-thriller" : "juvenile-fiction";
+    target = "juvenile-fiction";
     reason = "school-canonical tags";
   }
 
@@ -324,4 +342,14 @@ export function resolveSchoolCategory(meta) {
   return null;
 }
 
-export { ROMANCE_CATEGORIES, GOTHIC_CLASSICS, CLASSIC_LIT, JUVENILE };
+export {
+  ROMANCE_CATEGORIES,
+  GOTHIC_CLASSICS,
+  CLASSIC_LIT,
+  JUVENILE,
+  LITERARY_CONTEMPORARY,
+  PHILOSOPHY,
+  coreTitle,
+  matchesSet,
+  norm,
+};

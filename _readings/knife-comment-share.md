@@ -5,9 +5,9 @@ author: "Tylor Paige"
 dek: ""
 number: R1111
 sort_key: 1111
-date: 2025-03-03
+date: 2026-05-02
 date_read: 2006-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/knife-comment-share.jpg
 spice: 4
 content_warnings:

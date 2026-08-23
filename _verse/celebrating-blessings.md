@@ -4,7 +4,7 @@ title: "Celebrating Blessings"
 dek: "Joy with the guest list audited."
 number: V0141
 sort_key: 141
-date: 2026-09-12
+date: 2026-02-02
 date_written: 2001-12-24
 category: spirituality
 form: free-verse

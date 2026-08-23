@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/11093.Julia_Quinn"
 dek: "Bridgerton — Daphne's Story"
 number: R630
 sort_key: 630
-date: 2023-07-26
+date: 2026-03-10
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/the-duke-and-i.jpg

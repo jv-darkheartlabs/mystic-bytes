@@ -4,7 +4,7 @@ title: "Journey to Self-Discovery"
 dek: "Forward motion — with the doubt still audible."
 number: V0833
 sort_key: 833
-date: 2029-10-17
+date: 2026-07-03
 date_written: 2007-01-18
 category: life
 form: free-verse

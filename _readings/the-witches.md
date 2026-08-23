@@ -5,11 +5,10 @@ author: "Roald Dahl"
 dek: ""
 number: R1810
 sort_key: 1810
-date: 2026-06-19
+date: 2026-07-10
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/the-witches.jpg
-spice: 2
 content_warnings:
   - "child endangerment"
   - "dark themes"

@@ -4,7 +4,7 @@ title: "Endless Ocean"
 dek: "Horizon as unfinished sentence."
 number: V0533
 sort_key: 533
-date: 2027-02-15
+date: 2026-05-20
 date_written: 1994-05-25
 category: nature
 form: open

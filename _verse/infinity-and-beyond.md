@@ -4,7 +4,7 @@ title: "Infinity and Beyond"
 dek: "Small under stars, still counting."
 number: V0607
 sort_key: 607
-date: 2027-02-28
+date: 2026-05-29
 date_written: 1992-01-25
 category: curiosity
 form: free-verse

@@ -5,7 +5,7 @@ author: "Allison Carr Waechter"
 dek: "The Immortal Orders — Book 1"
 number: R1444
 sort_key: 1444
-date: 2026-04-19
+date: 2026-06-06
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/dark-night-golden-dawn.jpg

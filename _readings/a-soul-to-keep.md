@@ -5,7 +5,7 @@ author: "Opal Reyne"
 dek: "Duskwalker Brides — Book 1"
 number: R553
 sort_key: 553
-date: 2023-04-25
+date: 2026-03-01
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/a-soul-to-keep.jpg

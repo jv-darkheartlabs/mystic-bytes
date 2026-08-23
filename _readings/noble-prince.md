@@ -5,7 +5,7 @@ author: "Devney Perry"
 dek: "Tin Gypsy Series"
 number: R1293
 sort_key: 1293
-date: 2025-10-16
+date: 2026-05-21
 date_read: 2024-09-19
 category: motorcycle-club
 cover: /assets/readings/noble-prince.jpg

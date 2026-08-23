@@ -5,7 +5,7 @@ author: "Sav R. Miller"
 dek: "King's Trace Anti-Heroes Book III"
 number: R1113
 sort_key: 1113
-date: 2025-03-06
+date: 2026-05-02
 date_read: 2024-09-19
 category: enemies-to-lovers
 cover: /assets/readings/sweet-sacrifice.jpg

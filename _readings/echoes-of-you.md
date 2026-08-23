@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228267.Catherine_Cowles"
 dek: "The Lost & Found Series"
 number: R1350
 sort_key: 1350
-date: 2025-12-21
+date: 2026-05-27
 date_read: 2005-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/echoes-of-you.jpg
 spice: 3
 content_warnings:

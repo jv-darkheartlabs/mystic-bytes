@@ -5,9 +5,9 @@ author: "William L. Rowe"
 dek: ""
 number: R2050
 sort_key: 2050
-date: 2026-05-10
+date: 2026-07-26
 date_read: 2005-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/philosophy-of-religion-an-introduction.jpg
 spice: 1
 content_warnings:

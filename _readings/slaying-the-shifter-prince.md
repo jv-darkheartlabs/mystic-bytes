@@ -5,7 +5,7 @@ author: "Clare Sager"
 dek: "Mortal enemies to monster lovers"
 number: R1203
 sort_key: 1203
-date: 2025-06-30
+date: 2026-05-11
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/slaying-the-shifter-prince.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: ""
 number: R1476
 sort_key: 1476
-date: 2026-05-28
+date: 2026-06-10
 date_read: 2015-03-01
 category: forbidden-love
 cover: /assets/readings/hopeless.jpg

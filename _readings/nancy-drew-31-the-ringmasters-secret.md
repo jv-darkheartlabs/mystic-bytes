@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #31"
 number: R2353
 sort_key: 2353
-date: 2026-04-18
+date: 2026-08-19
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-31-the-ringmasters-secret.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

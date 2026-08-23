@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/137902.Richelle_Mead"
 dek: ""
 number: R1064
 sort_key: 1064
-date: 2025-01-05
+date: 2026-04-27
 date_read: 2023-05-07
 category: vampire-paranormal
 cover: /assets/readings/blood-promise.jpg

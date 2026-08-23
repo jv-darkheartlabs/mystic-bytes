@@ -1,6 +1,6 @@
 // Literary analysis shelf (dark romance reviews)
 
-$reading-families: passion, power, gothic, bond, edge;
+$reading-families: passion, power, gothic, bond, edge, canon, genre, juvenile;
 
 @each $family in $reading-families {
   [data-family="#{$family}"] {

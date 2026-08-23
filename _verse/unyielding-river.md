@@ -4,7 +4,7 @@ title: "Unyielding River"
 dek: "Current as argument you cannot win."
 number: V0507
 sort_key: 507
-date: 2027-01-20
+date: 2026-05-02
 date_written: 1993-09-30
 category: nature
 form: open

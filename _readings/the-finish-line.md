@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Kate_Stewart"
 dek: ""
 number: R1016
 sort_key: 1016
-date: 2024-11-10
+date: 2026-04-21
 date_read: 2023-11-25
 category: forbidden-love
 cover: /assets/readings/the-finish-line.jpg

@@ -5,7 +5,7 @@ author: "Colette Rhodes"
 dek: "Shades of Sin"
 number: R1012
 sort_key: 1012
-date: 2024-11-06
+date: 2026-04-21
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/gula.jpg

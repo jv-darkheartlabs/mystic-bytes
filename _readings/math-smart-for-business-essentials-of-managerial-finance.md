@@ -5,9 +5,9 @@ author: "Paul Westbrook"
 dek: ""
 number: R2083
 sort_key: 2083
-date: 2026-04-07
+date: 2026-07-29
 date_read: 2008-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/math-smart-for-business-essentials-of-managerial-finance.jpg
 spice: 1
 content_warnings:

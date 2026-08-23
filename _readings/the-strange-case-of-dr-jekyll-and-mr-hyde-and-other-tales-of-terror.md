@@ -5,11 +5,10 @@ author: "Robert Louis Stevenson"
 dek: "A chilling exploration of duality and the human psyche."
 number: R1731
 sort_key: 1731
-date: 2026-05-29
+date: 2026-07-04
 date_read: 1996-05-15
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-strange-case-of-dr-jekyll-and-mr-hyde-and-other-tales-of-terror.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "psychological horror"

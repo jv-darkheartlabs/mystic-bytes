@@ -4,7 +4,7 @@ title: "Those Who Make Life Shine"
 dek: "Light borrowed from other people's hands."
 number: V0143
 sort_key: 143
-date: 2026-09-14
+date: 2026-02-03
 date_written: 2002-06-15
 category: spirituality
 form: free-verse

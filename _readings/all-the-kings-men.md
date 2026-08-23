@@ -5,9 +5,9 @@ author: "Robert Penn Warren"
 dek: ""
 number: R1645
 sort_key: 1645
-date: 2026-05-15
+date: 2026-06-25
 date_read: 2010-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/all-the-kings-men.jpg
 spice: 2
 content_warnings:

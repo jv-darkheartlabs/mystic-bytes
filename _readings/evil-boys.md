@@ -5,7 +5,7 @@ author: "Clarissa Wild"
 dek: "New York Times & USA Today Bestselling Author"
 number: R060
 sort_key: 060
-date: 2021-09-07
+date: 2026-01-07
 date_read: 2015-09-19
 category: bully-romance
 cover: /assets/readings/evil-boys.jpg

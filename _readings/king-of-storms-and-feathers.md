@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Juno_Heart"
 dek: "Book 1"
 number: R536
 sort_key: 536
-date: 2023-04-06
+date: 2026-02-28
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/king-of-storms-and-feathers.jpg

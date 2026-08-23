@@ -5,7 +5,7 @@ author: "Sierra Simone"
 dek: "...lead us not into temptation..."
 number: R1264
 sort_key: 1264
-date: 2025-09-13
+date: 2026-05-18
 date_read: 2019-07-13
 category: forbidden-love
 cover: /assets/readings/saint.jpg

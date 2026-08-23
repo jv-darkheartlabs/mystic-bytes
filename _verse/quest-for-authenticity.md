@@ -4,7 +4,7 @@ title: "Quest for Authenticity"
 dek: "Truth as practice — masks optional."
 number: V0843
 sort_key: 843
-date: 2030-08-28
+date: 2026-07-10
 date_written: 2003-01-26
 category: life
 form: free-verse

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228252.Elsie_Silver"
 dek: ""
 number: R1341
 sort_key: 1341
-date: 2025-12-12
+date: 2026-05-26
 date_read: 2024-03-01
 category: dark-cowboy-romance
 cover: /assets/readings/a-false-start.jpg

@@ -5,7 +5,7 @@ author: "Eden O'Neill"
 dek: "Court University Book Three"
 number: R044
 sort_key: 044
-date: 2021-08-18
+date: 2026-01-06
 date_read: 2023-11-25
 category: bully-romance
 cover: /assets/readings/beautiful-brute.jpg

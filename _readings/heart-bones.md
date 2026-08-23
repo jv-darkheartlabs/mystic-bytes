@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: "A Novel"
 number: R728
 sort_key: 728
-date: 2023-11-27
+date: 2026-03-21
 date_read: 2023-11-25
 category: forbidden-love
 cover: /assets/readings/heart-bones.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21652469.Brynne_Weaver"
 dek: "Amazon Original Stories"
 number: R112
 sort_key: 112
-date: 2021-11-10
+date: 2026-01-13
 date_read: 2019-07-13
 category: enemies-to-lovers
 cover: /assets/readings/love-other-killers.jpg

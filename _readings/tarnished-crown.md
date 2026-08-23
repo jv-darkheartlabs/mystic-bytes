@@ -5,7 +5,7 @@ author: "Robin D. Mahle & Elle Madison"
 dek: "The Lochlann Feuds — Book 2"
 number: R532
 sort_key: 532
-date: 2023-03-31
+date: 2026-02-27
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/tarnished-crown.jpg

@@ -5,7 +5,7 @@ author: "Maren Moore"
 dek: ""
 number: R1032
 sort_key: 1032
-date: 2024-11-27
+date: 2026-04-23
 date_read: 2015-09-19
 category: forbidden-love
 cover: /assets/readings/the-newspaper-nanny.jpg

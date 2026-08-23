@@ -5,7 +5,7 @@ author: "Rina Kent"
 dek: "He's no fairy tale king — A Royal Elite Book"
 number: R021
 sort_key: 021
-date: 2021-07-27
+date: 2026-01-03
 date_read: 2024-06-10
 category: bully-romance
 cover: /assets/readings/cruel-king.jpg

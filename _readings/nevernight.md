@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4735144.Jay_Kristoff"
 dek: "Book One"
 number: R717
 sort_key: 717
-date: 2023-11-12
+date: 2026-03-20
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/nevernight.jpg

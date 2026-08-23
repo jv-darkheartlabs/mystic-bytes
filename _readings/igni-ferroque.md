@@ -5,7 +5,7 @@ author: "Ashlyn Drewek"
 dek: ""
 number: R1048
 sort_key: 1048
-date: 2024-12-18
+date: 2026-04-25
 date_read: 2019-07-13
 category: gothic-horror-romance
 cover: /assets/readings/igni-ferroque.jpg

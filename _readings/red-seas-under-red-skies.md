@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/73149.Scott_Lynch"
 dek: ""
 number: R674
 sort_key: 674
-date: 2023-09-17
+date: 2026-03-15
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/red-seas-under-red-skies.jpg

@@ -5,7 +5,7 @@ author: "Holly Renee"
 dek: ""
 number: R1436
 sort_key: 1436
-date: 2026-04-06
+date: 2026-06-05
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/a-kingdom-of-venom-and-vows.jpg

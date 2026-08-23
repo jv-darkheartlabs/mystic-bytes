@@ -4,7 +4,7 @@ title: "Power of Forgiveness"
 dek: "Mercy is not amnesia."
 number: V0111
 sort_key: 111
-date: 2026-08-13
+date: 2026-01-12
 date_written: 2002-07-28
 category: spirituality
 form: free-verse

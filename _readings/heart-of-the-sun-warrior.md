@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21147047.Sue_Lynn_Tan"
 dek: "Book Two in the Celestial Kingdom Duology"
 number: R1250
 sort_key: 1250
-date: 2025-08-23
+date: 2026-05-16
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/heart-of-the-sun-warrior.jpg

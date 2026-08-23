@@ -4,7 +4,7 @@ title: "Stormy Encounter"
 dek: "Thunder as honest weather."
 number: V0501
 sort_key: 501
-date: 2027-01-14
+date: 2026-04-28
 date_written: 1993-08-22
 category: nature
 form: free-verse

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/42603.T_H_White"
 dek: ""
 number: R507
 sort_key: 507
-date: 2023-03-01
+date: 2026-02-24
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/the-once-and-future-king.jpg

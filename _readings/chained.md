@@ -5,7 +5,7 @@ author: "T.O. Smith"
 dek: "A Standalone Dark Romance"
 number: R1103
 sort_key: 1103
-date: 2025-02-25
+date: 2026-05-01
 date_read: 2026-08-16
 category: captor-and-captive
 cover: /assets/readings/chained.jpg

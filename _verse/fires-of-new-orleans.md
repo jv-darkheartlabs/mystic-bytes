@@ -4,7 +4,7 @@ title: "Fires"
 dek: "Passion as city heat, not metaphor alone."
 number: V0404
 sort_key: 404
-date: 2026-11-22
+date: 2026-03-22
 date_written: 2007-09-02
 category: nola
 form: open

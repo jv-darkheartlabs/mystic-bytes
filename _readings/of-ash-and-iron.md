@@ -5,7 +5,7 @@ author: "Eliza Raine"
 dek: ""
 number: R976
 sort_key: 976
-date: 2024-09-20
+date: 2026-04-17
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/of-ash-and-iron.jpg

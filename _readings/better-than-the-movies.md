@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228246.Lynn_Painter"
 dek: ""
 number: R449
 sort_key: 449
-date: 2022-12-21
+date: 2026-02-18
 date_read: 2020-11-25
 category: enemies-to-lovers
 cover: /assets/readings/better-than-the-movies.jpg

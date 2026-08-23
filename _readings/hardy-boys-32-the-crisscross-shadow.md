@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #32"
 number: R2296
 sort_key: 2296
-date: 2026-06-14
+date: 2026-08-13
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-32-the-crisscross-shadow.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

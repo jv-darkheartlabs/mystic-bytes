@@ -5,7 +5,7 @@ author: "Devney Perry"
 dek: "Tin Gypsy Series"
 number: R1294
 sort_key: 1294
-date: 2025-10-17
+date: 2026-05-21
 date_read: 2025-10-22
 category: motorcycle-club
 cover: /assets/readings/stone-princess.jpg

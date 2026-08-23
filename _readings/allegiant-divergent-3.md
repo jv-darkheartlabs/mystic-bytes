@@ -5,11 +5,10 @@ author: "Veronica Roth"
 dek: "Divergent Series Book 3"
 number: R1644
 sort_key: 1644
-date: 2026-05-16
+date: 2026-06-25
 date_read: 2009-09-19
-category: dark-thriller
+category: ya-fiction
 cover: /assets/readings/allegiant-divergent-3.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

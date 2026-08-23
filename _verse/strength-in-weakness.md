@@ -4,7 +4,7 @@ title: "Strength in Weakness"
 dek: "Flaw as doorway — dimness included."
 number: V0870
 sort_key: 870
-date: 2032-11-19
+date: 2026-07-29
 date_written: 2010-04-26
 category: life
 form: free-verse

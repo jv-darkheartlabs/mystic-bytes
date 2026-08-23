@@ -4,7 +4,7 @@ title: "Bravery"
 dek: "Fear walked beside brass, not erased."
 number: V0406
 sort_key: 406
-date: 2026-11-24
+date: 2026-03-23
 date_written: 2008-02-11
 category: nola
 form: open

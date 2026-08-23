@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7464.Elizabeth_George"
 dek: "Introducing Inspector Lynley"
 number: R357
 sort_key: 357
-date: 2022-08-29
+date: 2026-02-08
 date_read: 2012-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/a-great-deliverance.jpg
 spice: 1
 content_warnings:

@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7244758.Freida_McFadden"
 dek: "Some doors are locked for a reason."
 number: R417
 sort_key: 417
-date: 2022-11-10
+date: 2026-02-14
 date_read: 2012-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-locked-door.jpg
 spice: 2
 content_warnings:

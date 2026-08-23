@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5830526.Samantha_Shannon"
 dek: "Author's Preferred Text"
 number: R651
 sort_key: 651
-date: 2023-08-25
+date: 2026-03-12
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/the-song-rising.jpg

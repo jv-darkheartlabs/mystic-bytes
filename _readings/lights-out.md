@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/14168084.Navessa_Allen"
 dek: "The couple who slays together, stays together"
 number: R122
 sort_key: 122
-date: 2021-11-20
+date: 2026-01-14
 date_read: 2017-08-16
 category: enemies-to-lovers
 cover: /assets/readings/lights-out.jpg

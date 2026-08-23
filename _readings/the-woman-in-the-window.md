@@ -5,9 +5,9 @@ author: "A.J. Finn"
 dek: ""
 number: R1797
 sort_key: 1797
-date: 2026-07-02
+date: 2026-07-09
 date_read: 2012-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-woman-in-the-window.jpg
 spice: 2
 content_warnings:

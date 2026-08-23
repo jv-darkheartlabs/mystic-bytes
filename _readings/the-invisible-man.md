@@ -5,11 +5,10 @@ author: "H.G. Wells"
 dek: ""
 number: R1721
 sort_key: 1721
-date: 2026-06-08
+date: 2026-07-03
 date_read: 2020-05-07
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-invisible-man.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "mental illness"

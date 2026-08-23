@@ -5,7 +5,7 @@ author: "Keri Lake"
 dek: ""
 number: R1044
 sort_key: 1044
-date: 2024-12-18
+date: 2026-04-24
 date_read: 2015-03-01
 category: gothic-horror-romance
 cover: /assets/readings/the-isle-of-sin-and-shadows.jpg

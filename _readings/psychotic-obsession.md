@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Leigh_Rivers"
 dek: "An Edge of Darkness Novel"
 number: R250
 sort_key: 250
-date: 2022-04-21
+date: 2026-01-27
 date_read: 2025-10-22
 category: stalker-obsession
 cover: /assets/readings/psychotic-obsession.jpg

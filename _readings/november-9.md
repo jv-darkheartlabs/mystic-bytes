@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: ""
 number: R1481
 sort_key: 1481
-date: 2026-05-31
+date: 2026-06-10
 date_read: 2020-08-16
 category: forbidden-love
 cover: /assets/readings/november-9.jpg

@@ -4,7 +4,7 @@ title: "Illuminating Cognition"
 dek: "Mind as city instrument."
 number: V0448
 sort_key: 448
-date: 2027-01-05
+date: 2026-04-21
 date_written: 2008-02-02
 category: nola
 form: open

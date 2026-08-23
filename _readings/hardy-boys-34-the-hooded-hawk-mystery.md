@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #34"
 number: R2298
 sort_key: 2298
-date: 2026-06-12
+date: 2026-08-13
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-34-the-hooded-hawk-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

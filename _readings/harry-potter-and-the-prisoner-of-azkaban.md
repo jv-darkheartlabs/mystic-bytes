@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/1077326.J_K_Rowling"
 dek: ""
 number: R939
 sort_key: 939
-date: 2024-08-10
+date: 2026-04-13
 date_read: 1996-06-01
-category: juvenile-fiction
+category: ya-fiction
 cover: /assets/readings/harry-potter-and-the-prisoner-of-azkaban.jpg
-spice: 1
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

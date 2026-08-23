@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6543501.Stacey_Marie_Brown"
 dek: "Savage Lands Book Three"
 number: R284
 sort_key: 284
-date: 2022-05-31
+date: 2026-01-31
 date_read: 2023-08-16
 category: vampire-paranormal
 cover: /assets/readings/dead-lands.jpg

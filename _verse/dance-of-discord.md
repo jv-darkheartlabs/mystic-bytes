@@ -4,7 +4,7 @@ title: "Dance of Discord"
 dek: "Conflict as city choreography."
 number: V0424
 sort_key: 424
-date: 2026-12-12
+date: 2026-04-05
 date_written: 2009-01-19
 category: nola
 form: open

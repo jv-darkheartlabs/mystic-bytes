@@ -5,7 +5,7 @@ author: "Hanna Harp"
 dek: "Bound Duet, The Book 1"
 number: R2074
 sort_key: 2074
-date: 2026-04-16
+date: 2026-07-28
 date_read: 2025-07-13
 category: gothic-horror-romance
 cover: /assets/readings/haunting-the-hunter-bound-duet-the-book-1.jpg

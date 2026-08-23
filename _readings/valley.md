@@ -5,8 +5,8 @@ author: "Stacey McEwan"
 dek: "The Glacian Trilogy — Book Three"
 number: R1439
 sort_key: 1439
-date: 2026-04-09
-date_read: 2026-11-25
+date: 2026-06-06
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/valley.jpg
 spice: 3

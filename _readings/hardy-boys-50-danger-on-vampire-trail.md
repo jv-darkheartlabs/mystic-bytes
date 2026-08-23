@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #50"
 number: R2316
 sort_key: 2316
-date: 2026-05-25
+date: 2026-08-15
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-50-danger-on-vampire-trail.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

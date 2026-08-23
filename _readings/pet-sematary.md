@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/3389.Stephen_King"
 dek: ""
 number: R791
 sort_key: 791
-date: 2024-02-12
-date_read: 2026-11-25
-category: gothic-horror-romance
+date: 2026-03-28
+date_read: 2026-08-23
+category: horror
 cover: /assets/readings/pet-sematary.jpg
-spice: 2
 content_warnings:
   - "death"
   - "gore"

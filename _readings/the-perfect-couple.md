@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/6540058.Elin_Hilderbrand"
 dek: "A Novel"
 number: R1344
 sort_key: 1344
-date: 2025-12-16
+date: 2026-05-26
 date_read: 2009-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-perfect-couple.jpg
 spice: 1
 content_warnings:

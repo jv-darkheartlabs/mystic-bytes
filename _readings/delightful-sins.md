@@ -5,7 +5,7 @@ author: "Lola King"
 dek: "We found you. We took you. We keep you."
 number: R085
 sort_key: 085
-date: 2021-10-06
+date: 2026-01-10
 date_read: 2016-07-13
 category: captor-and-captive
 cover: /assets/readings/delightful-sins.jpg

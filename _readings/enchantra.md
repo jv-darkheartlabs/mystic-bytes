@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20135235.Kaylie_Smith"
 dek: "A Dark Fantasy Romance"
 number: R270
 sort_key: 270
-date: 2022-05-14
+date: 2026-01-29
 date_read: 2021-03-01
 category: vampire-paranormal
 cover: /assets/readings/enchantra.jpg

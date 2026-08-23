@@ -5,7 +5,7 @@ author: "Taylor Jenkins Reid"
 dek: ""
 number: R756
 sort_key: 756
-date: 2024-01-01
+date: 2026-03-24
 date_read: 2015-03-01
 category: forbidden-love
 cover: /assets/readings/malibu-rising.jpg

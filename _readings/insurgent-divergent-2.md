@@ -5,11 +5,10 @@ author: "Veronica Roth"
 dek: "Divergent Series Book 2"
 number: R1755
 sort_key: 1755
-date: 2026-05-05
+date: 2026-07-06
 date_read: 2010-03-01
-category: dark-thriller
+category: ya-fiction
 cover: /assets/readings/insurgent-divergent-2.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "death"

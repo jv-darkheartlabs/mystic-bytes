@@ -4,7 +4,7 @@ title: "Cowardice and Fear"
 dek: "Fear observed without the bully sermon."
 number: V0215
 sort_key: 215
-date: 2026-10-02
+date: 2026-02-16
 date_written: 1998-03-27
 category: grief-loss-resilience
 form: free-verse

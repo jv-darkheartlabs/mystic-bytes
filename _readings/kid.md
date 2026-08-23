@@ -5,7 +5,7 @@ author: "Jescie Hall"
 dek: ""
 number: R1272
 sort_key: 1272
-date: 2025-09-16
+date: 2026-05-19
 date_read: 2015-06-10
 category: gothic-horror-romance
 cover: /assets/readings/kid.jpg

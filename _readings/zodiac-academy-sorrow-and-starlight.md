@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1102
 sort_key: 1102
-date: 2025-02-24
+date: 2026-05-01
 date_read: 2025-07-13
 category: bully-romance
 cover: /assets/readings/zodiac-academy-sorrow-and-starlight.jpg

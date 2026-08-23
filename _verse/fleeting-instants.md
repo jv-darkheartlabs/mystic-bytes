@@ -4,7 +4,7 @@ title: "Fleeting Instants"
 dek: "Meaning in the blink — not the montage."
 number: V0826
 sort_key: 826
-date: 2029-03-20
+date: 2026-06-28
 date_written: 2004-10-04
 category: life
 form: free-verse

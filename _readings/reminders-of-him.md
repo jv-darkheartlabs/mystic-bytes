@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: "A Novel"
 number: R1473
 sort_key: 1473
-date: 2026-05-23
+date: 2026-06-10
 date_read: 2024-09-19
 category: forbidden-love
 cover: /assets/readings/reminders-of-him.jpg

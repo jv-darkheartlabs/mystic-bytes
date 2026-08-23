@@ -5,9 +5,9 @@ author: "John Berendt"
 dek: ""
 number: R2247
 sort_key: 2247
-date: 2026-05-13
+date: 2026-08-07
 date_read: 2012-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/midnight-in-the-garden-of-good-and-evil.jpg
 spice: 2
 content_warnings:

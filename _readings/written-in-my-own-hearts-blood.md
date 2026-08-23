@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3618.Diana_Gabaldon"
 dek: "A Novel"
 number: R622
 sort_key: 622
-date: 2023-07-19
+date: 2026-03-09
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/written-in-my-own-hearts-blood.jpg

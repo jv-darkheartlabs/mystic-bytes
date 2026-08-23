@@ -4,7 +4,7 @@ title: "The Mortal Instruments: City of Bones"
 dek: "2013 Shadowhunters adaptation of Cassandra Clare's urban fantasy."
 number: F0033
 sort_key: 33
-date: 2026-07-11
+date: 2026-06-29
 date_watched: 2013-08-21
 year: 2013
 poster: /assets/films/city-of-bones-2013.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

@@ -5,7 +5,7 @@ author: "E.J. Mellow"
 dek: ""
 number: R1525
 sort_key: 1525
-date: 2026-06-22
+date: 2026-06-14
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/symphony-for-a-deadly-throne.jpg

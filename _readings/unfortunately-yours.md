@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "a novel"
 number: R858
 sort_key: 858
-date: 2024-05-06
+date: 2026-04-04
 date_read: 2021-06-10
 category: enemies-to-lovers
 cover: /assets/readings/unfortunately-yours.jpg

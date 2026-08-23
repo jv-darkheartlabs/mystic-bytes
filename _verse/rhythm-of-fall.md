@@ -4,7 +4,7 @@ title: "Rhythm of Fall"
 dek: "Autumn as second-line elegy."
 number: V0442
 sort_key: 442
-date: 2026-12-30
+date: 2026-04-17
 date_written: 2004-10-15
 category: nola
 form: open

@@ -5,11 +5,10 @@ author: "S.E. Hinton"
 dek: ""
 number: R1738
 sort_key: 1738
-date: 2026-05-22
+date: 2026-07-05
 date_read: 1992-11-10
 category: juvenile-fiction
 cover: /assets/readings/the-outsiders.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

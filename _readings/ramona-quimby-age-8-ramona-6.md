@@ -5,11 +5,10 @@ author: "Beverly Cleary"
 dek: "Ramona's adventures in the ups and downs of growing up."
 number: R2089
 sort_key: 2089
-date: 2026-04-01
+date: 2026-07-30
 date_read: 2014-04-04
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/ramona-quimby-age-8-ramona-6.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

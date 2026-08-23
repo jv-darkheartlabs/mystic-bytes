@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Molly_Doyle"
 dek: "Order of the Unseen"
 number: R1266
 sort_key: 1266
-date: 2025-09-14
+date: 2026-05-18
 date_read: 2021-09-19
 category: gothic-horror-romance
 cover: /assets/readings/pray-for-us.jpg

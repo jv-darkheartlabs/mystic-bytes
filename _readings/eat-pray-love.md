@@ -5,9 +5,9 @@ author: "Elizabeth Gilbert"
 dek: ""
 number: R1754
 sort_key: 1754
-date: 2026-05-06
+date: 2026-07-06
 date_read: 2009-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/eat-pray-love.jpg
 spice: 1
 content_warnings:

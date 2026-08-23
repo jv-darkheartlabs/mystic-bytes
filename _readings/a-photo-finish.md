@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228252.Elsie_Silver"
 dek: ""
 number: R1339
 sort_key: 1339
-date: 2025-12-09
+date: 2026-05-26
 date_read: 2022-10-22
 category: dark-cowboy-romance
 cover: /assets/readings/a-photo-finish.jpg

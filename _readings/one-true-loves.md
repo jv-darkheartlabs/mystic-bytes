@@ -5,7 +5,7 @@ author: "Taylor Jenkins Reid"
 dek: "A Novel"
 number: R752
 sort_key: 752
-date: 2023-12-23
+date: 2026-03-23
 date_read: 2023-08-16
 category: forbidden-love
 cover: /assets/readings/one-true-loves.jpg

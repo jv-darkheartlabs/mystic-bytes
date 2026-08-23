@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Kristen_Ciccarelli"
 dek: ""
 number: R923
 sort_key: 923
-date: 2024-07-21
+date: 2026-04-11
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/heartless-hunter.jpg

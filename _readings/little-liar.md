@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Leigh_Rivers"
 dek: "The Web of Silence Duet — Book 2"
 number: R205
 sort_key: 205
-date: 2022-02-28
+date: 2026-01-23
 date_read: 2016-10-22
 category: stalker-obsession
 cover: /assets/readings/little-liar.jpg

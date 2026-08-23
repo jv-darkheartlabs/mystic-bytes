@@ -5,7 +5,7 @@ author: "Nikki St. Crowe"
 dek: "A Captain Hook, Crocodile, & Wendy Darling Reimagining"
 number: R1122
 sort_key: 1122
-date: 2025-03-18
+date: 2026-05-03
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/devour-the-dark.jpg

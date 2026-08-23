@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/6572600.Heather_Fawcett"
 dek: ""
 number: R1236
 sort_key: 1236
-date: 2025-08-07
+date: 2026-05-15
 date_read: 2015-06-10
-category: fantasy-romance
+category: classic-literature
 cover: /assets/readings/emily-wildes-encyclopaedia-of-faeries.jpg
-spice: 1
 content_warnings:
   - "fae trickery"
   - "kidnapping"

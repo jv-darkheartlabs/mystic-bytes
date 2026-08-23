@@ -4,7 +4,7 @@ title: "Guide to Living a Good Life"
 dek: "Virtue as practice, not poster."
 number: V0803
 sort_key: 803
-date: 2027-04-16
+date: 2026-06-13
 date_written: 2004-02-20
 category: life
 form: free-verse

@@ -5,11 +5,10 @@ author: "Oscar Wilde"
 dek: ""
 number: R1850
 sort_key: 1850
-date: 2026-05-10
+date: 2026-07-14
 date_read: 2017-08-16
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-importance-of-being-earnest.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

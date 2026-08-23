@@ -5,11 +5,10 @@ author: "Charles Dickens"
 dek: ""
 number: R1906
 sort_key: 1906
-date: 2026-06-23
+date: 2026-07-18
 date_read: 2025-10-22
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/a-christmas-carol.jpg
-spice: 1
 content_warnings:
   - "death"
   - "ghosts"

@@ -5,7 +5,7 @@ author: "Kate DiCamillo"
 dek: ""
 number: R1706
 sort_key: 1706
-date: 2026-06-23
+date: 2026-07-01
 date_read: 2017-08-16
 category: gothic-horror-romance
 cover: /assets/readings/the-tale-of-despereaux.jpg

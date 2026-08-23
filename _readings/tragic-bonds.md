@@ -5,7 +5,7 @@ author: "J. Bree"
 dek: "The Bonds That Tie — Book V"
 number: R555
 sort_key: 555
-date: 2023-04-23
+date: 2026-03-02
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/tragic-bonds.jpg

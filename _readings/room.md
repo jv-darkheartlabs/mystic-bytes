@@ -5,7 +5,7 @@ author: "Emma Donoghue"
 dek: ""
 number: R1870
 sort_key: 1870
-date: 2026-04-20
+date: 2026-07-16
 date_read: 2025-10-22
 category: captor-and-captive
 cover: /assets/readings/room.jpg

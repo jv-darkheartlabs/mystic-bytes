@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Rina_Kent"
 dek: "Deception Trilogy 3"
 number: R804
 sort_key: 804
-date: 2024-02-28
+date: 2026-03-29
 date_read: 2015-06-10
 category: mafia-boss-and-innocent
 cover: /assets/readings/consumed-by-deception.jpg

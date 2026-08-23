@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5830526.Samantha_Shannon"
 dek: ""
 number: R594
 sort_key: 594
-date: 2023-06-16
+date: 2026-03-06
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/the-priory-of-the-orange-tree.jpg

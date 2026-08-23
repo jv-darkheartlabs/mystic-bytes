@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/11093.Julia_Quinn"
 dek: "Bridgerton — Eloise's Story"
 number: R631
 sort_key: 631
-date: 2023-07-25
+date: 2026-03-10
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/to-sir-phillip-with-love.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15143324.Zoey_Ellis"
 dek: "Myth of Omega: Crave Standalone Novella"
 number: R191
 sort_key: 191
-date: 2022-02-12
+date: 2026-01-21
 date_read: 2026-05-07
 category: omegaverse
 cover: /assets/readings/compulsion.jpg

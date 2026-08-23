@@ -4,7 +4,7 @@ title: "Realm of Imagination"
 dek: "Wonderland as workshop — boundaries included."
 number: V0867
 sort_key: 867
-date: 2032-08-07
+date: 2026-07-27
 date_written: 2013-03-18
 category: life
 form: free-verse

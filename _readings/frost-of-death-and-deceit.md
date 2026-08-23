@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.A_P_Beswick"
 dek: ""
 number: R701
 sort_key: 701
-date: 2023-10-24
+date: 2026-03-18
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/frost-of-death-and-deceit.jpg

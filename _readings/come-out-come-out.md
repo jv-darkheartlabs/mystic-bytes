@@ -5,7 +5,7 @@ author: "Alexia Onyx"
 dek: "The one who finds everyone, stays out"
 number: R1265
 sort_key: 1265
-date: 2025-09-11
+date: 2026-05-18
 date_read: 2020-08-16
 category: gothic-horror-romance
 cover: /assets/readings/come-out-come-out.jpg

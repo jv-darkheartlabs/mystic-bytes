@@ -5,9 +5,9 @@ author: "H.G. Wells"
 dek: ""
 number: R1904
 sort_key: 1904
-date: 2026-06-25
+date: 2026-07-18
 date_read: 2009-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-time-machine.jpg
 spice: 1
 content_warnings:

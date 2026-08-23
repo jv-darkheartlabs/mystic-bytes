@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228252.Elsie_Silver"
 dek: ""
 number: R335
 sort_key: 335
-date: 2022-07-28
+date: 2026-02-05
 date_read: 2026-05-07
 category: dark-cowboy-romance
 cover: /assets/readings/off-to-the-races.jpg

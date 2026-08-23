@@ -5,9 +5,9 @@ author: "Alexis Munier"
 dek: ""
 number: R2147
 sort_key: 2147
-date: 2026-05-13
+date: 2026-08-01
 date_read: 2012-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/talk-dirty-french-beyond-merde-the-curses-slang-and-street-lingo-you-need-to-kno.jpg
 spice: 1
 content_warnings:

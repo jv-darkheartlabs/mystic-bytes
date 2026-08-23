@@ -5,7 +5,7 @@ author: "Rebecca F. Kenney"
 dek: ""
 number: R820
 sort_key: 820
-date: 2024-03-19
+date: 2026-03-31
 date_read: 2019-04-04
 category: vampire-paranormal
 cover: /assets/readings/the-vampires-will-save-you.jpg

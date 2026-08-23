@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "A Dark Bully Romance"
 number: R1509
 sort_key: 1509
-date: 2026-07-08
+date: 2026-06-13
 date_read: 2024-09-19
 category: bully-romance
 cover: /assets/readings/dare.jpg

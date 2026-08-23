@@ -5,9 +5,9 @@ author: "Karen Hering"
 dek: ""
 number: R2041
 sort_key: 2041
-date: 2026-05-19
+date: 2026-07-26
 date_read: 2006-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/writing-to-wake-the-soul-opening-the-sacred-conversation-within.jpg
 spice: 1
 content_warnings:

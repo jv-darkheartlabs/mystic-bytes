@@ -5,7 +5,7 @@ author: "E.J. Mellow"
 dek: "The Mousai — Book Two"
 number: R956
 sort_key: 956
-date: 2024-08-28
+date: 2026-04-15
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/dance-of-a-burning-sea.jpg

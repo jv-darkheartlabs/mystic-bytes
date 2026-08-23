@@ -4,7 +4,7 @@ title: "Majestic Ascent"
 dek: "Summit as breath tax."
 number: V0524
 sort_key: 524
-date: 2027-02-06
+date: 2026-05-13
 date_written: 1993-05-15
 category: nature
 form: open

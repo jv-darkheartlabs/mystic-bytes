@@ -5,7 +5,7 @@ author: "Tate James"
 dek: "Devil's Backbone — Chapter 1"
 number: R229
 sort_key: 229
-date: 2022-03-26
+date: 2026-01-25
 date_read: 2016-07-13
 category: stalker-obsession
 cover: /assets/readings/dear-reader.jpg

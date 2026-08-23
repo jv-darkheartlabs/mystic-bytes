@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #51"
 number: R2375
 sort_key: 2375
-date: 2026-03-27
+date: 2026-08-21
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-51-mystery-of-the-glowing-eye.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

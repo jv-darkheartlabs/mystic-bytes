@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/6868939.Sally_Hepworth"
 dek: "Everyone in this family is hiding something"
 number: R399
 sort_key: 399
-date: 2022-10-21
+date: 2026-02-12
 date_read: 2014-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-mother-in-law.jpg
 spice: 2
 content_warnings:

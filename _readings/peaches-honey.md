@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Scarlett_St_Clair"
 dek: "These Immortal Truths Book Two"
 number: R1529
 sort_key: 1529
-date: 2026-06-18
+date: 2026-06-15
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/peaches-honey.jpg

@@ -5,11 +5,10 @@ author: "Arthur Miller"
 dek: "A haunting exploration of mass hysteria and moral conflict."
 number: R1847
 sort_key: 1847
-date: 2026-05-13
+date: 2026-07-13
 date_read: 1996-05-15
 category: classic-literature
 cover: /assets/readings/the-crucible.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

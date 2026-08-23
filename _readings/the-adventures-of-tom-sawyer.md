@@ -5,11 +5,10 @@ author: "Mark Twain"
 dek: ""
 number: R1654
 sort_key: 1654
-date: 2026-05-06
+date: 2026-06-26
 date_read: 1993-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-adventures-of-tom-sawyer.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

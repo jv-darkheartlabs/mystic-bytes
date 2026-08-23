@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.J_Bree"
 dek: ""
 number: R1053
 sort_key: 1053
-date: 2024-12-27
+date: 2026-04-25
 date_read: 2024-03-01
 category: reverse-harem
 cover: /assets/readings/savage-bonds.jpg

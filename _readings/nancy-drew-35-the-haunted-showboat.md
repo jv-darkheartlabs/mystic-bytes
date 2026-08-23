@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #35"
 number: R2357
 sort_key: 2357
-date: 2026-04-14
+date: 2026-08-19
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-35-the-haunted-showboat.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

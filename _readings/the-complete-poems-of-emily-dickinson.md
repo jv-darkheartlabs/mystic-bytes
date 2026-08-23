@@ -5,7 +5,7 @@ author: "Emily Dickinson"
 dek: ""
 number: R1834
 sort_key: 1834
-date: 2026-05-26
+date: 2026-07-12
 date_read: 2025-10-22
 category: gothic-horror-romance
 cover: /assets/readings/the-complete-poems-of-emily-dickinson.jpg

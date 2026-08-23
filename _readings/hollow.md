@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4875995.Karina_Halle"
 dek: "Welcome to Sleepy Hollow. May you never leave."
 number: R770
 sort_key: 770
-date: 2024-01-19
+date: 2026-03-25
 date_read: 2017-08-16
 category: gothic-horror-romance
 cover: /assets/readings/hollow.jpg

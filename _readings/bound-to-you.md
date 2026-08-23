@@ -5,7 +5,7 @@ author: "Bridie Charles"
 dek: ""
 number: R1019
 sort_key: 1019
-date: 2024-11-12
+date: 2026-04-22
 date_read: 2026-05-07
 category: forbidden-love
 cover: /assets/readings/bound-to-you.jpg

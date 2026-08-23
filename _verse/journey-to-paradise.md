@@ -4,7 +4,7 @@ title: "Journey to Paradise"
 dek: "Paradise as map rumor."
 number: V0622
 sort_key: 622
-date: 2027-03-15
+date: 2026-06-08
 date_written: 1988-05-05
 category: curiosity
 form: free-verse

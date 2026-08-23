@@ -5,11 +5,10 @@ author: "William Shakespeare"
 dek: ""
 number: R1840
 sort_key: 1840
-date: 2026-05-20
+date: 2026-07-13
 date_read: 2019-07-13
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-tempest.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

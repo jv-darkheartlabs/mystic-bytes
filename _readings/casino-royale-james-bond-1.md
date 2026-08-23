@@ -5,9 +5,9 @@ author: "Ian Fleming"
 dek: "James Bond Series"
 number: R1724
 sort_key: 1724
-date: 2026-06-05
+date: 2026-07-03
 date_read: 2009-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/casino-royale-james-bond-1.jpg
 spice: 2
 content_warnings:

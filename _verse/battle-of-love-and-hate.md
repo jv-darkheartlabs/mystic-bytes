@@ -4,7 +4,7 @@ title: "Battle of Love and Hate"
 dek: "Same war, new stanza."
 number: V0326
 sort_key: 326
-date: 2026-11-08
+date: 2026-03-12
 date_written: 2017-04-18
 category: love
 form: free-verse

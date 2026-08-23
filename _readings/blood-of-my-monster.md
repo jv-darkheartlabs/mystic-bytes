@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18306242.Rina_Kent"
 dek: "Monster Trilogy Book One"
 number: R063
 sort_key: 063
-date: 2021-09-16
+date: 2026-01-08
 date_read: 2018-03-01
 category: captor-and-captive
 cover: /assets/readings/blood-of-my-monster.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Molly_Doyle"
 dek: "You are the only light we have"
 number: R194
 sort_key: 194
-date: 2022-02-13
+date: 2026-01-22
 date_read: 2017-08-16
 category: reverse-harem
 cover: /assets/readings/melt-for-us.jpg

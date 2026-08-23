@@ -4,7 +4,7 @@ title: "Springtime"
 dek: "Renewal as walked path."
 number: V0530
 sort_key: 530
-date: 2027-02-12
+date: 2026-05-17
 date_written: 1994-03-28
 category: nature
 form: free-verse

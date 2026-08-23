@@ -5,11 +5,10 @@ author: "Shirley Jackson"
 dek: ""
 number: R1947
 sort_key: 1947
-date: 2026-05-13
+date: 2026-07-22
 date_read: 1996-05-15
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-haunting-of-hill-house.jpg
-spice: 2
 content_warnings:
   - "haunting"
   - "psychological distress"

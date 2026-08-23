@@ -5,11 +5,10 @@ author: "Leo Tolstoy"
 dek: ""
 number: R1736
 sort_key: 1736
-date: 2026-05-24
+date: 2026-07-04
 date_read: 1999-11-25
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/war-and-peace.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

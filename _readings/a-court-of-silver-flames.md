@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
 dek: ""
 number: R1142
 sort_key: 1142
-date: 2025-04-11
+date: 2026-05-05
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/a-court-of-silver-flames.jpg

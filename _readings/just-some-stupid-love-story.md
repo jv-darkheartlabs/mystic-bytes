@@ -5,7 +5,7 @@ author: "Katelyn Doyle"
 dek: "more"
 number: R861
 sort_key: 861
-date: 2024-05-06
+date: 2026-04-04
 date_read: 2024-09-19
 category: enemies-to-lovers
 cover: /assets/readings/just-some-stupid-love-story.jpg

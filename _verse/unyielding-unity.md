@@ -4,7 +4,7 @@ title: "Unyielding Unity"
 dek: "Brotherhood that time cannot sever — tested daily."
 number: V0920
 sort_key: 920
-date: 2035-03-17
+date: 2026-08-17
 date_written: 2005-07-24
 category: justice
 form: free-verse

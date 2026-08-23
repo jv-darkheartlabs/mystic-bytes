@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.I_A_Dice"
 dek: "Shadows of Obsession Series Book Three"
 number: R815
 sort_key: 815
-date: 2024-03-13
+date: 2026-03-30
 date_read: 2026-08-16
 category: stalker-obsession
 cover: /assets/readings/finding-violet.jpg

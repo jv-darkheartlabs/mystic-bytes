@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19845642.Harper_L_Woods"
 dek: "Of Flesh & Bone Book Two"
 number: R264
 sort_key: 264
-date: 2022-05-06
+date: 2026-01-29
 date_read: 2015-06-10
 category: vampire-paranormal
 cover: /assets/readings/what-hunts-inside-the-shadows.jpg

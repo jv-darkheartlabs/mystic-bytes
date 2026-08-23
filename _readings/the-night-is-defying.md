@@ -5,7 +5,7 @@ author: "Chloe C. Peñaranda"
 dek: "A Nyxirel Novel — Book II"
 number: R1457
 sort_key: 1457
-date: 2026-05-04
+date: 2026-06-08
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/the-night-is-defying.jpg

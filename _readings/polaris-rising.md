@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17091367.Jessie_Mihalik"
 dek: ""
 number: R578
 sort_key: 578
-date: 2023-05-29
+date: 2026-03-04
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/polaris-rising.jpg

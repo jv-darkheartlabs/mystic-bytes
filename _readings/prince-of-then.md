@@ -5,7 +5,7 @@ author: "Juno Heart"
 dek: ""
 number: R1470
 sort_key: 1470
-date: 2026-05-18
+date: 2026-06-09
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/prince-of-then.jpg

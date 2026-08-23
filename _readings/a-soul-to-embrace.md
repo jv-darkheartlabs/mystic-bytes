@@ -5,7 +5,7 @@ author: "Opal Reyne"
 dek: "Duskwalker Brides — Book 5"
 number: R554
 sort_key: 554
-date: 2023-04-21
+date: 2026-03-02
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/a-soul-to-embrace.jpg

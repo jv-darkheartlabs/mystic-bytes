@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "a novel"
 number: R878
 sort_key: 878
-date: 2024-05-29
+date: 2026-04-06
 date_read: 2017-08-16
 category: enemies-to-lovers
 cover: /assets/readings/fix-her-up.jpg

@@ -4,7 +4,7 @@ title: "Twilight"
 dek: "2008 feature adaptation of Stephenie Meyer's vampire romance."
 number: F0001
 sort_key: 1
-date: 2026-07-10
+date: 2026-01-01
 date_watched: 2008-11-21
 year: 2008
 poster: /assets/films/twilight-2008.jpg
@@ -40,6 +40,7 @@ tags:
   - twilight
   - vampire
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

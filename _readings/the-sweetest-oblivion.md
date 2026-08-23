@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17697330.Danielle_Lori"
 dek: "She's a romantic at heart... living in the most unromantic of worlds..."
 number: R169
 sort_key: 169
-date: 2022-01-17
+date: 2026-01-19
 date_read: 2016-10-22
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-sweetest-oblivion.jpg

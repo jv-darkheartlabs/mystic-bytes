@@ -5,7 +5,7 @@ author: "Jessica Gregory"
 dek: "A Royal Resorts Romance"
 number: R609
 sort_key: 609
-date: 2023-07-06
+date: 2026-03-08
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/room-for-improvement.jpg

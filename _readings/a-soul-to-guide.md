@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Opal_Reyne"
 dek: ""
 number: R997
 sort_key: 997
-date: 2024-10-21
+date: 2026-04-19
 date_read: 2016-10-22
 category: fantasy-romance
 cover: /assets/readings/a-soul-to-guide.jpg

@@ -5,7 +5,7 @@ author: "Tessonja Odette"
 dek: "Entangled with Fae — A Little Mermaid Retelling"
 number: R1418
 sort_key: 1418
-date: 2026-03-19
+date: 2026-06-03
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/kiss-of-the-selkie.jpg

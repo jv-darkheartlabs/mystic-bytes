@@ -5,11 +5,10 @@ author: "Madeleine L'Engle"
 dek: "Time Quintet, #1"
 number: R1624
 sort_key: 1624
-date: 2026-06-05
+date: 2026-06-23
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/a-wrinkle-in-time-time-quintet-1.jpg
-spice: 1
 content_warnings:
 tags:
   - time travel

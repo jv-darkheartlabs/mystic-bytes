@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/2917927.Robert_Jackson_Bennet
 dek: ""
 number: R494
 sort_key: 494
-date: 2023-02-11
+date: 2026-02-23
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/foundryside.jpg

@@ -5,7 +5,7 @@ author: "SenLinYu"
 dek: ""
 number: R825
 sort_key: 825
-date: 2024-03-21
+date: 2026-03-31
 date_read: 2024-09-19
 category: captor-and-captive
 cover: /assets/readings/manacled.jpg

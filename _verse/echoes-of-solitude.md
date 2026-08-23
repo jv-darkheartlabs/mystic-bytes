@@ -4,7 +4,7 @@ title: "Echoes of Solitude"
 dek: "Loneliness as acoustics, not sentence."
 number: V0809
 sort_key: 809
-date: 2027-10-09
+date: 2026-06-17
 date_written: 2010-04-22
 category: life
 form: free-verse

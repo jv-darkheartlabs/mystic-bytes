@@ -5,7 +5,7 @@ author: "Annabel Monaghan"
 dek: "National Bestseller"
 number: R1020
 sort_key: 1020
-date: 2024-11-14
+date: 2026-04-22
 date_read: 2015-06-10
 category: forbidden-love
 cover: /assets/readings/summer-romance.jpg

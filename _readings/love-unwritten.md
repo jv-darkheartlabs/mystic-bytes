@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228245.Lauren_Asher"
 dek: "Lakefront Billionaires"
 number: R328
 sort_key: 328
-date: 2022-07-22
+date: 2026-02-05
 date_read: 2019-07-13
 category: dark-billionaire
 cover: /assets/readings/love-unwritten.jpg

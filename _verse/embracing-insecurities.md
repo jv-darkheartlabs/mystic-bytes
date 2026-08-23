@@ -4,7 +4,7 @@ title: "Embracing Insecurities"
 dek: "Setbacks as weather, not identity."
 number: V0811
 sort_key: 811
-date: 2027-12-17
+date: 2026-06-18
 date_written: 2011-05-04
 category: life
 form: free-verse

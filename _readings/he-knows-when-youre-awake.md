@@ -5,7 +5,7 @@ author: "Alta Hensley"
 dek: "Stalking in a winter wonderland"
 number: R238
 sort_key: 238
-date: 2022-04-08
+date: 2026-01-26
 date_read: 2025-07-13
 category: stalker-obsession
 cover: /assets/readings/he-knows-when-youre-awake.jpg

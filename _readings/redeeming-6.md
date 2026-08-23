@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6572607.Chloe_Walsh"
 dek: "Boys of Tommen #4"
 number: R318
 sort_key: 318
-date: 2022-07-07
+date: 2026-02-03
 date_read: 2021-06-10
 category: bully-romance
 cover: /assets/readings/redeeming-6.jpg

@@ -5,9 +5,9 @@ author: "Richard  Bachman"
 dek: ""
 number: R1805
 sort_key: 1805
-date: 2026-06-24
+date: 2026-07-09
 date_read: 2010-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/thinner.jpg
 spice: 3
 content_warnings:

@@ -5,7 +5,7 @@ author: "Gregg R. Overman"
 dek: ""
 number: R601
 sort_key: 601
-date: 2023-06-22
+date: 2026-03-07
 date_read: 2016-10-22
 category: fantasy-romance
 cover: /assets/readings/blue-sunset.jpg

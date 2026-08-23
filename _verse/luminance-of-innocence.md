@@ -4,7 +4,7 @@ title: "Luminance of Innocence"
 dek: "Brightness before the first invoice."
 number: V0329
 sort_key: 329
-date: 2026-11-11
+date: 2026-03-15
 date_written: 2015-08-22
 category: love
 form: free-verse

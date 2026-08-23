@@ -4,7 +4,7 @@ title: "Power of Brotherhood"
 dek: "Fraternity as infrastructure."
 number: V0915
 sort_key: 915
-date: 2034-10-25
+date: 2026-08-14
 date_written: 2011-07-21
 category: justice
 form: free-verse

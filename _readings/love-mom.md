@@ -5,9 +5,9 @@ author: "Iliana Xander"
 dek: "Want to know a secret?"
 number: R380
 sort_key: 380
-date: 2022-09-24
+date: 2026-02-10
 date_read: 2005-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/love-mom.jpg
 spice: 2
 content_warnings:

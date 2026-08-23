@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7244758.Freida_McFadden"
 dek: "Never ever become too friendly with the inmate."
 number: R387
 sort_key: 387
-date: 2022-10-06
+date: 2026-02-11
 date_read: 2012-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-inmate.jpg
 spice: 2
 content_warnings:

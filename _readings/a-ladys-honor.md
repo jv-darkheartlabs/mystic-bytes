@@ -5,7 +5,7 @@ author: "A.S. Fenichel"
 dek: "The Everton Domestic Society"
 number: R639
 sort_key: 639
-date: 2023-08-09
+date: 2026-03-11
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/a-ladys-honor.jpg

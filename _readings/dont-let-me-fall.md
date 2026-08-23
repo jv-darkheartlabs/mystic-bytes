@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228265.Kelsie_Rae"
 dek: "Don't Let Me Series — Book One"
 number: R1489
 sort_key: 1489
-date: 2026-06-15
+date: 2026-06-11
 date_read: 2016-07-13
 category: forbidden-love
 cover: /assets/readings/dont-let-me-fall.jpg

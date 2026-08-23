@@ -5,7 +5,7 @@ author: "Krista Street"
 dek: "Of Snow & Ice"
 number: R1398
 sort_key: 1398
-date: 2026-02-20
+date: 2026-06-01
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/crowns-of-ice.jpg

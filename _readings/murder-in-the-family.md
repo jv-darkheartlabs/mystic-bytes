@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/17294850.Cara_Hunter"
 dek: "One body. Six experts. Can you solve the case before they do?"
 number: R416
 sort_key: 416
-date: 2022-11-09
+date: 2026-02-14
 date_read: 2011-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/murder-in-the-family.jpg
 spice: 2
 content_warnings:

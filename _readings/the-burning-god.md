@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/16605246.R_F_Kuang"
 dek: ""
 number: R695
 sort_key: 695
-date: 2023-10-18
+date: 2026-03-17
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/the-burning-god.jpg

@@ -5,7 +5,7 @@ author: "Stephanie Archer"
 dek: ""
 number: R851
 sort_key: 851
-date: 2024-04-22
+date: 2026-04-03
 date_read: 2026-08-16
 category: enemies-to-lovers
 cover: /assets/readings/that-kind-of-guy.jpg

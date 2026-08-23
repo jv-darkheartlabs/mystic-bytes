@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/20575144.Ria_Wilde"
 dek: "A Standalone Dark Romance"
 number: R172
 sort_key: 172
-date: 2022-01-23
+date: 2026-01-19
 date_read: 2019-04-04
-category: mafia-boss-and-innocent
+category: classic-literature
 cover: /assets/readings/no-saint.jpg
-spice: 4
 content_warnings:
   - "moral ambiguity"
   - "obsession"

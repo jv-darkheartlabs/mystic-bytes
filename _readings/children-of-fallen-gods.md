@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21002065.Carissa_Broadbent"
 dek: "The War of Lost Hearts Vol. II"
 number: R1205
 sort_key: 1205
-date: 2025-06-30
+date: 2026-05-11
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/children-of-fallen-gods.jpg

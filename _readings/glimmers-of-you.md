@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228267.Catherine_Cowles"
 dek: "The Lost & Found Series"
 number: R1352
 sort_key: 1352
-date: 2025-12-29
+date: 2026-05-27
 date_read: 2007-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/glimmers-of-you.jpg
 spice: 3
 content_warnings:

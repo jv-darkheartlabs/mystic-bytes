@@ -5,7 +5,7 @@ author: "Rebecca Yarros"
 dek: "A Novel"
 number: R338
 sort_key: 338
-date: 2022-08-02
+date: 2026-02-06
 date_read: 2017-08-16
 category: dark-military-romance
 cover: /assets/readings/in-the-likely-event.jpg

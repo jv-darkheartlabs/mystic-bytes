@@ -5,11 +5,10 @@ author: "Miguel de Cervantes Saavedra"
 dek: ""
 number: R1734
 sort_key: 1734
-date: 2026-05-26
+date: 2026-07-04
 date_read: 2001-09-19
 category: classic-literature
 cover: /assets/readings/don-quixote.jpg
-spice: 1
 content_warnings:
 tags:
   - classic

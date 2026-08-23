@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Scarlett_St_Clair"
 dek: ""
 number: R1324
 sort_key: 1324
-date: 2025-11-22
+date: 2026-05-24
 date_read: 2019-04-04
 category: vampire-paranormal
 cover: /assets/readings/king-of-battle-and-blood.jpg

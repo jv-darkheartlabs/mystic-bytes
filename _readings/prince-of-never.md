@@ -5,7 +5,7 @@ author: "Juno Heart"
 dek: ""
 number: R1452
 sort_key: 1452
-date: 2026-04-26
+date: 2026-06-07
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/prince-of-never.jpg

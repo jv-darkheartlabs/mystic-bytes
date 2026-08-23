@@ -5,7 +5,7 @@ author: "Allison Carr Waechter"
 dek: "The Immortal Orders — Book II"
 number: R1448
 sort_key: 1448
-date: 2026-04-21
+date: 2026-06-07
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/beneath-the-alabaster-spire.jpg

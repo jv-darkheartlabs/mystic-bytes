@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15291253.Alexandra_Christo"
 dek: "Bound for eternity. Born for vengeance."
 number: R1179
 sort_key: 1179
-date: 2025-06-01
+date: 2026-05-09
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/princess-of-souls.jpg

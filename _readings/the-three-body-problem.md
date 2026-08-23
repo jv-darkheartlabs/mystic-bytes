@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5780686.Cixin_Liu"
 dek: ""
 number: R706
 sort_key: 706
-date: 2023-10-28
+date: 2026-03-18
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/the-three-body-problem.jpg

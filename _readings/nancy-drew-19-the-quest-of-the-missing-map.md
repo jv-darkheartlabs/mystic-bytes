@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #19"
 number: R2339
 sort_key: 2339
-date: 2026-05-02
+date: 2026-08-17
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-19-the-quest-of-the-missing-map.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

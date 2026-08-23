@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.J_Bree"
 dek: ""
 number: R1056
 sort_key: 1056
-date: 2025-01-01
+date: 2026-04-26
 date_read: 2015-06-10
 category: reverse-harem
 cover: /assets/readings/forced-bonds.jpg

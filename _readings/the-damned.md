@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/19845642.Harper_L_Woods"
 dek: "New York Times Bestselling Author"
 number: R287
 sort_key: 287
-date: 2022-05-31
-date_read: 2026-11-25
+date: 2026-01-31
+date_read: 2026-08-23
 category: vampire-paranormal
 cover: /assets/readings/the-damned.jpg
 spice: 4

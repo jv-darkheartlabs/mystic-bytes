@@ -5,7 +5,7 @@ author: "Elle Kennedy"
 dek: ""
 number: R895
 sort_key: 895
-date: 2024-06-16
+date: 2026-04-08
 date_read: 2022-07-13
 category: enemies-to-lovers
 cover: /assets/readings/the-charlie-method.jpg

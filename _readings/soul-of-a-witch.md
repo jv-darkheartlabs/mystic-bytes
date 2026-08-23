@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20135134.Harley_Laroux"
 dek: "Souls Trilogy — Book Three"
 number: R307
 sort_key: 307
-date: 2022-06-23
+date: 2026-02-02
 date_read: 2022-04-04
 category: vampire-paranormal
 cover: /assets/readings/soul-of-a-witch.jpg

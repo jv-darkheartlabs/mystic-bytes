@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/10072.Jennifer_Ashley"
 dek: ""
 number: R1173
 sort_key: 1173
-date: 2025-05-22
+date: 2026-05-08
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/wild-wolf.jpg

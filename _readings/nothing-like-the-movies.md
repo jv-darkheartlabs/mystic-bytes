@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228246.Lynn_Painter"
 dek: ""
 number: R453
 sort_key: 453
-date: 2022-12-22
+date: 2026-02-18
 date_read: 2024-06-10
 category: enemies-to-lovers
 cover: /assets/readings/nothing-like-the-movies.jpg

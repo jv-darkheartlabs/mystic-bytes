@@ -5,7 +5,7 @@ author: "Katelyn Taylor"
 dek: ""
 number: R800
 sort_key: 800
-date: 2024-02-21
+date: 2026-03-29
 date_read: 2023-11-25
 category: gothic-horror-romance
 cover: /assets/readings/descent.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/54485.Kristin_Hannah"
 dek: "A Novel"
 number: R343
 sort_key: 343
-date: 2022-08-11
+date: 2026-02-06
 date_read: 2022-04-04
 category: dark-military-romance
 cover: /assets/readings/the-women.jpg

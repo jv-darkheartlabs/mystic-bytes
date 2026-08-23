@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
 dek: "A Crescent City Novel"
 number: R1126
 sort_key: 1126
-date: 2025-03-24
+date: 2026-05-03
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/house-of-sky-and-breath.jpg

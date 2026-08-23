@@ -5,7 +5,7 @@ author: "Penn Cole"
 dek: "The Kindred's Curse Saga, Book Two"
 number: R1149
 sort_key: 1149
-date: 2025-04-22
+date: 2026-05-06
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/glow-of-the-everflame.jpg

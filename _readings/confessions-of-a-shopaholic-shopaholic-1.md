@@ -5,9 +5,9 @@ author: "Sophie Kinsella"
 dek: "Shopaholic Series Book 1"
 number: R2176
 sort_key: 2176
-date: 2026-04-14
+date: 2026-08-04
 date_read: 2011-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/confessions-of-a-shopaholic-shopaholic-1.jpg
 spice: 1
 content_warnings:

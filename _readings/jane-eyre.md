@@ -5,11 +5,10 @@ author: "Charlotte Brontë"
 dek: ""
 number: R1597
 sort_key: 1597
-date: 2026-07-02
+date: 2026-06-20
 date_read: 1999-07-13
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/jane-eyre.jpg
-spice: 2
 content_warnings:
   - "abuse"
   - "mental illness"

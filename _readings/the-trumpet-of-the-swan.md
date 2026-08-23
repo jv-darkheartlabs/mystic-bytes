@@ -5,11 +5,10 @@ author: "E.B. White"
 dek: ""
 number: R1561
 sort_key: 1561
-date: 2026-05-17
+date: 2026-06-18
 date_read: 1989-05-15
 category: juvenile-fiction
 cover: /assets/readings/the-trumpet-of-the-swan.jpg
-spice: 1
 content_warnings:
 tags:
   - children's literature

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
 dek: "Passionate, violent, sexy and daring"
 number: R1132
 sort_key: 1132
-date: 2025-04-01
+date: 2026-05-04
 date_read: 2020-03-22
 category: fantasy-romance
 cover: /assets/readings/a-court-of-thorns-and-roses.jpg

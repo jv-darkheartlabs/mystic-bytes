@@ -5,7 +5,7 @@ author: "Santana Knox"
 dek: "Avevo bisogno di asilo... Invece, ho trovato loro."
 number: R243
 sort_key: 243
-date: 2022-04-09
+date: 2026-01-26
 date_read: 2018-03-01
 category: stalker-obsession
 cover: /assets/readings/reietti-senza-cuore.jpg

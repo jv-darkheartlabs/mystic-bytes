@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/14352829.Amanda_Bouchet"
 dek: "The Kingmaker Chronicles"
 number: R1220
 sort_key: 1220
-date: 2025-07-20
+date: 2026-05-13
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/heart-on-fire.jpg

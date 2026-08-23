@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6877923.Tamsyn_Muir"
 dek: ""
 number: R653
 sort_key: 653
-date: 2023-08-25
+date: 2026-03-13
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/harrow-the-ninth.jpg

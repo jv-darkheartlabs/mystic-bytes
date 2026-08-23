@@ -5,7 +5,7 @@ author: "Christopher Paolini"
 dek: "The Inheritance Cycle, #3"
 number: R2156
 sort_key: 2156
-date: 2026-05-04
+date: 2026-08-02
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/brisingr-the-inheritance-cycle-3.jpg

@@ -5,7 +5,7 @@ author: "Vladimir Nabokov"
 dek: ""
 number: R2230
 sort_key: 2230
-date: 2026-05-30
+date: 2026-08-06
 date_read: 2025-10-22
 category: forbidden-love
 cover: /assets/readings/lolita.jpg

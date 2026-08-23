@@ -5,7 +5,7 @@ author: "Jenny Han"
 dek: ""
 number: R1017
 sort_key: 1017
-date: 2024-11-09
+date: 2026-04-21
 date_read: 2024-03-01
 category: forbidden-love
 cover: /assets/readings/the-summer-i-turned-pretty.jpg

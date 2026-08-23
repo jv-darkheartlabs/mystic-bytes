@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/1630.Ray_Bradbury"
 dek: ""
 number: R347
 sort_key: 347
-date: 2022-08-14
+date: 2026-02-07
 date_read: 1996-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/fahrenheit-451.jpg
-spice: 1
 content_warnings:
   - "suspense"
   - "psychological intensity"

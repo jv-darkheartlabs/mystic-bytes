@@ -5,9 +5,9 @@ author: "Ashley Audrain"
 dek: ""
 number: R2067
 sort_key: 2067
-date: 2026-04-23
+date: 2026-07-28
 date_read: 2012-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-push.jpg
 spice: 2
 content_warnings:

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228257.Ali_Hazelwood"
 dek: "A Novel"
 number: R1362
 sort_key: 1362
-date: 2026-01-04
+date: 2026-05-28
 date_read: 2021-06-10
 category: enemies-to-lovers
 cover: /assets/readings/love-theoretically.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: "A Novel"
 number: R1482
 sort_key: 1482
-date: 2026-05-31
+date: 2026-06-11
 date_read: 2021-09-19
 category: forbidden-love
 cover: /assets/readings/it-starts-with-us.jpg

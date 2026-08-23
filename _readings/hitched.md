@@ -5,7 +5,7 @@ author: "Lauren Biel"
 dek: "A Dark Hitchhiker Romance"
 number: R088
 sort_key: 088
-date: 2021-10-11
+date: 2026-01-10
 date_read: 2019-10-22
 category: captor-and-captive
 cover: /assets/readings/hitched.jpg

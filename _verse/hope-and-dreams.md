@@ -4,7 +4,7 @@ title: "Hope and Dreams"
 dek: "Dreams are appetite with better lighting."
 number: V0140
 sort_key: 140
-date: 2026-09-11
+date: 2026-02-01
 date_written: 2009-03-28
 category: spirituality
 form: free-verse

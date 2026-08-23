@@ -5,11 +5,10 @@ author: "Friedrich Nietzsche"
 dek: ""
 number: R2265
 sort_key: 2265
-date: 2026-04-25
+date: 2026-08-09
 date_read: 2010-09-19
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-portable-nietzsche.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

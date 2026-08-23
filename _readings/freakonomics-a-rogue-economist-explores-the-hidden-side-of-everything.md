@@ -5,9 +5,9 @@ author: "Steven D. Levitt"
 dek: ""
 number: R2186
 sort_key: 2186
-date: 2026-04-04
+date: 2026-08-05
 date_read: 2011-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/freakonomics-a-rogue-economist-explores-the-hidden-side-of-everything.jpg
 spice: 1
 content_warnings:

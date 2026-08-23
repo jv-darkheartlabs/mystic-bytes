@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166830.V_E_Schwab"
 dek: ""
 number: R968
 sort_key: 968
-date: 2024-09-14
+date: 2026-04-16
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/the-invisible-life-of-addie-larue.jpg

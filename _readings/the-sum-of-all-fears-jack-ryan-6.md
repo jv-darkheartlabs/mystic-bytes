@@ -5,9 +5,9 @@ author: "Tom Clancy"
 dek: "Jack Ryan Series"
 number: R1969
 sort_key: 1969
-date: 2026-04-21
+date: 2026-07-23
 date_read: 2014-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-sum-of-all-fears-jack-ryan-6.jpg
 spice: 2
 content_warnings:

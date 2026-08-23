@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #49"
 number: R2372
 sort_key: 2372
-date: 2026-03-30
+date: 2026-08-21
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-49-the-secret-of-mirror-bay.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7443.Lisa_Jewell"
 dek: "A Novel"
 number: R812
 sort_key: 812
-date: 2024-03-03
+date: 2026-03-30
 date_read: 2023-05-07
 category: stalker-obsession
 cover: /assets/readings/watching-you.jpg

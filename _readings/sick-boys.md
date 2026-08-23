@@ -5,7 +5,7 @@ author: "Clarissa Wild"
 dek: "New York Times & USA Today Bestselling Author"
 number: R009
 sort_key: 009
-date: 2021-07-06
+date: 2026-01-02
 date_read: 2024-03-01
 category: bully-romance
 cover: /assets/readings/sick-boys.jpg

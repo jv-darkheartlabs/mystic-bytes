@@ -5,9 +5,9 @@ author: "Ian McEwan"
 dek: ""
 number: R1629
 sort_key: 1629
-date: 2026-05-31
+date: 2026-06-24
 date_read: 2014-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/atonement.jpg
 spice: 2
 content_warnings:

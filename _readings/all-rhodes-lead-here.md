@@ -5,7 +5,7 @@ author: "Mariana Zapata"
 dek: "A Novel"
 number: R859
 sort_key: 859
-date: 2024-05-08
+date: 2026-04-04
 date_read: 2022-07-13
 category: enemies-to-lovers
 cover: /assets/readings/all-rhodes-lead-here.jpg

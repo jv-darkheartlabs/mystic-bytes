@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19684385.Adalyn_Grace"
 dek: "New York Times Bestselling Author of All the Stars and Teeth"
 number: R650
 sort_key: 650
-date: 2023-08-18
+date: 2026-03-12
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/belladonna.jpg

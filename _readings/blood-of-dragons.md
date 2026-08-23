@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book Four of the Rain Wild Chronicles"
 number: R603
 sort_key: 603
-date: 2023-06-23
+date: 2026-03-07
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/blood-of-dragons.jpg

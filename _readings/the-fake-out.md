@@ -5,7 +5,7 @@ author: "Stephanie Archer"
 dek: ""
 number: R849
 sort_key: 849
-date: 2024-04-22
+date: 2026-04-03
 date_read: 2024-06-10
 category: enemies-to-lovers
 cover: /assets/readings/the-fake-out.jpg

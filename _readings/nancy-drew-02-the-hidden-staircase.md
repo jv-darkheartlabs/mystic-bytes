@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #2"
 number: R2340
 sort_key: 2340
-date: 2026-05-01
+date: 2026-08-17
 date_read: 1990-06-10
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-02-the-hidden-staircase.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

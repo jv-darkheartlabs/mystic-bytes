@@ -4,7 +4,7 @@ title: "Spring Emergence"
 dek: "Bloom as annual recommitment."
 number: V0511
 sort_key: 511
-date: 2027-01-24
+date: 2026-05-04
 date_written: 1994-03-20
 category: nature
 form: free-verse

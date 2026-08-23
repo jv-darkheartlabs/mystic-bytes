@@ -5,7 +5,7 @@ author: "H.P. Lovecraft"
 dek: "A chilling exploration of the unknown and the madness it brings."
 number: R1726
 sort_key: 1726
-date: 2026-06-03
+date: 2026-07-03
 date_read: 2025-10-22
 category: gothic-horror-romance
 cover: /assets/readings/the-call-of-cthulhu.jpg

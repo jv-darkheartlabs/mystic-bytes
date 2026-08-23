@@ -5,7 +5,7 @@ author: "Rina Kent"
 dek: "She's off limits. He has none. — Royal Elite Book 6"
 number: R024
 sort_key: 024
-date: 2021-07-25
+date: 2026-01-04
 date_read: 2015-09-19
 category: bully-romance
 cover: /assets/readings/ruthless-empire.jpg

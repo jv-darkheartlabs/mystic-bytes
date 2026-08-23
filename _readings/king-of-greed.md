@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17652030.Ana_Huang"
 dek: "Kings of Sin — Book 3"
 number: R098
 sort_key: 098
-date: 2021-10-29
+date: 2026-01-11
 date_read: 2017-11-25
 category: dark-billionaire
 cover: /assets/readings/king-of-greed.jpg

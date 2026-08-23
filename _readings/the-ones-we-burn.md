@@ -5,7 +5,7 @@ author: "Rebecca Mix"
 dek: ""
 number: R1461
 sort_key: 1461
-date: 2026-05-10
+date: 2026-06-08
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/the-ones-we-burn.jpg

@@ -5,7 +5,7 @@ author: "Lauren Mansy"
 dek: ""
 number: R1430
 sort_key: 1430
-date: 2026-04-01
+date: 2026-06-05
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/the-memory-thief.jpg

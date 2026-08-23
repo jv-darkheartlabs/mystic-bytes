@@ -53,6 +53,10 @@ redirect_from:
   </div>
   <div class="reading-filters film-filters" role="toolbar" aria-label="Filter by category">
     <button type="button" class="reading-filter film-filter is-active" data-filter="all">all</button>
+    <button type="button" class="reading-filter film-filter" data-filter="lane:romance">orchid room</button>
+    <button type="button" class="reading-filter film-filter" data-filter="lane:canon">canon</button>
+    <button type="button" class="reading-filter film-filter" data-filter="lane:genre">genre</button>
+    <button type="button" class="reading-filter film-filter" data-filter="lane:juvenile">juvenile</button>
     {% for pair in categories %}
     {% assign cat = pair[1] %}
     <button type="button" class="reading-filter film-filter" data-filter="{{ pair[0] }}" data-family="{{ cat.family }}">{{ cat.label }}</button>
@@ -87,6 +91,7 @@ redirect_from:
     class="reading-card film-card"
     href="{{ film.url | relative_url }}"
     data-category="{{ film.category }}"
+    data-lane="{{ film.lane }}"
     data-format="{{ film.format }}"
     data-era="{{ era_slug }}"
     data-family="{{ cat.family }}"
@@ -118,7 +123,7 @@ redirect_from:
       {% if film.date_watched %}
       <span class="reading-card__read">watched {{ film.date_watched | date: "%b %Y" }}</span>
       {% endif %}
-      {% if film.spice %}
+      {% if film.lane == "romance" and film.spice %}
       {% assign film_spice = site.data.film_categories.spice_levels | where: "level", film.spice | first %}
       <span class="reading-card__spice">{% if film_spice %}{{ film_spice.peppers }}{% else %}🌶️×{{ film.spice }}{% endif %}</span>
       {% endif %}
@@ -128,5 +133,5 @@ redirect_from:
   <p class="reading-empty film-empty" id="film-empty" hidden>No reviews match your search.</p>
 </div>
 
-<script src="{{ '/assets/js/projection-room.js' | relative_url }}?v=1" defer></script>
+<script src="{{ '/assets/js/projection-room.js' | relative_url }}?v=2" defer></script>
 </div>

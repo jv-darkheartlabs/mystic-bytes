@@ -5,7 +5,7 @@ author: "Paisley Hope"
 dek: "Her heart is solid. Only he can capture it."
 number: R336
 sort_key: 336
-date: 2022-07-30
+date: 2026-02-05
 date_read: 2015-06-10
 category: dark-cowboy-romance
 cover: /assets/readings/riding-the-high.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166830.V_E_Schwab"
 dek: ""
 number: R773
 sort_key: 773
-date: 2024-01-22
+date: 2026-03-26
 date_read: 2020-11-25
 category: gothic-horror-romance
 cover: /assets/readings/vicious.jpg

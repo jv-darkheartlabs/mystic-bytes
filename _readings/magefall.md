@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4340345.David_Estes"
 dek: ""
 number: R505
 sort_key: 505
-date: 2023-02-26
+date: 2026-02-24
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/magefall.jpg

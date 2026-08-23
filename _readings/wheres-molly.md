@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19678643.H_D_Carlton"
 dek: "How could they find me when I'm already a ghost? — a Cat & Mouse spinoff"
 number: R207
 sort_key: 207
-date: 2022-03-04
+date: 2026-01-23
 date_read: 2018-03-01
 category: stalker-obsession
 cover: /assets/readings/wheres-molly.jpg

@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "A Deal with a Demon Novel"
 number: R1399
 sort_key: 1399
-date: 2026-02-23
+date: 2026-06-01
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/the-demons-bargain.jpg

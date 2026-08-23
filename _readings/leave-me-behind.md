@@ -5,7 +5,7 @@ author: "K.M. Moronova"
 dek: ""
 number: R1051
 sort_key: 1051
-date: 2024-12-21
+date: 2026-04-25
 date_read: 2022-10-22
 category: gothic-horror-romance
 cover: /assets/readings/leave-me-behind.jpg

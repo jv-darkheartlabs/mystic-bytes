@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/38550.Brandon_Sanderson"
 dek: "Mistborn Era Two Book Two"
 number: R720
 sort_key: 720
-date: 2023-11-15
+date: 2026-03-20
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/shadows-of-self.jpg

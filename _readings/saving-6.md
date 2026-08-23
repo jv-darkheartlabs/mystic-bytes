@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6572607.Chloe_Walsh"
 dek: "Boys of Tommen #3"
 number: R317
 sort_key: 317
-date: 2022-07-08
+date: 2026-02-03
 date_read: 2020-05-07
 category: bully-romance
 cover: /assets/readings/saving-6.jpg

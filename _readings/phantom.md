@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19678643.H_D_Carlton"
 dek: "Author of Haunting Adeline"
 number: R247
 sort_key: 247
-date: 2022-04-12
+date: 2026-01-27
 date_read: 2022-07-13
 category: stalker-obsession
 cover: /assets/readings/phantom.jpg

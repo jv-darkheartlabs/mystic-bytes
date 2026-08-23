@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7154216.Danielle_L_Jensen"
 dek: "The Bridge Kingdom Book 2"
 number: R1233
 sort_key: 1233
-date: 2025-08-06
+date: 2026-05-15
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/the-traitor-queen.jpg

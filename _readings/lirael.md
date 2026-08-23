@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8347.Garth_Nix"
 dek: "Old Kingdom Book Two"
 number: R501
 sort_key: 501
-date: 2023-02-19
+date: 2026-02-24
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/lirael.jpg

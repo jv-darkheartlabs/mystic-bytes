@@ -4,7 +4,7 @@ title: "Flight of Dreams"
 dek: "Dream as kite with string."
 number: V0603
 sort_key: 603
-date: 2027-02-24
+date: 2026-05-26
 date_written: 1988-11-19
 category: curiosity
 form: free-verse

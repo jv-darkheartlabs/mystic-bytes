@@ -5,7 +5,7 @@ author: "Sayler Moreau"
 dek: "A Dark College Bully Romance"
 number: R049
 sort_key: 049
-date: 2021-08-28
+date: 2026-01-06
 date_read: 2016-07-13
 category: bully-romance
 cover: /assets/readings/vendetta.jpg

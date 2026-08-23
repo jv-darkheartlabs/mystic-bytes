@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19586146.RuNyx"
 dek: "Dark Verse — Book One"
 number: R253
 sort_key: 253
-date: 2022-04-24
+date: 2026-01-27
 date_read: 2016-04-04
 category: stalker-obsession
 cover: /assets/readings/the-predator.jpg

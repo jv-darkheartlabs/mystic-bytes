@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6543501.Stacey_Marie_Brown"
 dek: "Savage Lands Book Four"
 number: R283
 sort_key: 283
-date: 2022-05-29
+date: 2026-01-31
 date_read: 2022-07-13
 category: vampire-paranormal
 cover: /assets/readings/bad-lands.jpg

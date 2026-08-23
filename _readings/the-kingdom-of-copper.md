@@ -5,7 +5,7 @@ author: "Shannon Chakraborty"
 dek: "The Daevabad Trilogy — Book Two"
 number: R1415
 sort_key: 1415
-date: 2026-03-15
+date: 2026-06-03
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/the-kingdom-of-copper.jpg

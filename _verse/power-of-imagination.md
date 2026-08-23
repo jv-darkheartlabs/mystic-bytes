@@ -4,7 +4,7 @@ title: "Power of Imagination"
 dek: "Mind as forge — rare, not harmless."
 number: V0861
 sort_key: 861
-date: 2032-02-11
+date: 2026-07-23
 date_written: 2007-05-09
 category: life
 form: free-verse

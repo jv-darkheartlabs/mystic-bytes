@@ -5,7 +5,7 @@ author: "Geneva Lee"
 dek: ""
 number: R1067
 sort_key: 1067
-date: 2025-01-10
+date: 2026-04-27
 date_read: 2026-08-16
 category: vampire-paranormal
 cover: /assets/readings/filthy-rich-vampires-second-rite.jpg

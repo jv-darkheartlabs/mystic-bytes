@@ -5,11 +5,10 @@ author: "Anthony Burgess"
 dek: ""
 number: R2166
 sort_key: 2166
-date: 2026-04-24
+date: 2026-08-03
 date_read: 2011-09-19
-category: dark-thriller
+category: literary-fiction
 cover: /assets/readings/a-clockwork-orange.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "sexual content"

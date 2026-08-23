@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8347.Stephen_R_Lawhead"
 dek: "King Raven — The legend triumphs."
 number: R659
 sort_key: 659
-date: 2023-08-31
+date: 2026-03-13
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/tuck.jpg

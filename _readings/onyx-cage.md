@@ -5,8 +5,8 @@ author: "Robin D. Mahle & Elle Madison"
 dek: "The Lochlann Feuds Companion Novel — Volume 1"
 number: R323
 sort_key: 323
-date: 2022-07-14
-date_read: 2026-11-25
+date: 2026-02-04
+date_read: 2026-08-23
 category: captor-and-captive
 cover: /assets/readings/onyx-cage.jpg
 spice: 4

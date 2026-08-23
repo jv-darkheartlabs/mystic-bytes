@@ -5,9 +5,9 @@ author: "Walker Percy"
 dek: ""
 number: R2237
 sort_key: 2237
-date: 2026-05-23
+date: 2026-08-06
 date_read: 2012-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-moviegoer-vintage-international.jpg
 spice: 1
 content_warnings:

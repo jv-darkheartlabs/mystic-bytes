@@ -5,7 +5,7 @@ author: "Stephen  King"
 dek: ""
 number: R1662
 sort_key: 1662
-date: 2026-04-28
+date: 2026-06-27
 date_read: 2021-09-19
 category: gothic-horror-romance
 cover: /assets/readings/christine.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/38550.Brandon_Sanderson"
 dek: "Mistborn Era Two Book Six"
 number: R726
 sort_key: 726
-date: 2023-11-24
+date: 2026-03-21
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/the-bands-of-mourning.jpg

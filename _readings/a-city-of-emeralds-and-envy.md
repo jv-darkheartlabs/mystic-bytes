@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Rebecca_F_Kenney"
 dek: "An Oz Retelling — Wicked Darlings Book 3"
 number: R526
 sort_key: 526
-date: 2023-03-22
+date: 2026-02-26
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/a-city-of-emeralds-and-envy.jpg

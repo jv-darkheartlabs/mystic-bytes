@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1581
 sort_key: 1581
-date: 2026-04-27
+date: 2026-06-19
 date_read: 2024-09-19
 category: reverse-harem
 cover: /assets/readings/warrior-fae.jpg

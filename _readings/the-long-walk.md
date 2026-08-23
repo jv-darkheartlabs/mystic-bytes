@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/3389.Stephen_King"
 dek: "Writing as Richard Bachman"
 number: R368
 sort_key: 368
-date: 2022-09-09
+date: 2026-02-09
 date_read: 2013-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-long-walk.jpg
 spice: 2
 content_warnings:

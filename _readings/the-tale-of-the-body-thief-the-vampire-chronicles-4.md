@@ -5,7 +5,7 @@ author: "Anne Rice"
 dek: "The Vampire Chronicles, #4"
 number: R1886
 sort_key: 1886
-date: 2026-04-04
+date: 2026-07-17
 date_read: 2017-08-16
 category: vampire-paranormal
 cover: /assets/readings/the-tale-of-the-body-thief-the-vampire-chronicles-4.jpg

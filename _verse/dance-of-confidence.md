@@ -4,7 +4,7 @@ title: "Dance of Confidence"
 dek: "Poise in New Orleans — earned, not performed."
 number: V0807
 sort_key: 807
-date: 2027-08-01
+date: 2026-06-15
 date_written: 2009-03-28
 category: life
 form: free-verse

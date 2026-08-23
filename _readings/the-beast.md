@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Wicked Villains"
 number: R1356
 sort_key: 1356
-date: 2025-12-30
+date: 2026-05-28
 date_read: 2015-09-19
 category: enemies-to-lovers
 cover: /assets/readings/the-beast.jpg

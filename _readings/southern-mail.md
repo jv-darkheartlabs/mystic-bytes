@@ -5,9 +5,9 @@ author: "Antoine de Saint-Exupéry"
 dek: ""
 number: R1646
 sort_key: 1646
-date: 2026-05-14
+date: 2026-06-25
 date_read: 2011-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/southern-mail.jpg
 spice: 1
 content_warnings:

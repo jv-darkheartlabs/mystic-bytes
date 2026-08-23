@@ -5,7 +5,7 @@ author: "Tricia Levenseller"
 dek: ""
 number: R1443
 sort_key: 1443
-date: 2026-04-17
+date: 2026-06-06
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/vengeance-of-the-pirate-queen.jpg

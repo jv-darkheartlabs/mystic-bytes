@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #27"
 number: R2348
 sort_key: 2348
-date: 2026-04-23
+date: 2026-08-18
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-27-the-secret-of-the-wooden-lady.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4476932.Jennifer_L_Armentrout
 dek: ""
 number: R1168
 sort_key: 1168
-date: 2025-05-12
+date: 2026-05-08
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/the-crown-of-gilded-bones.jpg

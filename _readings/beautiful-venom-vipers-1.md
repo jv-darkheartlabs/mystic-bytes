@@ -5,9 +5,9 @@ author: "Rina Kent"
 dek: "Vipers Series Book 1"
 number: R1954
 sort_key: 1954
-date: 2026-05-06
+date: 2026-07-23
 date_read: 2009-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/beautiful-venom-vipers-1.jpg
 spice: 4
 content_warnings:

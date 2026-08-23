@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228266.Stephanie_Alves"
 dek: "Campus Games — Book 1"
 number: R1382
 sort_key: 1382
-date: 2026-01-31
+date: 2026-05-30
 date_read: 2017-08-16
 category: enemies-to-lovers
 cover: /assets/readings/never-have-i-ever.jpg

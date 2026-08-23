@@ -5,7 +5,7 @@ author: "Hannah Whitten"
 dek: ""
 number: R934
 sort_key: 934
-date: 2024-08-07
+date: 2026-04-12
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/the-hemlock-queen.jpg

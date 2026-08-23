@@ -5,11 +5,10 @@ author: "Arthur Miller"
 dek: ""
 number: R1842
 sort_key: 1842
-date: 2026-05-18
+date: 2026-07-13
 date_read: 1996-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/death-of-a-salesman.jpg
-spice: 1
 content_warnings:
   - "suicide"
   - "mental health issues"

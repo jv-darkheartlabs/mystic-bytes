@@ -5,7 +5,7 @@ author: "Ali Hazelwood"
 dek: "The perfect rivals-to-lovers romance."
 number: R461
 sort_key: 461
-date: 2023-01-01
+date: 2026-02-19
 date_read: 2020-05-07
 category: enemies-to-lovers
 cover: /assets/readings/check-mate.jpg

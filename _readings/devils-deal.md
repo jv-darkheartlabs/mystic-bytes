@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Layla_Fae"
 dek: "Jaga and the Devil — Book 1"
 number: R140
 sort_key: 140
-date: 2021-12-15
+date: 2026-01-16
 date_read: 2023-08-16
 category: forbidden-love
 cover: /assets/readings/devils-deal.jpg

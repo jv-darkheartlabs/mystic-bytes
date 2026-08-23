@@ -5,11 +5,10 @@ author: "Friedrich Nietzsche"
 dek: ""
 number: R2269
 sort_key: 2269
-date: 2026-04-21
+date: 2026-08-10
 date_read: 2001-02-10
-category: dark-thriller
+category: philosophy-criticism
 cover: /assets/readings/beyond-good-and-evil.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

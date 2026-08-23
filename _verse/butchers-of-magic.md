@@ -4,7 +4,7 @@ title: "Butchers of Magic"
 dek: "Cards as butcher's block — collector's ode."
 number: V0923
 sort_key: 923
-date: 2035-06-29
+date: 2026-08-19
 date_written: 2016-01-27
 category: misc
 form: free-verse

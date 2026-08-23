@@ -5,9 +5,9 @@ author: "Phyllis Reynolds Naylor"
 dek: "Shiloh Series"
 number: R1707
 sort_key: 1707
-date: 2026-06-22
+date: 2026-07-01
 date_read: 2012-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/shiloh-shiloh-1.jpg
 spice: 1
 content_warnings:

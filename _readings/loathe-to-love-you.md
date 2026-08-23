@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228257.Ali_Hazelwood"
 dek: "A STEMinist Novella Collection"
 number: R1381
 sort_key: 1381
-date: 2026-01-29
+date: 2026-05-30
 date_read: 2016-07-13
 category: enemies-to-lovers
 cover: /assets/readings/loathe-to-love-you.jpg

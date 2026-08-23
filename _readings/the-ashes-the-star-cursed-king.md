@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21002065.Carissa_Broadbent"
 dek: "The Nightborn Duet Book Two"
 number: R1323
 sort_key: 1323
-date: 2025-11-23
+date: 2026-05-24
 date_read: 2018-03-01
 category: vampire-paranormal
 cover: /assets/readings/the-ashes-the-star-cursed-king.jpg

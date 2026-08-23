@@ -5,7 +5,7 @@ author: "Christina Lauren"
 dek: ""
 number: R869
 sort_key: 869
-date: 2024-05-13
+date: 2026-04-05
 date_read: 2020-08-16
 category: enemies-to-lovers
 cover: /assets/readings/the-true-love-experiment.jpg

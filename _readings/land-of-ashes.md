@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6543501.Stacey_Marie_Brown"
 dek: "USA Today Bestselling Author"
 number: R280
 sort_key: 280
-date: 2022-05-26
+date: 2026-01-30
 date_read: 2019-04-04
 category: vampire-paranormal
 cover: /assets/readings/land-of-ashes.jpg

@@ -5,9 +5,9 @@ author: "Sylvia Plath"
 dek: ""
 number: R2231
 sort_key: 2231
-date: 2026-05-29
+date: 2026-08-06
 date_read: 2006-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-bell-jar.jpg
 spice: 2
 content_warnings:

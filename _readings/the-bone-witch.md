@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Rin_Chupeco"
 dek: ""
 number: R502
 sort_key: 502
-date: 2023-02-24
+date: 2026-02-24
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/the-bone-witch.jpg

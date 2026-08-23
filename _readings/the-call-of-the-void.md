@@ -5,7 +5,7 @@ author: "S. M. Gaither"
 dek: "Shadows & Crowns — Book Three"
 number: R1394
 sort_key: 1394
-date: 2026-02-13
+date: 2026-06-01
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/the-call-of-the-void.jpg

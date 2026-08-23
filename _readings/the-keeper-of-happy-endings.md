@@ -5,7 +5,7 @@ author: "Barbara Davis"
 dek: ""
 number: R632
 sort_key: 632
-date: 2023-07-26
+date: 2026-03-10
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/the-keeper-of-happy-endings.jpg

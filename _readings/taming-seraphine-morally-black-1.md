@@ -5,7 +5,7 @@ author: "Gigi Styx"
 dek: "Morally Black Series"
 number: R1563
 sort_key: 1563
-date: 2026-05-15
+date: 2026-06-18
 date_read: 2018-09-19
 category: gothic-horror-romance
 cover: /assets/readings/taming-seraphine-morally-black-1.jpg

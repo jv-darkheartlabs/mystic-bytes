@@ -5,7 +5,7 @@ author: "MZ Rylan"
 dek: ""
 number: R069
 sort_key: 069
-date: 2021-09-19
+date: 2026-01-08
 date_read: 2024-09-19
 category: captor-and-captive
 cover: /assets/readings/bound-by-her.jpg

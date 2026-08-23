@@ -5,7 +5,7 @@ author: "Tessonja Odette"
 dek: "Entangled with Fae — A Snow White Retelling"
 number: R1424
 sort_key: 1424
-date: 2026-03-20
+date: 2026-06-04
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/a-taste-of-poison.jpg

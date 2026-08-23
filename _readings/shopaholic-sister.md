@@ -5,7 +5,7 @@ author: "Sophie Kinsella"
 dek: ""
 number: R909
 sort_key: 909
-date: 2024-07-04
+date: 2026-04-10
 date_read: 2024-03-01
 category: enemies-to-lovers
 cover: /assets/readings/shopaholic-sister.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15162444.Helen_Scheuerer"
 dek: "The Legends of Thezmarr Book III"
 number: R1229
 sort_key: 1229
-date: 2025-07-25
+date: 2026-05-14
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/fate-furies.jpg

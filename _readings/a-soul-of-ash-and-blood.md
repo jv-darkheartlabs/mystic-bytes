@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4476932.Jennifer_L_Armentrout
 dek: ""
 number: R1174
 sort_key: 1174
-date: 2025-05-22
+date: 2026-05-08
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/a-soul-of-ash-and-blood.jpg

@@ -5,9 +5,9 @@ author: "Alicia Bessette"
 dek: "An Outer Banks Bookshop Mystery"
 number: R421
 sort_key: 421
-date: 2022-11-11
+date: 2026-02-15
 date_read: 2006-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/murder-on-mustang-beach.jpg
 spice: 1
 content_warnings:

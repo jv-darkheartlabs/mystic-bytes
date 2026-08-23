@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Sue_Lynn_Tan"
 dek: ""
 number: R924
 sort_key: 924
-date: 2024-07-23
+date: 2026-04-11
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/tales-of-the-celestial-kingdom.jpg

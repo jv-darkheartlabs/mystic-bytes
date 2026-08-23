@@ -5,9 +5,9 @@ author: "Hunter S. Thompson"
 dek: "A psychedelic journey through the American Dream."
 number: R1674
 sort_key: 1674
-date: 2026-04-16
+date: 2026-06-28
 date_read: 2009-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/fear-and-loathing-in-las-vegas-and-other-american-stories-modern-library.jpg
 spice: 2
 content_warnings:

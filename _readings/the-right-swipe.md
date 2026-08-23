@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/983609.Alisha_Rai"
 dek: ""
 number: R892
 sort_key: 892
-date: 2024-06-13
+date: 2026-04-08
 date_read: 2019-04-04
 category: enemies-to-lovers
 cover: /assets/readings/the-right-swipe.jpg

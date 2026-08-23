@@ -5,7 +5,7 @@ author: "Laura Steven"
 dek: "They've loved each other in a thousand lifetimes. They've killed each other in every one."
 number: R445
 sort_key: 445
-date: 2022-12-14
+date: 2026-02-18
 date_read: 2016-07-13
 category: enemies-to-lovers
 cover: /assets/readings/our-infinite-fates.jpg

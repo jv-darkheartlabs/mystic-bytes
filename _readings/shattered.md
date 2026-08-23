@@ -5,7 +5,7 @@ author: "Alexis Patton"
 dek: ""
 number: R986
 sort_key: 986
-date: 2024-10-02
+date: 2026-04-18
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/shattered.jpg

@@ -4,7 +4,7 @@ title: "Water for Elephants"
 dek: "2011 Depression-era circus romance."
 number: F0025
 sort_key: 25
-date: 2026-07-11
+date: 2026-05-15
 date_watched: 2011-04-22
 year: 2011
 poster: /assets/films/water-for-elephants-2011.jpg
@@ -38,6 +38,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

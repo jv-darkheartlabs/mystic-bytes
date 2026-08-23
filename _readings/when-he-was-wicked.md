@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/11093.Julia_Quinn"
 dek: "Bridgerton — Francesca's Story"
 number: R627
 sort_key: 627
-date: 2023-07-26
+date: 2026-03-10
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/when-he-was-wicked.jpg

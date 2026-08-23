@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
 dek: "#1 New York Times Bestselling Series"
 number: R1125
 sort_key: 1125
-date: 2025-03-22
+date: 2026-05-03
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/kingdom-of-ash.jpg

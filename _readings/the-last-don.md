@@ -5,7 +5,7 @@ author: "Mario Puzo"
 dek: ""
 number: R1702
 sort_key: 1702
-date: 2026-06-27
+date: 2026-07-01
 date_read: 2025-04-04
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-last-don.jpg

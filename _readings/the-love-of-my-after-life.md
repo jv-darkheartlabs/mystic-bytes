@@ -5,7 +5,7 @@ author: "Kirsty Greenwood"
 dek: "National bestseller"
 number: R1506
 sort_key: 1506
-date: 2026-07-05
+date: 2026-06-13
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/the-love-of-my-after-life.jpg

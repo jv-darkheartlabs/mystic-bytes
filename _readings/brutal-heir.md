@@ -5,7 +5,7 @@ author: "Eden O'Neill"
 dek: "Court University Book One"
 number: R046
 sort_key: 046
-date: 2021-08-26
+date: 2026-01-06
 date_read: 2025-04-04
 category: bully-romance
 cover: /assets/readings/brutal-heir.jpg

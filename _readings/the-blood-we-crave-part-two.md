@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Monty_Jay"
 dek: "Hollow Boys — Book Four · Part Two"
 number: R314
 sort_key: 314
-date: 2022-07-09
+date: 2026-02-03
 date_read: 2017-11-25
 category: stalker-obsession
 cover: /assets/readings/the-blood-we-crave-part-two.jpg

@@ -5,11 +5,10 @@ author: "James Dashner"
 dek: "The thrilling conclusion to the Maze Runner series"
 number: R1762
 sort_key: 1762
-date: 2026-04-28
+date: 2026-07-06
 date_read: 2007-10-22
-category: dark-thriller
+category: ya-fiction
 cover: /assets/readings/the-death-cure-the-maze-runner-3.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "death"

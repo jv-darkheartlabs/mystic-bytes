@@ -5,7 +5,7 @@ author: "Rachel Gillig"
 dek: ""
 number: R940
 sort_key: 940
-date: 2024-08-13
+date: 2026-04-13
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/two-twisted-crowns.jpg

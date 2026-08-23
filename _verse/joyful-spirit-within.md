@@ -4,7 +4,7 @@ title: "Joyful Spirit Within"
 dek: "Joy as light — not performance."
 number: V0831
 sort_key: 831
-date: 2029-08-09
+date: 2026-07-02
 date_written: 1999-08-08
 category: life
 form: free-verse

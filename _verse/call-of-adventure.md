@@ -4,7 +4,7 @@ title: "Call of Adventure"
 dek: "Brave as verb, not costume."
 number: V0602
 sort_key: 602
-date: 2027-02-23
+date: 2026-05-25
 date_written: 1990-06-12
 category: curiosity
 form: free-verse

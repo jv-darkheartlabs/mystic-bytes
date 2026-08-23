@@ -5,7 +5,7 @@ author: "Kat Blackthorne"
 dek: "International Bestselling Author"
 number: R1273
 sort_key: 1273
-date: 2025-09-19
+date: 2026-05-19
 date_read: 2016-07-13
 category: gothic-horror-romance
 cover: /assets/readings/selah-gothic.jpg

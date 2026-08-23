@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20135134.Harley_Laroux"
 dek: "Souls Trilogy — Book One"
 number: R309
 sort_key: 309
-date: 2022-06-29
+date: 2026-02-02
 date_read: 2024-06-10
 category: vampire-paranormal
 cover: /assets/readings/her-soul-to-take.jpg

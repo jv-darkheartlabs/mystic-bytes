@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/94137.Stephenie_Meyer"
 dek: ""
 number: R1074
 sort_key: 1074
-date: 2025-01-24
+date: 2026-04-28
 date_read: 2021-06-10
 category: vampire-paranormal
 cover: /assets/readings/breaking-dawn.jpg

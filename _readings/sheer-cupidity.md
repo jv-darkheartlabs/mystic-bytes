@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Raven_Kennedy"
 dek: "A Heart Hassle Novel"
 number: R808
 sort_key: 808
-date: 2024-03-01
+date: 2026-03-30
 date_read: 2019-10-22
 category: reverse-harem
 cover: /assets/readings/sheer-cupidity.jpg

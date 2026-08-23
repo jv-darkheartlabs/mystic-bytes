@@ -4,7 +4,7 @@ title: "Navigating Loss and Grief"
 dek: "Grief observed as structure, not instruction."
 number: V0002
 sort_key: 2
-date: 2026-07-11
+date: 2026-01-02
 date_written: 1997-03-22
 category: grief-loss-resilience
 form: free-verse

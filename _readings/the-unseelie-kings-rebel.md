@@ -5,7 +5,7 @@ author: "Alisha Klapheke"
 dek: ""
 number: R977
 sort_key: 977
-date: 2024-09-24
+date: 2026-04-17
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/the-unseelie-kings-rebel.jpg

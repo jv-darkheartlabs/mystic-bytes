@@ -4,7 +4,7 @@ title: "Sun Reverie"
 dek: "Light as daily landlord."
 number: V0521
 sort_key: 521
-date: 2027-02-03
+date: 2026-05-11
 date_written: 1992-06-21
 category: nature
 form: free-verse

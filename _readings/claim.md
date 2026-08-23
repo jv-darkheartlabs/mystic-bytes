@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/22683935.Luna_Mason"
 dek: "Beneath the Secrets Series"
 number: R179
 sort_key: 179
-date: 2022-01-27
-date_read: 2026-11-25
+date: 2026-01-20
+date_read: 2026-08-23
 category: mafia-boss-and-innocent
 cover: /assets/readings/claim.jpg
 spice: 4

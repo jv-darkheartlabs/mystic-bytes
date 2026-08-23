@@ -5,7 +5,7 @@ author: "Trisha Messmer"
 dek: ""
 number: R635
 sort_key: 635
-date: 2023-07-30
+date: 2026-03-11
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/the-reluctant-dukes-dilemma.jpg

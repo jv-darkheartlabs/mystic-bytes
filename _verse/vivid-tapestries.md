@@ -4,7 +4,7 @@ title: "Vivid Tapestries"
 dek: "Landscape as stitched light."
 number: V0536
 sort_key: 536
-date: 2027-02-18
+date: 2026-05-22
 date_written: 1994-09-09
 category: nature
 form: open

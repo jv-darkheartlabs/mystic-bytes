@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228245.Lauren_Asher"
 dek: "Lakefront Billionaires"
 number: R329
 sort_key: 329
-date: 2022-07-24
+date: 2026-02-05
 date_read: 2020-08-16
 category: dark-billionaire
 cover: /assets/readings/love-redesigned.jpg

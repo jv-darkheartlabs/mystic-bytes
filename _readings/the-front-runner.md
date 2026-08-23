@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228252.Elsie_Silver"
 dek: ""
 number: R1329
 sort_key: 1329
-date: 2025-11-27
+date: 2026-05-25
 date_read: 2024-09-19
 category: age-gap
 cover: /assets/readings/the-front-runner.jpg

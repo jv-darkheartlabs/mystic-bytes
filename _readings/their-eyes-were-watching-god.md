@@ -5,11 +5,10 @@ author: "Zora Neale Hurston"
 dek: ""
 number: R2250
 sort_key: 2250
-date: 2026-05-10
+date: 2026-08-08
 date_read: 1996-05-15
 category: classic-literature
 cover: /assets/readings/their-eyes-were-watching-god.jpg
-spice: 2
 content_warnings:
   - "racism"
   - "domestic abuse"

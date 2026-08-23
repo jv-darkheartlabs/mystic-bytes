@@ -5,7 +5,7 @@ author: "Sabaa Tahir"
 dek: "An Ember in the Ashes — Book Four"
 number: R1426
 sort_key: 1426
-date: 2026-03-27
+date: 2026-06-04
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/a-sky-beyond-the-storm.jpg

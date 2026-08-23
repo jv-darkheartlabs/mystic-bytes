@@ -5,7 +5,7 @@ author: "Sheridan Anne"
 dek: "A Dark Stalker Romance"
 number: R814
 sort_key: 814
-date: 2024-03-14
+date: 2026-03-30
 date_read: 2025-07-13
 category: stalker-obsession
 cover: /assets/readings/pretty-monster.jpg

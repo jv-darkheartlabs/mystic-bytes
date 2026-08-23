@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7443.Lisa_Jewell"
 dek: "A Novel"
 number: R396
 sort_key: 396
-date: 2022-10-10
+date: 2026-02-12
 date_read: 2011-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-girls-in-the-garden.jpg
 spice: 2
 content_warnings:

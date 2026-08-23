@@ -5,7 +5,7 @@ author: "Maree Rose"
 dek: ""
 number: R214
 sort_key: 214
-date: 2022-03-10
+date: 2026-01-24
 date_read: 2025-10-22
 category: stalker-obsession
 cover: /assets/readings/seek-me-darling.jpg

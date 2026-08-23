@@ -14,92 +14,162 @@ families:
   edge:
     label: Edge
     color: edge
+  canon:
+    label: Canon
+    color: canon
+  genre:
+    label: Genre
+    color: genre
+  juvenile:
+    label: Juvenile
+    color: juvenile
 
 categories:
   age-gap:
     label: Age Gap
     family: bond
+    lane: romance
     tags: [agegap, darkromance]
   arranged-marriage:
     label: Arranged Marriage
     family: bond
+    lane: romance
     tags: [arrangedmarriage, darkromance]
   bully-romance:
     label: Bully Romance
     family: passion
+    lane: romance
     tags: [bullyromance, darkromance]
   captor-and-captive:
     label: Captor & Captive
     family: bond
+    lane: romance
     tags: [captive, darkromance]
   dark-billionaire:
     label: Dark Billionaire
     family: power
+    lane: romance
     tags: [darkbillionaire, darkromance]
   dark-cowboy-romance:
     label: Dark Cowboy Romance
     family: edge
+    lane: romance
     tags: [cowboyromance, darkromance]
   dark-military-romance:
     label: Dark Military Romance
     family: power
+    lane: romance
     tags: [militaryromance, darkromance]
-  dark-thriller:
-    label: Dark Thriller
+  romantic-suspense:
+    label: Romantic Suspense
     family: edge
-    tags: [darkthriller, romantic suspense]
+    lane: romance
+    tags: [romanticsuspense, darkromance]
   enemies-to-lovers:
     label: Enemies to Lovers
     family: passion
+    lane: romance
     tags: [enemiestolovers, darkromance]
   forbidden-love:
     label: Forbidden Love
     family: passion
+    lane: romance
     tags: [forbiddenlove, darkromance]
   gothic-horror-romance:
     label: Gothic Horror Romance
     family: gothic
+    lane: romance
     tags: [gothic, horrorromance]
   mafia-boss-and-innocent:
     label: Mafia Boss & Innocent
     family: power
+    lane: romance
     tags: [mafiaromance, darkromance]
   motorcycle-club:
     label: Motorcycle Club
     family: power
+    lane: romance
     tags: [mcromance, darkromance]
   omegaverse:
     label: Omegaverse
     family: gothic
+    lane: romance
     tags: [omegaverse, darkromance]
   reverse-harem:
     label: Reverse Harem
     family: bond
+    lane: romance
     tags: [reverseharem, darkromance]
   rockstar-romance:
     label: Rockstar Romance
     family: power
+    lane: romance
     tags: [rockstarromance, darkromance]
   stalker-obsession:
     label: Stalker & Obsession
     family: passion
+    lane: romance
     tags: [stalker, obsession, darkromance]
   vampire-paranormal:
     label: Vampire & Paranormal
     family: gothic
+    lane: romance
     tags: [vampire, paranormal, darkromance]
   fantasy-romance:
     label: Fantasy Romance
     family: gothic
+    lane: romance
     tags: [fantasyromance, romantasy, darkromance]
   classic-literature:
     label: Classic Literature
-    family: edge
+    family: canon
+    lane: canon
     tags: [classic, literaryanalysis, schoolcanon]
+  literary-fiction:
+    label: Literary Fiction
+    family: canon
+    lane: canon
+    tags: [literaryfiction, literaryanalysis]
+  philosophy-criticism:
+    label: Philosophy & Criticism
+    family: canon
+    lane: canon
+    tags: [philosophy, criticism, literaryanalysis]
+  memoir-nonfiction:
+    label: Memoir & Nonfiction
+    family: canon
+    lane: canon
+    tags: [memoir, nonfiction, literaryanalysis]
+  mystery-crime:
+    label: Mystery & Crime
+    family: genre
+    lane: genre
+    tags: [mystery, crime, literaryanalysis]
+  sff:
+    label: Science Fiction & Fantasy
+    family: genre
+    lane: genre
+    tags: [sff, sciencefiction, fantasy, literaryanalysis]
+  horror:
+    label: Horror
+    family: genre
+    lane: genre
+    tags: [horror, literaryanalysis]
+  historical:
+    label: Historical Fiction
+    family: genre
+    lane: genre
+    tags: [historical, literaryanalysis]
   juvenile-fiction:
-    label: Juvenile Fiction
-    family: edge
+    label: Juvenile
+    family: juvenile
+    lane: juvenile
     tags: [juvenile, children, literaryanalysis, schoolcanon]
+  ya-fiction:
+    label: YA
+    family: juvenile
+    lane: juvenile
+    tags: [ya, youngadult, literaryanalysis]
 
 spice_levels:
   -

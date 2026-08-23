@@ -5,9 +5,9 @@ author: "Christopher Sergel"
 dek: ""
 number: R1687
 sort_key: 1687
-date: 2026-04-03
+date: 2026-06-29
 date_read: 2012-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/harper-lees-to-kill-a-mockingbird.jpg
 spice: 1
 content_warnings:

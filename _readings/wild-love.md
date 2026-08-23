@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228252.Elsie_Silver"
 dek: "Rose Hill Series — Book One"
 number: R1342
 sort_key: 1342
-date: 2025-12-16
+date: 2026-05-26
 date_read: 2025-04-04
 category: dark-cowboy-romance
 cover: /assets/readings/wild-love.jpg

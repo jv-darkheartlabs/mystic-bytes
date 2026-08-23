@@ -4,7 +4,7 @@ title: "Perplexed Pursuit"
 dek: "The riddle keeps the key — you keep digging."
 number: V0841
 sort_key: 841
-date: 2030-06-20
+date: 2026-07-09
 date_written: 2011-09-20
 category: life
 form: free-verse

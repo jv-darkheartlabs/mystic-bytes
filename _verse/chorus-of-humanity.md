@@ -4,7 +4,7 @@ title: "Chorus of Humanity"
 dek: "Difference as harmony — symphony declined."
 number: V0918
 sort_key: 918
-date: 2035-01-07
+date: 2026-08-16
 date_written: 2012-02-12
 category: justice
 form: free-verse

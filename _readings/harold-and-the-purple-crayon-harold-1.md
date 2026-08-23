@@ -5,7 +5,7 @@ author: "Crockett Johnson"
 dek: "Harold's imaginative adventures with his purple crayon."
 number: R1823
 sort_key: 1823
-date: 2026-06-06
+date: 2026-07-11
 date_read: 2026-08-16
 category: gothic-horror-romance
 cover: /assets/readings/harold-and-the-purple-crayon-harold-1.jpg

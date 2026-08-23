@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1096
 sort_key: 1096
-date: 2025-02-13
+date: 2026-04-30
 date_read: 2019-10-22
 category: bully-romance
 cover: /assets/readings/zodiac-academy-beyond-the-veil.jpg

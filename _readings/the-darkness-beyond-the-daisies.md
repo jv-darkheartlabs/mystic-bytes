@@ -4,7 +4,7 @@ title: "The Darkness Beyond the Daisies"
 dek: ""
 number: R795
 sort_key: 795
-date: 2024-02-13
+date: 2026-03-28
 date_read: 2018-06-10
 category: gothic-horror-romance
 cover: /assets/readings/the-darkness-beyond-the-daisies.jpg

@@ -5,7 +5,7 @@ author: "Tahereh Mafi"
 dek: "This Woven Kingdom — Book Three"
 number: R1466
 sort_key: 1466
-date: 2026-05-12
+date: 2026-06-09
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/all-this-twisted-glory.jpg

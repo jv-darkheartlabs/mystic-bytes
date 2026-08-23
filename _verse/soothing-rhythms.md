@@ -4,7 +4,7 @@ title: "Soothing Rhythms"
 dek: "Anxiety traded for tempo."
 number: V0423
 sort_key: 423
-date: 2026-12-11
+date: 2026-04-04
 date_written: 2008-07-22
 category: nola
 form: open

@@ -5,7 +5,7 @@ author: "Kyla Faye"
 dek: "Down We Go — Book One"
 number: R1271
 sort_key: 1271
-date: 2025-09-15
+date: 2026-05-19
 date_read: 2026-05-07
 category: gothic-horror-romance
 cover: /assets/readings/dollhouse.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18306242.Rina_Kent"
 dek: "Monster Trilogy Book Two"
 number: R064
 sort_key: 064
-date: 2021-09-15
+date: 2026-01-08
 date_read: 2019-04-04
 category: captor-and-captive
 cover: /assets/readings/lies-of-my-monster.jpg

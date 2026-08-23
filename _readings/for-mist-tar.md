@@ -5,7 +5,7 @@ author: "Jinapher J. Hoffman"
 dek: "A Wrathos Novel"
 number: R1228
 sort_key: 1228
-date: 2025-07-27
+date: 2026-05-14
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/for-mist-tar.jpg

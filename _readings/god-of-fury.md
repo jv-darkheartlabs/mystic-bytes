@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Rina_Kent"
 dek: "I'm taken by a beautiful nightmare."
 number: R322
 sort_key: 322
-date: 2022-07-13
+date: 2026-02-04
 date_read: 2025-10-22
 category: bully-romance
 cover: /assets/readings/god-of-fury.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4729143.K_A_Tucker"
 dek: ""
 number: R1232
 sort_key: 1232
-date: 2025-08-01
+date: 2026-05-14
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/a-curse-of-blood-stone.jpg

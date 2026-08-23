@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5240339.Stacey_Marie_Brown"
 dek: ""
 number: R925
 sort_key: 925
-date: 2024-07-26
+date: 2026-04-11
 date_read: 2016-10-22
 category: fantasy-romance
 cover: /assets/readings/silver-tongued-devil.jpg

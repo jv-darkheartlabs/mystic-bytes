@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Leigh_Rivers"
 dek: "The Edge of Darkness Trilogy"
 number: R252
 sort_key: 252
-date: 2022-04-24
+date: 2026-01-27
 date_read: 2015-03-01
 category: stalker-obsession
 cover: /assets/readings/insatiable.jpg

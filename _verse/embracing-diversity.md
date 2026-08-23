@@ -4,7 +4,7 @@ title: "Embracing Diversity"
 dek: "Difference as chorus — not sorting gate."
 number: V0906
 sort_key: 906
-date: 2034-01-17
+date: 2026-08-07
 date_written: 2013-03-03
 category: justice
 form: free-verse

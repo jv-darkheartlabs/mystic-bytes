@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "a novel"
 number: R857
 sort_key: 857
-date: 2024-04-28
+date: 2026-04-04
 date_read: 2020-05-07
 category: enemies-to-lovers
 cover: /assets/readings/too-hot-to-handle.jpg

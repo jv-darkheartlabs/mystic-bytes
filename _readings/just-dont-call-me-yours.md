@@ -5,7 +5,7 @@ author: "Heather Garvin"
 dek: "Sometimes it's hard to strike the right chord"
 number: R893
 sort_key: 893
-date: 2024-06-14
+date: 2026-04-08
 date_read: 2020-05-07
 category: enemies-to-lovers
 cover: /assets/readings/just-dont-call-me-yours.jpg

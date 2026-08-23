@@ -5,7 +5,7 @@ author: "Jenika Snow"
 dek: "Underworld Kings"
 number: R1285
 sort_key: 1285
-date: 2025-10-01
+date: 2026-05-20
 date_read: 2016-10-22
 category: mafia-boss-and-innocent
 cover: /assets/readings/all-the-dangerous-things.jpg

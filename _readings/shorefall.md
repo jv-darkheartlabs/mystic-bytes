@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/2917927.Robert_Jackson_Bennet
 dek: "Foundryside Book Two"
 number: R499
 sort_key: 499
-date: 2023-02-14
+date: 2026-02-23
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/shorefall.jpg

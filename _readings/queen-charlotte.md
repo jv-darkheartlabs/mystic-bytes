@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/11093.Julia_Quinn"
 dek: "Before the Bridgertons came the love story that changed the ton..."
 number: R637
 sort_key: 637
-date: 2023-08-06
+date: 2026-03-11
 date_read: 2016-10-22
 category: fantasy-romance
 cover: /assets/readings/queen-charlotte.jpg

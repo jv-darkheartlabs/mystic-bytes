@@ -4,7 +4,7 @@ title: "The Hobbit: An Unexpected Journey"
 dek: "2012 Jackson expansion of Tolkien's hobbit tale."
 number: F0037
 sort_key: 37
-date: 2026-07-11
+date: 2026-07-21
 date_watched: 2012-12-14
 year: 2012
 poster: /assets/films/the-hobbit-an-unexpected-journey-2012.jpg
@@ -28,7 +28,6 @@ category: fantasy
 format: feature-film
 fidelity: loose
 mpaa_rating: "PG-13"
-spice: 1
 content_warnings:
   - "violence"
   - "fantasy horror"
@@ -43,6 +42,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: juvenile
 ---
 
 ## Hook & thesis

@@ -5,7 +5,7 @@ author: "K.M. Moronova"
 dek: ""
 number: R1050
 sort_key: 1050
-date: 2024-12-20
+date: 2026-04-25
 date_read: 2021-09-19
 category: gothic-horror-romance
 cover: /assets/readings/the-fabric-of-our-souls.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7277544.Kerri_Maniscalco"
 dek: ""
 number: R916
 sort_key: 916
-date: 2024-07-09
+date: 2026-04-10
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/kingdom-of-the-wicked.jpg

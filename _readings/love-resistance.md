@@ -5,7 +5,7 @@ author: "Kara H.L. Chen"
 dek: ""
 number: R1037
 sort_key: 1037
-date: 2024-12-02
+date: 2026-04-24
 date_read: 2020-05-07
 category: forbidden-love
 cover: /assets/readings/love-resistance.jpg

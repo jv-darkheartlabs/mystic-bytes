@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/1077326.J_K_Rowling"
 dek: ""
 number: R943
 sort_key: 943
-date: 2024-08-12
+date: 2026-04-13
 date_read: 2005-07-20
-category: juvenile-fiction
+category: ya-fiction
 cover: /assets/readings/harry-potter-and-the-goblet-of-fire.jpg
-spice: 1
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

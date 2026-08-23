@@ -5,11 +5,10 @@ author: "Harper Lee"
 dek: ""
 number: R2257
 sort_key: 2257
-date: 2026-05-03
+date: 2026-08-08
 date_read: 1995-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/to-kill-a-mockingbird.jpg
-spice: 1
 content_warnings:
   - "racial violence"
   - "murder"

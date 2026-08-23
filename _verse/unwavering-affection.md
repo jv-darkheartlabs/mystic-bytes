@@ -4,7 +4,7 @@ title: "Unwavering Affection"
 dek: "Steady want, not steady guarantee."
 number: V0310
 sort_key: 310
-date: 2026-10-23
+date: 2026-03-01
 date_written: 2016-08-14
 category: love
 form: free-verse

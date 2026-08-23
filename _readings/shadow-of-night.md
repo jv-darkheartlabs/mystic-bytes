@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3849412.Deborah_Harkness"
 dek: ""
 number: R1077
 sort_key: 1077
-date: 2025-01-20
+date: 2026-04-28
 date_read: 2024-09-19
 category: vampire-paranormal
 cover: /assets/readings/shadow-of-night.jpg

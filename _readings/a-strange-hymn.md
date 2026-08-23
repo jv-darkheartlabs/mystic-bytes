@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7160843.Laura_Thalassa"
 dek: "The Bargainer Series Book Two"
 number: R1158
 sort_key: 1158
-date: 2025-05-06
+date: 2026-05-07
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/a-strange-hymn.jpg

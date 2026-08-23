@@ -5,7 +5,7 @@ author: "Lynette Noni"
 dek: "The Prison Healer — Book Two"
 number: R1336
 sort_key: 1336
-date: 2025-12-04
+date: 2026-05-25
 date_read: 2019-07-13
 category: captor-and-captive
 cover: /assets/readings/the-gilded-cage.jpg

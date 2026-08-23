@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book Three of the Tawny Man Trilogy"
 number: R591
 sort_key: 591
-date: 2023-06-13
+date: 2026-03-06
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/fools-fate.jpg

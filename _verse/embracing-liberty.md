@@ -4,7 +4,7 @@ title: "Embracing Liberty"
 dek: "Freedom as posture — prosperity not promised."
 number: V0907
 sort_key: 907
-date: 2034-02-21
+date: 2026-08-08
 date_written: 2008-04-28
 category: justice
 form: free-verse

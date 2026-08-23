@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120153.Baoshu"
 dek: "A Three-Body Problem Novel"
 number: R593
 sort_key: 593
-date: 2023-06-13
+date: 2026-03-06
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/the-redemption-of-time.jpg

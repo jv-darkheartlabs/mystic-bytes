@@ -4,7 +4,7 @@ title: "Power of Colors"
 dek: "Hue as emotion with evidence."
 number: V0529
 sort_key: 529
-date: 2027-02-11
+date: 2026-05-17
 date_written: 1994-02-14
 category: nature
 form: free-verse

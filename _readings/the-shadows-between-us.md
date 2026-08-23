@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6572600.Tricia_Levenseller"
 dek: ""
 number: R1182
 sort_key: 1182
-date: 2025-05-30
+date: 2026-05-09
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/the-shadows-between-us.jpg

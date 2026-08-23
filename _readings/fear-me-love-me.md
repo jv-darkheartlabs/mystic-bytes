@@ -5,7 +5,7 @@ author: "Lilith Vincent"
 dek: "I'm only allowed to bleed for him..."
 number: R067
 sort_key: 067
-date: 2021-09-20
+date: 2026-01-08
 date_read: 2022-07-13
 category: captor-and-captive
 cover: /assets/readings/fear-me-love-me.jpg

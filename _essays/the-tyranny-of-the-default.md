@@ -8,9 +8,9 @@ date: 2026-01-10
 cover: /assets/images/cover-code.svg
 type: pillar
 brief:
-  system: accessibility-rails-components and mystic-bytes theme defaults
-  issue: inherited "outline: none" and telemetry-on snippets ship as policy
-  constraint: blast radius inside the component or layout; no breaking API for embed consumers
+  system: "accessibility-rails-components and mystic-bytes theme defaults"
+  issue: 'inherited "outline: none" and telemetry-on snippets ship as policy'
+  constraint: "blast radius inside the component or layout; no breaking API for embed consumers"
 ---
 
 ## Thesis

@@ -5,7 +5,7 @@ author: "Atley Wykes"
 dek: "Sands of Maioris — Book 1"
 number: R1432
 sort_key: 1432
-date: 2026-04-05
+date: 2026-06-05
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/to-bind-a-dark-heart.jpg

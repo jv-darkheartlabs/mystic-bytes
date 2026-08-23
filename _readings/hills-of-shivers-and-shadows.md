@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6888929.Pam_Godwin"
 dek: "a dark romance"
 number: R082
 sort_key: 082
-date: 2021-10-09
+date: 2026-01-10
 date_read: 2025-04-04
 category: captor-and-captive
 cover: /assets/readings/hills-of-shivers-and-shadows.jpg

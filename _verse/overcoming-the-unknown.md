@@ -4,7 +4,7 @@ title: "Overcoming the Unknown"
 dek: "Fear as weather — bravery as continuation."
 number: V0840
 sort_key: 840
-date: 2030-05-16
+date: 2026-07-08
 date_written: 2009-07-26
 category: life
 form: free-verse

@@ -5,7 +5,7 @@ author: "Tillie Cole"
 dek: "USA Today Bestselling Author"
 number: R1256
 sort_key: 1256
-date: 2025-08-27
+date: 2026-05-17
 date_read: 2023-08-16
 category: forbidden-love
 cover: /assets/readings/sick-fux.jpg

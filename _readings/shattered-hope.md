@@ -5,9 +5,9 @@ author: "Karin Winter"
 dek: "Shattered Duet — Book One"
 number: R1349
 sort_key: 1349
-date: 2025-12-20
+date: 2026-05-27
 date_read: 2014-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/shattered-hope.jpg
 spice: 4
 content_warnings:

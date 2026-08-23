@@ -4,7 +4,7 @@ title: "Shifting View"
 dek: "Perspective as lens — not symphony."
 number: V0846
 sort_key: 846
-date: 2030-11-09
+date: 2026-07-12
 date_written: 2008-02-07
 category: life
 form: free-verse

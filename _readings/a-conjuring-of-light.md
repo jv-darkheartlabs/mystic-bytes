@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166830.V_E_Schwab"
 dek: "A Novel"
 number: R589
 sort_key: 589
-date: 2023-06-06
+date: 2026-03-05
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/a-conjuring-of-light.jpg

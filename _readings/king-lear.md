@@ -5,11 +5,10 @@ author: "William Shakespeare"
 dek: "A tragic tale of power, betrayal, and madness."
 number: R1841
 sort_key: 1841
-date: 2026-05-19
+date: 2026-07-13
 date_read: 1996-05-15
 category: classic-literature
 cover: /assets/readings/king-lear.jpg
-spice: 2
 content_warnings:
   - "betrayal"
   - "madness"

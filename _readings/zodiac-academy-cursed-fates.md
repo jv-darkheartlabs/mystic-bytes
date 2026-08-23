@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: "A Solaria Novel"
 number: R1097
 sort_key: 1097
-date: 2025-02-16
+date: 2026-04-30
 date_read: 2020-11-25
 category: bully-romance
 cover: /assets/readings/zodiac-academy-cursed-fates.jpg

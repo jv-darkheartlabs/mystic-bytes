@@ -5,7 +5,7 @@ author: "Jennifer Hartmann"
 dek: "USA Today Bestselling Author"
 number: R066
 sort_key: 066
-date: 2021-09-17
+date: 2026-01-08
 date_read: 2021-06-10
 category: captor-and-captive
 cover: /assets/readings/still-beating.jpg

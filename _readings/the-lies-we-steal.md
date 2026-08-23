@@ -5,7 +5,7 @@ author: "Monty Jay"
 dek: "She can run but she can't hide."
 number: R246
 sort_key: 246
-date: 2022-04-12
+date: 2026-01-27
 date_read: 2021-06-10
 category: stalker-obsession
 cover: /assets/readings/the-lies-we-steal.jpg

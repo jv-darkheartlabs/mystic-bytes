@@ -5,11 +5,10 @@ author: "Dr. Seuss"
 dek: ""
 number: R1623
 sort_key: 1623
-date: 2026-06-06
+date: 2026-06-23
 date_read: 2018-06-10
-category: gothic-horror-romance
+category: juvenile-fiction
 cover: /assets/readings/how-the-grinch-stole-christmas.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

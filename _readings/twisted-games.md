@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228248.Ana_Huang"
 dek: "He can't have her... but he's taking her anyway"
 number: R1479
 sort_key: 1479
-date: 2026-05-28
+date: 2026-06-10
 date_read: 2018-06-10
 category: forbidden-love
 cover: /assets/readings/twisted-games.jpg

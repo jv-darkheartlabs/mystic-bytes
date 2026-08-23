@@ -4,7 +4,7 @@ title: "Unleashing Potential"
 dek: "Dream as leap — shadows included."
 number: V0876
 sort_key: 876
-date: 2033-05-15
+date: 2026-08-02
 date_written: 2004-02-27
 category: life
 form: free-verse

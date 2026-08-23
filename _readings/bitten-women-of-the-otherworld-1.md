@@ -5,7 +5,7 @@ author: "Kelley Armstrong"
 dek: "Women of the Otherworld Series"
 number: R1660
 sort_key: 1660
-date: 2026-04-30
+date: 2026-06-27
 date_read: 2019-07-13
 category: vampire-paranormal
 cover: /assets/readings/bitten-women-of-the-otherworld-1.jpg

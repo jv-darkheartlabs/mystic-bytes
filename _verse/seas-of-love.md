@@ -4,7 +4,7 @@ title: "Seas of Love"
 dek: "Romance as navigation without the cruise brochure."
 number: V0314
 sort_key: 314
-date: 2026-10-27
+date: 2026-03-04
 date_written: 2020-07-07
 category: love
 form: free-verse

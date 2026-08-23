@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17138508.Angel_Lawson"
 dek: "Dukes of Forsyth"
 number: R037
 sort_key: 037
-date: 2021-08-16
+date: 2026-01-05
 date_read: 2016-04-04
 category: bully-romance
 cover: /assets/readings/saint-nick.jpg

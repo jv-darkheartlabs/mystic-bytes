@@ -5,7 +5,7 @@ author: "Rina Kent"
 dek: "Legacy of Gods"
 number: R823
 sort_key: 823
-date: 2024-03-20
+date: 2026-03-31
 date_read: 2022-07-13
 category: bully-romance
 cover: /assets/readings/god-of-pain.jpg

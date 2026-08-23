@@ -5,11 +5,10 @@ author: "Friedrich Nietzsche"
 dek: ""
 number: R2077
 sort_key: 2077
-date: 2026-04-13
+date: 2026-07-29
 date_read: 2012-10-22
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-will-to-power.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

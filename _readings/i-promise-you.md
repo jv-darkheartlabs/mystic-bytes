@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "Dare Series Book Two"
 number: R014
 sort_key: 014
-date: 2021-07-15
+date: 2026-01-03
 date_read: 2017-08-16
 category: bully-romance
 cover: /assets/readings/i-promise-you.jpg

@@ -5,7 +5,7 @@ author: "Callie Rose"
 dek: "Ruthless Hearts Book 3"
 number: R1321
 sort_key: 1321
-date: 2025-11-16
+date: 2026-05-24
 date_read: 2016-10-22
 category: stalker-obsession
 cover: /assets/readings/pretty-dark-vows.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Opal_Reyne"
 dek: ""
 number: R988
 sort_key: 988
-date: 2024-10-08
+date: 2026-04-18
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/a-soul-to-heal.jpg

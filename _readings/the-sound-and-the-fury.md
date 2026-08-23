@@ -5,11 +5,10 @@ author: "William Faulkner"
 dek: "A Southern Gothic tale of a family's decline and the complexities of time and memory."
 number: R2253
 sort_key: 2253
-date: 2026-05-07
+date: 2026-08-08
 date_read: 2024-06-10
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-sound-and-the-fury.jpg
-spice: 2
 content_warnings:
   - "mental illness"
   - "suicide"

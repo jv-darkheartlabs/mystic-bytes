@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228252.Elsie_Silver"
 dek: "My contract is for two months . . . But, my heart says this is forever."
 number: R1338
 sort_key: 1338
-date: 2025-12-09
+date: 2026-05-26
 date_read: 2021-09-19
 category: dark-cowboy-romance
 cover: /assets/readings/heartless.jpg

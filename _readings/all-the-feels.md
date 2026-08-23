@@ -5,7 +5,7 @@ author: "Olivia Dade"
 dek: "A Novel"
 number: R886
 sort_key: 886
-date: 2024-06-06
+date: 2026-04-07
 date_read: 2025-07-13
 category: enemies-to-lovers
 cover: /assets/readings/all-the-feels.jpg

@@ -5,9 +5,9 @@ author: "Beverly Cleary"
 dek: "Henry Huggins Series"
 number: R1703
 sort_key: 1703
-date: 2026-06-26
+date: 2026-07-01
 date_read: 2008-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/henry-huggins-henry-huggins-1.jpg
 spice: 1
 content_warnings:

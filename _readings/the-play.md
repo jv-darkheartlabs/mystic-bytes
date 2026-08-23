@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166897.Elle_Kennedy"
 dek: "She's the player he never saw coming."
 number: R446
 sort_key: 446
-date: 2022-12-17
+date: 2026-02-18
 date_read: 2017-08-16
 category: enemies-to-lovers
 cover: /assets/readings/the-play.jpg

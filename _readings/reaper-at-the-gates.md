@@ -5,7 +5,7 @@ author: "Sabaa Tahir"
 dek: "An Ember in the Ashes — Book Three"
 number: R1420
 sort_key: 1420
-date: 2026-03-16
+date: 2026-06-04
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/reaper-at-the-gates.jpg

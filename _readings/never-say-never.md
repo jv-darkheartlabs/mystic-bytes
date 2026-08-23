@@ -5,9 +5,9 @@ author: "Brea Alepou & Skyler Snow"
 dek: ""
 number: R1519
 sort_key: 1519
-date: 2026-06-28
+date: 2026-06-14
 date_read: 2014-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/never-say-never.jpg
 spice: 4
 content_warnings:

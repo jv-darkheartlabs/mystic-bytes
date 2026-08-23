@@ -5,9 +5,9 @@ author: "Antoine de Saint-Exupéry"
 dek: ""
 number: R1607
 sort_key: 1607
-date: 2026-06-22
+date: 2026-06-21
 date_read: 2012-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/wind-sand-and-stars.jpg
 spice: 1
 content_warnings:

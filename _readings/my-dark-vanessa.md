@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18318182.Kate_Elizabeth_Russe
 dek: "a novel"
 number: R137
 sort_key: 137
-date: 2021-12-07
+date: 2026-01-15
 date_read: 2020-05-07
 category: forbidden-love
 cover: /assets/readings/my-dark-vanessa.jpg

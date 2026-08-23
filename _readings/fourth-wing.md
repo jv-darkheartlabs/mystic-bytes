@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/2973979.Rebecca_Yarros"
 dek: "Fly… or die."
 number: R312
 sort_key: 312
-date: 2022-07-03
+date: 2026-02-03
 date_read: 2024-06-15
 category: fantasy-romance
 cover: /assets/readings/fourth-wing.jpg

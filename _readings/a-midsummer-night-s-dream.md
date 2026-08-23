@@ -5,11 +5,10 @@ author: "William Shakespeare"
 dek: "A whimsical tale of love and magic in a forest of dreams."
 number: R1595
 sort_key: 1595
-date: 2026-07-04
+date: 2026-06-20
 date_read: 1996-05-15
 category: classic-literature
 cover: /assets/readings/a-midsummer-night-s-dream.jpg
-spice: 1
 content_warnings:
 tags:
   - classic

@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #20"
 number: R2341
 sort_key: 2341
-date: 2026-04-30
+date: 2026-08-18
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-20-the-clue-in-the-jewel-box.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

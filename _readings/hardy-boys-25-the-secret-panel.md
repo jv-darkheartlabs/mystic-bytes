@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #25"
 number: R2288
 sort_key: 2288
-date: 2026-06-22
+date: 2026-08-12
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-25-the-secret-panel.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

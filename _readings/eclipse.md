@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/94137.Stephenie_Meyer"
 dek: ""
 number: R1071
 sort_key: 1071
-date: 2025-01-21
+date: 2026-04-27
 date_read: 2018-03-01
 category: vampire-paranormal
 cover: /assets/readings/eclipse.jpg

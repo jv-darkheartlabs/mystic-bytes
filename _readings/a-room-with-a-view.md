@@ -5,7 +5,7 @@ author: "E.M. Forster"
 dek: ""
 number: R1855
 sort_key: 1855
-date: 2026-05-05
+date: 2026-07-14
 date_read: 2022-04-04
 category: gothic-horror-romance
 cover: /assets/readings/a-room-with-a-view.jpg

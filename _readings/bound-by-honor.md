@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6518850.Cora_Reilly"
 dek: ""
 number: R1082
 sort_key: 1082
-date: 2025-01-29
+date: 2026-04-29
 date_read: 2017-05-07
 category: arranged-marriage
 cover: /assets/readings/bound-by-honor.jpg

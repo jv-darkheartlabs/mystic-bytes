@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin"
 dek: ""
 number: R495
 sort_key: 495
-date: 2023-02-10
+date: 2026-02-23
 date_read: 2018-03-01
-category: fantasy-romance
+category: sff
 cover: /assets/readings/a-wizard-of-earthsea.jpg
-spice: 2
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

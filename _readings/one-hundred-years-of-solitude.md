@@ -5,7 +5,7 @@ author: "Gabriel García Márquez"
 dek: "A multi-generational tale of the Buendía family in the fictional town of Macondo."
 number: R1859
 sort_key: 1859
-date: 2026-05-01
+date: 2026-07-15
 date_read: 2026-08-16
 category: gothic-horror-romance
 cover: /assets/readings/one-hundred-years-of-solitude.jpg

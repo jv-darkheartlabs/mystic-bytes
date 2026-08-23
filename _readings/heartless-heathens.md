@@ -5,7 +5,7 @@ author: "Santana Knox"
 dek: "A dark romance / A dark new adult"
 number: R1298
 sort_key: 1298
-date: 2025-10-22
+date: 2026-05-21
 date_read: 2017-05-07
 category: reverse-harem
 cover: /assets/readings/heartless-heathens.jpg

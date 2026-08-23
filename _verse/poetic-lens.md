@@ -4,7 +4,7 @@ title: "Poetic Lens"
 dek: "Sight as city argument."
 number: V0437
 sort_key: 437
-date: 2026-12-25
+date: 2026-04-14
 date_written: 2007-03-03
 category: nola
 form: open

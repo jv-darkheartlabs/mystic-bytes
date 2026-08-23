@@ -5,7 +5,7 @@ author: "Meghan Quinn"
 dek: ""
 number: R473
 sort_key: 473
-date: 2023-01-20
+date: 2026-02-21
 date_read: 2020-08-16
 category: enemies-to-lovers
 cover: /assets/readings/vacation-wars.jpg

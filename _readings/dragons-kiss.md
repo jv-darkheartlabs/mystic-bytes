@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.E_A_Winters"
 dek: "The Blood and Flame Saga"
 number: R528
 sort_key: 528
-date: 2023-03-23
+date: 2026-02-27
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/dragons-kiss.jpg

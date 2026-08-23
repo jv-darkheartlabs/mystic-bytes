@@ -4,7 +4,7 @@ title: "Underworld Light"
 dek: "Alternate rewrite. Canonical on-site: torch-at-the-crossroads."
 number: V0101
 sort_key: 101
-date: 2026-08-03
+date: 2026-01-05
 date_written: 2001-09-18
 category: spirituality
 form: free-verse

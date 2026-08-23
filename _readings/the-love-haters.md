@@ -5,7 +5,7 @@ author: "Katherine Center"
 dek: ""
 number: R888
 sort_key: 888
-date: 2024-06-10
+date: 2026-04-07
 date_read: 2015-09-19
 category: enemies-to-lovers
 cover: /assets/readings/the-love-haters.jpg

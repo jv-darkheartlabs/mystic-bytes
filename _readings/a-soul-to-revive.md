@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Opal_Reyne"
 dek: ""
 number: R1002
 sort_key: 1002
-date: 2024-10-23
+date: 2026-04-20
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/a-soul-to-revive.jpg

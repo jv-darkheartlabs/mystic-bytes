@@ -4,7 +4,7 @@ title: "Power of Gratitude"
 dek: "Thanks without amnesia."
 number: V0123
 sort_key: 123
-date: 2026-08-25
+date: 2026-01-21
 date_written: 2000-12-01
 category: spirituality
 form: free-verse

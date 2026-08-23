@@ -5,9 +5,9 @@ author: "Mark Manson"
 dek: ""
 number: R1751
 sort_key: 1751
-date: 2026-05-09
+date: 2026-07-06
 date_read: 2006-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-living-a-good.jpg
 spice: 1
 content_warnings:

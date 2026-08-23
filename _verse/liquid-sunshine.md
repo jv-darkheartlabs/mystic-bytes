@@ -4,7 +4,7 @@ title: "Liquid Sunshine"
 dek: "Rain wearing sun's alias."
 number: V0532
 sort_key: 532
-date: 2027-02-14
+date: 2026-05-19
 date_written: 1992-10-30
 category: nature
 form: free-verse

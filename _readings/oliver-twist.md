@@ -5,11 +5,10 @@ author: "Charles Dickens"
 dek: ""
 number: R2152
 sort_key: 2152
-date: 2026-05-08
+date: 2026-08-01
 date_read: 2019-04-04
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/oliver-twist.jpg
-spice: 1
 content_warnings:
   - "abuse"
   - "poverty"

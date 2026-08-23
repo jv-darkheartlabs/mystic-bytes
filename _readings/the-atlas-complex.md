@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21230708.Olivie_Blake"
 dek: "Power is taken"
 number: R582
 sort_key: 582
-date: 2023-05-30
+date: 2026-03-05
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/the-atlas-complex.jpg

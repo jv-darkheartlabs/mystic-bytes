@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "New York Times Bestselling Author"
 number: R1300
 sort_key: 1300
-date: 2025-10-19
+date: 2026-05-22
 date_read: 2019-07-13
 category: reverse-harem
 cover: /assets/readings/broderick.jpg

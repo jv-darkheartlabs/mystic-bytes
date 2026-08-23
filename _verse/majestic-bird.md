@@ -4,7 +4,7 @@ title: "Majestic Bird"
 dek: "Flight as lesson without poster."
 number: V0509
 sort_key: 509
-date: 2027-01-22
+date: 2026-05-03
 date_written: 1993-02-27
 category: nature
 form: free-verse

@@ -5,9 +5,9 @@ author: "Veronica Roth"
 dek: "A deep dive into the world of Divergent"
 number: R1766
 sort_key: 1766
-date: 2026-04-24
+date: 2026-07-07
 date_read: 2011-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/inside-divergent-the-initiates-world.jpg
 spice: 2
 content_warnings:

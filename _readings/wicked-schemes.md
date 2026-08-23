@@ -5,7 +5,7 @@ author: "Amy Oliveira & Santana Knox"
 dek: "A Monster Romance"
 number: R1296
 sort_key: 1296
-date: 2025-10-19
+date: 2026-05-21
 date_read: 2015-03-01
 category: reverse-harem
 cover: /assets/readings/wicked-schemes.jpg

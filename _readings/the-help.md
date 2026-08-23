@@ -5,11 +5,10 @@ author: "Kathryn Stockett"
 dek: ""
 number: R2251
 sort_key: 2251
-date: 2026-05-09
+date: 2026-08-08
 date_read: 2011-06-20
-category: dark-thriller
+category: historical
 cover: /assets/readings/the-help.jpg
-spice: 2
 content_warnings:
   - "racism"
   - "violence"

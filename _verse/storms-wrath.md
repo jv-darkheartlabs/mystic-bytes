@@ -4,7 +4,7 @@ title: "Storm's Wrath"
 dek: "Wrath as weather grammar."
 number: V0512
 sort_key: 512
-date: 2027-01-25
+date: 2026-05-05
 date_written: 1992-09-14
 category: nature
 form: free-verse

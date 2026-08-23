@@ -5,7 +5,7 @@ author: "Holly Renee"
 dek: ""
 number: R964
 sort_key: 964
-date: 2024-09-11
+date: 2026-04-16
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/the-hunted-heir.jpg

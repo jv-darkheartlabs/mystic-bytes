@@ -5,7 +5,7 @@ author: "Greer Rivers"
 dek: "A Tattered Curtain Novel"
 number: R1107
 sort_key: 1107
-date: 2025-02-25
+date: 2026-05-01
 date_read: 2018-03-01
 category: dark-billionaire
 cover: /assets/readings/rouge.jpg

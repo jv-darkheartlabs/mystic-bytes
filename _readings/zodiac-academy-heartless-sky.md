@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: "Supernatural Bullies & Beasts Book 7"
 number: R1101
 sort_key: 1101
-date: 2025-02-21
+date: 2026-05-01
 date_read: 2024-06-10
 category: bully-romance
 cover: /assets/readings/zodiac-academy-heartless-sky.jpg

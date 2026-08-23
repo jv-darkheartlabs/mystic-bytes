@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25422.Holly_Black"
 dek: ""
 number: R1159
 sort_key: 1159
-date: 2025-05-06
+date: 2026-05-07
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/the-queen-of-nothing.jpg

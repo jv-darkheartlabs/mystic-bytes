@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Ariel_N_Anderson"
 dek: "A Dark Romance Novel"
 number: R171
 sort_key: 171
-date: 2022-01-22
+date: 2026-01-19
 date_read: 2018-03-01
 category: mafia-boss-and-innocent
 cover: /assets/readings/under-your-scars.jpg

@@ -5,7 +5,7 @@ author: "Kathryn Ann Kingsley"
 dek: "Harrow Faire Series"
 number: R1555
 sort_key: 1555
-date: 2026-05-23
+date: 2026-06-17
 date_read: 2021-10-12
 category: gothic-horror-romance
 cover: /assets/readings/the-contortionist-harrow-faire-1.jpg

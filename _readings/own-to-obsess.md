@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15143324.Zoey_Ellis"
 dek: "Myth of Omega: Own — Book 2"
 number: R234
 sort_key: 234
-date: 2022-04-03
+date: 2026-01-26
 date_read: 2021-03-01
 category: stalker-obsession
 cover: /assets/readings/own-to-obsess.jpg

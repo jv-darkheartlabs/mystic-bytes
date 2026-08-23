@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3101342.Lexi_Ryan"
 dek: ""
 number: R1178
 sort_key: 1178
-date: 2025-05-29
+date: 2026-05-08
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/these-hollow-vows.jpg

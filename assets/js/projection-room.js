@@ -24,6 +24,9 @@
 
   function cardMatchesFilter(card) {
     if (activeFilter === "all") return true;
+    if (activeFilter.indexOf("lane:") === 0) {
+      return card.getAttribute("data-lane") === activeFilter.slice(5);
+    }
     return (
       card.getAttribute("data-category") === activeFilter ||
       card.getAttribute("data-format") === activeFilter ||

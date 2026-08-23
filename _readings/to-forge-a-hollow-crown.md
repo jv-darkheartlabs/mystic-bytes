@@ -5,7 +5,7 @@ author: "Atley Wykes"
 dek: "Sands of Maioris — Book 1"
 number: R1447
 sort_key: 1447
-date: 2026-04-23
+date: 2026-06-07
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/to-forge-a-hollow-crown.jpg

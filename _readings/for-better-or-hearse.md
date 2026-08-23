@@ -5,7 +5,7 @@ author: "Ava Hunter"
 dek: ""
 number: R1052
 sort_key: 1052
-date: 2024-12-23
+date: 2026-04-25
 date_read: 2023-11-25
 category: gothic-horror-romance
 cover: /assets/readings/for-better-or-hearse.jpg

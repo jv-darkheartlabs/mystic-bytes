@@ -5,11 +5,10 @@ author: "Friedrich Nietzsche"
 dek: ""
 number: R2078
 sort_key: 2078
-date: 2026-04-12
+date: 2026-07-29
 date_read: 2013-11-25
-category: dark-thriller
+category: philosophy-criticism
 cover: /assets/readings/the-nietzsche-reader.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

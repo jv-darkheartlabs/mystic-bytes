@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5830526.Samantha_Shannon"
 dek: "The Bone Season Book Four"
 number: R487
 sort_key: 487
-date: 2023-02-05
+date: 2026-02-22
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/the-mask-falling.jpg

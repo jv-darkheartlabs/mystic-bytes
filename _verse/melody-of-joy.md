@@ -4,7 +4,7 @@ title: "Melody of Joy"
 dek: "Bliss with brass accounting."
 number: V0421
 sort_key: 421
-date: 2026-12-09
+date: 2026-04-03
 date_written: 2007-05-01
 category: nola
 form: open

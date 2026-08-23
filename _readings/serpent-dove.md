@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18167546.Shelby_Mahurin"
 dek: "A brilliant debut. Full of everything I love. — Sarah J. Maas"
 number: R442
 sort_key: 442
-date: 2022-12-08
+date: 2026-02-17
 date_read: 2025-04-04
 category: enemies-to-lovers
 cover: /assets/readings/serpent-dove.jpg

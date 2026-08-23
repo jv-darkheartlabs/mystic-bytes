@@ -5,7 +5,7 @@ author: "Eliza Raine"
 dek: ""
 number: R981
 sort_key: 981
-date: 2024-10-02
+date: 2026-04-17
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/of-frost-and-feather.jpg

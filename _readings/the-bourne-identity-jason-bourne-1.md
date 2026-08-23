@@ -5,9 +5,9 @@ author: "Robert Ludlum"
 dek: "Jason Bourne Series"
 number: R2177
 sort_key: 2177
-date: 2026-04-13
+date: 2026-08-04
 date_read: 2012-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-bourne-identity-jason-bourne-1.jpg
 spice: 1
 content_warnings:

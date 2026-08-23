@@ -4,7 +4,7 @@ title: "Joy and Harmony"
 dek: "Music as temporary treaty."
 number: V0333
 sort_key: 333
-date: 2026-11-15
+date: 2026-03-17
 date_written: 2019-07-14
 category: love
 form: free-verse

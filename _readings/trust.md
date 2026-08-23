@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18222708.Hernan_Diaz"
 dek: "A Novel"
 number: R436
 sort_key: 436
-date: 2022-11-28
+date: 2026-02-17
 date_read: 2011-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/trust.jpg
 spice: 1
 content_warnings:

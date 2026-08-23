@@ -4,7 +4,7 @@ title: "Embracing Challenges"
 dek: "Obstacles as river logic."
 number: V0429
 sort_key: 429
-date: 2026-12-17
+date: 2026-04-08
 date_written: 2008-03-14
 category: nola
 form: open

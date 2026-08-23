@@ -5,7 +5,7 @@ author: "Stephen  King"
 dek: ""
 number: R1929
 sort_key: 1929
-date: 2026-05-31
+date: 2026-07-21
 date_read: 2024-06-10
 category: gothic-horror-romance
 cover: /assets/readings/children-of-the-corn.jpg

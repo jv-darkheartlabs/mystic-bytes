@@ -2,7 +2,7 @@
   "nancy-drew": {
     "label": "Nancy Drew Mystery Stories",
     "author": "Carolyn Keene",
-    "category": "dark-thriller",
+    "category": "juvenile-fiction",
     "spice": 1,
     "tags": ["nancydrew", "classicmystery", "juvenilemystery", "series-collection", "literaryanalysis"],
     "content_warnings": [],
@@ -78,7 +78,7 @@
   "hardy-boys": {
     "label": "Hardy Boys Mystery Stories",
     "author": "Franklin W. Dixon",
-    "category": "dark-thriller",
+    "category": "juvenile-fiction",
     "spice": 1,
     "tags": ["hardyboys", "classicmystery", "juvenilemystery", "series-collection", "literaryanalysis"],
     "content_warnings": [],

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21175647.Cassia_Quinn"
 dek: "He needs a fake wife. Why not blackmail her into being his fiancée?"
 number: R004
 sort_key: 004
-date: 2021-07-05
+date: 2026-01-02
 date_read: 2019-07-13
 category: arranged-marriage
 cover: /assets/readings/forever-fake.jpg

@@ -5,7 +5,7 @@ author: "Caroline Peckham & Susanne Valenti"
 dek: "Die Brutalen Jungs der Everlake Prep Buch 1"
 number: R041
 sort_key: 041
-date: 2021-08-15
+date: 2026-01-05
 date_read: 2020-08-16
 category: bully-romance
 cover: /assets/readings/kings-of-quarantine.jpg

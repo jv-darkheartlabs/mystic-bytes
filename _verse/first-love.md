@@ -4,7 +4,7 @@ title: "First Love"
 dek: "Beauty without the brand-new soul brochure."
 number: V0317
 sort_key: 317
-date: 2026-10-30
+date: 2026-03-06
 date_written: 2015-09-14
 category: love
 form: free-verse

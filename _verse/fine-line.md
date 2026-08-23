@@ -4,7 +4,7 @@ title: "Fine Line"
 dek: "Pride and arrogance — one fence, two sides."
 number: V0856
 sort_key: 856
-date: 2031-09-21
+date: 2026-07-19
 date_written: 2009-11-15
 category: life
 form: free-verse

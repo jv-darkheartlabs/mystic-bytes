@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18146740.Erin_A_Craig"
 dek: "The New York Times Bestseller"
 number: R1274
 sort_key: 1274
-date: 2025-09-18
+date: 2026-05-19
 date_read: 2017-08-16
 category: gothic-horror-romance
 cover: /assets/readings/house-of-salt-and-sorrows.jpg

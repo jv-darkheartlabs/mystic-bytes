@@ -5,7 +5,7 @@ author: "Dana Isaly"
 dek: ""
 number: R1268
 sort_key: 1268
-date: 2025-09-18
+date: 2026-05-18
 date_read: 2023-11-25
 category: gothic-horror-romance
 cover: /assets/readings/rune.jpg

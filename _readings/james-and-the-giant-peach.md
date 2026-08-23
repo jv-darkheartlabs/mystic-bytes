@@ -5,11 +5,10 @@ author: "Roald Dahl"
 dek: ""
 number: R1811
 sort_key: 1811
-date: 2026-06-18
+date: 2026-07-10
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/james-and-the-giant-peach.jpg
-spice: 1
 content_warnings:
 tags:
   - children's literature

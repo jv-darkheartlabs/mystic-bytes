@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8573512.Pam_Godwin"
 dek: "I'm his Ivory, and he's... my darkest note."
 number: R142
 sort_key: 142
-date: 2021-12-17
+date: 2026-01-16
 date_read: 2025-10-22
 category: forbidden-love
 cover: /assets/readings/dark-notes.jpg

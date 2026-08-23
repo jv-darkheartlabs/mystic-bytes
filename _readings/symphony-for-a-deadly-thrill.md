@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8123794.E_J_Mellow"
 dek: ""
 number: R1045
 sort_key: 1045
-date: 2024-12-17
+date: 2026-04-24
 date_read: 2016-04-04
 category: gothic-horror-romance
 cover: /assets/readings/symphony-for-a-deadly-thrill.jpg

@@ -4,7 +4,7 @@ title: "Beauty in Flaws"
 dek: "Imperfection as signature, not sentence."
 number: V0824
 sort_key: 824
-date: 2029-01-10
+date: 2026-06-27
 date_written: 2015-05-26
 category: life
 form: free-verse

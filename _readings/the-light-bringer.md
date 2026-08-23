@@ -5,7 +5,7 @@ author: "Janie Marie"
 dek: "Gods & Monsters — Book Three"
 number: R1496
 sort_key: 1496
-date: 2026-06-18
+date: 2026-06-12
 date_read: 2023-05-07
 category: gothic-horror-romance
 cover: /assets/readings/the-light-bringer.jpg

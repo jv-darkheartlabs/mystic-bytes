@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4729143.K_A_Tucker"
 dek: ""
 number: R1239
 sort_key: 1239
-date: 2025-08-12
+date: 2026-05-15
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/a-queen-of-thieves-chaos.jpg

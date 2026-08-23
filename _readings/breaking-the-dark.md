@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7443.Lisa_Jewell"
 dek: "A Jessica Jones Marvel Crime Novel"
 number: R388
 sort_key: 388
-date: 2022-10-06
+date: 2026-02-11
 date_read: 2013-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/breaking-the-dark.jpg
 spice: 2
 content_warnings:

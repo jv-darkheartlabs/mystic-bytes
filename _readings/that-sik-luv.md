@@ -5,7 +5,7 @@ author: "Jescie Hall"
 dek: ""
 number: R218
 sort_key: 218
-date: 2022-03-16
+date: 2026-01-24
 date_read: 2017-05-07
 category: stalker-obsession
 cover: /assets/readings/that-sik-luv.jpg

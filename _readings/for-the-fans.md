@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Nyla_K"
 dek: "Everything we do is..."
 number: R204
 sort_key: 204
-date: 2022-03-01
+date: 2026-01-22
 date_read: 2015-09-19
 category: rockstar-romance
 cover: /assets/readings/for-the-fans.jpg

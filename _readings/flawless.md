@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228252.Elsie_Silver"
 dek: "She says this means nothing... I say this means everything."
 number: R334
 sort_key: 334
-date: 2022-07-28
+date: 2026-02-05
 date_read: 2025-04-04
 category: dark-cowboy-romance
 cover: /assets/readings/flawless.jpg

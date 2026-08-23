@@ -5,11 +5,10 @@ author: "Lewis Carroll"
 dek: ""
 number: R1620
 sort_key: 1620
-date: 2026-06-09
+date: 2026-06-23
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/alice-s-adventures-in-wonderland-through-the-looking-glass.jpg
-spice: 1
 content_warnings:
 tags:
   - classic

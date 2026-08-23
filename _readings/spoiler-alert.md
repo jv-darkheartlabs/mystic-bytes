@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228258.Olivia_Dade"
 dek: "A Novel"
 number: R1365
 sort_key: 1365
-date: 2026-01-10
+date: 2026-05-29
 date_read: 2024-09-19
 category: enemies-to-lovers
 cover: /assets/readings/spoiler-alert.jpg

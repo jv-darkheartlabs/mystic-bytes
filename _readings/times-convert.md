@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/3849412.Deborah_Harkness"
 dek: ""
 number: R1079
 sort_key: 1079
-date: 2025-01-23
-date_read: 2026-11-25
+date: 2026-04-28
+date_read: 2026-08-23
 category: vampire-paranormal
 cover: /assets/readings/times-convert.jpg
 spice: 3

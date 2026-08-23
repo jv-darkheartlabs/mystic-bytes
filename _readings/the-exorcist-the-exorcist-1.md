@@ -5,11 +5,10 @@ author: "William Peter Blatty"
 dek: "The Exorcist Series"
 number: R1873
 sort_key: 1873
-date: 2026-04-17
+date: 2026-07-16
 date_read: 2016-04-04
-category: gothic-horror-romance
+category: horror
 cover: /assets/readings/the-exorcist-the-exorcist-1.jpg
-spice: 2
 content_warnings:
   - "demonic possession"
   - "violence"

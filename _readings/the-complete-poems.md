@@ -5,7 +5,7 @@ author: "John Keats"
 dek: ""
 number: R1836
 sort_key: 1836
-date: 2026-05-24
+date: 2026-07-12
 date_read: 2015-03-01
 category: gothic-horror-romance
 cover: /assets/readings/the-complete-poems.jpg

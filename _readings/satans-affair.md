@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20327821.H_D_Carlton"
 dek: "He's never met her kind"
 number: R130
 sort_key: 130
-date: 2021-12-03
+date: 2026-01-15
 date_read: 2025-07-13
 category: forbidden-love
 cover: /assets/readings/satans-affair.jpg

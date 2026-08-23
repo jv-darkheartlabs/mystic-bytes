@@ -5,9 +5,9 @@ author: "Stieg Larsson"
 dek: "Millennium Series Book 3"
 number: R2172
 sort_key: 2172
-date: 2026-04-18
+date: 2026-08-03
 date_read: 2007-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-girl-who-kicked-the-hornet-s-nest-millennium-3.jpg
 spice: 2
 content_warnings:

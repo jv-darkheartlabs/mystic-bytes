@@ -4,7 +4,7 @@ title: "Exploration of Endless Potential"
 dek: "Growth as slow weathering."
 number: V0806
 sort_key: 806
-date: 2027-07-28
+date: 2026-06-15
 date_written: 2012-10-04
 category: life
 form: free-verse

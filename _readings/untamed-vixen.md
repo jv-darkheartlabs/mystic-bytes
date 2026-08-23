@@ -4,7 +4,7 @@ title: "Untamed Vixen"
 dek: "A Dark Mafia Romance"
 number: R1276
 sort_key: 1276
-date: 2025-09-21
+date: 2026-05-19
 date_read: 2019-10-22
 category: mafia-boss-and-innocent
 cover: /assets/readings/untamed-vixen.jpg

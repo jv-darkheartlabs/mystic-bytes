@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228242.Kyla_Stone"
 dek: "Edge of Collapse Series — Book Three"
 number: R355
 sort_key: 355
-date: 2022-08-27
+date: 2026-02-08
 date_read: 2010-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/edge-of-darkness.jpg
 spice: 2
 content_warnings:

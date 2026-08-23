@@ -5,9 +5,9 @@ author: "John Grisham"
 dek: ""
 number: R1972
 sort_key: 1972
-date: 2026-04-18
+date: 2026-07-23
 date_read: 2007-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-rainmaker.jpg
 spice: 2
 content_warnings:

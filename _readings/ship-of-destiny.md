@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book Three of the Liveship Traders"
 number: R483
 sort_key: 483
-date: 2023-01-27
+date: 2026-02-22
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/ship-of-destiny.jpg

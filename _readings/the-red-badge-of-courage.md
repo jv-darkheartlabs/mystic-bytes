@@ -5,9 +5,9 @@ author: "Stephen Crane"
 dek: ""
 number: R1710
 sort_key: 1710
-date: 2026-06-19
+date: 2026-07-01
 date_read: 2005-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-red-badge-of-courage.jpg
 spice: 1
 content_warnings:

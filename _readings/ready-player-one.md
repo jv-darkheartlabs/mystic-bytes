@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/31712.Ernest_Cline"
 dek: ""
 number: R585
 sort_key: 585
-date: 2023-05-30
+date: 2026-03-05
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/ready-player-one.jpg

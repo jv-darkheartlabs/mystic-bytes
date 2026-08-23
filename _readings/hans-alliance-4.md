@@ -5,9 +5,9 @@ author: "S.J. Tilly"
 dek: "Alliance Series Book 4"
 number: R1567
 sort_key: 1567
-date: 2026-05-11
+date: 2026-06-18
 date_read: 2012-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/hans-alliance-4.jpg
 spice: 3
 content_warnings:

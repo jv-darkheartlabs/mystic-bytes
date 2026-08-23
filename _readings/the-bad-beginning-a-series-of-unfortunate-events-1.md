@@ -5,9 +5,9 @@ author: "Lemony Snicket"
 dek: "A Series of Unfortunate Events"
 number: R2139
 sort_key: 2139
-date: 2026-05-21
+date: 2026-07-31
 date_read: 2014-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-bad-beginning-a-series-of-unfortunate-events-1.jpg
 spice: 1
 content_warnings:

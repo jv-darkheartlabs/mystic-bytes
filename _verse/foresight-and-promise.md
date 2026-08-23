@@ -4,7 +4,7 @@ title: "Foresight and Promise"
 dek: "Future as city craft, not prophecy."
 number: V0447
 sort_key: 447
-date: 2027-01-04
+date: 2026-04-21
 date_written: 2009-06-06
 category: nola
 form: open

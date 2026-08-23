@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Juno_Heart"
 dek: "Book 2"
 number: R592
 sort_key: 592
-date: 2023-06-12
+date: 2026-03-06
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/king-of-fire-and-flames.jpg

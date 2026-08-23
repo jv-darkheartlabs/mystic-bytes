@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4735144.Jay_Kristoff"
 dek: "Nevernight Book Three"
 number: R714
 sort_key: 714
-date: 2023-11-11
+date: 2026-03-19
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/darkdawn.jpg

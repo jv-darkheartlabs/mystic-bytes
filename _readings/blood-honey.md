@@ -5,7 +5,7 @@ author: "Shelby Mahurin"
 dek: "Til death do us part"
 number: R443
 sort_key: 443
-date: 2022-12-10
+date: 2026-02-17
 date_read: 2026-05-07
 category: enemies-to-lovers
 cover: /assets/readings/blood-honey.jpg

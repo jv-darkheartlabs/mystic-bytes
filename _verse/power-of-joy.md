@@ -4,7 +4,7 @@ title: "Power of Joy"
 dek: "Elation without eternity brochure."
 number: V0842
 sort_key: 842
-date: 2030-07-24
+date: 2026-07-09
 date_written: 1999-02-06
 category: life
 form: free-verse

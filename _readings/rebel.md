@@ -5,7 +5,7 @@ author: "Rebecca Yarros"
 dek: ""
 number: R836
 sort_key: 836
-date: 2024-04-04
+date: 2026-04-02
 date_read: 2023-11-25
 category: dark-military-romance
 cover: /assets/readings/rebel.jpg

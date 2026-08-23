@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7244758.Freida_McFadden"
 dek: "She lives next door. She knows your secrets."
 number: R813
 sort_key: 813
-date: 2024-03-06
+date: 2026-03-30
 date_read: 2024-06-10
 category: stalker-obsession
 cover: /assets/readings/the-housemaid-is-watching.jpg

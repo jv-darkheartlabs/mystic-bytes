@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Dark Olympus"
 number: R1390
 sort_key: 1390
-date: 2026-02-08
+date: 2026-05-31
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/electric-idol.jpg

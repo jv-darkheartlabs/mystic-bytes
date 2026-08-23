@@ -4,7 +4,7 @@ title: "The Twilight Saga: Breaking Dawn – Part 1"
 dek: "2011 wedding, honeymoon, and impossible pregnancy."
 number: F0018
 sort_key: 18
-date: 2026-07-11
+date: 2026-04-06
 date_watched: 2011-11-18
 year: 2011
 poster: /assets/films/breaking-dawn-part-1-2011.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

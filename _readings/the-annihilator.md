@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19586146.RuNyx"
 dek: "Dark Verse Book Five"
 number: R184
 sort_key: 184
-date: 2022-02-05
+date: 2026-01-20
 date_read: 2019-07-13
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-annihilator.jpg

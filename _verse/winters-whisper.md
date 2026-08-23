@@ -4,7 +4,7 @@ title: "Winter's Whisper"
 dek: "Rare snow as city surprise."
 number: V0428
 sort_key: 428
-date: 2026-12-16
+date: 2026-04-08
 date_written: 2004-12-28
 category: nola
 form: open

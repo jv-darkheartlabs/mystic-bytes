@@ -4,7 +4,7 @@ title: "Dual Edges of Fame"
 dek: "Recognition — flame thin both sides."
 number: V0914
 sort_key: 914
-date: 2034-09-21
+date: 2026-08-13
 date_written: 2012-02-01
 category: justice
 form: free-verse

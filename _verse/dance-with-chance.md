@@ -4,7 +4,7 @@ title: "Dance with Chance"
 dek: "Luck deals; New Orleans still chooses."
 number: V0801
 sort_key: 801
-date: 2027-02-08
+date: 2026-06-11
 date_written: 2008-10-09
 category: life
 form: free-verse

@@ -5,11 +5,10 @@ author: "Stieg Larsson"
 dek: "Millennium Series"
 number: R2183
 sort_key: 2183
-date: 2026-04-07
+date: 2026-08-05
 date_read: 2009-08-12
-category: dark-thriller
+category: mystery-crime
 cover: /assets/readings/the-girl-with-the-dragon-tattoo-millennium-1.jpg
-spice: 3
 content_warnings:
   - "violence"
   - "sexual assault"

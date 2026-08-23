@@ -5,7 +5,7 @@ author: "Paisley Hope"
 dek: "A Silver Pines Novel"
 number: R832
 sort_key: 832
-date: 2024-04-05
+date: 2026-04-01
 date_read: 2019-07-13
 category: dark-cowboy-romance
 cover: /assets/readings/training-the-heart.jpg

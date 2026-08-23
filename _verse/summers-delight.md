@@ -4,7 +4,7 @@ title: "Summer's Delight"
 dek: "Heat as temporary permission."
 number: V0505
 sort_key: 505
-date: 2027-01-18
+date: 2026-04-30
 date_written: 1994-07-07
 category: nature
 form: free-verse

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17697330.Danielle_Lori"
 dek: "He was supposed to be her savior. But she was his prisoner."
 number: R167
 sort_key: 167
-date: 2022-01-10
+date: 2026-01-19
 date_read: 2026-08-16
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-darkest-temptation.jpg

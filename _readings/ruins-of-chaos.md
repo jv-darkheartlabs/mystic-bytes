@@ -5,7 +5,7 @@ author: "Amelia Hutchins"
 dek: "Legacy of the Nine Realms 3"
 number: R1417
 sort_key: 1417
-date: 2026-03-16
+date: 2026-06-03
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/ruins-of-chaos.jpg

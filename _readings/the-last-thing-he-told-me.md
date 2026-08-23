@@ -5,9 +5,9 @@ author: "Laura Dave"
 dek: ""
 number: R844
 sort_key: 844
-date: 2024-04-16
+date: 2026-04-03
 date_read: 2009-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-last-thing-he-told-me.jpg
 spice: 2
 content_warnings:

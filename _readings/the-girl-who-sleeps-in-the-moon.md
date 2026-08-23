@@ -5,7 +5,7 @@ author: "Acacia Warmerdam"
 dek: ""
 number: R564
 sort_key: 564
-date: 2023-05-12
+date: 2026-03-03
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/the-girl-who-sleeps-in-the-moon.jpg

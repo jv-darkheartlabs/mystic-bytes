@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #11"
 number: R2331
 sort_key: 2331
-date: 2026-05-10
+date: 2026-08-16
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-11-the-clue-of-the-broken-locket.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

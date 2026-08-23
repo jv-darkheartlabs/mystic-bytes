@@ -4,7 +4,7 @@ title: "Field of the Lotus"
 dek: "Thirteen is old enough to notice what the pond keeps."
 number: V0001
 sort_key: 1
-date: 2026-07-11
+date: 2026-01-01
 date_written: 1993-06-14
 category: nature
 form: closed

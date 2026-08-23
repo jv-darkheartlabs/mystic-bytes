@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/54485.Kristin_Hannah"
 dek: "A Novel"
 number: R413
 sort_key: 413
-date: 2022-11-06
+date: 2026-02-14
 date_read: 2008-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/night-road.jpg
 spice: 2
 content_warnings:

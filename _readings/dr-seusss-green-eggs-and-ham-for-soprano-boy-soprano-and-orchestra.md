@@ -5,11 +5,10 @@ author: "Robert Kapilow"
 dek: ""
 number: R1822
 sort_key: 1822
-date: 2026-06-07
+date: 2026-07-11
 date_read: 2025-07-13
-category: gothic-horror-romance
+category: juvenile-fiction
 cover: /assets/readings/dr-seusss-green-eggs-and-ham-for-soprano-boy-soprano-and-orchestra.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

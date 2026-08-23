@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166901.Tessa_Bailey"
 dek: "A Novel"
 number: R1478
 sort_key: 1478
-date: 2026-05-25
+date: 2026-06-10
 date_read: 2017-05-07
 category: forbidden-love
 cover: /assets/readings/the-au-pair-affair.jpg

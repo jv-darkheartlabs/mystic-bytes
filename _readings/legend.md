@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4875995.Karina_Halle"
 dek: "Watch your head."
 number: R771
 sort_key: 771
-date: 2024-01-18
+date: 2026-03-26
 date_read: 2018-09-19
 category: gothic-horror-romance
 cover: /assets/readings/legend.jpg

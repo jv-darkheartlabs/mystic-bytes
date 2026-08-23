@@ -5,7 +5,7 @@ author: "J.M. Barrie"
 dek: "Peter Pan's adventures continue in this timeless tale."
 number: R1696
 sort_key: 1696
-date: 2026-07-03
+date: 2026-06-30
 date_read: 2019-07-13
 category: gothic-horror-romance
 cover: /assets/readings/peter-pan-peter-pan-2.jpg

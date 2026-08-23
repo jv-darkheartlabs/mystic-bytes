@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/153394.Suzanne_Collins"
 dek: ""
 number: R841
 sort_key: 841
-date: 2024-04-11
+date: 2026-04-02
 date_read: 2006-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/sunrise-on-the-reaping.jpg
 spice: 2
 content_warnings:

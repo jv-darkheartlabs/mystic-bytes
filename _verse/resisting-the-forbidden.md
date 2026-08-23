@@ -4,7 +4,7 @@ title: "Resisting the Forbidden"
 dek: "Taboo prices appetite higher."
 number: V0316
 sort_key: 316
-date: 2026-10-29
+date: 2026-03-06
 date_written: 2019-08-08
 category: love
 form: free-verse

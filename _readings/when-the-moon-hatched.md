@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Sarah_A_Parker"
 dek: ""
 number: R955
 sort_key: 955
-date: 2024-08-30
+date: 2026-04-15
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/when-the-moon-hatched.jpg

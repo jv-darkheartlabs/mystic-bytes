@@ -4,7 +4,7 @@ title: "Scented Symphony"
 dek: "Memory wears perfume before it wears language."
 number: V0135
 sort_key: 135
-date: 2026-09-06
+date: 2026-01-29
 date_written: 2012-09-08
 category: spirituality
 form: open

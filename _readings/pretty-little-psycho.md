@@ -5,7 +5,7 @@ author: "M Violet"
 dek: ""
 number: R241
 sort_key: 241
-date: 2022-04-07
+date: 2026-01-26
 date_read: 2016-10-22
 category: stalker-obsession
 cover: /assets/readings/pretty-little-psycho.jpg

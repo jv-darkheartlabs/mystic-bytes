@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21002065.Carissa_Broadbent"
 dek: "The War of Lost Hearts, Vol. 1"
 number: R1211
 sort_key: 1211
-date: 2025-07-04
+date: 2026-05-12
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/daughter-of-no-worlds.jpg

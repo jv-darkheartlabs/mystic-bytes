@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5780686.Cixin_Liu"
 dek: "Remembrance of Earth's Past Book Three"
 number: R519
 sort_key: 519
-date: 2023-03-16
+date: 2026-02-26
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/deaths-end.jpg

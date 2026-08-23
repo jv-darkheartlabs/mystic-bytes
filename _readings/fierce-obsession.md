@@ -5,7 +5,7 @@ author: "S. Massery"
 dek: "He's a hockey god, and she's the one he never saw coming."
 number: R224
 sort_key: 224
-date: 2022-03-19
+date: 2026-01-25
 date_read: 2023-11-25
 category: stalker-obsession
 cover: /assets/readings/fierce-obsession.jpg

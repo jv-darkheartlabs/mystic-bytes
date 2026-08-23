@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21650344.Somme_Sketcher"
 dek: "Sinners Anonymous — Book Five"
 number: R156
 sort_key: 156
-date: 2022-01-01
+date: 2026-01-17
 date_read: 2015-06-10
 category: forbidden-love
 cover: /assets/readings/sinners-absolve.jpg

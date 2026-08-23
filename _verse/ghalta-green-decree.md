@@ -4,7 +4,7 @@ title: "Ghalta's Green Decree"
 dek: "Sixteen mana. No apology."
 number: V0103
 sort_key: 103
-date: 2026-08-05
+date: 2026-01-07
 date_written: 2014-06-22
 category: spirituality
 form: open

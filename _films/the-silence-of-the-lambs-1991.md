@@ -4,7 +4,7 @@ title: "The Silence of the Lambs"
 dek: "1991 Demme masterpiece from Thomas Harris's procedural horror."
 number: F0042
 sort_key: 42
-date: 2026-07-11
+date: 2026-08-18
 date_watched: 1991-02-14
 year: 1991
 poster: /assets/films/the-silence-of-the-lambs-1991.jpg
@@ -25,7 +25,6 @@ category: psychological-thriller
 format: feature-film
 fidelity: faithful
 mpaa_rating: "R"
-spice: 3
 content_warnings:
   - "violence"
   - "gore"
@@ -40,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: genre
 ---
 
 ## Hook & thesis

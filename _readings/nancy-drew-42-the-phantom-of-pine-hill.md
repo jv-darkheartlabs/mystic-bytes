@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #42"
 number: R2365
 sort_key: 2365
-date: 2026-04-06
+date: 2026-08-20
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-42-the-phantom-of-pine-hill.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

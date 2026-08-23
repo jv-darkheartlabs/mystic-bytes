@@ -4,7 +4,7 @@ title: "Flame Burning Bright"
 dek: "Brightness billed daily."
 number: V0323
 sort_key: 323
-date: 2026-11-05
+date: 2026-03-10
 date_written: 2015-12-31
 category: love
 form: free-verse

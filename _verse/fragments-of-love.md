@@ -4,7 +4,7 @@ title: "Fragments of Love"
 dek: "Betrayal leaves joinery, not closure."
 number: V0302
 sort_key: 302
-date: 2026-10-15
+date: 2026-02-24
 date_written: 2019-06-03
 category: love
 form: free-verse

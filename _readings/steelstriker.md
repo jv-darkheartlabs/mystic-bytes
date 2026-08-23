@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4342215.Marie_Lu"
 dek: "The gripping conclusion to the Skyhunter duology"
 number: R596
 sort_key: 596
-date: 2023-06-17
+date: 2026-03-06
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/steelstriker.jpg

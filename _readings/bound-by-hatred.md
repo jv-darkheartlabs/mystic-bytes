@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6518850.Cora_Reilly"
 dek: ""
 number: R1112
 sort_key: 1112
-date: 2025-03-06
+date: 2026-05-02
 date_read: 2023-08-16
 category: enemies-to-lovers
 cover: /assets/readings/bound-by-hatred.jpg

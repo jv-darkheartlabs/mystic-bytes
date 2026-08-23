@@ -5,9 +5,9 @@ author: "Stephen  King"
 dek: ""
 number: R1882
 sort_key: 1882
-date: 2026-04-08
+date: 2026-07-17
 date_read: 2007-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/dreamcatcher.jpg
 spice: 3
 content_warnings:

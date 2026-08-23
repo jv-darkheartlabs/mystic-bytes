@@ -10,9 +10,9 @@ type: micro
 read_time: 2
 tags: ['craft']
 brief:
-  system: MongoDB as a BSON document store, Atlas as the metered cloud
-  issue: "schemaless" pitch hiding an application schema that still breaks on rename
-  constraint: DHL does not run Mongo; mystic-bytes is git files, scheduler is Postgres; user not DBA
+  system: "MongoDB as a BSON document store, Atlas as the metered cloud"
+  issue: '"schemaless" pitch hiding an application schema that still breaks on rename'
+  constraint: "DHL does not run Mongo; mystic-bytes is git files, scheduler is Postgres; user not DBA"
 ---
 
 MongoDB stores BSON documents in collections. That is the database. The brochure sold "flexible schema" and a long stretch of slides about leaving rows behind. I have queried it as a user on other people's stacks. I have never been a MongoDB operator for Dark Heart Labs. mystic-bytes is markdown in git. The Railway scheduler uses Postgres. There is no Atlas cluster on the studio invoice.

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "A Dark College Romance"
 number: R061
 sort_key: 061
-date: 2021-09-12
+date: 2026-01-08
 date_read: 2016-10-22
 category: captor-and-captive
 cover: /assets/readings/the-ritual.jpg

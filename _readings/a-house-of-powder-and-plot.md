@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.A_P_Beswick"
 dek: ""
 number: R1524
 sort_key: 1524
-date: 2026-06-23
+date: 2026-06-14
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/a-house-of-powder-and-plot.jpg

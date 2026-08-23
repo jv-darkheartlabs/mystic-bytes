@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.A_P_Beswick"
 dek: ""
 number: R673
 sort_key: 673
-date: 2023-09-17
+date: 2026-03-15
 date_read: 2016-10-22
 category: fantasy-romance
 cover: /assets/readings/a-kingdom-of-courage-and-cruelty.jpg

@@ -4,7 +4,7 @@ title: "The Host"
 dek: "2013 Niccol adaptation of Stephenie Meyer's body-snatcher romance."
 number: F0039
 sort_key: 39
-date: 2026-07-11
+date: 2026-08-01
 date_watched: 2013-03-29
 year: 2013
 poster: /assets/films/the-host-2013.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

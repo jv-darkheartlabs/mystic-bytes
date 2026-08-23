@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7159152.Laura_Thalassa"
 dek: "The devil is in the deal"
 number: R1195
 sort_key: 1195
-date: 2025-06-12
+date: 2026-05-10
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/dark-harmony.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8347.Stephen_R_Lawhead"
 dek: "King Raven Trilogy"
 number: R658
 sort_key: 658
-date: 2023-08-28
+date: 2026-03-13
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/hood.jpg

@@ -5,7 +5,7 @@ author: "Edith Hamilton"
 dek: ""
 number: R2258
 sort_key: 2258
-date: 2026-05-02
+date: 2026-08-08
 date_read: 2017-11-25
 category: gothic-horror-romance
 cover: /assets/readings/mythology.jpg

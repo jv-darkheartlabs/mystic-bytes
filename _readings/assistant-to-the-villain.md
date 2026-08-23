@@ -5,7 +5,7 @@ author: "Hannah Nicole Maehrer"
 dek: ""
 number: R946
 sort_key: 946
-date: 2024-08-16
+date: 2026-04-14
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/assistant-to-the-villain.jpg

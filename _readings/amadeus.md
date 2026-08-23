@@ -5,9 +5,9 @@ author: "Peter Shaffer"
 dek: "A dramatic exploration of the life of Mozart and the envy of his contemporary Salieri."
 number: R1642
 sort_key: 1642
-date: 2026-05-18
+date: 2026-06-25
 date_read: 2007-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/amadeus.jpg
 spice: 1
 content_warnings:

@@ -5,7 +5,7 @@ author: "Alice Sebold"
 dek: ""
 number: R1783
 sort_key: 1783
-date: 2026-04-07
+date: 2026-07-08
 date_read: 2022-04-04
 category: gothic-horror-romance
 cover: /assets/readings/the-lovely-bones.jpg

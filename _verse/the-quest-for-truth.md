@@ -4,7 +4,7 @@ title: "The Quest for Truth"
 dek: "Questions that do not resolve on schedule."
 number: V0110
 sort_key: 110
-date: 2026-08-12
+date: 2026-01-12
 date_written: 2001-03-17
 category: spirituality
 form: free-verse

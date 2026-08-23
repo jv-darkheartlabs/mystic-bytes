@@ -5,7 +5,7 @@ author: "Jeneane O'Riley"
 dek: "The Infatuated Fae Book Two"
 number: R1219
 sort_key: 1219
-date: 2025-07-17
+date: 2026-05-13
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/what-did-you-do.jpg

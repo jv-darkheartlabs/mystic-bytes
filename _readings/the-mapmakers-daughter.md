@@ -5,7 +5,7 @@ author: "Laurel Corona"
 dek: "A Novel"
 number: R615
 sort_key: 615
-date: 2023-07-09
+date: 2026-03-08
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/the-mapmakers-daughter.jpg

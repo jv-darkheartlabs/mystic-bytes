@@ -5,9 +5,9 @@ author: "Dan    Brown"
 dek: "Robert Langdon's thrilling quest for truth"
 number: R2161
 sort_key: 2161
-date: 2026-04-29
+date: 2026-08-02
 date_read: 2006-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-lost-symbol-robert-langdon-3.jpg
 spice: 2
 content_warnings:

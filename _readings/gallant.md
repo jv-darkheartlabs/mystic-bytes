@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166830.V_E_Schwab"
 dek: ""
 number: R790
 sort_key: 790
-date: 2024-02-11
+date: 2026-03-28
 date_read: 2025-10-22
 category: gothic-horror-romance
 cover: /assets/readings/gallant.jpg

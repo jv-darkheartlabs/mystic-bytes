@@ -5,7 +5,7 @@ author: "Helen Hoang"
 dek: "a novel"
 number: R873
 sort_key: 873
-date: 2024-05-23
+date: 2026-04-06
 date_read: 2024-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-bride-test.jpg

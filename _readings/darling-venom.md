@@ -5,7 +5,7 @@ author: "Parker S. Huntington"
 dek: ""
 number: R011
 sort_key: 011
-date: 2021-07-11
+date: 2026-01-02
 date_read: 2026-05-07
 category: bully-romance
 cover: /assets/readings/darling-venom.jpg

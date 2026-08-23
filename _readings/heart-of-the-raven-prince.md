@@ -5,7 +5,7 @@ author: "Tessonja Odette"
 dek: "Entangled with Fae — A Cinderella Retelling"
 number: R1412
 sort_key: 1412
-date: 2026-03-12
+date: 2026-06-03
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/heart-of-the-raven-prince.jpg

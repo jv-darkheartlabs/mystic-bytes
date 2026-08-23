@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.A_P_Beswick"
 dek: ""
 number: R697
 sort_key: 697
-date: 2023-10-20
+date: 2026-03-17
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/a-heart-of-secrets-and-shadows.jpg

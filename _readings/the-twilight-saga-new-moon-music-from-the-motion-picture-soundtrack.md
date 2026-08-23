@@ -5,7 +5,7 @@ author: "Hal Leonard"
 dek: "Music from the Motion Picture Soundtrack"
 number: R1892
 sort_key: 1892
-date: 2026-07-07
+date: 2026-07-18
 date_read: 2023-05-07
 category: vampire-paranormal
 cover: /assets/readings/the-twilight-saga-new-moon-music-from-the-motion-picture-soundtrack.jpg

@@ -5,11 +5,10 @@ author: "Jane Austen"
 dek: ""
 number: R1594
 sort_key: 1594
-date: 2026-07-05
+date: 2026-06-20
 date_read: 2025-04-04
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/persuasion.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

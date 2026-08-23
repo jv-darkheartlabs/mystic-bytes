@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19548496.Chloe_Gong"
 dek: ""
 number: R1248
 sort_key: 1248
-date: 2025-08-24
+date: 2026-05-16
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/our-violent-ends.jpg

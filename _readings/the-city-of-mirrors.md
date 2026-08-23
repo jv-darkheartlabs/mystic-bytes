@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17226.Justin_Cronin"
 dek: "The Passage Book Three"
 number: R777
 sort_key: 777
-date: 2024-01-21
+date: 2026-03-26
 date_read: 2024-06-10
 category: gothic-horror-romance
 cover: /assets/readings/the-city-of-mirrors.jpg

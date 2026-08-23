@@ -5,7 +5,7 @@ author: "Loren Little"
 dek: "The Gift War Book One"
 number: R274
 sort_key: 274
-date: 2022-05-18
+date: 2026-01-30
 date_read: 2025-07-13
 category: vampire-paranormal
 cover: /assets/readings/a-house-of-cloaks-daggers.jpg

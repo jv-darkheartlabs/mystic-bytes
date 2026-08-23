@@ -5,11 +5,10 @@ author: "Beverly Cleary"
 dek: "Ramona's adventures with her sister Beezus"
 number: R2134
 sort_key: 2134
-date: 2026-05-26
+date: 2026-07-31
 date_read: 2025-04-04
-category: gothic-horror-romance
+category: juvenile-fiction
 cover: /assets/readings/beezus-and-ramona-ramona-1.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

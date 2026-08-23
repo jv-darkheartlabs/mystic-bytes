@@ -5,7 +5,7 @@ author: "Margaret Mitchell"
 dek: "A sweeping tale of love and loss during the American Civil War."
 number: R2255
 sort_key: 2255
-date: 2026-05-05
+date: 2026-08-08
 date_read: 2026-08-16
 category: enemies-to-lovers
 cover: /assets/readings/gone-with-the-wind.jpg

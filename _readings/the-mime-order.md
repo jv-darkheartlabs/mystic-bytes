@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5830526.Samantha_Shannon"
 dek: "The Bone Season Book Two"
 number: R486
 sort_key: 486
-date: 2023-01-30
+date: 2026-02-22
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/the-mime-order.jpg

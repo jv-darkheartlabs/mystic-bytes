@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book Three of the Fitz and the Fool Trilogy"
 number: R656
 sort_key: 656
-date: 2023-08-31
+date: 2026-03-13
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/assassins-fate.jpg

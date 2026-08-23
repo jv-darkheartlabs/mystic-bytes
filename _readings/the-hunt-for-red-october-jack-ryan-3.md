@@ -5,9 +5,9 @@ author: "Tom Clancy"
 dek: "Jack Ryan Series"
 number: R2171
 sort_key: 2171
-date: 2026-04-19
+date: 2026-08-03
 date_read: 2006-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-hunt-for-red-october-jack-ryan-3.jpg
 spice: 1
 content_warnings:

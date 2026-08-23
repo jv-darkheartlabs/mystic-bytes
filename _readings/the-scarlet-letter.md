@@ -5,11 +5,10 @@ author: "Nathaniel Hawthorne"
 dek: "A tale of sin and redemption set in Puritan New England."
 number: R1848
 sort_key: 1848
-date: 2026-05-12
+date: 2026-07-14
 date_read: 1999-11-05
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-scarlet-letter.jpg
-spice: 2
 content_warnings:
   - "infidelity"
   - "shame"

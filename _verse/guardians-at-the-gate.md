@@ -4,7 +4,7 @@ title: "Guardians at the Gate"
 dek: "Protection without rescue."
 number: V0114
 sort_key: 114
-date: 2026-08-16
+date: 2026-01-14
 date_written: 2012-03-21
 category: spirituality
 form: free-verse

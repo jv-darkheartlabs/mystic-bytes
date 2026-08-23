@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/16605246.R_F_Kuang"
 dek: ""
 number: R687
 sort_key: 687
-date: 2023-10-09
+date: 2026-03-16
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/the-poppy-war.jpg

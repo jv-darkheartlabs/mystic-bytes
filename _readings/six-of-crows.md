@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4575289.Leigh_Bardugo"
 dek: ""
 number: R936
 sort_key: 936
-date: 2024-08-08
+date: 2026-04-13
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/six-of-crows.jpg

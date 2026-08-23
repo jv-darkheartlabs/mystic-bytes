@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228257.Ali_Hazelwood"
 dek: ""
 number: R1386
 sort_key: 1386
-date: 2026-02-09
+date: 2026-05-31
 date_read: 2021-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-love-hypothesis.jpg

@@ -5,7 +5,7 @@ author: "Sav R. Miller"
 dek: ""
 number: R1258
 sort_key: 1258
-date: 2025-09-01
+date: 2026-05-17
 date_read: 2025-10-22
 category: forbidden-love
 cover: /assets/readings/sweet-solitude.jpg

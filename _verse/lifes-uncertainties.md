@@ -4,7 +4,7 @@ title: "Life's Uncertainties"
 dek: "Chance deals — choice still holds the hand."
 number: V0837
 sort_key: 837
-date: 2030-02-02
+date: 2026-07-06
 date_written: 2010-08-17
 category: life
 form: free-verse

@@ -5,11 +5,10 @@ author: "Truman Capote"
 dek: ""
 number: R1560
 sort_key: 1560
-date: 2026-05-18
+date: 2026-06-18
 date_read: 1998-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/in-cold-blood.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "murder"

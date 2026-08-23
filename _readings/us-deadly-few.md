@@ -5,9 +5,9 @@ author: "Alexis Patton"
 dek: ""
 number: R843
 sort_key: 843
-date: 2024-04-17
+date: 2026-04-02
 date_read: 2008-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/us-deadly-few.jpg
 spice: 4
 content_warnings:

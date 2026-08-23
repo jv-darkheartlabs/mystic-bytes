@@ -5,7 +5,7 @@ author: "Veronica Lancet"
 dek: ""
 number: R1006
 sort_key: 1006
-date: 2024-10-27
+date: 2026-04-20
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/mountains-made-of-glass.jpg

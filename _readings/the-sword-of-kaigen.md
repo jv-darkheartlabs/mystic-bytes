@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.M_L_Wang"
 dek: ""
 number: R725
 sort_key: 725
-date: 2023-11-25
+date: 2026-03-20
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/the-sword-of-kaigen.jpg

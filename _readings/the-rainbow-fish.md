@@ -5,7 +5,7 @@ author: "Marcus Pfister"
 dek: ""
 number: R1825
 sort_key: 1825
-date: 2026-06-04
+date: 2026-07-11
 date_read: 2016-10-22
 category: gothic-horror-romance
 cover: /assets/readings/the-rainbow-fish.jpg

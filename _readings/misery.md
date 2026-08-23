@@ -5,9 +5,9 @@ author: "Stephen  King"
 dek: ""
 number: R1874
 sort_key: 1874
-date: 2026-04-16
+date: 2026-07-16
 date_read: 2009-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/misery.jpg
 spice: 3
 content_warnings:

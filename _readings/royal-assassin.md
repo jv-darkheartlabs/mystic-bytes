@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book Two of the Farseer Trilogy"
 number: R705
 sort_key: 705
-date: 2023-10-25
+date: 2026-03-18
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/royal-assassin.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15143324.Zoey_Ellis"
 dek: "Myth of Omega: Own 1"
 number: R072
 sort_key: 072
-date: 2021-09-22
+date: 2026-01-09
 date_read: 2015-03-01
 category: captor-and-captive
 cover: /assets/readings/own-to-obey.jpg

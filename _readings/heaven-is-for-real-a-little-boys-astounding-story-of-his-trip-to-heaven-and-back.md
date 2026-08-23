@@ -5,9 +5,9 @@ author: "Todd Burpo"
 dek: ""
 number: R1748
 sort_key: 1748
-date: 2026-05-12
+date: 2026-07-05
 date_read: 2013-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/heaven-is-for-real-a-little-boys-astounding-story-of-his-trip-to-heaven-and-back.jpg
 spice: 1
 content_warnings:

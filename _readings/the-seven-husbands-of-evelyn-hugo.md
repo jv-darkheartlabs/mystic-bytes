@@ -5,11 +5,10 @@ author: "Taylor Jenkins Reid"
 dek: ""
 number: R1036
 sort_key: 1036
-date: 2024-12-04
+date: 2026-04-23
 date_read: 2019-04-04
-category: forbidden-love
+category: classic-literature
 cover: /assets/readings/the-seven-husbands-of-evelyn-hugo.jpg
-spice: 3
 content_warnings:
 tags:
   - forbiddenlove

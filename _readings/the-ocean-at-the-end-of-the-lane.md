@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/1221698.Neil_Gaiman"
 dek: ""
 number: R792
 sort_key: 792
-date: 2024-02-08
+date: 2026-03-28
 date_read: 2015-03-01
 category: gothic-horror-romance
 cover: /assets/readings/the-ocean-at-the-end-of-the-lane.jpg

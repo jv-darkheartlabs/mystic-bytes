@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7464.Elizabeth_George"
 dek: "An Inspector Lynley Mystery"
 number: R360
 sort_key: 360
-date: 2022-08-31
+date: 2026-02-08
 date_read: 2005-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/payment-in-blood.jpg
 spice: 1
 content_warnings:

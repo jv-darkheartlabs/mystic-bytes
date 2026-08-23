@@ -5,7 +5,7 @@ author: "Jeneane O'Riley"
 dek: "The Infatuated Fae Book One"
 number: R1183
 sort_key: 1183
-date: 2025-05-31
+date: 2026-05-09
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/how-does-it-feel.jpg

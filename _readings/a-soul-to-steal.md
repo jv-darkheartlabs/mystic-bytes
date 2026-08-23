@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Opal_Reyne"
 dek: ""
 number: R1008
 sort_key: 1008
-date: 2024-11-02
+date: 2026-04-20
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/a-soul-to-steal.jpg

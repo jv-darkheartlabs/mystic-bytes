@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/225399.David_Wong"
 dek: "Seriously, Dude, Don't Touch It"
 number: R785
 sort_key: 785
-date: 2024-02-05
+date: 2026-03-27
 date_read: 2020-05-07
 category: gothic-horror-romance
 cover: /assets/readings/this-book-is-full-of-spiders.jpg

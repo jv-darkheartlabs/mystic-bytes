@@ -5,9 +5,9 @@ author: "John Grisham"
 dek: ""
 number: R1788
 sort_key: 1788
-date: 2026-04-02
+date: 2026-07-08
 date_read: 2013-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-widow.jpg
 spice: 2
 content_warnings:

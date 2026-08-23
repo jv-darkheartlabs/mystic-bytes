@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7244758.Freida_McFadden"
 dek: "This perfect home has one rule. Don't look behind closed doors..."
 number: R419
 sort_key: 419
-date: 2022-11-14
+date: 2026-02-15
 date_read: 2014-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-housemaids-secret.jpg
 spice: 2
 content_warnings:

@@ -5,7 +5,7 @@ author: "Elle Kennedy"
 dek: ""
 number: R907
 sort_key: 907
-date: 2024-07-04
+date: 2026-04-09
 date_read: 2022-10-22
 category: enemies-to-lovers
 cover: /assets/readings/the-graham-effect.jpg

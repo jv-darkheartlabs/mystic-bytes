@@ -5,7 +5,7 @@ author: "Sabaa Tahir"
 dek: "An Ember in the Ashes — Book Two"
 number: R1414
 sort_key: 1414
-date: 2026-03-12
+date: 2026-06-03
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/a-torch-against-the-night.jpg

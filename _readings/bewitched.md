@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Laura_Thalassa"
 dek: ""
 number: R966
 sort_key: 966
-date: 2024-09-14
+date: 2026-04-16
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/bewitched.jpg

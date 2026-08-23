@@ -5,7 +5,7 @@ author: "Patricia MacLachlan"
 dek: "Sarah, Plain and Tall, #1"
 number: R1705
 sort_key: 1705
-date: 2026-06-24
+date: 2026-07-01
 date_read: 2016-07-13
 category: gothic-horror-romance
 cover: /assets/readings/sarah-plain-and-tall-sarah-plain-and-tall-1.jpg

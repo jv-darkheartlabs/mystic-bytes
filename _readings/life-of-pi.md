@@ -5,9 +5,9 @@ author: "Yann Martel"
 dek: ""
 number: R1949
 sort_key: 1949
-date: 2026-05-11
+date: 2026-07-22
 date_read: 2014-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/life-of-pi.jpg
 spice: 1
 content_warnings:

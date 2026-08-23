@@ -4,7 +4,7 @@ title: "Overcoming Loneliness"
 dek: "Isolation named — chain not sentenced."
 number: V0838
 sort_key: 838
-date: 2030-03-08
+date: 2026-07-07
 date_written: 2009-07-09
 category: life
 form: free-verse

@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #22"
 number: R2285
 sort_key: 2285
-date: 2026-06-25
+date: 2026-08-11
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-22-the-flickering-torch-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

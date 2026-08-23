@@ -5,11 +5,10 @@ author: "Stephen  King"
 dek: ""
 number: R2043
 sort_key: 2043
-date: 2026-05-17
+date: 2026-07-26
 date_read: 2008-03-01
-category: dark-thriller
+category: memoir-nonfiction
 cover: /assets/readings/on-writing-a-memoir-of-the-craft.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

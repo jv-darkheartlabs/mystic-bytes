@@ -5,7 +5,7 @@ author: "Rina Kent"
 dek: "Royal Elite Book 7"
 number: R022
 sort_key: 022
-date: 2021-07-27
+date: 2026-01-03
 date_read: 2025-07-13
 category: bully-romance
 cover: /assets/readings/royal-elite-epilogue.jpg

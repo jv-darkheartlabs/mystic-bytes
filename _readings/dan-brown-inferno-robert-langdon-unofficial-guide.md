@@ -5,9 +5,9 @@ author: "Stephen Eastment"
 dek: "Unofficial Guide to Dan Brown's Inferno"
 number: R1689
 sort_key: 1689
-date: 2026-04-01
+date: 2026-06-29
 date_read: 2014-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/dan-brown-inferno-robert-langdon-unofficial-guide.jpg
 spice: 1
 content_warnings:

@@ -4,7 +4,7 @@ title: "Love in New Orleans"
 dek: "Love as counter-spell, not sermon."
 number: V0454
 sort_key: 454
-date: 2027-01-11
+date: 2026-04-25
 date_written: 2009-04-18
 category: nola
 form: open

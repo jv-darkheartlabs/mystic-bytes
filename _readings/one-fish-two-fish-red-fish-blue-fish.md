@@ -5,7 +5,7 @@ author: "Dr. Seuss"
 dek: ""
 number: R1819
 sort_key: 1819
-date: 2026-06-10
+date: 2026-07-11
 date_read: 2022-04-04
 category: gothic-horror-romance
 cover: /assets/readings/one-fish-two-fish-red-fish-blue-fish.jpg

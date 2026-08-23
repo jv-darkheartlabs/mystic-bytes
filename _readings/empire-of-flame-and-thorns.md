@@ -5,7 +5,7 @@ author: "Marion Blackwood"
 dek: ""
 number: R995
 sort_key: 995
-date: 2024-10-20
+date: 2026-04-19
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/empire-of-flame-and-thorns.jpg

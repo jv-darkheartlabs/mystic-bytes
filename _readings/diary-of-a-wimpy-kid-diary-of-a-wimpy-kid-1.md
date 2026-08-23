@@ -5,9 +5,9 @@ author: "Jeff Kinney"
 dek: "Diary of a Wimpy Kid Series"
 number: R1812
 sort_key: 1812
-date: 2026-06-17
+date: 2026-07-10
 date_read: 2007-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/diary-of-a-wimpy-kid-diary-of-a-wimpy-kid-1.jpg
 spice: 1
 content_warnings:

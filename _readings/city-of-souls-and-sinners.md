@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Kayla Edwards"
 dek: "House of Symbols Book Two — Something wicked is coming."
 number: R569
 sort_key: 569
-date: 2023-05-12
+date: 2026-03-03
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/city-of-souls-and-sinners.jpg

@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #58"
 number: R2324
 sort_key: 2324
-date: 2026-05-17
+date: 2026-08-16
 date_read: 1994-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-58-the-sting-of-the-scorpion.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Dark Olympus"
 number: R1456
 sort_key: 1456
-date: 2026-05-06
+date: 2026-06-08
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/cruel-seduction.jpg

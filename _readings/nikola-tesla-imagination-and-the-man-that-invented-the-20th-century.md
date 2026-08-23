@@ -5,9 +5,9 @@ author: "Sean Patrick"
 dek: ""
 number: R2052
 sort_key: 2052
-date: 2026-05-08
+date: 2026-07-27
 date_read: 2007-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/nikola-tesla-imagination-and-the-man-that-invented-the-20th-century.jpg
 spice: 1
 content_warnings:

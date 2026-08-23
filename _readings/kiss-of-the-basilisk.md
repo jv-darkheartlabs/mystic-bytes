@@ -5,7 +5,7 @@ author: "Lindsay Straube"
 dek: "A Spit or Swallow Novel"
 number: R259
 sort_key: 259
-date: 2022-04-28
+date: 2026-01-28
 date_read: 2022-10-22
 category: vampire-paranormal
 cover: /assets/readings/kiss-of-the-basilisk.jpg

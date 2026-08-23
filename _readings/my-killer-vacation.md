@@ -5,9 +5,9 @@ author: "Tessa Bailey"
 dek: ""
 number: R379
 sort_key: 379
-date: 2022-09-20
+date: 2026-02-10
 date_read: 2014-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/my-killer-vacation.jpg
 spice: 4
 content_warnings:

@@ -4,7 +4,7 @@ title: "Pride & Prejudice"
 dek: "2005 romantic adaptation of Jane Austen's classic."
 number: F0007
 sort_key: 7
-date: 2026-07-11
+date: 2026-02-04
 date_watched: 2005-09-16
 year: 2005
 poster: /assets/films/pride-and-prejudice-2005.jpg
@@ -26,7 +26,6 @@ category: period-drama
 format: feature-film
 fidelity: loose
 mpaa_rating: "PG"
-spice: 1
 source_readings:
   - "pride-and-prejudice"
 imdb_url: "https://www.imdb.com/title/tt0414387/"
@@ -37,6 +36,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: canon
 ---
 
 ## Hook & thesis

@@ -5,7 +5,7 @@ author: "Rebecca F. Kenney"
 dek: ""
 number: R782
 sort_key: 782
-date: 2024-01-29
+date: 2026-03-27
 date_read: 2017-11-25
 category: gothic-horror-romance
 cover: /assets/readings/the-monster-will-rescue-you.jpg

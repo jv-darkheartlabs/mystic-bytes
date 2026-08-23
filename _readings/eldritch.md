@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7124034.Keri_Lake"
 dek: "That which slumbers should never be awakened."
 number: R275
 sort_key: 275
-date: 2022-05-19
+date: 2026-01-30
 date_read: 2026-08-16
 category: vampire-paranormal
 cover: /assets/readings/eldritch.jpg

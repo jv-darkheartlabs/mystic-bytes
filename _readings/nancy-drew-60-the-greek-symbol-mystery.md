@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #60"
 number: R2388
 sort_key: 2388
-date: 2026-07-06
+date: 2026-08-23
 date_read: 1994-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-60-the-greek-symbol-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

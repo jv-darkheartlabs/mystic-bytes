@@ -5,7 +5,7 @@ author: "Dr. Seuss"
 dek: ""
 number: R1700
 sort_key: 1700
-date: 2026-06-29
+date: 2026-06-30
 date_read: 2023-11-25
 category: gothic-horror-romance
 cover: /assets/readings/oh-the-places-you-ll-go.jpg

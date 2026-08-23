@@ -5,7 +5,7 @@ author: "Rosaria Munda"
 dek: "The sequel to Flamefall"
 number: R570
 sort_key: 570
-date: 2023-05-14
+date: 2026-03-03
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/furysong.jpg

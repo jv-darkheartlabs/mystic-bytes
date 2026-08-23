@@ -5,7 +5,7 @@ author: "Sabaa Tahir"
 dek: ""
 number: R1408
 sort_key: 1408
-date: 2026-03-02
+date: 2026-06-02
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/an-ember-in-the-ashes.jpg

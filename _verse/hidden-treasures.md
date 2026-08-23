@@ -4,7 +4,7 @@ title: "Hidden Treasures"
 dek: "Secret as curiosity tax."
 number: V0604
 sort_key: 604
-date: 2027-02-25
+date: 2026-05-26
 date_written: 1991-02-02
 category: curiosity
 form: free-verse

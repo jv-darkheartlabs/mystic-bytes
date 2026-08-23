@@ -5,7 +5,7 @@ author: "Cornelia Funke"
 dek: "Inkworld Series Book 2"
 number: R1668
 sort_key: 1668
-date: 2026-04-22
+date: 2026-06-28
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/inkspell-inkworld-2.jpg

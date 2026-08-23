@@ -5,7 +5,7 @@ author: "Christina Lauren"
 dek: ""
 number: R468
 sort_key: 468
-date: 2023-01-07
+date: 2026-02-20
 date_read: 2015-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-paradise-problem.jpg

@@ -5,9 +5,9 @@ author: "Michael Connelly"
 dek: "Harry Bosch Universe"
 number: R1975
 sort_key: 1975
-date: 2026-04-15
+date: 2026-07-24
 date_read: 2010-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-lincoln-lawyer-the-lincoln-lawyer-1-harry-bosch-universe-16.jpg
 spice: 2
 content_warnings:

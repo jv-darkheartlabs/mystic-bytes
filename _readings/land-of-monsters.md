@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6543501.Stacey_Marie_Brown"
 dek: "USA Today Bestselling Author"
 number: R279
 sort_key: 279
-date: 2022-05-20
+date: 2026-01-30
 date_read: 2018-03-01
 category: vampire-paranormal
 cover: /assets/readings/land-of-monsters.jpg

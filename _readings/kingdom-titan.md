@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "What's a king without his queen?"
 number: R104
 sort_key: 104
-date: 2021-10-28
+date: 2026-01-12
 date_read: 2023-08-16
 category: dark-billionaire
 cover: /assets/readings/kingdom-titan.jpg

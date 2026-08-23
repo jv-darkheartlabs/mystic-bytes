@@ -4,7 +4,7 @@ title: "Love Letter"
 dek: "Water as witness, not postcard."
 number: V0401
 sort_key: 401
-date: 2026-11-19
+date: 2026-03-20
 date_written: 2005-08-14
 category: nola
 form: open

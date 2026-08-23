@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7124034.Keri_Lake"
 dek: "Only the banished know what lies beyond the woods."
 number: R276
 sort_key: 276
-date: 2022-05-18
+date: 2026-01-30
 date_read: 2015-09-19
 category: vampire-paranormal
 cover: /assets/readings/anathema.jpg

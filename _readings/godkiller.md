@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Hannah_Kaner"
 dek: ""
 number: R910
 sort_key: 910
-date: 2024-07-07
+date: 2026-04-10
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/godkiller.jpg

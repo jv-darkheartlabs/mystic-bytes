@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166897.Elle_Kennedy"
 dek: "She's the one girl he shouldn't want..."
 number: R1364
 sort_key: 1364
-date: 2026-01-08
+date: 2026-05-28
 date_read: 2023-08-16
 category: enemies-to-lovers
 cover: /assets/readings/the-chase.jpg

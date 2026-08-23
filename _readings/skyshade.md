@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/18585257.Alex_Aster"
 dek: "From the #1 NYT bestselling author of Lightlark"
 number: R1223
 sort_key: 1223
-date: 2025-07-22
-date_read: 2026-11-25
+date: 2026-05-13
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/skyshade.jpg
 spice: 2

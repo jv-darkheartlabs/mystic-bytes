@@ -4,7 +4,7 @@ title: "Enigmatic Wanderer"
 dek: "Stranger as question — not verdict."
 number: V0855
 sort_key: 855
-date: 2031-08-17
+date: 2026-07-18
 date_written: 2003-05-13
 category: life
 form: free-verse

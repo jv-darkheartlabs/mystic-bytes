@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15077477.Lauren_Palphreyman"
 dek: ""
 number: R1190
 sort_key: 1190
-date: 2025-06-14
+date: 2026-05-10
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/the-night-prince.jpg

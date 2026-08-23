@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #44"
 number: R2367
 sort_key: 2367
-date: 2026-04-04
+date: 2026-08-20
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-44-the-clue-in-the-crossword-cipher.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

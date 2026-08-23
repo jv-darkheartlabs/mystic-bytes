@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "A Novel"
 number: R867
 sort_key: 867
-date: 2024-05-12
+date: 2026-04-05
 date_read: 2018-06-10
 category: enemies-to-lovers
 cover: /assets/readings/fangirl-down.jpg

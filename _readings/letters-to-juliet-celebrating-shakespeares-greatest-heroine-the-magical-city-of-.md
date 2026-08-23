@@ -5,11 +5,10 @@ author: "Lise Friedman"
 dek: ""
 number: R1773
 sort_key: 1773
-date: 2026-04-17
+date: 2026-07-07
 date_read: 2024-03-01
-category: forbidden-love
+category: classic-literature
 cover: /assets/readings/letters-to-juliet-celebrating-shakespeares-greatest-heroine-the-magical-city-of-.jpg
-spice: 1
 content_warnings:
 tags:
   - forbiddenlove

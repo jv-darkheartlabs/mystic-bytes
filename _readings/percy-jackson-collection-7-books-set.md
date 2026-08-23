@@ -5,7 +5,7 @@ author: "Rick Riordan"
 dek: "Percy Jackson and the Olympians"
 number: R1982
 sort_key: 1982
-date: 2026-04-08
+date: 2026-07-24
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/percy-jackson-collection-7-books-set.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17138508.Angel_Lawson"
 dek: "Bully of Forsyth"
 number: R029
 sort_key: 029
-date: 2021-07-31
+date: 2026-01-04
 date_read: 2020-05-07
 category: bully-romance
 cover: /assets/readings/merry-mayhem.jpg

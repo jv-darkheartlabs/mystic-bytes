@@ -5,7 +5,7 @@ author: "Rebecca F. Kenney"
 dek: ""
 number: R1001
 sort_key: 1001
-date: 2024-10-23
+date: 2026-04-20
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/healer-to-the-ash-king.jpg

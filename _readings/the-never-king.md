@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19981277.Nikki_St_Crowe"
 dek: "Never, never let him take you."
 number: R258
 sort_key: 258
-date: 2022-04-28
+date: 2026-01-28
 date_read: 2021-09-19
 category: vampire-paranormal
 cover: /assets/readings/the-never-king.jpg

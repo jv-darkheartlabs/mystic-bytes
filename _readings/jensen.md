@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19114755.Raya_Morris_Edwards"
 dek: "Brother's Keeper"
 number: R190
 sort_key: 190
-date: 2022-02-11
+date: 2026-01-21
 date_read: 2025-04-04
 category: motorcycle-club
 cover: /assets/readings/jensen.jpg

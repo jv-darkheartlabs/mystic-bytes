@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166830.V_E_Schwab"
 dek: ""
 number: R1570
 sort_key: 1570
-date: 2026-05-08
+date: 2026-06-19
 date_read: 2025-07-13
 category: gothic-horror-romance
 cover: /assets/readings/a-darker-shade-of-magic.jpg

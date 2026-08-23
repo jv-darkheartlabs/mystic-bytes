@@ -4,7 +4,7 @@ title: "Ambition and Faith"
 dek: "Want and belief share a kitchen."
 number: V0138
 sort_key: 138
-date: 2026-09-09
+date: 2026-01-31
 date_written: 2005-06-03
 category: spirituality
 form: free-verse

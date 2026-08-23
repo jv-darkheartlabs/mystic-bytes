@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #18"
 number: R2338
 sort_key: 2338
-date: 2026-05-03
+date: 2026-08-17
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-18-the-mystery-at-the-moss-covered-mansion.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

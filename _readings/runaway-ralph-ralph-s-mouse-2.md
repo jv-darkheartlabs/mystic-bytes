@@ -5,9 +5,9 @@ author: "Beverly Cleary"
 dek: "Ralph's adventures continue in this charming sequel."
 number: R2133
 sort_key: 2133
-date: 2026-05-27
+date: 2026-07-31
 date_read: 2008-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/runaway-ralph-ralph-s-mouse-2.jpg
 spice: 1
 content_warnings:

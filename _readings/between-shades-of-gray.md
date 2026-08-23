@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/3113344.Ruta_Sepetys"
 dek: ""
 number: R414
 sort_key: 414
-date: 2022-11-07
+date: 2026-02-14
 date_read: 2009-03-01
-category: dark-thriller
+category: historical
 cover: /assets/readings/between-shades-of-gray.jpg
-spice: 1
 content_warnings:
   - "deportation"
   - "violence"

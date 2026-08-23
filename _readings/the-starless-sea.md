@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/2860229.Erin_Morgenstern"
 dek: ""
 number: R914
 sort_key: 914
-date: 2024-07-06
+date: 2026-04-10
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/the-starless-sea.jpg

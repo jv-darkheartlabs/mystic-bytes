@@ -4,7 +4,7 @@ title: "Time's Dance"
 dek: "Moment as brass you cannot hold."
 number: V0609
 sort_key: 609
-date: 2027-03-02
+date: 2026-05-30
 date_written: 1990-02-14
 category: curiosity
 form: open

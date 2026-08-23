@@ -4,7 +4,7 @@ title: "Bram Stoker's Dracula"
 dek: "1992 operatic reimagining of Stoker's gothic classic."
 number: F0005
 sort_key: 5
-date: 2026-07-11
+date: 2026-01-24
 date_watched: 1992-11-13
 year: 1992
 poster: /assets/films/bram-stokers-dracula-1992.jpg
@@ -25,7 +25,6 @@ category: gothic-horror
 format: feature-film
 fidelity: reimagining
 mpaa_rating: "R"
-spice: 4
 content_warnings:
   - "violence"
   - "gore"
@@ -40,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: canon
 ---
 
 ## Hook & thesis

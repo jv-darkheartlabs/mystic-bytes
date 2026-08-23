@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228254.Catharina_Maura"
 dek: ""
 number: R1332
 sort_key: 1332
-date: 2025-11-27
+date: 2026-05-25
 date_read: 2015-03-01
 category: arranged-marriage
 cover: /assets/readings/the-unwanted-marriage.jpg

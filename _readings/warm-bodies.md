@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4349839.Isaac_Marion"
 dek: ""
 number: R821
 sort_key: 821
-date: 2024-03-18
+date: 2026-03-31
 date_read: 2020-05-07
 category: vampire-paranormal
 cover: /assets/readings/warm-bodies.jpg

@@ -5,7 +5,7 @@ author: "Jasmine Walt"
 dek: "Of Dragons and Fae Book 3"
 number: R1244
 sort_key: 1244
-date: 2025-08-12
+date: 2026-05-16
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/caged-in-shadow.jpg

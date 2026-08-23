@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "New York Times Bestselling Author"
 number: R1302
 sort_key: 1302
-date: 2025-10-22
+date: 2026-05-22
 date_read: 2021-09-19
 category: reverse-harem
 cover: /assets/readings/abel.jpg

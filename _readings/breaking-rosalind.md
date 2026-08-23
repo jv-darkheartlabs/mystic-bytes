@@ -5,7 +5,7 @@ author: "Gigi Styx"
 dek: ""
 number: R1104
 sort_key: 1104
-date: 2025-03-01
+date: 2026-05-01
 date_read: 2015-09-19
 category: captor-and-captive
 cover: /assets/readings/breaking-rosalind.jpg

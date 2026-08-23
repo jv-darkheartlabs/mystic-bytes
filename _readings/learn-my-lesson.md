@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Wicked Villains"
 number: R1354
 sort_key: 1354
-date: 2025-12-28
+date: 2026-05-27
 date_read: 2025-07-13
 category: enemies-to-lovers
 cover: /assets/readings/learn-my-lesson.jpg

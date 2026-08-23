@@ -5,7 +5,7 @@ author: "Maren Moore"
 dek: "International bestselling author"
 number: R1505
 sort_key: 1505
-date: 2026-07-04
+date: 2026-06-13
 date_read: 2020-05-07
 category: enemies-to-lovers
 cover: /assets/readings/a-home-run-proposal.jpg

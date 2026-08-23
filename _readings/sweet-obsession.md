@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Dark Olympus"
 number: R1467
 sort_key: 1467
-date: 2026-05-15
+date: 2026-06-09
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/sweet-obsession.jpg

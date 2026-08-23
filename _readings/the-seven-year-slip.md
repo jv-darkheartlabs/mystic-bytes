@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166898.Ashley_Poston"
 dek: "A novel"
 number: R604
 sort_key: 604
-date: 2023-06-23
+date: 2026-03-07
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/the-seven-year-slip.jpg

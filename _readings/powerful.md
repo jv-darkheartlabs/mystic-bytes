@@ -5,8 +5,8 @@ author: "Lauren Roberts"
 dek: ""
 number: R971
 sort_key: 971
-date: 2024-09-14
-date_read: 2026-11-25
+date: 2026-04-16
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/powerful.jpg
 spice: 4

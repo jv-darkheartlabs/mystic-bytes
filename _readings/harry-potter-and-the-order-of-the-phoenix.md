@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/1077326.J_K_Rowling"
 dek: ""
 number: R947
 sort_key: 947
-date: 2024-08-16
+date: 2026-04-14
 date_read: 2014-05-07
-category: juvenile-fiction
+category: ya-fiction
 cover: /assets/readings/harry-potter-and-the-order-of-the-phoenix.jpg
-spice: 1
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

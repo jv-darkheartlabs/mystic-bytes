@@ -4,7 +4,7 @@ title: "Wrath of Nature"
 dek: "Roar as scale correction."
 number: V0518
 sort_key: 518
-date: 2027-01-31
+date: 2026-05-09
 date_written: 1992-08-30
 category: nature
 form: free-verse

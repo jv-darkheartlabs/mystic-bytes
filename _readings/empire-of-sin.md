@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Rina_Kent"
 dek: ""
 number: R332
 sort_key: 332
-date: 2022-07-26
+date: 2026-02-05
 date_read: 2023-11-25
 category: dark-billionaire
 cover: /assets/readings/empire-of-sin.jpg

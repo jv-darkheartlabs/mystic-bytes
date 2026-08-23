@@ -5,7 +5,7 @@ author: "Cassia Briar"
 dek: "A Dark Reverse Harem Romance"
 number: R809
 sort_key: 809
-date: 2024-02-29
+date: 2026-03-30
 date_read: 2020-11-25
 category: reverse-harem
 cover: /assets/readings/ruthless-beauty.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228244.Sarah_Hogle"
 dek: "The perfect dose of sweet, hilarious joy."
 number: R447
 sort_key: 447
-date: 2022-12-15
+date: 2026-02-18
 date_read: 2018-09-19
 category: enemies-to-lovers
 cover: /assets/readings/you-deserve-each-other.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166897.Elle_Kennedy"
 dek: "Off-Campus — Book 3"
 number: R456
 sort_key: 456
-date: 2022-12-25
+date: 2026-02-19
 date_read: 2015-09-19
 category: enemies-to-lovers
 cover: /assets/readings/the-score.jpg

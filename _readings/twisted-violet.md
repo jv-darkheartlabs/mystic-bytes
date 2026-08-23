@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Jessa_Halliwell"
 dek: "A Lovesick Villains Standalone"
 number: R198
 sort_key: 198
-date: 2022-02-18
+date: 2026-01-22
 date_read: 2021-03-01
 category: reverse-harem
 cover: /assets/readings/twisted-violet.jpg

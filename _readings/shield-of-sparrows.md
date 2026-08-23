@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Devney_Perry"
 dek: ""
 number: R999
 sort_key: 999
-date: 2024-10-22
+date: 2026-04-19
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/shield-of-sparrows.jpg

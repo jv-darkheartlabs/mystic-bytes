@@ -5,7 +5,7 @@ author: "Traci Lovelot"
 dek: "Our Fae Queen — Book 6"
 number: R546
 sort_key: 546
-date: 2023-04-15
+date: 2026-03-01
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/warrior-queen.jpg

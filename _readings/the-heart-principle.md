@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166902.Helen_Hoang"
 dek: "A novel"
 number: R1373
 sort_key: 1373
-date: 2026-01-23
+date: 2026-05-29
 date_read: 2020-08-16
 category: enemies-to-lovers
 cover: /assets/readings/the-heart-principle.jpg

@@ -5,11 +5,10 @@ author: "Oscar Wilde"
 dek: "A play exploring the complexities of marriage and morality."
 number: R1853
 sort_key: 1853
-date: 2026-05-07
+date: 2026-07-14
 date_read: 2008-11-25
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/an-ideal-husband.jpg
-spice: 2
 content_warnings:
   - "deception"
   - "blackmail"

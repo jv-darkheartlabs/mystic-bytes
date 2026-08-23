@@ -5,9 +5,9 @@ author: "Darrius Garrett"
 dek: ""
 number: R2036
 sort_key: 2036
-date: 2026-05-24
+date: 2026-07-25
 date_read: 2011-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/diary-of-a-freedom-writer-the-experience.jpg
 spice: 1
 content_warnings:

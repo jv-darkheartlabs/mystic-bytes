@@ -5,7 +5,7 @@ author: "Anna Todd"
 dek: "After series"
 number: R1648
 sort_key: 1648
-date: 2026-05-12
+date: 2026-06-26
 date_read: 2019-04-04
 category: enemies-to-lovers
 cover: /assets/readings/after-ever-happy-after-4.jpg

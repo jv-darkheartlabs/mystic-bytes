@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228252.Elsie_Silver"
 dek: "Rose Hill Series — Book Two"
 number: R1340
 sort_key: 1340
-date: 2025-12-11
+date: 2026-05-26
 date_read: 2023-11-25
 category: dark-cowboy-romance
 cover: /assets/readings/wild-eyes.jpg

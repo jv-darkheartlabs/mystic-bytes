@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "He ruins everything."
 number: R1116
 sort_key: 1116
-date: 2025-03-15
+date: 2026-05-02
 date_read: 2015-03-01
 category: enemies-to-lovers
 cover: /assets/readings/sabotage.jpg

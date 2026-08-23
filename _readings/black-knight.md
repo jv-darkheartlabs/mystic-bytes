@@ -5,7 +5,7 @@ author: "Rina Kent"
 dek: "Love is impossible. Hate is an open game. — Royal Elite Book 4"
 number: R025
 sort_key: 025
-date: 2021-07-26
+date: 2026-01-04
 date_read: 2016-10-22
 category: bully-romance
 cover: /assets/readings/black-knight.jpg

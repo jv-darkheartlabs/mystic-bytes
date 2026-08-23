@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "a novel"
 number: R478
 sort_key: 478
-date: 2023-01-26
+date: 2026-02-21
 date_read: 2025-04-04
 category: enemies-to-lovers
 cover: /assets/readings/hook-line-and-sinker.jpg

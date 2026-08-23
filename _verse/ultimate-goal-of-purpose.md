@@ -4,7 +4,7 @@ title: "Ultimate Goal of Purpose"
 dek: "Bliss as appetite — not nirvana brochure."
 number: V0871
 sort_key: 871
-date: 2032-12-23
+date: 2026-07-29
 date_written: 2005-07-19
 category: life
 form: free-verse

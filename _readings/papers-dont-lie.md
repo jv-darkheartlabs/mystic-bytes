@@ -5,7 +5,7 @@ author: "Maeve Hazel"
 dek: ""
 number: R908
 sort_key: 908
-date: 2024-07-03
+date: 2026-04-10
 date_read: 2023-11-25
 category: enemies-to-lovers
 cover: /assets/readings/papers-dont-lie.jpg

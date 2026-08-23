@@ -5,7 +5,7 @@ author: "Olivia Dade"
 dek: "A Novel"
 number: R900
 sort_key: 900
-date: 2024-06-19
+date: 2026-04-09
 date_read: 2015-03-01
 category: enemies-to-lovers
 cover: /assets/readings/ship-wrecked.jpg

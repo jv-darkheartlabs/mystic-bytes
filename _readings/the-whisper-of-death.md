@@ -5,7 +5,7 @@ author: "Elisa S. Amore"
 dek: "Book Four: Expiation — Touched"
 number: R1491
 sort_key: 1491
-date: 2026-06-15
+date: 2026-06-12
 date_read: 2018-09-19
 category: gothic-horror-romance
 cover: /assets/readings/the-whisper-of-death.jpg

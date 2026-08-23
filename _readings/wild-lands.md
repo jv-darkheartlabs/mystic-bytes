@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6543501.Stacey_Marie_Brown"
 dek: "Savage Lands Book Two"
 number: R285
 sort_key: 285
-date: 2022-05-31
+date: 2026-01-31
 date_read: 2024-09-19
 category: vampire-paranormal
 cover: /assets/readings/wild-lands.jpg

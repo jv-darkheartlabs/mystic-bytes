@@ -4,7 +4,7 @@ title: "Guardians of the Soul"
 dek: "Pets as household brass."
 number: V0439
 sort_key: 439
-date: 2026-12-27
+date: 2026-04-15
 date_written: 2005-04-12
 category: nola
 form: open

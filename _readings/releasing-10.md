@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6572607.Chloe_Walsh"
 dek: "Boys of Tommen #6"
 number: R320
 sort_key: 320
-date: 2022-07-11
+date: 2026-02-04
 date_read: 2023-08-16
 category: bully-romance
 cover: /assets/readings/releasing-10.jpg

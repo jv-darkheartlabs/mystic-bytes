@@ -5,9 +5,9 @@ author: "Karen M. McManus"
 dek: "One of Us is Lying, #1"
 number: R1796
 sort_key: 1796
-date: 2026-07-03
+date: 2026-07-09
 date_read: 2011-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/one-of-us-is-lying-one-of-us-is-lying-1.jpg
 spice: 2
 content_warnings:

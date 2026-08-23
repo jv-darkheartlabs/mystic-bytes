@@ -5,7 +5,7 @@ author: "Susan         Hill"
 dek: ""
 number: R1728
 sort_key: 1728
-date: 2026-06-01
+date: 2026-07-03
 date_read: 2015-03-01
 category: gothic-horror-romance
 cover: /assets/readings/the-woman-in-black.jpg

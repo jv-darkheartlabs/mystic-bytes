@@ -5,7 +5,7 @@ author: "C.S. Lewis"
 dek: "The complete collection of C.S. Lewis's beloved fantasy series."
 number: R2233
 sort_key: 2233
-date: 2026-05-27
+date: 2026-08-06
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/the-chronicles-of-narnia-the-chronicles-of-narnia-1-7.jpg

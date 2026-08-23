@@ -4,7 +4,7 @@ title: "Perspective"
 dek: "The lens you cannot set down."
 number: V0328
 sort_key: 328
-date: 2026-11-10
+date: 2026-03-14
 date_written: 2017-02-11
 category: love
 form: free-verse

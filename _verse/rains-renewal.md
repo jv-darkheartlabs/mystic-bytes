@@ -4,7 +4,7 @@ title: "Rain's Renewal"
 dek: "Wet as beginning, not absolution."
 number: V0503
 sort_key: 503
-date: 2027-01-16
+date: 2026-04-29
 date_written: 1992-11-03
 category: nature
 form: free-verse

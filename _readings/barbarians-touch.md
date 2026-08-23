@@ -5,7 +5,7 @@ author: "Ruby Dixon"
 dek: "An Ice Planet Barbarians Novel — Special Edition"
 number: R1396
 sort_key: 1396
-date: 2026-02-17
+date: 2026-06-01
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/barbarians-touch.jpg

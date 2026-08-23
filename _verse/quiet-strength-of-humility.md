@@ -4,7 +4,7 @@ title: "Quiet Strength of Humility"
 dek: "Lowly as architecture — not disappearance."
 number: V0866
 sort_key: 866
-date: 2032-07-03
+date: 2026-07-26
 date_written: 2013-07-09
 category: life
 form: free-verse

@@ -5,11 +5,10 @@ author: "Jules Verne"
 dek: ""
 number: R1719
 sort_key: 1719
-date: 2026-06-10
+date: 2026-07-02
 date_read: 1994-05-15
 category: classic-literature
 cover: /assets/readings/twenty-thousand-leagues-under-the-sea.jpg
-spice: 1
 content_warnings:
 tags:
   - adventure

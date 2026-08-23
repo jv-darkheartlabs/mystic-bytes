@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19981277.Nikki_St_Crowe"
 dek: "She belongs to the Lost Boys now."
 number: R311
 sort_key: 311
-date: 2022-07-05
+date: 2026-02-03
 date_read: 2026-08-16
 category: vampire-paranormal
 cover: /assets/readings/their-vicious-darling.jpg

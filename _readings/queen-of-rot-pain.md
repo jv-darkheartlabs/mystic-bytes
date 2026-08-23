@@ -5,7 +5,7 @@ author: "Liv Zander"
 dek: "The Pale Court Book Two"
 number: R295
 sort_key: 295
-date: 2022-06-13
+date: 2026-02-01
 date_read: 2022-10-22
 category: vampire-paranormal
 cover: /assets/readings/queen-of-rot-pain.jpg

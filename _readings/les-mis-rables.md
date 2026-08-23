@@ -5,11 +5,10 @@ author: "Victor Hugo"
 dek: "A tale of redemption and love amidst the struggles of 19th century France."
 number: R1603
 sort_key: 1603
-date: 2026-06-26
+date: 2026-06-21
 date_read: 2022-04-04
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/les-mis-rables.jpg
-spice: 1
 content_warnings:
   - "violence"
   - "poverty"

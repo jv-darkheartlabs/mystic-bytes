@@ -4,7 +4,7 @@ title: "Quiet Power of Humility"
 dek: "Modesty as load-bearing quiet."
 number: V0865
 sort_key: 865
-date: 2032-06-29
+date: 2026-07-25
 date_written: 2007-09-22
 category: life
 form: free-verse

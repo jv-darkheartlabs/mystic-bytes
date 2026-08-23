@@ -4,7 +4,7 @@ title: "Soaring Above"
 dek: "Height as temporary citizenship."
 number: V0514
 sort_key: 514
-date: 2027-01-27
+date: 2026-05-06
 date_written: 1993-07-19
 category: nature
 form: free-verse

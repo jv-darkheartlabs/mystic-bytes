@@ -5,7 +5,7 @@ author: "E.L. James"
 dek: "Fifty Shades, #2"
 number: R1780
 sort_key: 1780
-date: 2026-04-10
+date: 2026-07-08
 date_read: 2019-10-22
 category: dark-billionaire
 cover: /assets/readings/fifty-shades-darker-fifty-shades-2.jpg

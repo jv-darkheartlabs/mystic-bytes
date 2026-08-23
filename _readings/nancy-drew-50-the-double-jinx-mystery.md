@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #50"
 number: R2374
 sort_key: 2374
-date: 2026-03-28
+date: 2026-08-21
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-50-the-double-jinx-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

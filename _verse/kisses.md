@@ -4,7 +4,7 @@ title: "Kisses"
 dek: "Mouth as treaty and trespass."
 number: V0301
 sort_key: 301
-date: 2026-10-14
+date: 2026-02-23
 date_written: 2018-02-14
 category: love
 form: free-verse

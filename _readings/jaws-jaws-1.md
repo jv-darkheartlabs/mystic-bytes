@@ -5,9 +5,9 @@ author: "Peter Benchley"
 dek: "The classic thriller that inspired a generation."
 number: R1937
 sort_key: 1937
-date: 2026-05-23
+date: 2026-07-21
 date_read: 2012-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/jaws-jaws-1.jpg
 spice: 2
 content_warnings:

@@ -5,7 +5,7 @@ author: "Anna Todd"
 dek: "After series"
 number: R1770
 sort_key: 1770
-date: 2026-04-20
+date: 2026-07-07
 date_read: 2021-09-19
 category: enemies-to-lovers
 cover: /assets/readings/before-after-5.jpg

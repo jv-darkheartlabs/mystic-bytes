@@ -5,7 +5,7 @@ author: "Laurie Gilmore"
 dek: "Love blossoms in the most unexpected places."
 number: R606
 sort_key: 606
-date: 2023-07-01
+date: 2026-03-07
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/the-strawberry-patch-pancake-house.jpg

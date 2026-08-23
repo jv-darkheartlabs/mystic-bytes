@@ -5,11 +5,10 @@ author: "Friedrich Nietzsche"
 dek: "A collection of Nietzsche's key writings exploring morality, culture, and the human condition."
 number: R2040
 sort_key: 2040
-date: 2026-05-20
+date: 2026-07-26
 date_read: 2005-09-19
-category: dark-thriller
+category: philosophy-criticism
 cover: /assets/readings/basic-writings-of-nietzsche.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18222702.Catherine_Cowles"
 dek: "The Wrecked Series"
 number: R762
 sort_key: 762
-date: 2024-01-04
+date: 2026-03-25
 date_read: 2021-09-19
 category: forbidden-love
 cover: /assets/readings/reckless-memories.jpg

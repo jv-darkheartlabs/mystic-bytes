@@ -4,7 +4,7 @@ title: "Tradition and Heritage"
 dek: "Custom as living thread — not museum."
 number: V0919
 sort_key: 919
-date: 2035-02-11
+date: 2026-08-16
 date_written: 2002-10-25
 category: justice
 form: free-verse

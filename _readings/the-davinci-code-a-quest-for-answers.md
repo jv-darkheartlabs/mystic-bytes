@@ -5,9 +5,9 @@ author: "Josh McDowell"
 dek: ""
 number: R2025
 sort_key: 2025
-date: 2026-06-04
+date: 2026-07-25
 date_read: 2010-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-davinci-code-a-quest-for-answers.jpg
 spice: 1
 content_warnings:

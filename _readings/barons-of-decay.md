@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17138508.Angel_Lawson"
 dek: "Royals of Forsyth"
 number: R019
 sort_key: 019
-date: 2021-07-24
+date: 2026-01-03
 date_read: 2022-04-04
 category: bully-romance
 cover: /assets/readings/barons-of-decay.jpg

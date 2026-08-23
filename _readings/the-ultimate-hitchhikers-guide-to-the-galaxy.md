@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4.Douglas_Adams"
 dek: "Contains all five books in the Hitchhiker's 'trilogy'"
 number: R598
 sort_key: 598
-date: 2023-06-22
+date: 2026-03-06
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/the-ultimate-hitchhikers-guide-to-the-galaxy.jpg

@@ -4,7 +4,7 @@ title: "The Hunger Games: Mockingjay – Part 1"
 dek: "2014 revolution half — propaganda, rescue, and fracture."
 number: F0043
 sort_key: 43
-date: 2026-07-11
+date: 2026-08-23
 date_watched: 2014-11-21
 year: 2014
 poster: /assets/films/mockingjay-part-1-2014.jpg
@@ -26,7 +26,6 @@ category: dystopian
 format: feature-film
 fidelity: loose
 mpaa_rating: "PG-13"
-spice: 2
 content_warnings:
   - "violence"
   - "war"
@@ -41,6 +40,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: juvenile
 ---
 
 ## Hook & thesis

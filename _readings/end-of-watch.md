@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/3389.Stephen_King"
 dek: ""
 number: R367
 sort_key: 367
-date: 2022-09-06
+date: 2026-02-09
 date_read: 2012-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/end-of-watch.jpg
 spice: 2
 content_warnings:

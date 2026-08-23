@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166897.Elle_Kennedy"
 dek: "She's the best kind of dangerous... and he can't get enough"
 number: R450
 sort_key: 450
-date: 2022-12-18
+date: 2026-02-18
 date_read: 2021-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-risk.jpg

@@ -5,7 +5,7 @@ author: "Kevin  Williamson"
 dek: "Based on the book series by L.J. Smith"
 number: R1984
 sort_key: 1984
-date: 2026-04-06
+date: 2026-07-24
 date_read: 2019-07-13
 category: vampire-paranormal
 cover: /assets/readings/the-vampire-diaries-tv-pilot-1x01.jpg

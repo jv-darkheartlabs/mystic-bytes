@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
 dek: "A Throne of Glass Novel"
 number: R1128
 sort_key: 1128
-date: 2025-03-29
+date: 2026-05-03
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/heir-of-fire.jpg

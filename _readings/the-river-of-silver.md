@@ -5,7 +5,7 @@ author: "Shannon Chakraborty"
 dek: "Tales from the Daevabad Trilogy"
 number: R1427
 sort_key: 1427
-date: 2026-03-27
+date: 2026-06-04
 date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/the-river-of-silver.jpg

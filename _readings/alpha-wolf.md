@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1167
 sort_key: 1167
-date: 2025-05-09
+date: 2026-05-08
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/alpha-wolf.jpg

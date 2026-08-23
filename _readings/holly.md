@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/3389.Stephen_King"
 dek: ""
 number: R356
 sort_key: 356
-date: 2022-08-27
+date: 2026-02-08
 date_read: 2011-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/holly.jpg
 spice: 2
 content_warnings:

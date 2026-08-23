@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/38550.Brandon_Sanderson"
 dek: "Mistborn Book Two"
 number: R702
 sort_key: 702
-date: 2023-10-26
+date: 2026-03-18
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/the-well-of-ascension.jpg

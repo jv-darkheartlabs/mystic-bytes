@@ -5,7 +5,7 @@ author: "Paul Tremblay"
 dek: ""
 number: R1803
 sort_key: 1803
-date: 2026-06-26
+date: 2026-07-09
 date_read: 2018-06-10
 category: gothic-horror-romance
 cover: /assets/readings/a-head-full-of-ghosts.jpg

@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/4038901.Rebecca_Zanetti"
 dek: "New York Times Bestselling Author"
 number: R143
 sort_key: 143
-date: 2021-12-19
-date_read: 2026-11-25
+date: 2026-01-16
+date_read: 2026-08-23
 category: forbidden-love
 cover: /assets/readings/one-dark-kiss.jpg
 spice: 4

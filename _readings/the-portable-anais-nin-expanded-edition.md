@@ -5,7 +5,7 @@ author: "Anaïs Nin"
 dek: "Expanded Edition"
 number: R2064
 sort_key: 2064
-date: 2026-04-26
+date: 2026-07-28
 date_read: 2015-06-10
 category: gothic-horror-romance
 cover: /assets/readings/the-portable-anais-nin-expanded-edition.jpg

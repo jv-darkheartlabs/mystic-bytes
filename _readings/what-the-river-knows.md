@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17349131.Isabel_Iba_ez"
 dek: "A divine exploration. A deadly secret. A desire she can't escape."
 number: R1242
 sort_key: 1242
-date: 2025-08-11
+date: 2026-05-16
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/what-the-river-knows.jpg

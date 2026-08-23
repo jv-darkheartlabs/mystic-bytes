@@ -5,7 +5,7 @@ author: "Atley Wykes"
 dek: "Lands of Maioris — Book 1"
 number: R1438
 sort_key: 1438
-date: 2026-04-09
+date: 2026-06-06
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/to-chain-an-elf-king.jpg

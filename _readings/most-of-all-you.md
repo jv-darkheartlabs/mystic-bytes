@@ -5,7 +5,7 @@ author: "Mia Sheridan"
 dek: "A Love Story"
 number: R739
 sort_key: 739
-date: 2023-12-07
+date: 2026-03-22
 date_read: 2022-04-04
 category: forbidden-love
 cover: /assets/readings/most-of-all-you.jpg

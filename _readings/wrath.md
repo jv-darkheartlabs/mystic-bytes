@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6449152.John_Gwynne"
 dek: ""
 number: R684
 sort_key: 684
-date: 2023-10-02
+date: 2026-03-16
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/wrath.jpg

@@ -4,7 +4,7 @@ title: "Dance of Light"
 dek: "Summer brass as second sun."
 number: V0411
 sort_key: 411
-date: 2026-11-29
+date: 2026-03-27
 date_written: 2005-07-04
 category: nola
 form: open

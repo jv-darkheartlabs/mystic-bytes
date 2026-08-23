@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #10"
 number: R2330
 sort_key: 2330
-date: 2026-05-11
+date: 2026-08-16
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-10-the-password-to-larkspur-lane.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

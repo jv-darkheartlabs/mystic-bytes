@@ -4,7 +4,7 @@ title: "Fifty Shades Darker"
 dek: "2017 sequel — ghosts of Grey's past surface."
 number: F0020
 sort_key: 20
-date: 2026-07-11
+date: 2026-04-17
 date_watched: 2017-02-10
 year: 2017
 poster: /assets/films/fifty-shades-darker-2017.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

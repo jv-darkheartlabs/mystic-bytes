@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7139382.Penelope_Douglas"
 dek: "A Devil's Night Novel"
 number: R056
 sort_key: 056
-date: 2021-09-04
+date: 2026-01-07
 date_read: 2023-05-07
 category: bully-romance
 cover: /assets/readings/hideaway.jpg

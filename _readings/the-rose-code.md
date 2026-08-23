@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18222706.Kate_Quinn"
 dek: ""
 number: R428
 sort_key: 428
-date: 2022-11-26
+date: 2026-02-16
 date_read: 2013-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-rose-code.jpg
 spice: 2
 content_warnings:

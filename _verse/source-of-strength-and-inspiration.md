@@ -4,7 +4,7 @@ title: "Source of Strength and Inspiration"
 dek: "Conviction without sermon."
 number: V0805
 sort_key: 805
-date: 2027-06-24
+date: 2026-06-14
 date_written: 2011-01-24
 category: life
 form: free-verse

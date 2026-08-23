@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1306
 sort_key: 1306
-date: 2025-10-28
+date: 2026-05-22
 date_read: 2025-04-04
 category: reverse-harem
 cover: /assets/readings/broken-fae.jpg

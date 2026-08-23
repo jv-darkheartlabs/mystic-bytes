@@ -5,7 +5,7 @@ author: "Sophie Lark"
 dek: ""
 number: R1114
 sort_key: 1114
-date: 2025-03-10
+date: 2026-05-02
 date_read: 2025-10-22
 category: enemies-to-lovers
 cover: /assets/readings/there-is-no-devil.jpg

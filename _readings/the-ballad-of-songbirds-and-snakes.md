@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/153394.Suzanne_Collins"
 dek: ""
 number: R840
 sort_key: 840
-date: 2024-04-08
+date: 2026-04-02
 date_read: 2005-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-ballad-of-songbirds-and-snakes.jpg
 spice: 2
 content_warnings:

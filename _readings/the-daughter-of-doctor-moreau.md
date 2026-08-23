@@ -5,7 +5,7 @@ author: "Silvia Moreno-Garcia"
 dek: "A reimagining of a classic tale exploring love and monstrosity."
 number: R1718
 sort_key: 1718
-date: 2026-06-11
+date: 2026-07-02
 date_read: 2017-11-25
 category: gothic-horror-romance
 cover: /assets/readings/the-daughter-of-doctor-moreau.jpg

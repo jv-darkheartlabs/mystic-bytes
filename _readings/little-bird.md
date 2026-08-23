@@ -5,7 +5,7 @@ author: "Jenika Snow"
 dek: "Underworld Kings"
 number: R1287
 sort_key: 1287
-date: 2025-10-03
+date: 2026-05-20
 date_read: 2018-03-01
 category: mafia-boss-and-innocent
 cover: /assets/readings/little-bird.jpg

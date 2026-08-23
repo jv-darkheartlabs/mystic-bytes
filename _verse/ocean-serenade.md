@@ -4,7 +4,7 @@ title: "Ocean Serenade"
 dek: "Salt water as distance teacher."
 number: V0502
 sort_key: 502
-date: 2027-01-15
+date: 2026-04-28
 date_written: 1994-05-11
 category: nature
 form: open

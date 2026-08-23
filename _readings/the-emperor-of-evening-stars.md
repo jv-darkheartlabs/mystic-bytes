@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7159152.Laura_Thalassa"
 dek: "Every devil has his day"
 number: R1189
 sort_key: 1189
-date: 2025-06-10
+date: 2026-05-10
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/the-emperor-of-evening-stars.jpg

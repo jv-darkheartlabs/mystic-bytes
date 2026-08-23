@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17138508.Angel_Lawson"
 dek: "Royals of Forsyth U — Book 4"
 number: R036
 sort_key: 036
-date: 2021-08-13
+date: 2026-01-05
 date_read: 2015-03-01
 category: bully-romance
 cover: /assets/readings/dukes-of-ruin.jpg

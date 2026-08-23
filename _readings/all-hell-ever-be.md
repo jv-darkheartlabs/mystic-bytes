@@ -5,7 +5,7 @@ author: "W. Winters"
 dek: ""
 number: R330
 sort_key: 330
-date: 2022-07-28
+date: 2026-02-05
 date_read: 2021-09-19
 category: dark-billionaire
 cover: /assets/readings/all-hell-ever-be.jpg

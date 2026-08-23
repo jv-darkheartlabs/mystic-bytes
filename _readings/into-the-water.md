@@ -5,9 +5,9 @@ author: "Paula Hawkins"
 dek: ""
 number: R1801
 sort_key: 1801
-date: 2026-06-28
+date: 2026-07-09
 date_read: 2006-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/into-the-water.jpg
 spice: 2
 content_warnings:

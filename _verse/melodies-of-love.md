@@ -4,7 +4,7 @@ title: "Melodies of Love"
 dek: "Romance keeping time with brass."
 number: V0441
 sort_key: 441
-date: 2026-12-29
+date: 2026-04-17
 date_written: 2009-02-14
 category: nola
 form: open

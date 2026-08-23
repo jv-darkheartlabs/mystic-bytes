@@ -5,7 +5,7 @@ author: "Axie Oh"
 dek: "If you had another chance to love, would you take it?"
 number: R1038
 sort_key: 1038
-date: 2024-12-08
+date: 2026-04-24
 date_read: 2021-06-10
 category: forbidden-love
 cover: /assets/readings/asap.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228249.Becka_Mack"
 dek: ""
 number: R455
 sort_key: 455
-date: 2022-12-24
+date: 2026-02-19
 date_read: 2026-08-16
 category: enemies-to-lovers
 cover: /assets/readings/consider-me.jpg

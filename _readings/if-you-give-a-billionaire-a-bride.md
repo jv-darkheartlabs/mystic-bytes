@@ -5,11 +5,10 @@ author: "Ann Einerson"
 dek: ""
 number: R831
 sort_key: 831
-date: 2024-04-02
+date: 2026-04-01
 date_read: 2018-06-10
-category: dark-billionaire
+category: juvenile-fiction
 cover: /assets/readings/if-you-give-a-billionaire-a-bride.jpg
-spice: 3
 content_warnings:
 tags:
   - darkbillionaire

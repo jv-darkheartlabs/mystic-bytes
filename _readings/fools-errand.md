@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book One of the Tawny Man Trilogy"
 number: R489
 sort_key: 489
-date: 2023-02-08
+date: 2026-02-22
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/fools-errand.jpg

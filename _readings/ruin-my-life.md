@@ -5,7 +5,7 @@ author: "Luna Pierce"
 dek: "A Dark Mafia Romance"
 number: R803
 sort_key: 803
-date: 2024-02-29
+date: 2026-03-29
 date_read: 2026-05-07
 category: mafia-boss-and-innocent
 cover: /assets/readings/ruin-my-life.jpg

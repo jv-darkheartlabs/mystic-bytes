@@ -5,7 +5,7 @@ author: "Shannon Chakraborty"
 dek: "The Daevabad Trilogy — Book Three"
 number: R1421
 sort_key: 1421
-date: 2026-03-19
+date: 2026-06-04
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/the-empire-of-gold.jpg

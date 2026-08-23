@@ -5,9 +5,9 @@ author: "Beverly Cleary"
 dek: "Leigh Botts navigates the challenges of growing up through letters to her favorite author."
 number: R2130
 sort_key: 2130
-date: 2026-05-30
+date: 2026-07-30
 date_read: 2005-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/dear-mr-henshaw-leigh-botts-1.jpg
 spice: 1
 content_warnings:

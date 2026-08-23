@@ -4,7 +4,7 @@ title: "Embracing the Unseen"
 dek: "What the eye edits out still weighs."
 number: V0117
 sort_key: 117
-date: 2026-08-19
+date: 2026-01-16
 date_written: 2011-11-19
 category: spirituality
 form: free-verse

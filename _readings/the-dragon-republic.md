@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/16605246.R_F_Kuang"
 dek: ""
 number: R688
 sort_key: 688
-date: 2023-10-04
+date: 2026-03-16
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/the-dragon-republic.jpg

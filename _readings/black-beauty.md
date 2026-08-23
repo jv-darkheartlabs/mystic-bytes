@@ -5,11 +5,10 @@ author: "Anna Sewell"
 dek: ""
 number: R1715
 sort_key: 1715
-date: 2026-06-14
+date: 2026-07-02
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/black-beauty.jpg
-spice: 1
 content_warnings:
 tags:
   - animal rights

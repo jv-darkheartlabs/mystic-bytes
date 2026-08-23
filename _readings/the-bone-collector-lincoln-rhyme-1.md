@@ -5,9 +5,9 @@ author: "Jeffery Deaver"
 dek: "Lincoln Rhyme Series"
 number: R1974
 sort_key: 1974
-date: 2026-04-16
+date: 2026-07-24
 date_read: 2009-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-bone-collector-lincoln-rhyme-1.jpg
 spice: 2
 content_warnings:

@@ -5,7 +5,7 @@ author: "Sierra Simone"
 dek: "pray for us sinners."
 number: R1262
 sort_key: 1262
-date: 2025-09-08
+date: 2026-05-18
 date_read: 2017-05-07
 category: forbidden-love
 cover: /assets/readings/sinner.jpg

@@ -5,7 +5,7 @@ author: "Cassandra Clare"
 dek: "The Infernal Devices — Book Two"
 number: R562
 sort_key: 562
-date: 2023-05-07
+date: 2026-03-02
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/clockwork-prince.jpg

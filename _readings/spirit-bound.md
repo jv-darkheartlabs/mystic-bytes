@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/137902.Richelle_Mead"
 dek: ""
 number: R1065
 sort_key: 1065
-date: 2025-01-06
+date: 2026-04-27
 date_read: 2024-06-10
 category: vampire-paranormal
 cover: /assets/readings/spirit-bound.jpg

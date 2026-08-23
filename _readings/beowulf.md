@@ -5,11 +5,10 @@ author: "Unknown"
 dek: ""
 number: R1849
 sort_key: 1849
-date: 2026-05-11
+date: 2026-07-14
 date_read: 1996-05-15
 category: classic-literature
 cover: /assets/readings/beowulf.jpg
-spice: 1
 content_warnings:
 tags:
   - epic

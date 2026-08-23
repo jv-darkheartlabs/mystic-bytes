@@ -5,7 +5,7 @@ author: "Christopher Paolini"
 dek: "The Inheritance Cycle #1"
 number: R2182
 sort_key: 2182
-date: 2026-04-08
+date: 2026-08-04
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/eragon-the-inheritance-cycle-1.jpg

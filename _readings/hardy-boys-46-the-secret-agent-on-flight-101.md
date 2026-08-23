@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #46"
 number: R2311
 sort_key: 2311
-date: 2026-05-30
+date: 2026-08-14
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-46-the-secret-agent-on-flight-101.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

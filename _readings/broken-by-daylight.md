@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20318490.Elizabeth_Helen"
 dek: "Beasts of the Briar — Book Four"
 number: R301
 sort_key: 301
-date: 2022-06-20
+date: 2026-02-02
 date_read: 2016-07-13
 category: vampire-paranormal
 cover: /assets/readings/broken-by-daylight.jpg

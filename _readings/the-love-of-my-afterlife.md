@@ -5,7 +5,7 @@ author: "Kirsty Greenwood"
 dek: "National Bestseller"
 number: R1025
 sort_key: 1025
-date: 2024-11-23
+date: 2026-04-22
 date_read: 2020-11-25
 category: forbidden-love
 cover: /assets/readings/the-love-of-my-afterlife.jpg

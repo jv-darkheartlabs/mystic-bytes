@@ -5,11 +5,10 @@ author: "Albert Camus"
 dek: ""
 number: R1908
 sort_key: 1908
-date: 2026-06-21
+date: 2026-07-19
 date_read: 1996-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-stranger.jpg
-spice: 1
 content_warnings:
   - "existential themes"
   - "violence"

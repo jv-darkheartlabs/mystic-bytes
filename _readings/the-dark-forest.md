@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5780686.Cixin_Liu"
 dek: "The sequel to The Three-Body Problem"
 number: R590
 sort_key: 590
-date: 2023-06-06
+date: 2026-03-06
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/the-dark-forest.jpg

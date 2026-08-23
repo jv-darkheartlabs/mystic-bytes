@@ -4,7 +4,7 @@ title: "Journey through Sadness"
 dek: "Sadness as weather, not curriculum."
 number: V0212
 sort_key: 212
-date: 2026-09-29
+date: 2026-02-14
 date_written: 1996-11-20
 category: grief-loss-resilience
 form: free-verse

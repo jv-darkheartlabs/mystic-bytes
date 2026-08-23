@@ -5,11 +5,10 @@ author: "Anne Frank"
 dek: ""
 number: R1618
 sort_key: 1618
-date: 2026-06-11
+date: 2026-06-23
 date_read: 2013-10-22
-category: dark-thriller
+category: memoir-nonfiction
 cover: /assets/readings/the-diary-of-a-young-girl.jpg
-spice: 1
 content_warnings:
   - "war"
   - "persecution"

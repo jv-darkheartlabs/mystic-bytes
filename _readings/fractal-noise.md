@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8349.Christopher_Paolini"
 dek: "Humanity is not alone"
 number: R577
 sort_key: 577
-date: 2023-05-25
+date: 2026-03-04
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/fractal-noise.jpg

@@ -4,7 +4,7 @@ title: "Beacon of Justice"
 dek: "Justice as signal, not sermon."
 number: V0134
 sort_key: 134
-date: 2026-09-05
+date: 2026-01-28
 date_written: 2000-03-09
 category: spirituality
 form: free-verse

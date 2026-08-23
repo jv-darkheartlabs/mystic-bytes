@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss"
 dek: ""
 number: R690
 sort_key: 690
-date: 2023-10-06
+date: 2026-03-17
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/the-name-of-the-wind.jpg

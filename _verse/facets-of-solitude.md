@@ -4,7 +4,7 @@ title: "Facets of Solitude"
 dek: "Alone has many rooms — some you choose."
 number: V0821
 sort_key: 821
-date: 2028-10-29
+date: 2026-06-25
 date_written: 2003-09-08
 category: life
 form: free-verse

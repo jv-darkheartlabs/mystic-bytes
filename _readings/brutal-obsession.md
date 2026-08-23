@@ -5,7 +5,7 @@ author: "S. Massery"
 dek: "He's a hockey god... and she's the one who got in his way."
 number: R227
 sort_key: 227
-date: 2022-03-25
+date: 2026-01-25
 date_read: 2026-05-07
 category: stalker-obsession
 cover: /assets/readings/brutal-obsession.jpg

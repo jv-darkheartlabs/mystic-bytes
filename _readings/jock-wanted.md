@@ -5,7 +5,7 @@ author: "Kate Meader"
 dek: "A Rookie Rebels Novel"
 number: R885
 sort_key: 885
-date: 2024-06-02
+date: 2026-04-07
 date_read: 2024-06-10
 category: enemies-to-lovers
 cover: /assets/readings/jock-wanted.jpg

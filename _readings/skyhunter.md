@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4342215.Marie_Lu"
 dek: ""
 number: R586
 sort_key: 586
-date: 2023-06-02
+date: 2026-03-05
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/skyhunter.jpg

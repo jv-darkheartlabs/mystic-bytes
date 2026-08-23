@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/14106524.Stephanie_Garber"
 dek: ""
 number: R1163
 sort_key: 1163
-date: 2025-05-11
+date: 2026-05-07
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/once-upon-a-broken-heart.jpg

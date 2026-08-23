@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/2063919.Michael_J_Sullivan"
 dek: "Riyria Revelations"
 number: R513
 sort_key: 513
-date: 2023-03-04
+date: 2026-02-25
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/rise-of-empire.jpg

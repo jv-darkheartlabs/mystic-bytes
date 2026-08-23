@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8347.Garth_Nix"
 dek: "Old Kingdom Book Five"
 number: R508
 sort_key: 508
-date: 2023-03-04
+date: 2026-02-24
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/goldenhand.jpg

@@ -4,7 +4,7 @@ title: "Science Fiction Journey"
 dek: "Space as permission to ask."
 number: V0606
 sort_key: 606
-date: 2027-02-27
+date: 2026-05-28
 date_written: 1990-04-17
 category: curiosity
 form: free-verse

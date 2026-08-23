@@ -5,9 +5,9 @@ author: "Tom Clancy"
 dek: "John Clark, #2; Jack Ryan Universe, #10"
 number: R1967
 sort_key: 1967
-date: 2026-04-23
+date: 2026-07-23
 date_read: 2012-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/rainbow-six-john-clark-2-jack-ryan-universe-10.jpg
 spice: 1
 content_warnings:

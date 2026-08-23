@@ -4,7 +4,7 @@ title: "Solitude Within"
 dek: "Alone as workshop — balance the bill."
 number: V0847
 sort_key: 847
-date: 2030-12-13
+date: 2026-07-13
 date_written: 2014-12-12
 category: life
 form: free-verse

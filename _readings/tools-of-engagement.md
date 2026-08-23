@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "a novel"
 number: R853
 sort_key: 853
-date: 2024-04-23
+date: 2026-04-04
 date_read: 2016-10-22
 category: enemies-to-lovers
 cover: /assets/readings/tools-of-engagement.jpg

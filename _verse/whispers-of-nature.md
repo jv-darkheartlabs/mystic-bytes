@@ -4,7 +4,7 @@ title: "Whispers of Nature"
 dek: "Tree as witness, not sermon."
 number: V0504
 sort_key: 504
-date: 2027-01-17
+date: 2026-04-30
 date_written: 1993-04-18
 category: nature
 form: free-verse

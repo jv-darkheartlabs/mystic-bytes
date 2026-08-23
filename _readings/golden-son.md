@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6524620.Pierce_Brown"
 dek: "Red Rising Saga Book Two"
 number: R721
 sort_key: 721
-date: 2023-11-14
+date: 2026-03-20
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/golden-son.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Layla_Fae"
 dek: "Jaga and the Devil — Book 3"
 number: R138
 sort_key: 138
-date: 2021-12-05
+date: 2026-01-15
 date_read: 2021-06-10
 category: forbidden-love
 cover: /assets/readings/devils-dance.jpg

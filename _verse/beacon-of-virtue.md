@@ -4,7 +4,7 @@ title: "Beacon of Virtue"
 dek: "Signal fires also burn the hand."
 number: V0125
 sort_key: 125
-date: 2026-08-27
+date: 2026-01-22
 date_written: 2001-08-22
 category: spirituality
 form: free-verse

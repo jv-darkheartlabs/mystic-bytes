@@ -4,7 +4,7 @@ title: "Shaping Destiny"
 dek: "Tomorrow as clay — not prophecy brochure."
 number: V0845
 sort_key: 845
-date: 2030-10-05
+date: 2026-07-12
 date_written: 2010-04-04
 category: life
 form: free-verse

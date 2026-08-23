@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #21"
 number: R2342
 sort_key: 2342
-date: 2026-04-29
+date: 2026-08-18
 date_read: 1992-06-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-21-the-secret-in-the-old-attic.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

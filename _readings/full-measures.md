@@ -5,7 +5,7 @@ author: "Rebecca Yarros"
 dek: "Three books can change everything..."
 number: R339
 sort_key: 339
-date: 2022-08-08
+date: 2026-02-06
 date_read: 2018-09-19
 category: dark-military-romance
 cover: /assets/readings/full-measures.jpg

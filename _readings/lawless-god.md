@@ -5,7 +5,7 @@ author: "Lola King"
 dek: "That Stockholm syndrome is doing wonders for you."
 number: R1513
 sort_key: 1513
-date: 2026-07-04
+date: 2026-06-14
 date_read: 2016-04-04
 category: captor-and-captive
 cover: /assets/readings/lawless-god.jpg

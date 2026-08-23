@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17594708.Mary_McMyne"
 dek: ""
 number: R972
 sort_key: 972
-date: 2024-09-15
+date: 2026-04-16
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/the-book-of-gothel.jpg

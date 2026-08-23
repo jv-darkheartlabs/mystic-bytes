@@ -5,11 +5,10 @@ author: "Wilkie Collins"
 dek: ""
 number: R1806
 sort_key: 1806
-date: 2026-06-23
+date: 2026-07-10
 date_read: 1996-05-15
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-woman-in-white.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "abduction"

@@ -4,7 +4,7 @@ title: "Hope"
 dek: "Aspiration without a triumph clause."
 number: V0204
 sort_key: 204
-date: 2026-09-21
+date: 2026-02-08
 date_written: 1998-02-14
 category: grief-loss-resilience
 form: free-verse

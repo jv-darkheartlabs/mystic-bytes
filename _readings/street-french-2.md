@@ -5,9 +5,9 @@ author: "David Burke"
 dek: ""
 number: R2150
 sort_key: 2150
-date: 2026-05-10
+date: 2026-08-01
 date_read: 2005-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/street-french-2.jpg
 spice: 2
 content_warnings:

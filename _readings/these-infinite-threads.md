@@ -5,7 +5,7 @@ author: "Tahereh Mafi"
 dek: "This Woven Kingdom — Book Two"
 number: R1460
 sort_key: 1460
-date: 2026-05-11
+date: 2026-06-08
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/these-infinite-threads.jpg

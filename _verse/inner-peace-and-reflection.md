@@ -4,7 +4,7 @@ title: "Inner Peace and Reflection"
 dek: "Stillness as inquiry — not escape."
 number: V0825
 sort_key: 825
-date: 2029-02-14
+date: 2026-06-28
 date_written: 2014-12-03
 category: life
 form: free-verse

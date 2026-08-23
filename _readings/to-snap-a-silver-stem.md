@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Sarah_A_Parker"
 dek: ""
 number: R646
 sort_key: 646
-date: 2023-08-14
+date: 2026-03-12
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/to-snap-a-silver-stem.jpg

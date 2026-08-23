@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21002065.Carissa_Broadbent"
 dek: "The Shadowborn Duet Book One"
 number: R1209
 sort_key: 1209
-date: 2025-07-05
+date: 2026-05-12
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/the-songbird-the-heart-of-stone.jpg

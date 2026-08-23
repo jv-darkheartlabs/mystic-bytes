@@ -5,7 +5,7 @@ author: "E.A. Winters"
 dek: "The Blood and Flame Saga"
 number: R556
 sort_key: 556
-date: 2023-04-27
+date: 2026-03-02
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/noble-claims.jpg

@@ -4,7 +4,7 @@ title: "Throbbing Soul"
 dek: "Longing as pulse — hope without rescue fantasy."
 number: V0874
 sort_key: 874
-date: 2033-03-07
+date: 2026-08-01
 date_written: 2018-12-12
 category: life
 form: free-verse

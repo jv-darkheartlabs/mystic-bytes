@@ -5,7 +5,7 @@ author: "Roxie Noir"
 dek: "A Loveless Brothers Novel"
 number: R1035
 sort_key: 1035
-date: 2024-12-02
+date: 2026-04-23
 date_read: 2018-03-01
 category: forbidden-love
 cover: /assets/readings/break-the-rules.jpg

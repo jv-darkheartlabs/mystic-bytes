@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.I_A_Dice"
 dek: "Shadows of Obsession Series Book Two"
 number: R1310
 sort_key: 1310
-date: 2025-11-06
+date: 2026-05-22
 date_read: 2017-08-16
 category: stalker-obsession
 cover: /assets/readings/saving-hailey.jpg

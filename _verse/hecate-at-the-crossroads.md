@@ -4,7 +4,7 @@ title: "Hecate at the Crossroads"
 dek: "Threshold witnessed, not petitioned."
 number: V0538
 sort_key: 538
-date: 2027-02-20
+date: 2026-05-23
 date_written: 2001-10-31
 category: nature
 form: free-verse

@@ -5,7 +5,7 @@ author: "Katelyn Taylor"
 dek: ""
 number: R799
 sort_key: 799
-date: 2024-02-22
+date: 2026-03-29
 date_read: 2022-10-22
 category: gothic-horror-romance
 cover: /assets/readings/demise.jpg

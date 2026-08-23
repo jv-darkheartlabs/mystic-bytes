@@ -4,7 +4,7 @@ title: "Embrace of Humility"
 dek: "Modesty as voltage — New Orleans quiet."
 number: V0854
 sort_key: 854
-date: 2031-07-13
+date: 2026-07-18
 date_written: 2006-08-08
 category: life
 form: free-verse

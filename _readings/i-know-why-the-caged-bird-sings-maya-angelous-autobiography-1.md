@@ -5,11 +5,10 @@ author: "Maya Angelou"
 dek: "Maya Angelou's powerful memoir of overcoming adversity."
 number: R2238
 sort_key: 2238
-date: 2026-05-22
+date: 2026-08-06
 date_read: 2013-09-19
-category: dark-thriller
+category: memoir-nonfiction
 cover: /assets/readings/i-know-why-the-caged-bird-sings-maya-angelous-autobiography-1.jpg
-spice: 1
 content_warnings:
   - "sexual abuse"
   - "racism"

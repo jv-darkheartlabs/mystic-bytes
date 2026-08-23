@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: "Sublimely creepy with a true Hoover pulse."
 number: R110
 sort_key: 110
-date: 2021-11-09
+date: 2026-01-12
 date_read: 2005-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/verity.jpg
 spice: 3
 content_warnings:

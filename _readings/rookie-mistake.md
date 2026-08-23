@@ -5,7 +5,7 @@ author: "Maren Moore"
 dek: ""
 number: R902
 sort_key: 902
-date: 2024-06-21
+date: 2026-04-09
 date_read: 2017-05-07
 category: enemies-to-lovers
 cover: /assets/readings/rookie-mistake.jpg

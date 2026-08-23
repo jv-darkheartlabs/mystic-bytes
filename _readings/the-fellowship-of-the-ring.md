@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien"
 dek: "The Lord of the Rings Part One"
 number: R670
 sort_key: 670
-date: 2023-09-18
+date: 2026-03-14
 date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/the-fellowship-of-the-ring.jpg

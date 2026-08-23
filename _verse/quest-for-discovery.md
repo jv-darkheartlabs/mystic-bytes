@@ -4,7 +4,7 @@ title: "Quest for Discovery"
 dek: "Why as fuel, not finish line."
 number: V0608
 sort_key: 608
-date: 2027-03-01
+date: 2026-05-29
 date_written: 1991-10-10
 category: curiosity
 form: open

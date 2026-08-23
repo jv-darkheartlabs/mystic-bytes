@@ -5,7 +5,7 @@ author: "Maggie Sunseri"
 dek: "Eternal Obsession — Book One"
 number: R233
 sort_key: 233
-date: 2022-04-02
+date: 2026-01-25
 date_read: 2020-11-25
 category: stalker-obsession
 cover: /assets/readings/stalked-by-seduction-and-shadows.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/54485.Kristin_Hannah"
 dek: "A Novel"
 number: R344
 sort_key: 344
-date: 2022-08-14
+date: 2026-02-06
 date_read: 2023-05-07
 category: dark-military-romance
 cover: /assets/readings/home-front.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Callie_Hart"
 dek: ""
 number: R928
 sort_key: 928
-date: 2024-07-24
+date: 2026-04-12
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/quicksilver.jpg

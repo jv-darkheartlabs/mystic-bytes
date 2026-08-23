@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228265.Kelsie_Rae"
 dek: "Don't Let Me Series — Book Five"
 number: R1488
 sort_key: 1488
-date: 2026-06-12
+date: 2026-06-11
 date_read: 2015-06-10
 category: forbidden-love
 cover: /assets/readings/dont-let-me-down.jpg

@@ -5,11 +5,10 @@ author: "Dr. Seuss"
 dek: ""
 number: R1625
 sort_key: 1625
-date: 2026-06-04
+date: 2026-06-23
 date_read: 2020-08-16
-category: gothic-horror-romance
+category: juvenile-fiction
 cover: /assets/readings/green-eggs-and-ham.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

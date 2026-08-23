@@ -5,7 +5,7 @@ author: "Anonymous"
 dek: "Ancient Mesopotamian epic exploring themes of mortality and friendship."
 number: R1844
 sort_key: 1844
-date: 2026-05-16
+date: 2026-07-13
 date_read: 2023-11-25
 category: gothic-horror-romance
 cover: /assets/readings/the-epic-of-gilgamesh.jpg

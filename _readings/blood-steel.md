@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15152227.Helen_Scheuerer"
 dek: "An epic romantic fantasy"
 number: R1218
 sort_key: 1218
-date: 2025-07-17
+date: 2026-05-13
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/blood-steel.jpg

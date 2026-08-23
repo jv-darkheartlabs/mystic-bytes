@@ -5,7 +5,7 @@ author: "Robert Frost"
 dek: ""
 number: R1833
 sort_key: 1833
-date: 2026-05-27
+date: 2026-07-12
 date_read: 2024-09-19
 category: gothic-horror-romance
 cover: /assets/readings/the-road-not-taken-and-other-poems.jpg

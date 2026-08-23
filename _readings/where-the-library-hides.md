@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17349131.Isabel_Iba_ez"
 dek: "An impossible love. An enchanted legacy. A dangerous discovery."
 number: R1243
 sort_key: 1243
-date: 2025-08-12
+date: 2026-05-16
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/where-the-library-hides.jpg

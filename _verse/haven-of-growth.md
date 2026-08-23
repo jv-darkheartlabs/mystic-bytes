@@ -4,7 +4,7 @@ title: "Haven of Growth"
 dek: "Roots in floodplain soil."
 number: V0435
 sort_key: 435
-date: 2026-12-23
+date: 2026-04-12
 date_written: 2008-06-01
 category: nola
 form: open

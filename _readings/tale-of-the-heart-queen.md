@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21268673.Nisha_J_Tuli"
 dek: ""
 number: R1193
 sort_key: 1193
-date: 2025-06-16
+date: 2026-05-10
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/tale-of-the-heart-queen.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.A_P_Beswick"
 dek: ""
 number: R680
 sort_key: 680
-date: 2023-09-29
+date: 2026-03-16
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/a-stone-of-destiny-and-despair.jpg

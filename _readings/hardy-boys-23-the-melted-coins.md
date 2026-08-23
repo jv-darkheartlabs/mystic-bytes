@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #23"
 number: R2286
 sort_key: 2286
-date: 2026-06-24
+date: 2026-08-11
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-23-the-melted-coins.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

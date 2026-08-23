@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Josh_Winning"
 dek: ""
 number: R775
 sort_key: 775
-date: 2024-01-24
+date: 2026-03-26
 date_read: 2022-04-04
 category: gothic-horror-romance
 cover: /assets/readings/the-shadow-glass.jpg

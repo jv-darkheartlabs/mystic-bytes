@@ -5,7 +5,7 @@ author: "Morgan Bridges"
 dek: "Possessing Her — Book 2"
 number: R254
 sort_key: 254
-date: 2022-04-23
+date: 2026-01-27
 date_read: 2017-05-07
 category: stalker-obsession
 cover: /assets/readings/now-youre-mine.jpg

@@ -5,9 +5,9 @@ author: "Rachel Hawkins"
 dek: "They're dying to escape..."
 number: R376
 sort_key: 376
-date: 2022-09-18
+date: 2026-02-10
 date_read: 2011-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/reckless-girls.jpg
 spice: 2
 content_warnings:

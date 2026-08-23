@@ -5,7 +5,7 @@ author: "B.C. Fajohn"
 dek: "Celestial Devotion Series 1"
 number: R272
 sort_key: 272
-date: 2022-05-12
+date: 2026-01-29
 date_read: 2023-05-07
 category: vampire-paranormal
 cover: /assets/readings/ruins-of-starlight.jpg

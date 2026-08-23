@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17138508.Angel_Lawson"
 dek: "Foster High — Book 5"
 number: R034
 sort_key: 034
-date: 2021-08-11
+date: 2026-01-05
 date_read: 2025-10-22
 category: bully-romance
 cover: /assets/readings/dukes-of-madness.jpg

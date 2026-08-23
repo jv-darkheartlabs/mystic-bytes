@@ -5,9 +5,9 @@ author: "John Grisham"
 dek: ""
 number: R1978
 sort_key: 1978
-date: 2026-04-12
+date: 2026-07-24
 date_read: 2013-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-runaway-jury.jpg
 spice: 2
 content_warnings:

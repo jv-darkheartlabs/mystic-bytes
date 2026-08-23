@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18222704.Kiersten_Modglin"
 dek: ""
 number: R423
 sort_key: 423
-date: 2022-11-13
+date: 2026-02-15
 date_read: 2008-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/a-quiet-retreat.jpg
 spice: 2
 content_warnings:

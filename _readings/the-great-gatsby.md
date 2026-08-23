@@ -5,11 +5,10 @@ author: "F. Scott Fitzgerald"
 dek: "A tale of love, ambition, and the American Dream gone awry."
 number: R2229
 sort_key: 2229
-date: 2026-05-31
+date: 2026-08-06
 date_read: 1997-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-great-gatsby.jpg
-spice: 2
 content_warnings:
   - "alcohol abuse"
   - "infidelity"

@@ -5,11 +5,10 @@ author: "Frank Herbert"
 dek: "Dune Series"
 number: R2178
 sort_key: 2178
-date: 2026-04-12
+date: 2026-08-04
 date_read: 2021-03-01
-category: fantasy-romance
+category: sff
 cover: /assets/readings/dune-dune-1.jpg
-spice: 1
 content_warnings:
 tags:
   - fantasyromance

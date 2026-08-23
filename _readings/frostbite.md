@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/137902.Richelle_Mead"
 dek: "Vampire Academy"
 number: R1062
 sort_key: 1062
-date: 2025-01-03
+date: 2026-04-26
 date_read: 2021-03-01
 category: vampire-paranormal
 cover: /assets/readings/frostbite.jpg

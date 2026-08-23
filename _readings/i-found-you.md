@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7443.Lisa_Jewell"
 dek: "A Novel"
 number: R390
 sort_key: 390
-date: 2022-10-10
+date: 2026-02-11
 date_read: 2005-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/i-found-you.jpg
 spice: 2
 content_warnings:

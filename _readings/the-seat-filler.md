@@ -5,7 +5,7 @@ author: "Sariah Wilson"
 dek: "a novel"
 number: R471
 sort_key: 471
-date: 2023-01-11
+date: 2026-02-20
 date_read: 2018-06-10
 category: enemies-to-lovers
 cover: /assets/readings/the-seat-filler.jpg

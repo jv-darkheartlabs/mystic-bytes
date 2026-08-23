@@ -5,11 +5,10 @@ author: "Stephen  King"
 dek: ""
 number: R1940
 sort_key: 1940
-date: 2026-05-20
+date: 2026-07-22
 date_read: 2005-08-16
-category: dark-thriller
+category: horror
 cover: /assets/readings/cujo.jpg
-spice: 2
 content_warnings:
   - "animal violence"
   - "death"

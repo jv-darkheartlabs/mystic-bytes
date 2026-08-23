@@ -5,11 +5,10 @@ author: "Homer"
 dek: ""
 number: R1606
 sort_key: 1606
-date: 2026-06-23
+date: 2026-06-21
 date_read: 1999-07-13
 category: classic-literature
 cover: /assets/readings/the-odyssey.jpg
-spice: 1
 content_warnings:
 tags:
   - epic

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228257.Ali_Hazelwood"
 dek: ""
 number: R1361
 sort_key: 1361
-date: 2026-01-02
+date: 2026-05-28
 date_read: 2020-05-07
 category: enemies-to-lovers
 cover: /assets/readings/under-one-roof.jpg

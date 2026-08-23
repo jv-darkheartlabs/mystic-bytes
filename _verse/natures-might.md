@@ -4,7 +4,7 @@ title: "Nature's Might"
 dek: "Water as city teacher."
 number: V0446
 sort_key: 446
-date: 2027-01-03
+date: 2026-04-20
 date_written: 2005-05-20
 category: nola
 form: open

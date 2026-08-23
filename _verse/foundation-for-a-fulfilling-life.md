@@ -4,7 +4,7 @@ title: "Foundation for a Fulfilling Life"
 dek: "Character as compass, not costume."
 number: V0802
 sort_key: 802
-date: 2027-03-12
+date: 2026-06-12
 date_written: 2012-02-24
 category: life
 form: free-verse

@@ -4,7 +4,7 @@ title: "Majestic River"
 dek: "Bridge as argument with current."
 number: V0534
 sort_key: 534
-date: 2027-02-16
+date: 2026-05-20
 date_written: 1993-09-05
 category: nature
 form: open

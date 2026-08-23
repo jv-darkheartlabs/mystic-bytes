@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Wicked Villains"
 number: R1353
 sort_key: 1353
-date: 2025-12-28
+date: 2026-05-27
 date_read: 2024-06-10
 category: enemies-to-lovers
 cover: /assets/readings/desperate-measures.jpg

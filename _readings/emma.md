@@ -5,11 +5,10 @@ author: "Jane Austen"
 dek: ""
 number: R1858
 sort_key: 1858
-date: 2026-05-02
+date: 2026-07-15
 date_read: 2025-07-13
-category: enemies-to-lovers
+category: classic-literature
 cover: /assets/readings/emma.jpg
-spice: 1
 content_warnings:
 tags:
   - enemiestolovers

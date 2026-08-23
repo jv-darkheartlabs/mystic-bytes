@@ -5,7 +5,7 @@ author: "Molly Doyle"
 dek: "It'll always be you. Only you."
 number: R1260
 sort_key: 1260
-date: 2025-09-03
+date: 2026-05-17
 date_read: 2015-03-01
 category: forbidden-love
 cover: /assets/readings/dark-desires.jpg

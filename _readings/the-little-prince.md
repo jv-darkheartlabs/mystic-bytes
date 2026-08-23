@@ -5,7 +5,7 @@ author: "Antoine de Saint-Exupéry"
 dek: ""
 number: R2158
 sort_key: 2158
-date: 2026-05-02
+date: 2026-08-02
 date_read: 2025-10-22
 category: gothic-horror-romance
 cover: /assets/readings/the-little-prince.jpg

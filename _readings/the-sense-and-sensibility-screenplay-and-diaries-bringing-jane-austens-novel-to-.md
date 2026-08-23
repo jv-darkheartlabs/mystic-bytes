@@ -5,11 +5,10 @@ author: "Emma Thompson"
 dek: ""
 number: R1681
 sort_key: 1681
-date: 2026-04-09
+date: 2026-06-29
 date_read: 2006-10-22
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-sense-and-sensibility-screenplay-and-diaries-bringing-jane-austens-novel-to-.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

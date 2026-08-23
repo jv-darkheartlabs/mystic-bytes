@@ -5,11 +5,10 @@ author: "C.S. Lewis"
 dek: "Chronicles of Narnia, #4"
 number: R2137
 sort_key: 2137
-date: 2026-05-23
+date: 2026-07-31
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/the-silver-chair-chronicles-of-narnia-4.jpg
-spice: 1
 content_warnings:
 tags:
   - fantasy

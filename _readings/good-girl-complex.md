@@ -5,7 +5,7 @@ author: "Elle Kennedy"
 dek: ""
 number: R474
 sort_key: 474
-date: 2023-01-19
+date: 2026-02-21
 date_read: 2021-09-19
 category: enemies-to-lovers
 cover: /assets/readings/good-girl-complex.jpg

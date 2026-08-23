@@ -5,7 +5,7 @@ author: "Robert Bloch"
 dek: "Psycho Series"
 number: R1931
 sort_key: 1931
-date: 2026-05-29
+date: 2026-07-21
 date_read: 2026-08-16
 category: gothic-horror-romance
 cover: /assets/readings/psycho-psycho-1.jpg

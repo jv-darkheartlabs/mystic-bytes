@@ -5,7 +5,7 @@ author: "Geneva Lee"
 dek: ""
 number: R1076
 sort_key: 1076
-date: 2025-01-20
+date: 2026-04-28
 date_read: 2023-08-16
 category: vampire-paranormal
 cover: /assets/readings/filthy-rich-vampires-for-eternity.jpg

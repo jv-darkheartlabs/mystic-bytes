@@ -4,7 +4,7 @@ title: "The Notebook"
 dek: "2004 Sparks adaptation — memory, class, and enduring love."
 number: F0030
 sort_key: 30
-date: 2026-07-11
+date: 2026-06-12
 date_watched: 2004-06-25
 year: 2004
 poster: /assets/films/the-notebook-2004.jpg
@@ -40,6 +40,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

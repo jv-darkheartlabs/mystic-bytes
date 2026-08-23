@@ -5,7 +5,7 @@ author: "Taylor Jenkins Reid"
 dek: "Falling in love is the easy part"
 number: R753
 sort_key: 753
-date: 2023-12-24
+date: 2026-03-24
 date_read: 2024-09-19
 category: forbidden-love
 cover: /assets/readings/after-i-do.jpg

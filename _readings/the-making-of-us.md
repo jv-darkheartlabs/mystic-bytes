@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7443.Lisa_Jewell"
 dek: "A Novel"
 number: R392
 sort_key: 392
-date: 2022-10-09
+date: 2026-02-12
 date_read: 2007-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-making-of-us.jpg
 spice: 2
 content_warnings:

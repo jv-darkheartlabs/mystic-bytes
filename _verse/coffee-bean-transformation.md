@@ -4,7 +4,7 @@ title: "Coffee Bean Transformation"
 dek: "Roast to liqueur — ordeal as curriculum."
 number: V0928
 sort_key: 928
-date: 2035-11-19
+date: 2026-08-23
 date_written: 2010-07-20
 category: misc
 form: free-verse

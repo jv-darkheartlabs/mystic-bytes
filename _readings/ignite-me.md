@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4824774.Tahereh_Mafi"
 dek: ""
 number: R929
 sort_key: 929
-date: 2024-07-27
+date: 2026-04-12
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/ignite-me.jpg

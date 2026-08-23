@@ -4,7 +4,7 @@ title: "Power of Imagination I"
 dek: "Mind as workshop — bounds included."
 number: V0860
 sort_key: 860
-date: 2032-01-07
+date: 2026-07-22
 date_written: 2011-05-17
 category: life
 form: free-verse

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4039811.Veronica_Roth"
 dek: "Enemies at birth. Allies by choice."
 number: R1119
 sort_key: 1119
-date: 2025-03-18
+date: 2026-05-02
 date_read: 2018-06-10
 category: enemies-to-lovers
 cover: /assets/readings/carve-the-mark.jpg

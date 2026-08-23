@@ -5,7 +5,7 @@ author: "Bethany Joy"
 dek: ""
 number: R477
 sort_key: 477
-date: 2023-01-22
+date: 2026-02-21
 date_read: 2024-03-01
 category: enemies-to-lovers
 cover: /assets/readings/level-up-love.jpg

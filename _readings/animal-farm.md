@@ -5,11 +5,10 @@ author: "George Orwell"
 dek: ""
 number: R1558
 sort_key: 1558
-date: 2026-05-20
+date: 2026-06-17
 date_read: 1995-04-10
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/animal-farm.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

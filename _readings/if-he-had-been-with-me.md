@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228256.Laura_Nowlin"
 dek: ""
 number: R1474
 sort_key: 1474
-date: 2026-05-26
+date: 2026-06-10
 date_read: 2025-10-22
 category: forbidden-love
 cover: /assets/readings/if-he-had-been-with-me.jpg

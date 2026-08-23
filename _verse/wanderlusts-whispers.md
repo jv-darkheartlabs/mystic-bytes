@@ -4,7 +4,7 @@ title: "Wanderlust's Whispers"
 dek: "Travel itch before the passport."
 number: V0605
 sort_key: 605
-date: 2027-02-26
+date: 2026-05-27
 date_written: 1991-08-08
 category: curiosity
 form: open

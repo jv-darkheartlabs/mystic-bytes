@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166899.Emily_Henry"
 dek: ""
 number: R1372
 sort_key: 1372
-date: 2026-01-23
+date: 2026-05-29
 date_read: 2020-09-01
 category: enemies-to-lovers
 cover: /assets/readings/beach-read.jpg

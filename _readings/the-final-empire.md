@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/38550.Brandon_Sanderson"
 dek: "Mistborn Book One"
 number: R661
 sort_key: 661
-date: 2023-09-02
+date: 2026-03-13
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/the-final-empire.jpg

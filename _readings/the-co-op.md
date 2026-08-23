@@ -5,8 +5,8 @@ author: "Tarah DeWitt"
 dek: ""
 number: R899
 sort_key: 899
-date: 2024-06-19
-date_read: 2026-11-25
+date: 2026-04-09
+date_read: 2026-08-23
 category: enemies-to-lovers
 cover: /assets/readings/the-co-op.jpg
 spice: 4

@@ -5,11 +5,10 @@ author: "Alice Walker"
 dek: "The Color Purple"
 number: R2248
 sort_key: 2248
-date: 2026-05-12
+date: 2026-08-07
 date_read: 1996-05-15
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-color-purple-the-color-purple-1.jpg
-spice: 2
 content_warnings:
   - "sexual violence"
   - "racism"

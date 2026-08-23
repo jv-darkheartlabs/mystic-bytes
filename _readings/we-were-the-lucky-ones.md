@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/14106735.Georgia_Hunter"
 dek: ""
 number: R407
 sort_key: 407
-date: 2022-10-24
+date: 2026-02-13
 date_read: 2012-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/we-were-the-lucky-ones.jpg
 spice: 1
 content_warnings:

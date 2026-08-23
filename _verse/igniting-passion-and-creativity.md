@@ -4,7 +4,7 @@ title: "Igniting Passion and Creativity"
 dek: "Inspiration as fuel — not fairy dust."
 number: V0830
 sort_key: 830
-date: 2029-07-05
+date: 2026-07-01
 date_written: 2013-03-21
 category: life
 form: free-verse

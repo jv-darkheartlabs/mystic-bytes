@@ -5,7 +5,7 @@ author: "Kate Golden"
 dek: ""
 number: R1154
 sort_key: 1154
-date: 2025-04-26
+date: 2026-05-06
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/a-dawn-of-onyx.jpg

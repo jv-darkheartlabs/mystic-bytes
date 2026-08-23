@@ -5,7 +5,7 @@ author: "Krista Street"
 dek: "Of Snow & Ice — Book 1"
 number: R1387
 sort_key: 1387
-date: 2026-02-08
+date: 2026-05-31
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/court-of-winter.jpg

@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #3"
 number: R2293
 sort_key: 2293
-date: 2026-06-17
+date: 2026-08-12
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-03-the-secret-of-the-old-mill.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

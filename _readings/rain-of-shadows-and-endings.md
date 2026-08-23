@@ -5,7 +5,7 @@ author: "Melissa K. Roehrich"
 dek: "The Legacy Series"
 number: R290
 sort_key: 290
-date: 2022-06-03
+date: 2026-01-31
 date_read: 2017-05-07
 category: vampire-paranormal
 cover: /assets/readings/rain-of-shadows-and-endings.jpg

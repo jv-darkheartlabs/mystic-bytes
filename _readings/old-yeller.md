@@ -5,9 +5,9 @@ author: "Fred Gipson"
 dek: ""
 number: R1712
 sort_key: 1712
-date: 2026-06-17
+date: 2026-07-02
 date_read: 2007-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/old-yeller.jpg
 spice: 1
 content_warnings:

@@ -4,7 +4,7 @@ title: "The Da Vinci Code"
 dek: "2006 Howard adaptation of Dan Brown's symbology thriller."
 number: F0029
 sort_key: 29
-date: 2026-07-11
+date: 2026-06-06
 date_watched: 2006-05-19
 year: 2006
 poster: /assets/films/the-da-vinci-code-2006.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

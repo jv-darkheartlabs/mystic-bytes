@@ -5,7 +5,7 @@ author: "Olivia Wildenstein"
 dek: ""
 number: R1494
 sort_key: 1494
-date: 2026-06-17
+date: 2026-06-12
 date_read: 2021-03-01
 category: gothic-horror-romance
 cover: /assets/readings/starlight.jpg

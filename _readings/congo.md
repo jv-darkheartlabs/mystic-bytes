@@ -5,9 +5,9 @@ author: "Michael Crichton"
 dek: ""
 number: R1932
 sort_key: 1932
-date: 2026-05-28
+date: 2026-07-21
 date_read: 2007-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/congo.jpg
 spice: 2
 content_warnings:

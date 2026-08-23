@@ -5,7 +5,7 @@ author: "Shelby Mahurin"
 dek: "A love that will burn for eternity"
 number: R444
 sort_key: 444
-date: 2022-12-11
+date: 2026-02-17
 date_read: 2015-06-10
 category: enemies-to-lovers
 cover: /assets/readings/gods-monsters.jpg

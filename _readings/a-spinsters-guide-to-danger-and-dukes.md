@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228263.Manda_Collins"
 dek: ""
 number: R1374
 sort_key: 1374
-date: 2026-01-19
+date: 2026-05-30
 date_read: 2021-09-19
 category: enemies-to-lovers
 cover: /assets/readings/a-spinsters-guide-to-danger-and-dukes.jpg

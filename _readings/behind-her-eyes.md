@@ -5,9 +5,9 @@ author: "Sarah Pinborough"
 dek: ""
 number: R1799
 sort_key: 1799
-date: 2026-06-30
+date: 2026-07-09
 date_read: 2014-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/behind-her-eyes.jpg
 spice: 3
 content_warnings:

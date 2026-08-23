@@ -5,7 +5,7 @@ author: "Avina St. Graves"
 dek: ""
 number: R1059
 sort_key: 1059
-date: 2025-01-02
+date: 2026-04-26
 date_read: 2018-09-19
 category: stalker-obsession
 cover: /assets/readings/deaths-obsession.jpg

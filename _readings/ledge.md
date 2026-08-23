@@ -5,7 +5,7 @@ author: "Stacey McEwan"
 dek: "The Glacian Trilogy"
 number: R1446
 sort_key: 1446
-date: 2026-04-19
+date: 2026-06-07
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/ledge.jpg

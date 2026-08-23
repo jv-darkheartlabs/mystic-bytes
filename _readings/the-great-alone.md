@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/54485.Kristin_Hannah"
 dek: "A Novel"
 number: R429
 sort_key: 429
-date: 2022-11-26
+date: 2026-02-16
 date_read: 2014-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-great-alone.jpg
 spice: 2
 content_warnings:

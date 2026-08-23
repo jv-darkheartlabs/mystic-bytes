@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4476932.Jennifer_L_Armentrout
 dek: ""
 number: R1162
 sort_key: 1162
-date: 2025-05-07
+date: 2026-05-07
 date_read: 2020-07-14
 category: fantasy-romance
 cover: /assets/readings/from-blood-and-ash.jpg

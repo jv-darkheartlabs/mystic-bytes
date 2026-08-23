@@ -5,7 +5,7 @@ author: "James Fenimore Cooper"
 dek: "The Leatherstocking Tales, #2"
 number: R1711
 sort_key: 1711
-date: 2026-06-18
+date: 2026-07-02
 date_read: 2022-04-04
 category: gothic-horror-romance
 cover: /assets/readings/the-last-of-the-mohicans-the-leatherstocking-tales-2.jpg

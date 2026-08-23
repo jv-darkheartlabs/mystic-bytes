@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Somme_Sketcher"
 dek: "Book One"
 number: R128
 sort_key: 128
-date: 2021-11-27
+date: 2026-01-14
 date_read: 2023-05-07
 category: enemies-to-lovers
 cover: /assets/readings/sinners-anonymous.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/16154106.Sara_Cate"
 dek: "It's a small price to pay for the woman he loves."
 number: R100
 sort_key: 100
-date: 2021-10-23
+date: 2026-01-12
 date_read: 2019-04-04
 category: dark-billionaire
 cover: /assets/readings/highest-bidder.jpg

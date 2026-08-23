@@ -5,7 +5,7 @@ author: "A. Marie"
 dek: "USA Today Bestselling Author"
 number: R767
 sort_key: 767
-date: 2024-01-08
+date: 2026-03-25
 date_read: 2026-05-07
 category: forbidden-love
 cover: /assets/readings/nothing-above.jpg

@@ -5,7 +5,7 @@ author: "Alisha Klapheke"
 dek: "Realm of Dragons and Fae"
 number: R1433
 sort_key: 1433
-date: 2026-04-06
+date: 2026-06-05
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/the-fae-kings-assassin.jpg

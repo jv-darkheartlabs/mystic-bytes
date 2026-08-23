@@ -5,7 +5,7 @@ author: "Ashley Poston"
 dek: ""
 number: R1030
 sort_key: 1030
-date: 2024-11-28
+date: 2026-04-23
 date_read: 2025-07-13
 category: forbidden-love
 cover: /assets/readings/sounds-like-love.jpg

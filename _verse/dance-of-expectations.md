@@ -4,7 +4,7 @@ title: "Dance of Expectations"
 dek: "Blueprint held too tight — music missed."
 number: V0852
 sort_key: 852
-date: 2031-05-05
+date: 2026-07-16
 date_written: 2010-08-28
 category: life
 form: free-verse

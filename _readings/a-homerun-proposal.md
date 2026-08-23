@@ -5,7 +5,7 @@ author: "Maren Moore"
 dek: ""
 number: R898
 sort_key: 898
-date: 2024-06-16
+date: 2026-04-08
 date_read: 2025-10-22
 category: enemies-to-lovers
 cover: /assets/readings/a-homerun-proposal.jpg

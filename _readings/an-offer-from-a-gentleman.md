@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/11093.Julia_Quinn"
 dek: "Bridgerton — Benedict's Story"
 number: R626
 sort_key: 626
-date: 2023-07-24
+date: 2026-03-10
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/an-offer-from-a-gentleman.jpg

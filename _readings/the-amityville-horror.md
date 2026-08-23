@@ -5,7 +5,7 @@ author: "Jay Anson"
 dek: ""
 number: R1639
 sort_key: 1639
-date: 2026-05-21
+date: 2026-06-25
 date_read: 2022-04-04
 category: gothic-horror-romance
 cover: /assets/readings/the-amityville-horror.jpg

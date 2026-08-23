@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6897719.Josiah_Bancroft"
 dek: ""
 number: R718
 sort_key: 718
-date: 2023-11-09
+date: 2026-03-20
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/the-fall-of-babel.jpg

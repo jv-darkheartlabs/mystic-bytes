@@ -5,7 +5,7 @@ author: "Eden O'Neill"
 dek: "Court University Book Two"
 number: R045
 sort_key: 045
-date: 2021-08-21
+date: 2026-01-06
 date_read: 2024-03-01
 category: bully-romance
 cover: /assets/readings/kingpin.jpg

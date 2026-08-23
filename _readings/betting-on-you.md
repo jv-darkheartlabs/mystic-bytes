@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228246.Lynn_Painter"
 dek: ""
 number: R457
 sort_key: 457
-date: 2022-12-27
+date: 2026-02-19
 date_read: 2016-10-22
 category: enemies-to-lovers
 cover: /assets/readings/betting-on-you.jpg

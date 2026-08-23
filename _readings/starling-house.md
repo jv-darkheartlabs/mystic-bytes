@@ -5,7 +5,7 @@ author: "Alix E. Harrow"
 dek: ""
 number: R783
 sort_key: 783
-date: 2024-01-31
+date: 2026-03-27
 date_read: 2018-03-01
 category: gothic-horror-romance
 cover: /assets/readings/starling-house.jpg

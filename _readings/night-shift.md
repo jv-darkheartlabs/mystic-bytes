@@ -5,7 +5,7 @@ author: "Stephen  King"
 dek: "A collection of chilling tales that explore the dark corners of the human psyche."
 number: R1938
 sort_key: 1938
-date: 2026-05-22
+date: 2026-07-21
 date_read: 2021-06-10
 category: gothic-horror-romance
 cover: /assets/readings/night-shift.jpg

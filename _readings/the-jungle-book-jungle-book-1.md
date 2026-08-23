@@ -5,7 +5,7 @@ author: "Rudyard Kipling"
 dek: "Jungle Book Series"
 number: R1714
 sort_key: 1714
-date: 2026-06-15
+date: 2026-07-02
 date_read: 2025-07-13
 category: gothic-horror-romance
 cover: /assets/readings/the-jungle-book-jungle-book-1.jpg

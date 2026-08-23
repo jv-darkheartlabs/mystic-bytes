@@ -5,7 +5,7 @@ author: "Tessonja Odette"
 dek: "Entangled with Fae — A Beauty and the Beast Retelling"
 number: R1406
 sort_key: 1406
-date: 2026-02-26
+date: 2026-06-02
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/curse-of-the-wolf-king.jpg

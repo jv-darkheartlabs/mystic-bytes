@@ -5,7 +5,7 @@ author: "Laura Frantz"
 dek: "A Novel"
 number: R641
 sort_key: 641
-date: 2023-08-13
+date: 2026-03-11
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/the-rose-and-the-thistle.jpg

@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/1221698.Neil_Gaiman"
 dek: ""
 number: R510
 sort_key: 510
-date: 2023-02-27
+date: 2026-02-25
 date_read: 1996-05-15
-category: classic-literature
+category: literary-fiction
 cover: /assets/readings/good-omens.jpg
-spice: 2
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

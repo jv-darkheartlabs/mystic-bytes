@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1094
 sort_key: 1094
-date: 2025-02-12
+date: 2026-04-30
 date_read: 2017-08-16
 category: bully-romance
 cover: /assets/readings/zodiac-academy-the-big-a-s-s-party.jpg

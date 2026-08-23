@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Fonda_Lee"
 dek: ""
 number: R965
 sort_key: 965
-date: 2024-09-13
+date: 2026-04-16
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/jade-war.jpg

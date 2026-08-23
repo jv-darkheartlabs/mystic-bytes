@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "We all pay for our sins, and I'd gladly go to hell for this one."
 number: R213
 sort_key: 213
-date: 2022-03-06
+date: 2026-01-23
 date_read: 2024-09-19
 category: stalker-obsession
 cover: /assets/readings/addiction.jpg

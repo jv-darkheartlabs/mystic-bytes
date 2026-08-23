@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/6868939.Sally_Hepworth"
 dek: "She changes everything."
 number: R415
 sort_key: 415
-date: 2022-11-08
+date: 2026-02-14
 date_read: 2010-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-younger-wife.jpg
 spice: 2
 content_warnings:

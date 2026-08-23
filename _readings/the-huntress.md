@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18222706.Kate_Quinn"
 dek: "A Novel"
 number: R438
 sort_key: 438
-date: 2022-12-02
+date: 2026-02-17
 date_read: 2013-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-huntress.jpg
 spice: 2
 content_warnings:

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6543501.Stacey_Marie_Brown"
 dek: "Savage Lands Book Five"
 number: R282
 sort_key: 282
-date: 2022-05-29
+date: 2026-01-30
 date_read: 2021-06-10
 category: vampire-paranormal
 cover: /assets/readings/blood-lands.jpg

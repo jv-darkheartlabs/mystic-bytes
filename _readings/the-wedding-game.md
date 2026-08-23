@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7139134.Meghan_Quinn"
 dek: ""
 number: R607
 sort_key: 607
-date: 2023-07-03
+date: 2026-03-07
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/the-wedding-game.jpg

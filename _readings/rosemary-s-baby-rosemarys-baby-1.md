@@ -5,7 +5,7 @@ author: "Ira Levin"
 dek: "Rosemary's Baby"
 number: R1804
 sort_key: 1804
-date: 2026-06-25
+date: 2026-07-09
 date_read: 2019-07-13
 category: gothic-horror-romance
 cover: /assets/readings/rosemary-s-baby-rosemarys-baby-1.jpg

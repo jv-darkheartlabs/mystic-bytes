@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book One of the Farseer Trilogy"
 number: R683
 sort_key: 683
-date: 2023-10-05
-date_read: 2026-11-25
+date: 2026-03-16
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/assassins-apprentice.jpg
 spice: 3

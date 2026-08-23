@@ -5,9 +5,9 @@ author: "Bret Easton Ellis"
 dek: ""
 number: R1640
 sort_key: 1640
-date: 2026-05-20
+date: 2026-06-25
 date_read: 2005-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/american-psycho.jpg
 spice: 4
 content_warnings:

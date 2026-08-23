@@ -4,7 +4,7 @@ title: "Harmonious Rhythms"
 dek: "Culture as shared downbeat."
 number: V0444
 sort_key: 444
-date: 2027-01-01
+date: 2026-04-19
 date_written: 2006-09-30
 category: nola
 form: open

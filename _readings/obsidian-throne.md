@@ -5,7 +5,7 @@ author: "Robin D. Mahle & Elle Madison"
 dek: "The Lochlann Feuds — Book 4"
 number: R537
 sort_key: 537
-date: 2023-04-06
+date: 2026-02-28
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/obsidian-throne.jpg

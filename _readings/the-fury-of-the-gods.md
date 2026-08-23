@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6449152.John_Gwynne"
 dek: ""
 number: R724
 sort_key: 724
-date: 2023-11-17
+date: 2026-03-20
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/the-fury-of-the-gods.jpg

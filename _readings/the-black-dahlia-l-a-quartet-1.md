@@ -5,9 +5,9 @@ author: "James Ellroy"
 dek: "L.A. Quartet, #1"
 number: R1863
 sort_key: 1863
-date: 2026-04-27
+date: 2026-07-15
 date_read: 2008-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-black-dahlia-l-a-quartet-1.jpg
 spice: 2
 content_warnings:

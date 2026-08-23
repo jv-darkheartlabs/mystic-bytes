@@ -5,9 +5,9 @@ author: "Sue Minix"
 dek: "She can write the perfect murder mystery... But can she solve one in real life?"
 number: R382
 sort_key: 382
-date: 2022-09-26
+date: 2026-02-11
 date_read: 2007-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/murder-at-the-bookstore.jpg
 spice: 1
 content_warnings:

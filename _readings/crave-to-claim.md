@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15143324.Zoey_Ellis"
 dek: "Myth of Omega: Crave 3"
 number: R077
 sort_key: 077
-date: 2021-10-01
+date: 2026-01-09
 date_read: 2020-08-16
 category: captor-and-captive
 cover: /assets/readings/crave-to-claim.jpg

@@ -5,7 +5,7 @@ author: "Stephen  King"
 dek: ""
 number: R1900
 sort_key: 1900
-date: 2026-06-29
+date: 2026-07-18
 date_read: 2019-04-04
 category: gothic-horror-romance
 cover: /assets/readings/the-tommyknockers.jpg

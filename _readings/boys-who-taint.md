@@ -5,7 +5,7 @@ author: "Clarissa Wild"
 dek: "New York Times & USA Today Bestselling Author"
 number: R057
 sort_key: 057
-date: 2021-09-04
+date: 2026-01-07
 date_read: 2024-06-10
 category: bully-romance
 cover: /assets/readings/boys-who-taint.jpg

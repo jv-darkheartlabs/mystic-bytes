@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/137902.Richelle_Mead"
 dek: ""
 number: R1066
 sort_key: 1066
-date: 2025-01-09
+date: 2026-04-27
 date_read: 2025-07-13
 category: vampire-paranormal
 cover: /assets/readings/last-sacrifice.jpg

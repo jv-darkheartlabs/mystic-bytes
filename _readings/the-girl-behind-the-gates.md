@@ -5,7 +5,7 @@ author: "Brenda Davies"
 dek: "Will she ever be free?"
 number: R794
 sort_key: 794
-date: 2024-02-12
+date: 2026-03-28
 date_read: 2017-05-07
 category: gothic-horror-romance
 cover: /assets/readings/the-girl-behind-the-gates.jpg

@@ -5,7 +5,7 @@ author: "Rebecca Yarros"
 dek: "Be careful what you wish for..."
 number: R342
 sort_key: 342
-date: 2022-08-12
+date: 2026-02-06
 date_read: 2021-03-01
 category: dark-military-romance
 cover: /assets/readings/beyond-what-is-given.jpg

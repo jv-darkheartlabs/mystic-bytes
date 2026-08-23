@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin"
 dek: ""
 number: R512
 sort_key: 512
-date: 2023-03-03
+date: 2026-02-25
 date_read: 2023-11-25
-category: fantasy-romance
+category: sff
 cover: /assets/readings/the-left-hand-of-darkness.jpg
-spice: 2
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

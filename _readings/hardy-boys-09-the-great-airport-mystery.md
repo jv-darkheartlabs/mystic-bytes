@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #9"
 number: R2328
 sort_key: 2328
-date: 2026-05-13
+date: 2026-08-16
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-09-the-great-airport-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

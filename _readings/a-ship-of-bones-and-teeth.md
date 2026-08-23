@@ -5,7 +5,7 @@ author: "Karina Halle"
 dek: ""
 number: R1451
 sort_key: 1451
-date: 2026-04-24
+date: 2026-06-07
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/a-ship-of-bones-and-teeth.jpg

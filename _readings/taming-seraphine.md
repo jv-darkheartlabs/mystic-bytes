@@ -5,7 +5,7 @@ author: "Gigi Styx"
 dek: ""
 number: R1106
 sort_key: 1106
-date: 2025-02-27
+date: 2026-05-01
 date_read: 2017-11-25
 category: captor-and-captive
 cover: /assets/readings/taming-seraphine.jpg

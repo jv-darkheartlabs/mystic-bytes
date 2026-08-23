@@ -5,7 +5,7 @@ author: "Holly Renee"
 dek: ""
 number: R1441
 sort_key: 1441
-date: 2026-04-13
+date: 2026-06-06
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/a-kingdom-of-blood-and-betrayal.jpg

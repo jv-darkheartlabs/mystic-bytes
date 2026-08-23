@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7464.Elizabeth_George"
 dek: "An Inspector Lynley Mystery"
 number: R364
 sort_key: 364
-date: 2022-09-03
+date: 2026-02-09
 date_read: 2009-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/well-schooled-in-murder.jpg
 spice: 1
 content_warnings:

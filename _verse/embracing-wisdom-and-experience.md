@@ -4,7 +4,7 @@ title: "Embracing Wisdom and Experience"
 dek: "Maturity as earned grammar."
 number: V0817
 sort_key: 817
-date: 2028-06-13
+date: 2026-06-22
 date_written: 2011-11-07
 category: life
 form: free-verse

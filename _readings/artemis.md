@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6540057.Andy_Weir"
 dek: "You grew up on the moon, of course you have a dark side."
 number: R574
 sort_key: 574
-date: 2023-05-18
+date: 2026-03-04
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/artemis.jpg

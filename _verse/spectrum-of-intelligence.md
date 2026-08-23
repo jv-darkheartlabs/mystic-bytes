@@ -4,7 +4,7 @@ title: "Spectrum of Intelligence"
 dek: "Mind wide — not one metric."
 number: V0869
 sort_key: 869
-date: 2032-10-15
+date: 2026-07-28
 date_written: 2008-06-03
 category: life
 form: free-verse

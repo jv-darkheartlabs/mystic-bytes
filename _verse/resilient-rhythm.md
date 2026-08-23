@@ -4,7 +4,7 @@ title: "Resilient Rhythm"
 dek: "New Orleans teaches the pulse to continue."
 number: V0211
 sort_key: 211
-date: 2026-09-28
+date: 2026-02-13
 date_written: 2007-02-17
 category: grief-loss-resilience
 form: open

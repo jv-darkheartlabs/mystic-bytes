@@ -5,11 +5,10 @@ author: "E.B. White"
 dek: ""
 number: R1559
 sort_key: 1559
-date: 2026-05-19
+date: 2026-06-18
 date_read: 1987-05-15
 category: juvenile-fiction
 cover: /assets/readings/stuart-little.jpg
-spice: 1
 content_warnings:
 tags:
   - classic

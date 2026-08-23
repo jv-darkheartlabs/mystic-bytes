@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15162444.Helen_Scheuerer"
 dek: "The Legends of Thezmarr Book IV"
 number: R1235
 sort_key: 1235
-date: 2025-08-05
+date: 2026-05-15
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/shadow-storms.jpg

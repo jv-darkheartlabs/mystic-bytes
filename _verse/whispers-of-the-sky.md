@@ -4,7 +4,7 @@ title: "Whispers of the Sky"
 dek: "Clouds as slow handwriting."
 number: V0516
 sort_key: 516
-date: 2027-01-29
+date: 2026-05-08
 date_written: 1994-04-04
 category: nature
 form: free-verse

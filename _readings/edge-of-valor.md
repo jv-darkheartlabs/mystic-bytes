@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228242.Kyla_Stone"
 dek: "Edge of Collapse Series — Book Seven"
 number: R372
 sort_key: 372
-date: 2022-09-16
+date: 2026-02-09
 date_read: 2007-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/edge-of-valor.jpg
 spice: 2
 content_warnings:

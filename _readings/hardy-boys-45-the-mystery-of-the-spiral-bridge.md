@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #45"
 number: R2310
 sort_key: 2310
-date: 2026-05-31
+date: 2026-08-14
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-45-the-mystery-of-the-spiral-bridge.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

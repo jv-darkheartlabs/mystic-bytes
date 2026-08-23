@@ -5,9 +5,9 @@ author: "H.G. Wells"
 dek: ""
 number: R1919
 sort_key: 1919
-date: 2026-06-10
+date: 2026-07-20
 date_read: 2014-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-war-of-the-worlds.jpg
 spice: 1
 content_warnings:

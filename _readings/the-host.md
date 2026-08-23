@@ -5,7 +5,7 @@ author: "Stephenie Meyer"
 dek: ""
 number: R2174
 sort_key: 2174
-date: 2026-04-16
+date: 2026-08-04
 date_read: 2017-08-16
 category: vampire-paranormal
 cover: /assets/readings/the-host.jpg

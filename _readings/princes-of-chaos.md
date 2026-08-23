@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17138508.Angel_Lawson"
 dek: "Royals of Forsyth — Book 7"
 number: R027
 sort_key: 027
-date: 2021-07-29
+date: 2026-01-04
 date_read: 2018-03-01
 category: bully-romance
 cover: /assets/readings/princes-of-chaos.jpg

@@ -5,11 +5,10 @@ author: "Homer"
 dek: ""
 number: R1851
 sort_key: 1851
-date: 2026-05-09
+date: 2026-07-14
 date_read: 2000-09-19
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/the-iliad.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

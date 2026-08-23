@@ -5,11 +5,10 @@ author: "Khaled Hosseini"
 dek: ""
 number: R1539
 sort_key: 1539
-date: 2026-06-08
+date: 2026-06-15
 date_read: 2007-05-14
-category: dark-thriller
+category: literary-fiction
 cover: /assets/readings/the-kite-runner.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "sexual assault"

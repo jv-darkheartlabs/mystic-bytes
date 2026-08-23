@@ -4,7 +4,7 @@ title: "Wuthering Heights"
 dek: "2011 raw reimagining of Emily Brontë's gothic romance."
 number: F0008
 sort_key: 8
-date: 2026-07-11
+date: 2026-02-09
 date_watched: 2011-11-11
 year: 2011
 poster: /assets/films/wuthering-heights-2011.jpg
@@ -25,7 +25,6 @@ category: gothic-horror
 format: feature-film
 fidelity: reimagining
 mpaa_rating: "Unrated"
-spice: 3
 content_warnings:
   - "violence"
   - "domestic abuse"
@@ -40,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: canon
 ---
 
 ## Hook & thesis

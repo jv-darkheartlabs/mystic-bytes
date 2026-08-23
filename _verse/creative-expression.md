@@ -4,7 +4,7 @@ title: "Creative Expression"
 dek: "Rhythm as receipt, not performance."
 number: V0226
 sort_key: 226
-date: 2026-10-13
+date: 2026-02-23
 date_written: 2001-05-05
 category: grief-loss-resilience
 form: free-verse

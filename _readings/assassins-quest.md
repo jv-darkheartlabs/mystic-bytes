@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book Three of the Farseer Trilogy"
 number: R503
 sort_key: 503
-date: 2023-02-23
-date_read: 2026-11-25
+date: 2026-02-24
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/assassins-quest.jpg
 spice: 3

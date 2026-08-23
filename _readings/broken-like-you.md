@@ -5,7 +5,7 @@ author: "Luna Pierce"
 dek: "A Suspenseful Romance"
 number: R797
 sort_key: 797
-date: 2024-02-16
+date: 2026-03-28
 date_read: 2020-08-16
 category: gothic-horror-romance
 cover: /assets/readings/broken-like-you.jpg

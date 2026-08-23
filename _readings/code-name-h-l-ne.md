@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18222707.Ariel_Lawhon"
 dek: "Based on a gripping true story"
 number: R432
 sort_key: 432
-date: 2022-11-28
+date: 2026-02-16
 date_read: 2007-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/code-name-h-l-ne.jpg
 spice: 2
 content_warnings:

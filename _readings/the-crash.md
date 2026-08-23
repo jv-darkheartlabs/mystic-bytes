@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7244758.Freida_McFadden"
 dek: "Danger lies at the end of the road..."
 number: R393
 sort_key: 393
-date: 2022-10-06
+date: 2026-02-12
 date_read: 2008-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-crash.jpg
 spice: 2
 content_warnings:

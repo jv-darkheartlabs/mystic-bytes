@@ -4,7 +4,7 @@ title: "Guiding Light"
 dek: "In dark times the torch is not a promise."
 number: V0113
 sort_key: 113
-date: 2026-08-15
+date: 2026-01-14
 date_written: 2010-12-05
 category: spirituality
 form: free-verse

@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #53"
 number: R2377
 sort_key: 2377
-date: 2026-03-25
+date: 2026-08-22
 date_read: 1994-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-53-the-sky-phantom.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

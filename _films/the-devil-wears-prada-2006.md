@@ -4,7 +4,7 @@ title: "The Devil Wears Prada"
 dek: "2006 fashion-industry power fable from Lauren Weisberger's novel."
 number: F0024
 sort_key: 24
-date: 2026-07-11
+date: 2026-05-09
 date_watched: 2006-06-30
 year: 2006
 poster: /assets/films/the-devil-wears-prada-2006.jpg
@@ -38,6 +38,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

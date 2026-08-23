@@ -5,9 +5,9 @@ author: "Rick Yancey"
 dek: "The 5th Wave Series"
 number: R1655
 sort_key: 1655
-date: 2026-05-05
+date: 2026-06-26
 date_read: 2010-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-5th-wave-the-5th-wave-1.jpg
 spice: 2
 content_warnings:

@@ -5,9 +5,9 @@ author: "Adam Robinson"
 dek: ""
 number: R2084
 sort_key: 2084
-date: 2026-04-06
+date: 2026-07-29
 date_read: 2009-08-16
-category: dark-thriller
+category: romantic-suspense
 shelf: false
 cover: /assets/readings/word-smart-ii.jpg
 spice: 1

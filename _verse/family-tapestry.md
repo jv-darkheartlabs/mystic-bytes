@@ -4,7 +4,7 @@ title: "Family Tapestry"
 dek: "Kinship woven in gumbo steam."
 number: V0434
 sort_key: 434
-date: 2026-12-22
+date: 2026-04-12
 date_written: 2006-07-04
 category: nola
 form: open

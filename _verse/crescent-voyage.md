@@ -4,7 +4,7 @@ title: "Crescent Voyage"
 dek: "Discovery with humidity in the hull."
 number: V0624
 sort_key: 624
-date: 2027-03-17
+date: 2026-06-09
 date_written: 1992-10-31
 category: curiosity
 form: open

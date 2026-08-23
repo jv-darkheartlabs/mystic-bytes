@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7168564.L_J_Shen"
 dek: "USA Today Bestselling Author"
 number: R133
 sort_key: 133
-date: 2021-12-03
+date: 2026-01-15
 date_read: 2016-10-22
 category: forbidden-love
 cover: /assets/readings/beautiful-graves.jpg

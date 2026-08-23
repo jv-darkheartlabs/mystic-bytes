@@ -5,7 +5,7 @@ author: "Lana Ferguson"
 dek: ""
 number: R881
 sort_key: 881
-date: 2024-05-27
+date: 2026-04-07
 date_read: 2020-11-25
 category: enemies-to-lovers
 cover: /assets/readings/beg-borrow-or-steal.jpg

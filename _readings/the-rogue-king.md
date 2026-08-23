@@ -5,7 +5,7 @@ author: "Abigail Owen"
 dek: "Inferno Rising"
 number: R1404
 sort_key: 1404
-date: 2026-02-26
+date: 2026-06-02
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/the-rogue-king.jpg

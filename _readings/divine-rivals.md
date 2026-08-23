@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15070218.Rebecca_Ross"
 dek: "No war can come between them"
 number: R1161
 sort_key: 1161
-date: 2025-05-09
+date: 2026-05-07
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/divine-rivals.jpg

@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #36"
 number: R2358
 sort_key: 2358
-date: 2026-04-13
+date: 2026-08-19
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-36-the-secret-of-the-golden-pavilion.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

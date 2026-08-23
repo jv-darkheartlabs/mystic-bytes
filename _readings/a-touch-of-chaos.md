@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Scarlett_St_Clair"
 dek: ""
 number: R954
 sort_key: 954
-date: 2024-08-31
+date: 2026-04-15
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/a-touch-of-chaos.jpg

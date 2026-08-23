@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166897.Elle_Kennedy"
 dek: "Off-Campus — Book 5"
 number: R459
 sort_key: 459
-date: 2023-01-02
+date: 2026-02-19
 date_read: 2018-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-legacy.jpg

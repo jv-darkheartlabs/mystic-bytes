@@ -5,11 +5,10 @@ author: "Alastair Heim"
 dek: "A whimsical twist on a classic tale"
 number: R1694
 sort_key: 1694
-date: 2026-07-05
+date: 2026-06-30
 date_read: 2017-05-07
-category: gothic-horror-romance
+category: juvenile-fiction
 cover: /assets/readings/dr-seusss-how-the-grinch-lost-christmas-classic-seuss.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

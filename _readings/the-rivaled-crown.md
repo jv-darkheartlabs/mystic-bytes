@@ -5,7 +5,7 @@ author: "Holly Renee"
 dek: ""
 number: R969
 sort_key: 969
-date: 2024-09-19
+date: 2026-04-16
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/the-rivaled-crown.jpg

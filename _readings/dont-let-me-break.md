@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228265.Kelsie_Rae"
 dek: "Don't Let Me Series — Book Three"
 number: R1485
 sort_key: 1485
-date: 2026-06-05
+date: 2026-06-11
 date_read: 2024-03-01
 category: forbidden-love
 cover: /assets/readings/dont-let-me-break.jpg

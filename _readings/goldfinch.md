@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17614050.Raven_Kennedy"
 dek: "The Plated Prisoner Series"
 number: R1212
 sort_key: 1212
-date: 2025-07-04
+date: 2026-05-12
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/goldfinch.jpg

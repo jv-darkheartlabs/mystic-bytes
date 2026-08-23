@@ -5,7 +5,7 @@ author: "Katherine Center"
 dek: "A Novel"
 number: R870
 sort_key: 870
-date: 2024-05-15
+date: 2026-04-05
 date_read: 2021-09-19
 category: enemies-to-lovers
 cover: /assets/readings/the-bodyguard.jpg

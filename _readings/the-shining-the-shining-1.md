@@ -5,11 +5,10 @@ author: "Stephen  King"
 dek: "The Shining, #1"
 number: R2181
 sort_key: 2181
-date: 2026-04-09
+date: 2026-08-04
 date_read: 2024-06-10
-category: gothic-horror-romance
+category: horror
 cover: /assets/readings/the-shining-the-shining-1.jpg
-spice: 2
 content_warnings:
   - "psychological horror"
   - "violence"

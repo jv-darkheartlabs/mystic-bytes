@@ -5,7 +5,7 @@ author: "Keri Lake"
 dek: "The Eating Woods, #1"
 number: R1638
 sort_key: 1638
-date: 2026-05-22
+date: 2026-06-25
 date_read: 2021-03-01
 category: gothic-horror-romance
 cover: /assets/readings/anathema-the-eating-woods-1.jpg

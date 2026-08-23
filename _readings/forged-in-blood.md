@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19791123.Sadie_Kincaid"
 dek: "Broken Bloodlines Series — Book One"
 number: R269
 sort_key: 269
-date: 2022-05-13
+date: 2026-01-29
 date_read: 2020-11-25
 category: vampire-paranormal
 cover: /assets/readings/forged-in-blood.jpg

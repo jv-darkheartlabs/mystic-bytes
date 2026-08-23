@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Mara_Rutherford"
 dek: ""
 number: R772
 sort_key: 772
-date: 2024-01-19
+date: 2026-03-26
 date_read: 2019-10-22
 category: gothic-horror-romance
 cover: /assets/readings/a-multitude-of-dreams.jpg

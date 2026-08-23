@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/20575144.Sarah_A_Parker"
 dek: ""
 number: R647
 sort_key: 647
-date: 2023-08-15
-date_read: 2026-11-25
+date: 2026-03-12
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/to-flame-a-wildflower.jpg
 spice: 4

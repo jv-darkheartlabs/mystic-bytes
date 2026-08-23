@@ -4,7 +4,7 @@ title: "Bayou's Virtue"
 dek: "Patience as Louisiana weather."
 number: V0405
 sort_key: 405
-date: 2026-11-23
+date: 2026-03-23
 date_written: 2005-06-18
 category: nola
 form: open

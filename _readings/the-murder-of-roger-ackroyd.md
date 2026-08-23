@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/123715.Agatha_Christie"
 dek: "A Hercule Poirot Mystery"
 number: R363
 sort_key: 363
-date: 2022-09-01
+date: 2026-02-08
 date_read: 2008-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-murder-of-roger-ackroyd.jpg
 spice: 1
 content_warnings:

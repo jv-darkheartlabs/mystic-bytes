@@ -4,7 +4,7 @@ title: "Embracing Faith"
 dek: "Belief as posture, not proof."
 number: V0139
 sort_key: 139
-date: 2026-09-10
+date: 2026-02-01
 date_written: 2004-01-17
 category: spirituality
 form: free-verse

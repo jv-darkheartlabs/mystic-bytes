@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #24"
 number: R2345
 sort_key: 2345
-date: 2026-04-26
+date: 2026-08-18
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-24-the-clue-in-the-old-album.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

@@ -5,7 +5,7 @@ author: "Amo Jones"
 dek: "Midnight Mayhem Book 1"
 number: R1257
 sort_key: 1257
-date: 2025-08-29
+date: 2026-05-17
 date_read: 2024-09-19
 category: forbidden-love
 cover: /assets/readings/in-peace-lies-havoc.jpg

@@ -4,7 +4,7 @@ title: "Breaking Shackles of Hate"
 dek: "Spite as chain — care as wedge."
 number: V0903
 sort_key: 903
-date: 2033-10-05
+date: 2026-08-05
 date_written: 2000-08-19
 category: justice
 form: free-verse

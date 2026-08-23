@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228250.Hannah_Grace"
 dek: ""
 number: R458
 sort_key: 458
-date: 2023-01-01
+date: 2026-02-19
 date_read: 2017-11-25
 category: enemies-to-lovers
 cover: /assets/readings/icebreaker.jpg

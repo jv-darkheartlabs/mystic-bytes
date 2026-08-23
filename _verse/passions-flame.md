@@ -4,7 +4,7 @@ title: "Passion's Flame"
 dek: "Same heat, second receipt."
 number: V0322
 sort_key: 322
-date: 2026-11-04
+date: 2026-03-10
 date_written: 2018-09-03
 category: love
 form: free-verse

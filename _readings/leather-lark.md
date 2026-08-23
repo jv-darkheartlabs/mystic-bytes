@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21652469.Brynne_Weaver"
 dek: "The Ruinous Love Trilogy"
 number: R114
 sort_key: 114
-date: 2021-11-14
+date: 2026-01-13
 date_read: 2021-09-19
 category: enemies-to-lovers
 cover: /assets/readings/leather-lark.jpg

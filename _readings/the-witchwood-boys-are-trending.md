@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5040309.C_M_Stunich"
 dek: "USA Today Bestselling Author"
 number: R644
 sort_key: 644
-date: 2023-08-14
+date: 2026-03-12
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/the-witchwood-boys-are-trending.jpg

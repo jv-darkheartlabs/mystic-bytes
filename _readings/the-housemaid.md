@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7244758.Freida_McFadden"
 dek: "From behind closed doors, she sees everything."
 number: R410
 sort_key: 410
-date: 2022-10-30
+date: 2026-02-14
 date_read: 2005-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-housemaid.jpg
 spice: 2
 content_warnings:

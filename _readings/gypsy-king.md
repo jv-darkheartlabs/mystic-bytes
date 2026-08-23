@@ -5,7 +5,7 @@ author: "Devney Perry"
 dek: "Tin Gypsy Series"
 number: R1291
 sort_key: 1291
-date: 2025-10-08
+date: 2026-05-21
 date_read: 2022-07-13
 category: motorcycle-club
 cover: /assets/readings/gypsy-king.jpg

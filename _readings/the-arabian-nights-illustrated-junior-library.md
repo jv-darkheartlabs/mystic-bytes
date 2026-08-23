@@ -5,7 +5,7 @@ author: "Laurence Housman"
 dek: "Illustrated tales from the enchanting world of Arabian folklore."
 number: R1599
 sort_key: 1599
-date: 2026-06-30
+date: 2026-06-20
 date_read: 2018-09-19
 category: gothic-horror-romance
 cover: /assets/readings/the-arabian-nights-illustrated-junior-library.jpg

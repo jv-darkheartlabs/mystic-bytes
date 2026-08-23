@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19621927.Sav_R_Miller"
 dek: ""
 number: R766
 sort_key: 766
-date: 2024-01-11
+date: 2026-03-25
 date_read: 2025-04-04
 category: forbidden-love
 cover: /assets/readings/sweet-surrender.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25422.Holly_Black"
 dek: ""
 number: R1152
 sort_key: 1152
-date: 2025-04-24
+date: 2026-05-06
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/the-wicked-king.jpg

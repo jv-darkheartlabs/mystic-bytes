@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/18228248.Ana_Huang"
 dek: "He hates her... almost as much as he wants her"
 number: R1367
 sort_key: 1367
-date: 2026-01-16
-date_read: 2026-11-25
+date: 2026-05-29
+date_read: 2026-08-23
 category: enemies-to-lovers
 cover: /assets/readings/twisted-hate.jpg
 spice: 4

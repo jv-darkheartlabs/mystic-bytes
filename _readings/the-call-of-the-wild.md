@@ -5,9 +5,9 @@ author: "Jack London"
 dek: ""
 number: R1912
 sort_key: 1912
-date: 2026-06-17
+date: 2026-07-19
 date_read: 2007-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-call-of-the-wild.jpg
 spice: 1
 content_warnings:

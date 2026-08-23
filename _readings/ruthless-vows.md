@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15070218.Rebecca_Ross"
 dek: "#1 New York Times bestselling author of Divine Rivals"
 number: R1194
 sort_key: 1194
-date: 2025-06-16
+date: 2026-05-10
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/ruthless-vows.jpg

@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/5194.Michael_Crichton"
 dek: ""
 number: R349
 sort_key: 349
-date: 2022-08-17
+date: 2026-02-07
 date_read: 2014-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/sphere.jpg
 spice: 2
 content_warnings:

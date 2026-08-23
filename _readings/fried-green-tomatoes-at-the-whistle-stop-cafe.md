@@ -5,7 +5,7 @@ author: "Fannie Flagg"
 dek: ""
 number: R2254
 sort_key: 2254
-date: 2026-05-06
+date: 2026-08-08
 date_read: 2025-07-13
 category: gothic-horror-romance
 cover: /assets/readings/fried-green-tomatoes-at-the-whistle-stop-cafe.jpg

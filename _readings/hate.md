@@ -5,7 +5,7 @@ author: "Tate James"
 dek: "Madison Kate #1"
 number: R1086
 sort_key: 1086
-date: 2025-02-06
+date: 2026-04-29
 date_read: 2021-09-19
 category: bully-romance
 cover: /assets/readings/hate.jpg

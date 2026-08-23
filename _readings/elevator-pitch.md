@@ -5,7 +5,7 @@ author: "L.B. Dunbar"
 dek: "Chicago Anchors"
 number: R906
 sort_key: 906
-date: 2024-07-01
+date: 2026-04-09
 date_read: 2021-09-19
 category: enemies-to-lovers
 cover: /assets/readings/elevator-pitch.jpg

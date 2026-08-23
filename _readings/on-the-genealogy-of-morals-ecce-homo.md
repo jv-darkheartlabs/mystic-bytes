@@ -5,11 +5,10 @@ author: "Friedrich Nietzsche"
 dek: ""
 number: R2268
 sort_key: 2268
-date: 2026-04-22
+date: 2026-08-09
 date_read: 2013-03-01
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/on-the-genealogy-of-morals-ecce-homo.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

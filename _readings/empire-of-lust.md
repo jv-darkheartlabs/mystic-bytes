@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Rina_Kent"
 dek: ""
 number: R333
 sort_key: 333
-date: 2022-07-28
+date: 2026-02-05
 date_read: 2024-03-01
 category: dark-billionaire
 cover: /assets/readings/empire-of-lust.jpg

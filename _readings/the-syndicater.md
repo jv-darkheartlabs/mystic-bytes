@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19586146.RuNyx"
 dek: "Dark Verse Book Six"
 number: R183
 sort_key: 183
-date: 2022-02-03
+date: 2026-01-20
 date_read: 2018-06-10
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-syndicater.jpg

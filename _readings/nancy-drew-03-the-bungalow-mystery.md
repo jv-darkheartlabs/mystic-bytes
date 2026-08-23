@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #3"
 number: R2351
 sort_key: 2351
-date: 2026-04-20
+date: 2026-08-19
 date_read: 1990-06-20
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-03-the-bungalow-mystery.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

@@ -4,7 +4,7 @@ title: "Strength and Beauty"
 dek: "Tree as promise you cannot keep alone."
 number: V0528
 sort_key: 528
-date: 2027-02-10
+date: 2026-05-16
 date_written: 1993-03-30
 category: nature
 form: free-verse

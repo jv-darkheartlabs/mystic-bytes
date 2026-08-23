@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/346732.George_R_R_Martin"
 dek: ""
 number: R669
 sort_key: 669
-date: 2023-09-16
+date: 2026-03-14
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/a-clash-of-kings.jpg

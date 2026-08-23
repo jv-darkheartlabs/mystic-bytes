@@ -5,7 +5,7 @@ author: "S. M. Gaither"
 dek: "Shadows & Crowns — Book Five"
 number: R566
 sort_key: 566
-date: 2023-05-10
+date: 2026-03-03
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/the-queen-of-the-dawn.jpg

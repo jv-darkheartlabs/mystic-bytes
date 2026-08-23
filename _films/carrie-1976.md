@@ -4,7 +4,7 @@ title: "Carrie"
 dek: "1976 De Palma adaptation of Stephen King's telekinetic horror."
 number: F0013
 sort_key: 13
-date: 2026-07-11
+date: 2026-03-09
 date_watched: 1976-11-03
 year: 1976
 poster: /assets/films/carrie-1976.jpg
@@ -25,7 +25,6 @@ category: horror
 format: feature-film
 fidelity: faithful
 mpaa_rating: "R"
-spice: 3
 content_warnings:
   - "violence"
   - "gore"
@@ -41,6 +40,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: genre
 ---
 
 ## Hook & thesis

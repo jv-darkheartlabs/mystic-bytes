@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/6868939.Sally_Hepworth"
 dek: "Everyone has a dark side"
 number: R391
 sort_key: 391
-date: 2022-10-05
+date: 2026-02-12
 date_read: 2006-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-good-sister.jpg
 spice: 2
 content_warnings:

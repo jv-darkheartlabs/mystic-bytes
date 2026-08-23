@@ -5,7 +5,7 @@ author: "S. M. Gaither"
 dek: "Shadows & Crowns — Book Two"
 number: R1400
 sort_key: 1400
-date: 2026-02-25
+date: 2026-06-01
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/a-twist-of-the-blade.jpg

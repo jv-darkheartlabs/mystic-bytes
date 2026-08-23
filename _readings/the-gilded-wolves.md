@@ -5,7 +5,7 @@ author: "Roshani Chokshi"
 dek: ""
 number: R545
 sort_key: 545
-date: 2023-04-10
+date: 2026-03-01
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/the-gilded-wolves.jpg

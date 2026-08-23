@@ -4,7 +4,7 @@ title: "Interview with the Vampire"
 dek: "1994 gothic adaptation of Anne Rice's vampire chronicle."
 number: F0004
 sort_key: 4
-date: 2026-07-11
+date: 2026-01-18
 date_watched: 1994-11-11
 year: 1994
 poster: /assets/films/interview-with-the-vampire-1994.jpg
@@ -41,6 +41,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

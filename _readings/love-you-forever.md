@@ -5,7 +5,7 @@ author: "Robert Munsch"
 dek: ""
 number: R1815
 sort_key: 1815
-date: 2026-06-14
+date: 2026-07-10
 date_read: 2018-09-19
 category: forbidden-love
 cover: /assets/readings/love-you-forever.jpg

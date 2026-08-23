@@ -5,7 +5,7 @@ author: "Maggie Sunseri"
 dek: "Eternal Obsession Book Two"
 number: R070
 sort_key: 070
-date: 2021-09-19
+date: 2026-01-09
 date_read: 2025-10-22
 category: captor-and-captive
 cover: /assets/readings/taken-by-touch-and-torment.jpg

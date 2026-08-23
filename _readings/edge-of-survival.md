@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228242.Kyla_Stone"
 dek: "Edge of Collapse Series — Book Six"
 number: R366
 sort_key: 366
-date: 2022-09-04
+date: 2026-02-09
 date_read: 2011-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/edge-of-survival.jpg
 spice: 2
 content_warnings:

@@ -5,8 +5,8 @@ author: "Abby Jimenez"
 dek: ""
 number: R467
 sort_key: 467
-date: 2023-01-07
-date_read: 2026-11-25
+date: 2026-02-20
+date_read: 2026-08-23
 category: enemies-to-lovers
 cover: /assets/readings/yours-truly.jpg
 spice: 3

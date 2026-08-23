@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book One of the Liveship Traders"
 number: R558
 sort_key: 558
-date: 2023-04-27
+date: 2026-03-02
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/ship-of-magic.jpg

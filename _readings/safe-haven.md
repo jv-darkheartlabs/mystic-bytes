@@ -5,7 +5,7 @@ author: "Nicholas Sparks"
 dek: ""
 number: R1776
 sort_key: 1776
-date: 2026-04-14
+date: 2026-07-07
 date_read: 2015-06-10
 category: forbidden-love
 cover: /assets/readings/safe-haven.jpg

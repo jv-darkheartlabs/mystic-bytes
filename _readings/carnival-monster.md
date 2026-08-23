@@ -5,7 +5,7 @@ author: "Selena Winters"
 dek: "A Dark New Adult Romance"
 number: R1313
 sort_key: 1313
-date: 2025-11-10
+date: 2026-05-23
 date_read: 2020-11-25
 category: stalker-obsession
 cover: /assets/readings/carnival-monster.jpg

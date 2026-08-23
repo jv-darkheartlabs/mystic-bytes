@@ -4,7 +4,7 @@ title: "From Coffee Bean to Liqueur"
 dek: "Roast as ordeal — sweet as earned."
 number: V0921
 sort_key: 921
-date: 2035-04-21
+date: 2026-08-18
 date_written: 2024-03-01
 category: misc
 form: free-verse

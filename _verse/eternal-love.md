@@ -4,7 +4,7 @@ title: "Eternal Love"
 dek: "Forever is a word lovers use before the bill arrives."
 number: V0306
 sort_key: 306
-date: 2026-10-19
+date: 2026-02-27
 date_written: 2018-07-04
 category: love
 form: open

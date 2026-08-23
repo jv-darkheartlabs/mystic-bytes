@@ -5,7 +5,7 @@ author: "Neva Altaj"
 dek: "Perfectly Imperfect Series — Special Edition"
 number: R1261
 sort_key: 1261
-date: 2025-09-03
+date: 2026-05-18
 date_read: 2016-04-04
 category: forbidden-love
 cover: /assets/readings/stolen-touches.jpg

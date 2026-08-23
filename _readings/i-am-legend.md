@@ -5,7 +5,7 @@ author: "Richard Matheson"
 dek: ""
 number: R1921
 sort_key: 1921
-date: 2026-06-08
+date: 2026-07-20
 date_read: 2016-07-13
 category: gothic-horror-romance
 cover: /assets/readings/i-am-legend.jpg

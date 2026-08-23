@@ -4,7 +4,7 @@ title: "Ode to Demian"
 dek: "Supreme bean — sunshine with teeth."
 number: V0922
 sort_key: 922
-date: 2035-05-25
+date: 2026-08-18
 date_written: 2017-08-23
 category: misc
 form: free-verse

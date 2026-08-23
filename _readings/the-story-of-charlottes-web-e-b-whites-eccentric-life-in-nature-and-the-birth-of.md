@@ -5,9 +5,9 @@ author: "Michael Sims"
 dek: "Exploring the life of E.B. White and the creation of a beloved classic."
 number: R2261
 sort_key: 2261
-date: 2026-04-29
+date: 2026-08-09
 date_read: 2006-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-story-of-charlottes-web-e-b-whites-eccentric-life-in-nature-and-the-birth-of.jpg
 spice: 1
 content_warnings:

@@ -5,7 +5,7 @@ author: "Clarissa Wild"
 dek: "New York Times & USA Today Bestselling Author"
 number: R059
 sort_key: 059
-date: 2021-09-05
+date: 2026-01-07
 date_read: 2026-08-16
 category: bully-romance
 cover: /assets/readings/vile-boys.jpg

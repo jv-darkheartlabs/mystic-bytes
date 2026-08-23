@@ -4,7 +4,7 @@ title: "Allure of Poetry"
 dek: "Verse as uncut image, not muse brochure."
 number: V0219
 sort_key: 219
-date: 2026-10-06
+date: 2026-02-18
 date_written: 2000-02-02
 category: grief-loss-resilience
 form: free-verse

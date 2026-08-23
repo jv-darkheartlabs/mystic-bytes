@@ -4,7 +4,7 @@ title: "The Handmaid's Tale"
 dek: "1990 film adaptation of Margaret Atwood's Gilead dystopia."
 number: F0027
 sort_key: 27
-date: 2026-07-11
+date: 2026-05-26
 date_watched: 1990-03-07
 year: 1990
 poster: /assets/films/the-handmaids-tale-1990.jpg
@@ -25,7 +25,6 @@ category: dystopian
 format: feature-film
 fidelity: loose
 mpaa_rating: "R"
-spice: 3
 content_warnings:
   - "sexual violence"
   - "coercion"
@@ -40,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: canon
 ---
 
 ## Hook & thesis

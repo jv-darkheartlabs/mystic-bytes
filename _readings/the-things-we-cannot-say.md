@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7176780.Kelly_Rimmer"
 dek: ""
 number: R408
 sort_key: 408
-date: 2022-10-27
+date: 2026-02-13
 date_read: 2013-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-things-we-cannot-say.jpg
 spice: 2
 content_warnings:

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228259.Emily_Rath"
 dek: "The bestselling TikTok hockey romance"
 number: R1500
 sort_key: 1500
-date: 2026-06-28
+date: 2026-06-13
 date_read: 2015-09-19
 category: reverse-harem
 cover: /assets/readings/pucking-around.jpg

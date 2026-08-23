@@ -4,7 +4,7 @@ title: "Kindness Between Friends"
 dek: "Private lore. Not for the public shelf."
 number: V0146
 sort_key: 146
-date: 2026-09-17
+date: 2026-02-05
 date_written: 1994-08-03
 category: spirituality
 form: closed

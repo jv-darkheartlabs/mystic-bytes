@@ -5,9 +5,9 @@ author: "Rektok Ross"
 dek: "A Thriller"
 number: R425
 sort_key: 425
-date: 2022-11-17
+date: 2026-02-15
 date_read: 2010-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/summer-rental.jpg
 spice: 2
 content_warnings:

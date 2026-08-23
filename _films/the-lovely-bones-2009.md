@@ -4,7 +4,7 @@ title: "The Lovely Bones"
 dek: "2009 Jackson adaptation of Alice Sebold's afterlife novel."
 number: F0028
 sort_key: 28
-date: 2026-07-11
+date: 2026-06-01
 date_watched: 2009-12-11
 year: 2009
 poster: /assets/films/the-lovely-bones-2009.jpg
@@ -42,6 +42,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis

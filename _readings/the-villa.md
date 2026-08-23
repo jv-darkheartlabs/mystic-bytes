@@ -5,9 +5,9 @@ author: "Rachel Hawkins"
 dek: "A Novel"
 number: R378
 sort_key: 378
-date: 2022-09-19
+date: 2026-02-10
 date_read: 2013-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-villa.jpg
 spice: 2
 content_warnings:

@@ -5,7 +5,7 @@ author: "Jamie Applegate Hunter"
 dek: ""
 number: R991
 sort_key: 991
-date: 2024-10-09
+date: 2026-04-19
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/viciously-yours.jpg

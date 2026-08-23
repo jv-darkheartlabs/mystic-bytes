@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/2973979.Katee_Robert"
 dek: ""
 number: R1069
 sort_key: 1069
-date: 2025-01-18
+date: 2026-04-27
 date_read: 2016-10-22
 category: vampire-paranormal
 cover: /assets/readings/court-of-the-vampire-queen.jpg

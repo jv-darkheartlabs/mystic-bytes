@@ -4,7 +4,7 @@ title: "Marriage"
 dek: "Commitment as daily contract, not crown."
 number: V0324
 sort_key: 324
-date: 2026-11-06
+date: 2026-03-11
 date_written: 2020-02-14
 category: love
 form: free-verse

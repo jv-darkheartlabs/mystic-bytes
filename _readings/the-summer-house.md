@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/3780.James_Patterson"
 dek: ""
 number: R426
 sort_key: 426
-date: 2022-11-16
+date: 2026-02-15
 date_read: 2011-06-10
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-summer-house.jpg
 spice: 2
 content_warnings:

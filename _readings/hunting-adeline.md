@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19678643.H_D_Carlton"
 dek: ""
 number: R208
 sort_key: 208
-date: 2022-02-28
+date: 2026-01-23
 date_read: 2023-01-18
 category: stalker-obsession
 cover: /assets/readings/hunting-adeline.jpg

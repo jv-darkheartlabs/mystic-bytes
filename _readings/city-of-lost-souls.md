@@ -5,7 +5,7 @@ author: "Cassandra Clare"
 dek: "Shadowhunters"
 number: R543
 sort_key: 543
-date: 2023-04-12
+date: 2026-02-28
 date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/city-of-lost-souls.jpg

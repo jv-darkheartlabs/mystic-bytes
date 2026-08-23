@@ -5,11 +5,10 @@ author: "J.R.R. Tolkien"
 dek: ""
 number: R2232
 sort_key: 2232
-date: 2026-05-28
+date: 2026-08-06
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/the-hobbit-or-there-and-back-again.jpg
-spice: 1
 content_warnings:
 tags:
   - adventure

@@ -4,7 +4,7 @@ title: "Harry Potter and the Sorcerer's Stone"
 dek: "2001 franchise opener — Rowling's wizard world on screen."
 number: F0036
 sort_key: 36
-date: 2026-07-11
+date: 2026-07-15
 date_watched: 2001-11-16
 year: 2001
 poster: /assets/films/harry-potter-sorcerers-stone-2001.jpg
@@ -25,7 +25,6 @@ category: fantasy
 format: feature-film
 fidelity: faithful
 mpaa_rating: "PG"
-spice: 1
 content_warnings:
   - "fantasy violence"
   - "child peril"
@@ -39,6 +38,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: juvenile
 ---
 
 ## Hook & thesis

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/11093.Julia_Quinn"
 dek: "Bridgerton — Penelope & Colin's Story"
 number: R633
 sort_key: 633
-date: 2023-07-27
+date: 2026-03-10
 date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/romancing-mister-bridgerton.jpg

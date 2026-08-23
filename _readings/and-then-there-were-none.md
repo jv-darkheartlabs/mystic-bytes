@@ -5,11 +5,10 @@ author: "Agatha Christie"
 dek: ""
 number: R1637
 sort_key: 1637
-date: 2026-05-23
+date: 2026-06-24
 date_read: 2012-11-25
-category: dark-thriller
+category: mystery-crime
 cover: /assets/readings/and-then-there-were-none.jpg
-spice: 1
 content_warnings:
   - "murder"
   - "death"

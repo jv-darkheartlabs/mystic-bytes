@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20304565.Veronica_Lancet"
 dek: ""
 number: R277
 sort_key: 277
-date: 2022-05-18
+date: 2026-01-30
 date_read: 2016-10-22
 category: vampire-paranormal
 cover: /assets/readings/fairydale.jpg

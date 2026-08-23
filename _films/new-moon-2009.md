@@ -4,7 +4,7 @@ title: "The Twilight Saga: New Moon"
 dek: "2009 sequel — Bella's eclipse and the werewolf triangle."
 number: F0016
 sort_key: 16
-date: 2026-07-11
+date: 2026-03-26
 date_watched: 2009-11-20
 year: 2009
 poster: /assets/films/new-moon-2009.jpg
@@ -39,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: romance
 ---
 
 ## Hook & thesis  

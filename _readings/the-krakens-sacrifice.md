@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "A Deal with a Demon Novel"
 number: R1388
 sort_key: 1388
-date: 2026-02-10
+date: 2026-05-31
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/the-krakens-sacrifice.jpg

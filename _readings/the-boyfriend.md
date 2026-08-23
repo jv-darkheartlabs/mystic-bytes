@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7244758.Freida_McFadden"
 dek: "Is he the man of your dreams or your worst nightmare?"
 number: R411
 sort_key: 411
-date: 2022-10-31
+date: 2026-02-14
 date_read: 2006-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-boyfriend.jpg
 spice: 3
 content_warnings:

@@ -4,7 +4,7 @@ title: "Heart's Abode"
 dek: "Home is where the body stops auditioning."
 number: V0308
 sort_key: 308
-date: 2026-10-21
+date: 2026-02-28
 date_written: 2017-03-12
 category: love
 form: free-verse

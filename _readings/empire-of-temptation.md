@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Mila_Finelli"
 dek: "New York State of Mafia — Book One"
 number: R175
 sort_key: 175
-date: 2022-01-24
+date: 2026-01-19
 date_read: 2022-07-13
 category: mafia-boss-and-innocent
 cover: /assets/readings/empire-of-temptation.jpg

@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #6"
 number: R2381
 sort_key: 2381
-date: 2026-03-21
+date: 2026-08-22
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-06-the-secret-of-red-gate-farm.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

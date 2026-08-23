@@ -4,7 +4,7 @@ title: "Artistry"
 dek: "Creation without permission slip."
 number: V0440
 sort_key: 440
-date: 2026-12-28
+date: 2026-04-16
 date_written: 2008-10-10
 category: nola
 form: open

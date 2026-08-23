@@ -5,7 +5,7 @@ author: "Kate Golden"
 dek: "The Sacred Stones"
 number: R1213
 sort_key: 1213
-date: 2025-07-09
+date: 2026-05-12
 date_read: 2016-10-22
 category: fantasy-romance
 cover: /assets/readings/a-reign-of-rose.jpg

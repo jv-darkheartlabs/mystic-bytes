@@ -4,7 +4,7 @@ title: "The Hunger Games: Catching Fire"
 dek: "2013 second arena — the clock and the revolution."
 number: F0019
 sort_key: 19
-date: 2026-07-11
+date: 2026-04-12
 date_watched: 2013-11-22
 year: 2013
 poster: /assets/films/catching-fire-2013.jpg
@@ -26,7 +26,6 @@ category: dystopian
 format: feature-film
 fidelity: faithful
 mpaa_rating: "PG-13"
-spice: 2
 content_warnings:
   - "violence"
   - "psychological intensity"
@@ -40,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: juvenile
 ---
 
 ## Hook & thesis

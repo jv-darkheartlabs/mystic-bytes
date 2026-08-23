@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/5430144.Colleen_Hoover"
 dek: "A novel"
 number: R730
 sort_key: 730
-date: 2023-11-30
+date: 2026-03-21
 date_read: 2025-04-04
 category: forbidden-love
 cover: /assets/readings/maybe-now.jpg

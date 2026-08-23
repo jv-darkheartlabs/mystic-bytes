@@ -5,9 +5,9 @@ author: "Ken Kesey"
 dek: ""
 number: R2164
 sort_key: 2164
-date: 2026-04-26
+date: 2026-08-03
 date_read: 2009-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/one-flew-over-the-cuckoo-s-nest.jpg
 spice: 2
 content_warnings:

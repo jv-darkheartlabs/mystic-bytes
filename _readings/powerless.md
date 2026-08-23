@@ -5,7 +5,7 @@ author: "Lauren Roberts"
 dek: ""
 number: R944
 sort_key: 944
-date: 2024-08-14
+date: 2026-04-14
 date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/powerless.jpg

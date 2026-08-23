@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19684385.Adalyn_Grace"
 dek: "New York Times Bestselling Author of Belladonna"
 number: R716
 sort_key: 716
-date: 2023-11-13
+date: 2026-03-19
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/foxglove.jpg

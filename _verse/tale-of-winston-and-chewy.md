@@ -4,7 +4,7 @@ title: "Tale of Winston and Chewy"
 dek: "Private lore. Not for the public shelf."
 number: V0456
 sort_key: 456
-date: 2027-01-13
+date: 2026-04-27
 date_written: 1993-06-14
 category: nola
 form: closed

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "This isn't a marriage. It's a contract signed in blood."
 number: R008
 sort_key: 008
-date: 2021-07-09
+date: 2026-01-02
 date_read: 2023-11-25
 category: arranged-marriage
 cover: /assets/readings/code-of-silence.jpg

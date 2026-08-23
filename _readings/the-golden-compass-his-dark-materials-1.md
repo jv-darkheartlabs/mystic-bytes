@@ -5,7 +5,7 @@ author: "Philip Pullman"
 dek: "His Dark Materials, #1"
 number: R2141
 sort_key: 2141
-date: 2026-05-19
+date: 2026-07-31
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/the-golden-compass-his-dark-materials-1.jpg

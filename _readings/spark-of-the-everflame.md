@@ -5,7 +5,7 @@ author: "Penn Cole"
 dek: "The Kindred's Curse Saga, Book One"
 number: R1143
 sort_key: 1143
-date: 2025-04-15
+date: 2026-05-05
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/spark-of-the-everflame.jpg

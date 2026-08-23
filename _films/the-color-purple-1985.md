@@ -4,7 +4,7 @@ title: "The Color Purple"
 dek: "1985 Spielberg adaptation of Alice Walker's epistolary novel."
 number: F0035
 sort_key: 35
-date: 2026-07-11
+date: 2026-07-10
 date_watched: 1985-12-18
 year: 1985
 poster: /assets/films/the-color-purple-1985.jpg
@@ -25,7 +25,6 @@ category: literary-adaptation
 format: feature-film
 fidelity: faithful
 mpaa_rating: "PG-13"
-spice: 3
 content_warnings:
   - "domestic abuse"
   - "racism"
@@ -40,6 +39,7 @@ tags:
   - literaryanalysis
   - darkheartlabs
 review_format: projection-room
+lane: canon
 ---
 
 ## Hook & thesis

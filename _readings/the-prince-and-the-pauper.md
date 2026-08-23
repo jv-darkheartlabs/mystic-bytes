@@ -5,11 +5,10 @@ author: "Mark Twain"
 dek: ""
 number: R1716
 sort_key: 1716
-date: 2026-06-13
+date: 2026-07-02
 date_read: 2015-09-19
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/the-prince-and-the-pauper.jpg
-spice: 1
 content_warnings:
 tags:
   - gothic

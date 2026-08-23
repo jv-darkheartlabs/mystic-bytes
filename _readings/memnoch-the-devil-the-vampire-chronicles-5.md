@@ -5,7 +5,7 @@ author: "Anne Rice"
 dek: "The Vampire Chronicles, #5"
 number: R1887
 sort_key: 1887
-date: 2026-04-03
+date: 2026-07-17
 date_read: 2018-09-19
 category: vampire-paranormal
 cover: /assets/readings/memnoch-the-devil-the-vampire-chronicles-5.jpg

@@ -5,7 +5,7 @@ author: "Lucy Score"
 dek: "She's absolutely not falling for the bad boy."
 number: R465
 sort_key: 465
-date: 2023-01-05
+date: 2026-02-20
 date_read: 2024-09-19
 category: enemies-to-lovers
 cover: /assets/readings/things-we-never-got-over.jpg

@@ -5,7 +5,7 @@ author: "Jasmine Walt"
 dek: "Of Dragons and Fae"
 number: R1231
 sort_key: 1231
-date: 2025-07-29
+date: 2026-05-14
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/promised-in-fire.jpg

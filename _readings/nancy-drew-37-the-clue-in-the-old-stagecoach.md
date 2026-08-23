@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #37"
 number: R2359
 sort_key: 2359
-date: 2026-04-12
+date: 2026-08-20
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-37-the-clue-in-the-old-stagecoach.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

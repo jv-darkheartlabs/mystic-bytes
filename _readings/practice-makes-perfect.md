@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228247.Sarah_Adams"
 dek: "A novel"
 number: R451
 sort_key: 451
-date: 2022-12-19
+date: 2026-02-18
 date_read: 2022-04-04
 category: enemies-to-lovers
 cover: /assets/readings/practice-makes-perfect.jpg

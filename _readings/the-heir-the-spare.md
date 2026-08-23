@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19845642.Harper_L_Woods"
 dek: "An Of Flesh & Bone Novella"
 number: R261
 sort_key: 261
-date: 2022-05-01
+date: 2026-01-28
 date_read: 2024-03-01
 category: vampire-paranormal
 cover: /assets/readings/the-heir-the-spare.jpg

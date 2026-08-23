@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228242.Kyla_Stone"
 dek: "Edge of Collapse Series — Book One"
 number: R365
 sort_key: 365
-date: 2022-09-03
+date: 2026-02-09
 date_read: 2010-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/edge-of-collapse.jpg
 spice: 2
 content_warnings:

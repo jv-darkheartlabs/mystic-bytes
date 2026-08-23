@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "a novel"
 number: R848
 sort_key: 848
-date: 2024-04-23
+date: 2026-04-03
 date_read: 2023-05-07
 category: enemies-to-lovers
 cover: /assets/readings/secretly-yours.jpg

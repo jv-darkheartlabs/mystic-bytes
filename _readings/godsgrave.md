@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4735144.Jay_Kristoff"
 dek: "Nevernight Book Two"
 number: R715
 sort_key: 715
-date: 2023-11-10
+date: 2026-03-19
 date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/godsgrave.jpg

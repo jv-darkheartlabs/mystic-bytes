@@ -5,11 +5,10 @@ author: "Franz Kafka"
 dek: ""
 number: R1907
 sort_key: 1907
-date: 2026-06-22
-date_read: 2026-11-25
-category: gothic-horror-romance
+date: 2026-07-19
+date_read: 2026-08-23
+category: classic-literature
 cover: /assets/readings/the-metamorphosis.jpg
-spice: 1
 content_warnings:
   - "body horror"
   - "existential themes"

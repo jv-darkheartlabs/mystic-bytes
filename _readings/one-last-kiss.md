@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21435889.Lola_King"
 dek: "A Stoneview Stories Novella"
 number: R236
 sort_key: 236
-date: 2022-04-03
+date: 2026-01-26
 date_read: 2023-05-07
 category: stalker-obsession
 cover: /assets/readings/one-last-kiss.jpg

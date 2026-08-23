@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3618.Diana_Gabaldon"
 dek: ""
 number: R621
 sort_key: 621
-date: 2023-07-19
+date: 2026-03-09
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/drums-of-autumn.jpg

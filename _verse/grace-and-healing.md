@@ -4,7 +4,7 @@ title: "Grace and Healing"
 dek: "Healing is not a gift bag."
 number: V0145
 sort_key: 145
-date: 2026-09-16
+date: 2026-02-05
 date_written: 2006-10-02
 category: spirituality
 form: free-verse

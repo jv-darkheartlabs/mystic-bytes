@@ -5,7 +5,7 @@ author: "Keri Lake"
 dek: ""
 number: R1046
 sort_key: 1046
-date: 2024-12-16
+date: 2026-04-25
 date_read: 2017-05-07
 category: gothic-horror-romance
 cover: /assets/readings/master-of-salt-bones.jpg

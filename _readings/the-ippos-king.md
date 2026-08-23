@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4501753.Grace_Draven"
 dek: "Wraith Kings Book 3"
 number: R1221
 sort_key: 1221
-date: 2025-07-20
+date: 2026-05-13
 date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/the-ippos-king.jpg

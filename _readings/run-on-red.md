@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228243.Noelle_W_Ihli"
 dek: "A Thriller"
 number: R359
 sort_key: 359
-date: 2022-08-30
+date: 2026-02-08
 date_read: 2014-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/run-on-red.jpg
 spice: 2
 content_warnings:

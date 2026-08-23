@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Rebecca_F_Kenney"
 dek: ""
 number: R781
 sort_key: 781
-date: 2024-01-29
+date: 2026-03-27
 date_read: 2016-10-22
 category: gothic-horror-romance
 cover: /assets/readings/the-chimera-will-claim-you.jpg

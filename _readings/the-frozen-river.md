@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/18228262.Ariel_Lawhon"
 dek: ""
 number: R1345
 sort_key: 1345
-date: 2025-12-14
+date: 2026-05-26
 date_read: 2010-07-13
-category: dark-thriller
+category: historical
 cover: /assets/readings/the-frozen-river.jpg
-spice: 1
 content_warnings:
   - "murder"
   - "death"

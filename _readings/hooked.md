@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20473218.Emily_McIntire"
 dek: "A Never After Novel"
 number: R153
 sort_key: 153
-date: 2021-12-26
+date: 2026-01-17
 date_read: 2024-03-01
 category: forbidden-love
 cover: /assets/readings/hooked.jpg

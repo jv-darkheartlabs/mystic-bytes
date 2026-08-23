@@ -5,7 +5,7 @@ author: "I. A. Dice"
 dek: "Shadows of Obsession Series Book One"
 number: R1309
 sort_key: 1309
-date: 2025-11-04
+date: 2026-05-22
 date_read: 2016-07-13
 category: stalker-obsession
 cover: /assets/readings/breaking-hailey.jpg

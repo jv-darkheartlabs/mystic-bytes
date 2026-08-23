@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19981277.Nikki_St_Crowe"
 dek: "Never, never let him chase you."
 number: R257
 sort_key: 257
-date: 2022-04-26
+date: 2026-01-28
 date_read: 2020-08-16
 category: vampire-paranormal
 cover: /assets/readings/the-dark-one.jpg

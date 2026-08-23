@@ -5,8 +5,8 @@ author: "Amber Vant"
 dek: "The Bleak Beginning"
 number: R1511
 sort_key: 1511
-date: 2026-07-06
-date_read: 2026-11-25
+date: 2026-06-14
+date_read: 2026-08-23
 category: bully-romance
 cover: /assets/readings/altair-university-the-bleak-beginning.jpg
 spice: 4

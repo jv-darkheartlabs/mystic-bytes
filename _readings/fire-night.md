@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7139382.Penelope_Douglas"
 dek: "A Devil's Night Novella"
 number: R028
 sort_key: 028
-date: 2021-07-28
+date: 2026-01-04
 date_read: 2019-04-04
 category: bully-romance
 cover: /assets/readings/fire-night.jpg

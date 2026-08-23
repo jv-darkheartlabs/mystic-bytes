@@ -4,7 +4,7 @@ title: "Jazz Notes"
 dek: "Verse trying to keep time with brass."
 number: V0403
 sort_key: 403
-date: 2026-11-21
+date: 2026-03-21
 date_written: 2006-04-21
 category: nola
 form: open

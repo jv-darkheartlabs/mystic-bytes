@@ -4,7 +4,7 @@ title: "Joy in Loving Relationships"
 dek: "Warmth as repair, not decoration."
 number: V0331
 sort_key: 331
-date: 2026-11-13
+date: 2026-03-16
 date_written: 2018-01-26
 category: love
 form: free-verse

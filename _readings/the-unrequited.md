@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17138508.Saffron_A_Kent"
 dek: "USA Today Bestselling Author"
 number: R135
 sort_key: 135
-date: 2021-12-04
+date: 2026-01-15
 date_read: 2018-03-01
 category: forbidden-love
 cover: /assets/readings/the-unrequited.jpg

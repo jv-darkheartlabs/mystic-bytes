@@ -5,7 +5,7 @@ author: "Sheridan Anne"
 dek: "A Dark Brother's Best Friend Standalone Romance"
 number: R1061
 sort_key: 1061
-date: 2025-01-02
+date: 2026-04-26
 date_read: 2020-11-25
 category: stalker-obsession
 cover: /assets/readings/haunted-love.jpg

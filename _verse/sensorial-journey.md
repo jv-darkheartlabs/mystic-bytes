@@ -4,7 +4,7 @@ title: "Sensorial Journey"
 dek: "Scent as memory with teeth."
 number: V0519
 sort_key: 519
-date: 2027-02-01
+date: 2026-05-10
 date_written: 1994-08-01
 category: nature
 form: open

@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Wicked Villains"
 number: R1357
 sort_key: 1357
-date: 2026-01-02
+date: 2026-05-28
 date_read: 2016-10-22
 category: enemies-to-lovers
 cover: /assets/readings/the-sea-witch.jpg

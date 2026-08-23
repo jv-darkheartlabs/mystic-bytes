@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7244758.Freida_McFadden"
 dek: ""
 number: R405
 sort_key: 405
-date: 2022-10-26
+date: 2026-02-13
 date_read: 2010-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-tenant.jpg
 spice: 2
 content_warnings:

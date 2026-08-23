@@ -5,7 +5,7 @@ author: "Markus Zusak"
 dek: "A poignant story set in Nazi Germany, narrated by Death, exploring themes of loss, love, and the power of words."
 number: R2270
 sort_key: 2270
-date: 2026-07-09
+date: 2026-08-10
 date_read: 2017-05-07
 category: gothic-horror-romance
 cover: /assets/readings/the-book-thief.jpg

@@ -5,7 +5,7 @@ author: "Jacob Grimm"
 dek: "A collection of original dark tales that delve into the macabre and the moral complexities of human nature."
 number: R2059
 sort_key: 2059
-date: 2026-05-01
+date: 2026-07-27
 date_read: 2022-10-22
 category: gothic-horror-romance
 cover: /assets/readings/grimms-fairy-tales-64-dark-original-tales.jpg

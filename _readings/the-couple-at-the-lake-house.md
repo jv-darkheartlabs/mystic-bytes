@@ -5,9 +5,9 @@ author: "James Caine"
 dek: "A Thriller"
 number: R401
 sort_key: 401
-date: 2022-10-23
+date: 2026-02-13
 date_read: 2006-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-couple-at-the-lake-house.jpg
 spice: 2
 content_warnings:

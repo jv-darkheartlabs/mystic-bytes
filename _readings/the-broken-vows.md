@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/18228254.Catharina_Maura"
 dek: ""
 number: R1331
 sort_key: 1331
-date: 2025-11-28
-date_read: 2026-11-25
+date: 2026-05-25
+date_read: 2026-08-23
 category: arranged-marriage
 cover: /assets/readings/the-broken-vows.jpg
 spice: 4

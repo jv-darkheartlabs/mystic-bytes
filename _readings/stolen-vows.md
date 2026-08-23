@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21175647.Cassia_Quinn"
 dek: "He'll do anything to have her... even steal her from another man."
 number: R006
 sort_key: 006
-date: 2021-07-07
+date: 2026-01-02
 date_read: 2021-09-19
 category: arranged-marriage
 cover: /assets/readings/stolen-vows.jpg

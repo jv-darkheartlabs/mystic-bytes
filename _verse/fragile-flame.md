@@ -4,7 +4,7 @@ title: "Fragile Flame"
 dek: "Fame burns — and bills the heat."
 number: V0822
 sort_key: 822
-date: 2028-11-02
+date: 2026-06-26
 date_written: 2003-09-25
 category: life
 form: free-verse

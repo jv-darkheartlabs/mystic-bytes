@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Sara_Cate"
 dek: "From USA Today Bestselling Authors"
 number: R811
 sort_key: 811
-date: 2024-03-04
+date: 2026-03-30
 date_read: 2022-04-04
 category: reverse-harem
 cover: /assets/readings/five.jpg

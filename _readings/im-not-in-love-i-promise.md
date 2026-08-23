@@ -5,7 +5,7 @@ author: "Lauren Greene"
 dek: "Unexpected Hearts — Book Two"
 number: R1252
 sort_key: 1252
-date: 2025-08-29
+date: 2026-05-17
 date_read: 2019-04-04
 category: forbidden-love
 cover: /assets/readings/im-not-in-love-i-promise.jpg

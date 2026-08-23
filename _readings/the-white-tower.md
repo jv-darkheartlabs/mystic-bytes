@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228367.Michael_Wisehart"
 dek: "The Aldoran Chronicles — Book One"
 number: R572
 sort_key: 572
-date: 2023-05-18
+date: 2026-03-04
 date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/the-white-tower.jpg

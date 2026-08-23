@@ -5,7 +5,7 @@ author: "Mario Puzo"
 dek: "The Godfather Series"
 number: R1713
 sort_key: 1713
-date: 2026-06-16
+date: 2026-07-02
 date_read: 2024-06-10
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-sicilian-the-godfather-2.jpg

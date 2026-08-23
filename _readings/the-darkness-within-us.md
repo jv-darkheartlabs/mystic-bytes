@@ -5,7 +5,7 @@ author: "Tricia Levenseller"
 dek: ""
 number: R538
 sort_key: 538
-date: 2023-04-08
+date: 2026-02-28
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/the-darkness-within-us.jpg

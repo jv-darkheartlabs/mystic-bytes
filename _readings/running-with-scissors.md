@@ -5,9 +5,9 @@ author: "Augusten Burroughs"
 dek: ""
 number: R2159
 sort_key: 2159
-date: 2026-05-01
+date: 2026-08-02
 date_read: 2014-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/running-with-scissors.jpg
 spice: 2
 content_warnings:

@@ -4,7 +4,7 @@ title: "The Purpose"
 dek: "Purpose is revised, not revealed."
 number: V0122
 sort_key: 122
-date: 2026-08-24
+date: 2026-01-20
 date_written: 2004-08-19
 category: spirituality
 form: free-verse

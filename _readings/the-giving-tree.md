@@ -5,11 +5,10 @@ author: "Shel Silverstein"
 dek: ""
 number: R1552
 sort_key: 1552
-date: 2026-05-26
+date: 2026-06-17
 date_read: 1987-06-15
 category: juvenile-fiction
 cover: /assets/readings/the-giving-tree.jpg
-spice: 1
 content_warnings:
 tags:
   - classic

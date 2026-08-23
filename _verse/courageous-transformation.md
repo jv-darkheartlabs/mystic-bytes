@@ -4,7 +4,7 @@ title: "Courageous Transformation"
 dek: "Cowardice named — bravery as stepwork."
 number: V0850
 sort_key: 850
-date: 2031-03-27
+date: 2026-07-15
 date_written: 2006-12-07
 category: life
 form: free-verse

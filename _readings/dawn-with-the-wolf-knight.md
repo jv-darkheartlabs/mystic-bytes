@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Elise_Kova"
 dek: ""
 number: R951
 sort_key: 951
-date: 2024-08-26
+date: 2026-04-14
 date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/dawn-with-the-wolf-knight.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6518850.Cora_Reilly"
 dek: "Their struggle for power was fueled by their secret nights of passion."
 number: R1083
 sort_key: 1083
-date: 2025-02-03
+date: 2026-04-29
 date_read: 2018-06-10
 category: arranged-marriage
 cover: /assets/readings/bound-by-duty.jpg

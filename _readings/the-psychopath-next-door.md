@@ -5,9 +5,9 @@ author: "Mark  Edwards"
 dek: ""
 number: R1564
 sort_key: 1564
-date: 2026-05-14
+date: 2026-06-18
 date_read: 2023-08-08
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-psychopath-next-door.jpg
 spice: 2
 content_warnings:

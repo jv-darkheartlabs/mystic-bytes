@@ -4,7 +4,7 @@ title: "Beauty of Innocence"
 dek: "Innocence as witness — not porcelain myth."
 number: V0849
 sort_key: 849
-date: 2031-02-21
+date: 2026-07-14
 date_written: 1999-08-06
 category: life
 form: free-verse

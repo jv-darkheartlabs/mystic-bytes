@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1091
 sort_key: 1091
-date: 2025-02-09
+date: 2026-04-29
 date_read: 2026-05-07
 category: bully-romance
 cover: /assets/readings/zodiac-academy-origins-of-an-academy.jpg

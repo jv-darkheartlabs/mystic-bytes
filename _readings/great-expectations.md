@@ -5,11 +5,10 @@ author: "Charles Dickens"
 dek: ""
 number: R1613
 sort_key: 1613
-date: 2026-06-16
+date: 2026-06-22
 date_read: 2000-05-07
 category: classic-literature
 cover: /assets/readings/great-expectations.jpg
-spice: 2
 content_warnings:
   - "abandonment"
   - "class disparity"

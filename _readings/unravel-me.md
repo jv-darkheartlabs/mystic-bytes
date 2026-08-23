@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4824774.Tahereh_Mafi"
 dek: ""
 number: R941
 sort_key: 941
-date: 2024-08-09
+date: 2026-04-13
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/unravel-me.jpg

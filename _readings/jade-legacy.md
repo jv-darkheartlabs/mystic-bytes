@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Fonda_Lee"
 dek: ""
 number: R970
 sort_key: 970
-date: 2024-09-17
+date: 2026-04-16
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/jade-legacy.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20318490.Elizabeth_Helen"
 dek: "Beasts of the Briar Novella"
 number: R304
 sort_key: 304
-date: 2022-06-23
+date: 2026-02-02
 date_read: 2019-10-22
 category: vampire-paranormal
 cover: /assets/readings/prince-of-the-arena.jpg

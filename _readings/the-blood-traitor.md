@@ -5,7 +5,7 @@ author: "Lynette Noni"
 dek: "The Prison Healer — Book Three"
 number: R1337
 sort_key: 1337
-date: 2025-12-09
+date: 2026-05-25
 date_read: 2020-08-16
 category: captor-and-captive
 cover: /assets/readings/the-blood-traitor.jpg

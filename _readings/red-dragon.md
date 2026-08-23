@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/12447.Thomas_Harris"
 dek: "The novel that created Hannibal Lecter"
 number: R374
 sort_key: 374
-date: 2022-09-19
+date: 2026-02-10
 date_read: 2009-08-16
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/red-dragon.jpg
 spice: 1
 content_warnings:

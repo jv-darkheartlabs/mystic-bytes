@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20332222.Monty_Jay"
 dek: "Till death do us part"
 number: R147
 sort_key: 147
-date: 2021-12-19
+date: 2026-01-16
 date_read: 2018-06-10
 category: forbidden-love
 cover: /assets/readings/the-oath-we-give.jpg

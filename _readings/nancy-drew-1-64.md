@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories"
 number: R2081
 sort_key: 2081
-date: 2026-04-09
+date: 2026-07-29
 date_read: 1992-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-1-64.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

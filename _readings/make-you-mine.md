@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Elena_M_Reyes"
 dek: "I've broken all my rules for her."
 number: R134
 sort_key: 134
-date: 2021-12-02
+date: 2026-01-15
 date_read: 2017-11-25
 category: forbidden-love
 cover: /assets/readings/make-you-mine.jpg

@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/54485.Kristin_Hannah"
 dek: "A Novel"
 number: R403
 sort_key: 403
-date: 2022-10-23
+date: 2026-02-13
 date_read: 2008-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-nightingale.jpg
 spice: 2
 content_warnings:

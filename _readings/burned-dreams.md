@@ -5,7 +5,7 @@ author: "Neva Altaj"
 dek: "Perfectly Imperfect Series — Special Edition"
 number: R1263
 sort_key: 1263
-date: 2025-09-10
+date: 2026-05-18
 date_read: 2018-06-10
 category: forbidden-love
 cover: /assets/readings/burned-dreams.jpg

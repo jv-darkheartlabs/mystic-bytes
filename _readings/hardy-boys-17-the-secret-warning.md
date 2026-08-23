@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #17"
 number: R2279
 sort_key: 2279
-date: 2026-07-01
+date: 2026-08-11
 date_read: 1991-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-17-the-secret-warning.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

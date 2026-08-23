@@ -5,7 +5,7 @@ author: "Cassandra Clare"
 dek: "The Infernal Devices — Book Three"
 number: R550
 sort_key: 550
-date: 2023-04-22
+date: 2026-03-01
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/clockwork-princess.jpg

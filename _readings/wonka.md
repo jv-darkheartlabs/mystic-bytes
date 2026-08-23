@@ -5,7 +5,7 @@ author: "Sibéal Pounder"
 dek: "A whimsical yet dark reimagining of a classic tale."
 number: R1665
 sort_key: 1665
-date: 2026-04-25
+date: 2026-06-28
 date_read: 2024-03-01
 category: gothic-horror-romance
 cover: /assets/readings/wonka.jpg

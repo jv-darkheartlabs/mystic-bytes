@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
 dek: "A Throne of Glass Novel"
 number: R1135
 sort_key: 1135
-date: 2025-04-08
+date: 2026-05-04
 date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/queen-of-shadows.jpg

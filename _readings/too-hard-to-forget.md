@@ -5,7 +5,7 @@ author: "Tessa Bailey"
 dek: "One of my all-time favorite authors."
 number: R866
 sort_key: 866
-date: 2024-05-08
+date: 2026-04-05
 date_read: 2017-05-07
 category: enemies-to-lovers
 cover: /assets/readings/too-hard-to-forget.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/8120706.Laura_Thalassa"
 dek: ""
 number: R990
 sort_key: 990
-date: 2024-10-06
+date: 2026-04-18
 date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/bespelled.jpg

@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/6572600.Heather_Fawcett"
 dek: ""
 number: R1237
 sort_key: 1237
-date: 2025-08-07
+date: 2026-05-15
 date_read: 2016-07-13
-category: fantasy-romance
+category: classic-literature
 cover: /assets/readings/emily-wildes-map-of-the-otherlands.jpg
-spice: 1
 content_warnings:
   - "magical peril"
   - "kidnapping"

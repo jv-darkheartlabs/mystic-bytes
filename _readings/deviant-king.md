@@ -5,7 +5,7 @@ author: "Rina Kent"
 dek: "The villain isn't supposed to be king — Royal Elite Book 1"
 number: R016
 sort_key: 016
-date: 2021-07-20
+date: 2026-01-03
 date_read: 2019-10-22
 category: bully-romance
 cover: /assets/readings/deviant-king.jpg

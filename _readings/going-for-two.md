@@ -5,7 +5,7 @@ author: "Marie Veillon"
 dek: "A Novel"
 number: R847
 sort_key: 847
-date: 2024-04-20
+date: 2026-04-03
 date_read: 2022-04-04
 category: enemies-to-lovers
 cover: /assets/readings/going-for-two.jpg

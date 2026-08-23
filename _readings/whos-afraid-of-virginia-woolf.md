@@ -5,11 +5,10 @@ author: "Edward Albee"
 dek: ""
 number: R1839
 sort_key: 1839
-date: 2026-05-21
+date: 2026-07-13
 date_read: 2014-06-10
-category: dark-thriller
+category: classic-literature
 cover: /assets/readings/whos-afraid-of-virginia-woolf.jpg
-spice: 2
 content_warnings:
   - "emotional abuse"
   - "manipulation"

@@ -5,7 +5,7 @@ author: "Anne Rice"
 dek: "The Vampire Chronicles, #1"
 number: R2241
 sort_key: 2241
-date: 2026-05-19
+date: 2026-08-07
 date_read: 2024-03-01
 category: vampire-paranormal
 cover: /assets/readings/interview-with-the-vampire-the-vampire-chronicles-1.jpg

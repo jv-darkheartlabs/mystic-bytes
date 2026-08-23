@@ -5,7 +5,7 @@ author: "Amanda Lovelace"
 dek: "Women Are Some Kind of Magic, #1"
 number: R1808
 sort_key: 1808
-date: 2026-06-21
+date: 2026-07-10
 date_read: 2023-11-25
 category: gothic-horror-romance
 cover: /assets/readings/the-princess-saves-herself-in-this-one-women-are-some-kind-of-magic-1.jpg

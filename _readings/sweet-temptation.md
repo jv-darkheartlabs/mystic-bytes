@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6518850.Cora_Reilly"
 dek: "She was wicked lonely and far too young"
 number: R170
 sort_key: 170
-date: 2022-01-20
+date: 2026-01-19
 date_read: 2017-11-25
 category: mafia-boss-and-innocent
 cover: /assets/readings/sweet-temptation.jpg

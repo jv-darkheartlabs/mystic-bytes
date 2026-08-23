@@ -5,9 +5,9 @@ author: "Dennis J. Sporre"
 dek: ""
 number: R2051
 sort_key: 2051
-date: 2026-05-09
+date: 2026-07-27
 date_read: 2006-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/perceiving-the-arts-an-introduction-to-the-humanities.jpg
 spice: 1
 content_warnings:

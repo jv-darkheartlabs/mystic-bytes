@@ -5,7 +5,7 @@ author: "Sophie Jordan"
 dek: "The sequel to Reign of Shadows"
 number: R1449
 sort_key: 1449
-date: 2026-04-22
+date: 2026-06-07
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/rise-of-fire.jpg

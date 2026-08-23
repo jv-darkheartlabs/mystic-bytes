@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/1077326.J_K_Rowling"
 dek: ""
 number: R935
 sort_key: 935
-date: 2024-08-07
+date: 2026-04-13
 date_read: 1994-06-01
-category: juvenile-fiction
+category: ya-fiction
 cover: /assets/readings/harry-potter-and-the-chamber-of-secrets.jpg
-spice: 1
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

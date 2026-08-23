@@ -5,7 +5,7 @@ author: "Katee Robert"
 dek: "Dark Olympus"
 number: R1395
 sort_key: 1395
-date: 2026-02-13
+date: 2026-06-01
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/wicked-beauty.jpg

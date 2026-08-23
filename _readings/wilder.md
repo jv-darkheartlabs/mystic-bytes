@@ -5,7 +5,7 @@ author: "Rebecca Yarros"
 dek: ""
 number: R834
 sort_key: 834
-date: 2024-04-03
+date: 2026-04-01
 date_read: 2021-09-19
 category: dark-military-romance
 cover: /assets/readings/wilder.jpg

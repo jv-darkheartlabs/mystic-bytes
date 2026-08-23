@@ -5,11 +5,10 @@ author: "Christopher Yost"
 dek: "Ender's Saga"
 number: R1672
 sort_key: 1672
-date: 2026-04-18
+date: 2026-06-28
 date_read: 2007-10-22
-category: dark-thriller
+category: sff
 cover: /assets/readings/enders-game-volume-1-battle-school-enders-saga.jpg
-spice: 2
 content_warnings:
   - "violence"
   - "psychological manipulation"

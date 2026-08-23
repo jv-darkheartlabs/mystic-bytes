@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19791123.Sadie_Kincaid"
 dek: "Broken Bloodlines Origin Story — Volume One"
 number: R268
 sort_key: 268
-date: 2022-05-12
+date: 2026-01-29
 date_read: 2019-10-22
 category: vampire-paranormal
 cover: /assets/readings/born-in-blood.jpg

@@ -4,7 +4,7 @@ title: "Winter's Embrace"
 dek: "Cold as body truth, not love brochure."
 number: V0506
 sort_key: 506
-date: 2027-01-19
+date: 2026-05-01
 date_written: 1992-12-21
 category: nature
 form: free-verse

@@ -4,7 +4,7 @@ title: "Poise and Conviction"
 dek: "Confidence as craft — sharpness included."
 number: V0836
 sort_key: 836
-date: 2030-01-29
+date: 2026-07-05
 date_written: 2017-07-12
 category: life
 form: free-verse

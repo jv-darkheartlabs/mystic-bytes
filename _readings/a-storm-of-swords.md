@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/346732.George_R_R_Martin"
 dek: ""
 number: R677
 sort_key: 677
-date: 2023-09-20
+date: 2026-03-15
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/a-storm-of-swords.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19176311.Chloe_Gong"
 dek: ""
 number: R1241
 sort_key: 1241
-date: 2025-08-11
+date: 2026-05-15
 date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/these-violent-delights.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21665487.Melissa_K_Roehrich"
 dek: "A Lady of Darkness Novel"
 number: R1145
 sort_key: 1145
-date: 2025-04-17
+date: 2026-05-05
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/lady-of-starfire.jpg

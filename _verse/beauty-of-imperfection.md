@@ -4,7 +4,7 @@ title: "Beauty of Imperfection"
 dek: "Flaw as human signature — again, sharper."
 number: V0848
 sort_key: 848
-date: 2031-01-17
+date: 2026-07-14
 date_written: 2003-09-11
 category: life
 form: free-verse

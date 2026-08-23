@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6524620.Anthony_Ryan"
 dek: ""
 number: R511
 sort_key: 511
-date: 2023-03-04
+date: 2026-02-25
 date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/the-voided-man.jpg

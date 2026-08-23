@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Alina_May"
 dek: "The Hunter's Game"
 number: R211
 sort_key: 211
-date: 2022-03-06
+date: 2026-01-23
 date_read: 2022-07-13
 category: stalker-obsession
 cover: /assets/readings/wanna-play-a-game.jpg

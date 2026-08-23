@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/5194.Michael_Crichton"
 dek: ""
 number: R351
 sort_key: 351
-date: 2022-08-19
+date: 2026-02-07
 date_read: 2006-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-lost-world.jpg
 spice: 2
 content_warnings:

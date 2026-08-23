@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/153394.Suzanne_Collins"
 dek: ""
 number: R839
 sort_key: 839
-date: 2024-04-05
+date: 2026-04-02
 date_read: 2014-05-07
-category: dark-thriller
+category: ya-fiction
 cover: /assets/readings/mockingjay.jpg
-spice: 2
 content_warnings:
   - "suspense"
   - "psychological intensity"

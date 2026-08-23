@@ -5,11 +5,10 @@ author: "Arthur C. Clarke"
 dek: "Space Odyssey Series"
 number: R1658
 sort_key: 1658
-date: 2026-05-02
+date: 2026-06-27
 date_read: 2013-05-07
-category: dark-thriller
+category: sff
 cover: /assets/readings/2001-a-space-odyssey-space-odyssey-1.jpg
-spice: 1
 content_warnings:
 tags:
   - darkthriller

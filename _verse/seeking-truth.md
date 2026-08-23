@@ -4,7 +4,7 @@ title: "Seeking Truth"
 dek: "Deception keeps better office hours."
 number: V0106
 sort_key: 106
-date: 2026-08-08
+date: 2026-01-09
 date_written: 2001-11-02
 category: spirituality
 form: free-verse

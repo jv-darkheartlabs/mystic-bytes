@@ -4,7 +4,7 @@ title: "Embracing Imperfections"
 dek: "Flaws as façade and character."
 number: V0430
 sort_key: 430
-date: 2026-12-18
+date: 2026-04-09
 date_written: 2007-08-30
 category: nola
 form: open

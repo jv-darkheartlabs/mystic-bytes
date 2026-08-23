@@ -5,7 +5,7 @@ author: "Hannah Nicole Maehrer"
 dek: ""
 number: R942
 sort_key: 942
-date: 2024-08-11
+date: 2026-04-13
 date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/apprentice-to-the-villain.jpg

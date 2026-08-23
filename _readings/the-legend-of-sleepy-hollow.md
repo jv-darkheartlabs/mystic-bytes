@@ -5,8 +5,8 @@ author: "Washington Irving"
 dek: ""
 number: R1727
 sort_key: 1727
-date: 2026-06-02
-date_read: 2026-11-25
+date: 2026-07-03
+date_read: 2026-08-23
 category: gothic-horror-romance
 cover: /assets/readings/the-legend-of-sleepy-hollow.jpg
 spice: 1

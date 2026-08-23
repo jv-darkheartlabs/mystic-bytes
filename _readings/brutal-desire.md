@@ -5,7 +5,7 @@ author: "M. James"
 dek: ""
 number: R068
 sort_key: 068
-date: 2021-09-16
+date: 2026-01-08
 date_read: 2023-08-16
 category: captor-and-captive
 cover: /assets/readings/brutal-desire.jpg

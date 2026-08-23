@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15143324.Zoey_Ellis"
 dek: "Myth of Omega: Reign 1"
 number: R075
 sort_key: 075
-date: 2021-09-25
+date: 2026-01-09
 date_read: 2018-06-10
 category: captor-and-captive
 cover: /assets/readings/reign-to-ruin.jpg

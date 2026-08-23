@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228251.Liz_Tomforde"
 dek: ""
 number: R1375
 sort_key: 1375
-date: 2026-01-19
+date: 2026-05-30
 date_read: 2022-10-22
 category: enemies-to-lovers
 cover: /assets/readings/the-right-move.jpg

@@ -5,7 +5,7 @@ author: "Lauren Biel"
 dek: ""
 number: R1312
 sort_key: 1312
-date: 2025-11-07
+date: 2026-05-23
 date_read: 2019-10-22
 category: stalker-obsession
 cover: /assets/readings/unethical.jpg

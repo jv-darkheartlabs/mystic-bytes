@@ -5,11 +5,10 @@ author: "Beth Johnson"
 dek: ""
 number: R1680
 sort_key: 1680
-date: 2026-04-10
+date: 2026-06-28
 date_read: 2000-10-15
 category: classic-literature
 cover: /assets/readings/pride-and-prejudice.jpg
-spice: 1
 content_warnings:
 tags:
   - enemiestolovers

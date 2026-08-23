@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Scarlett_St_Clair"
 dek: ""
 number: R1199
 sort_key: 1199
-date: 2025-06-19
+date: 2026-05-11
 date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/queen-of-myth-and-monsters.jpg

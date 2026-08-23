@@ -5,7 +5,7 @@ author: "Dr. Seuss"
 dek: ""
 number: R1695
 sort_key: 1695
-date: 2026-07-04
+date: 2026-06-30
 date_read: 2018-06-10
 category: gothic-horror-romance
 cover: /assets/readings/the-lorax.jpg

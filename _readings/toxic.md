@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Nicole_Blanchard"
 dek: "He's brutal, heartless, and twisted."
 number: R116
 sort_key: 116
-date: 2021-11-15
+date: 2026-01-13
 date_read: 2023-11-25
 category: enemies-to-lovers
 cover: /assets/readings/toxic.jpg

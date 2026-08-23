@@ -4,7 +4,7 @@ title: "Unyielding Faith"
 dek: "Faith as stubbornness, not certainty."
 number: V0119
 sort_key: 119
-date: 2026-08-21
+date: 2026-01-18
 date_written: 2003-11-14
 category: spirituality
 form: free-verse

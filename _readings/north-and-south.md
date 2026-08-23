@@ -5,7 +5,7 @@ author: "Elizabeth Gaskell"
 dek: "A tale of love and conflict set against the backdrop of the industrial revolution."
 number: R1856
 sort_key: 1856
-date: 2026-05-04
+date: 2026-07-14
 date_read: 2023-05-07
 category: gothic-horror-romance
 cover: /assets/readings/north-and-south.jpg

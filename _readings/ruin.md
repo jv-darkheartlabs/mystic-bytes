@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/6449152.John_Gwynne"
 dek: ""
 number: R676
 sort_key: 676
-date: 2023-09-21
+date: 2026-03-15
 date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/ruin.jpg

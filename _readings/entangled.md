@@ -5,7 +5,7 @@ author: "Rebecca Quinn"
 dek: "Brutes of Bristlebrook, Book 2"
 number: R1009
 sort_key: 1009
-date: 2024-11-05
+date: 2026-04-21
 date_read: 2016-04-04
 category: fantasy-romance
 cover: /assets/readings/entangled.jpg

@@ -5,7 +5,7 @@ author: "Ashlyn Drewek"
 dek: ""
 number: R1049
 sort_key: 1049
-date: 2024-12-19
+date: 2026-04-25
 date_read: 2020-08-16
 category: gothic-horror-romance
 cover: /assets/readings/malum-discordiae.jpg

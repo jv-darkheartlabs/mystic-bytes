@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7057031.Shantel_Tessier"
 dek: "A Dark Revenge Romance"
 number: R118
 sort_key: 118
-date: 2021-11-11
+date: 2026-01-13
 date_read: 2025-04-04
 category: enemies-to-lovers
 cover: /assets/readings/carnage.jpg

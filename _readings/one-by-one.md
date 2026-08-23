@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7244758.Freida_McFadden"
 dek: ""
 number: R418
 sort_key: 418
-date: 2022-11-10
+date: 2026-02-15
 date_read: 2013-07-13
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/one-by-one.jpg
 spice: 2
 content_warnings:

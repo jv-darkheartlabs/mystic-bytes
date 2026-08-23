@@ -5,11 +5,10 @@ author: "Katherine Paterson"
 dek: ""
 number: R1709
 sort_key: 1709
-date: 2026-06-20
+date: 2026-07-01
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/bridge-to-terabithia.jpg
-spice: 1
 content_warnings:
   - "death"
   - "grief"

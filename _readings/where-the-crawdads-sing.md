@@ -5,9 +5,9 @@ author: "Delia Owens"
 dek: ""
 number: R1753
 sort_key: 1753
-date: 2026-05-07
+date: 2026-07-06
 date_read: 2008-10-22
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/where-the-crawdads-sing.jpg
 spice: 2
 content_warnings:

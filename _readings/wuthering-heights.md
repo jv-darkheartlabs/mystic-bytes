@@ -5,11 +5,10 @@ author: "Emily Brontë"
 dek: ""
 number: R1612
 sort_key: 1612
-date: 2026-06-17
+date: 2026-06-22
 date_read: 2002-04-04
-category: gothic-horror-romance
+category: classic-literature
 cover: /assets/readings/wuthering-heights.jpg
-spice: 2
 content_warnings:
   - "abuse"
   - "death"

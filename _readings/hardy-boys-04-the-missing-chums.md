@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #4"
 number: R2304
 sort_key: 2304
-date: 2026-06-06
+date: 2026-08-13
 date_read: 1990-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-04-the-missing-chums.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/7166897.Elle_Kennedy"
 dek: "Off-Campus Series — Book 1"
 number: R448
 sort_key: 448
-date: 2022-12-18
+date: 2026-02-18
 date_read: 2019-10-22
 category: enemies-to-lovers
 cover: /assets/readings/the-deal.jpg

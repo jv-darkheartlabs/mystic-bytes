@@ -5,7 +5,7 @@ author: "Lauren Roberts"
 dek: ""
 number: R962
 sort_key: 962
-date: 2024-09-04
+date: 2026-04-15
 date_read: 2017-11-25
 category: fantasy-romance
 cover: /assets/readings/reckless.jpg

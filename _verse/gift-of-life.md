@@ -4,7 +4,7 @@ title: "Gift of Life"
 dek: "Existence delivered with interest."
 number: V0330
 sort_key: 330
-date: 2026-11-12
+date: 2026-03-15
 date_written: 2016-04-18
 category: love
 form: free-verse

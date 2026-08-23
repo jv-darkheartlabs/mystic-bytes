@@ -5,7 +5,7 @@ author: "Rosaria Munda"
 dek: "The sequel to Fireborne"
 number: R1397
 sort_key: 1397
-date: 2026-02-22
+date: 2026-06-01
 date_read: 2020-05-07
 category: fantasy-romance
 cover: /assets/readings/flamefall.jpg

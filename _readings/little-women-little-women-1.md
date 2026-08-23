@@ -5,11 +5,10 @@ author: "Louisa May Alcott"
 dek: "Little Women Series"
 number: R1615
 sort_key: 1615
-date: 2026-06-14
+date: 2026-06-22
 date_read: 1996-05-15
 category: juvenile-fiction
 cover: /assets/readings/little-women-little-women-1.jpg
-spice: 1
 content_warnings:
 tags:
   - forbiddenlove

@@ -4,7 +4,7 @@ title: "Wonders of the Moon"
 dek: "Tide-pull without theology."
 number: V0517
 sort_key: 517
-date: 2027-01-30
+date: 2026-05-09
 date_written: 1993-11-11
 category: nature
 form: free-verse

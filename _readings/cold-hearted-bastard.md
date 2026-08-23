@@ -5,7 +5,7 @@ author: "Jenika Snow"
 dek: "Diamond Kings"
 number: R1284
 sort_key: 1284
-date: 2025-10-06
+date: 2026-05-20
 date_read: 2015-09-19
 category: mafia-boss-and-innocent
 cover: /assets/readings/cold-hearted-bastard.jpg

@@ -5,7 +5,7 @@ author: "Carley Fortune"
 dek: "New York Times Bestseller"
 number: R737
 sort_key: 737
-date: 2023-12-05
+date: 2026-03-22
 date_read: 2020-11-25
 category: forbidden-love
 cover: /assets/readings/every-summer-after.jpg

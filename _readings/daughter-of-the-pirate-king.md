@@ -5,7 +5,7 @@ author: "Tricia Levenseller"
 dek: ""
 number: R1431
 sort_key: 1431
-date: 2026-04-05
+date: 2026-06-05
 date_read: 2018-03-01
 category: fantasy-romance
 cover: /assets/readings/daughter-of-the-pirate-king.jpg

@@ -4,7 +4,7 @@ title: "Healing Power of Laughter"
 dek: "Belly medicine — not poster cure."
 number: V0924
 sort_key: 924
-date: 2035-07-03
+date: 2026-08-20
 date_written: 2020-08-24
 category: misc
 form: free-verse

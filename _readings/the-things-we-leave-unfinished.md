@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/2973979.Rebecca_Yarros"
 dek: ""
 number: R1484
 sort_key: 1484
-date: 2026-06-04
+date: 2026-06-11
 date_read: 2023-11-25
 category: forbidden-love
 cover: /assets/readings/the-things-we-leave-unfinished.jpg

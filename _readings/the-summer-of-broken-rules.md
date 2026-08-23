@@ -5,7 +5,7 @@ author: "K. L. Walther"
 dek: ""
 number: R744
 sort_key: 744
-date: 2023-12-17
+date: 2026-03-23
 date_read: 2015-09-19
 category: forbidden-love
 cover: /assets/readings/the-summer-of-broken-rules.jpg

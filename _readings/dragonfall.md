@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4340345.David_Estes"
 dek: ""
 number: R498
 sort_key: 498
-date: 2023-02-15
+date: 2026-02-23
 date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/dragonfall.jpg

@@ -5,7 +5,7 @@ author: "Jill Santopolo"
 dek: "Two lives. Two loves. One choice."
 number: R750
 sort_key: 750
-date: 2023-12-21
+date: 2026-03-23
 date_read: 2021-06-10
 category: forbidden-love
 cover: /assets/readings/the-light-we-lost.jpg

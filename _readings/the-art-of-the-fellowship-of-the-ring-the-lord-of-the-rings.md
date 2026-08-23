@@ -5,7 +5,7 @@ author: "Gary Russell"
 dek: "Exploring the artistic vision behind the epic tale"
 number: R1631
 sort_key: 1631
-date: 2026-05-29
+date: 2026-06-24
 date_read: 2026-05-07
 category: gothic-horror-romance
 cover: /assets/readings/the-art-of-the-fellowship-of-the-ring-the-lord-of-the-rings.jpg

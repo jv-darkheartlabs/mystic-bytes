@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/21037283.Sara_Ennis"
 dek: "A Psychological Thriller"
 number: R353
 sort_key: 353
-date: 2022-08-21
+date: 2026-02-07
 date_read: 2008-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-dollhouse.jpg
 spice: 2
 content_warnings:

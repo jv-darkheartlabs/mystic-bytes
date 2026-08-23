@@ -4,7 +4,7 @@ title: "Earth's Treasure"
 dek: "Depth as story compressed."
 number: V0539
 sort_key: 539
-date: 2027-02-21
+date: 2026-05-24
 date_written: 1993-11-28
 category: nature
 form: open

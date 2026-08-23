@@ -5,7 +5,7 @@ author: "Emma Hamm"
 dek: ""
 number: R540
 sort_key: 540
-date: 2023-04-04
+date: 2026-02-28
 date_read: 2015-03-01
 category: fantasy-romance
 cover: /assets/readings/whispers-of-the-deep.jpg

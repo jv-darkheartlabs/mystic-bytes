@@ -4,7 +4,7 @@ title: "Journey of the Soul"
 dek: "You are not the map. You are the mileage."
 number: V0112
 sort_key: 112
-date: 2026-08-14
+date: 2026-01-13
 date_written: 2005-09-11
 category: spirituality
 form: free-verse

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Aparna_Verma"
 dek: ""
 number: R580
 sort_key: 580
-date: 2023-05-28
+date: 2026-03-04
 date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/the-phoenix-king.jpg

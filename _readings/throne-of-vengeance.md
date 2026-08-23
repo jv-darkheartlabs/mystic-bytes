@@ -5,7 +5,7 @@ author: "Rina Kent"
 dek: "Throne Duet Book 2"
 number: R829
 sort_key: 829
-date: 2024-03-30
+date: 2026-04-01
 date_read: 2016-04-04
 category: dark-billionaire
 cover: /assets/readings/throne-of-vengeance.jpg

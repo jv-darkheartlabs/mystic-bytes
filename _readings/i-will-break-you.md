@@ -5,7 +5,7 @@ author: "Gigi Styx"
 dek: ""
 number: R094
 sort_key: 094
-date: 2021-10-22
+date: 2026-01-11
 date_read: 2025-07-13
 category: captor-and-captive
 cover: /assets/readings/i-will-break-you.jpg

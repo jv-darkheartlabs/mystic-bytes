@@ -6,8 +6,8 @@ author_url: "https://www.goodreads.com/author/show/7160843.Laura_Thalassa"
 dek: "Make a deal if you dare"
 number: R1151
 sort_key: 1151
-date: 2025-04-22
-date_read: 2026-11-25
+date: 2026-05-06
+date_read: 2026-08-23
 category: fantasy-romance
 cover: /assets/readings/rhapsodic.jpg
 spice: 4

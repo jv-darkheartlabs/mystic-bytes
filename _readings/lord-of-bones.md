@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Aiden_Pierce"
 dek: "Death Bound Duet: Book 1"
 number: R163
 sort_key: 163
-date: 2022-01-06
+date: 2026-01-18
 date_read: 2022-04-04
 category: gothic-horror-romance
 cover: /assets/readings/lord-of-bones.jpg

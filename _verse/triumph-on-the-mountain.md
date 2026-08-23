@@ -4,7 +4,7 @@ title: "Triumph on the Mountain"
 dek: "Summit as breath tax paid."
 number: V0625
 sort_key: 625
-date: 2027-03-18
+date: 2026-06-10
 date_written: 1991-09-21
 category: curiosity
 form: open

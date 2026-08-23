@@ -6,11 +6,10 @@ author_url: "https://www.goodreads.com/author/show/6540057.Andy_Weir"
 dek: ""
 number: R699
 sort_key: 699
-date: 2023-10-21
+date: 2026-03-18
 date_read: 2018-09-19
-category: fantasy-romance
+category: sff
 cover: /assets/readings/project-hail-mary.jpg
-spice: 2
 content_warnings:
   - "fantasy violence"
   - "emotional intensity"

@@ -5,7 +5,7 @@ author: "Sarah A. Parker"
 dek: ""
 number: R1493
 sort_key: 1493
-date: 2026-06-16
+date: 2026-06-12
 date_read: 2020-11-25
 category: gothic-horror-romance
 cover: /assets/readings/to-bleed-a-crystal-bloom.jpg

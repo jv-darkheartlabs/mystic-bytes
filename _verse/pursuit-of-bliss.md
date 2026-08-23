@@ -4,7 +4,7 @@ title: "Pursuit of Bliss"
 dek: "Joy hunted on foot, not bought."
 number: V0436
 sort_key: 436
-date: 2026-12-24
+date: 2026-04-13
 date_written: 2009-08-16
 category: nola
 form: open

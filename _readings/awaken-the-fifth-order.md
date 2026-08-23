@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.Allison_Carr_Waechte
 dek: "Book III of the Immortal Orders"
 number: R481
 sort_key: 481
-date: 2023-01-25
+date: 2026-02-22
 date_read: 2016-07-13
 category: fantasy-romance
 cover: /assets/readings/awaken-the-fifth-order.jpg

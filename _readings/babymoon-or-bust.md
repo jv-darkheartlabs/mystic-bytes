@@ -5,7 +5,7 @@ author: "Ava Hunter"
 dek: ""
 number: R1042
 sort_key: 1042
-date: 2024-12-14
+date: 2026-04-24
 date_read: 2025-10-22
 category: forbidden-love
 cover: /assets/readings/babymoon-or-bust.jpg

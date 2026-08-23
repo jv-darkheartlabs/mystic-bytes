@@ -5,8 +5,8 @@ author: "Lindsey Lanza"
 dek: ""
 number: R863
 sort_key: 863
-date: 2024-05-12
-date_read: 2026-11-25
+date: 2026-04-05
+date_read: 2026-08-23
 category: enemies-to-lovers
 cover: /assets/readings/speechless.jpg
 spice: 3

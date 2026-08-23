@@ -5,7 +5,7 @@ author: "Adrienne Young"
 dek: ""
 number: R945
 sort_key: 945
-date: 2024-08-14
+date: 2026-04-14
 date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/the-unmaking-of-june-farrow.jpg

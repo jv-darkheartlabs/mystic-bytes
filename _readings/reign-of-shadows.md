@@ -5,7 +5,7 @@ author: "Sophie Jordan"
 dek: ""
 number: R1445
 sort_key: 1445
-date: 2026-04-21
+date: 2026-06-06
 date_read: 2020-08-16
 category: fantasy-romance
 cover: /assets/readings/reign-of-shadows.jpg

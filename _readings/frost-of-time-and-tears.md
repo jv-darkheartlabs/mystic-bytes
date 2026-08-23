@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/20575144.A_P_Beswick"
 dek: ""
 number: R704
 sort_key: 704
-date: 2023-10-24
+date: 2026-03-18
 date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/frost-of-time-and-tears.jpg

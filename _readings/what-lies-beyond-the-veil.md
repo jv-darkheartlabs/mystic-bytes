@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/19845642.Harper_L_Woods"
 dek: "Of Flesh & Bone Book One"
 number: R265
 sort_key: 265
-date: 2022-05-11
+date: 2026-01-29
 date_read: 2016-07-13
 category: vampire-paranormal
 cover: /assets/readings/what-lies-beyond-the-veil.jpg

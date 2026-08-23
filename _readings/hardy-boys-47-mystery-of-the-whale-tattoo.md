@@ -5,11 +5,10 @@ author: "Franklin W. Dixon"
 dek: "Hardy Boys Mystery Stories #47"
 number: R2312
 sort_key: 2312
-date: 2026-05-29
+date: 2026-08-14
 date_read: 1993-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/hardy-boys-47-mystery-of-the-whale-tattoo.jpg
-spice: 1
 content_warnings:
 tags:
   - hardyboys

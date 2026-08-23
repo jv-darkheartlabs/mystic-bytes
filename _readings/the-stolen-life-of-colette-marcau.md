@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/7176782.Kristin_Harmel"
 dek: "a novel"
 number: R441
 sort_key: 441
-date: 2022-12-07
+date: 2026-02-17
 date_read: 2006-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-stolen-life-of-colette-marcau.jpg
 spice: 2
 content_warnings:

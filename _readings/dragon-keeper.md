@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/25307.Robin_Hobb"
 dek: "Book One of the Rain Wild Chronicles"
 number: R694
 sort_key: 694
-date: 2023-10-11
+date: 2026-03-17
 date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/dragon-keeper.jpg

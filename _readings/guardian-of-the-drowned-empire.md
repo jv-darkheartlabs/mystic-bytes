@@ -5,7 +5,7 @@ author: "Frankie Diane Mallis"
 dek: ""
 number: R1416
 sort_key: 1416
-date: 2026-03-16
+date: 2026-06-03
 date_read: 2015-06-10
 category: fantasy-romance
 cover: /assets/readings/guardian-of-the-drowned-empire.jpg

@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/18228253.Devney_Perry"
 dek: "The Edens"
 number: R375
 sort_key: 375
-date: 2022-09-18
+date: 2026-02-10
 date_read: 2010-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/indigo-ridge.jpg
 spice: 3
 content_warnings:

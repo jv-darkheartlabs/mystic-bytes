@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4575289.Leigh_Bardugo"
 dek: ""
 number: R974
 sort_key: 974
-date: 2024-09-18
+date: 2026-04-17
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/shadow-and-bone.jpg

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17138508.Angel_Lawson"
 dek: "Boys of Forsyth"
 number: R189
 sort_key: 189
-date: 2022-02-10
+date: 2026-01-21
 date_read: 2024-03-01
 category: motorcycle-club
 cover: /assets/readings/madam-of-mayhem.jpg

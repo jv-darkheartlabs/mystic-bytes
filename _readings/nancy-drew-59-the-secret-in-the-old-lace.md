@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #59"
 number: R2387
 sort_key: 2387
-date: 2026-07-07
+date: 2026-08-23
 date_read: 1994-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-59-the-secret-in-the-old-lace.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

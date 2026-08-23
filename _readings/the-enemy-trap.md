@@ -5,7 +5,7 @@ author: "Maren Moore"
 dek: "To have and to hold"
 number: R897
 sort_key: 897
-date: 2024-06-14
+date: 2026-04-08
 date_read: 2024-09-19
 category: enemies-to-lovers
 cover: /assets/readings/the-enemy-trap.jpg

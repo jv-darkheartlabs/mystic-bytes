@@ -4,7 +4,7 @@ title: "Glimpse of Eternity"
 dek: "Forever in a blink's receipt."
 number: V0610
 sort_key: 610
-date: 2027-03-03
+date: 2026-05-31
 date_written: 1989-07-07
 category: curiosity
 form: free-verse

@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/1508546.Justin_Cronin"
 dek: ""
 number: R361
 sort_key: 361
-date: 2022-08-31
+date: 2026-02-08
 date_read: 2006-04-04
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-ferryman.jpg
 spice: 2
 content_warnings:

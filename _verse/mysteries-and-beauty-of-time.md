@@ -4,7 +4,7 @@ title: "Mysteries and Beauty of Time"
 dek: "Clock as enigma — moment as treasure."
 number: V0859
 sort_key: 859
-date: 2031-12-03
+date: 2026-07-21
 date_written: 2007-09-13
 category: life
 form: free-verse

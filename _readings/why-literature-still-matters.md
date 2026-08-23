@@ -5,9 +5,9 @@ author: "Jason M. Baxter"
 dek: ""
 number: R1854
 sort_key: 1854
-date: 2026-05-06
+date: 2026-07-14
 date_read: 2009-03-01
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/why-literature-still-matters.jpg
 spice: 1
 content_warnings:

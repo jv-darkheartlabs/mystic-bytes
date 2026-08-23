@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4501753.Grace_Draven"
 dek: ""
 number: R1186
 sort_key: 1186
-date: 2025-06-05
+date: 2026-05-09
 date_read: 2025-10-22
 category: fantasy-romance
 cover: /assets/readings/radiance.jpg

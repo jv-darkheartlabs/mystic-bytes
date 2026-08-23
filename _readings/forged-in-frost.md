@@ -5,7 +5,7 @@ author: "Jasmine Walt"
 dek: "Of Dragons and Fae Book 2"
 number: R1238
 sort_key: 1238
-date: 2025-08-09
+date: 2026-05-15
 date_read: 2017-08-16
 category: fantasy-romance
 cover: /assets/readings/forged-in-frost.jpg

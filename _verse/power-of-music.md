@@ -4,7 +4,7 @@ title: "Power of Music"
 dek: "Melody as chorus — symphony declined."
 number: V0927
 sort_key: 927
-date: 2035-10-15
+date: 2026-08-22
 date_written: 2018-12-24
 category: misc
 form: free-verse

@@ -5,7 +5,7 @@ author: "Margaret Wise Brown"
 dek: ""
 number: R1826
 sort_key: 1826
-date: 2026-06-03
+date: 2026-07-11
 date_read: 2017-11-25
 category: gothic-horror-romance
 cover: /assets/readings/goodnight-moon.jpg

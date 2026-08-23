@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/21435210.Autumn_Woods"
 dek: "He's her enemy. She's his everything."
 number: R123
 sort_key: 123
-date: 2021-11-19
+date: 2026-01-14
 date_read: 2018-09-19
 category: enemies-to-lovers
 cover: /assets/readings/nightshade.jpg

@@ -5,11 +5,10 @@ author: "Jules Verne"
 dek: ""
 number: R1657
 sort_key: 1657
-date: 2026-05-03
+date: 2026-06-27
 date_read: 1994-05-15
 category: classic-literature
 cover: /assets/readings/journey-to-the-center-of-the-earth.jpg
-spice: 1
 content_warnings:
 tags:
   - adventure

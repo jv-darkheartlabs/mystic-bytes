@@ -5,7 +5,7 @@ author: "Hannah Whitten"
 dek: ""
 number: R938
 sort_key: 938
-date: 2024-08-09
+date: 2026-04-13
 date_read: 2017-05-07
 category: fantasy-romance
 cover: /assets/readings/the-nightshade-god.jpg

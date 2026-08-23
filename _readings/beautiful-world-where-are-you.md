@@ -5,7 +5,7 @@ author: "Sally Rooney"
 dek: ""
 number: R1031
 sort_key: 1031
-date: 2024-11-27
+date: 2026-04-23
 date_read: 2026-08-16
 category: forbidden-love
 cover: /assets/readings/beautiful-world-where-are-you.jpg

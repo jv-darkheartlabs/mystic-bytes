@@ -5,7 +5,7 @@ author: "Gregory Maguire"
 dek: "The Wicked Years"
 number: R1537
 sort_key: 1537
-date: 2026-06-10
+date: 2026-06-15
 date_read: 2016-10-22
 category: gothic-horror-romance
 cover: /assets/readings/wicked-the-life-and-times-of-the-wicked-witch-of-the-west-the-wicked-years-1.jpg

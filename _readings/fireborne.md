@@ -5,7 +5,7 @@ author: "Rosaria Munda"
 dek: ""
 number: R1392
 sort_key: 1392
-date: 2026-02-11
+date: 2026-06-01
 date_read: 2015-09-19
 category: fantasy-romance
 cover: /assets/readings/fireborne.jpg

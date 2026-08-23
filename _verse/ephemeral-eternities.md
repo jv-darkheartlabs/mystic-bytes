@@ -4,7 +4,7 @@ title: "Ephemeral Eternities"
 dek: "Moment held until the lungs protest."
 number: V0613
 sort_key: 613
-date: 2027-03-06
+date: 2026-06-02
 date_written: 1990-09-09
 category: curiosity
 form: free-verse

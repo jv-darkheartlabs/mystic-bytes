@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18248667.Raven_Kennedy"
 dek: "Heart Hassle Book Three — A Fantasy Reverse Harem Series"
 number: R806
 sort_key: 806
-date: 2024-02-29
+date: 2026-03-29
 date_read: 2017-08-16
 category: reverse-harem
 cover: /assets/readings/crimes-of-cupidity.jpg

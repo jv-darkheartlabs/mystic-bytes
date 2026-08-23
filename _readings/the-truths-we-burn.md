@@ -5,7 +5,7 @@ author: "Monty Jay"
 dek: "My game, my rules, my mask — Hollow Boys Book Two"
 number: R053
 sort_key: 053
-date: 2021-08-31
+date: 2026-01-07
 date_read: 2020-11-25
 category: bully-romance
 cover: /assets/readings/the-truths-we-burn.jpg

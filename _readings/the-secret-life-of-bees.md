@@ -5,9 +5,9 @@ author: "Sue Monk Kidd"
 dek: ""
 number: R2252
 sort_key: 2252
-date: 2026-05-08
+date: 2026-08-08
 date_read: 2007-05-07
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-secret-life-of-bees.jpg
 spice: 2
 content_warnings:

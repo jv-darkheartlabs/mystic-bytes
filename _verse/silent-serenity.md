@@ -4,7 +4,7 @@ title: "Silent Serenity"
 dek: "Quiet is not always peace. Sometimes it is truce."
 number: V0105
 sort_key: 105
-date: 2026-08-07
+date: 2026-01-08
 date_written: 2002-01-09
 category: spirituality
 form: free-verse

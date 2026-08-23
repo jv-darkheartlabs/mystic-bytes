@@ -4,7 +4,7 @@ title: "Reflections of Ancestry"
 dek: "Past as load-bearing memory."
 number: V0912
 sort_key: 912
-date: 2034-07-13
+date: 2026-08-12
 date_written: 2005-01-21
 category: justice
 form: free-verse

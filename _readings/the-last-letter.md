@@ -5,7 +5,7 @@ author: "Rebecca Yarros"
 dek: ""
 number: R340
 sort_key: 340
-date: 2022-08-09
+date: 2026-02-06
 date_read: 2019-10-22
 category: dark-military-romance
 cover: /assets/readings/the-last-letter.jpg

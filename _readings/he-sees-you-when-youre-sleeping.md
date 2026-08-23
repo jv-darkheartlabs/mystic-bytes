@@ -5,7 +5,7 @@ author: "Alta Hensley"
 dek: "Why choose between naughty and nice?"
 number: R239
 sort_key: 239
-date: 2022-04-08
+date: 2026-01-26
 date_read: 2026-08-16
 category: stalker-obsession
 cover: /assets/readings/he-sees-you-when-youre-sleeping.jpg

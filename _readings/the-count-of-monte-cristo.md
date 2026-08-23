@@ -5,11 +5,10 @@ author: "Alexandre Dumas"
 dek: "A tale of an innocent man wrongfully imprisoned who seeks revenge against those who betrayed him."
 number: R1547
 sort_key: 1547
-date: 2026-05-31
+date: 2026-06-16
 date_read: 1996-05-15
 category: classic-literature
 cover: /assets/readings/the-count-of-monte-cristo.jpg
-spice: 2
 content_warnings:
   - "betrayal"
   - "revenge"

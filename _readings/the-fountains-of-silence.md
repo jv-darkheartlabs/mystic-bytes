@@ -6,9 +6,9 @@ author_url: "https://www.goodreads.com/author/show/3113344.Ruta_Sepetys"
 dek: ""
 number: R431
 sort_key: 431
-date: 2022-11-28
+date: 2026-02-16
 date_read: 2006-11-25
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-fountains-of-silence.jpg
 spice: 2
 content_warnings:

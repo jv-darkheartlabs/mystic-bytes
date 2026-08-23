@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/18228253.Devney_Perry"
 dek: "The Edens"
 number: R1383
 sort_key: 1383
-date: 2026-02-01
+date: 2026-05-31
 date_read: 2018-09-19
 category: enemies-to-lovers
 cover: /assets/readings/sable-peak.jpg

@@ -4,7 +4,7 @@ title: "Moving Forward"
 dek: "Purpose with grace — not amnesia."
 number: V0835
 sort_key: 835
-date: 2029-12-25
+date: 2026-07-05
 date_written: 2006-12-19
 category: life
 form: free-verse

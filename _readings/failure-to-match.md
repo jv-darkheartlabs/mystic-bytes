@@ -5,7 +5,7 @@ author: "Kyra Parsi"
 dek: "The Bad Billionaire Bosses Series"
 number: R830
 sort_key: 830
-date: 2024-03-31
+date: 2026-04-01
 date_read: 2017-05-07
 category: dark-billionaire
 cover: /assets/readings/failure-to-match.jpg

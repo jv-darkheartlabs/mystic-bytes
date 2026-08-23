@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/4860057.Danielle_L_Jensen"
 dek: "The Bridge Kingdom Book 3"
 number: R1240
 sort_key: 1240
-date: 2025-08-11
+date: 2026-05-15
 date_read: 2019-10-22
 category: fantasy-romance
 cover: /assets/readings/the-inadequate-heir.jpg

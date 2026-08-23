@@ -4,7 +4,7 @@ title: "Meditation"
 dek: "Stillness is not a merit badge."
 number: V0116
 sort_key: 116
-date: 2026-08-18
+date: 2026-01-16
 date_written: 2004-02-08
 category: spirituality
 form: free-verse

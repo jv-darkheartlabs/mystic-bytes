@@ -5,9 +5,9 @@ author: "Ruth Ware"
 dek: "Lo Blacklock Series Book 1"
 number: R1878
 sort_key: 1878
-date: 2026-04-12
+date: 2026-07-17
 date_read: 2013-09-19
-category: dark-thriller
+category: romantic-suspense
 cover: /assets/readings/the-woman-in-cabin-10-lo-blacklock-1.jpg
 spice: 2
 content_warnings:

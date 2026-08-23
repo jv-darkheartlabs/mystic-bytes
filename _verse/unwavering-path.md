@@ -4,7 +4,7 @@ title: "Unwavering Path"
 dek: "Motivation as rhythm — craft after craft."
 number: V0819
 sort_key: 819
-date: 2028-08-21
+date: 2026-06-24
 date_written: 2006-04-03
 category: life
 form: shaped

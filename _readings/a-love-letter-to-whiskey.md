@@ -5,7 +5,7 @@ author: "Kandi Steiner"
 dek: "5th Anniversary Edition"
 number: R1026
 sort_key: 1026
-date: 2024-11-25
+date: 2026-04-22
 date_read: 2021-03-01
 category: forbidden-love
 cover: /assets/readings/a-love-letter-to-whiskey.jpg

@@ -5,11 +5,10 @@ author: "Carolyn Keene"
 dek: "Nancy Drew Mystery Stories #56"
 number: R2380
 sort_key: 2380
-date: 2026-03-22
+date: 2026-08-22
 date_read: 1994-05-15
-category: dark-thriller
+category: juvenile-fiction
 cover: /assets/readings/nancy-drew-56-the-thirteenth-pearl.jpg
-spice: 1
 content_warnings:
 tags:
   - nancydrew

@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/15057035.Caroline_Peckham"
 dek: ""
 number: R1305
 sort_key: 1305
-date: 2025-10-27
+date: 2026-05-22
 date_read: 2024-03-01
 category: reverse-harem
 cover: /assets/readings/vicious-fae.jpg

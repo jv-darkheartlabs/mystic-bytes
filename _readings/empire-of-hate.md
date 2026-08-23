@@ -6,7 +6,7 @@ author_url: "https://www.goodreads.com/author/show/17202028.Rina_Kent"
 dek: ""
 number: R480
 sort_key: 480
-date: 2023-01-23
+date: 2026-02-21
 date_read: 2015-06-10
 category: enemies-to-lovers
 cover: /assets/readings/empire-of-hate.jpg
