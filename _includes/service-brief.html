@@ -74,5 +74,8 @@
     <button type="button" class="btn-outline brief-nav__next" data-brief-next>next section →</button>
     <button type="submit" class="btn-transmit brief-nav__submit" data-brief-submit>✉ transmit →</button>
   </div>
+  {% if site.turnstile_site_key != "" %}
+  <div class="cf-turnstile-wrap" data-turnstile-site-key="{{ site.turnstile_site_key }}"></div>
+  {% endif %}
   <p class="brief-status" data-brief-status hidden></p>
 </form>

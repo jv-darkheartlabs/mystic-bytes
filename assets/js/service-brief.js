@@ -236,14 +236,20 @@
       if (submitBtn) submitBtn.disabled = true;
       setStatus(form, 'Sending…', null);
 
-      window.DHLFormSubmit.submit(formConfig(form), {
+      var fields = {
         _subject: '[jv] ' + subjectRaw,
         name: fromName,
         email: fromEmail,
         realm: realm,
         source: 'darkheartlabs.technology',
         message: lines.join('\n')
-      })
+      };
+      var turnstileEl = form.querySelector('[name="cf-turnstile-response"]');
+      if (turnstileEl && turnstileEl.value) {
+        fields['cf-turnstile-response'] = turnstileEl.value;
+      }
+
+      window.DHLFormSubmit.submit(formConfig(form), fields)
         .then(function () {
           setStatus(form, 'Brief sent. JV will follow up.', 'ok');
         })

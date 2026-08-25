@@ -14,6 +14,9 @@ form_provider: resend
 form_endpoint: "https://dhl-mail-intake.cheddar-oxygen.workers.dev"
 formspree_id: ""
 form_access_key: ""
+# Optional Cloudflare Turnstile site key (public). Pair with TURNSTILE_SECRET_KEY on the Worker.
+# Test key (always passes): 1x00000000000000000000AA
+turnstile_site_key: ""
 
 asset_version: "20260825c"
 

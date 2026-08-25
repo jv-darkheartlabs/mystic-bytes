@@ -36,4 +36,5 @@
 
 {% assign asset_v = site.github.build_revision | default: site.asset_version | default: site.time | date: '%s' %}
 <script src="{{ '/assets/js/form-submit.js' | relative_url }}?v={{ asset_v }}" defer></script>
+<script src="{{ '/assets/js/turnstile-widget.js' | relative_url }}?v={{ asset_v }}" defer></script>
 <script src="{{ '/assets/js/service-brief.js' | relative_url }}?v={{ asset_v }}" defer></script>
