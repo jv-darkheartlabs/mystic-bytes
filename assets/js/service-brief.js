@@ -262,7 +262,7 @@
       setStatus(form, 'Sending…', null);
 
       var fields = {
-        _subject: '[jv] ' + subjectRaw,
+        _subject: 'Contact · ' + subjectRaw,
         name: fromName,
         email: fromEmail,
         realm: realm,
