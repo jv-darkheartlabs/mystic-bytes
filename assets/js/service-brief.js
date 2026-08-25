@@ -44,6 +44,26 @@
     status.classList.toggle('is-ok', tone === 'ok');
   }
 
+  function turnstileToken(form) {
+    var el = form.querySelector('[name="cf-turnstile-response"]');
+    return el && el.value ? el.value : "";
+  }
+
+  function turnstileRequired(form) {
+    return !!form.querySelector("[data-turnstile-site-key]");
+  }
+
+  function userFacingSubmitError(err) {
+    var code = err && err.message ? err.message : "";
+    if (code === "captcha_required" || code === "captcha_failed") {
+      return "Complete the security check below, then try again.";
+    }
+    if (code === "rate_limited") {
+      return "Too many attempts. Wait an hour and try again.";
+    }
+    return "Send failed. Try again, or write jv@darkheartlabs.technology directly.";
+  }
+
   function formConfig(form) {
     return {
       formProvider: form.getAttribute('data-brief-form-provider') || 'formspree',
@@ -201,6 +221,11 @@
         return;
       }
 
+      if (turnstileRequired(form) && !turnstileToken(form)) {
+        setStatus(form, "Complete the security check below, then try again.", "error");
+        return;
+      }
+
       var data = new FormData(form);
       var realm = data.get('realm') || currentRealm() || 'other';
       var subjectRaw = data.get('subject') || SUBJECTS[realm] || 'collaboration';
@@ -253,12 +278,8 @@
         .then(function () {
           setStatus(form, 'Brief sent. JV will follow up.', 'ok');
         })
-        .catch(function () {
-          setStatus(
-            form,
-            'Send failed. Try again, or write jv@darkheartlabs.technology directly.',
-            'error'
-          );
+        .catch(function (err) {
+          setStatus(form, userFacingSubmitError(err), 'error');
           if (submitBtn) submitBtn.disabled = false;
         });
     });
