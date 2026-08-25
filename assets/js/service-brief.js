@@ -59,7 +59,7 @@
       return "Complete the security check below, then try again.";
     }
     if (code === "rate_limited") {
-      return "Too many attempts. Wait an hour and try again.";
+      return "Too many attempts. Wait a minute and try again.";
     }
     return "Send failed. Try again, or write jv@darkheartlabs.technology directly.";
   }

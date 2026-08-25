@@ -18,7 +18,7 @@ form_access_key: ""
 # Test key (always passes): 1x00000000000000000000AA
 turnstile_site_key: "0x4AAAAAAEcKzdQzWdenLucK"
 
-asset_version: "20260825e"
+asset_version: "20260825f"
 
 markdown: kramdown
 highlighter: rouge
