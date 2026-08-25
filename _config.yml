@@ -7,7 +7,15 @@ baseurl: ""
 email: jv@darkheartlabs.technology
 author: JV · Dark Heart Labs
 
-asset_version: "20260823b"
+# Form backend (required). mailto is disabled — iCloud MX junks visitor Gmail/iCloud mail.
+# Use Resend via dhl-mail-intake Worker (free). Paste Worker URL after deploy.
+# See ~/Projects/dhl-mail-intake/docs/MAIL.md
+form_provider: resend
+form_endpoint: "https://dhl-mail-intake.cheddar-oxygen.workers.dev"
+formspree_id: ""
+form_access_key: ""
+
+asset_version: "20260825c"
 
 markdown: kramdown
 highlighter: rouge

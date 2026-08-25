@@ -18,6 +18,8 @@
     documentation: 'Documentation — how-tos / KB / incident copy'
   };
 
+  var MAX_FIELD = 2000;
+
   function ready(fn) {
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', fn);
@@ -33,13 +35,35 @@
     return el.name;
   }
 
+  function setStatus(form, text, tone) {
+    var status = form.querySelector('[data-brief-status]');
+    if (!status) return;
+    status.textContent = text || '';
+    status.hidden = !text;
+    status.classList.toggle('is-error', tone === 'error');
+    status.classList.toggle('is-ok', tone === 'ok');
+  }
+
+  function formConfig(form) {
+    return {
+      formProvider: form.getAttribute('data-brief-form-provider') || 'formspree',
+      formspreeId: form.getAttribute('data-brief-formspree-id') || '',
+      formEndpoint: form.getAttribute('data-brief-form-endpoint') || '',
+      formAccessKey: form.getAttribute('data-brief-form-access-key') || ''
+    };
+  }
+
+  function sendConfigured(form) {
+    return !!(window.DHLFormSubmit && window.DHLFormSubmit.endpointFor(formConfig(form)));
+  }
+
   function initWizard(form) {
     var presetRealm = form.getAttribute('data-brief-realm') || '';
-    var emailTo = form.getAttribute('data-brief-email') || '';
     var steps = Array.prototype.slice.call(form.querySelectorAll('[data-brief-step]'));
     var progress = form.querySelector('[data-brief-progress]');
     var realmSelect = form.querySelector('select[name="realm"]');
     var subjectInput = form.querySelector('input[name="subject"]');
+    var submitBtn = form.querySelector('[data-brief-submit]');
     var index = 0;
 
     function currentRealm() {
@@ -109,6 +133,15 @@
 
     form.classList.add('is-ready');
 
+    if (!sendConfigured(form)) {
+      setStatus(
+        form,
+        'Email delivery is not configured. mailto is disabled — iCloud (MX for this domain) delays or junks mail from Gmail and iCloud, often for days. See docs/MAIL.md.',
+        'error'
+      );
+      if (submitBtn) submitBtn.disabled = true;
+    }
+
     if (realmSelect) {
       var params = new URLSearchParams(window.location.search);
       var intent = params.get('intent') || params.get('realm');
@@ -152,18 +185,35 @@
       index = active.length - 1;
       paint();
 
+      var honey = form.querySelector('[data-honeypot]');
+      if (honey && honey.value) {
+        setStatus(form, 'Brief sent. JV will follow up.', 'ok');
+        if (submitBtn) submitBtn.disabled = true;
+        return;
+      }
+
+      if (!sendConfigured(form)) {
+        setStatus(
+          form,
+          'Email delivery is not configured. mailto is disabled — iCloud junks visitor Gmail/iCloud mail.',
+          'error'
+        );
+        return;
+      }
+
       var data = new FormData(form);
       var realm = data.get('realm') || currentRealm() || 'other';
       var subjectRaw = data.get('subject') || SUBJECTS[realm] || 'collaboration';
-      var fromName = data.get('name') || '';
-      var fromEmail = data.get('email') || '';
-      var message = data.get('message') || '';
+      var fromName = String(data.get('name') || '').slice(0, 120);
+      var fromEmail = String(data.get('email') || '').slice(0, 120);
+      var message = String(data.get('message') || '').slice(0, MAX_FIELD);
       var skip = {
         name: true,
         email: true,
         subject: true,
         message: true,
-        realm: true
+        realm: true,
+        website: true
       };
       var lines = [
         'From: ' + fromName + ' <' + fromEmail + '>',
@@ -178,14 +228,33 @@
         var value = data.get(el.name);
         if (!value) return;
         if (lines.some(function (line) { return line.indexOf(fieldLabel(el) + ': ') === 0; })) return;
-        lines.push(fieldLabel(el) + ': ' + value);
+        lines.push(fieldLabel(el) + ': ' + String(value).slice(0, MAX_FIELD));
       });
 
       lines.push('', message);
 
-      var subject = encodeURIComponent('[jv] ' + subjectRaw);
-      var body = encodeURIComponent(lines.join('\n'));
-      window.location.href = 'mailto:' + emailTo + '?subject=' + subject + '&body=' + body;
+      if (submitBtn) submitBtn.disabled = true;
+      setStatus(form, 'Sending…', null);
+
+      window.DHLFormSubmit.submit(formConfig(form), {
+        _subject: '[jv] ' + subjectRaw,
+        name: fromName,
+        email: fromEmail,
+        realm: realm,
+        source: 'darkheartlabs.technology',
+        message: lines.join('\n')
+      })
+        .then(function () {
+          setStatus(form, 'Brief sent. JV will follow up.', 'ok');
+        })
+        .catch(function () {
+          setStatus(
+            form,
+            'Send failed. Try again, or write jv@darkheartlabs.technology directly.',
+            'error'
+          );
+          if (submitBtn) submitBtn.disabled = false;
+        });
     });
   }
 

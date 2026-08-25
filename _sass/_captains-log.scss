@@ -3455,6 +3455,36 @@ select.field-input {
   &:hover {
     box-shadow: var(--shadow-glow);
   }
+
+  &:disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+    box-shadow: none;
+  }
+}
+
+.brief-status {
+  margin: 0.85rem 0 0;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--muted);
+
+  &.is-error {
+    color: var(--accent, var(--teal));
+  }
+
+  &.is-ok {
+    color: var(--fg, var(--ink));
+  }
+}
+
+.hp {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
 
 .brief-wizard.is-ready .brief-step {

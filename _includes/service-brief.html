@@ -24,7 +24,10 @@
   data-brief-wizard
   data-brief-mode="{{ mode }}"
   {% if realm_value != "" %}data-brief-realm="{{ realm_value }}"{% endif %}
-  data-brief-email="{{ site.email }}"
+  data-brief-form-provider="{{ site.form_provider | default: 'formspree' }}"
+  data-brief-formspree-id="{{ site.formspree_id | default: '' }}"
+  data-brief-form-endpoint="{{ site.form_endpoint | default: '' }}"
+  data-brief-form-access-key="{{ site.form_access_key | default: '' }}"
   novalidate
 >
   <header class="brief-wizard__intro">
@@ -62,9 +65,14 @@
 
   {% include brief-step.html step=brief.message id_prefix=id_prefix %}
 
+  <label class="hp" aria-hidden="true">Leave blank
+    <input type="text" name="website" data-honeypot tabindex="-1" autocomplete="off">
+  </label>
+
   <div class="brief-nav">
     <button type="button" class="btn-outline brief-nav__back" data-brief-back>← back</button>
     <button type="button" class="btn-outline brief-nav__next" data-brief-next>next section →</button>
     <button type="submit" class="btn-transmit brief-nav__submit" data-brief-submit>✉ transmit →</button>
   </div>
+  <p class="brief-status" data-brief-status hidden></p>
 </form>

@@ -24,7 +24,7 @@ rules:
   - "No CMS builds, finance products, medical software, ecommerce, or member login."
   - "Human approval on what ships — AI assists; you lead."
   - "Debug & Drift: Slipside Service diagnostic first; client vessel or client-hired charter; parts never included (you buy); service fee is what the day was worth to you — no stamped menu price."
-  - "Ask date proposals: hand-built from your brief; private unlisted URL."
+  - "Ask date proposals: hand-built from your brief; unlisted URL (noindex)."
   - "Documentation: I write the how-tos. You supply product facts and approve the draft. Domain and repo stay yours on docs-site work."
 
 realms:
@@ -158,12 +158,12 @@ realms:
     page_title: "ask — interactive date proposal"
     badge: ASK
     section_num: "01"
-    summary: "Interactive date proposal · private unlisted URL · hand-built from your brief · typically 48 hours"
+    summary: "Interactive date proposal · unlisted URL · hand-built from your brief · typically 48 hours"
     proof: []
     brief:
       subject: "Ask — custom date proposal"
       subject_placeholder: "Ask — date proposal brief"
-      hint: "Interactive date proposal on ask.darkheartlabs.technology — private link, hand-built from your brief."
+      hint: "Interactive date proposal on ask.darkheartlabs.technology — unlisted link, hand-built from your brief."
       sections:
         - id: names
           num: "01"
@@ -248,7 +248,7 @@ realms:
           - "Runaway No button · day, time, and food vote wizard"
           - "Dark Heart Labs Signal Protocol theme"
           - "Custom names, options, and punchline from your brief"
-          - "Private unlisted URL · noindex by default"
+          - "Unlisted URL · noindex by default · not password-protected"
         excludes:
           - "Custom domain on your own name (see Jekyll Starter under sites)"
           - "Self-serve editor — each build is hand-crafted from your brief"
@@ -371,7 +371,7 @@ realms:
         includes:
           - "Jekyll 4 documentation site · GitHub Pages · up to 6 pages"
           - "How-to and help-page copy written from your product facts"
-          - "Custom domain wiring checklist · mailto contact form"
+          - "Custom domain wiring checklist · Formspree contact form"
           - "Repo created under studio, then transferred to your GitHub"
           - "One revision round on structure, theme, and docs · you approve the drafts"
           - "Options: Advanced DNS Setup standalone above · or DNS bundled with build +$250 · CI pipeline +$600 · migration from WordPress or similar from +$1,800"
@@ -384,7 +384,7 @@ realms:
         includes:
           - "Collections, SCSS theme system, embeds (Spotify, video, etc. as you choose)"
           - "How-tos, help pages, and README-scale docs written from your brief"
-          - "Custom domain · mailto · README handoff · repo setup then transfer"
+          - "Custom domain · Formspree contact · README handoff · repo setup then transfer"
           - "One revision round · you approve the drafts"
           - "Same options as Starter: Advanced DNS Setup standalone · or DNS bundled +$250 · CI (build → Pagefind → link check) +$600 · migration from +$1,800"
         excludes:

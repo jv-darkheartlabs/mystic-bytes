@@ -34,6 +34,7 @@ Pushes to `main` run `.github/workflows/jekyll.yml`.
 | Site data | `_data/` |
 | Live demos | `demos.html`, `_data/demos.yml` |
 | Layout | `_includes/`, `_layouts/` |
+| Form POST (no mailto) | `assets/js/form-submit.js`, `assets/js/service-brief.js`, `docs/MAIL.md` |
 | CI deploy | `.github/workflows/jekyll.yml` |
 
 ---
