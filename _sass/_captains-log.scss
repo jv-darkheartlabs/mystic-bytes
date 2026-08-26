@@ -2720,10 +2720,97 @@ section:has(> .section-label):not(.mission-timeline) {
   color: var(--teal);
 }
 
-.manual-card dd {
-  margin: 0.25rem 0 0;
+.manual-card h2,
+.manual-card h3 {
+  margin: 0 0 0.75rem;
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+}
+
+.about-collab {
+  margin-top: 2.5rem;
+}
+
+.about-collab__lede {
+  margin: 0.75rem 0 0;
+  max-width: 48rem;
+  color: var(--muted-foreground);
+  line-height: 1.6;
+}
+
+.about-collab__list {
+  margin: 0;
+  padding-left: 1.15rem;
   color: var(--muted-foreground);
   font-size: 0.875rem;
+  line-height: 1.5;
+
+  li + li {
+    margin-top: 0.5rem;
+  }
+}
+
+.about-collab__tensions {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+
+  @media (min-width: 640px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.about-collab__kicker {
+  margin: 0 0 0.5rem;
+  @include font-mono;
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--teal);
+}
+
+.about-collab__tensions .tenet-card__line {
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  color: var(--muted-foreground);
+}
+
+.about-profile {
+  margin-top: 2.5rem;
+}
+
+.about-profile__grid {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+
+  @media (min-width: 700px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 1100px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.about-profile-card {
+  min-width: 0;
+
+  h3 {
+    margin: 0.35rem 0 0.75rem;
+    font-family: var(--font-serif);
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+
+  &__instrument {
+    margin: 0;
+    @include font-mono;
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--amber);
+  }
 }
 
 .about-award {
