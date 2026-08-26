@@ -2,7 +2,7 @@
   <div class="site-footer__inner">
     <div class="site-footer__grid">
       <div>
-        <div class="site-footer__label">// signal</div>
+        <div class="site-footer__label">Studio</div>
         <a class="site-footer__brand-link" href="{{ '/' | relative_url }}">
           {% include brand-lockup.html variant='footer' %}
         </a>
@@ -10,7 +10,7 @@
         <p class="site-footer__amber">{{ site.data.site.footer_tagline }}</p>
       </div>
       <div>
-        <div class="site-footer__label">// elsewhere</div>
+        <div class="site-footer__label">Links</div>
         <ul class="site-footer__links">
           <li><a href="{{ site.data.site.social.spotify }}" target="_blank" rel="me noreferrer">spotify · podcast + album →</a></li>
           <li><a href="{{ site.data.site.social.github }}" target="_blank" rel="me noreferrer">github.com/jv-darkheartlabs →</a></li>
@@ -30,14 +30,14 @@
         </ul>
       </div>
       <div>
-        <div class="site-footer__label">// coordinates</div>
+        <div class="site-footer__label">Location</div>
         <p>{{ site.data.site.coordinates }}</p>
         <p>{{ site.data.site.location }}</p>
-        <p class="site-footer__muted">© {{ 'now' | date: '%Y' }} · MMXXVI</p>
+        <p class="site-footer__muted">© {{ 'now' | date: '%Y' }}</p>
       </div>
     </div>
     <div class="site-footer__bar">
-      <span class="site-footer__teal">DARK HEART LABS // MMXXVI</span>
+      <span class="site-footer__teal">Dark Heart Labs</span>
       <span class="site-footer__signoff">
         <span class="site-footer__diamond" aria-hidden="true">◇</span>
         <span class="site-footer__amber">{{ site.data.site.sign_off }}</span>

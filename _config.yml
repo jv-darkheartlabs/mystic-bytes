@@ -1,7 +1,7 @@
 # Dark Heart Labs — darkheartlabs.technology
 title: "JV · Dark Heart Labs"
-tagline: "code // creativity // the technical void"
-description: "How-tos, essays, and technical writing. Dark Heart Labs — documentation, reviews, and craft."
+tagline: "Technical writing · documentation · how-tos"
+description: "Jennifer Picado — technical writer. Documentation, how-tos, and selected work. Dark Heart Labs."
 url: "https://darkheartlabs.technology"
 baseurl: ""
 email: jv@darkheartlabs.technology
@@ -18,7 +18,7 @@ form_access_key: ""
 # Test key (always passes): 1x00000000000000000000AA
 turnstile_site_key: "0x4AAAAAAEcKzdQzWdenLucK"
 
-asset_version: "20260826c"
+asset_version: "20260826d"
 
 markdown: kramdown
 highlighter: rouge

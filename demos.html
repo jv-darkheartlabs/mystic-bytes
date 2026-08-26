@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "live demos — click the running ones"
+title: "live demos"
 description: "Ask, Metalmenders, and Vector — live sites you can open, not case studies. Documentation stays on Projects."
 eyebrow: "[live demos]"
 permalink: /demos/
@@ -12,12 +12,12 @@ permalink: /demos/
   <header class="projects-header signal-header">
     {% include signal-badge.html code="DEMO" %}
     <p class="page-eyebrow">[live demos]</p>
-    <h1 class="page-title">click the running ones</h1>
+    <h1 class="page-title">live demos</h1>
     <p class="projects-lede">{{ data.lede }}</p>
   </header>
 
   <section class="projects-featured">
-    {% include section-label.html num="00" title="on the wire" badge="DEMO" %}
+    {% include section-label.html num="00" title="running sites" badge="DEMO" %}
     <div class="projects-featured-grid">
       {% for demo in data.items %}
       <article class="project-card panel">
@@ -57,7 +57,7 @@ permalink: /demos/
   </section>
 
   <aside class="media-crosslink panel">
-    <p class="media-crosslink__label">sibling shelf</p>
+    <p class="media-crosslink__label">Related</p>
     <ul>
       <li><a href="{{ '/projects/' | relative_url }}">projects — selected work</a></li>
     </ul>

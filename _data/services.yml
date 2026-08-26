@@ -4,17 +4,17 @@ lede: "How-to articles, knowledge bases, incident copy, and documentation sites 
 rate_basis: "USD $120 / hour, 4-hour minimum — a competitive independent rate for senior technical writing with accessible front-end and IT-notes literacy in the same brief. Fixed packages below are scoped so you are not buying hours in the dark; they sit on that floor. Invoices in USD; AUD, NZD, or EUR at mid-market if you prefer. Debug & Drift is Louisiana field work — Slipside Service diagnostic first; you name what the service was worth (parts are always yours to buy). Ask date proposals are hand-built microsites."
 
 specs:
-  - label: hourly_rate
+  - label: Hourly rate
     value: "USD $120 · 4-hour minimum"
-  - label: rate_basis
+  - label: Rate basis
     value: "Global freelance floor · the work, not a local salary"
-  - label: payment
+  - label: Payment
     value: "PayPal · Wise · USD (AUD / NZD / EUR at mid-market)"
-  - label: engagement
+  - label: Engagement
     value: "Remote · hybrid · on-site · Louisiana field"
-  - label: employment
+  - label: Employment
     value: "Full-time / sponsored roles → see CV"
-  - label: availability
+  - label: Availability
     value: "Open for new clients · ~1 Debug & Drift / week"
 
 rules:
@@ -47,13 +47,13 @@ realms:
           prompt: "Where do we meet the vessel, and whose boat is it?"
           fields:
             - name: marina
-              label: "$ marina / meet point"
+              label: "Marina / meet point"
               type: text
               required: true
               placeholder: "e.g. Venice, Empire, local slip name"
               mail_label: "Marina / meet"
             - name: vessel
-              label: "$ vessel"
+              label: "Vessel"
               type: text
               required: true
               placeholder: "your yacht · or charter you are hiring"
@@ -64,7 +64,7 @@ realms:
           prompt: "How many machines need hands, with advance notice?"
           fields:
             - name: device_count
-              label: "$ device_count"
+              label: "Device count"
               type: select
               required: true
               mail_label: "Device count"
@@ -85,7 +85,7 @@ realms:
           prompt: "Slipside Service only, or on-vessel support — and when?"
           fields:
             - name: day_length
-              label: "$ day_length"
+              label: "Day length"
               type: select
               required: true
               mail_label: "Day length"
@@ -99,7 +99,7 @@ realms:
                 - value: "unsure"
                   label: "not sure yet"
             - name: preferred_window
-              label: "$ preferred_window"
+              label: "Preferred window"
               type: text
               required: false
               placeholder: "week of… · weekday · weather-flexible"
@@ -171,13 +171,13 @@ realms:
           prompt: "Who is asking, and who is this for?"
           fields:
             - name: proposal_recipient
-              label: "$ recipient_name"
+              label: "Recipient name"
               type: text
               required: true
               placeholder: "who is this for?"
               mail_label: "Recipient"
             - name: proposal_sender
-              label: "$ your_name"
+              label: "Your name"
               type: text
               required: true
               placeholder: "who is asking?"
@@ -188,7 +188,7 @@ realms:
           prompt: "Keep the Dark Heart Labs Signal Protocol polish, or still deciding?"
           fields:
             - name: proposal_theme
-              label: "$ theme"
+              label: "Theme"
               type: select
               required: true
               mail_label: "Theme"
@@ -203,13 +203,13 @@ realms:
           prompt: "Which days and times should they vote on?"
           fields:
             - name: proposal_days
-              label: "$ day_options"
+              label: "Day options"
               type: text
               required: false
               placeholder: "e.g. Friday, Saturday, Surprise me"
               mail_label: "Day options"
             - name: proposal_times
-              label: "$ time_options"
+              label: "Time options"
               type: text
               required: false
               placeholder: "e.g. 7:00 PM, 8:00 PM"
@@ -220,13 +220,13 @@ realms:
           prompt: "What are they choosing between, and what is the closing line?"
           fields:
             - name: proposal_food
-              label: "$ food_options"
+              label: "Food options"
               type: text
               required: false
               placeholder: "e.g. gelatos, gyros, nachos, tacos"
               mail_label: "Food options"
             - name: proposal_punchline
-              label: "$ custom_punchline"
+              label: "Custom punchline"
               type: text
               required: false
               placeholder: "optional — or keep the Cursor lunch default"
@@ -272,7 +272,7 @@ realms:
           prompt: "Which site package are we scoping — or still choosing?"
           fields:
             - name: site_package
-              label: "$ package"
+              label: "Package"
               type: select
               required: true
               mail_label: "Package"
@@ -295,7 +295,7 @@ realms:
           prompt: "Is this greenfield, or are we moving an existing site?"
           fields:
             - name: migrate_from
-              label: "$ migrate_from"
+              label: "Migrate from"
               type: select
               required: true
               mail_label: "Migrate from"
@@ -314,7 +314,7 @@ realms:
           prompt: "Do you already own the name, and do you need Advanced DNS handled?"
           fields:
             - name: domain_status
-              label: "$ domain"
+              label: "Domain"
               type: select
               required: true
               mail_label: "Domain"
@@ -428,7 +428,7 @@ realms:
           prompt: "Audit, a how-to pack, or a retainer — which floor are we on?"
           fields:
             - name: docs_package
-              label: "$ package"
+              label: "Package"
               type: select
               required: true
               mail_label: "Package"
@@ -447,7 +447,7 @@ realms:
           prompt: "What system are we documenting?"
           fields:
             - name: docs_product
-              label: "$ product / system"
+              label: "Product / system"
               type: text
               required: true
               placeholder: "what are we documenting?"
@@ -458,7 +458,7 @@ realms:
           prompt: "Where do the messy facts live today?"
           fields:
             - name: docs_notes
-              label: "$ where_the_notes_live"
+              label: "Where the notes live"
               type: text
               required: false
               placeholder: "Slack · tickets · README · a call"
@@ -509,31 +509,31 @@ open_source:
 cta:
   label: "Request a brief"
   href: "/contact/"
-  note: "Pick a service page and answer the brief one section at a time — or send a general raven from contact. Rush requests noted upfront."
+  note: "Pick a service page and answer the brief one section at a time, or use the contact form. Flag rush requests up front."
 
 brief:
   identity:
     num: "00"
-    title: whoami
-    prompt: "Who is sending this raven?"
+    title: Your details
+    prompt: "Who should I reply to?"
     fields:
       - name: name
-        label: "$ whoami"
+        label: "Name"
         type: text
         required: true
         placeholder: "your name"
       - name: email
-        label: "$ reply_to"
+        label: "Email"
         type: email
         required: true
         placeholder: "you@example.com"
   realm_picker:
     num: "01"
-    title: realm
+    title: Service
     prompt: "Which service is this brief for?"
     fields:
       - name: realm
-        label: "$ realm"
+        label: "Service"
         type: select
         required: true
         options:
@@ -548,17 +548,17 @@ brief:
           - value: "other"
             label: "other / general"
       - name: subject
-        label: "$ subject"
+        label: "Subject"
         type: text
         required: true
         placeholder: "re: collaboration"
   message:
     num: "—"
-    title: transmission
-    prompt: "Anything the brief still needs — timeline, constraints, the thing you almost didn't say."
+    title: Message
+    prompt: "Anything the brief still needs — timeline, constraints, or context I should have."
     fields:
       - name: message
-        label: "$ message"
+        label: "Message"
         type: textarea
         required: true
         rows: 6

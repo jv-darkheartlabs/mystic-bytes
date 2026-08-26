@@ -2,16 +2,16 @@ tagline: collaborating brief, working map, availability. credentials live on the
 bio: "I write how-tos a tired first-time user can finish. Quiet reflection before visible action — a delayed reply is often the work, not a freeze. Bring the tangled problem early, with the rationale attached. Credentials live on the CV. Availability, and how to work together, live here."
 specs:
   -
-    label: comm_channel
+    label: Communication
     value: Discord
   -
-    label: comm_style
+    label: Style
     value: "Written first · conclusion, then evidence"
   -
-    label: energy_rhythm
+    label: Energy
     value: "Pacer · peak early–mid morning"
   -
-    label: focus_mode
+    label: Focus
     value: "Protected blocks · written checkpoints"
 collaborating:
   lede: "Thoughtful structure with room to adapt. I sort complicated technical work into a few workable paths, then rearrange when the evidence changes. Meaningful outcomes, sound reasoning, and care for teammates matter together."
