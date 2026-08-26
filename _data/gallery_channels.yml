@@ -11,7 +11,7 @@ channels:
     label: Twitch
     handle: "darkheartlabs"
     url: "https://www.twitch.tv/darkheartlabs"
-    blurb: "Live builds, studio signal, and work sessions."
+    blurb: "Live builds and work sessions."
   -
     id: youtube
     label: YouTube

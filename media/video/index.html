@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "video — moving image"
+title: "video"
 eyebrow: "[media/video]"
 permalink: /media/video/
 ---
@@ -11,19 +11,19 @@ permalink: /media/video/
 
 <div class="container video-index">
   <header class="media-sub-header signal-header">
-    <a class="essay-back" href="{{ '/media/' | relative_url }}">← /media</a>
+    <a class="essay-back" href="{{ '/media/' | relative_url }}">← Media</a>
     {% include signal-badge.html code="VIDEO" %}
     <p class="page-eyebrow">[video]</p>
-    <h1 class="page-title">moving image</h1>
+    <h1 class="page-title">video</h1>
     <p class="media-sub-lede">
       Process, infrastructure, and long-form from
       <a href="{{ youtube.channel_url }}" target="_blank" rel="me noreferrer">@darkheartlabs ↗</a>.
-      Music playlists live on <a href="{{ '/media/' | relative_url }}">/media</a>.
+      Music playlists live on <a href="{{ '/media/' | relative_url }}">Media</a>.
     </p>
   </header>
 
   <section class="video-lab">
-    <h2 class="media-sub-section">&gt;_ {{ lab.title }}</h2>
+    <h2 class="media-sub-section">{{ lab.title }}</h2>
     <p class="media-sub-lede">{{ lab.blurb }}</p>
     <div class="youtube-embed-card panel">
       {% include youtube-embed.html playlist=lab.id title=lab.title %}
@@ -35,7 +35,7 @@ permalink: /media/video/
 
   {% if youtube.longform.size > 0 %}
   <section class="video-longform">
-    <h2 class="media-sub-section">&gt;_ long-form</h2>
+    <h2 class="media-sub-section">Long-form</h2>
     <div class="youtube-embed-grid">
       {% for vid in youtube.longform %}
       <div class="youtube-embed-card panel">
@@ -51,7 +51,7 @@ permalink: /media/video/
   {% endif %}
 
   <section class="gallery-channels">
-    <h2 class="media-sub-section">&gt;_ networks</h2>
+    <h2 class="media-sub-section">Networks</h2>
     <div class="media-channels__grid">
       {% for ch in channels %}
       <div class="media-channel panel{% if ch.url == empty %} media-channel--pending{% endif %}">

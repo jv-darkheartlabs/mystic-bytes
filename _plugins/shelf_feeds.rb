@@ -30,8 +30,8 @@ module DarkHeartLabs
       },
       "films" => {
         "path" => "/films-feed.xml",
-        "title" => "projection room",
-        "subtitle" => "Adaptation reviews as cinematic art — fidelity, craft, and book-to-screen critique.",
+        "title" => "adaptation reviews",
+        "subtitle" => "Film adaptation reviews — fidelity, craft, and book-to-screen critique.",
         "limit" => 100,
         "hidden_data_key" => "film_shelf_exclusions",
         "hidden_slug_key" => "hidden_slugs",
@@ -41,7 +41,7 @@ module DarkHeartLabs
       "verse" => {
         "path" => "/verse-feed.xml",
         "title" => "verse",
-        "subtitle" => "Uncut image — raw chorus sibling to the curated shelves.",
+        "subtitle" => "Poems from Dark Heart Labs.",
         "limit" => 100,
         "hidden_data_key" => "verse_shelf_exclusions",
         "hidden_slug_key" => "hidden_slugs",

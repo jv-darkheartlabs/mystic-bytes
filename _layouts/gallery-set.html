@@ -3,11 +3,11 @@ layout: default
 ---
 <article class="gallery-set">
   <div class="essay-inner">
-    <a class="essay-back" href="{{ '/media/gallery/' | relative_url }}">← /gallery</a>
+    <a class="essay-back" href="{{ '/media/gallery/' | relative_url }}">← Gallery</a>
 
     <div class="essay-meta">
       {% if page.number %}
-      <span class="essay-signal">set_№_{{ page.number }}</span>
+      <span class="essay-signal">Set {{ page.number }}</span>
       {% endif %}
       {% if page.date %}
       <span class="essay-date">{{ page.date | date: "%b %-d, %Y" }}</span>
@@ -48,7 +48,7 @@ layout: default
     {% endif %}
 
     <footer class="essay-closing">
-      <span>CLOSING TRANSMISSION // GALLERY SET</span>
+      <span>Gallery set</span>
       <span>— JV · Dark Heart Labs.</span>
     </footer>
   </div>

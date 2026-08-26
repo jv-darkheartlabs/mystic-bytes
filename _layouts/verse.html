@@ -10,7 +10,7 @@ layout: default
     <a class="essay-back" href="{{ '/media/written/literary/verse/' | relative_url }}">← verse</a>
 
     <div class="essay-meta">
-      <span class="essay-signal">verse_№_{{ page.number }}</span>
+      <span class="essay-signal">Verse {{ page.number }}</span>
       {% if page.date %}
       <span class="essay-date">published {{ page.date | date: "%b %-d, %Y" }}</span>
       {% endif %}
@@ -64,7 +64,7 @@ layout: default
     {% endif %}
 
     <footer class="essay-closing">
-      <span>CLOSING TRANSMISSION // VERSE №_{{ page.number }}</span>
+      <span>Verse {{ page.number }}</span>
     </footer>
   </div>
 </article>

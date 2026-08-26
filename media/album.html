@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "album — the long-form signal"
+title: "album"
 eyebrow: "[media/album]"
 permalink: /media/album/
 ---
@@ -10,11 +10,11 @@ permalink: /media/album/
 
 <div class="container album-page">
   <header class="album-header signal-header">
-    <a class="essay-back" href="{{ '/media/' | relative_url }}">← /media</a>
+    <a class="essay-back" href="{{ '/media/' | relative_url }}">← Media</a>
     {% include signal-badge.html code="ALBUM" %}
     <p class="page-eyebrow">[album]</p>
-    <h1 class="page-title">the long-form signal</h1>
-    <p class="album-lede">Ambient coordinates from Dark Heart Labs. The scored signal beneath the essays.</p>
+    <h1 class="page-title">album</h1>
+    <p class="album-lede">Ambient album from Dark Heart Labs.</p>
     <a class="btn-outline" href="https://open.spotify.com/album/{{ spotify.album_id }}" target="_blank" rel="noreferrer">listen on spotify ↗</a>
   </header>
 
@@ -28,12 +28,12 @@ permalink: /media/album/
       allowfullscreen=""
       allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
       loading="lazy"
-      title="Dark Heart Labs — long-form signal on Spotify"
+      title="Dark Heart Labs album on Spotify"
     ></iframe>
   </div>
 
   <section class="album-tracklist panel">
-    <h2 class="cv-section__title">&gt;_ tracklist</h2>
+    <h2 class="cv-section__title">Tracklist</h2>
     <ol class="album-tracks">
       {% for track in tracks %}
       <li>

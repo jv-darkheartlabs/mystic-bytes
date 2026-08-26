@@ -7,7 +7,7 @@
   {% endunless %}
   {% if realm.pitch %}
   <aside class="services-realm__pitch panel">
-    <p class="services-realm__pitch-title">&gt;_ {{ realm.pitch.title }}</p>
+    <p class="services-realm__pitch-title">{{ realm.pitch.title }}</p>
     {% for line in realm.pitch.lines %}
     <p class="services-realm__pitch-line">{{ line }}</p>
     {% endfor %}
@@ -15,7 +15,7 @@
   {% endif %}
   {% if realm.access %}
   <aside class="services-realm__access panel">
-    <p class="services-realm__pitch-title">&gt;_ {{ realm.access.title }}</p>
+    <p class="services-realm__pitch-title">{{ realm.access.title }}</p>
     {% if realm.access.disclaimer %}
     <p class="services-realm__access-disclaimer">{{ realm.access.disclaimer }}</p>
     {% endif %}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "media — transmissions"
+title: "media"
 eyebrow: "[media]"
 permalink: /media/
 ---
@@ -16,55 +16,60 @@ permalink: /media/
   <header class="media-header signal-header">
     {% include signal-badge.html code="MEDIA" %}
     <p class="page-eyebrow">[media]</p>
-    <h1 class="page-title">transmissions</h1>
+    <h1 class="page-title">media</h1>
     <p class="media-lede">
-      Written, spoken, scored, and visual signal from Dark Heart Labs.
-      Essays · reviews · projection room · podcast · album · photo sets · video.
+      Writing, podcast, album, photos, and video from Dark Heart Labs.
     </p>
   </header>
 
   <div class="media-hub-grid">
     <a class="media-hub-card panel" href="{{ '/media/written/' | relative_url }}">
       {% include section-label.html num="00" title="written" badge="MEDIA" %}
-      <h2>written transmissions</h2>
-      <p>{{ essays.size }} essays · {{ site.journal.size }} travel · {{ site.wellness.size }} wellness · {{ site.readings.size }} reviews · {{ site.films.size }} projection room · {{ site.verse.size }} verse. Journal and literary pillars under one roof.</p>
-      <span class="media-hub-card__cta">enter →</span>
+      <h2>writing</h2>
+      <p>{{ essays.size }} essays · {{ site.journal.size }} travel · {{ site.wellness.size }} wellness · {{ site.readings.size }} reviews · {{ site.films.size }} adaptation reviews · {{ site.verse.size }} poems.</p>
+      <span class="media-hub-card__cta">Open →</span>
     </a>
     <a class="media-hub-card panel" href="{{ '/media/podcast/' | relative_url }}">
       {% include section-label.html num="01" title="spoken" badge="MEDIA" %}
-      <h2>spoken transmissions</h2>
-      <p>{{ episodes.size }} episodes. Transmissions — essays read aloud for the commute, the walk, the 2am mind.</p>
-      <span class="media-hub-card__cta">enter →</span>
+      <h2>podcast</h2>
+      <p>{{ episodes.size }} episodes. Short essays read aloud.</p>
+      <span class="media-hub-card__cta">Open →</span>
     </a>
     <a class="media-hub-card panel" href="{{ '/media/album/' | relative_url }}">
       {% include section-label.html num="02" title="album" badge="MEDIA" %}
-      <h2>the long-form signal</h2>
-      <p>Dark Heart Labs — ambient long-form signal beneath the essays.</p>
-      <span class="media-hub-card__cta">enter →</span>
+      <h2>album</h2>
+      <p>Dark Heart Labs — ambient album on Spotify.</p>
+      <span class="media-hub-card__cta">Open →</span>
     </a>
     <a class="media-hub-card panel" href="{{ '/media/gallery/' | relative_url }}">
       {% include section-label.html num="03" title="gallery" badge="MEDIA" %}
-      <h2>visual sets</h2>
+      <h2>gallery</h2>
       <p>
         {% if gallery_sets.size > 0 %}
-        {{ gallery_sets.size }} albums — photo sets, shelf studies, b-roll.
+        {{ gallery_sets.size }} albums — photo sets and process shots.
         {% else %}
-        Photo albums by set — shelf studies and visual signal.
+        Photo albums by set.
         {% endif %}
       </p>
-      <span class="media-hub-card__cta">enter →</span>
+      <span class="media-hub-card__cta">Open →</span>
     </a>
     <a class="media-hub-card panel" href="{{ '/media/video/' | relative_url }}">
       {% include section-label.html num="04" title="video" badge="MEDIA" %}
-      <h2>moving image</h2>
+      <h2>video</h2>
       <p>Inside the Lab — tools, infrastructure, and long-form builds from @darkheartlabs.</p>
-      <span class="media-hub-card__cta">enter →</span>
+      <span class="media-hub-card__cta">Open →</span>
+    </a>
+    <a class="media-hub-card panel" href="{{ '/card-search/' | relative_url }}">
+      {% include section-label.html num="05" title="cards" badge="MEDIA" %}
+      <h2>card search</h2>
+      <p>Magic: The Gathering. Full Scryfall syntax.</p>
+      <span class="media-hub-card__cta">Open →</span>
     </a>
   </div>
 
   {% if youtube.featured_playlists.size > 0 %}
   <section class="media-playlists">
-    {% include section-label.html num="05" title="playlists" badge="MEDIA" %}
+    {% include section-label.html num="06" title="playlists" badge="MEDIA" %}
     <p class="media-playlists__lede">
       Highest-performing sets from
       <a href="{{ youtube.playlists_url }}" target="_blank" rel="me noreferrer">@darkheartlabs/playlists ↗</a>
@@ -93,7 +98,7 @@ permalink: /media/
   {% endif %}
 
   <section class="media-embed">
-    {% include section-label.html num="06" title="now playing" badge="MEDIA" %}
+    {% include section-label.html num="07" title="now playing" badge="MEDIA" %}
     <div class="spotify-embeds">
       <div class="spotify-embed panel">
         <p class="spotify-embed__label">podcast show</p>
@@ -120,7 +125,7 @@ permalink: /media/
           allowfullscreen=""
           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
           loading="lazy"
-          title="Dark Heart Labs — long-form signal on Spotify"
+          title="Dark Heart Labs album on Spotify"
         ></iframe>
       </div>
     </div>
@@ -129,7 +134,7 @@ permalink: /media/
   {% assign linked_channels = channels | where_exp: "c", "c.url != empty" %}
   {% if linked_channels.size > 0 %}
   <section class="media-channels">
-    {% include section-label.html num="07" title="networks" badge="MEDIA" %}
+    {% include section-label.html num="08" title="networks" badge="MEDIA" %}
     <div class="media-channels__grid">
       {% for ch in linked_channels %}
       <a class="media-channel panel" href="{{ ch.url }}" target="_blank" rel="me noreferrer">

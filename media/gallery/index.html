@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "gallery — visual sets"
+title: "gallery"
 eyebrow: "[media/gallery]"
 permalink: /media/gallery/
 ---
@@ -10,13 +10,12 @@ permalink: /media/gallery/
 
 <div class="container gallery-index">
   <header class="media-sub-header signal-header">
-    <a class="essay-back" href="{{ '/media/' | relative_url }}">← /media</a>
+    <a class="essay-back" href="{{ '/media/' | relative_url }}">← Media</a>
     {% include signal-badge.html code="GALLERY" %}
     <p class="page-eyebrow">[gallery]</p>
-    <h1 class="page-title">visual sets</h1>
+    <h1 class="page-title">gallery</h1>
     <p class="media-sub-lede">
-      Photo albums organized by set — shelf studies, travel, process, studio light.
-      Sets are grouped by theme (AI-assisted curation from incoming drops).
+      Photo albums by set — process, travel, studio.
     </p>
   </header>
 
@@ -40,20 +39,16 @@ permalink: /media/gallery/
   </div>
   {% else %}
   <section class="gallery-empty panel">
-    <p class="gallery-empty__signal">[ awaiting first drop ]</p>
+    <p class="gallery-empty__signal">No albums yet</p>
     <p>
-      The darkroom is wired. Photo sets will land here as albums once source files are ready.
-      Each set gets a cover, captions, and a theme tag for filtering.
-    </p>
-    <p class="gallery-empty__hint">
-      Pipeline: drop images → <code>scripts/gallery/inventory.mjs</code> →
-      <code>organize-manifest.mjs</code> (AI set grouping) → publish.
+      Photo sets will appear here once albums are published.
+      Each set gets a cover, captions, and a theme tag.
     </p>
   </section>
   {% endif %}
 
   <section class="gallery-channels">
-    <h2 class="media-sub-section">&gt;_ follow the visual signal</h2>
+    <h2 class="media-sub-section">Follow</h2>
     <div class="media-channels__grid">
       {% for ch in channels %}
       <div class="media-channel panel{% if ch.url == empty %} media-channel--pending{% endif %}">

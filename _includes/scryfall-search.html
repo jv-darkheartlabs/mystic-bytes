@@ -1,0 +1,43 @@
+<section class="home-scryfall" aria-labelledby="card-search-heading">
+  <h2 id="card-search-heading" class="sr-only">Card search</h2>
+  <form id="scryfall-search-form" class="scryfall-search panel" role="search" action="#" method="get">
+    <label class="scryfall-search__label" for="scryfall-search-input">Query</label>
+    <div class="scryfall-search__row">
+      <input
+        type="search"
+        id="scryfall-search-input"
+        class="scryfall-search__input"
+        name="q"
+        placeholder="c:r t:creature mv&lt;=3"
+        autocomplete="off"
+        spellcheck="false"
+        maxlength="1000"
+        enterkeyhint="search"
+      >
+      <button type="submit" class="scryfall-search__submit btn-outline">Search</button>
+    </div>
+    <p class="scryfall-search__hint">
+      Full Scryfall syntax —
+      <a href="https://scryfall.com/docs/syntax" target="_blank" rel="noreferrer">syntax guide ↗</a>
+    </p>
+  </form>
+
+  <p id="scryfall-search-status" class="scryfall-search__status" role="status" aria-live="polite"></p>
+
+  <div id="scryfall-results-grid" class="scryfall-grid" aria-live="polite"></div>
+
+  <nav id="scryfall-pagination" class="scryfall-pagination" aria-label="Search results pages" hidden>
+    <button type="button" class="scryfall-pagination__btn btn-outline" data-page="prev" disabled>Previous</button>
+    <span id="scryfall-pagination-label" class="scryfall-pagination__label"></span>
+    <button type="button" class="scryfall-pagination__btn btn-outline" data-page="next" disabled>Next</button>
+  </nav>
+
+  <p class="scryfall-attribution">
+    Card search powered by
+    <a href="https://scryfall.com/" target="_blank" rel="noreferrer">Scryfall ↗</a>.
+    Magic: The Gathering is a trademark of Wizards of the Coast.
+  </p>
+</section>
+
+{% assign asset_v = site.github.build_revision | default: site.asset_version | default: site.time | date: '%s' %}
+<script src="{{ '/assets/js/scryfall-search.js' | relative_url }}?v={{ asset_v }}" defer></script>

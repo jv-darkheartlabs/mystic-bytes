@@ -7,7 +7,7 @@ layout: default
 {% assign lane_label = "reviews" %}
 {% if cat.lane == "romance" %}
   {% assign lane_path = "/media/written/reviews/romance/" %}
-  {% assign lane_label = "orchid room" %}
+  {% assign lane_label = "dark romance" %}
 {% elsif cat.lane == "canon" %}
   {% assign lane_path = "/media/written/reviews/canon/" %}
   {% assign lane_label = "canon" %}
@@ -24,7 +24,7 @@ layout: default
     <a class="essay-back" href="{{ lane_path | relative_url }}">← {{ lane_label }}</a>
 
     <div class="essay-meta">
-      <span class="essay-signal">review_№_{{ page.number }}</span>
+      <span class="essay-signal">Review {{ page.number }}</span>
       {% if page.date %}
       <span class="essay-date">published {{ page.date | date: "%b %-d, %Y" }}</span>
       {% endif %}
@@ -92,7 +92,7 @@ layout: default
     {% endif %}
 
     <footer class="essay-closing">
-      <span>CLOSING TRANSMISSION // REVIEW №_{{ page.number }}</span>
+      <span>Review {{ page.number }}</span>
       <span>— JV · Dark Heart Labs.</span>
     </footer>
   </div>

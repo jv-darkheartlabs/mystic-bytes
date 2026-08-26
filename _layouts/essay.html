@@ -13,17 +13,17 @@ layout: default
       {% include signal-badge.html code=signal_code %}
       <div class="essay-meta">
         {% if page.number %}
-        <span class="essay-signal">signal_№_{{ page.number }}</span>
+        <span class="essay-signal">No. {{ page.number }}</span>
         {% endif %}
         {% if page.date %}
         <span class="essay-date">{{ page.date | date: "%b %-d, %Y" }}</span>
         {% endif %}
         {% if page.locked %}
-        <span class="essay-badge essay-badge--locked">sealed</span>
+        <span class="essay-badge essay-badge--locked">locked</span>
         {% elsif page.type == 'pillar' %}
         <span class="essay-badge essay-badge--pillar">pillar essay</span>
         {% elsif page.type == 'micro' %}
-        <span class="essay-badge essay-badge--micro">micro signal</span>
+        <span class="essay-badge essay-badge--micro">short essay</span>
         {% elsif page.type %}
         <span class="essay-badge essay-badge--type">{{ page.type }}</span>
         {% else %}
@@ -49,8 +49,8 @@ layout: default
 
     {% if page.locked %}
     <div class="essay-locked panel">
-      <p class="essay-trace-label">[ sealed ]</p>
-      <p>This essay is reserved for patrons. It appears in the archive index; the body stays sealed until access is granted.</p>
+      <p class="essay-trace-label">[ locked ]</p>
+      <p>This essay is reserved for patrons. It appears in the archive index; the body stays unpublished until access is granted.</p>
     </div>
     {% else %}
     {% assign trace_label = page.trace_label | default: 'essay' %}

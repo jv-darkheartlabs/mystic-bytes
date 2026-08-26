@@ -20,17 +20,17 @@ layout: default
 
 <article class="film essay"{% if cat %} data-family="{{ cat.family }}"{% endif %}>
   <div class="essay-inner">
-    <a class="essay-back" href="{{ '/media/written/literary/projection-room/' | relative_url }}">← projection room</a>
+    <a class="essay-back" href="{{ '/media/written/literary/projection-room/' | relative_url }}">← Adaptation reviews</a>
 
     <div class="essay-meta">
-      <span class="essay-signal">screening_№_{{ page.number }}</span>
+      <span class="essay-signal">Screening {{ page.number }}</span>
       {% if page.date %}
       <span class="essay-date">published {{ page.date | date: "%b %-d, %Y" }}</span>
       {% endif %}
       {% if page.date_watched %}
       <span class="essay-date essay-date--read">watched {{ page.date_watched | date: "%b %-d, %Y" }}</span>
       {% endif %}
-      <span class="essay-badge essay-badge--type">projection room</span>
+      <span class="essay-badge essay-badge--type">adaptation review</span>
     </div>
 
     <div class="film-hero reading-hero">
@@ -175,8 +175,8 @@ layout: default
     {% endif %}
 
     <footer class="essay-closing">
-      <span>CLOSING TRANSMISSION // SCREENING №_{{ page.number }}</span>
-      <span>— JV · Dark Heart Labs · projection room.</span>
+      <span>Screening {{ page.number }}</span>
+      <span>— JV · Dark Heart Labs · adaptation reviews.</span>
     </footer>
   </div>
 </article>

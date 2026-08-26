@@ -1025,6 +1025,17 @@ section:has(> .section-label):not(.mission-timeline) {
   margin-top: 4rem;
 }
 
+.home-ctas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.home-more {
+  margin-top: 1rem;
+}
+
 .home-scryfall {
   margin-top: var(--space-section-y);
 }
@@ -1531,7 +1542,8 @@ section:has(> .section-label):not(.mission-timeline) {
 // Professional surfaces — silver chrome labels, signal grid retained
 .about-page,
 .cv-page,
-.services-page {
+.services-page,
+.home-page {
   .page-title {
     text-shadow: none;
   }

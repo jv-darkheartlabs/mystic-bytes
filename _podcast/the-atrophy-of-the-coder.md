@@ -55,7 +55,7 @@ chapters:
     label: Tools that think alongside us — or replace the need to think
   -
     time: "6:53"
-    label: "Closing: share this transmission"
+    label: "Closing: share this episode"
 key_ideas:
   - "Builder → inspector: when you stop writing code, the calluses fade."
   - "Acceleration without verification capacity is debt, not speed."

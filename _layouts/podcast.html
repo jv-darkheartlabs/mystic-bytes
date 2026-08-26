@@ -3,10 +3,10 @@ layout: default
 ---
 <article class="podcast-episode">
   <div class="essay-inner">
-    <a class="essay-back" href="{{ '/media/podcast/' | relative_url }}">← /media/podcast</a>
+    <a class="essay-back" href="{{ '/media/podcast/' | relative_url }}">← Podcast</a>
 
     <div class="essay-meta">
-      <span class="essay-signal">ep_{{ page.number }}</span>
+      <span class="essay-signal">{{ page.number }}</span>
       {% if page.date %}
       <span class="essay-date">{{ page.date | date: "%b %-d, %Y" }}</span>
       {% endif %}
@@ -35,7 +35,7 @@ layout: default
     {% endfor %}
     {% if related %}
     <p class="podcast-related">
-      related transmission:
+      Related essay:
       <a href="{{ related.url | relative_url }}">№_{{ related.number }} — {{ related.title }}</a>
     </p>
     {% endif %}
@@ -43,7 +43,7 @@ layout: default
 
     {% if page.chapters %}
     <section class="podcast-chapters panel">
-      <h2 class="cv-section__title">&gt;_ chapters</h2>
+      <h2 class="cv-section__title">Chapters</h2>
       <ol class="podcast-chapter-list">
         {% for ch in page.chapters %}
         <li><span class="podcast-chapter__time">{{ ch.time }}</span> {{ ch.label }}</li>
@@ -54,7 +54,7 @@ layout: default
 
     {% if page.key_ideas %}
     <section class="podcast-ideas panel">
-      <h2 class="cv-section__title">&gt;_ key ideas</h2>
+      <h2 class="cv-section__title">Key ideas</h2>
       <ul>
         {% for idea in page.key_ideas %}
         <li>{{ idea }}</li>
@@ -65,7 +65,7 @@ layout: default
 
     {% if page.show_notes_links %}
     <section class="podcast-notes panel">
-      <h2 class="cv-section__title">&gt;_ show notes</h2>
+      <h2 class="cv-section__title">Show notes</h2>
       <ul class="podcast-notes-list">
         {% for link in page.show_notes_links %}
         <li><a href="{{ link.url }}" target="_blank" rel="noreferrer">{{ link.label }} ↗</a></li>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "podcast — spoken transmissions"
+title: "podcast"
 eyebrow: "[media/podcast]"
 permalink: /media/podcast/
 ---
@@ -10,13 +10,13 @@ permalink: /media/podcast/
 
 <div class="container podcast-index">
   <header class="podcast-header signal-header">
-    <a class="essay-back" href="{{ '/media/' | relative_url }}">← /media</a>
+    <a class="essay-back" href="{{ '/media/' | relative_url }}">← Media</a>
     {% include signal-badge.html code="AUDIO" %}
     <p class="page-eyebrow">[podcast]</p>
-    <h1 class="page-title">spoken transmissions</h1>
+    <h1 class="page-title">podcast</h1>
     <p class="podcast-lede">
-      Transmissions — sharp ~10-minute essays for builders who think in systems.
-      One idea, fully argued. {{ episodes.size }} episodes on the shelf; the Spotify player holds the live catalog.
+      Short essays for people who think in systems. One idea, fully argued.
+      {{ episodes.size }} episodes on the site; the Spotify player holds the live catalog.
     </p>
     <a class="btn-outline" href="https://open.spotify.com/show/{{ spotify.show_id }}" target="_blank" rel="noreferrer">listen on spotify ↗</a>
   </header>
@@ -39,7 +39,7 @@ permalink: /media/podcast/
     {% for ep in episodes %}
     <li>
       <a class="podcast-list__item panel" href="{{ ep.url | relative_url }}">
-        <span class="podcast-list__num">ep_{{ ep.number }}</span>
+        <span class="podcast-list__num">{{ ep.number }}</span>
         <div>
           <h2>{{ ep.title }}</h2>
           <p>{{ ep.dek }}</p>
