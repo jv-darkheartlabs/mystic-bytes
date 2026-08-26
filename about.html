@@ -48,8 +48,69 @@ redirect_from:
     </div>
   </section>
 
+  <section class="about-collab" aria-labelledby="about-collab-heading">
+    {% include section-label.html num="01" title="collaborating" badge="ABOUT" %}
+    <h2 id="about-collab-heading" class="sr-only">Collaborating</h2>
+    {% assign collab = about.collaborating %}
+    <p class="about-collab__lede">{{ collab.lede }}</p>
+    <div class="manual-grid">
+      <article class="manual-card panel">
+        <h3>{{ collab.do_title }}</h3>
+        <ul class="about-collab__list">
+          {% for item in collab.do %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </article>
+      <article class="manual-card panel">
+        <h3>{{ collab.avoid_title }}</h3>
+        <ul class="about-collab__list">
+          {% for item in collab.avoid %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </article>
+    </div>
+    <div class="about-collab__tensions">
+      {% for tension in collab.tensions %}
+      <article class="tenet-card panel">
+        <h3 class="about-collab__kicker">{{ tension.title }}</h3>
+        <p class="tenet-card__line">{{ tension.text }}</p>
+      </article>
+      {% endfor %}
+    </div>
+    <div class="manual-grid">
+      <article class="manual-card panel">
+        <h3>{{ collab.pressure.title }}</h3>
+        <dl>
+          <div>
+            <dt>What you'll see</dt>
+            <dd>{{ collab.pressure.see }}</dd>
+          </div>
+          <div>
+            <dt>What helps</dt>
+            <dd>{{ collab.pressure.help }}</dd>
+          </div>
+        </dl>
+      </article>
+      <article class="manual-card panel">
+        <h3>{{ collab.feedback.title }}</h3>
+        <dl>
+          <div>
+            <dt>Giving me feedback</dt>
+            <dd>{{ collab.feedback.receiving }}</dd>
+          </div>
+          <div>
+            <dt>How I give it</dt>
+            <dd>{{ collab.feedback.giving }}</dd>
+          </div>
+        </dl>
+      </article>
+    </div>
+  </section>
+
   <section class="about-manual">
-    {% include section-label.html num="01" title="user manual" badge="ABOUT" %}
+    {% include section-label.html num="02" title="user manual" badge="ABOUT" %}
     <div class="manual-grid">
       {% assign manual = about.manual %}
       {% assign manual_keys = "warn,ban,help,love" | split: "," %}
@@ -70,6 +131,26 @@ redirect_from:
     </div>
   </section>
 
+  <section class="about-profile" aria-labelledby="about-profile-heading">
+    {% include section-label.html num="03" title="working map" badge="ABOUT" %}
+    <h2 id="about-profile-heading" class="sr-only">Working map</h2>
+    {% assign profile = about.profile %}
+    <p class="about-collab__lede">{{ profile.lede }}</p>
+    <div class="about-profile__grid">
+      {% for group in profile.groups %}
+      <article class="about-profile-card panel">
+        <p class="about-profile-card__instrument">{{ group.title }}</p>
+        <h3>{{ group.result }}</h3>
+        <ul class="cv-skill-chips">
+          {% for item in group.items %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
   <section class="about-award panel">
     <p class="about-award__label">recognition</p>
     <h2>{{ about.award.title }}</h2>
@@ -81,7 +162,7 @@ redirect_from:
   </section>
 
   <section class="about-availability" aria-labelledby="about-availability-heading">
-    {% include section-label.html num="02" title="availability" badge="ABOUT" %}
+    {% include section-label.html num="04" title="availability" badge="ABOUT" %}
     <h2 id="about-availability-heading" class="sr-only">Availability</h2>
     {% assign aewv = about.availability %}
     <div class="availability panel">
