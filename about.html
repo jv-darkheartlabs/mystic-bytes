@@ -6,6 +6,7 @@ permalink: /about/
 redirect_from:
   - /mission-control/
   - /mission/
+  - /collaboration/
 ---
 
 {% assign about = site.data.about %}
@@ -79,15 +80,55 @@ redirect_from:
     </blockquote>
   </section>
 
-  <section class="about-relocation panel">
-    <h2>&gt;_ relocation status</h2>
-    <p>{{ about.relocation }}</p>
-    <p class="about-quote">{{ about.quote }}</p>
-    {% if site.data.site.social.discord %}
-    <p class="about-discord">
-      <a href="{{ site.data.site.social.discord }}" target="_blank" rel="me noreferrer">discord /darkheartlabs ↗</a>
-    </p>
-    {% endif %}
-    <p class="about-sign">{{ site.data.site.sign_off }}</p>
+  <section class="about-availability" aria-labelledby="about-availability-heading">
+    {% include section-label.html num="02" title="availability" badge="ABOUT" %}
+    <h2 id="about-availability-heading" class="sr-only">Availability</h2>
+    {% assign aewv = about.availability %}
+    <div class="availability panel">
+      <div class="availability__head">
+        <h3 class="cv-section__title">{{ aewv.heading }}</h3>
+        <span class="cv-tag">{% if aewv.tag != blank %}{{ aewv.tag }}{% else %}Remote · global{% endif %}</span>
+      </div>
+      <p class="availability__status">{{ aewv.status }}</p>
+      <dl class="availability__details">
+        <div>
+          <dt>Role match</dt>
+          <dd>{{ aewv.role }}</dd>
+        </div>
+        <div>
+          <dt>Relocation</dt>
+          <dd>{{ aewv.relocation }}</dd>
+        </div>
+        <div>
+          <dt>Mobility</dt>
+          <dd>{{ aewv.mobility }}</dd>
+        </div>
+      </dl>
+      <details class="availability__evidence">
+        <summary>Employer due-diligence pack</summary>
+        <ul>
+          {% for item in aewv.evidence %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+        <p>{{ aewv.documentation_note }}</p>
+      </details>
+      <p class="availability__crosslinks">
+        <a href="{{ '/cv/' | relative_url }}">CV — skills inventory · PDFs →</a>
+        <a href="{{ '/projects/' | relative_url }}">Projects — selected work →</a>
+      </p>
+      <a class="availability__official" href="{{ aewv.official_url }}" target="_blank" rel="noreferrer">
+        Official Immigration New Zealand AEWV process ↗
+      </a>
+    </div>
+    <div class="about-relocation panel">
+      <p class="about-quote">{{ about.quote }}</p>
+      {% if site.data.site.social.discord %}
+      <p class="about-discord">
+        <a href="{{ site.data.site.social.discord }}" target="_blank" rel="me noreferrer">discord /darkheartlabs ↗</a>
+      </p>
+      {% endif %}
+      <p class="about-sign">{{ site.data.site.sign_off }}</p>
+    </div>
   </section>
 </div>

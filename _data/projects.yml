@@ -1,3 +1,25 @@
+selected_lede: "Scan list for a hiring screen. Featured write-ups below go deeper."
+selected:
+  -
+    title: mystic-bytes / darkheartlabs.technology
+    text: "Jekyll / GitHub Pages site: HTML/CSS, writing section, CV, search, CI link checks. Public writing at darkheartlabs.technology/writing."
+    url: "https://github.com/jv-darkheartlabs/mystic-bytes"
+  -
+    title: Ask
+    text: "Interactive HTML/CSS/JavaScript microsites: multi-step wizard, reduced-motion path, mobile viewport, client build guide."
+    url: "https://github.com/jv-darkheartlabs/ask"
+  -
+    title: accessibility-rails-components
+    text: "WCAG 2.1 AA Rails ViewComponents with usage docs and keyboard-path how-tos. Live demo on Render."
+    url: "https://github.com/jv-darkheartlabs/accessibility-rails-components"
+  -
+    title: NeuroShell
+    text: "User docs and README for an ADHD-friendly macOS tool. Human-Focused AI Award, Tetrate Buildathon (selected from 170+ applicants)."
+    url: "https://github.com/jv-darkheartlabs/NeuroShell"
+  -
+    title: focus-guard
+    text: "Operator-facing README and policy notes for an Envoy focus-mode module."
+    url: "https://github.com/jv-darkheartlabs/focus-guard"
 featured:
   -
     name: NeuroShell
