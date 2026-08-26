@@ -1,50 +1,93 @@
-languages:
-  - Markdown
-  - YAML
-  - Liquid
-  - Bash/Shell
-
+lede: "Union of tools and practices across writing, frontend, systems, and remote ops — not a claim that every title is the primary occupation."
 groups:
   -
-    title: Technical writing
-    software:
+    title: Writing
+    items:
       - How-to articles
-      - Knowledge base
       - READMEs
+      - Knowledge base
+      - docs-as-code
+      - Markdown
+      - CMS how-tos
       - Incident notes
+      - Runbooks
       - Customer-facing explanations
       - Plain language
   -
-    title: Front end
-    software:
+    title: Languages
+    items:
+      - Markdown
+      - YAML
+      - Liquid
+      - Bash/Shell
       - HTML
       - CSS
       - JavaScript
-      - Jekyll
-      - WordPress
-      - Drupal
+      - TypeScript
+      - Python
+      - Ruby
+      - Go
+      - Rust
+      - Swift
+  -
+    title: Front end and accessibility
+    items:
+      - HTML
+      - CSS
+      - JavaScript
+      - TypeScript
+      - React
+      - SwiftUI
       - WCAG 2.1
       - Keyboard paths
       - Reduced motion
   -
-    title: Remote technical support
-    software:
-      - Hosting
-      - Registrar DNS
-      - Remote break-fix
+    title: Platforms and data
+    items:
+      - Jekyll
+      - WordPress
+      - Drupal
+      - Rails
+      - ViewComponent
+      - Next.js
+      - TanStack Start
+      - Express
+      - PostgreSQL
+      - Drizzle
+  -
+    title: Systems and reliability
+    items:
+      - Linux
+      - Fedora
+      - Envoy
+      - DNS
       - SPF / DKIM / DMARC
+      - Mail authentication
+  -
+    title: Operations and remote support
+    items:
+      - Hosting
+      - Registrar operations
+      - Remote break-fix
+      - Ansible
       - Docker
-    operating_systems:
       - macOS
       - Windows
-
-collaboration:
-  title: Tools
-  items:
-    - Git
-    - GitHub
-    - Slack
-    - Discord
-    - Linear
-    - Jira
-    - Confluence
+  -
+    title: Delivery and quality
+    items:
+      - Git
+      - GitHub
+      - GitHub Actions
+      - CI
+      - Automated tests
+      - Terraform
+      - Kubernetes manifests
+  -
+    title: Collaboration
+    items:
+      - Slack
+      - Discord
+      - Linear
+      - Jira
+      - Confluence

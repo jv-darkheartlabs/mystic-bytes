@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "cv — Technical Writer · Accessible Frontend · Remote Technical Support"
+title: "cv — skills inventory · role-targeted PDFs"
+description: "Complete skills inventory and five role-targeted resume PDFs. Technical Writer is the primary occupation."
 eyebrow: "[cv]"
 permalink: /cv/
 ---
@@ -9,21 +10,17 @@ permalink: /cv/
 {% assign skills = site.data.skills %}
 
 <div class="container cv-page">
-  <div class="cv-web">
   <header class="cv-header signal-header">
     {% include signal-badge.html code="CV" %}
     <p class="page-eyebrow">[cv]</p>
-    <div class="cv-header__top">
-      <div class="cv-header__identity">
-        <h1 class="page-title">{{ cv.name }}</h1>
-        {% if cv.headline != blank %}
-        <p class="cv-headline">{{ cv.headline }}</p>
-        {% endif %}
-        {% if cv.occupation_line != blank %}
-        <p class="cv-occupation">{{ cv.occupation_line }}</p>
-        {% endif %}
-      </div>
-      <button type="button" class="btn-outline cv-print-btn">Save as PDF</button>
+    <div class="cv-header__identity">
+      <h1 class="page-title">{{ cv.name }}</h1>
+      {% if cv.headline != blank %}
+      <p class="cv-headline">{{ cv.headline }}</p>
+      {% endif %}
+      {% if cv.occupation_line != blank %}
+      <p class="cv-occupation">{{ cv.occupation_line }}</p>
+      {% endif %}
     </div>
     <div class="cv-contact">
       {% if cv.phone != blank %}
@@ -37,53 +34,107 @@ permalink: /cv/
       <span>{{ cv.location_line }}</span>
     </div>
     <section class="cv-summary" aria-labelledby="cv-summary-heading">
-      <h2 id="cv-summary-heading" class="cv-section__title">Professional Summary</h2>
+      <h2 id="cv-summary-heading" class="cv-section__title">How to read this page</h2>
       <p class="cv-intro">{{ cv.intro }}</p>
       {% if cv.remote_practice != blank %}
       <p class="cv-intro">{{ cv.remote_practice }}</p>
       {% endif %}
     </section>
-    <section class="cv-aewv panel" aria-labelledby="cv-aewv-heading">
-      <div class="cv-aewv__head">
-        <h2 id="cv-aewv-heading" class="cv-section__title">{{ cv.aewv.heading }}</h2>
-        <span class="cv-tag">{% if cv.aewv.tag != blank %}{{ cv.aewv.tag }}{% else %}Remote · global{% endif %}</span>
-      </div>
-      <p class="cv-aewv__status">{{ cv.aewv.status }}</p>
-      <dl class="cv-aewv__details">
-        <div>
-          <dt>Role match</dt>
-          <dd>{{ cv.aewv.role }}</dd>
+  </header>
+
+  {% if cv.resumes.size > 0 %}
+  <section class="cv-resumes" aria-labelledby="cv-resumes-heading">
+    {% include section-label.html num="00" title="role-targeted PDFs" badge="CV" %}
+    <h2 id="cv-resumes-heading" class="sr-only">Role-targeted PDFs</h2>
+    {% if cv.resumes_lede != blank %}
+    <p class="cv-resumes__lede">{{ cv.resumes_lede }}</p>
+    {% endif %}
+    <ul class="cv-resume-grid">
+      {% for resume in cv.resumes %}
+      <li class="cv-resume-card panel{% if resume.primary %} cv-resume-card--primary{% endif %}">
+        <h3>
+          {{ resume.title }}
+          {% if resume.primary %}<span class="cv-tag">Primary</span>{% endif %}
+        </h3>
+        <p>{{ resume.subtitle }}</p>
+        <div class="cv-resume-card__actions">
+          <a class="btn-outline" href="{{ resume.href | relative_url }}" download="{{ resume.filename }}" aria-label="Download {{ resume.title }} PDF">Download PDF</a>
+          <a class="cv-resume-card__open" href="{{ resume.href | relative_url }}" target="_blank" rel="noreferrer" aria-label="Open {{ resume.title }} PDF">Open ↗</a>
         </div>
-        <div>
-          <dt>Relocation</dt>
-          <dd>{{ cv.aewv.relocation }}</dd>
-        </div>
-        <div>
-          <dt>Mobility</dt>
-          <dd>{{ cv.aewv.mobility }}</dd>
-        </div>
-      </dl>
-      {% if cv.aewv.print_summary != blank %}
-      <p class="cv-aewv__print-summary">{{ cv.aewv.print_summary }}</p>
-      {% endif %}
-      <details class="cv-aewv__evidence">
-        <summary>Employer due-diligence pack</summary>
-        <ul>
-          {% for item in cv.aewv.evidence %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  <section class="cv-inventory" aria-labelledby="cv-skills-heading">
+    {% include section-label.html num="01" title="complete skills inventory" badge="CV" %}
+    <h2 id="cv-skills-heading" class="sr-only">Complete skills inventory</h2>
+    {% if skills.lede != blank %}
+    <p class="cv-inventory__lede">{{ skills.lede }}</p>
+    {% endif %}
+    <div class="cv-inventory__grid">
+      {% for group in skills.groups %}
+      <article class="cv-skill-group panel">
+        <h3 class="cv-skill-group__heading">{{ group.title }}</h3>
+        <ul class="cv-skill-chips">
+          {% for item in group.items %}
           <li>{{ item }}</li>
           {% endfor %}
         </ul>
-        <p>{{ cv.aewv.documentation_note }}</p>
-      </details>
-      <a class="cv-aewv__official" href="{{ cv.aewv.official_url }}" target="_blank" rel="noreferrer">
-        Official Immigration New Zealand AEWV process ↗
-      </a>
-    </section>
-  </header>
+      </article>
+      {% endfor %}
+    </div>
+    {% if cv.certifications.size > 0 %}
+    <div class="cv-certs panel">
+      <h3 class="cv-skill-group__heading">Professional development</h3>
+      <ul class="cv-skill-list">
+        {% for item in cv.certifications %}
+        <li>{{ item.name }} — {{ item.status }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </section>
+
+  <section class="cv-aewv panel" aria-labelledby="cv-aewv-heading">
+    <div class="cv-aewv__head">
+      <h2 id="cv-aewv-heading" class="cv-section__title">{{ cv.aewv.heading }}</h2>
+      <span class="cv-tag">{% if cv.aewv.tag != blank %}{{ cv.aewv.tag }}{% else %}Remote · global{% endif %}</span>
+    </div>
+    <p class="cv-aewv__status">{{ cv.aewv.status }}</p>
+    <dl class="cv-aewv__details">
+      <div>
+        <dt>Role match</dt>
+        <dd>{{ cv.aewv.role }}</dd>
+      </div>
+      <div>
+        <dt>Relocation</dt>
+        <dd>{{ cv.aewv.relocation }}</dd>
+      </div>
+      <div>
+        <dt>Mobility</dt>
+        <dd>{{ cv.aewv.mobility }}</dd>
+      </div>
+    </dl>
+    <details class="cv-aewv__evidence">
+      <summary>Employer due-diligence pack</summary>
+      <ul>
+        {% for item in cv.aewv.evidence %}
+        <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+      <p>{{ cv.aewv.documentation_note }}</p>
+    </details>
+    <a class="cv-aewv__official" href="{{ cv.aewv.official_url }}" target="_blank" rel="noreferrer">
+      Official Immigration New Zealand AEWV process ↗
+    </a>
+  </section>
 
   {% if cv.selected_documentation.size > 0 %}
   <section class="cv-selected-docs" aria-labelledby="cv-docs-heading">
-    <h2 id="cv-docs-heading" class="cv-section__title">Selected work</h2>
+    {% include section-label.html num="02" title="selected work" badge="CV" %}
+    <h2 id="cv-docs-heading" class="sr-only">Selected work</h2>
     <ul class="cv-selected-docs__list">
       {% for item in cv.selected_documentation %}
       <li class="panel">
@@ -95,175 +146,13 @@ permalink: /cv/
   </section>
   {% endif %}
 
-  <div class="cv-grid">
-    <div class="cv-main">
-      <section class="cv-section" aria-labelledby="cv-experience-heading">
-        <h2 id="cv-experience-heading" class="cv-section__title">Experience</h2>
-        {% for job in cv.experience %}
-        <article class="cv-job panel">
-          <div class="cv-job__head">
-            <div>
-              <h3>{{ job.org }}</h3>
-              <p class="cv-job__role">{{ job.role }}</p>
-            </div>
-            {% if job.location != blank or job.dates != blank %}
-            <div class="cv-job__meta">
-              {% if job.dates != blank %}<span>{{ job.dates }}</span>{% endif %}
-              {% if job.location != blank %}<span>{{ job.location }}</span>{% endif %}
-            </div>
-            {% endif %}
-          </div>
-          <p class="cv-job__summary">{{ job.summary }}</p>
-          <ul class="cv-job__duties">
-            {% for duty in job.duties %}
-            <li>{% if duty.text %}{{ duty.text }}{% else %}{{ duty }}{% endif %}</li>
-            {% endfor %}
-          </ul>
-        </article>
-        {% endfor %}
-      </section>
+  <section class="cv-section panel cv-contact-aside" aria-labelledby="cv-contact-heading">
+    <h2 id="cv-contact-heading" class="cv-section__title">Contact</h2>
+    <p class="cv-sidebar__text">Async-friendly · remote-first · worldwide. Technical writer, accessible frontend, and remote technical support. AEWV sponsorship in New Zealand is welcome, not required.</p>
+    <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact form →</a>
+    <div class="cv-social">
+      <a href="{{ site.data.site.social.github }}" target="_blank" rel="noreferrer">github ↗</a>
+      <a href="{{ site.data.site.social.linkedin }}" target="_blank" rel="noreferrer">linkedin ↗</a>
     </div>
-
-    <aside class="cv-sidebar">
-      <section class="cv-section panel cv-skills-web" aria-labelledby="cv-skills-heading">
-        <h2 id="cv-skills-heading" class="cv-section__title">Skills</h2>
-        {% if skills.languages.size > 0 %}
-        <div class="cv-skill-group">
-          <h3 class="cv-skill-group__heading">Languages</h3>
-          <ul class="cv-skill-list">
-            {% for item in skills.languages %}
-            <li>{{ item }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        {% endif %}
-        {% for group in skills.groups %}
-        <div class="cv-skill-group">
-          <h3 class="cv-skill-group__heading">{% if group.code != blank %}{{ group.code }} {% endif %}{{ group.title }}</h3>
-          {% if group.software.size > 0 %}
-          <div class="cv-skill-subsection">
-            <p class="cv-skill-subsection__label">Software</p>
-            <ul class="cv-skill-list">
-              {% for item in group.software %}
-              <li>{{ item }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-          {% endif %}
-          {% if group.accessibility_and_ui.size > 0 %}
-          <div class="cv-skill-subsection">
-            <p class="cv-skill-subsection__label">Accessibility &amp; UI</p>
-            <ul class="cv-skill-list">
-              {% for item in group.accessibility_and_ui %}
-              <li>{{ item }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-          {% endif %}
-          {% if group.quality.size > 0 %}
-          <div class="cv-skill-subsection">
-            <p class="cv-skill-subsection__label">Quality</p>
-            <ul class="cv-skill-list">
-              {% for item in group.quality %}
-              <li>{{ item }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-          {% endif %}
-          {% if group.operating_systems.size > 0 %}
-          <div class="cv-skill-subsection">
-            <p class="cv-skill-subsection__label">Operating systems</p>
-            <ul class="cv-skill-list">
-              {% for item in group.operating_systems %}
-              <li>{{ item }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-          {% endif %}
-          {% if group.practices.size > 0 %}
-          <div class="cv-skill-subsection">
-            <p class="cv-skill-subsection__label">Practices</p>
-            <ul class="cv-skill-list">
-              {% for item in group.practices %}
-              <li>{{ item }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-          {% endif %}
-        </div>
-        {% endfor %}
-        {% if skills.collaboration.items.size > 0 %}
-        <div class="cv-skill-group">
-          <h3 class="cv-skill-group__heading">{{ skills.collaboration.title }}</h3>
-          <ul class="cv-skill-list">
-            {% for item in skills.collaboration.items %}
-            <li>{{ item }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        {% endif %}
-      </section>
-
-      {% if cv.certifications.size > 0 %}
-      <section class="cv-section panel cv-certs" aria-labelledby="cv-certs-heading">
-        <h2 id="cv-certs-heading" class="cv-section__title">Professional development</h2>
-        <ul class="cv-skill-list">
-          {% for item in cv.certifications %}
-          <li>{{ item.name }} — {{ item.status }}</li>
-          {% endfor %}
-        </ul>
-      </section>
-      {% endif %}
-
-      <section class="cv-section panel cv-contact-aside no-print" aria-labelledby="cv-contact-heading">
-        <h2 id="cv-contact-heading" class="cv-section__title">Contact</h2>
-        <p class="cv-sidebar__text">Async-friendly · remote-first · worldwide. Technical writer, accessible frontend, and remote technical support. AEWV sponsorship in New Zealand is welcome, not required.</p>
-        <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact form →</a>
-        <div class="cv-social">
-          <a href="{{ site.data.site.social.github }}" target="_blank" rel="noreferrer">github ↗</a>
-          <a href="{{ site.data.site.social.linkedin }}" target="_blank" rel="noreferrer">linkedin ↗</a>
-        </div>
-      </section>
-    </aside>
-  </div>
-  </div>
-
-  {% if cv.print_resume %}
-  {% assign pr = cv.print_resume %}
-  <article class="cv-print-onepager" aria-hidden="true">
-    <h1 class="cv-print-onepager__name">{{ pr.name }}</h1>
-    <p class="cv-print-onepager__title">{{ pr.title }}</p>
-    <p class="cv-print-onepager__contact">{{ pr.contact_line }}</p>
-
-    <h2 class="cv-print-onepager__section">Professional Experience</h2>
-    {% for job in pr.jobs %}
-    <section class="cv-print-onepager__job">
-      <div class="cv-print-onepager__job-head">
-        <span class="cv-print-onepager__org">{{ job.org }}</span>
-        <span class="cv-print-onepager__dates">{{ job.dates }}</span>
-      </div>
-      <p class="cv-print-onepager__role">{{ job.role }}</p>
-      <ul class="cv-print-onepager__bullets">
-        {% for bullet in job.bullets %}
-        <li>{{ bullet }}</li>
-        {% endfor %}
-      </ul>
-    </section>
-    {% endfor %}
-
-    <h2 class="cv-print-onepager__section">Selected Work</h2>
-    <ul class="cv-print-onepager__bullets">
-      {% for item in pr.selected_work %}
-      <li>{{ item }}</li>
-      {% endfor %}
-    </ul>
-
-    <h2 class="cv-print-onepager__section">Skills</h2>
-    <p class="cv-print-onepager__skills">{{ pr.skills }}</p>
-
-    <h2 class="cv-print-onepager__section">Professional Development</h2>
-    <p class="cv-print-onepager__role">{{ pr.development }}</p>
-  </article>
-  {% endif %}
+  </section>
 </div>
-<script src="{{ '/assets/js/cv-print.js' | relative_url }}" defer></script>
