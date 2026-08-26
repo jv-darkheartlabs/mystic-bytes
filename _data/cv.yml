@@ -33,21 +33,6 @@ resumes:
     subtitle: Remote Linux, identity, break-fix
     filename: Jennifer_Picado_System_Administrator.pdf
     href: /assets/cv/Jennifer_Picado_System_Administrator.pdf
-aewv:
-  heading: Availability
-  tag: Remote · global
-  status: "Seeking an async remote IC role worldwide in technical writing, accessible frontend, or IT support. AEWV-accredited employers in New Zealand are welcome; they are not required."
-  role: "Technical Writer · Accessible Frontend · Remote Technical Support"
-  relocation: "On the ground in Auckland Dec 2026–Feb 2027 for in-person meetings · full NZ relocation in 2027 if an offer funds it"
-  mobility: "NZ eTA approved · Australian business visitor visa approved · overlapping hours with US, Oceania, and EU teams"
-  print_summary: "Formal dated CV, references, and writing samples available on request for employer due diligence and the immigration process."
-  evidence:
-    - Formal dated CV and employment chronology (five role-targeted PDFs on this page)
-    - Selected how-tos, READMEs, and shipped public work
-    - Public writing at darkheartlabs.technology/writing
-    - Identity, qualification, and immigration documents on request
-  documentation_note: "A formal evidence pack is available for employer due diligence and the immigration process."
-  official_url: "https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/"
 primary_code: 212415
 supporting_codes:
   - 261212
@@ -74,27 +59,6 @@ certifications:
   -
     name: RHCSA (EX200)
     status: Studying; exam date to be determined
-selected_documentation:
-  -
-    title: mystic-bytes / darkheartlabs.technology
-    text: "Jekyll / GitHub Pages site: HTML/CSS, writing section, CV, search, CI link checks. Public writing at darkheartlabs.technology/writing."
-    url: "https://github.com/jv-darkheartlabs/mystic-bytes"
-  -
-    title: Ask
-    text: "Interactive HTML/CSS/JavaScript microsites: multi-step wizard, reduced-motion path, mobile viewport, client build guide."
-    url: "https://github.com/jv-darkheartlabs/ask"
-  -
-    title: accessibility-rails-components
-    text: "WCAG 2.1 AA Rails ViewComponents with usage docs and keyboard-path how-tos. Live demo on Render."
-    url: "https://github.com/jv-darkheartlabs/accessibility-rails-components"
-  -
-    title: NeuroShell
-    text: "User docs and README for an ADHD-friendly macOS tool. Human-Focused AI Award, Tetrate Buildathon (selected from 170+ applicants)."
-    url: "https://github.com/jv-darkheartlabs/NeuroShell"
-  -
-    title: focus-guard
-    text: "Operator-facing README and policy notes for an Envoy focus-mode module."
-    url: "https://github.com/jv-darkheartlabs/focus-guard"
 experience:
   -
     org: Independent contractor

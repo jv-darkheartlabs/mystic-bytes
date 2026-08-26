@@ -1949,8 +1949,8 @@ section:has(> .section-label):not(.mission-timeline) {
   margin-top: 2rem;
 }
 
-.cv-aewv {
-  margin-top: 2.5rem;
+.availability {
+  margin-top: 1.25rem;
   max-width: none;
   border-left: 2px solid var(--teal);
 
@@ -2025,12 +2025,15 @@ section:has(> .section-label):not(.mission-timeline) {
     }
   }
 
-  &__print-summary {
-    display: none;
-    margin: 0.75rem 0 0;
-    font-size: 0.8125rem;
-    line-height: 1.5;
-    color: var(--muted-foreground);
+  &__crosslinks {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+    @include font-mono;
+    font-size: 0.75rem;
+
+    a { color: var(--teal); }
   }
 
   &__official {
@@ -2046,11 +2049,30 @@ section:has(> .section-label):not(.mission-timeline) {
   }
 }
 
-.cv-selected-docs {
+.cv-crosslinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 1.5rem;
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  @include font-mono;
+  font-size: 0.75rem;
+
+  a {
+    color: var(--muted-foreground);
+
+    &:hover {
+      color: var(--teal);
+    }
+  }
+}
+
+.selected-docs {
   margin-top: 2rem;
 }
 
-.cv-selected-docs__list {
+.selected-docs__list {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -2726,6 +2748,10 @@ section:has(> .section-label):not(.mission-timeline) {
   }
 }
 
+.about-availability {
+  margin-top: 2.5rem;
+}
+
 .about-relocation {
   @include panel;
   margin-top: 1.5rem;
@@ -2736,6 +2762,10 @@ section:has(> .section-label):not(.mission-timeline) {
   margin-top: 1rem;
   font-style: italic;
   color: var(--muted-foreground);
+}
+
+.about-relocation .about-quote {
+  margin-top: 0;
 }
 
 .about-sign {

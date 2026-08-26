@@ -1,5 +1,5 @@
 tagline: the voice behind the signal. not the résumé.
-bio: "I write how-tos a tired first-time user can finish. Incident notes and customer-facing copy when DNS, email, or deploys break. Enough hosting and mail literacy to document the system without waiting on an engineer for every sentence. The credentials live on the CV."
+bio: "I write how-tos a tired first-time user can finish. Incident notes and customer-facing copy when DNS, email, or deploys break. Enough hosting and mail literacy to document the system without waiting on an engineer for every sentence. Credentials live on the CV. Availability and how to work together live here."
 specs:
   -
     label: comm_channel
@@ -91,7 +91,20 @@ manual:
         k: "Automating & optimizing"
         v: "If I do it twice, I'll automate it."
 quote: "If you're being quiet it means you're thinking. If I'm being quiet it means I'm in flow. Ping me on Discord — I promise I'll resurface."
-relocation: "Open to async remote work worldwide. On the ground in Auckland December 2026 through February 2027 for interviews and in-person introductions; full relocation from Louisiana in 2027 if an NZ offer funds it. AU UD/601 ETA and NZ eTA approved. AEWV sponsorship is welcome, not required."
+availability:
+  heading: Availability
+  tag: Remote · global
+  status: "Seeking an async remote IC role worldwide in technical writing, accessible frontend, or IT support. AEWV-accredited employers in New Zealand are welcome; they are not required."
+  role: "Technical Writer · Accessible Frontend · Remote Technical Support"
+  relocation: "On the ground in Auckland Dec 2026–Feb 2027 for in-person meetings · full NZ relocation in 2027 if an offer funds it"
+  mobility: "NZ eTA approved · Australian business visitor visa approved · overlapping hours with US, Oceania, and EU teams"
+  evidence:
+    - Formal dated CV and employment chronology — five role-targeted PDFs on the CV
+    - Selected how-tos, READMEs, and shipped public work on the projects page
+    - Public writing at darkheartlabs.technology/writing
+    - Identity, qualification, and immigration documents on request
+  documentation_note: "A formal evidence pack is available for employer due diligence and the immigration process."
+  official_url: "https://www.immigration.govt.nz/work/for-employers/getting-accreditation-or-approval-to-hire/employer-accreditation-for-the-aewv/aewv-employer-accreditation-and-job-check-process/"
 award:
   title: Human-Focused AI Award
   subtitle: Tetrate Buildathon — selected from 170+ applicants

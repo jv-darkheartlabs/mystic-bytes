@@ -12,11 +12,29 @@ permalink: /projects/
     {% include signal-badge.html code="PROJECT" %}
     <p class="page-eyebrow">[projects]</p>
     <h1 class="page-title">work on the wire</h1>
-    <p class="projects-lede">Documentation I shipped and still maintain. A short public list — more writing is on the site, more repos on GitHub. Running apps (ask, metalmenders, vector) live on <a href="{{ '/demos/' | relative_url }}">live demos</a>.</p>
+    <p class="projects-lede">Selected work I shipped and still maintain. A short public list — more writing is on the site, more repos on GitHub. Running apps (ask, metalmenders, vector) live on <a href="{{ '/demos/' | relative_url }}">live demos</a>.</p>
   </header>
 
+  {% if data.selected.size > 0 %}
+  <section class="selected-docs" aria-labelledby="projects-selected-heading">
+    {% include section-label.html num="00" title="selected work" badge="PROJECT" %}
+    <h2 id="projects-selected-heading" class="sr-only">Selected work</h2>
+    {% if data.selected_lede != blank %}
+    <p class="projects-lede">{{ data.selected_lede }}</p>
+    {% endif %}
+    <ul class="selected-docs__list">
+      {% for item in data.selected %}
+      <li class="panel">
+        <h3>{% if item.url contains 'http' %}<a href="{{ item.url }}" target="_blank" rel="noreferrer">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3>
+        <p>{{ item.text }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
   <section class="projects-featured">
-    {% include section-label.html num="00" title="featured documentation" badge="PROJECT" %}
+    {% include section-label.html num="01" title="featured documentation" badge="PROJECT" %}
     <div class="projects-featured-grid">
       {% for project in data.featured %}
       <article class="project-card panel">
@@ -62,7 +80,7 @@ permalink: /projects/
   </section>
 
   <section class="projects-github">
-    {% include section-label.html num="01" title="everything else" badge="PROJECT" %}
+    {% include section-label.html num="02" title="everything else" badge="PROJECT" %}
     <div class="projects-github-cta panel">
       <p class="projects-github-cta__lede">READMEs, samples, forks, and work-in-progress. The full index lives on GitHub, not here.</p>
       <a class="projects-github-cta__link" href="https://github.com/jv-darkheartlabs" target="_blank" rel="noreferrer">github.com/jv-darkheartlabs ↗</a>
@@ -73,10 +91,8 @@ permalink: /projects/
     <p class="media-crosslink__label">sibling shelf</p>
     <ul>
       <li><a href="{{ '/demos/' | relative_url }}">live demos — ask, metalmenders, vector</a></li>
+      <li><a href="{{ '/cv/' | relative_url }}">CV — skills inventory · role-targeted PDFs</a></li>
+      <li><a href="{{ '/about/' | relative_url }}">about — availability · AEWV</a></li>
     </ul>
   </aside>
-
-  <p class="projects-cv-link">
-    <a href="{{ '/cv/' | relative_url }}">CV — skills inventory · role-targeted PDFs →</a>
-  </p>
 </div>

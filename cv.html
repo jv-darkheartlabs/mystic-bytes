@@ -97,58 +97,14 @@ permalink: /cv/
     {% endif %}
   </section>
 
-  <section class="cv-aewv panel" aria-labelledby="cv-aewv-heading">
-    <div class="cv-aewv__head">
-      <h2 id="cv-aewv-heading" class="cv-section__title">{{ cv.aewv.heading }}</h2>
-      <span class="cv-tag">{% if cv.aewv.tag != blank %}{{ cv.aewv.tag }}{% else %}Remote · global{% endif %}</span>
-    </div>
-    <p class="cv-aewv__status">{{ cv.aewv.status }}</p>
-    <dl class="cv-aewv__details">
-      <div>
-        <dt>Role match</dt>
-        <dd>{{ cv.aewv.role }}</dd>
-      </div>
-      <div>
-        <dt>Relocation</dt>
-        <dd>{{ cv.aewv.relocation }}</dd>
-      </div>
-      <div>
-        <dt>Mobility</dt>
-        <dd>{{ cv.aewv.mobility }}</dd>
-      </div>
-    </dl>
-    <details class="cv-aewv__evidence">
-      <summary>Employer due-diligence pack</summary>
-      <ul>
-        {% for item in cv.aewv.evidence %}
-        <li>{{ item }}</li>
-        {% endfor %}
-      </ul>
-      <p>{{ cv.aewv.documentation_note }}</p>
-    </details>
-    <a class="cv-aewv__official" href="{{ cv.aewv.official_url }}" target="_blank" rel="noreferrer">
-      Official Immigration New Zealand AEWV process ↗
-    </a>
-  </section>
-
-  {% if cv.selected_documentation.size > 0 %}
-  <section class="cv-selected-docs" aria-labelledby="cv-docs-heading">
-    {% include section-label.html num="02" title="selected work" badge="CV" %}
-    <h2 id="cv-docs-heading" class="sr-only">Selected work</h2>
-    <ul class="cv-selected-docs__list">
-      {% for item in cv.selected_documentation %}
-      <li class="panel">
-        <h3>{% if item.url contains 'http' %}<a href="{{ item.url }}" target="_blank" rel="noreferrer">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3>
-        <p>{{ item.text }}</p>
-      </li>
-      {% endfor %}
-    </ul>
-  </section>
-  {% endif %}
+  <p class="cv-crosslinks">
+    <a href="{{ '/projects/' | relative_url }}">Projects — selected work →</a>
+    <a href="{{ '/about/' | relative_url }}">About — availability · AEWV →</a>
+  </p>
 
   <section class="cv-section panel cv-contact-aside" aria-labelledby="cv-contact-heading">
     <h2 id="cv-contact-heading" class="cv-section__title">Contact</h2>
-    <p class="cv-sidebar__text">Async-friendly · remote-first · worldwide. Technical writer, accessible frontend, and remote technical support. AEWV sponsorship in New Zealand is welcome, not required.</p>
+    <p class="cv-sidebar__text">Async-friendly · remote-first · worldwide. Technical writer, accessible frontend, and remote technical support.</p>
     <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact form →</a>
     <div class="cv-social">
       <a href="{{ site.data.site.social.github }}" target="_blank" rel="noreferrer">github ↗</a>
