@@ -306,7 +306,7 @@ writeYamlFile(path.join(root, "_data/cv.yml"), {
 
 // ── About ───────────────────────────────────────────────────────────
 writeYamlFile(path.join(root, "_data/about.yml"), {
-  tagline: "the voice behind the signal. not the résumé — the room it was written in.",
+  tagline: "collaborating brief, working map, availability. credentials live on the cv.",
   bio: "I build quiet software for loud minds. Twenty-five years at the workbench, mostly on Apple platforms — Swift, SwiftUI, Core ML — with detours through Rust proxy modules, edge TypeScript, and whatever the moment asks for. The credentials live on the CV. This page is the room the work gets written in.",
   specs: [
     { label: "comm_channel", value: "Discord" },
