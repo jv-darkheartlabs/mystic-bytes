@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Employer-facing voice — click through</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Fira+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink: #0a0014;
+      --panel: #120024;
+      --plum: #1a0830;
+      --bone: #e8d9c0;
+      --red: #ff1744;
+      --violet: #b47aff;
+      --fg: #eceaf2;
+      --muted: #9a8aad;
+      --border: #3a1060;
+      --sans: "Fira Sans", ui-sans-serif, system-ui, sans-serif;
+      --serif: "Cormorant Garamond", ui-serif, Georgia, serif;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; }
+    body {
+      font-family: var(--sans);
+      background: radial-gradient(circle at 50% 0%, color-mix(in oklab, var(--violet) 16%, transparent), transparent 46%), var(--ink);
+      color: var(--fg);
+      line-height: 1.45;
+    }
+    .wrap {
+      max-width: 42rem;
+      margin: 0 auto;
+      padding: 1.5rem 1.25rem 4rem;
+    }
+    .eyebrow {
+      font-size: 0.72rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--violet);
+      margin: 0 0 0.35rem;
+    }
+    h1 {
+      font-family: var(--serif);
+      font-weight: 600;
+      font-size: 2rem;
+      line-height: 1.15;
+      margin: 0 0 0.5rem;
+      color: var(--bone);
+    }
+    .lede {
+      color: var(--muted);
+      margin: 0 0 1.25rem;
+    }
+    .progress {
+      height: 2px;
+      background: var(--border);
+      margin: 0 0 1.5rem;
+    }
+    .progress > span {
+      display: block;
+      height: 100%;
+      background: linear-gradient(90deg, var(--violet), var(--red));
+      width: 0%;
+    }
+    .q-kicker {
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin: 0 0 0.35rem;
+    }
+    h2 {
+      font-family: var(--serif);
+      font-size: 1.55rem;
+      font-weight: 600;
+      margin: 0 0 0.4rem;
+      color: var(--bone);
+    }
+    .hint { color: var(--muted); margin: 0 0 1rem; font-size: 0.95rem; }
+    button.opt, button.nav, button.lock {
+      font: inherit;
+      cursor: pointer;
+    }
+    .opts { display: grid; gap: 0.65rem; }
+    button.opt {
+      text-align: left;
+      background: var(--panel);
+      color: var(--fg);
+      border: 1px solid var(--border);
+      border-radius: 0.125rem;
+      padding: 0.9rem 1rem;
+    }
+    button.opt:hover, button.opt:focus-visible {
+      border-color: var(--violet);
+      outline: none;
+    }
+    button.opt[aria-pressed="true"] {
+      border-color: var(--red);
+      box-shadow: 0 0 0 1px var(--red);
+    }
+    button.opt .letter {
+      color: var(--violet);
+      font-weight: 600;
+      margin-right: 0.4rem;
+    }
+    button.opt .sample {
+      display: block;
+      margin-top: 0.4rem;
+      color: var(--bone);
+      font-size: 0.92rem;
+    }
+    .row {
+      display: flex;
+      gap: 0.6rem;
+      margin-top: 1.15rem;
+      flex-wrap: wrap;
+    }
+    button.nav, button.lock {
+      background: transparent;
+      color: var(--fg);
+      border: 1px solid var(--border);
+      padding: 0.65rem 1rem;
+    }
+    button.lock, button.nav.primary {
+      background: var(--red);
+      border-color: var(--red);
+      color: #fff;
+    }
+    button.nav:disabled { opacity: 0.4; cursor: not-allowed; }
+    .done {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      padding: 1rem 1.1rem;
+      white-space: pre-wrap;
+      font-size: 0.9rem;
+    }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <p class="eyebrow">[employer voice]</p>
+    <h1>Recruiter / employer register</h1>
+    <p class="lede" id="intro">Click an answer. Single-choice advances. Multi-choice uses Continue. Defaults are pre-selected. Lock at the end — no typing.</p>
+    <div class="progress" aria-hidden="true"><span id="bar"></span></div>
+    <section id="card"></section>
+    <div class="row" id="nav"></div>
+    <section id="finish" class="hidden">
+      <h2>Locked locally</h2>
+      <p class="hint">This page cannot write back to the agent chat. Download the JSON and drop it on the conversation, or check <strong>Lock</strong> on the GitHub file in the pull request — that path needs no typing.</p>
+      <pre class="done" id="out"></pre>
+      <div class="row">
+        <button class="lock" type="button" id="download">Download answers.json</button>
+      </div>
+    </section>
+  </main>
+  <script>
+    const Q = [
+      { id: "1", title: "Default sentence shape", pick: "one", def: ["B"], opts: [
+        ["A", "Studio cadence, employer nouns", "I write how-tos a tired first-time user can finish. Async remote. Auckland-bound."],
+        ["B", "Recruiter English, still yours", "Technical writer. Platform docs, knowledge bases, accessible documentation sites. Async remote IC. Auckland-bound."],
+        ["C", "Keyword-first sourcer scan", "Senior Technical Writer (ANZSCO 212415). Documentation · accessible frontend · remote technical support. Open to async remote roles."],
+        ["D", "Hiring-manager English", "I turn product knowledge into docs a first-time user can finish: how-tos, KBs, incident copy, READMEs."]
+      ]},
+      { id: "2", title: "Grammatical person", pick: "one", def: ["A"], opts: [
+        ["A", "First person", "I write… / I ship…"],
+        ["B", "Implied first, no “I”", "Technical writer. Platform documentation…"],
+        ["C", "Third person", "Jennifer Picado is a technical writer…"],
+        ["D", "Brand as speaker", "Dark Heart Labs writes…"]
+      ]},
+      { id: "3", title: "How the name lands", pick: "one", def: ["B"], opts: [
+        ["A", "Jennifer Picado only", ""],
+        ["B", "Jennifer Picado, byline JV once if space", ""],
+        ["C", "JV · Dark Heart Labs as the name; legal name on CV only", ""],
+        ["D", "Jennifer Picado · Dark Heart Labs in the same line", ""]
+      ]},
+      { id: "4", title: "Formality", pick: "one", def: ["B"], opts: [
+        ["A", "Cool / clipped / almost telegraphic", ""],
+        ["B", "Professional and plain. Complete sentences. No slang.", ""],
+        ["C", "Warm professional. Still plain, slightly more human.", ""],
+        ["D", "Conversational. Fine to sound like Slack, cleaned up.", ""]
+      ]},
+      { id: "5", title: "Cadence", pick: "one", def: ["B"], opts: [
+        ["A", "Keep the current rhythm: em dashes, middle dots, short stacked fragments", ""],
+        ["B", "Standard prose. One idea per sentence. Occasional middle dot in headlines only", ""],
+        ["C", "Headline stacks everywhere", "Technical Writer · Docs · Remote"],
+        ["D", "Long, careful sentences (About collaborating lede)", ""]
+      ]},
+      { id: "6", title: "Warmth vs precision", pick: "one", def: ["B"], opts: [
+        ["A", "Precision only. Kindness lives on About, not here", ""],
+        ["B", "Precise first; one human clause allowed", "written-first, async"],
+        ["C", "Precision + care as a work claim", "docs a tired first-time user can finish"],
+        ["D", "Care-forward; craft details second", ""]
+      ]},
+      { id: "7", title: "Confidence / claim strength", pick: "one", def: ["B"], opts: [
+        ["A", "Understated. Titles and artifacts; no “senior,” no award", ""],
+        ["B", "Named seniority + primary occupation. Award only where a screen expects proof", ""],
+        ["C", "Award in the bio", "Human-Focused AI, NeuroShell"],
+        ["D", "Strong market language — still not people-manager", "senior IC, hired for, I lead documentation"]
+      ]},
+      { id: "8", title: "Humor", pick: "one", def: ["A"], opts: [
+        ["A", "None in this register", ""],
+        ["B", "Dry, rare, never the first sentence", ""],
+        ["C", "Same dry as studio", "If I'm being quiet it means I'm in flow"]
+      ]},
+      { id: "9", title: "What the first line must do", pick: "one", def: ["A"], opts: [
+        ["A", "Name the job: Technical Writer", ""],
+        ["B", "Name the job + one specialty", "platform docs / accessible frontend / IT support"],
+        ["C", "Name the problem you solve, title in line two", ""],
+        ["D", "Name location / visa / availability first", ""]
+      ]},
+      { id: "10", title: "Keyword density", pick: "one", def: ["B"], opts: [
+        ["A", "Natural language only. ATS tokens live in the PDF", ""],
+        ["B", "Title + 3–5 sourcer tokens", "documentation, knowledge base, async, remote, accessibility"],
+        ["C", "Dense scan line: occupation code, title stack, tools", ""],
+        ["D", "Tool soup in the bio itself", "Jekyll, GitHub, Markdown, WCAG, Confluence"]
+      ]},
+      { id: "11", title: "Evidence style", pick: "one", def: ["B"], opts: [
+        ["A", "Artifacts: PDFs, READMEs, live docs sites", ""],
+        ["B", "Artifacts + one scope line", "platform documentation, WCAG 2.1 AA components"],
+        ["C", "Process", "written-first, protected focus, conclusion then evidence"],
+        ["D", "Metrics if we have them; otherwise omit rather than invent", ""]
+      ]},
+      { id: "12", title: "Capitalization and typography", pick: "one", def: ["B"], opts: [
+        ["A", "Studio: lowercase headings, middle dots, em dashes, signal badges", ""],
+        ["B", "Employer: Title Case names and headings; middle dot only in the headline stack", ""],
+        ["C", "Fully conventional: commas, no middle dots, no em dashes", ""],
+        ["D", "Mixed: homepage can stay studio; X / LinkedIn / CV ledes go B", ""]
+      ]},
+      { id: "13", title: "Studio residue allowed here", pick: "multi", def: ["A"], opts: [
+        ["A", "None: no “loud world,” no orchid, no verse, no dark", ""],
+        ["B", "Mission line only", "Useful, kind work that still helps when the world is loud"],
+        ["C", "Craft metaphor only", "tired first-time user"],
+        ["D", "Dark Heart Labs as studio name, no aesthetic language around it", ""]
+      ]},
+      { id: "14", title: "Human / collaborating detail", pick: "multi", def: ["A"], opts: [
+        ["A", "None on recruiter surfaces", "Cloverleaf, quiet processing, Discord, ADHD-adjacent"],
+        ["B", "Work-practice only", "async, written-first, Slack / GitHub / Markdown"],
+        ["C", "One collaborating tell: delayed reply = processing", ""],
+        ["D", "Neurodivergent / ADHD framing if it serves docs-for-loud-minds", ""]
+      ]},
+      { id: "15", title: "Location and mobility", pick: "one", def: ["B"], opts: [
+        ["A", "Remote · async · global only", ""],
+        ["B", "Remote + Auckland-bound (no visa mechanism)", ""],
+        ["C", "Remote + Auckland dates + AEWV-accredited employers welcome", ""],
+        ["D", "Off this register; keep it on About", ""]
+      ]},
+      { id: "16", title: "Availability phrasing", pick: "one", def: ["B"], opts: [
+        ["A", "Do not say seeking / open. Let the CV page do it", ""],
+        ["B", "Open to async remote IC roles — no emoji, no #OpenToWork theatre", ""],
+        ["C", "Explicit stack: technical writing, accessible frontend, IT support", ""],
+        ["D", "Contract vs FTE split stated on social", "contract via site; FTE on CV"]
+      ]},
+      { id: "17", title: "Words for seniority", pick: "one", def: ["A"], opts: [
+        ["A", "Technical Writer — senior is in the work and the rate, not the label", ""],
+        ["B", "Senior Technical Writer on all employer surfaces", ""],
+        ["C", "Senior Technical Writer on LinkedIn/CV; Technical Writer on X", ""],
+        ["D", "Senior IC, technical writing (role family, not title)", ""]
+      ]},
+      { id: "18", title: "Relationship to studio voice", pick: "one", def: ["A"], opts: [
+        ["A", "Two registers. Employer copy does not try to sound like essays", ""],
+        ["B", "One voice, employer nouns dropped in", ""],
+        ["C", "Shared spine; employer adds titles/location; studio adds cadence/metaphor", ""],
+        ["D", "Employer copy may quote studio, never the other way around", ""]
+      ]},
+      { id: "19", title: "Hard bans in this register", pick: "multi", def: ["A"], opts: [
+        ["A", "Keep current bans", "founder/LLC, software-engineer-applicant frame, education/certs unless named, old brand names, literary-shelf identity"],
+        ["B", "Also ban occupation codes (ANZSCO) outside the CV", ""],
+        ["C", "Also ban rates and $120", ""],
+        ["D", "Also ban award names on social", ""],
+        ["E", "Also ban “IC” as a word", ""]
+      ]},
+      { id: "20", title: "Calibration sample", pick: "one", def: [], opts: [
+        ["A", "Jennifer Picado. Technical writer. How-tos, knowledge bases, incident copy. Async remote. Auckland-bound.", ""],
+        ["B", "Senior Technical Writer. I write platform documentation and accessible docs sites. Open to async remote IC roles.", ""],
+        ["C", "Technical Writer (ANZSCO 212415). Documentation, accessible frontend, remote technical support. Seeking async remote roles worldwide.", ""],
+        ["D", "I write how-tos a tired first-time user can finish. Technical writer, Dark Heart Labs. Async remote. Auckland-bound.", ""]
+      ]}
+    ];
+
+    const answers = Object.fromEntries(Q.map(q => [q.id, [...q.def]]));
+    let i = 0;
+
+    const card = document.getElementById("card");
+    const nav = document.getElementById("nav");
+    const bar = document.getElementById("bar");
+    const finish = document.getElementById("finish");
+    const intro = document.getElementById("intro");
+
+    function render() {
+      const q = Q[i];
+      bar.style.width = ((i / Q.length) * 100) + "%";
+      card.classList.remove("hidden");
+      finish.classList.add("hidden");
+      intro.classList.remove("hidden");
+      card.innerHTML = `
+        <p class="q-kicker">Question ${i + 1} of ${Q.length}${q.pick === "multi" ? " · multi" : ""}</p>
+        <h2>${q.title}</h2>
+        <p class="hint">${q.pick === "multi" ? "Click every option that should apply, then Continue." : "Click one answer to continue."}</p>
+        <div class="opts" role="group" aria-label="${q.title}"></div>
+      `;
+      const box = card.querySelector(".opts");
+      q.opts.forEach(([letter, label, sample]) => {
+        const b = document.createElement("button");
+        b.type = "button";
+        b.className = "opt";
+        b.setAttribute("aria-pressed", answers[q.id].includes(letter) ? "true" : "false");
+        b.innerHTML = `<span class="letter">${letter}</span>${label}${sample ? `<span class="sample">${sample}</span>` : ""}`;
+        b.addEventListener("click", () => choose(letter));
+        box.appendChild(b);
+      });
+      nav.innerHTML = "";
+      const back = document.createElement("button");
+      back.type = "button";
+      back.className = "nav";
+      back.textContent = "Back";
+      back.disabled = i === 0;
+      back.addEventListener("click", () => { i -= 1; render(); });
+      nav.appendChild(back);
+      if (q.pick === "multi" || q.def.length === 0) {
+        const next = document.createElement("button");
+        next.type = "button";
+        next.className = "nav primary";
+        next.textContent = i === Q.length - 1 ? "Review" : "Continue";
+        next.disabled = answers[q.id].length === 0;
+        next.addEventListener("click", forward);
+        nav.appendChild(next);
+      }
+    }
+
+    function choose(letter) {
+      const q = Q[i];
+      if (q.pick === "one") {
+        answers[q.id] = [letter];
+        forward();
+        return;
+      }
+      const set = new Set(answers[q.id]);
+      if (set.has(letter)) set.delete(letter); else set.add(letter);
+      answers[q.id] = [...set].sort();
+      render();
+    }
+
+    function forward() {
+      if (i >= Q.length - 1) { showFinish(); return; }
+      i += 1;
+      render();
+    }
+
+    function payload() {
+      return {
+        register: "employer-facing",
+        locked: true,
+        answers: Object.fromEntries(Object.entries(answers).map(([k, v]) => [k, v.join("") ? v : []]))
+      };
+    }
+
+    function showFinish() {
+      bar.style.width = "100%";
+      card.classList.add("hidden");
+      nav.innerHTML = "";
+      intro.classList.add("hidden");
+      finish.classList.remove("hidden");
+      const data = payload();
+      const line = Q.map(q => q.id + (q.pick === "multi" ? data.answers[q.id].join("") : (data.answers[q.id][0] || "–"))).map((id, idx) => {
+        const q = Q[idx];
+        return q.id + (q.pick === "multi" ? data.answers[q.id].join("") : (data.answers[q.id][0] || "–"));
+      });
+      const compact = Q.map(q => {
+        const vals = data.answers[q.id];
+        return q.id + (vals.length ? vals.join("") : "–");
+      }).join(" ");
+      document.getElementById("out").textContent = compact + "\n\n" + JSON.stringify(data, null, 2);
+      document.getElementById("download").onclick = () => {
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+        const a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = "employer-voice-answers.json";
+        a.click();
+        URL.revokeObjectURL(a.href);
+      };
+    }
+
+    render();
+  </script>
+</body>
+</html>
