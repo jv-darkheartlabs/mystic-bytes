@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "JV · Dark Heart Labs — Technical Writer"
+title: "Jennifer Picado — Technical Writer"
 description: "Jennifer Picado — technical writer. How-tos, documentation, and accessible frontend. Async remote. Auckland-bound."
 permalink: /
 ---
@@ -18,10 +18,7 @@ permalink: /
     {% if cv.headline != blank %}
     <p class="cv-headline">{{ cv.headline }}</p>
     {% endif %}
-    {% if cv.occupation_line != blank %}
-    <p class="cv-occupation">{{ cv.occupation_line }}</p>
-    {% endif %}
-    <p class="about-bio">{{ about.bio }}</p>
+    <p class="about-bio">{{ about.employer_bio }}</p>
     <div class="home-ctas">
       <a class="btn-outline" href="{{ '/cv/' | relative_url }}">CV</a>
       <a class="btn-outline" href="{{ '/about/' | relative_url }}">How to work together</a>
@@ -35,7 +32,7 @@ permalink: /
     <div class="tenets-grid">
       <article class="tenet-card panel">
         <h3 class="about-collab__kicker">Technical writing</h3>
-        <p class="tenet-card__line">How-tos, knowledge bases, incident copy, and READMEs a tired first-time user can finish.</p>
+        <p class="tenet-card__line">How-tos, knowledge bases, incident copy, and READMEs. Documentation for ADHD and other loud minds.</p>
       </article>
       <article class="tenet-card panel">
         <h3 class="about-collab__kicker">Documentation sites</h3>
@@ -43,7 +40,7 @@ permalink: /
       </article>
       <article class="tenet-card panel">
         <h3 class="about-collab__kicker">How we work</h3>
-        <p class="tenet-card__line">Written-first, async, protected focus. Collaborating notes and AEWV availability live on About.</p>
+        <p class="tenet-card__line">Written-first, async. Collaborating notes and AEWV availability live on About.</p>
       </article>
     </div>
   </section>
@@ -68,9 +65,8 @@ permalink: /
     {% include section-label.html num="02" title="availability" badge="HOME" %}
     <h2 id="home-avail-heading" class="sr-only">Availability</h2>
     <div class="panel">
-      <p>{{ aewv.status }}</p>
+      <p>{{ aewv.employer_status }}</p>
       <p>{{ aewv.role }}</p>
-      <p>{{ aewv.relocation }}</p>
       <p class="home-more"><a href="{{ '/about/' | relative_url }}">About — collaborating notes and AEWV →</a></p>
     </div>
   </section>

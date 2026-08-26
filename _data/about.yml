@@ -1,5 +1,6 @@
 tagline: collaborating brief, working map, availability. credentials live on the cv.
 bio: "I write how-tos a tired first-time user can finish. Quiet reflection before visible action — a delayed reply is often the work, not a freeze. Bring the tangled problem early, with the rationale attached. Credentials live on the CV. Availability, and how to work together, live here."
+employer_bio: "I write how-tos, knowledge bases, incident copy, and READMEs. Platform documentation and accessible docs sites. Async remote. Auckland-bound. Open to async remote roles."
 specs:
   -
     label: Communication
@@ -196,6 +197,7 @@ quote: "If you're being quiet it means you're thinking. If I'm being quiet it me
 availability:
   heading: Availability
   tag: Remote · global
+  employer_status: "Open to async remote roles in technical writing. Auckland-bound."
   status: "Seeking an async remote IC role worldwide in technical writing, accessible frontend, or IT support. AEWV-accredited employers in New Zealand are welcome; they are not required."
   role: "Technical Writer · Accessible Frontend · Remote Technical Support"
   relocation: "On the ground in Auckland Dec 2026–Feb 2027 for in-person meetings · full NZ relocation in 2027 if an offer funds it"
