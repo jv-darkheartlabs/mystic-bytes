@@ -1,114 +1,16 @@
 ---
 layout: default
-title: "cv — skills inventory · role-targeted PDFs"
-description: "Complete skills inventory and five role-targeted resume PDFs. Technical Writer is the primary occupation."
-eyebrow: "[cv]"
+title: Résumé
+description: "Jennifer Picado’s résumé: companion-animal care, practical technology support, coordination, education and training."
 permalink: /cv/
 ---
-
-{% assign cv = site.data.cv %}
-{% assign skills = site.data.skills %}
-
-<div class="container cv-page">
-  <header class="cv-header signal-header">
-    {% include signal-badge.html code="CV" %}
-    <p class="page-eyebrow">[cv]</p>
-    <div class="cv-header__identity">
-      <h1 class="page-title">{{ cv.name }}</h1>
-      {% if cv.headline != blank %}
-      <p class="cv-headline">{{ cv.headline }}</p>
-      {% endif %}
-      {% if cv.occupation_line != blank %}
-      <p class="cv-occupation">{{ cv.occupation_line }}</p>
-      {% endif %}
-    </div>
-    <div class="cv-contact">
-      {% if cv.phone != blank %}
-      <a href="tel:+1{{ cv.phone | replace: '.', '' }}">{{ cv.phone }}</a>
-      <span class="cv-contact__sep">·</span>
-      {% endif %}
-      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-      <span class="cv-contact__sep">·</span>
-      <a href="{{ site.data.site.social.linkedin }}" target="_blank" rel="noreferrer">linkedin.com/in/darkheartlabs</a>
-      <span class="cv-contact__sep">·</span>
-      <span>{{ cv.location_line }}</span>
-    </div>
-    <section class="cv-summary" aria-labelledby="cv-summary-heading">
-      <h2 id="cv-summary-heading" class="cv-section__title">How to read this page</h2>
-      <p class="cv-intro">{{ cv.intro }}</p>
-      {% if cv.remote_practice != blank %}
-      <p class="cv-intro">{{ cv.remote_practice }}</p>
-      {% endif %}
-    </section>
-  </header>
-
-  {% if cv.resumes.size > 0 %}
-  <section class="cv-resumes" aria-labelledby="cv-resumes-heading">
-    {% include section-label.html num="00" title="role-targeted PDFs" badge="CV" %}
-    <h2 id="cv-resumes-heading" class="sr-only">Role-targeted PDFs</h2>
-    {% if cv.resumes_lede != blank %}
-    <p class="cv-resumes__lede">{{ cv.resumes_lede }}</p>
-    {% endif %}
-    <ul class="cv-resume-grid">
-      {% for resume in cv.resumes %}
-      <li class="cv-resume-card panel{% if resume.primary %} cv-resume-card--primary{% endif %}">
-        <h3>
-          {{ resume.title }}
-          {% if resume.primary %}<span class="cv-tag">Primary</span>{% endif %}
-        </h3>
-        <p>{{ resume.subtitle }}</p>
-        <div class="cv-resume-card__actions">
-          <a class="btn-outline" href="{{ resume.href | relative_url }}" download="{{ resume.filename }}" aria-label="Download {{ resume.title }} PDF">Download PDF</a>
-          <a class="cv-resume-card__open" href="{{ resume.href | relative_url }}" target="_blank" rel="noreferrer" aria-label="Open {{ resume.title }} PDF">Open ↗</a>
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
-  </section>
-  {% endif %}
-
-  <section class="cv-inventory" aria-labelledby="cv-skills-heading">
-    {% include section-label.html num="01" title="complete skills inventory" badge="CV" %}
-    <h2 id="cv-skills-heading" class="sr-only">Complete skills inventory</h2>
-    {% if skills.lede != blank %}
-    <p class="cv-inventory__lede">{{ skills.lede }}</p>
-    {% endif %}
-    <div class="cv-inventory__grid">
-      {% for group in skills.groups %}
-      <article class="cv-skill-group panel">
-        <h3 class="cv-skill-group__heading">{{ group.title }}</h3>
-        <ul class="cv-skill-chips">
-          {% for item in group.items %}
-          <li>{{ item }}</li>
-          {% endfor %}
-        </ul>
-      </article>
-      {% endfor %}
-    </div>
-    {% if cv.certifications.size > 0 %}
-    <div class="cv-certs panel">
-      <h3 class="cv-skill-group__heading">Professional development</h3>
-      <ul class="cv-skill-list">
-        {% for item in cv.certifications %}
-        <li>{{ item.name }} — {{ item.status }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-  </section>
-
-  <p class="cv-crosslinks">
-    <a href="{{ '/projects/' | relative_url }}">Projects — selected work →</a>
-    <a href="{{ '/about/' | relative_url }}">About — availability · AEWV →</a>
-  </p>
-
-  <section class="cv-section panel cv-contact-aside" aria-labelledby="cv-contact-heading">
-    <h2 id="cv-contact-heading" class="cv-section__title">Contact</h2>
-    <p class="cv-sidebar__text">Async-friendly · remote-first · worldwide. Technical writer, accessible frontend, and remote technical support.</p>
-    <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact form →</a>
-    <div class="cv-social">
-      <a href="{{ site.data.site.social.github }}" target="_blank" rel="noreferrer">github ↗</a>
-      <a href="{{ site.data.site.social.linkedin }}" target="_blank" rel="noreferrer">linkedin ↗</a>
-    </div>
-  </section>
+{% assign career = site.data.career %}
+<div class="container career-page resume-page">
+<header class="signal-header"><p class="page-eyebrow">Résumé</p><h1 class="page-title">{{ career.name }}</h1><p class="career-headline">{{ career.resume_headline }}</p><p>{{ career.location }}</p><p><a href="mailto:{{ career.email }}">{{ career.email }}</a> · <a href="tel:{{ career.phone_href }}">{{ career.phone }}</a></p><p>{{ career.summary }}</p><a class="btn-outline" href="{{ career.pdf | relative_url }}" download>Download two-page résumé (PDF)</a></header>
+<section class="career-section" aria-labelledby="resume-skills"><h2 id="resume-skills">Relevant skills</h2>{% for skill in career.skills %}<h3>{{ skill.title }}</h3><p>{{ skill.text }}</p>{% endfor %}</section>
+<section class="career-section" aria-labelledby="resume-experience"><h2 id="resume-experience">Experience</h2>{% for entry in career.experience %}<article class="career-entry"><h3>{{ entry.title }}</h3><p class="career-meta">{{ entry.dates }} · {{ entry.context }}</p><p>{{ entry.summary }}</p></article>{% endfor %}</section>
+<section class="career-section" aria-labelledby="resume-earlier"><h2 id="resume-earlier">Earlier experience</h2><h3>{{ career.earlier.title }} · {{ career.earlier.employer }}</h3><p class="career-meta">{{ career.earlier.dates }}</p><p>{{ career.earlier.summary }}</p></section>
+<section class="career-section" aria-labelledby="resume-training"><h2 id="resume-training">Education and training</h2><ul>{% for item in career.training %}<li>{{ item }}</li>{% endfor %}</ul></section>
+<section class="career-section" aria-labelledby="resume-additional"><h2 id="resume-additional">Additional experience and interests</h2><p><strong>Outdoor interests and experience:</strong> {{ career.outdoors }}</p><p>{{ career.youth }}</p><p>References available upon request.</p></section>
+<p><a href="{{ '/experience/' | relative_url }}">Fuller experience details →</a> · <a href="{{ site.url }}">Dark Heart Labs</a> · <a href="{{ site.data.site.social.linkedin }}" rel="noreferrer">LinkedIn</a> · <a href="{{ site.data.site.social.github }}" rel="noreferrer">GitHub</a></p>
 </div>

@@ -1,22 +1,20 @@
 ---
-layout: page
-title: "contact"
-eyebrow: "[contact]"
-subtitle: "Send a brief — contract writing, or a hiring conversation."
+layout: default
+title: Contact
+description: "Contact Jennifer Picado about employment and related opportunities in coastal and island Washington."
 permalink: /contact/
 ---
-{% assign s = site.data.services %}
-<p>Remote-first. Each service has its own page — packages, rates, and a brief that asks for clarification one section at a time:</p>
-<ul class="contact-service-list">
-  {% for realm in s.realms %}
-  <li><a href="{{ '/services/' | append: realm.slug | append: '/' | relative_url }}">{{ realm.title }}</a></li>
-  {% endfor %}
-</ul>
-<p>Or stay here and walk the brief section by section. Open to contract and freelance writing; full-time roles on the <a href="{{ '/cv/' | relative_url }}">CV</a>. Availability and AEWV notes are on <a href="{{ '/about/' | relative_url }}">about</a>.</p>
-
-{% include service-brief.html mode="contact" form_id="raven-form" %}
-
-{% assign asset_v = site.github.build_revision | default: site.asset_version | default: site.time | date: '%s' %}
-<script src="{{ '/assets/js/form-submit.js' | relative_url }}?v={{ asset_v }}" defer></script>
-<script src="{{ '/assets/js/turnstile-widget.js' | relative_url }}?v={{ asset_v }}" defer></script>
-<script src="{{ '/assets/js/service-brief.js' | relative_url }}?v={{ asset_v }}" defer></script>
+<div class="container career-page">
+<header class="signal-header"><p class="page-eyebrow">Contact</p><h1 class="page-title">Contact Jennifer</h1><p class="career-intro">Employment inquiries and opportunities in wildlife, fisheries, conservation and related public service are welcome.</p><p><a href="mailto:{{ site.data.career.email }}">{{ site.data.career.email }}</a> · <a href="tel:{{ site.data.career.phone_href }}">{{ site.data.career.phone }}</a></p><p>{{ site.data.career.relocation }}</p></header>
+<form id="employment-form" class="brief-wizard panel" data-employment-form data-form-provider="{{ site.form_provider }}" data-form-endpoint="{{ site.form_endpoint }}" data-contact-email="{{ site.data.career.email }}" novalidate>
+<header><h2>Employment inquiry</h2><p>Share the opportunity and how to reach you. Organization, role and location are optional.</p><p data-form-progress aria-live="polite"></p></header>
+<section data-form-step aria-labelledby="sender-heading"><h3 id="sender-heading">Your details</h3><div class="brief-field"><label class="field-label" for="contact-name">Name (required)</label><input class="field-input" id="contact-name" name="name" autocomplete="name" required maxlength="120"></div><div class="brief-field"><label class="field-label" for="contact-email">Email (required)</label><input class="field-input" id="contact-email" name="email" type="email" autocomplete="email" required maxlength="120"></div></section>
+<section data-form-step aria-labelledby="opportunity-heading"><h3 id="opportunity-heading">The opportunity</h3><div class="brief-field"><label class="field-label" for="contact-organization">Organization (optional)</label><input class="field-input" id="contact-organization" name="organization" autocomplete="organization" maxlength="200"></div><div class="brief-field"><label class="field-label" for="contact-role">Role or opportunity (optional)</label><input class="field-input" id="contact-role" name="role" maxlength="200"></div><div class="brief-field"><label class="field-label" for="contact-location">Location (optional)</label><input class="field-input" id="contact-location" name="location" maxlength="200"></div></section>
+<section data-form-step aria-labelledby="message-heading"><h3 id="message-heading">Your message</h3><label class="field-label" for="contact-message">Message (required)</label><textarea class="field-input" id="contact-message" name="message" rows="7" required maxlength="1200"></textarea><p class="brief-hint">Please avoid sending sensitive personal information through this form.</p></section>
+<label class="hp" aria-hidden="true">Leave blank<input type="text" name="website" data-honeypot tabindex="-1" autocomplete="off"></label>
+<div class="brief-nav"><button type="button" class="btn-outline" data-form-back hidden>← Back</button><button type="button" class="btn-outline" data-form-next hidden>Next section →</button><button type="submit" class="btn-transmit" data-form-submit disabled>Send inquiry</button></div>
+{% if site.turnstile_site_key != "" %}<div class="cf-turnstile-wrap" data-turnstile-site-key="{{ site.turnstile_site_key }}"></div>{% endif %}
+<p class="brief-status" data-form-status role="status" aria-live="polite" hidden></p>
+<noscript><p>Please email or call Jennifer directly using the contact details above; this form requires JavaScript.</p></noscript>
+</form></div>
+<script src="{{ '/assets/js/form-submit.js' | relative_url }}" defer></script><script src="{{ '/assets/js/turnstile-widget.js' | relative_url }}" defer></script><script src="{{ '/assets/js/employment-contact.js' | relative_url }}" defer></script>

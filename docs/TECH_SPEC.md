@@ -2,15 +2,15 @@
 
 ## Overview
 
-Static Jekyll site for Dark Heart Labs essays, portfolio, CV, and media, deployed to GitHub Pages with Pagefind search.
+Career-focused Jekyll site for Jennifer Picado: experience, résumé, selected work, outdoors and personal media. The retained card search queries the Scryfall catalog; general site search is removed.
 
 ## Architecture
 
 ```mermaid
 flowchart LR
   Content["_essays/ + _data/"] --> Jekyll["Jekyll build"]
-  Jekyll --> Pagefind["Pagefind index"]
-  Pagefind --> Pages["GitHub Pages"]
+  Jekyll --> Pages["GitHub Pages"]
+  CardSearch["Card search page"] --> Scryfall["Scryfall catalog API"]
 ```
 
 ## Tech stack
@@ -19,7 +19,7 @@ flowchart LR
 |-------|------------|
 | Site generator | Jekyll 4 |
 | Hosting | GitHub Pages |
-| Search | Pagefind |
+| Card search | Scryfall API |
 | Styles | SCSS |
 
 ## Deployment
@@ -31,10 +31,12 @@ Pushes to `main` run `.github/workflows/jekyll.yml`.
 | Concern | Path |
 |---------|------|
 | Essays | `_essays/` |
+| Career facts and copy | `_data/career.yml` |
 | Site data | `_data/` |
-| Live demos | `demos.html`, `_data/demos.yml` |
+| Résumé download | `assets/documents/Jennifer-Picado-Resume.pdf` |
+| Live demos | `demos.html` |
 | Layout | `_includes/`, `_layouts/` |
-| Form POST (no mailto) | `assets/js/form-submit.js`, `assets/js/service-brief.js`, `docs/MAIL.md` |
+| Form POST (no mailto) | `assets/js/form-submit.js`, `assets/js/employment-contact.js`, `docs/MAIL.md` |
 | CI deploy | `.github/workflows/jekyll.yml` |
 
 ---

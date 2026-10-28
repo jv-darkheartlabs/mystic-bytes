@@ -1,0 +1,17 @@
+---
+layout: default
+title: Experience
+description: "Jennifer Picado’s experience in companion-animal care, practical technology support, and family caregiving and coordination."
+permalink: /experience/
+---
+{% assign career = site.data.career %}
+<div class="container career-page">
+<header class="signal-header"><p class="page-eyebrow">Experience</p><h1 class="page-title">Practical experience</h1><p class="career-intro">{{ career.intro }}</p></header>
+<section class="career-section" aria-labelledby="animal-care"><h2 id="animal-care">Companion-animal care</h2><p>{{ career.skills[0].text }}</p>
+<article class="panel career-card"><h3>Personal companion-animal care</h3><p class="career-meta">Independent, unpaid care · Ferrets approximately 2003–2015; dog care ongoing</p><p>{{ career.experience[0].summary }}</p><ul>{% for bullet in career.experience[0].bullets %}<li>{{ bullet }}</li>{% endfor %}</ul><p>Over several years, the Louisiana SPCA in New Orleans contacted me about surrendered ferrets, which I took into my own long-term care.</p></article></section>
+<section class="career-section" aria-labelledby="technology-support"><h2 id="technology-support">Practical technology support</h2><p>{{ career.experience[1].summary }}</p><ul>{% for bullet in career.experience[1].bullets %}<li>{{ bullet }}</li>{% endfor %}</ul><p>{{ career.skills[1].text }}</p><p class="career-meta">2015–present · Occasional paid independent work and unpaid community assistance.</p><details class="panel career-card"><summary>Earlier employment</summary><h3>{{ career.earlier.title }} · {{ career.earlier.employer }}</h3><p>{{ career.earlier.dates }}</p><p>{{ career.earlier.summary }}</p></details></section>
+<section class="career-section" aria-labelledby="caregiving"><h2 id="caregiving">Caregiving and coordination</h2><p>{{ career.experience[2].summary }} This included communicating with healthcare providers, adapting to changing priorities, and handling personal information with discretion.</p><p class="career-meta">Family caregiving · {{ career.experience[2].dates }}</p></section>
+<section class="career-section" aria-labelledby="training"><h2 id="training">Education and training</h2><ul>{% for item in career.training %}<li>{{ item }}</li>{% endfor %}</ul><p>Previous Red Cross training; certification not current.</p></section>
+<section class="career-section" aria-labelledby="additional-experience"><h2 id="additional-experience">Additional experience</h2><p>Driving experience, including manual transmission · GPS navigation · Data entry</p><p>{{ career.youth }}</p><p><a href="{{ '/outdoors/' | relative_url }}">Outdoor interests and experience →</a></p></section>
+<div class="career-actions"><a class="btn-outline" href="{{ '/cv/' | relative_url }}">View résumé</a><a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact Jennifer</a></div>
+</div>

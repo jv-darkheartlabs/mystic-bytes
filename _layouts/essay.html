@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="essay{% if page.type == 'pillar' %} essay--pillar{% endif %}{% if page.shelf %} essay--{{ page.shelf }}{% endif %}"{% if page.locked %} data-pagefind-ignore="all"{% endif %}>
+<article class="essay{% if page.type == 'pillar' %} essay--pillar{% endif %}{% if page.shelf %} essay--{{ page.shelf }}{% endif %}">
   <div class="essay-inner">
     {% assign shelf_archive = page.shelf_archive | default: '/media/written/journal/essays/' %}
     {% assign shelf_label = page.shelf_label | default: 'technical essays' %}
@@ -55,7 +55,7 @@ layout: default
     {% else %}
     {% assign trace_label = page.trace_label | default: 'essay' %}
     <p class="essay-trace-label">[ {{ trace_label }} ]</p>
-    <div class="prose essay-body" data-pagefind-body>
+    <div class="prose essay-body">
       {{ content }}
     </div>
     {% endif %}

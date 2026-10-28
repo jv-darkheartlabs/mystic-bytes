@@ -17,9 +17,6 @@
     </button>
 
     <nav id="site-nav" class="site-nav" aria-label="Primary">
-      <button type="button" class="site-nav__search" id="search-toggle" aria-expanded="false" aria-controls="site-search">
-        search ⌕
-      </button>
       {% for item in site.data.navigation %}
       {% assign nav_active = false %}
       {% if item.exact %}
@@ -34,13 +31,8 @@
       <a
         class="site-nav__link{% if nav_active %} is-active{% endif %}"
         href="{{ item.url | relative_url }}"
-      >{{ item.label }}</a>
+      {% if nav_active %} aria-current="page"{% endif %}>{{ item.label }}</a>
       {% endfor %}
     </nav>
-  </div>
-  <div id="site-search" class="site-search" hidden>
-    <div class="container">
-      <div id="pagefind-search"></div>
-    </div>
   </div>
 </header>

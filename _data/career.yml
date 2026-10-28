@@ -1,0 +1,49 @@
+name: Jennifer Picado
+headline: "Animal care and technical support · Moving toward conservation"
+resume_headline: "Animal care · Technical support · Public-service interests"
+intro: "I bring experience in animal care, technical troubleshooting, and helping people navigate unfamiliar problems. I’m seeking a move into wildlife, fisheries, or related public service, with an openness to training and a range of field and support roles."
+relocation: "Based in Louisiana · Seeking coastal and island Washington opportunities · Relocating following a suitable offer"
+summary: "Background in independent companion-animal care, practical technology support, and family caregiving. Seeking wildlife, fisheries, and related public-service opportunities in coastal and island Washington, with openness to training and both field and support roles."
+email: jen.the.dev80@gmail.com
+phone: 504.510.1878
+phone_href: "+15045101878"
+location: "Louisiana · Seeking coastal and island Washington opportunities"
+pdf: /assets/documents/Jennifer-Picado-Resume.pdf
+skills:
+  - title: Companion-animal care
+    text: "Daily care · Habitat sanitation · Enrichment · Health observation · Veterinary-directed medication"
+  - title: Practical technology support
+    text: "Windows/macOS/Linux · Hardware repair · Networking · Remote support · Data entry"
+  - title: Coordination
+    text: "Appointments and transport · Information gathering · Recordkeeping · Independent work"
+experience:
+  - title: Personal companion-animal care
+    dates: "Ferret care: approximately 2003–2015 · Dog care: ongoing"
+    context: Independent, unpaid care
+    summary: "Cared for 21 ferrets cumulatively during approximately 2003–2015, including surrendered animals referred by the Louisiana SPCA; ongoing care of dogs."
+    bullets:
+      - "Maintained feeding, watering, habitat-cleaning and enrichment routines."
+      - "Observed health and behavior, administered vet-prescribed medication, and handled transport and care records."
+  - title: Practical technology support
+    dates: "2015–present"
+    context: Occasional paid and unpaid assistance
+    summary: "Provided occasional paid and unpaid computer support to individuals and small-business users, including troubleshooting, repairs, setup and clear guidance."
+    bullets:
+      - "Diagnosed hardware, software and connectivity problems; repaired or upgraded computers and installed operating systems."
+      - "Helped users remotely and in person, researched unfamiliar problems, and explained troubleshooting steps."
+  - title: Family caregiving and coordination
+    dates: "2007–2018; 2023–2026"
+    context: Family caregiving
+    summary: "Supported family members through long-term care needs, including scheduling, transportation, technology assistance and coordination."
+earlier:
+  title: Web Developer
+  employer: 365 Connect
+  dates: "2003–2015"
+  summary: "Website development and maintenance; office-based 2003–2007, remote 2008–2015."
+training:
+  - "Google IT Support Professional Certificate — Google/Coursera, completed September 2026"
+  - "AI Agent Developer Specialization — Vanderbilt University/Coursera, completed September 2026"
+  - "Herzing University — coursework in computer networking and technology"
+  - "Delgado Community College — additional undergraduate coursework"
+youth: "School-related 4-H participation in New Orleans and Arabi, Louisiana, through teenage years."
+outdoors: "Recreational fishing, boating, hiking and wildlife observation."

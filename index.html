@@ -1,87 +1,26 @@
 ---
 layout: default
-title: "JV · Dark Heart Labs — Technical Writer"
-description: "Jennifer Picado — technical writer. How-tos, documentation, and accessible frontend. Async remote. Auckland-bound."
+title: "Jennifer Picado — Animal Care & Technical Support"
+description: "Jennifer Picado — based in Louisiana and seeking wildlife, fisheries and related public-service opportunities in coastal and island Washington."
 permalink: /
 ---
-
-{% assign cv = site.data.cv %}
-{% assign about = site.data.about %}
-{% assign projects = site.data.projects %}
-{% assign aewv = about.availability %}
-
-<div class="container home-page about-page">
-  <header class="about-header signal-header">
-    {% include signal-badge.html code="HOME" %}
-    <p class="page-eyebrow">[home]</p>
-    <h1 class="page-title">{{ cv.name }}</h1>
-    {% if cv.headline != blank %}
-    <p class="cv-headline">{{ cv.headline }}</p>
-    {% endif %}
-    {% if cv.occupation_line != blank %}
-    <p class="cv-occupation">{{ cv.occupation_line }}</p>
-    {% endif %}
-    <p class="about-bio">{{ about.bio }}</p>
-    <div class="home-ctas">
-      <a class="btn-outline" href="{{ '/cv/' | relative_url }}">CV</a>
-      <a class="btn-outline" href="{{ '/about/' | relative_url }}">How to work together</a>
-      <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Contact</a>
-    </div>
+{% assign career = site.data.career %}
+<div class="container career-page">
+  <header class="signal-header career-hero">
+    <p class="page-eyebrow">Dark Heart Labs</p><h1 class="page-title">{{ career.name }}</h1>
+    <p class="career-headline">{{ career.headline }}</p><p class="career-intro">{{ career.intro }}</p>
+    <p class="career-location">{{ career.relocation }}</p>
+    <div class="career-actions"><a class="btn-outline" href="{{ '/experience/' | relative_url }}">Explore my experience</a><a class="btn-outline" href="{{ '/cv/' | relative_url }}">View résumé</a></div>
   </header>
-
-  <section class="home-section" aria-labelledby="home-do-heading">
-    {% include section-label.html num="00" title="what I do" badge="HOME" %}
-    <h2 id="home-do-heading" class="sr-only">What I do</h2>
-    <div class="tenets-grid">
-      <article class="tenet-card panel">
-        <h3 class="about-collab__kicker">Technical writing</h3>
-        <p class="tenet-card__line">How-tos, knowledge bases, incident copy, and READMEs a tired first-time user can finish.</p>
-      </article>
-      <article class="tenet-card panel">
-        <h3 class="about-collab__kicker">Documentation sites</h3>
-        <p class="tenet-card__line">Accessible docs on Jekyll and GitHub Pages. You keep the domain and the repo.</p>
-      </article>
-      <article class="tenet-card panel">
-        <h3 class="about-collab__kicker">How we work</h3>
-        <p class="tenet-card__line">Written-first, async, protected focus. Collaborating notes and AEWV availability live on About.</p>
-      </article>
-    </div>
+  <section class="career-section" aria-labelledby="experience-preview"><h2 id="experience-preview">Experience</h2>
+    <div class="career-grid">{% for skill in career.skills %}<article class="panel career-card"><h3>{{ skill.title }}</h3><p>{{ skill.text }}</p></article>{% endfor %}</div>
   </section>
-
-  {% if projects.selected.size > 0 %}
-  <section class="home-section selected-docs" aria-labelledby="home-work-heading">
-    {% include section-label.html num="01" title="selected work" badge="HOME" %}
-    <h2 id="home-work-heading" class="sr-only">Selected work</h2>
-    <ul class="selected-docs__list">
-      {% for item in projects.selected %}
-      <li class="panel">
-        <h3>{% if item.url contains 'http' %}<a href="{{ item.url }}" target="_blank" rel="noreferrer">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3>
-        <p>{{ item.text }}</p>
-      </li>
-      {% endfor %}
+  <section class="career-section" aria-labelledby="explore-heading"><h2 id="explore-heading">Explore</h2>
+    <ul class="career-link-list">
+      <li><a href="{{ '/projects/' | relative_url }}">Selected work</a> — websites, practical tools and writing.</li>
+      <li><a href="{{ '/outdoors/' | relative_url }}">Outdoors</a> — Gulf Coast fishing, travel and wildlife observations.</li>
+      <li><a href="{{ '/media/' | relative_url }}">Personal media</a> — creative writing, music and video.</li>
+      <li><a href="{{ '/contact/' | relative_url }}">Contact</a> — employment inquiries and direct contact details.</li>
     </ul>
-    <p class="home-more"><a href="{{ '/projects/' | relative_url }}">Projects — selected work →</a></p>
   </section>
-  {% endif %}
-
-  <section class="home-section" aria-labelledby="home-avail-heading">
-    {% include section-label.html num="02" title="availability" badge="HOME" %}
-    <h2 id="home-avail-heading" class="sr-only">Availability</h2>
-    <div class="panel">
-      <p>{{ aewv.status }}</p>
-      <p>{{ aewv.role }}</p>
-      <p>{{ aewv.relocation }}</p>
-      <p class="home-more"><a href="{{ '/about/' | relative_url }}">About — collaborating notes and AEWV →</a></p>
-    </div>
-  </section>
-
-  <aside class="media-crosslink panel">
-    <p class="media-crosslink__label">Also on this site</p>
-    <ul>
-      <li><a href="{{ '/media/written/journal/essays/' | relative_url }}">Technical essays</a></li>
-      <li><a href="{{ '/media/' | relative_url }}">Media — writing, podcast, album, video</a></li>
-      <li><a href="{{ '/services/' | relative_url }}">Services — documentation and contract work</a></li>
-      <li><a href="{{ '/card-search/' | relative_url }}">Magic: The Gathering card search</a></li>
-    </ul>
-  </aside>
 </div>

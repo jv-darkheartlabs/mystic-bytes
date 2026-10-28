@@ -1,0 +1,24 @@
+.career-page { max-width: 70rem; padding-top: 2rem; padding-bottom: 3rem; }
+.career-page p, .career-page li { line-height: 1.7; }
+.career-page a { overflow-wrap: anywhere; }
+.career-page h2 { margin: 0 0 1rem; font-size: clamp(1.35rem, 3vw, 1.8rem); }
+.career-page h3 { margin: 0 0 .6rem; font-size: 1.12rem; }
+.career-hero { padding: clamp(1.5rem, 5vw, 3rem) 0; }
+.career-headline { font-size: clamp(1.1rem, 2.5vw, 1.45rem); color: var(--foreground); max-width: 48rem; }
+.career-intro { max-width: 48rem; font-size: 1.08rem; }
+.career-location, .career-meta { color: var(--muted-foreground); font-size: .9rem; }
+.career-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin: 1.5rem 0; }
+.career-section { margin: 2.5rem 0; }
+.career-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.career-card { padding: 1.4rem; }
+.career-card p:last-child { margin-bottom: 0; }
+.career-entry { margin: 1.5rem 0; }
+.career-work-list, .career-link-list { padding-left: 1.3rem; }
+.career-work-list li { margin: 0 0 1.5rem; }
+.career-link-list li { margin-bottom: .8rem; }
+.resume-page { max-width: 58rem; }
+.career-page details summary { cursor: pointer; }
+.career-page details[open] summary { margin-bottom: 1rem; }
+.career-page [hidden] { display: none !important; }
+.career-page :focus-visible { outline: 2px solid var(--teal); outline-offset: 4px; }
+@media (max-width: 700px) { .career-grid { grid-template-columns: 1fr; } .career-page { padding-top: 1rem; } }
