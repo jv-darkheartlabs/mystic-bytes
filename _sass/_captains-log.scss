@@ -240,8 +240,9 @@
   top: 0;
   z-index: 40;
   border-bottom: 1px solid var(--border);
-  background: color-mix(in oklab, var(--background) 75%, transparent);
-  backdrop-filter: blur(16px);
+  // Keep navigation opaque and independent of backdrop compositing.
+  background: #120024;
+  background: var(--panel, #120024);
   box-shadow:
     0 1px 0 color-mix(in oklab, var(--red) 16%, transparent),
     var(--glow-violet);
@@ -267,6 +268,9 @@
   justify-content: space-between;
   gap: 1rem;
   padding-block: 1rem;
+  flex-wrap: wrap;
+
+  @media (min-width: 768px) { flex-wrap: nowrap; }
 }
 
 .site-brand {
@@ -274,7 +278,7 @@
   align-items: center;
   flex: 0 1 auto;
   min-width: 0;
-  max-width: calc(100% - 3.5rem);
+  max-width: 100%;
   min-height: 2.75rem;
   color: var(--foreground);
 
@@ -394,28 +398,33 @@
 }
 
 .nav-toggle {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  min-width: 6rem;
+  min-height: 2.75rem;
+  padding: 0.65rem;
+  border: 1px solid var(--violet, #b47aff);
+  color: #f2eafa;
+  background: #1a0830;
+  @include font-mono;
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.nav-toggle__icon {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   gap: 5px;
-  width: 2.75rem;
-  height: 2.75rem;
-  padding: 0;
-  border: 1px solid var(--border);
-  background: color-mix(in oklab, var(--panel) 60%, transparent);
-  cursor: pointer;
-
-  @media (min-width: 768px) {
-    display: none;
-  }
+  width: 1.25rem;
 }
 
 .nav-toggle__bar {
   display: block;
   width: 1.25rem;
   height: 2px;
-  margin-inline: auto;
-  background: var(--teal);
+  background: currentColor;
   transition: transform 0.2s, opacity 0.2s;
 }
 
@@ -426,25 +435,19 @@
 }
 
 .site-nav {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  right: 0;
+  // Links remain usable when JavaScript is disabled or fails to load.
+  display: flex;
+  position: static;
+  flex: 1 0 100%;
   flex-direction: column;
   gap: 0;
   padding: 0.5rem;
   border-bottom: 1px solid var(--border);
-  background: color-mix(in oklab, var(--background) 95%, transparent);
-  backdrop-filter: blur(16px);
-
-  &.is-open {
-    display: flex;
-  }
+  background: #120024;
+  background: var(--panel, #120024);
 
   @media (min-width: 768px) {
-    display: flex;
-    position: static;
+    flex: 0 1 auto;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: flex-end;
@@ -452,8 +455,31 @@
     gap: 0.25rem;
     padding: 0;
     border: 0;
-    background: transparent;
-    backdrop-filter: none;
+  }
+}
+
+@media (max-width: 767px) {
+  // Without the working toggle, a regular non-sticky link list is the fallback.
+  .site-header:not(.is-nav-ready) { position: relative; }
+
+  .site-header.is-nav-ready {
+    .site-header__inner { flex-wrap: nowrap; }
+    .site-brand { max-width: calc(100% - 7rem); }
+    .nav-toggle { display: flex; }
+    .site-nav {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      max-height: calc(100vh - 8rem);
+      max-height: calc(100dvh - 8rem);
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      z-index: 1;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+    }
+    .site-nav.is-open { display: flex; }
   }
 }
 
@@ -463,8 +489,10 @@
   padding: 0.75rem 1rem;
   font-size: 0.75rem;
   text-transform: uppercase;
-  color: var(--muted-foreground);
+  color: #e8def2;
   transition: color 0.15s;
+
+  &:visited { color: #e8def2; }
 
   @media (min-width: 768px) and (max-width: 1199px) {
     padding: 0.75rem 0.55rem;
@@ -490,14 +518,19 @@
   }
 
   &:hover,
+  &:focus-visible,
   &.is-active {
-    color: var(--teal);
+    color: #ffffff;
 
     &::before,
-    &::after {
-      opacity: 1;
-    }
+    &::after { opacity: 1; }
   }
+}
+
+.nav-toggle:focus-visible,
+.site-nav__link:focus-visible {
+  outline: 2px solid #b47aff;
+  outline-offset: -2px;
 }
 
 // Footer

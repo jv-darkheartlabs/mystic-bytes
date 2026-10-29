@@ -16,7 +16,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,400;1,500;1,600&family=Fira+Code:wght@400;500;600;700&family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
 
-  {% assign asset_v = site.github.build_revision | default: site.asset_version | default: site.time | date: '%s' %}
+  {% assign asset_v = site.github.build_revision | default: site.asset_version %}
+  {% unless asset_v %}{% assign asset_v = site.time | date: '%s' %}{% endunless %}
   <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}?v={{ asset_v }}">
   {% assign page_path = page.url | default: page.permalink | default: '' %}
   {% if page_path == '/cv/' or page_path == '/media/' or page_path == '/experience/' or page_path == '/contact/' %}
