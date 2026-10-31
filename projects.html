@@ -23,7 +23,7 @@ permalink: /projects/
         <h3><a href="{{ project.demo | default: project.url | escape }}">{{ project.name | escape }}</a></h3>
         <p>{{ project.text | escape }}</p>
         {% if project.demo %}
-        <p><a href="{{ project.demo | escape }}">View {{ project.name | escape }} demo →</a>{% if project.url %} · <a href="{{ project.url | escape }}">{{ project.name | escape }} source →</a>{% endif %}</p>
+        <p><a href="{{ project.demo | escape }}">{% if project.demo_label %}{{ project.demo_label | escape }} →{% else %}View {{ project.name | escape }} demo →{% endif %}</a>{% if project.url %} · <a href="{{ project.url | escape }}">{{ project.name | escape }} source →</a>{% endif %}</p>
         {% elsif project.url %}
         <p><a href="{{ project.url | escape }}">Explore {{ project.name | escape }} on GitHub →</a></p>
         {% endif %}

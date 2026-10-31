@@ -13,6 +13,8 @@ additional:
     topic: software
     url: https://github.com/jv-darkheartlabs/NeuroShell
     text: A macOS terminal project with user documentation and practical task guidance.
+    demo: https://jv-darkheartlabs.github.io/NeuroShell/
+    demo_label: Illustrated preview
   - name: Ask
     topic: websites
     url: https://github.com/jv-darkheartlabs/ask
