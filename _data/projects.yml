@@ -38,7 +38,9 @@ additional:
   - name: MTGA Collection Exporter
     topic: software
     url: https://github.com/jv-darkheartlabs/mtga-collection-exporter-options
-    text: An adapted tool for exporting a Magic Arena card collection, with installation and usage instructions.
+    text: Adjust a fictional sample collection and download TXT, JSON or CSV exports. No Arena connection or game-memory access is used.
+    demo: https://jv-darkheartlabs.github.io/mtga-collection-exporter-options/
+    demo_label: Collection simulator
   - name: Nightbind
     topic: saas
     url: https://github.com/jv-darkheartlabs/nightbind
