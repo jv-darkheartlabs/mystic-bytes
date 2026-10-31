@@ -6,5 +6,31 @@ permalink: /projects/
 ---
 <div class="container career-page"><header class="signal-header"><p class="page-eyebrow">Selected work</p><h1 class="page-title">Selected work</h1><p class="career-intro">Writing, organizing information, and making practical tools easier to use.</p></header>
 <section class="career-section"><article class="panel career-card"><h2>Dark Heart Labs website</h2><p>This site brings together writing, experience, a résumé and personal collections. The work includes organizing information, maintaining pages and navigation, and keeping the site usable across screen sizes.</p><p><a href="https://github.com/jv-darkheartlabs/mystic-bytes">Website source →</a> · <a href="{{ '/media/written/journal/essays/' | relative_url }}">Technical essay archive →</a></p></article></section>
-<section class="career-section" aria-labelledby="additional-work"><h2 id="additional-work">Additional work</h2><ul class="career-work-list">{% for project in site.data.projects.additional %}<li><h3><a href="{{ project.url }}">{{ project.name }}</a></h3><p>{{ project.text }}</p>{% if project.demo %}<a href="{{ project.demo }}">Open demo →</a>{% endif %}</li>{% endfor %}</ul></section>
-<p><a class="btn-outline" href="{{ '/demos/' | relative_url }}">Demo directory</a></p></div>
+<nav class="career-section" aria-label="Project topics">
+  <p>Browse by topic: <a href="#software">Software</a> · <a href="#saas">SaaS</a> · <a href="#websites">Websites</a> · <a href="#informational">Informational</a></p>
+</nav>
+<div id="additional-work">
+  {% assign topic_keys = "software,saas,websites,informational" | split: "," %}
+  {% assign topic_labels = "Software,SaaS,Websites,Informational" | split: "," %}
+  {% for topic in topic_keys %}
+  {% assign topic_label = topic_labels[forloop.index0] %}
+  {% assign topic_projects = site.data.projects.additional | where: "topic", topic %}
+  <section class="career-section" aria-labelledby="{{ topic }}">
+    <h2 id="{{ topic }}" style="scroll-margin-top: 9rem">{{ topic_label }}</h2>
+    <ul class="career-work-list">
+      {% for project in topic_projects %}
+      <li>
+        <h3><a href="{{ project.demo | default: project.url | escape }}">{{ project.name | escape }}</a></h3>
+        <p>{{ project.text | escape }}</p>
+        {% if project.demo %}
+        <p><a href="{{ project.demo | escape }}">View {{ project.name | escape }} demo →</a>{% if project.url %} · <a href="{{ project.url | escape }}">{{ project.name | escape }} source →</a>{% endif %}</p>
+        {% elsif project.url %}
+        <p><a href="{{ project.url | escape }}">Explore {{ project.name | escape }} on GitHub →</a></p>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
+</div>
+</div>

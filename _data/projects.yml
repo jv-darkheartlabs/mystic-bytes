@@ -1,25 +1,62 @@
 additional:
   - name: Accessibility Rails Components
+    topic: informational
     url: https://github.com/jv-darkheartlabs/accessibility-rails-components
-    text: Accessible interface components with usage guidance and a live demonstration.
+    text: Accessible interface components with interactive color-vision simulations, palette comparisons and clear status cues.
     demo: https://accessibility-rails-components.onrender.com/
+  - name: VECTOR
+    topic: saas
+    url: https://github.com/jv-darkheartlabs/cursor-vector-coding-architect
+    text: An interactive demonstration of coding architecture and workflow guidance.
+    demo: https://vector.darkheartlabs.technology/demo/
   - name: NeuroShell
+    topic: software
     url: https://github.com/jv-darkheartlabs/NeuroShell
     text: A macOS terminal project with user documentation and practical task guidance.
   - name: Ask
+    topic: websites
     url: https://github.com/jv-darkheartlabs/ask
     text: An interactive date-proposal microsite with a step-by-step selection flow.
     demo: https://ask.darkheartlabs.technology/demo/
   - name: Metal Menders
+    topic: websites
     url: https://github.com/jv-darkheartlabs/metalmenders
     text: A responsive business-information website with service, location and contact details.
     demo: https://jv-darkheartlabs.github.io/metalmenders/
   - name: Focus Guard
+    topic: saas
     url: https://github.com/jv-darkheartlabs/focus-guard
     text: A small networking module that applies defined limits to repeated web requests, with setup and operator documentation.
   - name: PhotoSnail Intel
+    topic: software
     url: https://github.com/jv-darkheartlabs/photo-snail-intel
     text: Unofficial Intel-compatible build scripts for PhotoSnail, with practical setup documentation for local photo tagging.
   - name: MTGA Collection Exporter
+    topic: software
     url: https://github.com/jv-darkheartlabs/mtga-collection-exporter-options
     text: An adapted tool for exporting a Magic Arena card collection, with installation and usage instructions.
+  - name: Nightbind
+    topic: saas
+    url: https://github.com/jv-darkheartlabs/nightbind
+    text: A fictional writing-workflow sandbox with sample content and simulated AI suggestions, available without an account.
+    demo: https://nightbind.onrender.com/demo
+  - name: Service Desk
+    topic: saas
+    text: A fictional support-ticket workspace for exploring triage, runbooks, status changes and simulated response-time tracking.
+    demo: https://dark-heart-service-desk-demo.onrender.com/
+  - name: Task Board
+    topic: saas
+    text: A fictional project board with sample tasks, status controls, filters and reset. Changes last only for the current page.
+    demo: https://dark-heart-task-board-demo.onrender.com/
+  - name: Sample Shop
+    topic: websites
+    text: A fictional storefront with a working basket and clearly simulated checkout. No payments or personal details are collected.
+    demo: https://dark-heart-shop-demo.onrender.com/
+  - name: Streaming Dashboard
+    topic: informational
+    text: Live charts of simulated readings, with pause, resume and connection-failure examples. No external data feed is used.
+    demo: https://dark-heart-streaming-demo.onrender.com/
+  - name: Event Delivery Simulator
+    topic: informational
+    text: Step through fictional deliveries, retries, duplicate prevention and failed events held for review. No real webhooks are sent.
+    demo: https://dark-heart-event-simulator.onrender.com/
