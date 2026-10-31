@@ -28,7 +28,9 @@ additional:
   - name: Focus Guard
     topic: saas
     url: https://github.com/jv-darkheartlabs/focus-guard
-    text: A small networking module that applies defined limits to repeated web requests, with setup and operator documentation.
+    text: Explore retry-attempt thresholds with fictional requests, pass or throttle decisions and session history. No real traffic is sent.
+    demo: https://jv-darkheartlabs.github.io/focus-guard/
+    demo_label: Interactive simulator
   - name: PhotoSnail Intel
     topic: software
     url: https://github.com/jv-darkheartlabs/photo-snail-intel
