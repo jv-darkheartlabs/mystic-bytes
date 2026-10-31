@@ -60,3 +60,19 @@ additional:
     topic: informational
     text: Step through fictional deliveries, retries, duplicate prevention and failed events held for review. No real webhooks are sent.
     demo: https://dark-heart-event-simulator.onrender.com/
+  - name: Traceability Explorer
+    topic: informational
+    text: Explore fictional requirements and their component connections, then identify gaps in the sample mappings.
+    demo: https://dark-heart-traceability-demo.onrender.com/
+  - name: Pipeline QA Lab
+    topic: informational
+    text: Follow fixed fictional records through processing stages, inspect rejected records and compare source summaries.
+    demo: https://dark-heart-pipeline-lab.onrender.com/
+  - name: Roles and Permissions Lab
+    topic: informational
+    text: Explore fictional roles, simulated session expiry and revocation, and an audit observer. No real accounts or permissions are changed.
+    demo: https://dark-heart-access-lab.onrender.com/
+  - name: Linux Hardening Report Lab
+    topic: informational
+    text: Review fictional hosts, baseline findings and patch priorities, then compare simulated outcomes. No changes are made to real systems.
+    demo: https://dark-heart-hardening-lab.onrender.com/
