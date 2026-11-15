@@ -1626,22 +1626,13 @@ export const repositories: Repo[] = [
       "ANZSCO 261312: Submission pack — resume, cover letter, and portfolio evidence index with Rails capability blueprint.",
   },
   {
-    name: "wellington-fintech-rails-api",
-    href: "https://github.com/jv-darkheartlabs/wellington-fintech-rails-api",
-    lang: "Ruby",
-    updated: "2026-07",
-    status: "active",
-    blurb:
-      "ANZSCO 261312: Rails API backend exploring fintech patterns for the Wellington market — accounts, ledgers, and transaction primitives.",
-  },
-  {
     name: "wellington-api-static",
     href: "https://github.com/jv-darkheartlabs/wellington-api-static",
     lang: "HTML",
     updated: "2026-07",
     status: "active",
     blurb:
-      "ANZSCO 261312: Static documentation site paired with the Wellington fintech Rails API. Endpoint reference and onboarding notes.",
+      "ANZSCO 261312: Static documentation site presenting Wellington FinTech API endpoints and health snapshots (companion project retired 2026-11-15). Endpoint reference and onboarding notes.",
   },
   {
     name: "clerk-nextjs-starter",
