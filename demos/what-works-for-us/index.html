@@ -1,0 +1,1234 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What Works for Us | Dark Heart Labs</title>
+<style>
+:root{color-scheme:dark;--bg:#0a0e27;--panel:#151b35;--line:#4a5578;--text:#e2e8f0;--muted:#aab8cf;--cyan:#67e8f9;--purple:#c4b5fd;--orange:#fdba74}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top right,#252047,var(--bg) 50%);min-height:100vh;color:var(--text);font:1rem/1.6 Inter,system-ui,sans-serif}
+header,main,footer{width:min(880px,calc(100% - 2rem));margin:auto}header{display:flex;justify-content:space-between;gap:1rem;padding:1.2rem 0;border-bottom:1px solid var(--line);font-family:"Space Mono",monospace}main{padding:clamp(1.8rem,6vw,4rem) 0}footer{border-top:1px solid var(--line);padding:1rem 0 2rem;color:var(--muted);font-size:.85rem}a{color:var(--cyan)}h1,h2,h3,.mono{font-family:"Space Mono","Courier New",monospace;line-height:1.2}h1{font-size:clamp(2.2rem,7vw,4.6rem);margin:.3em 0}h2{font-size:clamp(1.25rem,4vw,2rem)}p{max-width:68ch}.muted{color:var(--muted)}.accent{color:var(--cyan)}.warning{color:var(--orange)}
+.card,fieldset,details{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:clamp(1rem,4vw,1.8rem);margin:1rem 0;min-width:0}fieldset{padding-top:1rem}legend{padding:0 .4rem;color:var(--purple);font-weight:700}label.choice{display:flex;align-items:baseline;gap:.6rem;border:1px solid var(--line);border-radius:8px;padding:.6rem .75rem;margin:.45rem 0;cursor:pointer}label:has(input:checked){border-color:var(--cyan);background:#1a324b}input{accent-color:#22d3ee}button{font:inherit;font-weight:700;padding:.62rem 1rem;border-radius:8px;border:1px solid var(--line);color:var(--text);background:#1a1f3a;cursor:pointer}button.primary{background:#67e8f9;color:#0a0e27;border-color:#67e8f9}button:hover{border-color:var(--cyan)}:focus-visible{outline:3px solid var(--purple);outline-offset:3px}button:disabled{opacity:.5;cursor:default}.actions{display:flex;gap:.65rem;flex-wrap:wrap;margin-top:1rem}progress{width:100%;accent-color:#22d3ee}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:1rem}.grid .card{margin:0}summary{cursor:pointer;font-weight:700}.path{border-left:3px solid var(--cyan);padding-left:1rem}.score{font-size:2.5rem;color:var(--cyan)}pre{white-space:pre-wrap;font:inherit}svg{max-width:100%;height:auto}
+textarea{width:100%;min-height:5rem;background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:.7rem;font:inherit}meter{display:block;width:100%;height:1rem;margin:.25rem 0 .8rem}meter::-webkit-meter-optimum-value{background:#22d3ee}meter::-moz-meter-bar{background:#22d3ee}.chart-row{margin:.75rem 0}.chart-row strong{display:flex;justify-content:space-between;gap:1rem}.guide dt{font-weight:700;color:var(--purple)}.guide dd{margin:0 0 .85rem}
+.venn{display:block;margin:auto}.venn text{font-family:system-ui,sans-serif;fill:var(--text)}details details{padding:1rem}
+table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:.45rem;border-bottom:1px solid var(--line);vertical-align:top}.table-scroll{overflow:auto}.stack{display:flex;height:.7rem;margin-top:.3rem}.stack span:nth-child(1){background:#34d399}.stack span:nth-child(2){background:#a78bfa}.stack span:nth-child(3){background:#fb923c}
+@media print{body{background:white;color:#111}header,footer,.actions,.print-controls,button{display:none!important}main{width:100%;padding:0}.card,details{background:white;color:#111;border-color:#888}.muted,.accent,.warning,.score,.guide dt{color:#222}svg text{fill:#222!important}figure,.card,tr{break-inside:avoid}svg,.stack,meter{print-color-adjust:exact;-webkit-print-color-adjust:exact}.table-scroll{overflow:visible}}
+.work-assessment{border:1px solid var(--line);border-top:4px solid var(--cyan);border-radius:8px;padding:.75rem;break-inside:avoid}.work-assessment:nth-child(even){border-top-color:var(--purple)}.work-assessment .card{border:0;padding:.3rem}.work-assessment p{padding:0 .4rem}.intimacy-card{background:#e9e9e9;color:#202020;border:2px solid #252525;border-radius:8px;padding:1rem;margin:1rem 0;print-color-adjust:exact;-webkit-print-color-adjust:exact}.intimacy-card h3{margin:0;font-size:1.5rem}.intimacy-axis{--left:#58a9ed;--right:#ed79b9;margin:1rem 0}.axis-1{--left:#f28068;--right:#63cecb}.axis-2{--left:#efae61;--right:#76c789}.axis-3{--left:#bc91f4;--right:#d2d2d2}.axis-4{--left:#ef8e9b;--right:#79ccdb}.intimacy-axis h4{text-align:center;margin:.2rem 0}.axis-row{display:grid;grid-template-columns:minmax(4.4rem,1fr) minmax(3rem,3fr) minmax(4.4rem,1fr);align-items:stretch}.axis-row>strong,.axis-track{border:2px solid #252525}.axis-row>strong{padding:.25rem;text-align:center;font-size:.72rem;background:var(--left);overflow-wrap:anywhere}.axis-row>strong:last-child{background:var(--right)}.axis-track{display:flex;min-height:2rem;border-inline:0}.axis-track span{display:grid;place-items:center;background:var(--left);font-weight:800;min-width:0}.axis-track span+span{background:var(--right)}.intimacy-axis details{padding:.25rem .45rem;margin:.35rem 0 0;color:#202020;background:#f4f4f4;border-color:#aaa}.intimacy-axis summary{font-size:.8rem}@media print{.intimacy-axis{break-inside:avoid}}
+</style>
+<header><a href="https://darkheartlabs.technology/projects/">Dark Heart Labs</a><span class="muted">Demos</span></header>
+<main id="app"></main>
+<footer>
+<p>Quiz flow adapted from <a href="https://sexvalues.github.io/">SexValues</a> and 8values. <a href="LICENSE">MIT license</a>.</p></footer>
+<script>
+"use strict";
+const topics = [
+ ["Weekday routines",[
+  ["After a demanding workday, how would you organize time together?", "Most evenings together|Time alone first, then reconnect|Set a few evenings together in advance|Decide day by day based on energy and schedules","A flexible evening can feel open to one person and unplanned to the other."],
+  ["How much weekend time would you reserve for independent plans?", "Most of one day|A few hours each weekend|Separate time as needed without a fixed block|Usually plan the weekend together","Making independent plans without checking in can create different expectations for the weekend."]]],
+ ["Career, schedules, and travel",[
+  ["If one of you travels for work one week every month, what contact rhythm would you choose?", "Daily call or video chat|Brief daily check-in by text or voice|A few planned check-ins during the week|Check in when schedules allow","The gap would be most noticeable on travel days without a check-in."],
+  ["During recurring work travel, how would you cover responsibilities at home?", "Assign specific tasks in advance, including what can be done remotely|Trade heavier weeks across the month|Arrange outside help|Decide together based on the tasks and each person’s capacity","The person at home could end up carrying the work and the planning if ownership is unclear."],
+  ["A recurring work shift cuts into your usual evening together. How would you make time?", "Protect a different recurring block|Schedule time week by week|Use shorter check-ins and save longer time for days off|Ask for a schedule change if the pattern continues","An irregular workweek can make shared time depend on who initiates planning."]]],
+ ["Money",[
+  ["How would you cover shared household expenses?", "Split evenly|Split in proportion to income|Pool income for shared and personal spending|Agree on contributions by category","A change in income could make the same split feel different to each person."],
+  ["How would you handle a substantial purchase that affects your shared budget?", "Discuss and agree before buying|Use a pre-agreed spending threshold|Decide independently within separate allowances|Discuss at a regular budget check-in","A purchase can become a surprise if you use different thresholds for checking in."]]],
+ ["Chores and planning",[
+  ["How would you divide recurring household work, including noticing when it needs doing?", "Own whole tasks from planning to completion|Rotate tasks on a schedule|Decide weekly based on capacity|Use a shared list and pick tasks as needed","Someone may become the default person who notices, reminds, and follows up."]]],
+ ["Conflict and repair",[
+  ["You disagree late in the evening. When would you want to revisit it?", "Talk it through that evening|Take a short break and return that evening|Check in briefly and set a time the next day|Wait until both feel ready and then schedule a talk","A pause can feel restorative to one person and unresolved to the other."],
+  ["What would you want first when reconnecting after a disagreement?", "Acknowledge the impact on each other|Agree on a concrete change|Reassure each other that the relationship is okay|Take a short reset together before discussing it","One person may offer a solution while the other is waiting to feel heard."]]],
+ ["Housing",[
+  ["What living arrangement would you aim for in the next few years?", "Live together near our current home base|Move together to a new area|Split time between two places|Keep separate homes","Location decisions could affect commutes, community, and what each person would give up."]]],
+ ["Children",[
+  ["What future regarding raising children would you choose?", "Plan to raise children|Plan a future without raising children|Revisit the decision together at an agreed time","This choice changes the shared future each person is planning for."]]],
+ ["Affection",[
+  ["When you’re out together, what public affection would you prefer?", "Mostly verbal affection or gestures|Hand-holding or brief hugs|Open physical affection where appropriate|Keep physical affection private","The same gesture may feel warm to one person and too public to the other."],
+  ["At home, what everyday affection would you most want to build in?", "Physical closeness|Verbal warmth and appreciation|Small helpful gestures|Focused time together","One person’s everyday gestures may be easy for the other to miss."]]],
+ ["Love languages and access",[
+  ["After a hard day, what would most help you feel cared for?", "Specific words of encouragement|Uninterrupted time together|A practical task taken off my plate|A small thoughtful gift or gesture|Welcome physical affection|Quiet company while we each do our own thing|Space to recover, with a check-in later","One person may offer help or closeness while the other needs to recover before they can receive it."],
+  ["During an ordinary week, how would you most naturally show care?", "Say what I appreciate|Make time for something together|Take care of a practical task|Bring a thoughtful gift or gesture|Offer physical affection with a check-in|Share an interest or make space for parallel activities|Notice and protect my partner’s need for quiet or rest",null],
+  ["What agreement about everyday affectionate touch would work for you?", "Check in each time|Agree on welcome gestures and check in before other touch|Use a clear signal for when touch is welcome|Let the person who wants touch initiate|Use forms of affection that don’t involve touch","An unexpected hug can feel affectionate to one person and overwhelming to the other."],
+  ["When either of you is overloaded and conversation is hard, what would work best?", "Offer quiet company with minimal talking|Give space and agree when to check in|Send one short text with clear options|Reduce sensory input together, then check in|Ask whether practical help or space would be better","Repeated questions can add to overload, while unexplained silence can leave the other person guessing."],
+  ["How would you prefer to raise a sensitive need when speaking in the moment is hard?", "Say it plainly in a short conversation|Send a text or note before talking|Use an agreed signal and talk later|Schedule a short check-in with time to prepare","A request for time to process can be mistaken for avoidance if there’s no plan to come back to it."],
+  ["If a recurring shared task is easy to forget or hard to start, what support could you both use?", "Use a shared checklist with clear owners|Work on tasks alongside each other|Agree on one reminder and a clear deadline|Adjust the task or trade responsibilities|Keep reminders and task tracking individual","Help that feels supportive to one person can feel like monitoring to the other. Agree on who sets reminders and how often."]]],
+ ["Sexual intimacy",[
+  ["How would you prefer to manage differences in sexual desire or frequency?", "Talk regularly about what each wants|Discuss when either person notices a pattern|Keep check-ins spontaneous and agree on how to raise concerns","Unspoken expectations can build if you check in at different times."],
+  ["What rhythm would you prefer for sexual intimacy in a settled relationship?", "Most days when mutually wanted|A few times most weeks|Less often, with flexibility|No target frequency|Little or no sexual intimacy","Different expectations could surface when one person assumes a rhythm that the other has never agreed to."],
+  ["How would you prefer a partner to initiate sexual intimacy?", "Ask directly|Flirt or signal first, then check in|Set aside time together and decide in the moment|Have me initiate when I want it","Indirect signals may be missed or interpreted differently."],
+  ["How would you prefer to discuss sexual boundaries and comfort?", "Talk explicitly ahead of time and check in in the moment|Start with a brief conversation and discuss specifics as they arise|Have regular private check-ins in addition to in-the-moment communication","Different expectations about when to talk could leave either person unsure what has been agreed."]]],
+ ["Relationship structure and boundaries",[
+  ["Which relationship structure would you choose?", "Romantic and sexual exclusivity|Romantic exclusivity with agreed sexual openness|Agreed openness to other romantic relationships|Work out a specific agreement together first","The same relationship label can carry different expectations about exclusivity."],
+  ["What agreement would you want about dating apps and deliberate flirting with others?", "Neither active dating apps nor deliberate flirting|Flirting within agreed limits, with dating apps off|Discuss and explicitly agree on permitted uses and interactions|Allow both within the relationship agreement","A dating app or flirtatious interaction could be read differently without a concrete agreement."]]]
+];
+const coreScenarios = topics.flatMap(([topic, entries], t) => entries.map(([prompt, options, friction], q) => ({
+ id: "r"+t+"-"+q, topic, prompt, options: options.split("|"), friction, descriptive: friction===null
+})));
+// The order preserves a one-to-one mapping to the 27 upstream question IDs.
+// A null friction statement marks a descriptive answer outside compatibility scoring.
+const interest = "Interested in exploring together|Curious, with a conversation first|Okay for a partner to enjoy independently|Outside my boundaries";
+const intimacyItems = [
+ ["Attraction","How often do you feel romantic attraction toward men?","Often|Sometimes|Rarely|Never|I don’t experience romantic attraction",null],
+ ["Attraction","How often do you feel sexual attraction toward men?","Often|Sometimes|Rarely|Never|I don’t experience sexual attraction",null],
+ ["Attraction","What role does a muscular build play in your physical attraction?","Often adds to it|Sometimes adds to it|Usually makes little difference|Usually reduces it",null],
+ ["Attraction","How much do a potential partner’s anatomy or physical traits matter to your attraction?","A major factor|One factor among several|Usually a minor factor|I don’t experience physical attraction",null],
+ ["Attraction","How does feminine presentation tend to affect your attraction?","Often adds to it|Sometimes adds to it|Usually makes little difference|Usually reduces it",null],
+ ["Attraction","How often do you feel sexual attraction toward women?","Often|Sometimes|Rarely|Never|I don’t experience sexual attraction",null],
+ ["Attraction","How often do you feel romantic attraction toward women?","Often|Sometimes|Rarely|Never|I don’t experience romantic attraction",null],
+ ["Sexual intimacy","How often do sexual thoughts or fantasies arise for you?","Often|Sometimes|Rarely|Never",null],
+ ["Sexual intimacy","When interest in intimacy differs from day to day, what invitation pattern would work for you?","Ask in the moment and accept the answer|Agree on a time for closeness, then decide together|Wait for the person with lower interest to initiate|Check in periodically and agree on a pattern together","A planned invitation may feel supportive to one person and pressuring to the other."],
+ ["Sexual intimacy","How often do you choose solo sexual activity?","Most days|A few times a week|Occasionally|Rarely or never",null],
+ ["Sexual intimacy","What agreement would you prefer about sexually explicit media?","Private individual choice|Discuss limits that affect either partner|Avoid it within the relationship|Agree separately on private and shared use","Different assumptions about media can become a boundary issue if neither person raises them."],
+ ["Sexual intimacy","How does the idea of partnered sexual activity generally feel to you?","Appealing|Neutral|Usually unappealing|Strongly uncomfortable|Varies by circumstance",null],
+ ["Sexual intimacy","What agreement about waiting for sexual activity would work for you?","Wait for mutual readiness without a milestone|Wait for commitment|Wait for marriage or another explicit milestone|Plan for a relationship without sexual activity","Different timelines can create uncertainty about what commitment means in practice."],
+ ["Consensual roles and interests","How do you feel about taking a leading role in a negotiated intimate power dynamic?","Interested in leading|Curious about leading with agreed limits|Prefer a shared or alternating lead|Prefer no power dynamic",null],
+ ["Consensual roles and interests","How do you feel about following a partner’s lead in a negotiated intimate power dynamic?","Interested in following|Curious about following with agreed limits|Prefer a shared or alternating lead|Prefer no power dynamic",null],
+ ["Consensual roles and interests","Which agreement about intimate roles could work for both people?","Equal roles without a power dynamic|Alternate leading and following by agreement|Negotiate distinct roles together|Keep roles open and discuss each time","Two people may each want to lead or follow. The practical question is which role arrangement both would accept."],
+ ["Consensual roles and interests","How would you approach fantasy roleplay in a shared intimate life?",interest,"One person may see roleplay as something to explore together while the other sees it as private or outside their limits."],
+ ["Consensual roles and interests","What agreement about kink communities or events would you prefer?","Attend together if both want to|Allow independent participation within agreed limits|Discuss participation case by case|Keep community participation outside the relationship","Social participation and private interests can call for different agreements."],
+ ["Consensual roles and interests","What boundary would you choose for negotiated humiliating language or verbal degradation?",interest,"A shared label can hide differences about which words or situations would actually be acceptable."],
+ ["Consensual roles and interests","What boundary would you choose for negotiated impact play or intense physical sensation?",interest,"Curiosity and a firm limit need to be discussed separately from consent in any specific situation."],
+ ["Consensual roles and interests","What level of novelty would you want in your shared intimate life?","Prefer familiar, straightforward intimacy|Occasionally try something new by mutual agreement|Regularly discuss new interests together|Have no shared intimacy activities","The difference may show up in who raises new ideas and how often."],
+ ["Consensual roles and interests","If a partner mentioned an interest you don’t share, what agreement would you want?","Talk openly and keep the activity out of shared intimacy|Talk about whether any limited version fits both|Allow private exploration within agreed limits|Treat the interest as outside our relationship agreement","Sharing an interest and consenting to take part are separate decisions."],
+ ["Consensual roles and interests","What would help when one person wants more variety than the other?","Name shared interests and keep to those|Revisit preferences periodically without pressure|Discuss private interests and agree on limits|Keep familiar activities and agree how new ideas may be raised","One person may experience frequent invitations as pressure even when the other intends them as suggestions."],
+ ["Emotional connection","What agreement about sharing sexual attention with others would you prefer?","Reserve it for each other|Allow agreed sexual attention without dating|Allow connections within an explicit open agreement|Define specific boundaries together first","Different ideas about exclusivity can surface in online interactions as well as in person."],
+ ["Emotional connection","How much emotional connection do you typically want before partnered sexual intimacy?","A committed emotional bond|A sense of trust and familiarity|Some attraction and mutual comfort|Emotional connection is optional for me|I do not want partnered sexual intimacy",null],
+ ["Emotional connection","How should casual sexual encounters outside the relationship be handled?","Keep them outside the agreement|Allow them only under an explicit shared agreement|Revisit the question together before either person acts","Different assumptions about casual encounters can affect the meaning of exclusivity."],
+ ["Emotional connection","When pleasure and emotional connection feel out of sync, how would you prefer to respond?","Pause and reconnect emotionally first|Talk about what each person wants in the moment|Set aside time later to discuss the pattern|Agree together to focus on closeness without sexual activity","One person may want closeness first while the other is comfortable treating pleasure and connection separately."]
+].map(([topic,prompt,options,friction],i)=>({id:"sv"+(i+1),topic,prompt,options:options.split("|"),friction,descriptive:friction===null}));
+
+const scenarios = [...coreScenarios,...intimacyItems];
+const personalItems = scenarios.filter(q=>q.descriptive);
+const topicOrder = [...topics.map(([topic])=>topic)];
+topicOrder.splice(topicOrder.indexOf("Sexual intimacy"),0,"Attraction");
+topicOrder.splice(topicOrder.indexOf("Sexual intimacy")+1,0,"Consensual roles and interests","Emotional connection");
+const scoredTopics = topicOrder.filter(topic=>scenarios.some(q=>q.topic===topic&&!q.descriptive));
+const attachmentScenarios = [
+ "A partner goes quiet or replies much later than expected",
+ "One person wants closeness while the other needs space",
+ "After an argument, one person wants to reconnect sooner",
+ "One person asks for reassurance or support under stress"
+];
+const attachment = ["Stay engaged and ask what would help","Seek reassurance or make contact quickly","Want contact but hesitate because it may go badly","Pull back to settle down when overwhelmed","Prefer to handle it independently and move on"];
+const attachmentLabels = ["Secure","Anxious","Fearful","Avoidant","Dismissive"];
+const profileItems = [
+ ["O","I made time to try a new approach or experience even when a familiar option was available."],
+ ["O","I explored an idea or hobby simply because I was curious."],
+ ["C","I used a plan or reminder to follow through on a commitment."],
+ ["C","I handled a routine obligation before it became urgent."],
+ ["E","I initiated a conversation or social plan because interaction energized me."],
+ ["E","After an extended period alone, I sought out company."],
+ ["A","I adjusted my approach after hearing what someone else needed."],
+ ["A","I looked for a solution that worked for both people during a disagreement."],
+ ["N","A relatively small setback stayed on my mind long after it happened."],
+ ["N","Uncertainty about an upcoming event made it difficult to settle."],
+ ["EI","After a busy week, how did you usually recharge?","Seek interaction|Spend time alone"],
+ ["EI","When working out a new idea, what did you do first?","Talk it through|Think it through privately"],
+ ["SN","When instructions were ambiguous, what did you look for first?","Concrete examples and details|The overall pattern and possibilities"],
+ ["SN","When recalling an event, what did you usually notice first?","What happened in sequence|What it might mean"],
+ ["TF","When a shared decision was difficult, what did you weigh first?","Whether the reasoning held consistently|How it affected the people involved"],
+ ["TF","When giving difficult feedback, what did you typically lead with?","The specific issue and reasoning|The person’s situation and values"],
+ ["JP","How did you typically handle a day with several commitments?","Set the schedule in advance|Keep the schedule flexible"],
+ ["JP","When a choice was reversible, what did you usually prefer?","Decide and move forward|Leave options open longer"],
+ ["ABCD","When several tasks competed for your time, which reaction was closest?","Push to get everything done quickly|Stay relaxed and work through the list|Avoid raising tension about the workload|Feel distressed and keep it to myself"],
+ ["ABCD","When plans slipped, which response happened most often?","Press to get back on schedule|Adjust without much urgency|Go along to avoid conflict|Worry and hesitate to speak up"],
+ ["DISC","When a group stalled, what did you usually do?","Make a decision and get moving|Build enthusiasm and bring people in|Help people coordinate at a steady pace|Check the details and constraints"],
+ ["DISC","When joining an unfamiliar project, what role came most naturally?","Set direction|Build relationships and momentum|Provide dependable support|Check standards and accuracy"],
+ ["ENN","Which concern most often drove your response when a commitment went badly?","Doing it correctly|Being helpful and valued|Achieving the goal|Staying true to myself|Understanding what happened|Knowing what I could rely on|Finding new options|Keeping control over my choices|Restoring peace"],
+ ["ENN","Which priority best describes a difficult choice you made recently?","Improve what was wrong|Meet someone’s needs|Make progress toward success|Honor what felt personally meaningful|Protect time to think and understand|Reduce uncertainty and build trust|Keep options and possibilities open|Stand up for myself or others|Keep the situation calm"]
+].map(([key,prompt,options],i)=>({id:"p"+i,key,prompt,options:options?.split("|")||["Rarely","Sometimes","Often","Very often"]}));
+const extras = [
+ ["AT","When a close connection felt strained, what did you most often do first?",attachment],
+ ["EI","At an unfamiliar gathering, what usually felt more restorative? ",["Find someone to talk to","Step away to collect my thoughts"]],
+ ["SN","What helped you learn a new task recently?",["A worked example","A model of how the pieces fit"]],
+ ["TF","When a rule caused a problem, what did you consider first?",["Applying the same logic consistently","What the people involved needed"]],
+ ["JP","What helped most on your last busy weekend?",["A plan I could follow","Room to adjust as I went"]],
+ ["ABCD","What did you notice first when the week became unusually busy?",["Pressure to move faster","Ability to take it in stride","A wish to avoid making waves","Worry I kept to myself"]],
+ ["DISC","What contribution did you make first in a recent team problem?",["Drive a decision","Get people engaged","Support a steady plan","Verify what was correct"]],
+ ["ENN","When you had to make a tradeoff, what did you most want to protect?",["Standards","A relationship through helping","Progress","Personal meaning","Time to understand","Security","Options","Autonomy","Harmony"]],
+ ...[["O","I tried an unfamiliar way of doing a familiar task."],["C","I checked that I had followed through on a commitment."],["E","I chose to spend free time with other people."],["A","I made room for someone else’s preference when we disagreed."],["N","I kept thinking about something that might go wrong."]].map(([key,prompt])=>[key,prompt,["Rarely","Sometimes","Often","Very often"]])
+].map(([key,prompt,options])=>({id:"x"+key,key,prompt,options}));
+const app = document.querySelector("#app");
+const open = ["It depends"];
+const conditions = ["Timing or duration","Schedules or energy","Resources or responsibilities","Trust or what we’ve agreed"];
+const conditionPrompts = [
+ "Assume this becomes a regular part of life. Which answer would you choose most weeks?",
+ "Picture an ordinary week with your usual schedule and energy. Which answer fits best?",
+ "Assume the time, money, and help you usually have today. Which answer could you realistically choose?",
+ "Picture a trusted partner and a clear agreement. Which answer would you choose?"
+];
+const state = {};
+const schema = "dhl-life-together-v4";
+const attachmentItems = attachmentScenarios.flatMap((prompt,i)=>["Typical day","Under stress"].map((context,j)=>({
+ id:"a"+i+j,key:"AT",prompt:prompt+" · "+context,options:attachment
+})));
+const baseItems = [...profileItems,...attachmentItems];
+const escape = value => String(value).replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[char]);
+const list = values => values.map(escape).join(", ");
+const radio = (name, options, selected, multiple=false) => options.map((option,i)=>
+ '<label class="choice"><input type="'+(multiple?"checkbox":"radio")+'" name="'+name+'" value="'+i+'" '+
+ (selected.includes(i)?"checked ":"")+(multiple?"":"required ")+'> <span>'+escape(option)+'</span></label>').join("");
+const field = (label, content) => '<fieldset><legend>'+escape(label)+'</legend>'+content+'</fieldset>';
+function view(title, body, eyebrow="") {
+ app.innerHTML = (eyebrow?'<div class="mono accent">'+escape(eyebrow)+'</div>':"")+
+  '<h1 tabindex="-1">'+escape(title)+'</h1>'+body;
+ app.querySelector("h1").focus({preventScroll:true});
+ window.scrollTo(0,0);
+}
+function home() {
+ view("What Works for Us",'<p class="muted">Get to know how you connect with people at work and in your personal life, from how you collaborate to how you build a life with someone.</p>'+
+ '<section class="card"><h2>What you’ll explore</h2><ul>'+
+ '<li><strong>Interests</strong> · Everyday activities, values-led interests, and work activities, subjects, and causes in the Work profile.</li><li><strong>Personality</strong> · Big Five, MBTI-style preferences, DISC, Enneagram, and A/B/C/D patterns.</li>'+
+ '<li><strong>Daily life and shared plans</strong> · Time together and alone, careers, schedules, work travel, money, chores, conflict and repair, housing, and children.</li>'+
+ '<li><strong>Care and support</strong> · Giving and receiving care, public and private affection, sensory and touch preferences, communication, overload, and help with tasks.</li>'+
+ '<li><strong>Attraction and intimacy</strong> · Romantic and sexual attraction, desire, frequency, initiation, personal habits, emotional connection, consensual roles and interests, exclusivity, and boundaries.</li>'+
+ '<li><strong>Attachment and responses under stress</strong> · Personality in ordinary weeks and under stress, plus how you handle feedback, empathy, accountability, trust, closeness, and boundaries in close relationships and at work or with friends.</li></ul>'+
+ '<p>Choose <strong>Relationship quiz</strong> for the full experience, including intimacy. Choose <strong>Work profile</strong> for a shorter set of personality and work-habit questions and a report you can print or save as a PDF.</p>'+
+ '<p>Keep this tab open if you take a break. From your relationship results, you can preview a PDF or create a comparison code. Anyone with the code can read what it contains. You choose whether to include your How I Respond summary.</p>'+
+ '<p><strong>Be brutally honest with yourself.</strong> Answer from what you actually do, what you can consistently offer, and what you can genuinely live with. The results depend on the answers you give.</p>'+
+ '<div class="actions"><button class="primary" id="start">Start the relationship quiz</button><button id="start-work">Start Work profile</button><button id="restore">Restore saved answers</button><button id="compare">Compare codes</button><button id="sample">View a fictional comparison</button><button id="preview-sharing">Preview sharing</button></div></section>',"Relationships at work and beyond");
+ app.querySelector("#start").onclick=()=>step(0);
+ app.querySelector("#start-work").onclick=()=>workStep(0);
+ app.querySelector("#restore").onclick=restoreView;
+ app.querySelector("#compare").onclick=()=>importView();
+ app.querySelector("#preview-sharing").onclick=()=>{
+  const sample=sampleFile(0);
+  shareView(sample,home,sample.behavior);
+ };
+ app.querySelector("#sample").onclick=()=>comparison(sampleFile(0),sampleFile(1));
+}
+const weights = scoredTopics.map((topic,i)=>({id:"w"+i,topic}));
+const mainSteps = [...topicOrder.flatMap(topic=>scenarios.filter(q=>q.topic===topic)),{id:"importance",topic:"Topic importance"},...baseItems];
+const dimensions = {AT:attachmentLabels,EI:["E","I"],SN:["S","N"],TF:["T","F"],JP:["J","P"],ABCD:["A · driven and time-urgent","B · relaxed","C · conflict-avoidant","D · distressed and socially inhibited"],DISC:["D · Dominance","i · Influence","S · Steadiness","C · Conscientiousness"],ENN:["1 · Reformer","2 · Helper","3 · Achiever","4 · Individualist","5 · Investigator","6 · Loyalist","7 · Enthusiast","8 · Challenger","9 · Peacemaker"]};
+const ocean = {O:"Openness",C:"Conscientiousness",E:"Extraversion",A:"Agreeableness",N:"Neuroticism"};
+const traitBehaviors=["look for a new approach","make a plan and follow through","seek out conversation or company","look for common ground","keep thinking about what might go wrong"];
+const contextItems=Object.keys(ocean).flatMap((key,i)=>["Ordinary week","Under stress"].map((context,j)=>({
+ id:"o"+key+j,key,context,prompt:context+" · How often do you "+traitBehaviors[i]+"?",
+ options:["Rarely","Sometimes","Often","Very often"]
+})));
+contextItems.push({id:"ordinary-abcd",key:"ABCD",context:"Ordinary week",prompt:"During an ordinary week, how do you usually handle competing plans and needs?",
+ options:["Keep things moving and speak up quickly","Stay flexible and adjust calmly","Go along to avoid creating tension","Keep concerns to myself even when they bother me"]});
+function tally(key, answers) {
+ const items = [...baseItems,...extras].filter(q=>q.key===key && Number.isInteger(answers[q.id]) && answers[q.id]<q.options.length);
+ const counts = Array(dimensions[key]?.length || 4).fill(0);
+ items.forEach(q=>counts[answers[q.id]]++);
+ return {items,counts};
+}
+function needsExtra(q,answers) {
+ const {items,counts}=tally(q.key,answers);
+ const ranked=[...counts].sort((a,b)=>b-a);
+ return q.key in ocean ? items.length<2 : ranked[0]-ranked[1]<=(q.key==="AT"?1:0);
+}
+const reviewedSections=new Set();
+const shortcutIds=new Set();
+const knownProfiles={};
+const knownFrameworks=["MBTI","Big Five","A/B/C/D","DISC","Enneagram","Attachment"];
+function sectionFor(q){
+ return q.topic||q.context||(q.key==="AT"?"Attachment scenarios":"Recent behavior and decisions");
+}
+function shortcutScreen(section,items,next,back){
+ const available=items.filter(q=>q.options&&!Object.hasOwn(state,q.id));
+ view(section,'<p>Check statements that already describe you. Leave the rest for the questions that follow.</p><form>'+
+ available.map(q=>field(q.prompt,radio("shortcut-"+q.id,q.options.map(label=>q.friction?label+" · my first choice and only acceptable option":label),[],true))).join("")+
+ (section==="Recent behavior and decisions"?'<details><summary>Record a personality result I already know</summary><p>These are labeled as self-reported. The quiz still asks about the behaviors behind its own estimates.</p>'+
+ knownFrameworks.map((label,i)=>'<p><label>'+label+' <input name="known-'+i+'" maxlength="80" value="'+escape(knownProfiles[label]||"")+'"></label></p>').join("")+'</details>':"")+
+ '<div class="actions"><button type="button" id="back">Back</button><button class="primary">Continue</button></div></form>');
+ app.querySelector("#back").onclick=back;
+ app.querySelector("form").onsubmit=event=>{
+  event.preventDefault();
+  const data=new FormData(event.currentTarget);
+  available.forEach(q=>{
+   const choices=data.getAll("shortcut-"+q.id).map(Number);
+   if(choices.length!==1)return;
+   const pref=choices[0];
+   state[q.id]=q.friction?{pref,accept:[pref],firm:0}:pref;
+   shortcutIds.add(q.id);
+  });
+  if(section==="Recent behavior and decisions")knownFrameworks.forEach((label,i)=>{
+   const value=String(data.get("known-"+i)||"").trim();
+   if(value)knownProfiles[label]=value;else delete knownProfiles[label];
+  });
+  reviewedSections.add(section);
+  next();
+ };
+}
+function step(index,direction=1) {
+ const pages=[...mainSteps,...extras.filter(q=>Object.hasOwn(state,q.id) || needsExtra(q,state)),...contextItems];
+ if(index>=pages.length){completeQuiz();return;}
+ if(index<0){home();return;}
+ const q=pages[index], previous=state[q.id];
+ const section=sectionFor(q);
+ const sectionItems=pages.filter(item=>sectionFor(item)===section);
+ if(direction>0&&!reviewedSections.has(section)&&sectionItems.some(item=>item.options&&!Object.hasOwn(state,item.id))){
+  shortcutScreen(section,sectionItems,()=>step(index),()=>step(index-1,-1));return;
+ }
+ if(direction>0&&shortcutIds.has(q.id)){step(index+1);return;}
+ const isRelationship=Boolean(q.friction), isWeight=q.id==="importance";
+ const previousCondition=isRelationship?previous?.condition:state["condition-"+q.id];
+ const priorAnswer=isRelationship?previous?.pref:previous;
+ const importance=["1 · Low","2 · Some","3 · Moderate","4 · High","5 · Essential"];
+ const context=q.topic || q.context || (q.key==="AT"?"Attachment scenarios":"Recent behavior and decisions");
+ const question=isWeight?'<p>Rate how much each topic matters to you.</p>'+weights.map(w=>field(w.topic,radio(w.id,importance,[state[w.id]]))).join(""):
+  field(q.prompt,radio("preference",[...q.options,...open],priorAnswer===undefined?[]:[previousCondition===undefined?priorAnswer:q.options.length]))+
+  '<div id="condition" hidden>'+field("What changes your answer most?",radio("condition",conditions,[previousCondition]))+
+  '<div id="resolution" hidden>'+field("Choose your answer",radio("resolved",q.options,[priorAnswer]))+'</div></div>'+
+  (isRelationship?field("Any other arrangements you could accept?",radio("accept",q.options,previous?.accept.filter(i=>i!==priorAnswer)||[],true)+
+   '<p class="muted">Your first choice is already included.</p>'+radio("firm",["My list is a firm boundary"],previous?.firm?[0]:[],true)):"");
+ view(context,'<p class="muted">'+(index+1)+' of '+pages.length+'</p><progress aria-label="Quiz progress" max="'+pages.length+'" value="'+(index+1)+'"></progress>'+
+  '<form id="question">'+question+'<div class="actions"><button type="button" id="back">Back</button><button class="primary">Continue</button></div></form>');
+ const form=app.querySelector("form"), conditional=app.querySelector("#condition");
+ function sync() {
+  if(!conditional)return;
+  const data=new FormData(form);
+  const depends=data.get("preference")===String(q.options.length);
+  const condition=data.get("condition");
+  const resolution=conditional.querySelector("#resolution");
+  conditional.hidden=!depends;
+  resolution.hidden=condition===null;
+  conditional.querySelectorAll('[name="condition"]').forEach(input=>{input.disabled=!depends;});
+  resolution.querySelectorAll("input").forEach(input=>{input.disabled=!depends||condition===null;});
+  if(condition!==null)resolution.querySelector("legend").textContent=conditionPrompts[Number(condition)];
+ }
+ form.onchange=sync;sync();
+ app.querySelector("#back").onclick=()=>step(index-1,-1);
+ form.onsubmit=event=>{
+  event.preventDefault();
+  const data=new FormData(form);
+  if(isWeight)weights.forEach(w=>{state[w.id]=Number(data.get(w.id));});
+  else {
+   const depends=data.has("condition");
+   const pref=Number(data.get(depends?"resolved":"preference"));
+   const condition=Number(data.get("condition"));
+   if(isRelationship)state[q.id]={pref,accept:[...new Set([pref,...data.getAll("accept").map(Number)])],firm:Number(data.has("firm")),...(depends?{condition}:{})};
+   else {
+    state[q.id]=pref;
+    if(depends)state["condition-"+q.id]=condition;
+    else delete state["condition-"+q.id];
+   }
+  }
+  shortcutIds.delete(q.id);
+  step(index+1);
+ };
+}
+function profile(answers) {
+ const result={};
+ for(const key of Object.keys({...dimensions,...ocean})){
+  const {items,counts}=tally(key,answers);
+  if(key in ocean){
+   const total=counts.reduce((sum,count,i)=>sum+count*i,0);
+   result[key]={label:ocean[key],value:items.length>=2?Math.round(total/(items.length*3)*100):null,
+    evidence:items.map(q=>[q.prompt,q.options[answers[q.id]]])};
+   continue;
+  }
+  const best=Math.max(...counts);
+  const candidates=counts.flatMap((count,i)=>count>0 && best-count<=(key==="AT"?1:0)?[{
+   label:dimensions[key][i],evidence:items.filter(q=>answers[q.id]===i).map(q=>[q.prompt,q.options[i]])
+  }]:[]);
+  result[key]={candidates,count:items.length};
+ }
+ return result;
+}
+function packet(answers){
+ return {schema,relationship:Object.fromEntries(scenarios.filter(q=>!q.descriptive).map(q=>[q.id,answers[q.id]])),
+  descriptive:Object.fromEntries(personalItems.map(q=>[q.id,{answer:answers[q.id],condition:answers["condition-"+q.id]}])),
+  importance:weights.map(w=>answers[w.id]+1),
+  responses:Object.fromEntries([...baseItems,...extras].filter(q=>Object.hasOwn(answers,q.id)).map(q=>[q.id,answers[q.id]])),
+  followups:Object.fromEntries([...baseItems,...extras].filter(q=>Object.hasOwn(answers,"condition-"+q.id)).map(q=>[q.id,answers["condition-"+q.id]])),
+  context:Object.fromEntries(contextItems.filter(q=>Object.hasOwn(answers,q.id)).map(q=>[q.id,[answers[q.id],answers["condition-"+q.id]??null]])),
+  known:{...knownProfiles},interests:relationshipInterests,profiles:profile(answers)};
+}
+function preference(q,value){return [...q.options,...open][value];}
+function describe(q,a) {
+ return '<strong>Prefers</strong> '+escape(preference(q,a.pref))+'<br><strong>Could accept</strong> '+list(a.accept.map(i=>preference(q,i)))+
+ '<br><strong>Position</strong> '+["Flexible within stated options","Firm about stated options"][a.firm]+
+ (a.condition!==undefined?'<br><strong>Answer based on</strong> '+escape(conditions[a.condition]):"");
+}
+function attachmentMap(answersA,answersB) {
+ function position(answers){
+  const group=attachmentItems.map(q=>answers[q.id]).filter(i=>i<attachment.length);
+  return group.length?[
+   group.reduce((sum,i)=>sum+[0,.9,.85,.35,.1][i],0)/group.length,
+   group.reduce((sum,i)=>sum+[0,.1,.8,.72,1][i],0)/group.length
+  ]:null;
+ }
+ const points=[[position(answersA),"You","#67e8f9",0],
+ ...(answersB?[[position(answersB),"Other person","#c4b5fd",1]]:[])];
+ return '<div class="card"><h3>Attachment map</h3><p class="muted">Positions summarize reported worry about connection and withdrawal across the scenarios.</p>'+
+ '<svg viewBox="0 0 420 300" role="img" aria-label="Two-axis attachment map">'+
+ '<path d="M75 35V245H380 M75 140H380 M228 35V245" fill="none" stroke="#64748b"/>'+
+ '<text x="76" y="25" fill="#e2e8f0" font-size="14">More withdrawal</text><text x="190" y="275" fill="#e2e8f0" font-size="14">More worry about connection →</text>'+
+ points.filter(([p])=>p).map(([p,name,color,stress])=>'<circle cx="'+(75+p[0]*305)+'" cy="'+(245-p[1]*210)+'" r="'+(stress?9:5)+'" fill="'+(stress?"none":color)+'" stroke="'+color+'" stroke-width="3"><title>'+name+'</title></circle>').join("")+
+ '</svg><ul>'+points.map(([p,name,color])=>'<li><span style="color:'+color+'">'+name+'</span> · '+(p?'worry '+Math.round(p[0]*100)+'/100, withdrawal '+Math.round(p[1]*100)+'/100':"insufficient answers")+'</li>').join("")+'</ul></div>';
+}
+function profileMarkup(data) {
+ const names={AT:"Attachment patterns",EI:"MBTI-style · Energy",SN:"MBTI-style · Information",TF:"MBTI-style · Decisions",JP:"MBTI-style · Structure",ABCD:"A/B/C/D tendencies",DISC:"DISC-style tendencies",ENN:"Enneagram-style motivations"};
+ const letters=["EI","SN","TF","JP"].map(key=>data[key].count>=2 && data[key].candidates.length===1?data[key].candidates[0].label:"?").join("");
+ const evidence=items=>'<ul>'+items.map(([prompt,answer])=>'<li>'+escape(prompt)+' <strong>'+escape(answer)+'</strong></li>').join("")+'</ul>';
+ const examples={
+ E:"You might talk a decision through together",I:"You might take quiet time to think before discussing a decision",
+ S:"start with the concrete details",N:"start with the possibilities",
+ T:"look for a consistent reason for the decision",F:"consider how the decision affects both people",
+ J:"settle the plan in advance",P:"leave room to adapt the plan"
+ };
+ const usable=[...letters].filter(letter=>examples[letter]);
+ return '<p><strong>MBTI-style estimate</strong> '+letters+'</p>'+
+ (usable.length?'<p>'+escape(usable.map(letter=>examples[letter]).join(", then ")) +'.</p>':"")+
+ Object.entries(data).map(([key,value])=>{
+  if(key in ocean)return '<details><summary>Big Five · '+value.label+' · '+(value.value===null?"limited evidence":value.value+'/100')+'</summary>'+evidence(value.evidence)+'</details>';
+  return '<details><summary>'+names[key]+' · '+(value.count<2?'Limited evidence'+(value.candidates.length?' ('+list(value.candidates.map(c=>c.label))+')':''):(list(value.candidates.map(c=>c.label))||"Limited evidence"))+'</summary>'+
+   value.candidates.map(c=>'<h3>'+escape(c.label)+'</h3>'+evidence(c.evidence)).join("")+'</details>';
+ }).join("");
+}
+function describePersonal(q,a){
+ return escape(preference(q,a.answer))+(a.condition===undefined?"":" · Answer based on "+escape(conditions[a.condition]));
+}
+function chart(title, rows, max=100) {
+ return '<div class="card"><h3>'+escape(title)+'</h3>'+rows.map(([label,value])=>
+  '<div class="chart-row"><strong><span>'+escape(label)+'</span><span>'+ (value===null?"Limited evidence":value+' / '+max)+'</span></strong>'+
+  (value===null?"":'<meter aria-label="'+escape(label)+'" min="0" max="'+max+'" value="'+value+'">'+value+'</meter>')+'</div>').join("")+'</div>';
+}
+function traitVenn(title,labels,groups,description,countsOnly=false){
+ const colors=["#67e8f9","#e2e8f0","#c4b5fd"];
+ return '<figure class="card"><figcaption><strong>'+escape(title)+'</strong></figcaption>'+
+ '<svg class="venn" viewBox="0 0 450 220" role="img" aria-label="'+escape(labels.map((label,i)=>label+": "+(countsOnly?groups[i].length:groups[i].join(", ")||"None")).join("; "))+'">'+
+ '<circle cx="155" cy="108" r="102" fill="#22d3ee" fill-opacity=".18" stroke="#67e8f9"/>'+
+ '<circle cx="295" cy="108" r="102" fill="#a78bfa" fill-opacity=".18" stroke="#c4b5fd"/>'+
+ groups.map((group,i)=>'<text x="'+[112,225,338][i]+'" y="94" text-anchor="middle" style="fill:'+colors[i]+'">'+
+ escape(labels[i])+'</text><text x="'+[112,225,338][i]+'" y="125" text-anchor="middle" font-size="23">'+group.length+'</text>').join("")+
+ '</svg><ul>'+groups.map((group,i)=>'<li><strong>'+escape(labels[i])+'</strong> · '+(countsOnly?group.length:list(group)||"None")+'</li>').join("")+'</ul><p class="muted">'+escape(description)+'</p></figure>';
+}
+function individualBigFive(file){
+ const traits=Object.entries(ocean);
+ if(!traits.every(([key])=>file.context["o"+key+"0"]&&file.context["o"+key+"1"]))
+  return '<div class="card"><h3>Big Five · ordinary weeks and stress</h3><p>Answer a short add-on to see which tendencies you report in either context.</p><button id="add-context">Add context answers</button></div>';
+ const groups=[[],[],[]], neither=[];
+ traits.forEach(([key,label])=>{
+  const everyday=file.context["o"+key+"0"][0]>=2, stress=file.context["o"+key+"1"][0]>=2;
+  if(everyday||stress)groups[everyday&&stress?1:everyday?0:2].push(label);
+  else neither.push(label);
+ });
+ return traitVenn("Big Five · ordinary weeks and stress",["Ordinary only","Both","Stress only"],groups,
+  "A trait appears where you chose Often or Very often. "+(neither.length?"Below that threshold in both contexts: "+neither.join(", ")+".":""));
+}
+function sharedBigFive(a,b){
+ const groups=[[],[],[]];
+ for(const [key,label] of Object.entries(ocean)){
+  const x=a.profiles[key].value,y=b.profiles[key].value;
+  groups[Math.abs(x-y)<=15?1:x>y?0:2].push(label+" ("+x+" / "+y+")");
+ }
+ return traitVenn("Big Five · score overlap",["You higher","Close scores","Other higher"],groups,
+  "Scores are shown as yours / theirs. A difference of 15 points or less counts as close on this quiz’s 100-point scale.");
+}
+const discExamples=[
+ ["Suggest a decision and name who will do what.","Choose a backup plan quickly.","Push to resolve the immediate issue."],
+ ["Talk through ideas and invite your partner into the decision.","Keep the tone upbeat while proposing alternatives.","Use conversation to bring both people back into the discussion."],
+ ["Look for a fair division both people can sustain.","Check how the change affects your partner before committing.","Slow the conversation down to give both people space."],
+ ["Clarify responsibilities and check the details.","Ask what changed and verify the new constraints.","Identify the facts before choosing a response."]
+];
+const enneagramExamples=[
+ ["Improve what feels wrong","Focus on mistakes or unmet standards"],["Help and feel valued","Offer more help before naming your needs"],
+ ["Make progress toward a goal","Focus on getting results quickly"],["Honor what feels personally meaningful","Pull back if you feel misunderstood"],
+ ["Understand what is happening","Seek space to think"],["Know what you can rely on","Check for risks or seek reassurance"],
+ ["Keep possibilities open","Look for a new option to relieve pressure"],["Protect your autonomy","Take charge or state a boundary directly"],
+ ["Keep the relationship steady","Delay voicing a preference to avoid tension"]
+];
+function frameworkVisuals(file,framework){
+ const {counts}=tally("DISC",file.responses);
+ const top=Math.max(...counts);
+ const disc=chart("DISC · answers by style",dimensions.DISC.map((label,i)=>[label+(counts[i]===top?" · strongest":""),counts[i]]),counts.reduce((a,b)=>a+b,0));
+ const examples=discExamples.map((items,i)=>counts[i]!==top?"":'<div class="card"><h3>'+escape(dimensions.DISC[i])+'</h3><dl class="guide">'+
+ items.map((text,j)=>'<dt>'+["Decisions and responsibilities","Changes of plan","Disagreement or time pressure"][j]+'</dt><dd>'+text+'</dd>').join("")+'</dl></div>').join("");
+ const en=tally("ENN",file.responses).counts, max=Math.max(...en);
+ const highlighted=n=>n>0&&max-n<=1;
+ const points=en.map((_,i)=>[150+105*Math.sin(i*2*Math.PI/9),135-105*Math.cos(i*2*Math.PI/9)]);
+ const shape=indices=>'<polyline points="'+indices.map(i=>points[i-1].join(",")).join(" ")+'" fill="none" stroke="#64748b"/>';
+ const diagram='<figure class="card"><figcaption><strong>Enneagram · leading motivations</strong></figcaption><svg viewBox="0 0 300 270" role="img" aria-label="Nine Enneagram types. Highlighted: '+escape(en.flatMap((n,i)=>highlighted(n)?[dimensions.ENN[i]]:[]).join(", "))+'">'+
+ '<circle cx="150" cy="135" r="105" fill="none" stroke="#64748b"/>'+shape([9,3,6,9])+shape([1,4,2,8,5,7,1])+points.map(([x,y],i)=>'<circle cx="'+x+'" cy="'+y+'" r="15" fill="'+(highlighted(en[i])?"#67e8f9":"#151b35")+'" stroke="#64748b"/><text x="'+x+'" y="'+(y+5)+'" text-anchor="middle" fill="'+(highlighted(en[i])?"#0a0e27":"#e2e8f0")+'">'+(i+1)+'</text>').join("")+'</svg>'+
+ en.map((n,i)=>highlighted(n)?'<p><strong>'+escape(dimensions.ENN[i])+'</strong><br>Usual motivation · '+enneagramExamples[i][0]+'<br>Under stress · '+enneagramExamples[i][1]+'</p>':"").join("")+'</figure>';
+ const ordinary=file.context["ordinary-abcd"]?.[0];
+ const pressure=tally("ABCD",file.responses).counts;
+ const pressureTop=Math.max(...pressure);
+ const abcdExamples=[
+  "You might speed up the plan and state what you need directly.",
+  "You might adjust the schedule calmly and raise needs as they come up.",
+  "You might go along with a schedule to avoid tension. A direct invitation can make it easier to speak up.",
+  "You might feel the schedule slipping and keep concerns to yourself. A private check-in may help."
+ ];
+ const card=(title,indexes)=>'<div class="card"><h3>'+title+'</h3>'+(indexes.length?indexes.map(i=>'<p><strong>'+escape(dimensions.ABCD[i])+'</strong><br>'+abcdExamples[i]+'</p>').join(""):'<p>Add context answers to see this pattern.</p>')+'</div>';
+ const abcd='<h3>A/B/C/D by context</h3><div class="grid">'+
+ card("Ordinary week",ordinary===undefined?[]:[ordinary])+card("Under pressure",pressure.flatMap((n,i)=>n===pressureTop?[i]:[]))+'</div>';
+ const sections={DISC:disc+'<div class="grid">'+examples+'</div>',Enneagram:diagram,"A/B/C/D":abcd};
+ return framework?sections[framework]:Object.values(sections).join("");
+
+}
+function attachmentEvidence(file,label){
+ return '<div class="card"><h3>'+escape(label)+'</h3><p class="muted">'+list(attachmentLabels)+'</p>'+
+ file.profiles.AT.candidates.map(c=>'<h4>'+escape(c.label)+'</h4><ul>'+
+ c.evidence.map(([q,a])=>'<li>'+escape(q)+' · '+escape(a)+'</li>').join("")+'</ul>').join("")+'</div>';
+}
+function attachmentSection(file,other){
+ return '<div class="grid">'+attachmentMap(file.responses,other?.responses)+
+ attachmentEvidence(file,other?"Your attachment patterns":"Attachment patterns")+
+ (other?attachmentEvidence(other,"Other person’s attachment patterns"):"")+'</div>'+flowcharts(file,other);
+}
+function contextView(){
+ view("Personality context",'<p>Answer how you tend to respond in ordinary weeks and under stress.</p><form>'+
+ contextItems.map(q=>field(q.prompt,radio(q.id,q.options,[state[q.id]]))).join("")+
+ '<div class="actions"><button class="primary">Update my results</button><button id="back" type="button">Back</button></div></form>');
+ app.querySelector("#back").onclick=home;
+ app.querySelector("form").onsubmit=event=>{
+  event.preventDefault();
+  const data=new FormData(event.currentTarget);
+  contextItems.forEach(q=>{state[q.id]=Number(data.get(q.id));delete state["condition-"+q.id];});
+  completeQuiz();
+ };
+}
+function animalSymbol(file, behavior=behaviorDraft){
+ const animals=["Otter","Beaver","Owl","Wolf"];
+ const evidence=[];
+ const care=coreScenarios.filter(q=>q.topic==="Love languages and access");
+ const giving=file.descriptive[care[1].id].answer;
+ const support=file.relationship[care[3].id].pref;
+ const add=(animal,weight,source,answer)=>evidence.push({animal,weight,source,answer});
+ add([3,0,1,3,3,0,2][giving],1,"How you say you give care",care[1].options[giving]);
+ add([0,2,2,1,3][support],1,"What you prefer during overload",care[3].options[support]);
+ if(validBehavior(behavior)){
+  for(const [i,mapping] of [[3,[1,0,2,3]],[7,[3,0,2,1]]]){
+   for(let setting=0;setting<2;setting++){
+    const row=behavior[i*2+setting];
+    if(row[0]===2)continue;
+    add(mapping[row[1]],row[0]===0?3:2,behaviorItems[i].title+" · "+behaviorSettings[setting]+" · "+behaviorTiming[row[0]],behaviorItems[i].first[row[1]]);
+   }
+  }
+ }
+ const scores=animals.map((name,i)=>({name,i,score:evidence.filter(e=>e.animal===i).reduce((sum,e)=>sum+e.weight,0)}))
+  .sort((a,b)=>b.score-a.score||a.name.localeCompare(b.name,"en"));
+ const [first,next]=scores;
+ const note=first.score===next.score?"Tied scores use alphabetical order.":next.score>0&&first.score-next.score<=1?next.name+" was within one point.":"";
+ return '<section class="card"><h2>Animal Symbol · '+first.name+'</h2><p>A symbol drawn from your reported responses and preferences.</p>'+
+ '<details><summary>Why this animal?</summary><p>'+escape(note||"The highest total determines your symbol.")+'</p><ul>'+
+ scores.map(a=>'<li>'+a.name+' · '+a.score+' points</li>').join("")+'</ul><ul>'+
+ evidence.map(e=>'<li><strong>'+animals[e.animal]+' · '+e.weight+' points</strong><br>'+escape(e.source)+' · '+escape(e.answer)+'</li>').join("")+
+ '</ul><p>Recent recalled examples earn 3 points, older examples earn 2, and reported preferences or habits earn 1. Hypothetical responses contribute zero. The symbol is outside compatibility scoring.</p>'+
+ '<details><summary>Answer-to-animal rules</summary><p>The mapping below follows each question’s answer order.</p><ul>'+
+ [["Giving care",[3,0,1,3,3,0,2]],["Overload support",[0,2,2,1,3]],["Plans falling apart",[1,0,2,3]],["Request for space",[3,0,2,1]]]
+ .map(([label,order])=>'<li>'+label+' · '+list(order.map(i=>animals[i]))+'</li>').join("")+'</ul></details></details></section>';
+}
+function guide(file) {
+ const care=coreScenarios.filter(q=>q.topic==="Love languages and access");
+ const rows=[
+  ["Feeling cared for",care[0]],["How I tend to show care",care[1]],
+  ["Affectionate touch",care[2]],["When I’m overloaded",care[3]],["Talking about a sensitive need",care[4]],["Support with shared tasks",care[5]],
+  ["My weeknight rhythm",coreScenarios[0]],
+  ["Keeping in touch during travel",coreScenarios.find(q=>q.id==="r1-0")]
+ ];
+ const firm=scenarios.filter(q=>file.relationship[q.id]?.firm);
+ return '<div class="card"><h2>My guide for a partner</h2><dl class="guide">'+rows.map(([label,q])=>
+  '<dt>'+escape(label)+'</dt><dd>'+(q.descriptive?describePersonal(q,file.descriptive[q.id]):describe(q,file.relationship[q.id]))+'</dd>').join("")+'</dl>'+
+  (firm.length?'<h3>Firm boundaries I marked</h3><ul>'+firm.map(q=>'<li>'+escape(q.prompt)+'<br>'+list(file.relationship[q.id].accept.map(i=>q.options[i]))+'</li>').join("")+'</ul>':"")+'</div>';
+}
+const behaviorAreas = ["Accountability and empathy","Reactions under pressure","Trust, closeness, and boundaries"];
+const behaviorSettings = ["Close relationships","Work or friendships"];
+const behaviorTiming = ["Within the past six months","More than six months ago","No example I can recall"];
+const behaviorFrequency = ["This was an isolated response","I’ve responded this way on a few occasions","I respond this way in most similar situations"];
+const behaviorItems = [
+ ["Criticism that felt unfair","you got criticism you felt was unfair","Someone says you left them to handle a responsibility. You remember agreeing to a different plan.",
+  "Explained why I thought the criticism was unfair|Asked for a specific example|Took time before answering|Accepted the feedback without discussing my perspective",
+  "Revisited the impact on them|Explained my perspective and asked about theirs|Set a boundary around the feedback|Let the exchange end there"],
+ ["Recognition and exceptions","you felt your contribution deserved more credit or special consideration","A group thanks everyone equally for a task you believe you carried.",
+  "Asked for recognition directly|Pointed out my contribution without asking for a change|Asked how others saw the work|Kept my reaction to myself",
+  "Discussed how to share credit or effort next time|Asked for a different arrangement for myself|Recognized other contributions and moved on|Did not revisit it"],
+ ["Impact and repair","someone said a choice you made had hurt or inconvenienced them","You change a plan without checking first and someone tells you it caused them extra work.",
+  "Asked what impact the change had|Explained my intention|Apologized immediately|Took time before responding",
+  "Acknowledged the impact and changed what I would do next time|Agreed on a practical repair together|Explained my intention further|Did not return to the issue"],
+ ["Plans falling apart","an important plan changed at short notice","A reservation falls through and people are waiting for you to decide what happens next.",
+  "Tried to put a backup plan in place quickly|Asked what everyone needed before deciding|Paused to collect myself|Let someone else take the lead",
+  "Checked whether the new plan worked for others|Went ahead with my first workable plan|Asked someone else to decide with me|Put off making a new plan"],
+ ["Wanting an immediate answer","you wanted an answer sooner than someone was ready to give it","You need to make a shared decision by tomorrow and the other person asks for a few hours to think.",
+  "Pressed for an answer right away|Asked when they could respond|Took space to settle myself|Made a provisional plan on my own",
+  "Agreed on a time to revisit it|Kept asking before they were ready|Made a decision independently|Waited for them to return to it"],
+ ["A commitment under strain","you realized you might not keep an important commitment","You agreed to help someone tomorrow and now have more work than you can finish.",
+  "Told them early that I might need to change the plan|Tried to handle it without telling them|Asked another person for help|Put off dealing with it",
+  "Renegotiated the commitment directly|Found help and kept the commitment|Explained the delay after it happened|Dropped the commitment without a new plan"],
+ ["Hearing no","someone declined a request that mattered to you","You ask someone to change their plans to help you and they say they can’t.",
+  "Accepted the answer|Asked whether a different request would work|Tried to persuade them to reconsider|Took space before responding",
+  "Made another plan and respected their answer|Asked what would work in the future|Raised the same request again|Pulled back from the interaction"],
+ ["A request for space","someone asked you for space after a tense interaction","Someone you care about says they need the rest of the evening alone before talking.",
+  "Agreed and asked when to reconnect|Reached out to clarify what the request meant|Stepped back without asking for a time|Kept trying to discuss the issue",
+  "Checked in at the agreed time|Waited for them to initiate|Checked in before the time they requested|Left the conversation unfinished"],
+ ["Different needs for closeness","someone wanted more or less contact than you did","Someone you care about says the amount of time you spend together is different from what they want.",
+  "Asked what amount of contact would work for them|Stated what I needed first|Agreed in the moment to avoid tension|Pulled back to think",
+  "Agreed on a routine to try together|Reaffirmed my preference and asked them to decide|Kept the previous routine|Revisited the issue after taking time"]
+].map(([title,event,hypothetical,first,after],i)=>({title,event,hypothetical,first:first.split("|"),after:after.split("|"),area:behaviorAreas[Math.floor(i/3)]}));
+const behaviorWorkPrompts = [
+ ["a coworker or friend criticized how you handled your share of something and you thought it was unfair","A teammate says you left them to finish a task. You remember agreeing to a different division of work."],
+ ["a group gave equal credit for work you felt you’d done most of","A project lead thanks the whole group for a deliverable you spent extra time finishing."],
+ ["a coworker or friend told you a decision of yours created extra work for them","You move a group deadline and a teammate says they had to rearrange their work."],
+ ["a group plan fell through and others looked to you for a next step","A friend cancels just before a group outing they organized. The group asks what to do."],
+ ["a coworker or friend needed more time to answer than your deadline allowed","A teammate needs several hours to review a proposal you’re expected to submit tomorrow."],
+ ["you realized a work or group commitment might slip","You promised a teammate a draft tomorrow and realize you may miss the deadline."],
+ ["a friend or coworker turned down a favor you were counting on","You ask a coworker to cover a shift and they decline."],
+ ["a friend or coworker asked to pause a tense conversation","After a disagreement, a teammate asks to pause until the next day."],
+ ["a friend wanted a different amount of contact or time together than you did","A friend tells you they’d like to meet more often than your current routine allows."]
+];
+const behaviorDraft = [];
+const behaviorCount = behaviorItems.length * behaviorSettings.length;
+function validBehavior(rows){
+ return Array.isArray(rows)&&rows.length===behaviorCount&&rows.every(row=>
+  Array.isArray(row)&&row.length===4&&row.slice(0,3).every((n,i)=>Number.isInteger(n)&&n>=0&&n<=[2,3,3][i])&&
+  (row[0]===2?row[3]===null:Number.isInteger(row[3])&&row[3]>=0&&row[3]<behaviorFrequency.length));
+}
+function behaviorStep(index){
+ if(index===behaviorCount){completeQuiz();return;}
+ const q=behaviorItems[Math.floor(index/2)], setting=behaviorSettings[index%2], row=behaviorDraft[index]||[];
+ const [eventPrompt,hypotheticalPrompt]=index%2?behaviorWorkPrompts[Math.floor(index/2)]:[q.event,q.hypothetical];
+ view(q.title,'<p class="mono accent">'+escape(q.area)+' · '+escape(setting)+'</p><p>Situation '+(Math.floor(index/2)%3+1)+' of 3 in this area · Setting '+(index%2+1)+' of 2</p>'+
+ '<progress aria-label="Behavior module progress" max="'+behaviorCount+'" value="'+(index+1)+'"></progress>'+
+ '<p>Think of the last time '+escape(eventPrompt)+'.</p><form>'+
+ field("When did this happen?",radio("timing",behaviorTiming,[row[0]]))+
+ '<div id="behavior-followup" hidden><p id="behavior-hypothetical" hidden>'+escape(hypotheticalPrompt)+' Picture this in the setting above.</p>'+
+ field("What did you do first?",radio("first",q.first,[row[1]]))+
+ field("What did you do afterward?",radio("after",q.after,[row[2]]))+
+ '<div id="behavior-repeat">'+field("Does this response tend to repeat?",radio("repeat",behaviorFrequency,[row[3]]))+'</div></div>'+
+ '<div class="actions"><button type="button" id="back">Back</button><button class="primary">Continue</button></div></form>');
+ const form=app.querySelector("form"), followup=app.querySelector("#behavior-followup"), repeat=app.querySelector("#behavior-repeat");
+ function sync(){
+  const timing=new FormData(form).get("timing"), hypothetical=timing==="2";
+  followup.hidden=timing===null;
+  app.querySelector("#behavior-hypothetical").hidden=!hypothetical;
+  repeat.hidden=hypothetical;
+  followup.querySelectorAll("input").forEach(input=>{input.disabled=timing===null||(hypothetical&&input.name==="repeat");});
+  followup.querySelector('[name="first"]').closest("fieldset").querySelector("legend").textContent=hypothetical?"What would you most likely do first?":"What did you do first?";
+  followup.querySelector('[name="after"]').closest("fieldset").querySelector("legend").textContent=hypothetical?"What would you most likely do afterward?":"What did you do afterward?";
+ }
+ form.onchange=sync;sync();
+ app.querySelector("#back").onclick=()=>index?behaviorStep(index-1):validBehavior(behaviorDraft)?review("behavior"):step(mainSteps.length+extras.filter(q=>Object.hasOwn(state,q.id)).length+contextItems.length-1);
+ form.onsubmit=event=>{
+  event.preventDefault();
+  const data=new FormData(form), timing=Number(data.get("timing"));
+  behaviorDraft[index]=[timing,Number(data.get("first")),Number(data.get("after")),timing===2?null:Number(data.get("repeat"))];
+  behaviorStep(index+1);
+ };
+}
+function behaviorRow(q,row,setting){
+ if(!row)return "";
+ const [timing,first,after,repeat]=row;
+ return '<div class="card"><strong>'+escape(setting)+'</strong><p class="muted">'+
+ (timing===2?"What I think I would do":behaviorTiming[timing])+'</p><dl class="guide"><dt>First</dt><dd>'+escape(q.first[first])+
+ '</dd><dt>Afterward</dt><dd>'+escape(q.after[after])+'</dd>'+
+ (repeat===null?"":'<dt>How often this repeats</dt><dd>'+escape(behaviorFrequency[repeat])+'</dd>')+'</dl></div>';
+}
+function behaviorSummary(rows){
+ return behaviorAreas.map(area=>'<h3>'+escape(area)+'</h3>'+behaviorItems.map((q,i)=>{
+  if(q.area!==area)return "";
+  const a=rows[i*2], b=rows[i*2+1];
+  const bothActual=a[0]!==2&&b[0]!==2;
+  const summary=bothActual?(a[1]!==b[1]?"First reactions differed across settings.":a[2]!==b[2]?"The first reaction matched. What happened afterward differed.":a[3]!==b[3]?"The response matched across settings. How often it repeats differed.":"The reported sequence and frequency matched across settings."):"Hypothetical responses are shown separately from recalled examples.";
+  return '<details><summary>'+escape(q.title)+' · '+(a[1]===b[1]&&a[2]===b[2]?"Match":"Difference")+'</summary><p>'+summary+'</p>'+
+  reportTable(behaviorSettings,[[behaviorRow(q,a,behaviorSettings[0]),behaviorRow(q,b,behaviorSettings[1])]])+'</details>';
+ }).join("")).join("");
+}
+function behaviorPanel(){
+ const complete=validBehavior(behaviorDraft);
+ return '<div class="card"><h2>How I Respond</h2><p>A required section on accountability and empathy, reactions under pressure, and trust and boundaries. Plan for about 15–20 minutes.</p>'+
+ '<button class="primary" id="start-behavior">'+(complete?"Review my answers":behaviorDraft.length?"Continue module":"Start How I Respond")+'</button></div>'+
+ (complete?behaviorSummary(behaviorDraft):"");
+}
+function behaviorCounts(a,b){
+ if(!a||!b)return "";
+ return '<h3>Behavior matches by area</h3>'+reportTable(["Area","Matches","Differences","Pairs with a hypothetical"],behaviorAreas.map((area,i)=>{
+  const pairs=a.slice(i*6,i*6+6).map((row,j)=>[row,b[i*6+j]]);
+  const matches=pairs.filter(([x,y])=>x[1]===y[1]&&x[2]===y[2]).length;
+  return [escape(area),matches,pairs.length-matches,pairs.filter(([x,y])=>x[0]===2||y[0]===2).length];
+ }))+'<p class="muted">Matches use the first reaction and what happened afterward. Hypothetical responses count and are labeled in the details.</p>';
+}
+function compareBehavior(a,b){
+ if(!a&&!b)return "";
+ return '<h2>Behavior comparison</h2><p>Responses by situation and setting.</p>'+behaviorCounts(a,b)+
+ (!a||!b?'<p>One person included a behavior summary.</p>'+behaviorSummary(a||b):behaviorItems.map((q,i)=>
+ '<details><summary>'+escape(q.title)+'</summary>'+behaviorSettings.map((setting,j)=>{
+  const x=a[i*2+j], y=b[i*2+j];
+  const label=x[0]===2||y[0]===2?(x[1]===y[1]&&x[2]===y[2]?"Match":"Difference")+" · includes a hypothetical response":
+   x[1]===y[1]&&x[2]===y[2]?(x[3]===y[3]?"Matching reported responses":"Matching responses, different recurrence"):"Different reported responses";
+  return '<h3>'+escape(setting)+'</h3><p>'+label+'</p><div class="grid">'+behaviorRow(q,x,"You")+behaviorRow(q,y,"Other person")+'</div>';
+ }).join("")+'</details>').join(""));
+}
+const codePrefix="LT4.";
+function encodeCode(file,behavior=file.behavior){
+ const values=[
+  scenarios.map(q=>q.descriptive?[file.descriptive[q.id].answer,file.descriptive[q.id].condition??null]:
+   [file.relationship[q.id].pref,file.relationship[q.id].accept,file.relationship[q.id].firm,file.relationship[q.id].condition??null]),
+  file.importance,
+  [...baseItems,...extras].map(q=>Object.hasOwn(file.responses,q.id)?[file.responses[q.id],file.followups[q.id]??null]:null),
+  file.context
+ ];
+ if(behavior||Object.keys(file.known||{}).length||file.interests!==undefined)values.push(behavior??null,file.known||{},file.interests??null);
+ return codePrefix+btoa(JSON.stringify(values).replace(/[^\x00-\x7f]/g,char=>"\\u"+char.charCodeAt(0).toString(16).padStart(4,"0"))).replace(/\+/g,"-").replace(/\//g,"_").replace(/=+$/,"");
+}
+function decodeCode(code){
+ code=code.trim();
+ if(!code.startsWith(codePrefix)||code.length>12000||!/^LT4\.[A-Za-z0-9_-]+$/.test(code))throw Error("Use a Life Together code beginning with LT4.");
+ const [rows,importance,items,context,behavior,known,interests]=JSON.parse(atob(code.slice(codePrefix.length).replace(/-/g,"+").replace(/_/g,"/")));
+ if(!Array.isArray(rows)||rows.length!==scenarios.length||!Array.isArray(items)||items.length!==baseItems.length+extras.length)throw Error("This comparison code is incomplete.");
+ const file={schema,relationship:{},descriptive:{},importance,responses:{},followups:{},context,known,interests:interests??undefined};
+ scenarios.forEach((q,i)=>{
+  const row=rows[i];
+  if(!Array.isArray(row)||row.length!==(q.descriptive?2:4))throw Error("This comparison code has an invalid answer.");
+  const condition=row.at(-1);
+  if(q.descriptive)file.descriptive[q.id]={answer:row[0],...(condition===null?{}:{condition})};
+  else file.relationship[q.id]={pref:row[0],accept:row[1],firm:row[2],...(condition===null?{}:{condition})};
+ });
+ [...baseItems,...extras].forEach((q,i)=>{
+  if(items[i]===null)return;
+  if(!Array.isArray(items[i])||items[i].length!==2)throw Error("This comparison code has an invalid profile answer.");
+  file.responses[q.id]=items[i][0];
+  if(items[i][1]!==null)file.followups[q.id]=items[i][1];
+ });
+ const validated=readPacket(JSON.stringify(file));
+ if(behavior!=null){
+  if(!validBehavior(behavior))throw Error("This comparison code has an invalid behavior summary.");
+  validated.behavior=behavior;
+ }
+ return validated;
+}
+function knownMarkup(file){
+ const entries=Object.entries(file.known||{});
+ return entries.length?'<div class="card"><h3>Previously known results · self-reported</h3><ul>'+
+ entries.map(([label,value])=>'<li>'+escape(label)+' · '+escape(value)+'</li>').join("")+'</ul></div>':"";
+}
+function responseList(file,include=()=>true){
+ const rows=scenarios.filter(include).map(q=>'<li><strong>'+escape(q.prompt)+'</strong><br>'+
+ (q.descriptive?describePersonal(q,file.descriptive[q.id]):describe(q,file.relationship[q.id]))+'</li>');
+ const items=[...baseItems,...extras].filter(q=>Object.hasOwn(file.responses,q.id));
+ const profiles=items.map(q=>'<li><strong>'+escape(q.prompt)+'</strong><br>'+
+ describePersonal(q,{answer:file.responses[q.id],condition:file.followups[q.id]})+'</li>');
+ return '<details><summary>Relationship answers</summary><ul>'+rows.join("")+'</ul></details>'+
+ '<details><summary>Profile answers</summary><ul>'+profiles.join("")+contextItems.filter(q=>Object.hasOwn(file.context,q.id)).map(q=>'<li><strong>'+escape(q.prompt)+'</strong><br>'+describePersonal(q,{answer:file.context[q.id][0],condition:file.context[q.id][1]??undefined})+'</li>').join("")+'</ul></details>';
+}
+function venn(findings){
+ const shared=findings.reduce((sum,f)=>sum+f.shared.length,0);
+ const yours=findings.reduce((sum,f)=>sum+f.a.accept.length,0)-shared;
+ const theirs=findings.reduce((sum,f)=>sum+f.b.accept.length,0)-shared;
+ return '<figure class="card"><figcaption><strong>Overlap in acceptable options</strong></figcaption>'+
+ '<svg class="venn" viewBox="0 0 420 210" role="img" aria-label="You only: '+yours+'; both: '+shared+'; other person only: '+theirs+'">'+
+ '<circle cx="158" cy="105" r="91" fill="#22d3ee" fill-opacity=".19" stroke="#67e8f9" stroke-width="2"/>'+
+ '<circle cx="262" cy="105" r="91" fill="#a78bfa" fill-opacity=".20" stroke="#c4b5fd" stroke-width="2"/>'+
+ '<g text-anchor="middle" font-size="15"><text x="121" y="95">You only</text><text x="210" y="95">Both</text><text x="299" y="95">Other only</text></g>'+
+ '<g text-anchor="middle" font-size="25"><text x="121" y="128">'+yours+'</text><text x="210" y="128">'+shared+'</text><text x="299" y="128">'+theirs+'</text></g></svg>'+
+ '<p class="muted">Counts are acceptable choices across the scenarios shown. Circle areas are illustrative.</p></figure>';
+}
+function reportTable(headers,rows){
+ return '<div class="table-scroll"><table><thead><tr>'+headers.map(x=>'<th scope="col">'+escape(x)+'</th>').join("")+
+ '</tr></thead><tbody>'+rows.map(row=>'<tr>'+row.map(x=>'<td>'+x+'</td>').join("")+'</tr>').join("")+'</tbody></table></div>';
+}
+function topicGrid(findings){
+ return '<h2>Compatibility by topic</h2>'+reportTable(["Topic","Agreement","Workable difference","Conflict"],scoredTopics.filter(topic=>findings.some(f=>f.q.topic===topic)).map(topic=>{
+  const rows=findings.filter(f=>f.q.topic===topic), counts=[100,75,0].map(points=>rows.filter(f=>f.points===points).length);
+  return [escape(topic)+(rows.some(f=>f.firm)?'<br><strong class="warning">Firm conflict</strong>':"")+
+   '<div class="stack" aria-hidden="true">'+counts.map(n=>'<span style="width:'+(100*n/rows.length)+'%"></span>').join("")+'</div>',...counts];
+ }));
+}
+function scenarioVenn(findings,title){
+ const counts=[0,0,0,0];let alternatives=0;
+ findings.forEach(f=>{
+  const x=f.a.accept.includes(f.b.pref),y=f.b.accept.includes(f.a.pref);
+  if(x&&y||!x&&!y&&f.shared.length){counts[1]++;if(!x&&!y)alternatives++;}
+  else counts[x?0:y?2:3]++;
+ });
+ return traitVenn(title,["You accept theirs","Mutual agreement","They accept yours"],counts.slice(0,3).map(n=>Array.from({length:n},()=> "Scenario")),
+  counts[3]+" scenarios outside both circles. The overlap includes "+alternatives+" shared alternatives.",true);
+}
+function intimacyBars(file,label){
+ const rows=[
+  ["Attraction · frequently reported","Often","Other frequency",[1,2,6,7],(id,value)=>value===0],
+  ["Desire · fantasy and solo habits","More frequent","Less frequent",[8,10],(id,value)=>value<2],
+  ["Consensual roles · leading and following","Interested or curious","Other preference",[14,15],(id,value)=>value<2],
+  ["Exploration · roleplay and sensation","Explore together","Private or outside limits",[17,19,20],(id,value)=>value<2],
+  ["Emotional connection · before intimacy","Bond or trust","Other preference",[25],(id,value)=>value<2]
+ ];
+ return '<section class="intimacy-card"><h3>'+escape(label)+'</h3><p>Inspired by SexValues. Each bar groups selected answers and shows their counts.</p>'+
+ rows.map(([title,left,right,ids,qualifies],i)=>{
+  const answers=ids.map(id=>{
+   const q=intimacyItems[id-1];
+   const value=q.descriptive?file.descriptive[q.id].answer:file.relationship[q.id].pref;
+   return {q,value,match:qualifies(id,value)};
+  });
+  const count=answers.filter(answer=>answer.match).length;
+  return '<div class="intimacy-axis axis-'+i+'"><h4>'+title+'</h4><div class="axis-row">'+
+   '<strong>'+left+'</strong><div class="axis-track" role="img" aria-label="'+left+': '+count+'; '+right+': '+(ids.length-count)+'">'+
+   '<span style="flex:'+count+'">'+(count||"")+'</span><span style="flex:'+(ids.length-count)+'">'+(ids.length-count||"")+'</span></div><strong>'+right+'</strong></div>'+
+   '<details><summary>Answers behind this bar</summary><ul>'+answers.map(({q,value})=>'<li>'+escape(q.prompt)+' · '+escape(q.options[value])+'</li>').join("")+'</ul></details></div>';
+ }).join("")+'</section>';
+}
+function guideVisuals(file,includeIntimacy=true){
+ const choice=q=>escape(q.options[q.descriptive?file.descriptive[q.id].answer:file.relationship[q.id].pref]);
+ const care=scenarios.filter(q=>q.topic==="Love languages and access");
+ const routines=coreScenarios.filter(q=>q.topic==="Weekday routines");
+ const work=coreScenarios.filter(q=>q.topic==="Career, schedules, and travel");
+ return '<h2>Weekly rhythm</h2>'+reportTable(["Part of the week","Reported preference"],[
+  ["Work and travel",work.map(choice).join("<br>")],["Time together",choice(routines[0])],["Time alone",choice(routines[1])]])+
+ '<h2>Giving and receiving care</h2>'+reportTable(["How I give care","What helps me feel cared for"],[[choice(care[1]),choice(care[0])]])+
+ '<h2>Support preferences</h2>'+reportTable(["Support","First choice"],care.slice(2).map(q=>[escape(q.prompt),choice(q)]))+
+ (includeIntimacy?intimacyBars(file,"Intimacy profile")+'<div class="grid">'+["Attraction","Sexual intimacy","Emotional connection"].map((topic,i)=>'<section class="card"><h3>'+
+ ["Attraction","Desire","Emotional connection"][i]+'</h3><dl class="guide">'+scenarios.filter(q=>q.topic===topic&&(i!==1||q.descriptive||q.id==="r8-1")).map(q=>
+ '<dt>'+escape(q.prompt)+'</dt><dd>'+choice(q)+'</dd>').join("")+'</dl></section>').join("")+'</div>':"");
+}
+function sharedProfiles(a,b){
+ return ["Big Five","MBTI","DISC","Enneagram","A/B/C/D","Attachment"].map(label=>{
+  const pair=[["You",a],["Other person",b]].map(([person,file])=>{
+   const letters=["EI","SN","TF","JP"].map(key=>file.profiles[key].candidates.length===1?file.profiles[key].candidates[0].label:"?").join("");
+   const visual=label==="Big Five"?chart("Big Five estimates",Object.entries(ocean).map(([key,name])=>[name,file.profiles[key].value])):
+    label==="MBTI"?'<p><strong>MBTI-style estimate</strong> '+escape(letters)+'</p>':
+    label==="Attachment"?attachmentEvidence(file,"Supporting responses"):frameworkVisuals(file,label);
+   return '<div class="card"><h4>'+person+'</h4>'+(file.known?.[label]?'<p><strong>Self-reported</strong> '+escape(file.known[label])+'</p>':"")+visual+'</div>';
+  });
+  return '<section><h3>'+label+'</h3><div class="grid">'+pair.join("")+'</div></section>';
+ }).join("");
+}
+function sharedCare(a,b,findings){
+ const [receive,give]=scenarios.filter(q=>q.topic==="Love languages and access");
+ return '<h2>Care and access</h2>'+reportTable(["Who gives care","How they give it","What the other person prefers"],[
+ ["You",describePersonal(give,a.descriptive[give.id]),escape(receive.options[b.relationship[receive.id].pref])],
+ ["Other person",describePersonal(give,b.descriptive[give.id]),escape(receive.options[a.relationship[receive.id].pref])]])+
+ venn(findings.filter(f=>f.q.topic===receive.topic&&f.q.id!==receive.id));
+}
+const intimacyTopics=new Set(["Attraction","Affection","Sexual intimacy","Emotional connection","Consensual roles and interests","Relationship structure and boundaries"]);
+function workProfile(file){
+ const labels=["Big Five","MBTI","DISC","Enneagram","A/B/C/D"];
+ const letters=["EI","SN","TF","JP"].map(key=>file.profiles[key].candidates.length===1?file.profiles[key].candidates[0].label:"?").join("");
+ const cards=[chart("Big Five · quiz estimates",Object.entries(ocean).map(([key,label])=>[label,file.profiles[key].value])),
+  '<div class="card"><h3>MBTI-style estimate</h3><p>'+escape(letters)+'</p></div>',
+  chart("DISC · response counts",dimensions.DISC.map((label,i)=>[label,tally("DISC",file.responses).counts[i]]),tally("DISC",file.responses).items.length),
+  chart("Enneagram · response counts",dimensions.ENN.map((label,i)=>[label,tally("ENN",file.responses).counts[i]]),tally("ENN",file.responses).items.length),
+  chart("A/B/C/D · response counts",dimensions.ABCD.map((label,i)=>[label,tally("ABCD",file.responses).counts[i]]),tally("ABCD",file.responses).items.length)];
+ return '<p>Self-reflection results for discussing work preferences and collaboration. These quiz estimates are based on self-report.</p>'+
+ '<div class="grid">'+cards.map((card,i)=>'<section class="work-assessment">'+card+
+ (file.known?.[labels[i]]?'<p><strong>Previously known · self-reported</strong><br>'+escape(file.known[labels[i]])+'</p>':"")+'</section>').join("")+
+ (file.workHabits?workAddons.map(([label,prompt,options])=>'<section class="work-assessment"><h3>'+escape(label)+'</h3>'+
+ '<p><strong>Reported work habit</strong><br>'+escape(options[file.workHabits[label]])+'</p>'+
+ (file.workReported[label]?'<p><strong>Assessment result · self-reported</strong><br>'+escape(file.workReported[label])+'</p>':"")+'</section>').join(""):"")+'</div>';
+}
+const workAddons=[
+ ["Energy Rhythm","When is it easiest for you to focus on demanding work?",["Early morning","Late morning","Afternoon","Evening","My best window varies by day"],"Peak, dip, and recovery times"],
+ ["Instinctive Drives","When you start an unfamiliar project, what do you usually do first?",["Verify the facts","Check that the plan fits the purpose","Define what done looks like","Try a small experiment"],"Your I.D. result or four scores"],
+ ["CliftonStrengths","Which contribution do you most often make when a team is stuck?",["Organize the work","Bring people together","Build support for a decision","Analyze options and patterns"],"Your top themes in rank order"],
+ ["VIA Character Strengths","Which strength do you most often draw on when collaboration gets difficult?",["Curiosity","Fairness","Kindness","Perseverance","Humor","Judgment"],"Your top character strengths in rank order"]
+];
+const workReported={};
+const workHabits={};
+function workAddonsStep(){
+ view("Work habits and known results",'<p class="muted">Work profile · 6 of 6</p><p>Choose the work habit that fits you best. If you’ve taken an assessment, you can also enter your result.</p><form>'+
+ workAddons.map(([label,prompt,options,hint],i)=>field(label,'<p>'+escape(prompt)+'</p>'+radio("habit"+i,options,[workHabits[label]])+
+ '<p><label>'+escape(hint)+' (optional)<br><input name="reported'+i+'" maxlength="240" value="'+escape(workReported[label]||"")+'"></label></p>')).join("")+
+ '<div class="actions"><button type="button" id="work-back">Back</button><button class="primary">View work profile</button></div></form>');
+ app.querySelector("#work-back").onclick=()=>workStep(workSections.length-1);
+ app.querySelector("form").onsubmit=event=>{
+  event.preventDefault();
+  const data=new FormData(event.currentTarget);
+  workAddons.forEach(([label],i)=>{
+   workHabits[label]=Number(data.get("habit"+i));
+   workReported[label]=String(data.get("reported"+i)||"").trim();
+  });
+  inventory(true,data=>{workInterests=data;workResults();},workAddonsStep);
+ };
+}
+const workAnswers={};
+const workSections=[
+ ["Big Five",Object.keys(ocean)],["MBTI-style preferences",["EI","SN","TF","JP"]],
+ ["DISC",["DISC"]],["Enneagram",["ENN"]],["A/B/C/D",["ABCD"]]
+];
+function workStep(index){
+ const [title,keys]=workSections[index];
+ const items=profileItems.filter(q=>keys.includes(q.key));
+ view(title,'<p class="muted">Work profile · '+(index+1)+' of '+(workSections.length+1)+'</p>'+
+ '<progress aria-label="Work profile progress" max="'+(workSections.length+1)+'" value="'+(index+1)+'"></progress>'+
+ '<p>Think about how you typically act at work or while collaborating with others.</p><form>'+
+ items.map(q=>field(q.prompt,radio(q.id,q.options,[workAnswers[q.id]]))).join("")+
+ '<div class="actions"><button id="work-back" type="button">Back</button><button class="primary">'+
+ "Continue"+'</button></div></form>');
+ app.querySelector("#work-back").onclick=()=>index?workStep(index-1):home();
+ app.querySelector("form").onsubmit=event=>{
+  event.preventDefault();
+  const data=new FormData(event.currentTarget);
+  items.forEach(q=>{workAnswers[q.id]=Number(data.get(q.id));});
+  if(index<workSections.length-1)workStep(index+1);else workAddonsStep();
+ };
+}
+function workResults(){
+ const file={responses:{...workAnswers},profiles:profile(workAnswers),workHabits:{...workHabits},workReported:{...workReported},interests:workInterests};
+ view("Work profile",workProfile(file)+interestSummary(file.interests)+'<div class="actions"><button class="primary" id="work-pdf">Save results as PDF</button><button id="work-edit">Edit answers</button><button id="work-home">Home</button></div>');
+ app.querySelector("#work-pdf").onclick=()=>printPreview("Work profile",()=>workProfile(file)+interestSummary(file.interests),workResults,null,true);
+ app.querySelector("#work-edit").onclick=()=>workStep(0);
+ app.querySelector("#work-home").onclick=home;
+}
+function printPreview(title,build,back,workFile,workOnly=false){
+ view(title,'<div class="print-controls">'+(workFile?'<p><label>Report type <select id="report-type"><option value="relationship">Relationship guide</option><option value="work">Work profile</option></select></label></p>':"")+
+ '<p id="intimacy-control"><label><input type="checkbox" id="include-intimacy"> Include attraction, affection, intimacy, and relationship boundaries</label></p>'+
+ '<p id="appendix-control"><label><input type="checkbox" id="include-appendix"> Include detailed appendix</label></p>'+
+ '<div class="actions"><button class="primary" id="print-report">Print / Save as PDF</button><button id="back-report">Back to results</button></div></div><div id="print-content"></div>');
+ const type=app.querySelector("#report-type"), intimacy=app.querySelector("#include-intimacy"), appendix=app.querySelector("#include-appendix");
+ function update(){
+  const work=workOnly||type?.value==="work";
+  app.querySelector("#intimacy-control").hidden=work;
+  app.querySelector("#appendix-control").hidden=work;
+  app.querySelector("h1").textContent=work?"Work profile":title;
+  app.querySelector("#print-content").innerHTML=work&&!workOnly?workProfile(workFile):build(intimacy.checked,appendix.checked);
+ }
+ if(type)type.onchange=update;
+ intimacy.onchange=appendix.onchange=update;
+ update();
+ app.querySelector("#back-report").onclick=back;
+ app.querySelector("#print-report").onclick=()=>{
+  const sections=[...app.querySelectorAll("details")],wasOpen=sections.map(section=>section.open);
+  sections.forEach(section=>{section.open=true;});
+  window.addEventListener("afterprint",()=>sections.forEach((section,i)=>{section.open=wasOpen[i];}),{once:true});
+  window.print();
+ };
+}
+const interestTopics=[
+ ["Outdoors and travel","Hiking|Camping|Fishing|Boating|Wildlife watching|Road trips|International travel|Exploring locally"],
+ ["Arts and making","Drawing|Photography|Writing|Music making|Crafts|Woodworking|Design"],
+ ["Media and games","Reading|Film and TV|Podcasts|Video games|Board games|Tabletop roleplaying|Card games"],
+ ["Food","Cooking|Baking|Restaurants|Food markets|Coffee and tea"],
+ ["Movement","Walking|Running|Strength training|Swimming|Team sports|Dance|Yoga"],
+ ["Learning","Languages|History|Science|Technology|Classes and workshops|Museums"],
+ ["Pets, home projects, and gardening","Pet care|Animal rescue|Home improvement|Interior design|Vegetable gardening|Houseplants"],
+ ["Volunteering and community","Volunteering|Mutual aid|Mentoring|Community events|Civic participation"],
+ ["Sustainability","Conservation|Repair and reuse|Low-waste living|Sustainable food|Clean energy"],
+ ["Spirituality or reflection","Meditation|Faith communities|Prayer|Journaling|Philosophy"]
+];
+const workInterestTopics=[
+ ["Work activities","Building|Analyzing|Writing|Designing|Organizing|Teaching|Helping|Facilitating"],
+ ["Work subject areas","Technology|Operations|Research|Creative work|Education|Healthcare|Business"],
+ ["Causes at work","Accessibility|Environmental stewardship|Community impact|Public service|Animal welfare|Equity and inclusion"]
+];
+const interestCatalog=[...interestTopics,...workInterestTopics].flatMap(([topic,labels],i)=>
+ labels.split("|").map((label,j)=>({id:i+"-"+j,topic,label,work:i>=interestTopics.length})));
+let relationshipInterests, workInterests;
+function validateInterests(data){
+ if(data===undefined)return undefined;
+ if(!data||typeof data!=="object"||Array.isArray(data))throw Error("Invalid interests inventory.");
+ const allowed=new Set(interestCatalog.filter(q=>!q.work).map(q=>q.id));
+ for(const [id,row] of Object.entries(data)){
+  if(!allowed.has(id)||!Array.isArray(row)||row.length!==2||!["current","curious"].includes(row[0])||typeof row[1]!=="boolean")throw Error("Invalid interests inventory.");
+ }
+ return data;
+}
+function inventory(work,done,back){
+ const catalog=interestCatalog.filter(q=>work||!q.work);
+ const topics=[...new Set(catalog.map(q=>q.topic))];
+ const draft={...(work?workInterests:relationshipInterests)};
+ let selected=topics.filter(topic=>catalog.some(q=>q.topic===topic&&draft[q.id]));
+ function chooseTopics(){
+  view("Interests inventory",'<p>Check broad topics you’d like to explore. You can continue with none selected.</p><form>'+
+  field("Topics",radio("topic",topics,selected.map(t=>topics.indexOf(t)),true))+
+  '<div class="actions"><button type="button" id="interest-back">Back</button><button class="primary">Continue</button></div></form>');
+  app.querySelector("#interest-back").onclick=back;
+  app.querySelector("form").onsubmit=event=>{
+   event.preventDefault();
+   selected=new FormData(event.currentTarget).getAll("topic").map(i=>topics[Number(i)]);
+   if(selected.length)chooseInterests();else done({});
+  };
+ }
+ function chooseInterests(){
+  const items=catalog.filter(q=>selected.includes(q.topic));
+  view("Your interests",'<p>Choose Current or Curious for each interest that fits. Check Want to share separately.</p><form>'+
+  selected.map(topic=>'<section class="card"><h2>'+escape(topic)+'</h2>'+items.filter(q=>q.topic===topic).map(q=>
+   '<p><label>'+escape(q.label)+' <select name="'+q.id+'"><option value="">Leave blank</option>'+
+   ["current","curious"].map(value=>'<option value="'+value+'"'+(draft[q.id]?.[0]===value?" selected":"")+'>'+ (value==="current"?"Current":"Curious")+'</option>').join("")+
+   '</select></label> <label><input type="checkbox" name="share-'+q.id+'"'+(draft[q.id]?.[1]?" checked":"")+'> Want to share</label></p>').join("")+'</section>').join("")+
+  '<p id="interest-error" role="alert" class="warning"></p><div class="actions"><button type="button" id="interest-back">Back</button><button class="primary">Save interests</button></div></form>');
+  function collect(form){
+   const data=new FormData(form);
+   return Object.fromEntries(items.filter(q=>data.get(q.id)).map(q=>[q.id,[data.get(q.id),data.has("share-"+q.id)]]));
+  }
+  const form=app.querySelector("form");
+  app.querySelector("#interest-back").onclick=()=>{
+   items.forEach(q=>delete draft[q.id]);Object.assign(draft,collect(form));chooseTopics();
+  };
+  form.onsubmit=event=>{
+   event.preventDefault();
+   const data=new FormData(form);
+   if(items.some(q=>data.has("share-"+q.id)&&!data.get(q.id))){
+    app.querySelector("#interest-error").textContent="Choose Current or Curious for interests you want to share.";return;
+   }
+   done(collect(form));
+  };
+ }
+ chooseTopics();
+}
+function interestSummary(data){
+ if(!data)return "";
+ const rows=interestCatalog.filter(q=>data[q.id]).map(q=>[escape(q.topic),escape(q.label),data[q.id][0]==="current"?"Current":"Curious",data[q.id][1]?"Yes":"—"]);
+ return '<h2>Interests</h2>'+(rows.length?reportTable(["Topic","Interest","Status","Want to share"],rows):'<p>No interests selected.</p>');
+}
+function compareInterests(a,b){
+ if(!a||!b)return "";
+ const both=interestCatalog.filter(q=>a[q.id]?.[0]==="current"&&b[q.id]?.[0]==="current");
+ const curious=interestCatalog.filter(q=>a[q.id]?.[1]&&b[q.id]?.[1]&&(a[q.id][0]==="curious"||b[q.id][0]==="curious"));
+ const independent=data=>interestCatalog.filter(q=>data[q.id]?.[0]==="current"&&!data[q.id][1]);
+ return '<h2>Interests together and independently</h2>'+reportTable(["Pattern","Interests"],[
+  ["Both do now",list(both.map(q=>q.label))||"—"],["Curious to try together",list(curious.map(q=>q.label))||"—"],
+  ["Your current interests without a share preference",list(independent(a).map(q=>q.label))||"—"],
+  ["Their current interests without a share preference",list(independent(b).map(q=>q.label))||"—"]]);
+}
+function completeQuiz(){
+ if(!contextItems.every(q=>Object.hasOwn(state,q.id))){contextView();return;}
+ if(!validBehavior(behaviorDraft)){behaviorStep(behaviorDraft.length);return;}
+ if(relationshipInterests===undefined){inventory(false,data=>{relationshipInterests=data;review();},()=>behaviorStep(behaviorCount-1));return;}
+ review();
+}
+function review(mode="partner"){
+ const file=packet(state);
+ const partner=mode==="partner", behavior=mode==="behavior";
+ view("What Works for Me",'<div class="actions" role="group" aria-label="Result view">'+
+ '<button id="partner-view" aria-pressed="'+partner+'"'+(partner?' class="primary"':'')+'>Guide for a partner</button>'+
+ '<button id="personal-view" aria-pressed="'+(!partner&&!behavior)+'"'+(!partner&&!behavior?' class="primary"':'')+'>Understand my patterns</button>'+
+ '<button id="behavior-view" aria-pressed="'+behavior+'"'+(behavior?' class="primary"':'')+'>How I Respond</button></div>'+
+ '<div class="actions"><button id="pdf">Save results as PDF</button><button id="share">Get my comparison code</button><button id="compare">Compare codes</button><button id="back">Back to quiz</button></div>'+
+ (partner?guideVisuals(file)+guide(file)+animalSymbol(file)+interestSummary(file.interests)+'<button id="edit-interests">Edit interests</button>':behavior?behaviorPanel():'<div class="grid">'+chart("What matters to me",weights.map((w,i)=>[w.topic,file.importance[i]]),5)+individualBigFive(file)+'</div>'+
+ '<h2>Attachment and personality</h2><p class="muted">These short profile estimates reflect your self-reported answers.</p>'+attachmentSection(file)+knownMarkup(file)+frameworkVisuals(file)+profileMarkup(file.profiles)+
+ responseList(file)));
+ const editInterests=app.querySelector("#edit-interests");
+ if(editInterests)editInterests.onclick=()=>inventory(false,data=>{relationshipInterests=data;review();},()=>review());
+ const addContext=app.querySelector("#add-context");
+ if(addContext)addContext.onclick=contextView;
+ const startBehavior=app.querySelector("#start-behavior");
+ if(startBehavior)startBehavior.onclick=()=>behaviorStep(validBehavior(behaviorDraft)?0:behaviorDraft.length);
+ app.querySelector("#behavior-view").onclick=()=>review("behavior");
+ app.querySelector("#partner-view").onclick=()=>review("partner");
+ app.querySelector("#personal-view").onclick=()=>review("personal");
+ app.querySelector("#pdf").onclick=()=>printPreview("What Works for Me · PDF preview",(intimacy,appendix)=>{
+  const include=q=>intimacy||!intimacyTopics.has(q.topic);
+  return interestSummary(file.interests)+guideVisuals(file,intimacy)+animalSymbol(file)+chart("Topic priorities",weights.flatMap((w,i)=>include(w)?[[w.topic,file.importance[i]]]:[]),5)+individualBigFive(file)+
+   attachmentMap(file.responses)+frameworkVisuals(file)+knownMarkup(file)+profileMarkup(file.profiles)+
+   (appendix?'<h2>Detailed appendix</h2>'+responseList(file,include)+(validBehavior(behaviorDraft)?behaviorSummary(behaviorDraft):""):"");
+ },()=>review(mode),file);
+ app.querySelector("#share").onclick=()=>shareView(file,()=>review(mode));
+ app.querySelector("#compare").onclick=()=>importView(validBehavior(behaviorDraft)?{...file,behavior:behaviorDraft.map(row=>[...row])}:file,()=>review(mode));
+ app.querySelector("#back").onclick=()=>step(mainSteps.length+extras.filter(q=>Object.hasOwn(state,q.id)).length+contextItems.filter(q=>Object.hasOwn(state,q.id)).length-1);
+}
+function shareView(file,back,behavior=behaviorDraft){
+ const complete=validBehavior(behavior);
+ const {behavior:previewBehavior,...shareable}=file;
+ view(previewBehavior?"Preview sharing":"Your comparison code", (previewBehavior?'<p>This example uses fictional answers.</p>':"")+'<p>Share this code with someone you trust. Anyone who has it can read and compare the answers it contains, including intimate answers and profile information. It is encoded and can be decoded without a password.</p>'+
+ (complete?'<details><summary>Review behavior summary before sharing</summary>'+behaviorSummary(behavior)+'</details>'+
+ '<p><label><input type="checkbox" id="include-behavior"> Include this behavior summary in my code</label></p>':"")+
+ '<label for="code">Comparison code</label><textarea id="code" readonly spellcheck="false"></textarea><p id="copy-status" role="status"></p>'+
+ '<div class="actions"><button class="primary" id="copy">Copy code</button><button id="back">Back</button></div>');
+ const field=app.querySelector("#code");
+ field.value=encodeCode(shareable);
+ const include=app.querySelector("#include-behavior");
+ if(include)include.onchange=()=>{field.value=encodeCode(shareable,include.checked?behavior:undefined);};
+ app.querySelector("#copy").onclick=async()=>{
+  try{
+   await navigator.clipboard.writeText(field.value);
+   app.querySelector("#copy-status").textContent="Code copied.";
+  }catch{
+   field.focus();field.select();
+   app.querySelector("#copy-status").textContent="Code selected. Use your browser’s Copy command.";
+  }
+ };
+ app.querySelector("#back").onclick=back;
+}
+function readPacket(text) {
+ const file=JSON.parse(text);
+ const integer=(value,max)=>Number.isInteger(value)&&value>=0&&value<=max;
+ if(file?.schema!==schema || !Array.isArray(file.importance) || file.importance.length!==weights.length ||
+  !weights.every((_,i)=>integer(file.importance[i],5)&&file.importance[i]>0))throw Error("Use a complete comparison file from this version of Life Together.");
+ const answers={};
+ weights.forEach((w,i)=>answers[w.id]=file.importance[i]-1);
+ for(const q of scenarios){
+  const max=q.options.length-1;
+  if(q.descriptive){
+   const a=file.descriptive?.[q.id];
+   if(!a || !integer(a.answer,max))throw Error("The file is missing a personal preference answer.");
+   answers[q.id]=a.answer;
+   if(a.condition!==undefined){
+    if(!integer(a.condition,conditions.length-1))throw Error("The file is missing a personal preference follow-up.");
+    answers["condition-"+q.id]=a.condition;
+   }
+   continue;
+  }
+  const a=file.relationship?.[q.id];
+  if(!a || !integer(a.pref,max) || !integer(a.firm,1) || !Array.isArray(a.accept) || !a.accept.length ||
+   !a.accept.every(i=>integer(i,max)) || !a.accept.includes(a.pref))throw Error("The file has an invalid relationship answer.");
+  const depends=a.condition!==undefined;
+  if(depends&&!integer(a.condition,conditions.length-1))throw Error("The file is missing a relationship follow-up.");
+  answers[q.id]={pref:a.pref,accept:[...new Set(a.accept)],firm:a.firm,...(depends?{condition:a.condition}:{})};
+ }
+ for(const q of [...baseItems,...extras]){
+  const answer=file.responses?.[q.id];
+  if(answer===undefined&&extras.includes(q))continue;
+  if(!integer(answer,q.options.length-1))throw Error("The file is missing a profile answer.");
+  answers[q.id]=answer;
+  if(file.followups?.[q.id]!==undefined){
+   const condition=file.followups?.[q.id];
+   if(!integer(condition,conditions.length-1))throw Error("The file is missing a profile follow-up.");
+   answers["condition-"+q.id]=condition;
+  }
+ }
+ for(const q of extras)if(needsExtra(q,answers)&&!Object.hasOwn(answers,q.id))throw Error("The file is missing a required profile follow-up.");
+ for(const q of contextItems){
+  const data=file.context?.[q.id];
+  if(data===undefined)continue;
+  if(!Array.isArray(data)||data.length!==2||!integer(data[0],q.options.length-1)||(data[1]!==null&&!integer(data[1],conditions.length-1)))throw Error("The file has an invalid context answer.");
+  answers[q.id]=data[0];
+  if(data[1]!==null)answers["condition-"+q.id]=data[1];
+ }
+ const validated=packet(answers);
+ validated.interests=validateInterests(file.interests);
+ validated.known={};
+ for(const key of knownFrameworks){
+  const value=file.known?.[key];
+  if(typeof value==="string"&&value.length<=80)validated.known[key]=value;
+ }
+ return validated;
+}
+function restoreAnswers(file){
+ behaviorDraft.length=0;
+ relationshipInterests=file.interests;
+ reviewedSections.clear();shortcutIds.clear();
+ Object.keys(knownProfiles).forEach(key=>delete knownProfiles[key]);
+ Object.assign(knownProfiles,file.known||{});
+ const restored={...file.relationship,...file.responses};
+ weights.forEach((w,i)=>{restored[w.id]=file.importance[i]-1;});
+ for(const [id,data] of Object.entries(file.descriptive)){
+  restored[id]=data.answer;
+  if(data.condition!==undefined)restored["condition-"+id]=data.condition;
+ }
+ for(const [id,condition] of Object.entries(file.followups))restored["condition-"+id]=condition;
+ for(const [id,[answer,condition]] of Object.entries(file.context)){
+  restored[id]=answer;
+  if(condition!==null)restored["condition-"+id]=condition;
+ }
+ Object.keys(state).forEach(id=>{delete state[id];});
+ Object.assign(state,restored);
+}
+function restoreView(){
+ view("Restore saved answers",'<p>Choose a saved Life Together comparison file to resume from your saved answers and complete any remaining sections. The file is read in this tab.</p>'+
+ '<form><div class="card"><label>Saved comparison file <input name="saved" type="file" accept=".json,application/json" required></label>'+
+ '<p id="error" role="alert" class="warning"></p><div class="actions"><button class="primary">Open my results</button><button type="button" id="back">Back</button></div></div></form>');
+ app.querySelector("#back").onclick=home;
+ app.querySelector("form").onsubmit=async event=>{
+  event.preventDefault();
+  const form=event.currentTarget;
+  const file=new FormData(form).get("saved");
+  try{
+   if(file.size>1024*1024)throw Error("Choose a comparison file under 1 MB.");
+   const validated=readPacket(await file.text());
+   if(!form.isConnected)return;
+   restoreAnswers(validated);
+   completeQuiz();
+  }catch(error){
+   if(form.isConnected)form.querySelector("#error").textContent=error instanceof SyntaxError?"Choose a valid Life Together JSON file.":error.message;
+  }
+ };
+}
+function importView(own=null,back=home){
+ view("Compare codes",'<p>'+ (own?"Paste the other person’s code. Your current answers will be used for your side.":"Paste two Life Together codes to compare them in this tab.")+'</p>'+
+ '<form><div class="card">'+(own?"":'<p><label>Your code<textarea name="you" required spellcheck="false"></textarea></label></p>')+
+ '<p><label>Other person’s code<textarea name="partner" required spellcheck="false"></textarea></label></p><p id="error" role="alert" class="warning"></p>'+
+ '<div class="actions"><button class="primary">Show comparison</button><button type="button" id="back">Back</button></div></div></form>');
+ app.querySelector("#back").onclick=back;
+ app.querySelector("form").onsubmit=event=>{
+  event.preventDefault();
+  const data=new FormData(event.currentTarget);
+  try{
+   comparison(own||decodeCode(data.get("you")),decodeCode(data.get("partner")),()=>importView(own,back));
+  }catch(error){
+   app.querySelector("#error").textContent=error instanceof SyntaxError?"This comparison code could not be read. Copy the complete code and try again.":error.message;
+  }
+ };
+}
+function compareScenario(q,a,b){
+ const shared=a.accept.filter(i=>b.accept.includes(i));
+ const points=a.pref===b.pref?100:shared.length?75:0;
+ return {q,a,b,shared,points,firm:points===0&&a.firm===1&&b.firm===1};
+}
+function summarize(you,partner) {
+ const findings=scenarios.filter(q=>!q.descriptive).map(q=>compareScenario(q,you.relationship[q.id],partner.relationship[q.id]));
+ const weighted=scoredTopics.map((topic,i)=>{
+  const rows=findings.filter(f=>f.q.topic===topic);
+  return {topic,value:rows.reduce((sum,f)=>sum+f.points,0)/rows.length,weight:(you.importance[i]+partner.importance[i])/2};
+ });
+ const score=Math.round(weighted.reduce((sum,t)=>sum+t.value*t.weight,0)/weighted.reduce((sum,t)=>sum+t.weight,0));
+ return {score,findings,weighted};
+}
+function flowcharts(you,partner) {
+ const followThrough=["Agree on what would help and when you’ll check in.","Set an expectation for when reassurance or a reply is possible.","Name the hesitation and agree on a low-pressure way to reconnect.","Say when you’ll return to the conversation after taking space.","Agree on when an independent response needs a shared check-in."];
+ return attachmentScenarios.map((scenario,i)=>'<details><summary>'+escape(scenario)+'</summary>'+
+ ["Typical day","Under stress"].map((context,j)=>{
+  const id="a"+i+j;
+  const a=you.responses[id], b=partner?.responses[id], options=[...attachment,...open];
+  if(!partner)return '<div class="path"><h3>'+context+'</h3><p>'+escape(options[a])+'</p><p>↓ '+escape(followThrough[a])+'</p></div>';
+  const seek=i=>i===0||i===1, withdraw=i=>i===2||i===3||i===4;
+  const effect=(seek(a)&&withdraw(b))||(seek(b)&&withdraw(a))?"One person may reach out while the other delays contact. A check-in time could make space predictable.":
+   withdraw(a)&&withdraw(b)?"Both may wait for the other person to make contact. Decide who will reopen the conversation.":
+   a===b?followThrough[a]:"Both may try to make contact with different timing or intensity. Ask what kind of response would help first.";
+  return '<div class="path"><h3>'+context+'</h3><p><strong>You</strong> '+escape(options[a])+'<br><strong>Partner</strong> '+escape(options[b])+'</p><p>↓ '+escape(effect)+'</p></div>';
+ }).join("")+'</details>').join("");
+}
+function comparison(you,partner,compareAgain=()=>importView()) {
+ const {score,findings,weighted}=summarize(you,partner);
+ const firm=findings.filter(f=>f.firm);
+ const topicWeights=Object.fromEntries(weighted.map(t=>[t.topic,t.weight]));
+ const describeFinding=f=>'<details'+(f.points<100||intimacy.includes(f)?' open':'')+'><summary>'+escape(f.q.topic)+' · '+escape(f.q.prompt)+'</summary>'+
+  '<p><strong>'+({100:"Shared preference",75:"Mutually acceptable option",0:"No shared option"}[f.points])+'</strong> · '+f.points+' points'+
+  (f.firm?' · <span class="warning">Opposing firm requirements</span>':'')+'</p>'+
+  (f.a.pref!==f.b.pref && f.a.pref<f.q.options.length && f.b.pref<f.q.options.length?'<p>'+escape(f.q.friction)+'</p>':'')+
+  '<div class="grid"><div class="card"><strong>You</strong><br>'+describe(f.q,f.a)+'</div><div class="card"><strong>Partner</strong><br>'+describe(f.q,f.b)+'</div></div>'+
+  (f.shared.length?'<p><strong>Both could accept</strong> '+list(f.shared.map(i=>f.q.options[i]))+'</p>':'')+'</details>';
+ const intimacy=findings.filter(f=>["Sexual intimacy","Emotional connection","Consensual roles and interests","Relationship structure and boundaries"].includes(f.q.topic));
+ const boundaries=intimacy.filter(f=>f.a.firm||f.b.firm);
+ const intimacyOverview='<div class="grid">'+intimacyBars(you,"Your intimacy profile")+intimacyBars(partner,"Other person’s intimacy profile")+'</div>'+venn(intimacy)+reportTable(["Intimacy boundary","You","Other person"],boundaries.map(f=>[escape(f.q.prompt),f.a.firm?list(f.a.accept.map(i=>f.q.options[i])):"—",f.b.firm?list(f.b.accept.map(i=>f.q.options[i])):"—"]));
+ const visuals=topicGrid(findings)+compareInterests(you.interests,partner.interests)+scenarioVenn(findings,"Scenario agreement")+sharedCare(you,partner,findings)+
+ '<h2>Intimacy and boundaries</h2>'+intimacyOverview+sharedBigFive(you,partner)+attachmentSection(you,partner)+
+ '<h2>Animal Symbols</h2><div class="grid">'+[["You",you],["Other person",partner]].map(([label,file])=>'<div><h3>'+label+'</h3>'+animalSymbol(file,file.behavior||[])+'</div>').join("")+'</div>';
+ const differences=findings.filter(f=>f.points<100).sort((a,b)=>Number(b.firm)-Number(a.firm)||a.points-b.points||topicWeights[b.q.topic]-topicWeights[a.q.topic]);
+ view("Shared comparison",'<div class="card"><div class="mono">Overall compatibility score</div><strong class="score">'+score+' / 100</strong>'+
+  (firm.length?'<p class="warning"><strong>Opposing firm requirements</strong></p><ul>'+firm.map(f=>'<li>'+escape(f.q.prompt)+'<br>You require '+list(f.a.accept.map(i=>f.q.options[i]))+'. Your partner requires '+list(f.b.accept.map(i=>f.q.options[i]))+'.</li>').join("")+'</ul>':'')+
+  '<p>Based on '+findings.length+' scored scenarios and both people’s topic ratings.</p></div>'+
+  '<div class="actions"><button id="pdf">Save shared results as PDF</button><button id="compare">Compare other codes</button><button id="home">Quiz home</button></div>'+
+  visuals+'<details><summary>Overlap by topic</summary>'+weighted.map(t=>'<h3>'+escape(t.topic)+'</h3>'+venn(findings.filter(f=>f.q.topic===t.topic))).join('')+'</details>'+
+  '<h2>Differences to discuss</h2>'+(differences.map(describeFinding).join("")||'<p>Your preferred arrangements match in every scenario.</p>')+
+  '<h2>Areas of agreement</h2>'+(findings.filter(f=>f.points===100).map(describeFinding).join("")||'<p>Any mutually acceptable options are listed with the differences above.</p>')+
+  chart("Compatibility by topic",weighted.map(t=>[t.topic,Math.round(t.value)]))+
+  '<details><summary>Topic scores and importance</summary><ul>'+weighted.map((t,i)=>'<li>'+escape(t.topic)+' · '+Math.round(t.value)+'/100 · your importance '+you.importance[i]+'/5 · partner’s '+partner.importance[i]+'/5</li>').join("")+'</ul></details>'+
+  '<h2>Attraction, care, and personal preferences</h2><p>These answers describe each person’s experience. The score uses shared arrangements.</p>'+
+  personalItems.map(q=>'<details open><summary>'+escape(q.prompt)+'</summary><div class="grid"><div class="card"><strong>You</strong><br>'+
+   describePersonal(q,you.descriptive[q.id])+'</div><div class="card"><strong>Partner</strong><br>'+describePersonal(q,partner.descriptive[q.id])+'</div></div></details>').join("")+
+  '<details><summary>All answers · You</summary>'+responseList(you)+'</details><details><summary>All answers · Other person</summary>'+responseList(partner)+'</details>'+
+  compareBehavior(you.behavior,partner.behavior)+
+  '<h2>Profile estimates</h2><p class="muted">These short, original item sets give provisional estimates. Profiles are displayed as context for discussion. The compatibility score uses relationship answers and topic ratings.</p>'+
+  sharedProfiles(you,partner));
+ app.querySelector("#pdf").onclick=()=>printPreview("Shared comparison · PDF preview",(includeIntimacy,appendix)=>{
+  const include=q=>includeIntimacy||!intimacyTopics.has(q.topic);
+  const shown=findings.filter(f=>include(f.q)), conflicts=shown.filter(f=>f.firm), topicsShown=weighted.filter(include);
+  const visibleScore=Math.round(topicsShown.reduce((sum,t)=>sum+t.value*t.weight,0)/topicsShown.reduce((sum,t)=>sum+t.weight,0));
+  return '<p class="score">'+(includeIntimacy?"Compatibility":"Compatibility across included topics")+' '+visibleScore+' / 100</p>'+
+   (conflicts.length?'<h2>Opposing firm requirements</h2>'+conflicts.map(describeFinding).join(""):"")+
+   topicGrid(shown)+compareInterests(you.interests,partner.interests)+scenarioVenn(shown,"Scenario agreement")+sharedCare(you,partner,shown)+
+   (includeIntimacy?'<h2>Intimacy and boundaries</h2>'+intimacyOverview:"")+
+   sharedBigFive(you,partner)+attachmentSection(you,partner)+sharedProfiles(you,partner)+behaviorCounts(you.behavior,partner.behavior)+
+   (appendix?'<h2>Detailed appendix</h2>'+shown.map(describeFinding).join("")+compareBehavior(you.behavior,partner.behavior)+
+    '<h2>You</h2>'+responseList(you,include)+'<h2>Other person</h2>'+responseList(partner,include):"");
+ },()=>comparison(you,partner,compareAgain));
+ app.querySelector("#compare").onclick=compareAgain;
+ app.querySelector("#home").onclick=home;
+}
+function sampleFile(person) {
+ const answers={};
+ scenarios.forEach(q=>answers[q.id]=q.descriptive?person:{pref:0,accept:[0,1],firm:0});
+ weights.forEach((q,i)=>answers[q.id]=i<2?4:2);
+ baseItems.forEach((q,i)=>answers[q.id]=(i+person)%q.options.length);
+ contextItems.forEach((q,i)=>answers[q.id]=(i+person)%q.options.length);
+ extras.forEach(q=>{if(needsExtra(q,answers))answers[q.id]=person;});
+ answers["r1-0"]=person?{pref:2,accept:[1,2],firm:0}:{pref:1,accept:[1],firm:1};
+ answers["r6-0"]={pref:person,accept:[person],firm:1};
+ if(person)answers["r0-0"]={pref:3,accept:[3],firm:0,condition:1};
+ return {...packet(answers),behavior:Array.from({length:behaviorCount},(_,i)=>i%7===0?[2,person,1,null]:[i%2,(i+person)%4,person,1])};
+}
+// SexValues uses a single-question cursor and an in-page result view.
+// The combined question bank includes original scenarios and 27 rewrites of SexValues Legacy items.
+home();
+</script>
+</html>

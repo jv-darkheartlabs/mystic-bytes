@@ -1,4 +1,10 @@
 additional:
+  - name: What Works for Us — A Guide to Life Together
+    topic: websites
+    url: https://github.com/jv-darkheartlabs/what-works-for-us
+    text: Compare how you’d handle everyday life and big decisions together, from routines and intimacy to long-term plans.
+    demo: /demos/what-works-for-us/
+    demo_label: Open What Works for Us
   - name: Accessibility Rails Components
     topic: informational
     url: https://github.com/jv-darkheartlabs/accessibility-rails-components
