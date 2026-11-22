@@ -46,5 +46,3 @@ Garber's novel invites a rich tapestry of discussion, particularly in its treatm
 - In what ways does the first-person POV enhance or limit the narrative's complexity?  
 - How does Garber's portrayal of betrayal challenge or reinforce traditional romantic tropes?  
 - What do you think of the ending — an empowerment or a cycle of despair?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #OnceUponABrokenHeart

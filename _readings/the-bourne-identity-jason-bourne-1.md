@@ -19,7 +19,6 @@ tags:
   - thriller
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,4 +44,3 @@ The exploration of identity in **The Bourne Identity** raises significant questi
   - Does the ending provide a true resolution, or does it leave us questioning the nature of self?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #espionage #mystery #TheOrchidRoom #darkheartlabs

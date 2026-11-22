@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R392
 sort_key: 392
 date: 2026-02-12
-date_read: 2007-08-16
+date_read: 2011-08-16
 category: mystery-crime
 cover: /assets/readings/the-making-of-us.jpg
 content_warnings:

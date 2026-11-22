@@ -7,7 +7,7 @@ dek: "Of Flesh & Bone Book Two"
 number: R264
 sort_key: 264
 date: 2026-01-29
-date_read: 2015-06-10
+date_read: 2022-06-10
 category: vampire-paranormal
 cover: /assets/readings/what-hunts-inside-the-shadows.jpg
 spice: 5
@@ -53,5 +53,3 @@ This book presents numerous polarities that can fuel a spirited discussion:
 - In what ways does Woods' depiction of vampires serve as a metaphor for human relationships?
 - Can the use of dark magic be reconciled with the emotional journeys of the characters, or does it overshadow their personal growth?
 - How does the book balance explicit content with the deeper themes it explores?
-
-#TheOrchidRoom #vampire #darkromance #gothic #literaryanalysis

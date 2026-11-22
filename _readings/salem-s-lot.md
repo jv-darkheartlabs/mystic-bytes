@@ -25,7 +25,6 @@ tags:
   - gothic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -52,5 +51,3 @@ While *’Salem’s Lot* serves as an exemplar of horror literature, its layered
 - Is the pacing in the latter half a flaw or a deliberate choice to deepen the horror?  
 - What roles do nostalgia and memory play in the narrative, and how do they impact the reader's experience?  
 - Can we truly reconcile the concept of evil with the human condition as presented in this novel?  
-
-#TheOrchidRoom #vampire #paranormal #darkromance #horror

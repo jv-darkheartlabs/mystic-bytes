@@ -50,5 +50,3 @@ The interplay of desire and power creates polarizing moments that can ignite liv
 - In what ways does Maas redefine the concept of 'happily ever after' in her retelling of classic fairy tales?  
 - How does the portrayal of female agency in this novel compare to other works within the fantasy-romance genre?  
 - What are the implications of the book’s moral ambiguity on character development and reader empathy?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #acotar

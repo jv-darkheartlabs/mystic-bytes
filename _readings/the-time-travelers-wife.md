@@ -23,7 +23,6 @@ tags:
   - time travel
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Niffenegger’s work invites readers to grapple with profound themes of time, lo
 - How do you interpret Clare's experiences of longing and loss in contrast to Henry's temporal escapades?  
 - What does the novel suggest about the nature of choice in love?  
 - Does the non-linear storytelling enrich or detract from the emotional impact of the narrative?
-
-#TheOrchidRoom #forbiddenlove #darkromance #scifi #timetravel

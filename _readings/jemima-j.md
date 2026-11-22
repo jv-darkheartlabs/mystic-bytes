@@ -18,7 +18,6 @@ tags:
   - body-image
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,4 +44,3 @@ The thematic exploration of body image is both empowering and unsettling, as it 
 - How does the exploration of body image intersect with themes of love and self-worth in the story?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #self-discovery #theorchidroom

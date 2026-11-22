@@ -41,5 +41,3 @@ The interplay of animosity and attraction in **Runaway Groomsmen** raises fascin
 - In what ways does the setting of a wedding influence the themes of love and conflict?  
 - Are the characters’ transformations believable, or do they feel contrived?  
 - What does this narrative suggest about the potential for love to grow from animosity?
-
-#TheOrchidRoom #enemiestolovers #darkromance #wedding #literaryanalysis

@@ -48,5 +48,3 @@ The interplay of desire and danger within *These Twisted Fates* invites a multit
 - Does the use of dual perspectives effectively deepen your connection to the characters, or does it create distance?  
 - How does the book challenge or reinforce traditional tropes in the dark romance genre?  
 - What unresolved tensions linger after the story concludes, and how do they reflect real-world dynamics of power and desire?
-
-#TheOrchidRoom #TheseTwistedFates #darkromance #vampire #fae

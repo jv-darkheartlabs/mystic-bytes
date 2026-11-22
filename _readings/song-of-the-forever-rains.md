@@ -6,7 +6,7 @@ dek: ""
 number: R1526
 sort_key: 1526
 date: 2026-06-14
-date_read: 2017-08-16
+date_read: 2021-08-16
 category: fantasy-romance
 cover: /assets/readings/song-of-the-forever-rains.jpg
 spice: 4
@@ -19,7 +19,6 @@ tags:
   - darkromance
   - forever
   - rains
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -50,5 +49,3 @@ The duality of desire and sacrifice is a central theme that invites polarizing o
 - What does the ending suggest about the nature of love and sacrifice — is it hopeful or despairing?
 - How does Mellow's approach compare to other authors in the genre, particularly in terms of emotional depth?
 - In what ways do you see this book bridging niche tropes to appeal to a wider audience?
-
-#TheOrchidRoom #fantasyromance #darkromance #romantasy #EJMellow

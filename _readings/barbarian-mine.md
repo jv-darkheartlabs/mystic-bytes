@@ -52,5 +52,3 @@ Dixon's work poses several polarizing elements, particularly around themes of co
 - Do the characters' actions and motivations reflect a critique of traditional romance norms, or do they reinforce them?  
 - How does the survival aspect impact the dynamics of power between the protagonists?  
 - Where do we draw the line between fantasy and problematic representation in romance?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #alienromance

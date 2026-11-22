@@ -44,5 +44,3 @@ Though *All He'll Ever Be* delivers a compelling exploration of dark romance, po
 - How successfully does the first-person perspective enhance or detract from the reader's connection to the characters?
 - In what ways does the emotional intensity of the narrative challenge or reinforce your expectations of the genre?
 - Can predictability in endings still be satisfying if earned through character development and thematic resonance?
-
-#TheOrchidRoom #darkbillionaire #darkromance #literaryanalysis #WWinters

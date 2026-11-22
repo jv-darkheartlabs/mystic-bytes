@@ -49,5 +49,3 @@ While *Kingpin* masterfully explores themes of obsession and power, it also rais
 - Can redemption coexist with the darker elements present in the relationship dynamics?  
 - How does O'Neill’s portrayal of college life shape our understanding of the characters' actions and desires?  
 - Do you see the ending as a critique of the relationship, or does it romanticize toxicity?
-
-#TheOrchidRoom #bullyromance #darkromance #courtuniversity #literaryanalysis

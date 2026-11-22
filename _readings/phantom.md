@@ -7,7 +7,7 @@ dek: "Author of Haunting Adeline"
 number: R247
 sort_key: 247
 date: 2026-01-27
-date_read: 2022-07-13
+date_read: 2025-07-13
 category: stalker-obsession
 cover: /assets/readings/phantom.jpg
 spice: 4
@@ -52,5 +52,3 @@ The juxtaposition of love and obsession presents a fertile ground for debate, pa
 - Do you feel the ending provides closure or leaves too many questions unanswered?  
 - How does the use of gothic elements shape your understanding of the characters’ motivations?  
 - What are the implications of blending beauty with violence in the narrative, and how does that affect your reading experience?  
-
-#TheOrchidRoom #stalker #darkromance #gothic #literaryanalysis

@@ -6,7 +6,7 @@ dek: ""
 number: R860
 sort_key: 860
 date: 2026-04-04
-date_read: 2023-08-16
+date_read: 2024-08-16
 category: enemies-to-lovers
 cover: /assets/readings/finn-rhodes-forever.jpg
 spice: 3
@@ -40,5 +40,3 @@ This novel presents a fertile ground for discourse, particularly around the them
 - How does the setting of Queen's Cove enhance or detract from the romantic tension?  
 - In what ways does the book challenge or reinforce traditional enemies-to-lovers tropes?  
 - Can neatly tied endings undermine the emotional complexity established throughout a story?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #Queen'sCove #literaryanalysis

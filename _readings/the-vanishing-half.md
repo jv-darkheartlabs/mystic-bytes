@@ -44,5 +44,3 @@ However, while the thematic exploration of identity is profound, Bennett occasio
 - Does the non-linear structure enhance or detract from the emotional weight of the story?  
 - How does Bennett's portrayal of race and identity challenge or conform to today’s social dialogues?  
 - What unresolved questions linger for you after the conclusion of the story?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literary #literaryanalysis #darkheartlabs

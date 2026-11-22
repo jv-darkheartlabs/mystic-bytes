@@ -7,7 +7,7 @@ dek: ""
 number: R673
 sort_key: 673
 date: 2026-03-15
-date_read: 2016-10-22
+date_read: 2023-10-22
 category: fantasy-romance
 cover: /assets/readings/a-kingdom-of-courage-and-cruelty.jpg
 spice: 3
@@ -47,5 +47,3 @@ The themes of power dynamics and emotional cost in relationships present a ferti
 - What are the implications of portraying love intertwined with violence—does it romanticize toxic relationships or offer a critique?  
 - How does Beswick's world-building compare to other fantasy romances you've read? Does it stand out or blend in?  
 - What are your thoughts on the ending? Did it feel earned, or was it a departure from the narrative flow?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

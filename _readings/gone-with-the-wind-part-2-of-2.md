@@ -23,7 +23,6 @@ tags:
   - Civil War
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ The novel's exploration of love amidst conflict raises polarizing questions abou
 - Is the portrayal of relationships in wartime a critique or a celebration of passion?  
 - How does Escott's characterization challenge or conform to traditional romantic tropes?  
 - Does the unresolved ending serve the story's themes or undermine its impact?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #historicalfiction #AmericanSouth

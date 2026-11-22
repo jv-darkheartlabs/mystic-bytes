@@ -51,5 +51,3 @@ The juxtaposition of love and conflict in *Scarlet Princess* invites a multitude
 - In what ways does the book challenge or reinforce traditional fantasy and romance tropes?  
 - How effectively does the narrative balance the elements of fantasy and romance without diminishing either?  
 - What unresolved themes linger after the book's conclusion, and how do they impact your overall interpretation?  
-
-#TheOrchidRoom #fantasyromance #darkromance #highfantasy #literaryanalysis

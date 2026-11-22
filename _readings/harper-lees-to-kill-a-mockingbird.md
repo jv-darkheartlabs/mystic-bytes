@@ -21,7 +21,6 @@ tags:
   - social justice
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,4 +46,3 @@ Sergel’s adaptation is likely to provoke intense debate over its fidelity to L
   - In what ways does the adaptation challenge the audience's perceptions of morality and justice?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #classic #socialjustice #theorchidroom

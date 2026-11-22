@@ -50,5 +50,3 @@ Tolkien's work invites divergence of thought, particularly concerning its pacing
 - Is the emotional intensity of *The Fellowship of the Ring* undermined by its length and complexity?  
 - How does the tension between light and dark in the narrative reflect contemporary societal struggles?  
 - In what ways do you see the influence of Tolkien's work in modern fantasy romance?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #thefellowship

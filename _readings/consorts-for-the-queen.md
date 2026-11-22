@@ -6,7 +6,7 @@ dek: "Our Fae Queen — Book 2"
 number: R529
 sort_key: 529
 date: 2026-02-27
-date_read: 2016-10-22
+date_read: 2021-10-22
 category: fantasy-romance
 cover: /assets/readings/consorts-for-the-queen.jpg
 spice: 4
@@ -49,5 +49,3 @@ The novel's blend of romance and dark themes is likely to ignite passionate disc
 - In what ways does the narrative challenge or reinforce traditional romance tropes?
 - How effective is the dual perspective in enhancing the emotional stakes of the plot?
 - What unresolved questions linger for you after reading? 
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #fae

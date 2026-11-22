@@ -46,5 +46,3 @@ The interplay of love and trauma in *Wilder* raises several polarizing points th
 - In what ways does *Wilder* align with or diverge from your expectations of dark-military-romance?
 - Was the emotional resolution satisfying, or did it fall prey to genre conventions?
 - How do you interpret the portrayal of military life and its impact on personal relationships in this book?
-
-#TheOrchidRoom #militaryromance #darkromance #Renegades #literaryanalysis

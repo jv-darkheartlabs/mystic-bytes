@@ -18,7 +18,6 @@ tags:
   - contemporary fiction
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ This text challenges readers to confront the societal implications of consumeris
 - What moral responsibilities do authors have when depicting issues like consumerism?  
 - Is Rebecca a sympathetic character, or does she evoke frustration?  
 - Can the commentary on consumer culture resonate with contemporary readers, and how does it reflect current societal trends?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #shoppingaddiction

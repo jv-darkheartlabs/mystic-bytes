@@ -46,5 +46,3 @@ Gabaldon’s work invites polarizing discussions on pacing, character developmen
 - Does the depiction of violence and war enhance or detract from the romantic elements?  
 - In what ways do you think Gabaldon’s portrayal of loyalty reflects contemporary issues?  
 - How effective is the ending in tying together the myriad themes presented throughout the novel?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #historical

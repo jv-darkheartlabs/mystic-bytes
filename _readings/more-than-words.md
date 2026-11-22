@@ -47,5 +47,3 @@ The narrative presents several polarities that could ignite a rich dialogue with
 - Is the rushed conclusion a disservice to the characters’ development, or does it serve a greater thematic purpose?  
 - How does the exploration of grief influence your perception of the characters’ actions and choices?  
 - What are the implications of representing disability in a romance narrative?
-
-#TheOrchidRoom #forbiddenlove #darkromance #signlanguage #literaryanalysis

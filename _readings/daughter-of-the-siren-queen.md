@@ -50,5 +50,3 @@ While *Daughter of the Siren Queen* delivers a captivating narrative, it also in
 - In what ways do the characters' struggles with identity resonate with contemporary issues of gender and autonomy?  
 - Does the fantastical aspect of sirens enhance or detract from the emotional stakes of the narrative?  
 - Are the romantic resolutions earned, or do they come at the cost of character integrity?
-
-#TheOrchidRoom #fantasyromance #darkromance #pirate #siren

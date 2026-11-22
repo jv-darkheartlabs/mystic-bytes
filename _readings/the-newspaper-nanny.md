@@ -40,5 +40,3 @@ In terms of craft, Moore excels with her evocative imagery and dialogue that cra
 - What role does the setting play in shaping the characters’ choices and desires?  
 - Does the ending provide a satisfying resolution, or does it leave too many questions unanswered?  
 - In what ways does this narrative reflect contemporary societal attitudes towards forbidden love?
-
-#TheOrchidRoom #forbiddenlove #darkromance #nanny #literaryanalysis #darkheartlabs

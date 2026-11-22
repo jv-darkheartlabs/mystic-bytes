@@ -25,7 +25,6 @@ tags:
   - fear
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -52,5 +51,3 @@ The interplay of trauma and horror invites rich discussion surrounding the natur
 - Do you believe the length of the novel enhances or detracts from its overall impact?  
 - How do the themes of friendship and resilience manifest in the face of evil?  
 - What role does nostalgia play in the characters' confrontation with their past?
-
-#TheOrchidRoom #gothic #horrorromance #comingofage #darkheartlabs

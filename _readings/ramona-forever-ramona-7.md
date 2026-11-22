@@ -18,7 +18,6 @@ tags:
   - family dynamics
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The juxtaposition of childhood innocence with darker emotional themes is bound t
 - In what ways does the book challenge or reinforce the tropes of children's literature?  
 - Can the subtle dark elements appeal to both children and adults, or does it alienate younger readers?
 - How does *Ramona Forever* compare to other coming-of-age stories in its handling of complex emotional landscapes?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #comingofage

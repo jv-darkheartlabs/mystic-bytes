@@ -54,5 +54,3 @@ The exploration of obsession in *Hunting Adeline* is not merely about the thrill
 - In what ways does the ending challenge or reinforce the book's central themes?  
 - How might this book resonate differently with readers who typically avoid dark romance?  
 - What role does societal context play in shaping the reader's interpretation of the characters’ actions?  
-
-#TheOrchidRoom #HuntingAdeline #darkromance #stalker #literaryanalysis

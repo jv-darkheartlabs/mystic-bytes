@@ -42,5 +42,3 @@ This novel raises intriguing questions about the complexities of love born from 
 - In what ways do the characters’ vulnerabilities shape their relationship dynamics?  
 - Is the ending truly earned, or does it fall into the trap of genre predictability?  
 - How does Bailey's depiction of cowboy culture influence the story's themes of masculinity and vulnerability?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

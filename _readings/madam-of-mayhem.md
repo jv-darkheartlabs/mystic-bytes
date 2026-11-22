@@ -50,5 +50,3 @@ The interplay of love and violence in "Madam of Mayhem" raises essential questio
 - Do you find the resolution satisfying, or does it leave you with more questions about the characters’ futures?  
 - Can the themes of power and loyalty coexist in a healthy relationship, or are they intrinsically toxic?  
 - How does this novel compare to others in the genre that feature similar dark themes?
-
-#TheOrchidRoom #MadamOfMayhem #darkromance #mcromance #gothic

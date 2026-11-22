@@ -22,7 +22,6 @@ tags:
   - American culture
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ Schlosser's work provokes a range of polarizing discussions, notably about consu
 - Does the book's ending empower the reader, or does it leave them feeling helpless?  
 - How successful is Schlosser in balancing personal narratives with broader socioeconomic critique?  
 - What responsibilities do you believe consumers have in light of the information presented in this book?  
-
-#LiteraryAnalysis #darkthriller #socioeconomicissues #foodindustry #theorchidroom

@@ -11,6 +11,7 @@ redirect_from:
 number: 910.18
 sort_key: 0910.18
 cover: /assets/images/cover-archive.svg
+thread: letters
 ---
 
 My body wanted 11pm. The standup wanted 7am local, which was someone else's afternoon. I set three alarms and called it professionalism. By Thursday the sentences were thin and I was snapping at a ticket that did not deserve it. The meeting clock and the circadian clock are not the same instrument. One of them will injure you if you let the other win every day.

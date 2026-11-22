@@ -6,7 +6,7 @@ dek: "Big Little Lies, #1"
 number: R1877
 sort_key: 1877
 date: 2026-07-16
-date_read: 2012-08-16
+date_read: 2014-08-16
 category: mystery-crime
 cover: /assets/readings/big-little-lies-big-little-lies-1.jpg
 content_warnings:
@@ -21,7 +21,6 @@ tags:
   - women's fiction
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The polarities in *Big Little Lies* evoke passionate debate around the ethics of
 - In what ways does the non-linear structure enhance or detract from the emotional impact?
 - How do we reconcile the enjoyment of a thriller with its darker themes?
 - Is the ending a resolution or a reflection of unresolved societal issues?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #mystery #theorchidroom

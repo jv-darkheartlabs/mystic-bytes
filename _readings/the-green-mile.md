@@ -23,7 +23,6 @@ tags:
   - suffering
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -52,4 +51,3 @@ The ending, while impactful, raises questions about redemption and the nature of
 - How does the prison setting amplify the novel's gothic elements compared to King’s other works?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #theorchidroom

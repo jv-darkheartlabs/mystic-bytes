@@ -51,5 +51,3 @@ The novel's exploration of dark themes invites polarizing opinions on fidelity, 
 - What role does death play in shaping the relationships within the narrative?  
 - How effectively does Amore utilize gothic elements to enhance the emotional landscape of the story?  
 - In what ways do you think the themes resonate with contemporary societal issues regarding fidelity and desire?  
-
-#TheOrchidRoom #gothic #horrorromance #unfaithful #death

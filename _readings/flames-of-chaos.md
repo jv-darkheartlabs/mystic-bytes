@@ -6,7 +6,7 @@ dek: "Legacy of the Nine Realms 1"
 number: R1405
 sort_key: 1405
 date: 2026-06-02
-date_read: 2016-04-04
+date_read: 2020-04-04
 category: fantasy-romance
 cover: /assets/readings/flames-of-chaos.jpg
 spice: 4
@@ -50,5 +50,3 @@ The juxtaposition of love and chaos offers fertile ground for debate, as readers
 - How does the dual perspective enhance or detract from the emotional impact of the story?  
 - What are the ethical implications of the characters' decisions under the influence of dark magic?  
 - How does the portrayal of war shape the romantic elements of the story?
-
-#TheOrchidRoom #fantasyromance #darkromance #legacyofnineRealms #literaryanalysis

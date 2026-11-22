@@ -48,5 +48,3 @@ The tension between desire and destruction is palpable in **Famine**, inviting r
 - In what ways does the structure of the novel enhance or detract from its themes?  
 - Do you find the ending satisfying or frustrating, and why?  
 - How does this book compare to other fantasy-romance works you've read?
-
-#TheOrchidRoom #fantasyromance #darkromance #Famine #literaryanalysis

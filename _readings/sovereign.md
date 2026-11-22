@@ -7,7 +7,7 @@ dek: "One Sovereign Mountain"
 number: R092
 sort_key: 092
 date: 2026-01-11
-date_read: 2023-05-07
+date_read: 2024-05-07
 category: captor-and-captive
 cover: /assets/readings/sovereign.jpg
 spice: 4
@@ -51,5 +51,3 @@ The duality of desire and captivity in *Sovereign* provokes a multitude of inter
 - Can a story rooted in captivity and power imbalance still elicit a sense of romance without glorifying toxicity?  
 - What role does the author’s stylistic choice play in shaping our empathy for the characters?  
 - How does *Sovereign* compare to other recent works in dark romance regarding ethical boundaries?  
-
-#TheOrchidRoom #Sovereign #darkromance #captorandcaptives #literaryanalysis

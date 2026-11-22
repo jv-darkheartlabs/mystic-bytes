@@ -49,5 +49,3 @@ King's work invites a wealth of polarizing discussion points, particularly aroun
 - In what ways does the narrative challenge traditional notions of consent?
 - Can obsession ever be portrayed as a form of love, or is it inherently toxic?
 - What do you think the ending ultimately says about the nature of desire?
-
-#TheOrchidRoom #DelightfulSins #darkromance #literaryanalysis #captorandcaptive

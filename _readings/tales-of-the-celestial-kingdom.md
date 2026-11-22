@@ -7,7 +7,7 @@ dek: ""
 number: R924
 sort_key: 924
 date: 2026-04-11
-date_read: 2015-09-19
+date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/tales-of-the-celestial-kingdom.jpg
 spice: 3
@@ -45,5 +45,3 @@ The exploration of desire within *Tales of the Celestial Kingdom* evokes passion
 - Do you find the balance between fantasy elements and romantic tension effective, or does one overshadow the other?  
 - How do the content warnings enhance or detract from the overall reading experience?  
 - What are your thoughts on the dual perspective structure in terms of emotional engagement?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

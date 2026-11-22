@@ -6,7 +6,7 @@ dek: "A reverse harem romance"
 number: R1058
 sort_key: 1058
 date: 2026-04-26
-date_read: 2017-08-16
+date_read: 2021-08-16
 category: reverse-harem
 cover: /assets/readings/three-swedish-mountain-men.jpg
 spice: 5
@@ -40,5 +40,3 @@ Gold's work invites a rich dialogue around the themes of desire, power, and surv
 - Does the dual perspective enrich the narrative, or does it dilute the individual character arcs?  
 - How does Gold handle the theme of consent amidst the complexities of a reverse-harem dynamic?  
 - Is the ending of the novel a true resolution, or does it leave deeper issues unresolved?
-
-#TheOrchidRoom #reverseharem #darkromance #literaryanalysis #darkheartlabs

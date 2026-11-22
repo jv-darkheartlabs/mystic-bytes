@@ -22,7 +22,6 @@ tags:
   - coming of age
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ While *Uglies* expertly critiques modern beauty standards, its handling of chara
 - What aspects of Tally's journey resonate most with your own experiences?
 - How does Westerfeld's portrayal of beauty influence your interpretation of the characters' motivations?
 - What alternative endings could enhance the themes of identity and autonomy?  
-
-#LiteraryAnalysis #darkthriller #societalnorms #identity #theorchidroom

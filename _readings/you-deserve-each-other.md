@@ -7,7 +7,7 @@ dek: "The perfect dose of sweet, hilarious joy."
 number: R447
 sort_key: 447
 date: 2026-02-18
-date_read: 2018-09-19
+date_read: 2020-09-19
 category: enemies-to-lovers
 cover: /assets/readings/you-deserve-each-other.jpg
 spice: 2
@@ -44,5 +44,3 @@ The humor and heart of "You Deserve Each Other" present a delightful juxtapositi
 - What does the resolution say about the nature of growth in relationships?  
 - Can humor in romantic conflict be a double-edged sword?  
 - How does this book compare to other contemporary romances you've read in terms of emotional depth?
-
-#TheOrchidRoom #enemiestolovers #darkromance #romcom #literaryanalysis

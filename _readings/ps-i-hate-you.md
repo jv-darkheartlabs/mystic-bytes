@@ -43,5 +43,3 @@ The novel’s exploration of love intertwined with animosity invites a rich disc
 - How does the setting enhance or detract from the emotional stakes of the story?
 - What are the implications of using humor in serious romantic conflicts?
 - Which character's journey resonated most with you, and why?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

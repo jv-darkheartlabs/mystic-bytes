@@ -42,5 +42,3 @@ Jimenez's work brings forth polarities that can ignite spirited discussion—sho
 - In what ways does humor serve as a mechanism for coping with pain in the narrative?  
 - How does the enemies-to-lovers trope function as a commentary on personal growth and vulnerability?  
 - Is there a fine line between romantic tension and emotional manipulation in such stories?
-
-#TheOrchidRoom #enemiestolovers #darkromance #romcom #literaryanalysis

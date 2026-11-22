@@ -17,9 +17,9 @@ brief:
 
 Go is what a team looks like when they are tired of dialect wars. The language is small on purpose. `gofmt` is not a linter you configure. It is policy wearing a formatter's clothes: one layout, no bikeshed, the clone compiles in the head as well as in CI.
 
-I do not write Go daily. I clone it. Fedora packages, other people's CLIs, a service README that says `go build` and means it. The files look like the same person wrote them even when the git log says otherwise. That is the point. Rob Pike treats simplicity as engineering policy for large codebases, not as an aesthetic.[^1] You get boring types, explicit errors, and a standard layout. Cursor can still invent cleverness. The formatter will not save a bad design. It will save the afternoon you were about to spend on tabs versus alignment.
+I do not write Go daily. I clone it. Fedora packages, other people's CLIs, a service README that says `go build` and means it. The files look like the same person wrote them even when the git log says otherwise. That is the point. Rob Pike treats simplicity as engineering policy for large codebases, not as an aesthetic.[^1] You get boring types, explicit errors, and a standard layout. The model can still invent cleverness. The formatter will not save a bad design. It will save the afternoon you were about to spend on tabs versus alignment.
 
-They miss generics-that-look-like-Rust and call Go unsophisticated. The sophistication is social. A language that formats itself is choosing the next reader in another time zone — including me, grepping a clone on a laptop in the Auckland window, checking whether a flag does what the README claims. If your stack cannot survive `gofmt`-level policy, you wanted individuality more than a team clone.
+They miss generics-that-look-like-Rust and call Go unsophisticated. The sophistication is social. A language that formats itself is choosing the next reader in another time zone — including me, grepping a clone on a laptop in Louisiana, checking whether a flag does what the README claims. If your stack cannot survive `gofmt`-level policy, you wanted individuality more than a team clone.
 
 — JV · Dark Heart Labs.
 

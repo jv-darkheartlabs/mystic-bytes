@@ -7,7 +7,7 @@ dek: "He's her enemy. She's his everything."
 number: R123
 sort_key: 123
 date: 2026-01-14
-date_read: 2018-09-19
+date_read: 2025-09-19
 category: enemies-to-lovers
 cover: /assets/readings/nightshade.jpg
 spice: 4
@@ -47,5 +47,3 @@ Character development is a standout feature; both leads are layered, with flaws 
 - Are the character flaws portrayed as relatable or excessively problematic?  
 - Does the ending leave you satisfied, or does it feel like a cop-out?  
 - How does Woods' craft compare to other works in dark romance and gothic literature?
-
-#TheOrchidRoom #enemiestolovers #darkromance #gothic #literaryanalysis

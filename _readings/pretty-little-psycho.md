@@ -6,7 +6,7 @@ dek: ""
 number: R241
 sort_key: 241
 date: 2026-01-26
-date_read: 2016-10-22
+date_read: 2023-10-22
 category: stalker-obsession
 cover: /assets/readings/pretty-little-psycho.jpg
 spice: 5
@@ -51,5 +51,3 @@ The prose is sharp and evocative, often using striking imagery that reinforces t
 - How does the symbolism of the snake enhance or detract from the overall themes of the book?  
 - In what ways does the dual perspective influence your understanding of the characters?  
 - Are there moments in the book that challenge your boundaries of empathy for the protagonist?
-
-#TheOrchidRoom #PrettyLittlePsycho #DarkRomance #PsychologicalThriller #LiteraryAnalysis

@@ -7,7 +7,7 @@ dek: "A Lady of Darkness Novel"
 number: R1145
 sort_key: 1145
 date: 2026-05-05
-date_read: 2020-05-07
+date_read: 2025-05-07
 category: fantasy-romance
 cover: /assets/readings/lady-of-starfire.jpg
 spice: 3
@@ -46,5 +46,3 @@ Roehrich’s *Lady of Starfire* invites moments of heated debate, particularly c
 - In what ways do you find the ending satisfying or lacking, and how does it affect your overall perception of the story?  
 - How does Roehrich's treatment of violence and magic reflect contemporary societal issues?  
 - What role does the setting play in shaping the characters’ desires and motivations?
-
-#TheOrchidRoom #fantasyromance #darkromance #romantasy #literaryanalysis

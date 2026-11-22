@@ -22,7 +22,6 @@ tags:
   - betrayal
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -51,4 +50,3 @@ The thematic exploration of loyalty versus self-interest resonates deeply, espec
 - Is the ending of **Casino** a reflection of the characters' choices or a narrative contrivance?
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #darkthriller #romanticsuspense #organizedcrime #betrayal

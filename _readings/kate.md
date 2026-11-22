@@ -49,5 +49,3 @@ The exploration of obsession in *Kate* is ripe for debate, particularly regardin
 - Does the first-person perspective enhance or inhibit the reader's ability to empathize with the protagonist?  
 - How does *Kate* compare to other works in the genre in terms of character complexity?  
 - What unresolved questions about desire and morality linger after finishing the novel?
-
-#TheOrchidRoom #stalker #obsession #darkromance #literaryanalysis

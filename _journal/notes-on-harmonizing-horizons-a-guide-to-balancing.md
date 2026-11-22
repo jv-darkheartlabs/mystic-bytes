@@ -11,6 +11,7 @@ redirect_from:
 number: 910.35
 sort_key: 0910.35
 cover: /assets/images/cover-archive.svg
+thread: letters
 ---
 
 Mardi Gras and Matariki do not share a calendar. Holding Louisiana and Aotearoa in the same head means missing something on purpose and feeling it anyway. This is not the timezone ops note. That one is clocks, Do Not Disturb, meeting titles. This is the weight that shows up when the clocks are already correct.

@@ -45,5 +45,3 @@ Moronova’s narrative raises polarizing questions about the nature of love and 
 - In what ways does the depiction of grief inform our understanding of the characters’ motivations?  
 - How do you interpret the novel’s ending—does it provide closure or leave us with more questions?  
 - What role does setting play in shaping the characters’ relationships and desires throughout the narrative?
-
-#TheOrchidRoom #gothic #horrorromance #thefabricofoursouls #literaryanalysis

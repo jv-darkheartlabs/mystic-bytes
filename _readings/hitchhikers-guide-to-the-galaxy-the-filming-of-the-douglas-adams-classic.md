@@ -19,7 +19,6 @@ tags:
   - behind-the-scenes
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---

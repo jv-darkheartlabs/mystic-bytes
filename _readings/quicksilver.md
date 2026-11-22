@@ -7,7 +7,7 @@ dek: ""
 number: R928
 sort_key: 928
 date: 2026-04-12
-date_read: 2019-04-04
+date_read: 2024-04-04
 category: fantasy-romance
 cover: /assets/readings/quicksilver.jpg
 spice: 4
@@ -46,5 +46,3 @@ The thematic exploration of freedom versus entrapment is particularly compelling
 - In what ways does Hart’s style reflect or subvert conventional tropes in the fantasy-romance genre?  
 - How impactful is the dual perspective on your engagement with the characters?  
 - What lingering questions do you have about the characters’ journeys by the end of the novel?  
-
-#TheOrchidRoom #quicksilver #fantasyromance #darkromance #literaryanalysis

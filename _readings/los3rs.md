@@ -24,7 +24,6 @@ tags:
   - why choose
   - tattoos
   - gritty
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ However, the mechanical execution falters at times, particularly in character de
 - Can the portrayal of captivity and violence within the romantic context ever be justified in literature, and if so, how?  
 - What role does the setting play in amplifying the characters' desires and conflicts?  
 - Are there moments in the story that you found particularly challenging or rewarding, and why?
-
-#TheOrchidRoom #reverseharem #darkromance #whychoose #tattoos

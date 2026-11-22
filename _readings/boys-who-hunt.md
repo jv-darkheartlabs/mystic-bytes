@@ -54,5 +54,3 @@ The dichotomy of attraction versus repulsion is palpable in "Boys Who Hunt," inv
 - How does the dual perspective shape your understanding of the characters' motivations?  
 - In what ways does the gothic aesthetic enhance or detract from the central themes?  
 - Can a narrative steeped in violence and obsession still offer a redemptive arc for its characters?
-
-#TheOrchidRoom #BoysWhoHunt #DarkRomance #Gothic #LiteraryAnalysis

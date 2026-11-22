@@ -46,5 +46,3 @@ The interplay of power and desire in **The White Tower** raises questions about 
 - In what ways did the pacing impact your emotional investment in the characters?  
 - Do you feel the ending was a fitting conclusion to the themes presented?  
 - How do the darker elements, such as violence and death, enhance or detract from the romantic arc?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #aldoranchronicles

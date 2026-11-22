@@ -6,7 +6,7 @@ dek: ""
 number: R1059
 sort_key: 1059
 date: 2026-04-26
-date_read: 2018-09-19
+date_read: 2023-09-19
 category: stalker-obsession
 cover: /assets/readings/deaths-obsession.jpg
 spice: 4
@@ -45,5 +45,3 @@ Character development is a double-edged sword; the protagonist's descent into ob
 - How do we distinguish between romantic love and toxic obsession in literature?  
 - To what extent do the character's motivations elicit sympathy or disgust?  
 - Is the psychological intensity ultimately empowering or disempowering for the characters involved?  
-
-#TheOrchidRoom #Death'sObsession #darkromance #literaryanalysis #darkheartlabs

@@ -19,7 +19,6 @@ tags:
   - imagination
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The juxtaposition of joyous narrative and the unsettling undercurrent presents a
 - How do the characters in this narrative challenge typical notions of identity?  
 - What is the role of rhyme and rhythm in shaping the reader’s experience?  
 - Would this book resonate differently with adult readers compared to children?
-
-#TheOrchidRoom #gothic #horrorromance #children'sliterature #literaryanalysis

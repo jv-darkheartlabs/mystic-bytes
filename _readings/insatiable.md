@@ -7,7 +7,7 @@ dek: "The Edge of Darkness Trilogy"
 number: R252
 sort_key: 252
 date: 2026-01-27
-date_read: 2015-03-01
+date_read: 2023-03-01
 category: stalker-obsession
 cover: /assets/readings/insatiable.jpg
 spice: 4
@@ -51,5 +51,3 @@ Character development is nuanced; both the protagonist and antagonist are layere
 - How do the symbols of death and snakes enhance or detract from the narrative?  
 - In what ways does Rivers' use of a nonlinear structure affect our understanding of the characters?  
 - What ethical considerations arise when exploring themes of obsession in literature?  
-
-#TheOrchidRoom #stalker #darkromance #gothic #psychologicalintensity

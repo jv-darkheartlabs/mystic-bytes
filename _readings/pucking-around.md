@@ -7,7 +7,7 @@ dek: "The bestselling TikTok hockey romance"
 number: R1500
 sort_key: 1500
 date: 2026-06-13
-date_read: 2015-09-19
+date_read: 2023-09-19
 category: reverse-harem
 cover: /assets/readings/pucking-around.jpg
 spice: 5
@@ -43,5 +43,3 @@ Rath's structural choices serve the book's thesis well. She employs a multi-POV 
 - Are the characters’ motivations clear and justified, or do they feel like constructs to serve the fantasy?
 - What does the resolution suggest about the viability of such relationships in real life?
 - How does the backdrop of sports culture influence the depiction of romance and desire in this narrative?
-
-#TheOrchidRoom #reverseharem #darkromance #hockeyromance #literaryanalysis

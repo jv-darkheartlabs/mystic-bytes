@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R383
 sort_key: 383
 date: 2026-02-11
-date_read: 2008-08-16
+date_read: 2022-08-16
 category: mystery-crime
 cover: /assets/readings/the-lies-i-tell.jpg
 content_warnings:

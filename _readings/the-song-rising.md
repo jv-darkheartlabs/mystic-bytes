@@ -41,5 +41,3 @@ The interplay between personal ambition and the cost of love serves as a rich ve
 - In what ways do the secondary characters contribute to or detract from Paige's growth?  
 - How do the world-building elements influence your perception of the romantic plot?  
 - Are the ethical dilemmas presented in the story reflective of real-world issues we face today?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #TheSongRising

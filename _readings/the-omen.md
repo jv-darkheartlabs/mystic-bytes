@@ -23,7 +23,6 @@ tags:
   - occult
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ However, the thematic underpinnings of *The Omen* occasionally falter. While Sel
 - In what ways does Seltzer’s use of dual perspectives impact your emotional response to the characters?  
 - Is the ending a fitting conclusion to the themes presented, or does it leave too much unresolved?  
 - How does the balance of fear and desire function as a commentary on personal agency?
-
-#TheOrchidRoom #gothic #horrorromance #supernatural #literaryanalysis

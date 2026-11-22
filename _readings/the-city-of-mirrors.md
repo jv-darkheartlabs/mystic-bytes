@@ -44,5 +44,3 @@ The rich tapestry of love and loss in *The City of Mirrors* invites a multitude 
 - What are your thoughts on the portrayal of death in relation to love — does it strengthen or weaken the narrative?
 - How does Cronin's unique voice compare to other authors in the gothic horror genre?
 - In what way do the themes resonate with contemporary societal fears?
-
-#TheOrchidRoom #gothic #horrorromance #the #city #literaryanalysis #darkheartlabs

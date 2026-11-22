@@ -19,7 +19,6 @@ tags:
   - bedtime story
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The ending, while seemingly benign, resonates with a haunting finality, leaving 
 - What does the book say about the nature of comfort in the face of the unknown?  
 - In what ways does this book challenge or reinforce traditional notions of bedtime stories?  
 - How does the interplay between light and dark enhance the gothic elements of the narrative?  
-
-#TheOrchidRoom #gothic #horrorromance #childrensliterature #darkheartlabs

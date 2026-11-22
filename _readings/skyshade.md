@@ -48,5 +48,3 @@ The polarities within *Skyshade* lie in its balance of romance and betrayal, lea
 - Can the lush prose detract from the urgency of the plot, or does it elevate the experience?
 - How does Aster’s portrayal of ambition resonate with contemporary societal expectations?
 - What unresolved themes linger after the final page, and how might they impact our interpretation?
-
-#TheOrchidRoom #fantasyromance #darkromance #celestial #literaryanalysis

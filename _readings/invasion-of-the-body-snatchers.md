@@ -21,7 +21,6 @@ tags:
   - dystopian
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Finney's exploration of identity and conformity raises compelling debates that c
 - In what ways does the book challenge the concept of individuality in a collective society?  
 - Does the ending provide closure or exacerbate the central themes of paranoia and loss?  
 - How do the content warnings enhance or detract from the overall impact of the story?  
-
-#LiteraryAnalysis #darkthriller #sciencethriller #psychologicalthriller #theorchidroom

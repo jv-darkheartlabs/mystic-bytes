@@ -46,5 +46,3 @@ While *The Chase* delivers an entertaining narrative, its handling of darker the
 - Does the resolution feel earned, or does it skirt the complexities introduced earlier in the narrative?  
 - How does the setting of college and the sport of hockey contribute to the stakes of their relationship?  
 - Are the moments of levity sufficient to offset the darker elements, or do they detract from the overall impact?
-
-#TheOrchidRoom #TheChase #enemiestolovers #darkromance #hockeyromance

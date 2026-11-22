@@ -43,5 +43,3 @@ The book's playful approach to serious themes may provoke mixed feelings about i
 - In what ways do the characters’ arcs fulfill or defy genre expectations?  
 - Can we reconcile the lighthearted tone with the serious nature of self-discovery and healing?  
 - Where do you see the lines drawn between escapism and reality in the narrative?
-
-#TheOrchidRoom #fantasyromance #darkromance #romcom #literaryanalysis

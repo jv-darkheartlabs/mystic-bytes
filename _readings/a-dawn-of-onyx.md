@@ -6,7 +6,7 @@ dek: ""
 number: R1154
 sort_key: 1154
 date: 2026-05-06
-date_read: 2017-05-07
+date_read: 2022-05-07
 category: fantasy-romance
 cover: /assets/readings/a-dawn-of-onyx.jpg
 spice: 3
@@ -43,5 +43,3 @@ The interplay of light and dark in **A Dawn of Onyx** presents polarizing themes
 - What role does the setting play in shaping the narrative’s emotional landscape?  
 - Can the book’s flaws be overlooked in light of its thematic ambitions?  
 - How does the portrayal of magic serve as a metaphor for desire?
-
-#TheOrchidRoom #fantasyromance #darkromance #sacredstones #literaryanalysis

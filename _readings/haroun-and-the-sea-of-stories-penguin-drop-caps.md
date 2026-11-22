@@ -21,7 +21,6 @@ tags:
   - storytelling
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Rushdie's work is not without its polarities, particularly regarding its accessi
 - Do you find Rushdie’s use of whimsical language enhances or detracts from the gravity of the themes presented?  
 - How does the resolution of Haroun’s journey impact your overall interpretation of the narrative?  
 - What does the Sea of Stories symbolize in our current cultural landscape?  
-
-#TheOrchidRoom #fantasyromance #storytelling #SalmanRushdie #HarounAndTheSeaOfStories

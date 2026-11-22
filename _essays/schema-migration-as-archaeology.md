@@ -23,9 +23,9 @@ This is the reading essay. The sibling about writing the next file is a differen
 
 I have onboarded to Nightbind's Postgres history that way. The application looked fine. The migrations told on it: years of additive columns, a renamed enum buried in a single `ALTER`, a nullable field that became load-bearing without a backfill anyone wrote down. At 2am the operator does not have the oral history. They have the chain — if it was written for strangers.
 
-mystic-bytes is not a database. It is YAML and Markdown. The analog still holds. Frontmatter fields accumulate. `type`, `brief`, `sort_key`, `cover` — each one is a layer. When a script in `content-data.ts` assumes a field that older essays never grew, the failure looks like a flaky build until you read the history of the shape. Cursor will complete against the current type. It will not warn you that half the corpus is an earlier civilization.
+mystic-bytes is not a database. It is YAML and Markdown. The analog still holds. Frontmatter fields accumulate. `type`, `brief`, `sort_key`, `cover` — each one is a layer. When a script in `content-data.ts` assumes a field that older essays never grew, the failure looks like a flaky build until you read the history of the shape. The model will complete against the current type. It will not warn you that half the corpus is an earlier civilization.
 
-Auckland 2026 does not restore the archaeologist who left. Fedora's `git log` on `db/migrate` is the trench.
+Fedora's `git log` on `db/migrate` is the trench.
 
 ## Mechanism
 
@@ -49,7 +49,7 @@ On mystic-bytes I do a thinner version of the same read: open the oldest essays 
 
 **When squashing helps.** Early products with no long-lived production data can reset cheaply. Squash only when you are sure no environment still needs the intermediate strata for recovery or audit. Essay frontmatter is cheap to reset. Payment rows are not.
 
-**Tooling vs discipline.** Flyway, Liquibase, Rails migrations, Prisma: the tool enforces order, not intent. The comment field is still yours. Cursor will write a down migration that is a lie in production. Read it as a source, not as a spell.
+**Tooling vs discipline.** Flyway, Liquibase, Rails migrations, Prisma: the tool enforces order, not intent. The comment field is still yours. The model will write a down migration that is a lie in production. Read it as a source, not as a spell.
 
 ## Close
 

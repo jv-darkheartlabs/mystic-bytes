@@ -23,7 +23,6 @@ tags:
   - western
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The novel’s stark portrayal of morality and fate will undoubtedly ignite debat
 - In what ways does the setting act as a character in the story?  
 - Can the philosophical themes resonate with contemporary societal issues, and if so, how?  
 - Is the portrayal of law enforcement in the novel a critique of authority or a reflection of its limitations?
-
-#LiteraryAnalysis #darkthriller #crime #suspense #theorchidroom

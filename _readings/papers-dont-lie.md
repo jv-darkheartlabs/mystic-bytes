@@ -40,5 +40,3 @@ The tension between ambition and love serves as a fertile ground for debate, rai
 - In what ways does competition enhance or impede the romantic journey?  
 - How does Hazel’s exploration of ambition resonate with your own experiences of love and desire?  
 - Is the ending of the book earned in light of the characters' arcs, or does it feel rushed?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #fashion #literaryanalysis #darkheartlabs

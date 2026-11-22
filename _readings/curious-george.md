@@ -18,7 +18,6 @@ tags:
   - curiosity
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -40,5 +39,3 @@ The juxtaposition of lightheartedness against darker themes invites rich discuss
 - How effectively does the book convey the potential consequences of curiosity?  
 - In what ways does George’s character serve as a role model or a warning for young readers?  
 - Can we identify parallels between George's adventures and modern-day explorations of curiosity in children's media?  
-
-#LiteraryAnalysis #darkthriller #children'sliterature #curiosity #theorchidroom

@@ -46,5 +46,3 @@ Ultimately, the ending is both earned and unsettling, leaving readers to grapple
 - In what ways does the ending challenge traditional notions of romantic sacrifice?  
 - Do you feel the pacing issues detract from the overall impact, or do they serve the narrative’s grand design?  
 - What themes in *Death's End* resonate most with contemporary societal issues?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

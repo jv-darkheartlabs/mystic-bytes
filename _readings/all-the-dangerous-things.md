@@ -49,5 +49,3 @@ The novel deftly balances romance and peril, but its exploration of power dynami
 - Is the ending satisfying in its ambiguity, or does it leave too much unresolved?  
 - How does the craft of dialogue impact the authenticity of the characters’ relationships?  
 - What does this novel say about the nature of love when intertwined with violence?
-
-#TheOrchidRoom #mafiaromance #darkromance #underworldkings #literaryanalysis

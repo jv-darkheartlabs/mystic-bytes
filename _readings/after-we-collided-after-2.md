@@ -23,7 +23,6 @@ tags:
   - drama
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ The exploration of toxic relationships in **After We Collided** invites vigorous
 - In what ways could the narrative have deepened character development to enhance emotional stakes?
 - How do you interpret the balance between desire and control in the protagonists’ relationship?
 - What does the ending suggest about the potential for growth or change in toxic love?
-
-#TheOrchidRoom #enemiestolovers #darkromance #newadult #literaryanalysis

@@ -18,7 +18,6 @@ tags:
   - literary analysis
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Strunk's *The Elements of Style* ignites passionate debates about the balance be
 - In what ways does this guide resonate with your own writing experiences?
 - Have you ever found yourself at odds with the rules proposed in this book? How did you navigate that conflict?
 - Which contemporary writers do you think successfully blend clarity with creativity?
-
-#LiteraryAnalysis #darkthriller #writing #styleguide #theorchidroom

@@ -7,7 +7,7 @@ dek: ""
 number: R954
 sort_key: 954
 date: 2026-04-15
-date_read: 2021-03-01
+date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/a-touch-of-chaos.jpg
 spice: 4
@@ -47,5 +47,3 @@ St. Clair's *A Touch of Chaos* invites polarizing conversations about the nature
 - In what ways does the ending challenge conventional resolutions in romance?  
 - Do you find the emotional intensity empowering or overwhelming?  
 - What role does the setting play in accentuating the themes of desire and chaos?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #ScarlettStClair

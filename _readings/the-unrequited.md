@@ -45,5 +45,3 @@ The tension between love and obsession is a potent theme that can polarize reade
 - How effectively does Kent balance dark themes with moments of levity, and what impact does this have on the story’s tone?  
 - In what ways does the ending challenge or conform to our expectations of romance narratives?  
 - Can the characters’ emotional journeys be considered relatable, or do they risk alienation due to their extreme circumstances?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

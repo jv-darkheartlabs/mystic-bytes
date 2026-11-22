@@ -22,7 +22,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ This novel raises significant questions about the ethics of defending the indefe
 - What does the portrayal of the legal system say about trust in authority?  
 - In what ways does Connelly's work echo the gothic tradition of moral ambiguity?  
 - How do the characters’ motivations challenge or reinforce traditional notions of heroism?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #darkheartlabs

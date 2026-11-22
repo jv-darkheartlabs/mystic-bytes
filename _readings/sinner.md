@@ -6,7 +6,7 @@ dek: "pray for us sinners."
 number: R1262
 sort_key: 1262
 date: 2026-05-18
-date_read: 2017-05-07
+date_read: 2018-05-07
 category: forbidden-love
 cover: /assets/readings/sinner.jpg
 spice: 5
@@ -49,5 +49,3 @@ The polarities in *Sinner* are ripe for discussion, particularly around the them
 - In what ways does the emotional intensity of the characters' experiences either enhance or detract from the story's impact?  
 - Is the resolution of the narrative ultimately empowering or limiting for the characters involved?  
 - What biases might readers bring into their interpretation of the themes presented in the novel?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #priestseries #literaryanalysis

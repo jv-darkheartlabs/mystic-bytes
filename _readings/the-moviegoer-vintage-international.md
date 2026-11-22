@@ -18,7 +18,6 @@ tags:
   - search for meaning
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,4 +43,3 @@ Percy's exploration of existential themes raises significant questions about the
 - Is the lack of resolution in the ending a powerful commentary on life’s uncertainties or a narrative shortcoming?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #existentialism #southern-gothic #TheOrchidRoom

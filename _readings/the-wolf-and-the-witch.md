@@ -51,5 +51,3 @@ The rich tapestry of themes and character dynamics in *The Wolf and the Witch* c
 - In what ways does Weaks challenge or adhere to traditional fantasy-romance tropes?
 - What does the portrayal of dark magic reveal about the nature of the characters’ desires?
 - Are the pacing and character development consistent throughout, or do they detract from the overall experience?
-
-#TheOrchidRoom #fantasyromance #darkromance #witchwalker #literaryanalysis

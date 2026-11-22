@@ -6,7 +6,7 @@ dek: "#1 New York Times Bestselling Author"
 number: R757
 sort_key: 757
 date: 2026-03-24
-date_read: 2016-04-04
+date_read: 2025-04-04
 category: forbidden-love
 cover: /assets/readings/one-golden-summer.jpg
 spice: 3
@@ -42,5 +42,3 @@ Fortune’s interplay of heat and consequence raises questions about the nature 
   - In what ways does the setting function as a character itself, and how does it influence the protagonists’ journey?  
   - How does Fortune's portrayal of forbidden love challenge traditional romantic tropes?  
   - What unresolved themes linger post-reading, and do they invite a deeper reflection on the characters' fates?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #lake #literaryanalysis

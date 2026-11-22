@@ -21,7 +21,6 @@ tags:
   - strategy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The psychological manipulation and violence depicted in *Ender's Game* can lead 
 - Does the ending provide a satisfactory resolution to Ender's internal conflicts, or does it leave too many questions unresolved?  
 - How might the themes of manipulation and power dynamics resonate in today's social and political climate?  
 - Is the blend of military strategy and coming-of-age a successful formula, or does it detract from character development?
-
-#LiteraryAnalysis #darkthriller #sciencefiction #military #comingofage #theorchidroom

@@ -48,5 +48,3 @@ While Wong's blend of humor and horror is a hallmark, it raises polarizing quest
 - In what ways does the novel challenge traditional horror tropes, and does it succeed?  
 - Are there moments where the satire becomes too heavy-handed?  
 - How does Wong's unique voice compare to other contemporary authors in the genre?  
-
-#TheOrchidRoom #gothic #horrorromance #paranormal #darkheartlabs

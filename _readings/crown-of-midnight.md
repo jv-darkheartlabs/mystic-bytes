@@ -49,5 +49,3 @@ The thematic exploration of grief and betrayal is particularly poignant; Maas do
 - Does the romantic subplot enhance or detract from the central narrative of power struggles?  
 - How do the content warnings shape our understanding of the characters' journeys?  
 - What are the implications of betrayal as a recurring theme within the novel's broader narrative arc?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #CrownOfMidnight

@@ -19,7 +19,6 @@ tags:
   - creativity
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The blend of whimsy with darker undertones presents intriguing polarities for ex
 - Do you find the ending satisfying, or does it leave you with more questions about the nature of Harold’s creations?  
 - How does this book resonate with your own experiences of childhood imagination?  
 - Is there a danger in glorifying the unrestrained imagination depicted in the narrative?
-
-#TheOrchidRoom #gothic #horrorromance #children'sliterature #imagination

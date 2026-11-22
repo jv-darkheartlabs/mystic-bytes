@@ -46,5 +46,3 @@ The exploration of power dynamics and emotional intensity creates a fertile grou
 - Do you believe the darker elements of the narrative serve the romance, or do they overshadow it?  
 - What character's journey felt the most compelling to you, and why?  
 - How effectively does the ending resolve or complicate the central themes?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

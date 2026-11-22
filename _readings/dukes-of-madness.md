@@ -48,5 +48,3 @@ However, the book does stumble at times; certain plot elements feel repetitive, 
 - Does the dual POV enhance or detract from the narrative's tension?  
 - How does the resolution affect your perception of the protagonists' journey?  
 - What role does the setting of Foster High play in shaping the characters' conflicts and desires?  
-
-#TheOrchidRoom #bullyromance #darkromance #fosterhigh #literaryanalysis

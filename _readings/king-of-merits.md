@@ -6,7 +6,7 @@ dek: ""
 number: R1464
 sort_key: 1464
 date: 2026-06-09
-date_read: 2015-09-19
+date_read: 2022-09-19
 category: fantasy-romance
 cover: /assets/readings/king-of-merits.jpg
 spice: 4
@@ -51,5 +51,3 @@ The novel’s exploration of obsession and power raises complex moral questions,
 - Does the duality of power dynamics in relationships serve as a cautionary tale or a celebration of desire?  
 - How do the elements of dark magic inform our understanding of the characters' motivations?  
 - What lasting impact do you think the unresolved tensions will have on future installments of the series?
-
-#TheOrchidRoom #fantasyromance #darkromance #fae #KingOfMerits

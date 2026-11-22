@@ -11,6 +11,7 @@ redirect_from:
 number: 910.31
 sort_key: 0910.31
 cover: /assets/images/cover-archive.svg
+thread: letters
 ---
 
 Spray-and-pray applications feel like work because they fill a spreadsheet. They do not fill a stack. I wasted a season sending the same paragraph to companies whose hours would have wrecked sleep in Aotearoa. The rejections were not mysterious. I had applied to a calendar I could not keep.

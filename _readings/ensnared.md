@@ -6,7 +6,7 @@ dek: "Brutes of Bristlebrook Book 1"
 number: R1011
 sort_key: 1011
 date: 2026-04-21
-date_read: 2018-06-10
+date_read: 2023-06-10
 category: fantasy-romance
 cover: /assets/readings/ensnared.jpg
 spice: 5
@@ -44,5 +44,3 @@ However, the world-building, while evocative, occasionally leans into cliché, p
 - Do the darker themes serve the story's emotional depth, or do they risk overshadowing the romance?
 - Is the resolution of the protagonists' journey earned, or does it feel rushed?
 - How effective is the blend of fantasy elements with real-world emotional stakes?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #bristlebrook

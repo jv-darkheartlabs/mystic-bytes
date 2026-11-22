@@ -47,5 +47,3 @@ Abercrombie’s narrative choices present a rich terrain for discussion, especia
 - In what ways does Abercrombie challenge the conventional expectations of fantasy-romance?
 - Did the multiple perspectives enrich your understanding of the plot or distract from it?
 - How does the novel's exploration of themes like vengeance resonate with contemporary issues in society?
-
-#TheOrchidRoom #fantasyromance #darkromance #RedCountry #literaryanalysis

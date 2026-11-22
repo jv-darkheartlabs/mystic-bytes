@@ -6,7 +6,7 @@ dek: "If you had another chance to love, would you take it?"
 number: R1038
 sort_key: 1038
 date: 2026-04-24
-date_read: 2021-06-10
+date_read: 2024-06-10
 category: forbidden-love
 cover: /assets/readings/asap.jpg
 spice: 3
@@ -39,5 +39,3 @@ Oh's exploration of love's darker facets is bound to ignite debate, particularly
   - How do you interpret the ending—was it truly redemptive or merely a reflection of inevitability?  
   - What role does the setting play in amplifying the themes of desire and danger?  
   - How does the dual timeline structure impact your connection to the characters?
-
-#TheOrchidRoom #forbiddenlove #darkromance #YA #darkheartlabs

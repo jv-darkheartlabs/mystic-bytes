@@ -22,7 +22,6 @@ tags:
   - betrayal
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The interplay between truth and deception in **Cat on a Hot Tin Roof** raises po
 - Does the unresolved nature of the ending serve the play’s thesis effectively, or does it leave the audience feeling dissatisfied?  
 - How might the portrayal of substance abuse influence audience perception of Brick’s character?  
 - What role does the Southern setting play in shaping the characters’ conflicts and resolutions?
-
-#LiteraryAnalysis #darkthriller #SouthernGothic #familydrama #theorchidroom

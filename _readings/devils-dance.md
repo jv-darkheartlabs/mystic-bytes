@@ -44,5 +44,3 @@ However, while Fae's character development is commendable, certain supporting ch
 - What role does violence play in shaping our understanding of love in this narrative?  
 - How does Fae's portrayal of female agency in the context of dark romance challenge or conform to traditional genre expectations?  
 - In what ways does the novel reflect contemporary societal tensions surrounding love and taboo?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

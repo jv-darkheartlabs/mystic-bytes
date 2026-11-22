@@ -12,7 +12,7 @@ tags: [ai, craft]
 hashnode: true
 related_projects: [NeuroShell]
 brief:
-  system: mystic-bytes in Cursor; NeuroShell AI-assisted workflows
+  system: mystic-bytes in Claude; NeuroShell AI-assisted workflows
   issue: fluent diffs accepted unread; tests cover the happy path the model also guessed
   constraint: judgment stays local; distinct from ChatGPT-as-product and Cursor-as-editor essays
 ---
@@ -25,7 +25,7 @@ A coding assistant can generate faster than you can read. That is a productivity
 
 ## Context
 
-[NeuroShell](https://github.com/jv-darkheartlabs/NeuroShell) treats AI as augmentation for loud minds: plain-English input, session recovery, focus tooling. It does not treat the model as the person who is liable at 2am. mystic-bytes is the daily version of the same boundary. I draft in Cursor from Auckland in 2026. I still read the diff. Voice, footnotes, and whether this essay duplicates another file are not properties `tsc` will catch.
+[NeuroShell](https://github.com/jv-darkheartlabs/NeuroShell) treats AI as augmentation for loud minds: plain-English input, session recovery, focus tooling. It does not treat the model as the person who is liable at 2am. mystic-bytes is the daily version of the same boundary. I draft from Louisiana in 2026. I still read the diff. Voice, footnotes, and whether this essay duplicates another file are not properties `tsc` will catch.
 
 The failure pattern is stable across teams: accept suggestion, run tests, ship. Tests pass because they cover the happy path the model also guessed. The three-second timeout that lives only in a human's memory does not appear in the training set. Bender and colleagues named the underlying confusion: fluent language is not understanding.[^1] Fluent TypeScript is the same trick in a different syntax.
 
@@ -55,7 +55,7 @@ More context improves suggestions and sends more of the studio into a vendor pip
 
 Tool optimism versus team norms: the best guardrail is still "show me the diff." Linters catch style. Types catch shape. Neither catches "this timeout is load-bearing and not in the file." That catch is a person who remembers.
 
-Rejecting a fluent patch feels slow. Merging it is slower when it pages you from a different hemisphere. Auckland morning after a US deploy is a bad time to discover you trusted a summary.
+Rejecting a fluent patch feels slow. Merging it is slower when it pages you at the wrong hour. A Louisiana morning after a US deploy is a bad time to discover you trusted a summary.
 
 ## Close
 

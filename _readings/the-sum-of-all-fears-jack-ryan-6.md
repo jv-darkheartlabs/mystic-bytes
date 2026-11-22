@@ -22,7 +22,6 @@ tags:
   - terrorism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ Clancy's exploration of fear and power dynamics is bound to ignite debate among 
 - What lingering fears about global politics does this book evoke in today's context?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #suspense #terrorism #military #TheOrchidRoom

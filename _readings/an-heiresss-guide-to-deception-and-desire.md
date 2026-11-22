@@ -43,5 +43,3 @@ The interplay of deception and desire serves as fertile ground for examination, 
 - Can the resolution of conflicts in romance novels feel too neat, and does that undermine the stakes?  
 - How does Collins' portrayal of rivalry reflect broader societal themes still relevant today?  
 - What does the balance of power and vulnerability in relationships say about our own experiences with love and trust?
-
-#TheOrchidRoom #enemiestolovers #darkromance #historicalromance #mystery

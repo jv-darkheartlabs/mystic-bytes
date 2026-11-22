@@ -20,7 +20,6 @@ tags:
   - ruthless boys
   - fae
   - war
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -47,5 +46,3 @@ Moreover, the authors excel in world-building, crafting a vividly oppressive atm
 - Can we separate enjoyment of the characters from their moral ambiguity, or does that complicate our connection to the narrative?  
 - Does the explicit content enhance or distract from the emotional core of the story?  
 - What implications does the ending hold for the potential continuation of the series, and is it earned?
-
-#TheOrchidRoom #reverseharem #darkromance #ruthlessboys #fae

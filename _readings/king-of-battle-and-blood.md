@@ -7,7 +7,7 @@ dek: ""
 number: R1324
 sort_key: 1324
 date: 2026-05-24
-date_read: 2019-04-04
+date_read: 2021-04-04
 category: vampire-paranormal
 cover: /assets/readings/king-of-battle-and-blood.jpg
 spice: 5
@@ -47,5 +47,3 @@ The shades of morality in *King of Battle and Blood* provoke deep contemplation 
 - In what ways does the dual POV impact your connection to the protagonists?
 - Can love truly blossom in a world where survival is prioritized over emotional ties?
 - What does the ending suggest about the future of love in such a turbulent environment?
-
-#TheOrchidRoom #vampire #darkromance #literaryanalysis #ScarlettStClair

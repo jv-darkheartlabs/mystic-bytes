@@ -46,5 +46,3 @@ The novel deftly balances the allure of wealth and the peril of desire, yet it a
 - How does the duality of the vampire mythos inform our understanding of love and possession?  
 - In what ways does the ending subvert or conform to genre expectations regarding character fate and accountability?  
 - Does the interplay of horror and romance serve to enhance or dilute the overall impact of the story?  
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

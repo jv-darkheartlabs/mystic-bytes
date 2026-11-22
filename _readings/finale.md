@@ -7,7 +7,7 @@ dek: "A Caraval Novel"
 number: R1201
 sort_key: 1201
 date: 2026-05-11
-date_read: 2016-07-13
+date_read: 2018-07-13
 category: fantasy-romance
 cover: /assets/readings/finale.jpg
 spice: 1
@@ -47,5 +47,3 @@ The interplay of illusion and authenticity raises pivotal questions about identi
 - In what ways do the sisterly dynamics reflect broader societal expectations of women?  
 - How does Garber's use of magical elements serve the emotional narrative? Is the magic a character in its own right?  
 - Can the pacing issues affect your overall enjoyment of a fantasy-romance, or do you prioritize character development over plot momentum?
-
-#TheOrchidRoom #fantasyromance #darkromance #caraval #finale

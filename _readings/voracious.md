@@ -54,5 +54,3 @@ Yet, the ending leaves some ambiguity that may frustrate readers seeking closure
 - Are the characters relatable or too extreme, and how does that affect your engagement with the narrative?  
 - What is the significance of the ambiguous ending — does it elevate or undermine the story's themes?  
 - How do the sensory details contribute to the atmosphere, and do they overshadow character development?
-
-#TheOrchidRoom #stalker #obsession #darkromance #psychologicalthriller

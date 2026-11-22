@@ -7,7 +7,7 @@ dek: ""
 number: R1385
 sort_key: 1385
 date: 2026-05-31
-date_read: 2020-11-25
+date_read: 2024-11-25
 category: enemies-to-lovers
 cover: /assets/readings/happily-never-after.jpg
 spice: 2
@@ -42,5 +42,3 @@ The book's dual nature—its blend of humor and darkness—invites a range of in
 - Do you find the dual POV effective in deepening emotional engagement, or does it create a disjointed experience?  
 - In what ways does *Happily Never After* challenge or reinforce your expectations of the enemies-to-lovers trope?  
 - What is your take on the pacing and resolution—did it feel earned or rushed?
-
-#TheOrchidRoom #enemiestolovers #darkromance #rom-com #literaryanalysis

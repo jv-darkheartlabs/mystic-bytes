@@ -49,5 +49,3 @@ The ending, while satisfying in its resolution, raises questions about the impli
 - Does the dual perspective enhance or dilute the intimacy of the romantic relationship?  
 - What are the implications of Lira's final choices regarding freedom and power?  
 - How do the themes of betrayal and loyalty play into our understanding of love in this context?  
-
-#TheOrchidRoom #fantasyromance #darkromance #bridgekingdom #literaryanalysis

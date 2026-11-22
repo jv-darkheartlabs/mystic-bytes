@@ -47,5 +47,3 @@ The thematic success of *Last Sacrifice* hinges on its exploration of the bounda
 - Are the character arcs compelling enough to support the weight of the narrative’s conclusion?  
 - What role does supernatural horror play in shaping the emotional landscape of the story?  
 - How does the book balance its identity as both a dark romance and a young adult narrative?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

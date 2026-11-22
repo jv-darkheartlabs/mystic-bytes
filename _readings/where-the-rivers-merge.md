@@ -6,7 +6,7 @@ dek: "A Novel"
 number: R638
 sort_key: 638
 date: 2026-03-11
-date_read: 2017-11-25
+date_read: 2025-11-25
 category: fantasy-romance
 cover: /assets/readings/where-the-rivers-merge.jpg
 spice: 2
@@ -44,5 +44,3 @@ Monroe's exploration of grief as a transformative force is polarizing; some read
 - Do you believe the dual timeline structure enhances or detracts from the narrative’s pacing and emotional depth?  
 - How do you interpret the unresolved threads at the end of the novel — do they enrich the story or leave it incomplete?  
 - What do you think the novel suggests about the relationship between love and grief?  
-
-#TheOrchidRoom #fantasyromance #darkromance #lowcountry #literaryanalysis

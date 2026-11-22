@@ -7,7 +7,7 @@ dek: ""
 number: R1193
 sort_key: 1193
 date: 2026-05-10
-date_read: 2020-08-16
+date_read: 2024-08-16
 category: fantasy-romance
 cover: /assets/readings/tale-of-the-heart-queen.jpg
 spice: 3
@@ -48,5 +48,3 @@ The interplay of love and betrayal within the narrative raises polarizing questi
 - In what ways does the portrayal of betrayal challenge or reinforce traditional romantic tropes?  
 - Is the emotional richness of the Heart Queen’s journey worth the pacing inconsistencies?  
 - What does this novel suggest about the nature of power and its impact on love?  
-
-#TheOrchidRoom #fantasyromance #darkromance #heartqueen #literaryanalysis

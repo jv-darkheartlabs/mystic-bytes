@@ -7,7 +7,7 @@ dek: ""
 number: R926
 sort_key: 926
 date: 2026-04-12
-date_read: 2017-11-25
+date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/a-game-of-gods.jpg
 spice: 4
@@ -47,5 +47,3 @@ The intricate dance between love and ambition in "A Game of Gods" provokes contr
 - What role does the fantasy setting play in heightening the emotional stakes of the narrative?  
 - How effectively did St. Clair's use of dual perspectives deepen your understanding of the characters?  
 - In what ways does the story challenge or reaffirm your perceptions of love and power dynamics?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #ScarlettStClair

@@ -49,5 +49,3 @@ While **Rise of Fire** captivates with its exploration of darker themes entwined
 - In what ways do the characters evolve, or fail to evolve, in the face of their circumstances?  
 - Does the resolution of the romantic subplot feel earned within the larger context of the story?  
 - How does Jordan's stylistic approach compare to other authors in the genre?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #RiseofFire

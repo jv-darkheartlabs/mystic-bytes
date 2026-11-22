@@ -22,7 +22,6 @@ tags:
   - identity
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Palahniuk's craft is marked by a fragmented structure that mirrors the protagoni
 - What role does mental illness play in shaping the protagonist's journey, and how is it handled within the narrative?
 - Are the book's unresolved elements a flaw or a deliberate choice that enhances its thematic depth?
 - Does the ending offer any semblance of hope, or is it a culmination of despair?
-
-#LiteraryAnalysis #darkthriller #psychological #identity #theorchidroom

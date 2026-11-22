@@ -7,7 +7,7 @@ dek: ""
 number: R1275
 sort_key: 1275
 date: 2026-05-19
-date_read: 2018-09-19
+date_read: 2023-09-19
 category: gothic-horror-romance
 cover: /assets/readings/house-of-roots-and-ruin.jpg
 spice: 2
@@ -45,5 +45,3 @@ Craig’s novel raises questions of emotional resonance versus narrative clarity
 - In what ways do the family secrets challenge our understanding of love and loyalty?  
 - Are the implied tensions of desire and grief more impactful than explicit narratives?  
 - How does this book compare to other works in the gothic-horror-romance genre in terms of emotional depth and thematic exploration?
-
-#TheOrchidRoom #gothic #horrorromance #darkheartlabs #literaryanalysis

@@ -21,7 +21,6 @@ tags:
   - moral ambiguity
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Wells invites his readers to confront uncomfortable truths about identity and et
 - Can the boundary between humanity and monstrosity be clearly defined, or is it inherently fluid?  
 - How does the novel's resolution—or lack thereof—affect your interpretation of its themes?  
 - What role does setting play in the development of both the plot and the characters' moral dilemmas?  
-
-#TheOrchidRoom #gothic #horrorromance #sciencefiction #moralambiguity

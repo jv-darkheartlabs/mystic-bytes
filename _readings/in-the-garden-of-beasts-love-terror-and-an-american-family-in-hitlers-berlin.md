@@ -23,7 +23,6 @@ tags:
   - political history
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ Larson's blend of personal narrative with historical events invites debates arou
 - Are there moments when the historical data detracts from character development, and how does this affect your emotional engagement with the narrative?  
 - What does the ending suggest about the responsibilities of those who witness injustice?  
 - Can we draw parallels between the Dodd family's experiences and modern political climates, and if so, what lessons can we apply?
-
-#LiteraryAnalysis #darkthriller #historical #politicalhistory #theorchidroom

@@ -21,7 +21,6 @@ tags:
   - magic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Thematically, *Eragon* succeeds in exploring the weight of destiny versus free w
 - In what ways does the relationship between Eragon and Saphira challenge traditional notions of power in fantasy?
 - To what extent does the pacing impact the reader's engagement with the broader themes of destiny and choice?
 - Are the character archetypes a strength or a weakness in the overall narrative arc?
-
-#TheOrchidRoom #fantasyromance #darkromance #dragons #coming-of-age

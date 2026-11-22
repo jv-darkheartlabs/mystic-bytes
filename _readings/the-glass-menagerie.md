@@ -23,7 +23,6 @@ tags:
   - illusion
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ The ending, while poignant, raises questions about whether it is truly earned; i
 - Does the play's reliance on illusion enhance or detract from its emotional impact?  
 - How do you perceive the balance between despair and hope in the resolution of the play?  
 - What are the implications of Laura's glass menagerie as a symbol in the context of family and personal identity?  
-
-#TheOrchidRoom #gothic #horrorromance #classic #drama

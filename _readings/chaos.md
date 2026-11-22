@@ -48,5 +48,3 @@ The duality of power and innocence in *Chaos* presents fertile ground for discus
 - Can the alpha male character be redeemed within the context of the story, or does his nature dictate an inevitable tragedy?
 - What are the implications of obsession as a driving force for both characters—are their motivations justified?
 - How does the balance of power shift throughout the narrative, and what does it say about the nature of love in dangerous circumstances?
-
-#TheOrchidRoom #mafiaromance #darkromance #beneaththesecrets #chaos

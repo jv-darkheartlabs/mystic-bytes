@@ -7,7 +7,7 @@ dek: "He'll do anything to have her... even steal her from another man."
 number: R006
 sort_key: 006
 date: 2026-01-02
-date_read: 2021-09-19
+date_read: 2023-09-19
 category: arranged-marriage
 cover: /assets/readings/stolen-vows.jpg
 spice: 4
@@ -51,5 +51,3 @@ The thematic exploration of possession versus love is compelling; yet, it raises
 - In what ways does the dual perspective enhance or detract from the reader’s empathy for the characters?  
 - What might be the implications of depicting violence and infidelity themes as a backdrop for romance?  
 - How does Quinn's writing style impact the reader's perception of the characters' moral complexities?  
-
-#TheOrchidRoom #arrangedmarriage #darkromance #stolenbride #literaryanalysis

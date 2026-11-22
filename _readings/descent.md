@@ -6,7 +6,7 @@ dek: ""
 number: R800
 sort_key: 800
 date: 2026-03-29
-date_read: 2023-11-25
+date_read: 2024-11-25
 category: gothic-horror-romance
 cover: /assets/readings/descent.jpg
 spice: 3
@@ -46,5 +46,3 @@ Taylor's prose is both lyrical and haunting, with dialogue that crackles with te
 - Are the supporting characters merely shadows of the protagonist's psyche, or do they hold their own narratives?  
 - Is the ending a resolution or merely a reflection of the protagonist’s ongoing descent?  
 - How does Taylor's use of gothic tropes compare to contemporary depictions of romance in dark settings?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #literaryanalysis

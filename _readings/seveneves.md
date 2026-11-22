@@ -50,5 +50,3 @@ The thematic success of *Seveneves* lies in its exploration of legacy and the in
 - What is your take on the balance between character development and world-building?
 - Do you believe the romantic elements are essential to the story, or do they detract from the larger themes?
 - How does Stephenson's work compare to other speculative fiction that tackles similar themes?  
-
-#TheOrchidRoom #seveneves #fantasyromance #literaryanalysis #darkheartlabs

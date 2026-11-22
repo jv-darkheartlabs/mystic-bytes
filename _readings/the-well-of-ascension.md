@@ -46,5 +46,3 @@ Sanderson's blend of high-stakes fantasy and deep emotional currents presents se
 - How do you interpret the relationship between Vin and Elend in the context of their leadership roles?
 - In what ways do the characters' personal desires conflict with their responsibilities, and how does this tension drive the story?
 - Do you believe the ending resolves the thematic questions posed throughout the narrative satisfactorily, or does it leave you wanting more?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #Mistborn

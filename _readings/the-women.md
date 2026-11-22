@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R343
 sort_key: 343
 date: 2026-02-06
-date_read: 2022-04-04
+date_read: 2024-04-04
 category: dark-military-romance
 cover: /assets/readings/the-women.jpg
 spice: 2
@@ -48,5 +48,3 @@ The polarities in *The Women* are rich grounds for discussion, particularly surr
 - In what ways does this book challenge or conform to traditional military romance tropes?  
 - How does Hannah's portrayal of trauma in women differ from other contemporary narratives in the genre?  
 - What is the significance of hope within such a dark context, and do you find it ultimately empowering or disheartening?
-
-#TheOrchidRoom #militaryromance #darkromance #historical #literaryanalysis

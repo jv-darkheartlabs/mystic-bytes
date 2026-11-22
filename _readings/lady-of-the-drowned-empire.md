@@ -6,7 +6,7 @@ dek: ""
 number: R1428
 sort_key: 1428
 date: 2026-06-05
-date_read: 2015-09-19
+date_read: 2023-09-19
 category: fantasy-romance
 cover: /assets/readings/lady-of-the-drowned-empire.jpg
 spice: 3
@@ -50,5 +50,3 @@ Dialogue serves to reveal character depth, particularly in moments of vulnerabil
 - How effectively does Mallis use non-linear storytelling to elevate the emotional stakes?  
 - In what ways does the ending challenge or conform to traditional genre expectations?  
 - What does the narrative suggest about the cost of seeking power in the name of love?  
-
-#TheOrchidRoom #fantasyromance #darkromance #drownedempire #literaryanalysis

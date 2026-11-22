@@ -47,5 +47,3 @@ While *Stalking Shadows* captivates with its intense exploration of obsession, i
 - In what ways does the narrative challenge or reinforce traditional gender roles within the context of obsession?  
 - Is the psychological intensity depicted in the novel an accurate reflection of real-life stalking scenarios?  
 - How does the ending influence your overall perception of the story's themes?  
-
-#TheOrchidRoom #stalker #obsession #darkromance #literaryanalysis

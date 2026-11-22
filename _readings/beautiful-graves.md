@@ -7,7 +7,7 @@ dek: "USA Today Bestselling Author"
 number: R133
 sort_key: 133
 date: 2026-01-15
-date_read: 2016-10-22
+date_read: 2022-10-22
 category: forbidden-love
 cover: /assets/readings/beautiful-graves.jpg
 spice: 4
@@ -44,5 +44,3 @@ The interplay of grief and desire in "Beautiful Graves" invites a spectrum of in
 - How does Shen's writing style enhance or detract from the narrative's themes?  
 - In what ways do you feel the ending aligns with or defies typical genre conventions?  
 - Does the tension between love and loss resonate with contemporary societal narratives about relationships?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

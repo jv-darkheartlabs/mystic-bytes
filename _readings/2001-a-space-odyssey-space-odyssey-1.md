@@ -19,7 +19,6 @@ tags:
   - philosophy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ Clarke's work elicits polarizing interpretations: is it a cautionary tale or an 
 - How does *2001* compare to modern depictions of AI in literature and film?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #sciencefiction #theorchidroom

@@ -46,5 +46,3 @@ Ultimately, the ending, while satisfying in its resolution, teeters on the edge 
 - In what ways do the characters' flaws define their relationship dynamics?  
 - Is the resolution of the protagonists’ arcs earned, or does it lean too heavily on genre conventions?  
 - What does this book reveal about the balance between love and self-destruction in relationships?
-
-#TheOrchidRoom #cowboyromance #darkromance #enemiestolovers #literaryanalysis

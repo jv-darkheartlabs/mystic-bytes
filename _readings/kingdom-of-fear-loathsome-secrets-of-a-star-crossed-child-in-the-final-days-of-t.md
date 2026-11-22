@@ -22,7 +22,6 @@ tags:
   - dark humor
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The blend of memoir and political commentary in *Kingdom of Fear* creates a rich
 - Do you find Thompson's chaos engaging or overwhelming, and why?
 - How does the book's structure affect your understanding of the main themes?
 - What unresolved issues or biases do you think Thompson leaves unaddressed?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #darkhumor

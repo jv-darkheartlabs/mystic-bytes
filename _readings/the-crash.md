@@ -7,7 +7,7 @@ dek: "Danger lies at the end of the road..."
 number: R393
 sort_key: 393
 date: 2026-02-12
-date_read: 2008-09-19
+date_read: 2025-09-19
 category: mystery-crime
 cover: /assets/readings/the-crash.jpg
 content_warnings:

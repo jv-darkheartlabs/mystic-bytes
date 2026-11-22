@@ -7,7 +7,7 @@ dek: ""
 number: R1345
 sort_key: 1345
 date: 2026-05-26
-date_read: 2010-07-13
+date_read: 2023-07-13
 category: historical
 cover: /assets/readings/the-frozen-river.jpg
 content_warnings:
@@ -48,5 +48,3 @@ Lawhon’s chilling portrayal of isolation and moral ambiguity sparks essential 
 - What role does the pacing play in shaping reader investment — does it build suspense or create disconnect?
 - In what ways do the characters challenge or conform to typical thriller archetypes?
 - How might the narrative have shifted with a different resolution, and what would that mean for the themes explored?
-
-#LiteraryAnalysis #GothicEdge  #TheOrchidRoom #darkthriller #romanticsuspense

@@ -46,5 +46,3 @@ Characterization is another strong suit, as Taylor crafts complex figures that g
 - Does the novel's ending offer closure, or does it intentionally leave questions unanswered about the nature of obsession?  
 - What does *Demise* suggest about the relationship between death and desire?  
 - How effectively does Taylor balance the horror and romance aspects of the narrative, and do they coexist harmoniously?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #literaryanalysis

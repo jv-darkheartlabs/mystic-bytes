@@ -48,5 +48,3 @@ The tension between monstrous love and moral clarity ignites a fiery debate, par
 - What are the implications of depicting a relationship with an entity that embodies both attraction and fear?  
 - Can love transcend the boundaries of morality as depicted in this novel?  
 - How does Robert's approach to world-building influence the reader's engagement with the characters' struggles?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #kraken

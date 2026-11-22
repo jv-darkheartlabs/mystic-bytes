@@ -6,7 +6,7 @@ dek: "Of Snow & Ice"
 number: R1393
 sort_key: 1393
 date: 2026-06-01
-date_read: 2016-10-22
+date_read: 2023-10-22
 category: fantasy-romance
 cover: /assets/readings/wings-of-snow.jpg
 spice: 3
@@ -49,5 +49,3 @@ The thematic exploration of love as both a tether and a snare is beautifully exe
 - Can the portrayal of royal intrigue be considered a fresh take, or does it fall into cliché?  
 - How effectively does the book balance the elements of romance with the darker aspects of its fantasy setting?  
 - What does the ending suggest about the nature of fate versus choice in love?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

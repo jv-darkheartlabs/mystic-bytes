@@ -6,7 +6,7 @@ dek: "Wicked Villains"
 number: R1356
 sort_key: 1356
 date: 2026-05-28
-date_read: 2015-09-19
+date_read: 2020-09-19
 category: enemies-to-lovers
 cover: /assets/readings/the-beast.jpg
 spice: 5
@@ -51,5 +51,3 @@ The interplay of power and passion in *The Beast* ignites a spectrum of interpre
 - Can we separate the allure of the villain from the moral complexities of their actions? What does this say about our cultural fascination with 'bad boys'?
 - Does the ending adequately address the consequences of the power dynamics at play, or does it gloss over potential repercussions?
 - How does *The Beast* compare to other retellings in its approach to character complexity and thematic depth?
-
-#TheOrchidRoom #enemiestolovers #darkromance #wickedvillains #literaryanalysis

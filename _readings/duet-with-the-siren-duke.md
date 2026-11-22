@@ -7,7 +7,7 @@ dek: ""
 number: R952
 sort_key: 952
 date: 2026-04-14
-date_read: 2019-10-22
+date_read: 2023-10-22
 category: fantasy-romance
 cover: /assets/readings/duet-with-the-siren-duke.jpg
 spice: 4
@@ -45,5 +45,3 @@ The novel's exploration of desire, ambition, and the emotional entanglements tha
 - How does the book compare to other works in the genre regarding pacing and character development?  
 - What are your thoughts on the open-ended conclusion—does it empower the story or leave too much unresolved?  
 - In what ways does Kova challenge traditional fantasy-romance tropes, and do you think she succeeds?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

@@ -19,7 +19,6 @@ tags:
   - children's literature
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Sims’s biography provokes essential questions about the relationship between p
 - What elements did you find most engaging or distracting in Sims's narrative style?  
 - How do you think White's life experiences influenced specific themes in *Charlotte's Web*?  
 - In what ways does the book resonate with contemporary discussions about the environment?  
-
-#LiteraryAnalysis #biography #AmericanLiterature #Charlotte'sWeb #TheOrchidRoom

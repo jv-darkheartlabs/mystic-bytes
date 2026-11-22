@@ -23,7 +23,6 @@ tags:
   - beneath the mask
   - alpha hero
   - tattooed hero
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ Mason's *Detone* raises questions surrounding the romanticization of dark themes
 - In what ways do you believe Mason's treatment of the trope differs from or aligns with other authors in the genre?  
 - How effectively does the setting contribute to the emotional stakes of the story?  
 - What elements of the story might alienate or resonate with readers unfamiliar with dark romance?
-
-#TheOrchidRoom #mafiaromance #darkromance #beneaththemask #alphahero

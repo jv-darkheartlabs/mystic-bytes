@@ -6,7 +6,7 @@ dek: "Divergent Series Book 3"
 number: R1644
 sort_key: 1644
 date: 2026-06-25
-date_read: 2009-09-19
+date_read: 2011-09-19
 category: ya-fiction
 cover: /assets/readings/allegiant-divergent-3.jpg
 content_warnings:
@@ -22,7 +22,6 @@ tags:
   - sci-fi
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Structurally, *Allegiant* diverges from its predecessors by employing dual point
 - In what ways does the ending reflect (or challenge) common tropes in the young adult dystopian genre?  
 - How does *Allegiant* compare to its predecessors in terms of thematic depth and emotional impact?  
 - What unresolved questions about identity and choice does the book leave lingering?
-
-#LiteraryAnalysis #darkthriller #romanticsuspense #dystopian #youngadult #theorchidroom

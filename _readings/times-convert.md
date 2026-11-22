@@ -45,5 +45,3 @@ While Harkness provides a rich tapestry of themes, her narrative choices prompt 
 - How does Harkness balance the allure of the supernatural with the gritty realities of her characters’ lives?  
 - What are your thoughts on the ending—do you see it as a triumph of thematic closure or an evasion of resolution?  
 - How does the portrayal of blood as a symbol affect your understanding of relationships in the story?  
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis #darkheartlabs

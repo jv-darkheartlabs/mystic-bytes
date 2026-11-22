@@ -47,5 +47,3 @@ The duality of love and obsession in *What Sleeps Within the Cove* creates a ric
 - Are the characters’ motivations relatable, or do they lean too heavily into archetypes?  
 - What role does the gothic atmosphere play in shaping the reader's perception of desire and danger?  
 - How does the use of serpent imagery influence our understanding of the characters’ journeys?
-
-#TheOrchidRoom #vampire #darkromance #gothic #literaryanalysis

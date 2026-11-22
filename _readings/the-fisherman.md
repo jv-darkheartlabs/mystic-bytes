@@ -24,7 +24,6 @@ tags:
   - supernatural
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ Character development is another strong suit; the protagonist's relationships ar
 - Is the ending an effective choice, or does it leave too much unresolved?  
 - In what ways does Langan’s use of language enhance the gothic elements of the story?  
 - How does the dual narrative structure affect your experience of the central conflict?  
-
-#TheOrchidRoom #TheFisherman #gothic #horrorromance #loss

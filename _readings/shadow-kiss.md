@@ -47,5 +47,3 @@ The nuanced exploration of love entwined with danger in **Shadow Kiss** can igni
 - Does the narrative's resolution undermine the darker themes established throughout the book?  
 - How effective is Mead's use of first-person perspective in conveying the emotional stakes?  
 - What cultural implications do you see in the way love and danger are intertwined in this narrative?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis #darkheartlabs

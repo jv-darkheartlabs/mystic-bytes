@@ -48,5 +48,3 @@ The interplay of humor and darkness in **Arch Duke of Mayhem** raises nuanced qu
 - How effectively does the narrative balance the thrill of power with ethical implications?  
 - In what ways do you think the book challenges or reinforces societal norms around obsession and desire?  
 - How might different readers interpret the ending based on their own experiences with power dynamics?
-
-#TheOrchidRoom #bullyromance #darkromance #foeoforbes #literaryanalysis

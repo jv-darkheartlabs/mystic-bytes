@@ -6,7 +6,7 @@ dek: ""
 number: R798
 sort_key: 798
 date: 2026-03-28
-date_read: 2021-09-19
+date_read: 2024-09-19
 category: gothic-horror-romance
 cover: /assets/readings/deceit.jpg
 spice: 3
@@ -46,5 +46,3 @@ The prose is lush, with a haunting quality that evokes the desolation of the aca
 - Do you find the ending to be a fitting resolution, or does it leave too many questions unanswered?  
 - How does Taylor's portrayal of female relationships challenge traditional gothic tropes?  
 - What does the novel suggest about the boundaries between love and obsession?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #literaryanalysis

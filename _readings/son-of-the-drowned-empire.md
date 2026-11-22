@@ -6,7 +6,7 @@ dek: ""
 number: R1434
 sort_key: 1434
 date: 2026-06-05
-date_read: 2021-06-10
+date_read: 2023-06-10
 category: fantasy-romance
 cover: /assets/readings/son-of-the-drowned-empire.jpg
 spice: 3
@@ -50,5 +50,3 @@ The dichotomies presented in *Son of the Drowned Empire* may polarize readers, p
 - Are the characters’ moral ambiguities a reflection of their environment, or do they transcend their circumstances?  
 - How effectively does Mallis use world-building to enhance emotional stakes?  
 - What unresolved tensions linger at the end of the narrative, and how do they influence your reading experience?
-
-#TheOrchidRoom #fantasyromance #darkromance #drownedempire #literaryanalysis

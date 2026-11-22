@@ -7,7 +7,7 @@ dek: "You are the only light we have"
 number: R194
 sort_key: 194
 date: 2026-01-22
-date_read: 2017-08-16
+date_read: 2021-08-16
 category: reverse-harem
 cover: /assets/readings/melt-for-us.jpg
 spice: 5
@@ -51,5 +51,3 @@ This novel is ripe for debate, as its themes challenge conventional romantic ide
 - In what ways does the book challenge or reinforce traditional notions of love and partnership within the reverse-harem genre?  
 - What are the potential implications of presenting characters with such morally ambiguous motivations?  
 - How might the emotional impact differ for readers familiar with dark romance versus those new to the genre?
-
-#TheOrchidRoom #reverseharem #darkromance #orderoftheunseen #literaryanalysis

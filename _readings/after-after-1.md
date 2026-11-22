@@ -22,7 +22,6 @@ tags:
   - love-hate relationship
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ Character development is both a strength and a weakness; while Hardin's brooding
 - In what ways does the dual perspective enhance or detract from the overall narrative experience?
 - Can we separate the allure of Hardin's character from the harmful behaviors he exhibits?
 - What implications does the cliffhanger ending have for our understanding of their relationship?
-
-#TheOrchidRoom #enemiestolovers #darkromance #college romance #love-hate relationship

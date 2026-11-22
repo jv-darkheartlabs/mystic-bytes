@@ -6,7 +6,7 @@ dek: "International Bestselling Author"
 number: R1273
 sort_key: 1273
 date: 2026-05-19
-date_read: 2016-07-13
+date_read: 2024-07-13
 category: gothic-horror-romance
 cover: /assets/readings/selah-gothic.jpg
 spice: 4
@@ -44,5 +44,3 @@ The structural pacing of *Selah Gothic* is both a triumph and a trial; the langu
 - Does the dual timeline enhance or detract from the narrative's emotional impact?  
 - How do you interpret the balance between horror and romance—does one overpower the other in this text?  
 - What gaps remain in the portrayal of the occult? Does it serve as a mere backdrop or does it influence character development?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #literaryanalysis

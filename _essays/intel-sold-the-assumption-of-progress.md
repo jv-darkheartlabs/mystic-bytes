@@ -16,7 +16,7 @@ brief:
 
 For a decade Intel sold more than chips. It sold a calendar: a tick (new process), a tock (new architecture), about every other year. Teams bought laptops and server refreshes as if that calendar were a law.
 
-I plan hardware from Auckland the same way every remote builder does: what will this machine still be in three years. I do not work for Intel. I lived in the weather. In 2016 they retired tick-tock for a three-step process-architecture-optimization model after 10 nm slipped and 14 nm had to be stretched.[^1] Kaby Lake was the missed beat that made the 10-K filing obvious. TSMC kept a slower, more predictable foundry cadence. AMD and later Apple silicon showed up in that gap. Process delay is not a punchline about one company. It is industry climate: compiler assumptions, cloud instance families, "wait for the next node" as a false project plan.
+I plan hardware from Louisiana the same way every remote builder does: what will this machine still be in three years. I do not work for Intel. I lived in the weather. In 2016 they retired tick-tock for a three-step process-architecture-optimization model after 10 nm slipped and 14 nm had to be stretched.[^1] Kaby Lake was the missed beat that made the 10-K filing obvious. TSMC kept a slower, more predictable foundry cadence. AMD and later Apple silicon showed up in that gap. Process delay is not a punchline about one company. It is industry climate: compiler assumptions, cloud instance families, "wait for the next node" as a false project plan.
 
 The lesson I keep is boring. Do not schedule product work on a vendor's lithography promise. Buy the machine that runs the job now. Treat the next node as a gift if it arrives.
 

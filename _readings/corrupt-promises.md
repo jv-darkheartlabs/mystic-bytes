@@ -51,5 +51,3 @@ World-building through the lens of organized crime is particularly effective. Qu
 - What are the implications of setting a romance within a world of organized crime for the portrayal of relationships?
 - How effectively does Quinn balance dark themes with romantic tension?
 - In what ways do the characters' identities shape their decisions, and what does this suggest about personal agency?
-
-#TheOrchidRoom #arrangedmarriage #darkromance #mafia #literaryanalysis

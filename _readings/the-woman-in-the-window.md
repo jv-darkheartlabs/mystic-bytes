@@ -21,7 +21,6 @@ tags:
   - mystery
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,4 +44,3 @@ The novel leaves room for debate around the portrayal of mental illness and whet
   - Are the ethical implications of the voyeuristic elements addressed adequately?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #psychologicalthriller #theorchidroom

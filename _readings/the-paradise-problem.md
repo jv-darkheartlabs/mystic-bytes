@@ -6,7 +6,7 @@ dek: ""
 number: R468
 sort_key: 468
 date: 2026-02-20
-date_read: 2015-03-01
+date_read: 2024-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-paradise-problem.jpg
 spice: 4
@@ -39,5 +39,3 @@ Despite its charm, *The Paradise Problem* may polarize readers in its portrayal 
 - In what ways do the protagonists' flaws contribute to their eventual connection?  
 - Can humor coexist with deep emotional truths in romance, or does it dilute the impact?  
 - How does this book compare to other works in the enemies-to-lovers trope — does it stand out or blend in?  
-
-#TheOrchidRoom #TheParadiseProblem #enemiestolovers #darkromance #literaryanalysis

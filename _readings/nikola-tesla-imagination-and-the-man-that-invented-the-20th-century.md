@@ -19,7 +19,6 @@ tags:
   - history
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -41,5 +40,3 @@ The exploration of Tesla’s duality as both a visionary and an outcast raises q
 - Can we separate Tesla's scientific contributions from the darker aspects of his personality?  
 - Is the portrayal of Tesla's genius undermined by the narrative style?  
 - How does the book’s ending influence your perception of Tesla's overall impact on society?
-
-#LiteraryAnalysis #darkthriller #biography #innovation #science #theorchidroom

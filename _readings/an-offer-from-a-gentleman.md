@@ -44,5 +44,3 @@ The interplay between societal expectations and personal desire creates a rich t
 - Does Sophie's journey reflect a broader commentary on women's agency in historical contexts?  
 - How do the novel’s humor and lightheartedness affect your perception of its deeper themes?  
 - What aspects of Quinn's writing style contribute most to the emotional resonance of the story?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #bridgerton

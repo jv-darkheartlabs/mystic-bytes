@@ -18,7 +18,6 @@ tags:
   - coming of age
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -41,5 +40,3 @@ The novel's handling of the mother-daughter relationship could elicit differing 
 - In what ways does the book reflect or challenge contemporary views on family dynamics?  
 - Does the episodic structure enhance or detract from Ramona’s character development?  
 - How might the narrative shift if told from the mother's perspective?
-
-#LiteraryAnalysis #children'sliterature #familydynamics #comingofage #theorchidroom

@@ -47,5 +47,3 @@ While *A Storm of Swords* is lauded for its intricate storytelling and rich char
 - In what ways does the violence in the narrative serve to enhance or detract from the romantic elements?  
 - Is the pacing of the book effective in maintaining suspense, or does it hinder deeper emotional engagement?  
 - What unresolved questions about character fates linger with you after the last page?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

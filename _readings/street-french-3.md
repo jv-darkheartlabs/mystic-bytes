@@ -18,7 +18,6 @@ tags:
   - thriller
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,4 +42,3 @@ Burke's narrative elicits a spectrum of reactions, particularly regarding its tr
 - What role does setting play in shaping character motivations and the overall mood of the story?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #TheOrchidRoom

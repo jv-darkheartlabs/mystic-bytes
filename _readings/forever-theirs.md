@@ -49,5 +49,3 @@ While *Forever Theirs* ignites a fervent exploration of love and power, its pola
 - In what ways does Robert challenge the conventions of romance in this book?  
 - Can the sexual content be seen as empowering, or does it reinforce harmful stereotypes?  
 - How does the dual narrative structure influence your connection to each character?  
-
-#TheOrchidRoom #reverseharem #darkromance #wickedvillains #literaryanalysis

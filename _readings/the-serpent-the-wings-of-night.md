@@ -7,7 +7,7 @@ dek: "The Nightborn Duet Book One"
 number: R1322
 sort_key: 1322
 date: 2026-05-24
-date_read: 2017-11-25
+date_read: 2022-11-25
 category: vampire-paranormal
 cover: /assets/readings/the-serpent-the-wings-of-night.jpg
 spice: 3
@@ -47,5 +47,3 @@ The interplay of power dynamics and romantic entanglement may polarize readers, 
 - Are the characters' motivations relatable, or do they risk becoming archetypal figures in their ambition?  
 - Does the unresolved ending serve the story, or does it leave too much to interpretation?  
 - How do Broadbent’s world-building choices impact your immersion in this gothic setting?  
-
-#TheOrchidRoom #vampire #darkromance #literaryanalysis #CrownsofNyaxia

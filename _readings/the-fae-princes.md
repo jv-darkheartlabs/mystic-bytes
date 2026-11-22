@@ -49,5 +49,3 @@ This novel presents stark polarities that can ignite spirited conversation. Some
 - Do you find the ending of **The Fae Princes** satisfying in its ambiguity, or does it feel like a cop-out?
 - How do the content warnings shape your reading experience and expectations of the narrative?
 - What role does the fae mythology play in reflecting contemporary issues of power and agency?
-
-#TheOrchidRoom #vampire #darkromance #fae #literaryanalysis

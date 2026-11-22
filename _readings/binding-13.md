@@ -45,5 +45,3 @@ The exploration of power, desire, and the ethics of romanticizing bullying in *B
 - In what ways does the alternating POV enhance or detract from our understanding of the characters?  
 - Is the portrayal of sports culture integral to the themes of the novel, or does it distract from the central narrative?  
 - What unresolved tensions linger in the relationship dynamics presented in the story?  
-
-#TheOrchidRoom #bullyromance #darkromance #BoysOfTommen #literaryanalysis

@@ -53,5 +53,3 @@ The duality of desire and horror in **Feather** presents a rich tapestry for dis
 - In what ways do the protagonists' obsessions mirror societal expectations of love?
 - How effective is the dual narrative in conveying the complexity of desire?
 - What might have been gained or lost with a different structural approach?
-
-#TheOrchidRoom #Feather #Gothic #DarkRomance #LiteraryAnalysis

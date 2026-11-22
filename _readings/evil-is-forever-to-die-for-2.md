@@ -6,7 +6,7 @@ dek: "To Die For Series"
 number: R1569
 sort_key: 1569
 date: 2026-06-19
-date_read: 2014-06-10
+date_read: 2026-06-10
 category: romantic-suspense
 cover: /assets/readings/evil-is-forever-to-die-for-2.jpg
 spice: 4
@@ -22,7 +22,6 @@ tags:
   - psychological
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ This novel's exploration of obsession versus love provokes a discussion about th
 - Do the characters reflect realistic portrayals of the complexities of love, or do they fall into archetypes?  
 - How does the ending shape your view of the narrative as a whole?  
 - What societal reflections are present in Pucci's portrayal of obsession and violence in relationships?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #psychological

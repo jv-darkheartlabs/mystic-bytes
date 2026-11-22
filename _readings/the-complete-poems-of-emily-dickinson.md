@@ -19,7 +19,6 @@ tags:
   - romanticism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Dickinson's poetry prompts profound reflection, yet it also invites divisive opi
 - What are your thoughts on her use of punctuation and form? Does it serve the content effectively?
 - In what ways do you see her work influencing modern poetry?
 - How do you reconcile the seemingly bleak outlook presented in her poems with the beauty of her language?
-
-#TheOrchidRoom #gothic #poetry #romanticism #literaryanalysis

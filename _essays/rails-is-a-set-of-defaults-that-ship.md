@@ -28,7 +28,7 @@ I maintain [accessibility-rails-components](https://github.com/jv-darkheartlabs/
 
 That gap is why this essay is about Rails, not about Ruby syntax. Ruby will let you write anything. Rails will let you ship a resourceful app on Tuesday if you stay on the golden path. Accessibility was never on that path by default. The component library is me putting a default where the framework left a comment.
 
-I do not work at Basecamp. I read the doctrine and the guides like any other consumer of the golden path. Fedora runs the install. GitHub holds the gem. Cursor edits the views. The ship target is still Rails, because that is where the apps that need the components already live.
+I do not work at Basecamp. I read the doctrine and the guides like any other consumer of the golden path. Fedora runs the install. GitHub holds the gem. The model edits the views. The ship target is still Rails, because that is where the apps that need the components already live.
 
 ## Mechanism
 

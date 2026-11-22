@@ -6,7 +6,7 @@ dek: ""
 number: R905
 sort_key: 905
 date: 2026-04-09
-date_read: 2020-08-16
+date_read: 2024-08-16
 category: enemies-to-lovers
 cover: /assets/readings/the-dixon-rule.jpg
 spice: 4
@@ -42,5 +42,3 @@ However, the narrative does stumble at times; certain pacing issues arise in the
 - Do you believe the ending resolves the central conflict satisfactorily, or does it leave lingering questions?  
 - How do the themes of forgiveness and identity shape the characters’ journey toward love?  
 - What role does the college setting play in amplifying the stakes of their relationship?
-
-#TheOrchidRoom #enemiestolovers #darkromance #college #darkheartlabs

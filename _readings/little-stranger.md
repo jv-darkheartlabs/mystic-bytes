@@ -7,7 +7,7 @@ dek: "The Web of Silence Duet — Book 1"
 number: R206
 sort_key: 206
 date: 2026-01-23
-date_read: 2017-11-25
+date_read: 2023-11-25
 category: stalker-obsession
 cover: /assets/readings/little-stranger.jpg
 spice: 4
@@ -53,5 +53,3 @@ Rivers’ exploration of obsession invites discourse that can split readers down
 - In what ways do the characters reflect societal attitudes towards desire and control?  
 - Is the ending satisfying in its psychological complexity, or does it feel like a departure from the established tone?  
 - What role do the elements of captivity play in shaping the characters’ motivations and the overall theme?
-
-#TheOrchidRoom #stalker #obsession #darkromance #gothic

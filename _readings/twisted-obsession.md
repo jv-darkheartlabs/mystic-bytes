@@ -6,7 +6,7 @@ dek: "He's a hockey god... and she's the one who got away."
 number: R223
 sort_key: 223
 date: 2026-01-25
-date_read: 2022-10-22
+date_read: 2023-10-22
 category: stalker-obsession
 cover: /assets/readings/twisted-obsession.jpg
 spice: 4
@@ -52,5 +52,3 @@ The book’s provocative themes undoubtedly stir debate, especially regarding th
 - What role does the sports setting play in shaping the characters’ dynamics?  
 - How do the dual perspectives affect your empathy for the characters involved?  
 - In what ways does this book challenge or reinforce societal perceptions of love and possession?  
-
-#TheOrchidRoom #TwistedObsession #DarkRomance #LiteraryAnalysis #SMassery

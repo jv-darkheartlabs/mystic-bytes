@@ -19,7 +19,6 @@ tags:
   - existentialism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The nuances in *Southern Mail* present various polarities that can ignite spirit
 - Can the unresolved ending be seen as a strength, or does it undermine the narrative?  
 - What does this novella reveal about the tension between personal desires and professional obligations?  
 - How might this work resonate differently with contemporary readers compared to its original audience?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #existentialism

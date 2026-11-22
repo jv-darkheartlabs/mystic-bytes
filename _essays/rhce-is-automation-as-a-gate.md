@@ -21,7 +21,7 @@ brief:
 
 ## Context
 
-I have written about Ansible as SSH with a YAML ledger. That essay is the tool. This one is the badge that turned the tool into a career gate. I do not run Ansible against Dark Heart Labs. Fedora is a workstation I patch by hand. Pages has no SSH. Auckland 2026 does not invent a fleet. I do not hold RHCE as a ticket here. I am looking at the exam as the institution that decided what "engineer" means after RHCSA.
+I have written about Ansible as SSH with a YAML ledger. That essay is the tool. This one is the badge that turned the tool into a career gate. I do not run Ansible against Dark Heart Labs. Fedora is a workstation I patch by hand. Pages has no SSH. I do not hold RHCE as a ticket here. I am looking at the exam as the institution that decided what "engineer" means after RHCSA.
 
 Red Hat's EX294 page now titles the sitting "Red Hat Certified Advanced System Administrator in Ansible." Job posts still say RHCE. The RHCSA page still says you must be an RHCSA to become a Red Hat Certified Engineer in Ansible.[^1] The name weather is IBM-era taxonomy. The gate is stable: after you can administer a box, you prove you can automate the boxes.
 

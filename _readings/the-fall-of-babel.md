@@ -45,5 +45,3 @@ Bancroft’s blend of romantic and dark themes invites a spectrum of interpretat
 - How do the themes of desire and betrayal resonate with our own experiences of love?  
 - What is the role of the setting in shaping the characters’ emotional journeys?  
 - Are there any character arcs that felt particularly unresolved or unsatisfying?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #thefallofbabel

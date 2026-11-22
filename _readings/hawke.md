@@ -52,5 +52,3 @@ The ending raises questions of resolution and moral ambiguity. While it delivers
 - Does the ending provide sufficient closure, or does it undermine the narrative’s tension?  
 - In what ways does the book challenge societal perceptions of love and obsession?  
 - What aspects of Hall's prose enhance or detract from the story's impact?
-
-#TheOrchidRoom #Hawke #stalker #obsession #darkromance

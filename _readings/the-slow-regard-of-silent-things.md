@@ -45,5 +45,3 @@ The polarizing elements of *The Slow Regard of Silent Things* lie in its unconve
 - Can a narrative thrive on introspection alone, or is there an inherent need for external conflict in storytelling?  
 - How does the setting contribute to Auri's journey, and what does it say about her relationship with the world around her?  
 - What unresolved questions did you have about Auri’s past and her connection to Kvothe from *The Name of the Wind*?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

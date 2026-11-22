@@ -49,5 +49,3 @@ The duality of love and obsession is a contentious theme in this novel, one that
 - Are there moments in the book that glorify unhealthy relationships, and how should we interpret them?  
 - How does the use of dual perspectives affect our empathy towards the characters?  
 - Can the themes of psychological manipulation resonate in contemporary society, and what implications does that have for readers?
-
-#TheOrchidRoom #stalker #obsession #darkromance #literaryanalysis

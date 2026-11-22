@@ -46,5 +46,3 @@ Tovar’s blend of romantic longing and existential dread poses intriguing polar
 - In what ways does the novel challenge or conform to typical genre expectations of fantasy-romance?  
 - How does the emotional intensity of the characters' experiences resonate with or alienate you as a reader?  
 - What unresolved questions linger after the conclusion, and how do they shape your interpretation of the narrative?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

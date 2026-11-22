@@ -48,5 +48,3 @@ While *Untamed Vixen* excels in crafting a vivid romantic tension, its reliance 
 - Are there moments where the reliance on cliches undermines the narrative?  
 - Can a romance set in such a brutal world still be aspirational or redemptive?  
 - How does the ending reflect or challenge typical genre expectations?
-
-#TheOrchidRoom #mafiaromance #darkromance #literaryanalysis #vowsuniverse

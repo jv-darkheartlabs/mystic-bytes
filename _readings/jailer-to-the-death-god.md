@@ -44,5 +44,3 @@ Kenney's exploration of morality within desire invites a spectrum of interpretat
 - Do the pacing and structure enhance or detract from the emotional stakes?  
 - How does the portrayal of consent in the narrative complicate or reinforce expectations of the genre?  
 - What role does the gothic atmosphere play in shaping character motivations and reader engagement?  
-
-#TheOrchidRoom #fantasyromance #darkromance #jailer #literaryanalysis

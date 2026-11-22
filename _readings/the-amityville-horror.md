@@ -23,7 +23,6 @@ tags:
   - true crime
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ The thematic exploration of fear—both of the unknown and of one’s own family
 - In what ways does the setting of Amityville serve as a character in its own right?  
 - What role does the true crime aspect play in shaping your perception of the events described?  
 - Do you feel the ending satisfactorily resolves the central themes of the narrative?
-
-#TheOrchidRoom #gothic #horrorromance #hauntedhouse #literaryanalysis

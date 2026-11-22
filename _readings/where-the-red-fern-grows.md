@@ -19,7 +19,6 @@ tags:
   - loss
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -41,5 +40,3 @@ This narrative of love interwoven with loss will undoubtedly split readers on se
 - How does the portrayal of grief resonate with readers of different ages?  
 - Is the nostalgic lens of childhood beneficial or detrimental to the darker themes?  
 - In what ways does the setting influence the emotional weight of Billy's journey?  
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #comingofage

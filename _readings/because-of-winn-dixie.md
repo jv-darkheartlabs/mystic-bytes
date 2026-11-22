@@ -18,7 +18,6 @@ tags:
   - coming-of-age
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ This book serves as fertile ground for debate, particularly regarding its tonal 
 - Are the secondary characters merely shadows of Opal’s journey, or do they serve a greater thematic purpose?  
 - Does the ending satisfyingly resolve the tensions presented, or does it gloss over deeper emotional truths?  
 - How might the book's tone influence its reception among various demographics?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #friendship #coming-of-age #TheOrchidRoom

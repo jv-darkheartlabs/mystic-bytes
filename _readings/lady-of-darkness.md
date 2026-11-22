@@ -7,7 +7,7 @@ dek: "A Lady of Darkness Novel"
 number: R1144
 sort_key: 1144
 date: 2026-05-05
-date_read: 2019-04-04
+date_read: 2021-04-04
 category: fantasy-romance
 cover: /assets/readings/lady-of-darkness.jpg
 spice: 3
@@ -48,5 +48,3 @@ Thematically, the novel grapples with the nature of power—how it can corrupt o
 - Do you think the ending enhances or undermines the novel's exploration of love and sacrifice?  
 - How do you feel about the balance between romance and the darker elements of the story?  
 - Does the book’s approach to violence serve a purpose in character development or does it detract from the romantic elements?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #ladyofdarkness

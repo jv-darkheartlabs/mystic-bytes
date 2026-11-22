@@ -6,7 +6,7 @@ dek: "The Kindred's Curse Saga, Book Four"
 number: R1155
 sort_key: 1155
 date: 2026-05-06
-date_read: 2018-06-10
+date_read: 2026-06-10
 category: fantasy-romance
 cover: /assets/readings/burn-of-the-everflame.jpg
 spice: 3
@@ -47,5 +47,3 @@ The interplay of love and the destructive forces surrounding it creates a fertil
 - Are there moments in the book where the tension between love and violence felt forced or authentic?  
 - How do Cole's world-building choices impact your perception of the stakes involved in the characters' journeys?  
 - Which character's arc did you find the most compelling, and why?
-
-#TheOrchidRoom #fantasyromance #darkromance #kindredscurse #literaryanalysis

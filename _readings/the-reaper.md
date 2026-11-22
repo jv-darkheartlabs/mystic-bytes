@@ -50,5 +50,3 @@ The ending, while dramatic, skirts the edges of predictability, testing the boun
 - In what ways does the ending challenge or conform to genre expectations? Is it satisfying or frustrating?
 - How does the use of content warnings influence your reading experience? Do they enhance or detract from the narrative’s impact?
 - What role does setting play in amplifying the themes of desire and danger? 
-
-#TheOrchidRoom #mafiaromance #darkromance #literaryanalysis #darkheartlabs

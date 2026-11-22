@@ -42,5 +42,3 @@ The interplay of romantic tension and professional stakes raises multifaceted qu
 - How does Hazelwood's treatment of ambition challenge traditional romantic narratives?  
 - What does the evolution of the male lead say about contemporary notions of masculinity in romance?  
 - Can the enemies-to-lovers trope sustain its appeal in a setting that is so heavily tied to professional ambitions?
-
-#TheOrchidRoom #enemiestolovers #STEMromance #darkromance #literaryanalysis

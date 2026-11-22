@@ -50,5 +50,3 @@ However, while the emotional arcs are compelling, there are moments where the na
 - In what ways does the love triangle enhance or detract from the narrative?  
 - Does the exploration of grief in the novel resonate authentically, or does it feel overly dramatized?  
 - How does the steampunk setting influence our understanding of the characters' struggles with society and their identities?  
-
-#TheOrchidRoom #fantasyromance #darkromance #steampunk #InfernalDevices

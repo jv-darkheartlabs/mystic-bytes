@@ -41,5 +41,3 @@ Davis’s exploration of love in the face of adversity raises questions about th
   - How does the dual perspective impact your connection to the characters?  
   - Do you find the ending satisfying, or does it conform too neatly to genre expectations?  
   - What elements of the prose stood out as particularly effective or ineffective in conveying the emotional depth of the characters?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #YA #literaryanalysis

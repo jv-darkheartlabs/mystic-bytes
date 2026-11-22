@@ -6,7 +6,7 @@ dek: "A Silver Pines Novella"
 number: R833
 sort_key: 833
 date: 2026-04-01
-date_read: 2020-08-16
+date_read: 2024-08-16
 category: dark-cowboy-romance
 cover: /assets/readings/holding-the-reins.jpg
 spice: 3
@@ -40,5 +40,3 @@ However, while the dialogue often shines with authenticity, there are moments wh
 - Is the emotional climax of the story earned, or does it feel rushed?  
 - How effective is the dual perspective in conveying the protagonists' internal conflicts?  
 - What unresolved questions linger after the conclusion, and how might they affect your interpretation of the story?  
-
-#TheOrchidRoom #cowboyromance #darkromance #literaryanalysis #darkheartlabs

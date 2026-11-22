@@ -46,5 +46,3 @@ The interplay of power and desire in *Theirs Ever After* raises compelling quest
   - Do you believe the ending truly reflects the characters’ growth, or does it lean towards fantasy?  
   - How do you interpret the balance of power in the relationships, and is it ultimately empowering or disempowering?  
   - What does this book say about the nature of desire and autonomy in modern romance?
-
-#TheOrchidRoom #reverseharem #darkromance #KateeRobert #literaryanalysis

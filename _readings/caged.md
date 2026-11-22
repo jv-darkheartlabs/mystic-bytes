@@ -50,5 +50,3 @@ The ending, while impactful, raises questions about agency and consent, the culm
 - Are the characters’ arcs satisfactory, or do they reinforce harmful stereotypes?  
 - How does the author’s use of language amplify the tension between love and control?  
 - Where do we see moments of genuine connection that transcend the darker themes?  
-
-#TheOrchidRoom #Caged #LunaMason #darkromance #literaryanalysis

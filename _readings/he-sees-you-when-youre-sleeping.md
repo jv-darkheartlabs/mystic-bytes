@@ -51,5 +51,3 @@ Hensley’s work invites a range of polarizing discussions regarding the fine li
 - Are the characters' motivations convincingly developed, or do they rely too heavily on genre tropes?  
 - What are the ethical implications of depicting such intense obsession in literature?  
 - How does the dual perspective influence your empathy for the characters involved?  
-
-#TheOrchidRoom #HeSeesYouWhenYoureSleeping #AltaHensley #stalker #darkromance

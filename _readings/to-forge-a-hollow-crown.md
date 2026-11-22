@@ -51,5 +51,3 @@ Wykes’ novel teeters on the edge of genre conventions, inviting debate about t
 - In what ways does the setting of the Sands of Maioris serve as a character in its own right?  
 - Can a story featuring dark magic and royal intrigue still resonate with a mainstream audience, or does it remain confined to niche appeal?  
 - What specific moments of tension stood out, and how did they contribute to your perception of the characters’ motivations?
-
-#TheOrchidRoom #fantasyromance #darkromance #SandsOfMaioris #LiteraryAnalysis

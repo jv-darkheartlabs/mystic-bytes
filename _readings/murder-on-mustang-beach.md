@@ -6,7 +6,7 @@ dek: "An Outer Banks Bookshop Mystery"
 number: R421
 sort_key: 421
 date: 2026-02-15
-date_read: 2006-10-22
+date_read: 2023-10-22
 category: mystery-crime
 cover: /assets/readings/murder-on-mustang-beach.jpg
 content_warnings:

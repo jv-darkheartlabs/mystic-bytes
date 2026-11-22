@@ -23,7 +23,6 @@ tags:
   - dark fairy tale
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Funke’s prose is lyrical and evocative, painting vivid imagery that brings the
 - Do you find the multiple perspectives enhance or dilute the narrative's emotional impact?
 - How does the ending redefine your understanding of love and sacrifice within the context of fantasy?
 - What role does violence play in shaping the characters’ journeys and the overarching narrative?
-
-#TheOrchidRoom #gothic #darkfairytale #Inkdeath #CorneliaFunke

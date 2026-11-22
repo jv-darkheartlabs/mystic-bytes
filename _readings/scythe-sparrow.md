@@ -7,7 +7,7 @@ dek: "The Ruinous Love Trilogy"
 number: R113
 sort_key: 113
 date: 2026-01-13
-date_read: 2020-08-16
+date_read: 2025-08-16
 category: enemies-to-lovers
 cover: /assets/readings/scythe-sparrow.jpg
 spice: 4
@@ -46,5 +46,3 @@ Weaver's structure excels in its pacing, utilizing alternating perspectives that
 - Can a relationship built on such ruinous foundations ever be considered healthy or redeemable?  
 - What role does dark humor play in framing the narrative's more serious themes?  
 - In what ways does the ending challenge or conform to typical genre conventions?
-
-#TheOrchidRoom #enemiestolovers #darkromance #serialkillerromance #ruinouslove

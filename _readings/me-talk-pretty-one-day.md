@@ -18,7 +18,6 @@ tags:
   - essays
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,4 +44,3 @@ Sedaris's blend of humor and dark themes creates a fertile ground for discussion
 - How do personal anecdotes shape our understanding of broader cultural themes in the book?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #memoir #essays #theorchidroom

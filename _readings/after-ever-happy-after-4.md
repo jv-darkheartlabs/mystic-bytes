@@ -23,7 +23,6 @@ tags:
   - series
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ This book raises provocative questions around love, responsibility, and the boun
   - In what ways do you think the portrayal of emotional abuse shapes our understanding of romance in literature?  
   - Are Todd's characters relatable, or do they perpetuate harmful stereotypes in the romance genre?  
   - How does the dual POV structure enhance or detract from the story's emotional depth?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #newadult #emotionalabuse

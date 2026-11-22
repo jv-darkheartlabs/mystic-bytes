@@ -1,0 +1,23 @@
+---
+layout: default
+title: "Journal — Poetry"
+description: "Poetry and verse from Dark Heart Labs."
+permalink: /journal/poetry/
+---
+{% assign verse = site.verse | sort: "date" | reverse %}
+<div class="container journal-page">
+  <header class="signal-header">
+    <p class="page-eyebrow"><a href="{{ '/journal/' | relative_url }}">Journal</a></p>
+    <h1 class="page-title">Poetry</h1>
+    <p class="career-intro">{{ verse.size }} poems. Newest first.</p>
+  </header>
+  <ul class="home-entry-list">
+    {% for entry in verse %}
+    <li>
+      <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+      {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+      <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

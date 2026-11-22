@@ -38,5 +38,3 @@ The novel invites a rich conversation around the complexities of love born from 
 - Are the predictable elements of the plot a detriment to the reader's experience, or do they serve a greater purpose within the genre?  
 - What does this novel suggest about the nature of desire — is it inherently tied to conflict?  
 - How does the setting influence the characters' emotional landscapes and the plot itself?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

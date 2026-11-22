@@ -49,5 +49,3 @@ This novel raises provocative questions about the nature of love, healing, and t
 - Can love truly flourish in the shadows of unresolved trauma, or does it inevitably become tainted?  
 - How does the narrative balance its darker themes with moments of hope and connection?  
 - What role does the setting play in amplifying the emotional stakes of the characters' relationships?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #contemporaryromance #literaryanalysis

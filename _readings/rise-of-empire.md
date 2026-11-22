@@ -47,5 +47,3 @@ Sullivan’s *Rise of Empire* presents polarizing elements, particularly in its 
 - Are the themes of loyalty and ambition effectively explored within the context of the fantasy-romance genre?  
 - Does the ending feel like a natural culmination of the story, or does it set up too many threads for future exploration?  
 - How does Sullivan's writing style compare to other fantasy-romance authors you’ve encountered?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

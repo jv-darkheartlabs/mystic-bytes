@@ -6,7 +6,7 @@ dek: "Madison Kate #4"
 number: R1588
 sort_key: 1588
 date: 2026-06-19
-date_read: 2019-07-13
+date_read: 2020-07-13
 category: stalker-obsession
 cover: /assets/readings/kate-madison.jpg
 spice: 4
@@ -24,7 +24,6 @@ tags:
   - series
   - bully
   - contemporary
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ This narrative evokes strong emotions and a spectrum of opinions, particularly c
 - Does the book romanticize the darker themes it explores, and if so, what are the implications of that?  
 - How does the author balance suspense with character development, and does it succeed?  
 - What aspects of the book resonate with or challenge your own views on desire and obsession?  
-
-#TheOrchidRoom #stalker #obsession #darkromance #madisonkate

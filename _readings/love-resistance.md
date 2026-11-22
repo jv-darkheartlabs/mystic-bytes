@@ -39,5 +39,3 @@ However, the pacing occasionally falters, particularly in the middle sections wh
 - In what ways do you think societal constraints enhance or detract from the love story presented?  
 - Can we separate the characters' personal growth from their romantic entanglements, or are they inextricably linked?  
 - What role does ambiguity play in the conclusion, and does it serve the narrative's themes effectively?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #YA #literaryanalysis #darkheartlabs

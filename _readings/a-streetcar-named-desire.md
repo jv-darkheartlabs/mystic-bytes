@@ -21,7 +21,6 @@ tags:
   - tragic romance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The interplay between desire and mental illness, as well as the dynamics of powe
 - Can we sympathize with a character like Stanley, or is he purely a villain in the narrative?  
 - What role does the setting play in shaping the characters’ fates, and how does it evoke the Southern Gothic tradition?  
 - In what ways does the play challenge or reinforce traditional gender roles?
-
-#TheOrchidRoom #gothic #horrorromance #SouthernGothic #literaryanalysis

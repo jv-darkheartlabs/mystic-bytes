@@ -6,7 +6,7 @@ dek: ""
 number: R1267
 sort_key: 1267
 date: 2026-05-18
-date_read: 2022-10-22
+date_read: 2024-10-22
 category: gothic-horror-romance
 cover: /assets/readings/slay-less.jpg
 spice: 4
@@ -49,5 +49,3 @@ However, the thematic weight of the narrative does occasionally clash with the p
 - In what ways does the portrayal of violence challenge or reinforce romantic tropes?  
 - How does the author’s use of blood and death imagery impact your reading experience?  
 - Is the ending of *Slay Less* satisfying or frustrating, and why?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #literaryanalysis

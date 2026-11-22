@@ -7,7 +7,7 @@ dek: "A Psychological Thriller"
 number: R353
 sort_key: 353
 date: 2026-02-07
-date_read: 2008-05-07
+date_read: 2021-05-07
 category: mystery-crime
 cover: /assets/readings/the-dollhouse.jpg
 content_warnings:

@@ -44,5 +44,3 @@ Quinn's exploration of duty versus desire raises poignant questions about the na
 - Are the fantastical elements integral to the story, or do they serve more as a backdrop for the romance?  
 - How do the dual perspectives shape your understanding of love and commitment in the story?  
 - Does the ending feel like a true resolution, or does it fall into predictable territory?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #wedding

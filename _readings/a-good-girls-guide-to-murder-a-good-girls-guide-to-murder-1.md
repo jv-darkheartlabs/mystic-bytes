@@ -6,7 +6,7 @@ dek: "A Good Girl's Guide to Murder, #1"
 number: R1875
 sort_key: 1875
 date: 2026-07-16
-date_read: 2010-06-10
+date_read: 2019-06-10
 category: ya-fiction
 cover: /assets/readings/a-good-girls-guide-to-murder-a-good-girls-guide-to-murder-1.jpg
 content_warnings:
@@ -22,7 +22,6 @@ tags:
   - crime
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The book raises intriguing polarities about morality, truth, and the nature of g
 - Does the multimedia structure enhance or detract from the narrative experience?  
 - In a genre littered with tropes, does this book offer anything fresh or innovative?  
 - How does the portrayal of mental health issues influence the overall message of the story?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #darkheartlabs

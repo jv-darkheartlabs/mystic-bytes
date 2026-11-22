@@ -17,7 +17,7 @@ brief:
 
 SSCP is how ISC2 sells an earlier ticket in the same house. One year in a practitioner domain — or a degree that covers that year — and an exam about implementing and monitoring the infrastructure the CISSP syllabus talks about managing.[^1] Same institution. Different product. People market the missing years. The job shape is the difference that matters.
 
-I do not hold SSCP. I do not hold CISSP. I write from Auckland. CISSP is five years as a management gate. This note is about the cheaper door. ISC2 can put a badge on you a year in, then sell the path to the logo the requisition actually wants. SSCP can later waive a year of CISSP. That is a funnel, not a courtesy.
+I do not hold SSCP. I do not hold CISSP. I write from Louisiana. CISSP is five years as a management gate. This note is about the cheaper door. ISC2 can put a badge on you a year in, then sell the path to the logo the requisition actually wants. SSCP can later waive a year of CISSP. That is a funnel, not a courtesy.
 
 Do not call it a junior CISSP. You are examined as someone who will run the controls, not as someone who will present the risk register. Buy SSCP if the job is hands on the box and you want an ISC2 badge you can qualify for. Do not buy it as a shortcut to the management logo. The years are still the years.
 

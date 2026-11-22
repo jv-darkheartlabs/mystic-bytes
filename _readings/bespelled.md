@@ -7,7 +7,7 @@ dek: ""
 number: R990
 sort_key: 990
 date: 2026-04-18
-date_read: 2021-03-01
+date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/bespelled.jpg
 spice: 4
@@ -44,5 +44,3 @@ The prose is lush and evocative, capturing the essence of a world steeped in mag
 - Do you find the dual POV enhances or complicates the reading experience?  
 - How does the ending shape your interpretation of the characters' journeys?  
 - What does *Bespelled* suggest about the nature of love when intertwined with power?
-
-#TheOrchidRoom #fantasyromance #darkromance #bespelled #literaryanalysis

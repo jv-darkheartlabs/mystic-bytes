@@ -22,7 +22,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ Crichton's *Jurassic Park* invites a multitude of interpretations and discussion
 - How do you interpret the ending? Is it a triumph of human spirit or a bleak warning?
 - Which character’s motivations resonated most with you and why?
 - Does the blend of horror and science fiction enhance or detract from the story’s moral lessons?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #darkheartlabs

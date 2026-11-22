@@ -6,7 +6,7 @@ dek: ""
 number: R1443
 sort_key: 1443
 date: 2026-06-06
-date_read: 2018-06-10
+date_read: 2023-06-10
 category: fantasy-romance
 cover: /assets/readings/vengeance-of-the-pirate-queen.jpg
 spice: 3
@@ -49,5 +49,3 @@ The narrative's exploration of vengeance and love raises provocative questions a
 - Are the character developments rich enough to earn the emotional stakes presented in the climax?  
 - In what ways does the ocean serve as a metaphor for the protagonist's internal struggles?  
 - How does this sequel compare to its predecessor in terms of thematic depth and character growth?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #pirate

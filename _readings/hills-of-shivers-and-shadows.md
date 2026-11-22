@@ -49,5 +49,3 @@ The interplay of desire and coercion within "Hills of Shivers and Shadows" creat
 - Does the dual perspective serve to humanize the captor, or does it risk glorifying their actions?  
 - What role does setting play in shaping the characters’ emotional states, and how effectively does Godwin utilize this?  
 - Are the thematic explorations of isolation and power dynamics relevant in today’s discourse on relationships?
-
-#TheOrchidRoom #darkromance #captorandcaptivestory #PamGodwin #literaryanalysis

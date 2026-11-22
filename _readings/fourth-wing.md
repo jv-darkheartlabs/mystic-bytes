@@ -48,5 +48,3 @@ Yarros invites readers into a world rife with tension — both romantic and exis
 - Does the balance between action and romance feel authentic, or does one overshadow the other?  
 - What are the implications of the unresolved threads by the end of the book — do they enhance the narrative, or detract from its resolution?  
 - How does Yarros’ portrayal of female ambition challenge or conform to traditional fantasy tropes?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #dragons

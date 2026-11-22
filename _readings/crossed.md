@@ -7,7 +7,7 @@ dek: "A Never After Novel"
 number: R149
 sort_key: 149
 date: 2026-01-17
-date_read: 2020-08-16
+date_read: 2023-08-16
 category: forbidden-love
 cover: /assets/readings/crossed.jpg
 spice: 5
@@ -44,5 +44,3 @@ The characters are meticulously drawn, with dialogue that crackles with unspoken
 - In what ways does the ending challenge or affirm our expectations of romantic narratives?  
 - Are there moments where the narrative pushes too far into discomfort, and does that detract from the overall experience?  
 - What does the book suggest about the boundaries of love and morality?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

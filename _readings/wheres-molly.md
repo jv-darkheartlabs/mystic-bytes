@@ -7,7 +7,7 @@ dek: "How could they find me when I'm already a ghost? — a Cat & Mouse spinoff
 number: R207
 sort_key: 207
 date: 2026-01-23
-date_read: 2018-03-01
+date_read: 2024-03-01
 category: stalker-obsession
 cover: /assets/readings/wheres-molly.jpg
 spice: 4
@@ -52,5 +52,3 @@ This novel is a crucible for debate, as its themes of obsession raise unsettling
 - Is the resolution satisfying, or does it undermine the journey of the characters?  
 - How do the content warnings influence your interpretation of the narrative and its themes?  
 - What role does the setting play in amplifying the psychological tension of the story?  
-
-#TheOrchidRoom #stalker #darkromance #psychologicalthriller #HDCarlton

@@ -7,7 +7,7 @@ dek: ""
 number: R841
 sort_key: 841
 date: 2026-04-02
-date_read: 2006-07-13
+date_read: 2025-07-13
 category: ya-fiction
 cover: /assets/readings/sunrise-on-the-reaping.jpg
 content_warnings:

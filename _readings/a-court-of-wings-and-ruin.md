@@ -7,7 +7,7 @@ dek: ""
 number: R1129
 sort_key: 1129
 date: 2026-05-03
-date_read: 2016-07-13
+date_read: 2017-07-13
 category: fantasy-romance
 cover: /assets/readings/a-court-of-wings-and-ruin.jpg
 spice: 4
@@ -48,5 +48,3 @@ This book embodies polarities that could fuel a lively discussion: the balance b
 - How does Maas's depiction of war influence your perception of the main characters?  
 - In what ways do you feel the book challenges or reinforces traditional fantasy tropes?  
 - What lingering questions do you have about the fates of the characters beyond this installment?
-
-#TheOrchidRoom #fantasyromance #acotar #darkromance #literaryanalysis

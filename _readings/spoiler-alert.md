@@ -44,5 +44,3 @@ Dade's work invites readers to confront the friction between public image and pr
 - Is the resolution of the protagonists' conflict satisfying, or does it lean too heavily into genre conventions?  
 - How does humor function in the narrative, and does it overshadow deeper themes?  
 - What might be the implications of setting a romance against the backdrop of celebrity culture in today's social climate?  
-
-#TheOrchidRoom #SpoilerAlert #OliviaDade #enemiestolovers #darkromance

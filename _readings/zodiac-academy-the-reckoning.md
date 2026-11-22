@@ -46,5 +46,3 @@ The duality of attraction and repulsion that runs through **Zodiac Academy: The 
 - In what ways do the characters’ arcs challenge or reinforce stereotypes in the bully-romance genre?  
 - What role does the setting play in amplifying the stakes of the characters' relationships?  
 - How do the authors utilize magic as a metaphor for personal power and agency?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #reckoning

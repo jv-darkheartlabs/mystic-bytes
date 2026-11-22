@@ -45,5 +45,3 @@ Marie’s work is bound to ignite varied opinions, particularly surrounding the 
 - In what ways does *Nothing Above* succeed or fail in portraying the complexities of forbidden love?  
 - How does the ending shape your understanding of the characters’ journeys and their ultimate choices?  
 - What do you think the author is suggesting about societal boundaries in love, and do you find it resonates with contemporary issues?
-
-#TheOrchidRoom #forbiddenlove #darkromance #minimalist #A_Marie

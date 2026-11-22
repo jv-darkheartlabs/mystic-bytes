@@ -6,7 +6,7 @@ dek: ""
 number: R991
 sort_key: 991
 date: 2026-04-19
-date_read: 2022-04-04
+date_read: 2024-04-04
 category: fantasy-romance
 cover: /assets/readings/viciously-yours.jpg
 spice: 4
@@ -44,5 +44,3 @@ Hunter's prose is lush and evocative, skillfully painting a world where beauty a
 - In what ways does the fantasy setting amplify the themes of power and desire?  
 - How effectively does the ending resolve the central conflicts, and what might you have preferred instead?  
 - Does the emotional intensity elevate the romance or cross into problematic territory?
-
-#TheOrchidRoom #fantasyromance #darkromance #viciously #literaryanalysis

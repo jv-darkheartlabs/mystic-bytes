@@ -20,7 +20,6 @@ tags:
   - long-distance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -42,5 +41,3 @@ The structure of *Dear John* utilizes a non-linear timeline, effectively juxtapo
 - In what ways does the non-linear structure enhance or detract from the emotional experience?  
 - How does Linden's portrayal of long-distance romance compare to contemporary depictions in other media?  
 - Can true love exist alongside the reality of personal sacrifices, and what does that say about the nature of relationships?
-
-#TheOrchidRoom #forbiddenlove #darkromance #military #heartbreak

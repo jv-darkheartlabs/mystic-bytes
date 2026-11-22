@@ -49,5 +49,3 @@ The novel's exploration of morality and power dynamics presents several polarizi
 - Is the depiction of violence in the novel justified by its thematic explorations, or does it detract from the narrative?  
 - How does the blend of magical elements with realistic historical events affect your engagement with the story?  
 - What does the novel suggest about the nature of friendship and loyalty in times of crisis?
-
-#TheOrchidRoom #ThePoppyWar #fantasyromance #darkromance #literaryanalysis

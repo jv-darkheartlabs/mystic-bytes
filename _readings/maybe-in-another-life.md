@@ -40,5 +40,3 @@ Reid's work provokes a rich dialogue around the nature of choices and their impl
 - Are there moments in the book that challenge the typical tropes of forbidden love? How do these moments resonate with you personally?  
 - In what ways do the characters reflect societal views on love and choice?  
 - How does the ending shape your overall perception of the characters' journeys?
-
-#TheOrchidRoom #forbiddenlove #darkromance #slidingdoors #literaryanalysis

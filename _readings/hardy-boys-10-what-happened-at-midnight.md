@@ -16,7 +16,6 @@ tags:
   - juvenilemystery
   - series-collection
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---

@@ -49,5 +49,3 @@ Jensen's *The Traitor Queen* invites discussions around the nature of power dyna
 - Is the resolution of the characters’ arcs satisfying, or does it feel like a concession to genre expectations?  
 - How does Jensen's portrayal of female agency in a fantasy setting compare to other authors in the genre?  
 - What does the book suggest about the nature of forgiveness and the possibility of redemption?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #TheTraitorQueen

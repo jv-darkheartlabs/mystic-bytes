@@ -19,7 +19,6 @@ tags:
   - young-love
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Rosen's retelling invites robust discussion centered around its balance of moder
 - In what ways might the characterization of supporting roles influence our understanding of the main characters?  
 - Are there aspects of youth and rebellion in love that feel particularly relevant to today's societal context?  
 - How does the ending challenge or confirm our expectations of a love story in the realm of forbidden romance?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #tragedy #younglove

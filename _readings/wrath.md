@@ -7,7 +7,7 @@ dek: ""
 number: R684
 sort_key: 684
 date: 2026-03-16
-date_read: 2015-03-01
+date_read: 2016-03-01
 category: fantasy-romance
 cover: /assets/readings/wrath.jpg
 spice: 4
@@ -42,5 +42,3 @@ Gwynne's exploration of vengeance as a lens for love's complexities presents pol
 - Are Gwynne's world-building choices effective in enhancing the overarching theme, or do they feel extraneous?  
 - In what ways do the characters' flaws serve their development, and are they ultimately redeeming?  
 - How does *Wrath* compare to other titles in the genre in terms of emotional and thematic depth?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #wrath

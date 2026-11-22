@@ -43,5 +43,3 @@ The interplay of power dynamics and romance in this novel evokes a spectrum of r
 - In what ways does the non-linear timeline enhance or detract from the narrative's impact?  
 - Do the moral ambiguities presented in the story serve to deepen the romance or complicate it unnecessarily?  
 - How do you interpret the ending in relation to the book’s central themes of sacrifice and ambition?
-
-#TheOrchidRoom #fantasyromance #darkromance #of #ash

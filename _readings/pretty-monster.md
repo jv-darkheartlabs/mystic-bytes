@@ -45,5 +45,3 @@ However, the dialogue occasionally falters, with certain exchanges feeling contr
 - Can a story centered on such dark themes be redeemed, or does it risk glorifying harmful behaviors?  
 - How does the use of gothic elements influence your perception of the characters’ motivations?  
 - What are the implications of a protagonist who embodies both victim and villain in this narrative?
-
-#TheOrchidRoom #PrettyMonster #darkromance #gothic #literaryanalysis

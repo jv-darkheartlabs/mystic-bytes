@@ -48,5 +48,3 @@ The interplay between love and violence in **Kingdom Cross** poses provocative q
 - What is the impact of the first-person narrative on our empathy for the characters?  
 - How do the themes of violence and desire reflect contemporary societal issues?  
 - Is the ending successful in conveying the intended themes, or does it fall short?
-
-#TheOrchidRoom #darkbillionaire #darkromance #the dark kings #literaryanalysis

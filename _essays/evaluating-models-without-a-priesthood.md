@@ -10,7 +10,7 @@ type: pillar
 read_time: 6
 tags: [ai]
 brief:
-  system: Cursor-assisted mystic-bytes catalog blurbs
+  system: Claude-assisted mystic-bytes catalog blurbs
   issue: model swaps change tone and facts; review is "looks fine" until a name or Dewey number is invented
   constraint: no eval platform; a checked-in fixture of inputs and must-pass properties
 ---
@@ -23,7 +23,7 @@ Prompt craft is not evaluation. Reviewing a generated diff is not evaluation eit
 
 ## Context
 
-I use Cursor on mystic-bytes the way I use any compiler: daily, suspiciously, knowing the default model will change under me. The failure that made this concrete was catalog blurbs. I asked for short descriptions from titles and deks. First pass was fluent and interchangeable: "a thoughtful look at" attached to whatever proper noun I fed it. After I tightened the prompt I swapped models. One invented a Dewey-ish number that looked like mine and was wrong. Another dropped the macrons in Tāmaki Makaurau. Another contradicted the dek.
+I use Claude on mystic-bytes the way I use any compiler: daily, suspiciously, knowing the default model will change under me. The failure that made this concrete was catalog blurbs. I asked for short descriptions from titles and deks. First pass was fluent and interchangeable: "a thoughtful look at" attached to whatever proper noun I fed it. After I tightened the prompt I swapped models. One invented a Dewey-ish number that looked like mine and was wrong. Another dropped the macrons in Tāmaki Makaurau. Another contradicted the dek.
 
 None of that showed up as a red underline. The prose was confident. My review budget was "spot-check a few." That is how a wrong number gets into a sidebar.
 
@@ -37,7 +37,7 @@ HELM exists because one leaderboard number is a lie about what a model is for.[^
 
 **Keep the set small and nasty.** Random happy titles will not catch the macron or the piece that shares a motif with another essay. I pick the cases that already burned me. Twenty is enough to notice a model swap. Start with the burns.
 
-**Rerun on every model change.** Cursor lets me switch models in an afternoon. That is a distribution shift. The golden set is how I know whether I got cheaper-and-fine or cheaper-and-lying. I do not need statistical significance. I need a fail I can point at: fixture 07 invented `004.99`. Log `{fixture_id, model, prompt_hash, pass}` so a new failure is attributable.
+**Rerun on every model change.** Claude lets me switch models in an afternoon. That is a distribution shift. The golden set is how I know whether I got cheaper-and-fine or cheaper-and-lying. I do not need statistical significance. I need a fail I can point at: fixture 07 invented `004.99`. Log `{fixture_id, model, prompt_hash, pass}` so a new failure is attributable.
 
 **Separate quality from hard fails.** HELM splits scenarios and metrics so "helpful" and "accurate" do not hide in one average. On mystic-bytes, tone match is a human grade on a sample; fact invention is a hard fail. A drier model that never invents numbers wins the blurb job. OpenAI and Anthropic publish eval writeups for the same boring reasons: distribution shift, metric gaming, contamination of the test into the prompt.[^3] Do not paste golden outputs back into the system prompt as few-shot examples and celebrate that the model "learned." That is memorizing the exam.
 

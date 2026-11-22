@@ -20,7 +20,6 @@ tags:
   - friendship
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The interplay between light and dark in DiCamillo's narrative invites rich discu
 - In what ways does the novel's structure enhance or detract from its themes?  
 - Are the darker themes suitable for a younger audience, or do they require a more mature interpretation?  
 - How does DiCamillo's portrayal of courage challenge conventional definitions?  
-
-#TheOrchidRoom #gothic #horrorromance #fairytale #literaryanalysis

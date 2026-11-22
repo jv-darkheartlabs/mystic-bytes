@@ -42,5 +42,3 @@ The interplay between ambition and intimacy creates a fertile ground for discuss
 - In what ways does the competitive sports journalism setting enhance or detract from the central romance?  
 - Does the ending resonate with the emotional stakes set earlier in the novel, or does it feel like a shift in focus?  
 - How do the characters’ ambitions reflect broader themes of desire and personal growth within the narrative?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #sports #darkheartlabs

@@ -7,7 +7,7 @@ dek: "Burn it down."
 number: R1130
 sort_key: 1130
 date: 2026-05-04
-date_read: 2017-08-16
+date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/iron-flame.jpg
 spice: 4
@@ -47,5 +47,3 @@ Yarros’s *Iron Flame* is ripe for debate, particularly around the intersection
 - Does the romantic resolution feel earned in light of the surrounding violence, or does it undermine the gravity of the stakes presented?  
 - How does the dual narrative structure influence your emotional connection to the characters?  
 - What role does the symbolic use of dragons play in the exploration of power dynamics within relationships?
-
-#TheOrchidRoom #fantasyromance #darkromance #dragons #literaryanalysis

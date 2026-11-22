@@ -6,7 +6,7 @@ dek: ""
 number: R2056
 sort_key: 2056
 date: 2026-07-27
-date_read: 2011-07-13
+date_read: 2013-07-13
 category: memoir-nonfiction
 cover: /assets/readings/the-four-year-career-young-living-edition.jpg
 content_warnings:
@@ -18,7 +18,6 @@ tags:
   - network marketing
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The tension in this book lies in its duality—one moment it inspires, the next 
 - What does this narrative say about the nature of success in our society?
 - In what ways does the structure support or undermine its core message?
 - Are there effective safeguards against the manipulative tactics employed in such industries?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #selfhelp #TheOrchidRoom

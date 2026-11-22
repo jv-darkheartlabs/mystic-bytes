@@ -54,5 +54,3 @@ The anthology's provocative themes are bound to elicit mixed reactions, making f
 - Which story resonated with you the most, and why?
 - How does Robert's use of dialogue serve to heighten the tension in these relationships?
 - In what ways do the endings affect your overall perception of the characters?
-
-#TheOrchidRoom #WickedVillainShorts #darkromance #enemiestolovers #literaryanalysis

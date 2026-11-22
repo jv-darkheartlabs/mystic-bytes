@@ -6,7 +6,7 @@ dek: "Her dark desires are real..."
 number: R769
 sort_key: 769
 date: 2026-03-25
-date_read: 2016-07-13
+date_read: 2022-07-13
 category: forbidden-love
 cover: /assets/readings/her-fantasy.jpg
 spice: 4
@@ -49,5 +49,3 @@ The interplay of desire and danger in *Her Fantasy* invites a multitude of persp
 - Do you feel the ending provides sufficient closure, or does it intentionally leave too many questions unanswered?  
 - How does the use of a shadow figure function as a metaphor for the protagonist’s internal struggles?  
 - What are the ethical implications of portraying such intense fantasies in a romantic context?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #HerFantasy

@@ -47,5 +47,3 @@ As we delve into **Riven Knight**, the polarities within its themes and characte
 - Does the ending satisfactorily resolve the tensions established throughout the story, or does it leave too much to be desired?  
 - What elements of the motorcycle-club trope did you find most resonant or cliché?  
 - How does **Riven Knight** compare to other works within the dark romance genre?
-
-#TheOrchidRoom #mcromance #darkromance #DevneyPerry #RivenKnight

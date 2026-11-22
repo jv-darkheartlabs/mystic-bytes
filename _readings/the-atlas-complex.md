@@ -7,7 +7,7 @@ dek: "Power is taken"
 number: R582
 sort_key: 582
 date: 2026-03-05
-date_read: 2021-09-19
+date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/the-atlas-complex.jpg
 spice: 3
@@ -47,5 +47,3 @@ The juxtaposition of power versus love creates a fertile ground for debate. Read
 - In what ways does this book challenge or conform to the tropes of dark romance?  
 - Is the ending a satisfying resolution to the characters' journeys, or does it feel like an intentional cliffhanger?  
 - How do the content warnings inform your reading of the text, and do they align with the book's thematic exploration?
-
-#TheOrchidRoom #fantasyromance #darkromance #darkacademia #atlasseries

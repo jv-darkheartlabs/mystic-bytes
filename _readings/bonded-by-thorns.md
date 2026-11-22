@@ -7,7 +7,7 @@ dek: "Beasts of the Briar — Book One"
 number: R305
 sort_key: 305
 date: 2026-02-02
-date_read: 2020-11-25
+date_read: 2023-11-25
 category: vampire-paranormal
 cover: /assets/readings/bonded-by-thorns.jpg
 spice: 4
@@ -51,5 +51,3 @@ The interplay of love and power dynamics in *Bonded by Thorns* will surely spark
 - Can the romantic tension be viewed as a metaphor for broader social power struggles?  
 - How does Helen’s portrayal of violence contribute to the themes of love and survival?  
 - Does the ending provide enough closure, or does it feel like a mere prelude to future events?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

@@ -7,7 +7,7 @@ dek: "a novel"
 number: R337
 sort_key: 337
 date: 2026-02-06
-date_read: 2016-07-13
+date_read: 2020-07-13
 category: dark-cowboy-romance
 cover: /assets/readings/where-the-lost-wander.jpg
 spice: 3
@@ -45,5 +45,3 @@ Harmon presents a landscape rich with polarities: the tension between survival a
 - In what ways does Harmon’s portrayal of pioneer life reflect contemporary struggles with identity and belonging?  
 - How does the setting influence character motivation and development throughout the novel?  
 - Is the resolution of the novel satisfying, or does it feel contrived in the context of the characters’ journeys?
-
-#TheOrchidRoom #cowboyromance #darkromance #historical #literaryanalysis

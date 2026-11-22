@@ -7,7 +7,7 @@ dek: "Is he the man of your dreams or your worst nightmare?"
 number: R411
 sort_key: 411
 date: 2026-02-14
-date_read: 2006-09-19
+date_read: 2024-09-19
 category: mystery-crime
 cover: /assets/readings/the-boyfriend.jpg
 content_warnings:

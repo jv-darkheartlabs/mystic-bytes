@@ -7,7 +7,7 @@ dek: "A Dark College Romance"
 number: R061
 sort_key: 061
 date: 2026-01-08
-date_read: 2016-10-22
+date_read: 2021-10-22
 category: captor-and-captive
 cover: /assets/readings/the-ritual.jpg
 spice: 5
@@ -50,5 +50,3 @@ The interplay of power dynamics and the allure of obsession in *The Ritual* rais
 - Are the moral ambiguities surrounding the captor-captive relationship justified within the context of the story?  
 - What does the ending reveal about the characters' true natures and their capacity for change?  
 - How might this book resonate differently for readers on either side of the moral spectrum?  
-
-#TheOrchidRoom #darkromance #gothic #captorandcaptive #literaryanalysis

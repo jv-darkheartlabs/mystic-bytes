@@ -7,7 +7,7 @@ dek: "If you fall for him, I'll raise hell."
 number: R125
 sort_key: 125
 date: 2026-01-14
-date_read: 2020-11-25
+date_read: 2021-11-25
 category: enemies-to-lovers
 cover: /assets/readings/giving-away.jpg
 spice: 4
@@ -50,5 +50,3 @@ The intricacies of emotional manipulation and possessiveness in *Giving Away* pr
 - In what ways does King challenge the conventions of the enemies-to-lovers trope?  
 - How does the setting influence the mood and themes of the narrative?  
 - Where do we draw the line between romantic tension and emotional manipulation in literature?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #possessivehero

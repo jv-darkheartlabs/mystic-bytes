@@ -6,7 +6,7 @@ dek: "a novel"
 number: R471
 sort_key: 471
 date: 2026-02-20
-date_read: 2018-06-10
+date_read: 2021-06-10
 category: enemies-to-lovers
 cover: /assets/readings/the-seat-filler.jpg
 spice: 3
@@ -43,5 +43,3 @@ The novel's interplay of humor and emotional depth may spark a debate among read
 - In what ways does *The Seat Filler* challenge or conform to typical Hollywood narratives?  
 - What might have been gained from a more profound exploration of the darker sides of fame?  
 - How does the resolution impact your perception of the characters' journeys?
-
-#TheOrchidRoom #enemiestolovers #darkromance #Hollywood #literaryanalysis

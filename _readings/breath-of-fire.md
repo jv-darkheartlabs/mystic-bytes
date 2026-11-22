@@ -44,5 +44,3 @@ This novel invites polarizing interpretations and discussions: does the blend of
 - How effective is the world-building in conveying the stakes of both personal and political conflicts?  
 - In what ways does the ending reflect or challenge the themes presented throughout the narrative?  
 - How does Bouchet’s narrative style compare to other authors in the fantasy-romance genre?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #kingmakerchronicles

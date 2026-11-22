@@ -49,5 +49,3 @@ Amidst the lush landscapes and turbulent emotions, *Valley* presents polarizing 
 - Are the romantic elements overshadowed by the political intrigue, or do they enhance each other? 
 - How do McEwan's depictions of violence influence your perception of her characters' motivations? 
 - What elements of fantasy do you feel were most effectively utilized to elevate the romantic narrative?
-
-#TheOrchidRoom #fantasyromance #glaciantrilogy #darkromance #valley

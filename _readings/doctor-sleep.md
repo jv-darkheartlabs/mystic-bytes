@@ -49,5 +49,3 @@ The ending, a climactic return to the Overlook, serves as both a resolution and 
 - Is the return to the Overlook Hotel a fitting conclusion, or does it undermine the growth of the characters?  
 - In what ways does the portrayal of the True Knot reflect societal fears about exploitation and power?  
 - Are the moments of supernatural horror well-integrated, or do they detract from the psychological aspects of the story?  
-
-#TheOrchidRoom #gothic #horrorromance #supernatural #darkheartlabs

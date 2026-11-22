@@ -7,7 +7,7 @@ dek: "A Dark Fantasy Romance"
 number: R270
 sort_key: 270
 date: 2026-01-29
-date_read: 2021-03-01
+date_read: 2025-03-01
 category: vampire-paranormal
 cover: /assets/readings/enchantra.jpg
 spice: 4
@@ -48,5 +48,3 @@ The tension between desire and danger is palpably crafted in *Enchantra*, yet ho
 - Does the emotional depth of the characters compensate for any narrative pacing issues?  
 - How does Smith’s use of gothic elements enhance or detract from the romantic aspects of the story?  
 - What unresolved themes linger after the conclusion, and how might they shape a potential sequel?
-
-#TheOrchidRoom #vampire #darkromance #gothic #literaryanalysis

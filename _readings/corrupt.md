@@ -49,5 +49,3 @@ The book's exploration of power dynamics and the fine line between love and hate
 - Is the ending representative of redemption, or does it serve to reinforce toxic cycles?  
 - What are the implications of romanticizing bullying and power imbalance in contemporary literature?  
 - Can we separate the characters' darker motivations from their romantic intentions, or are they inherently linked?
-
-#TheOrchidRoom #bullyromance #darkromance #devilsnight #literaryanalysis

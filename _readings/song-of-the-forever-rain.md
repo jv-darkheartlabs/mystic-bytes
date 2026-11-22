@@ -45,5 +45,3 @@ The novel's exploration of love as a double-edged sword offers rich ground for d
 - Do you find the ending satisfactory, or does it leave too many questions unresolved?  
 - How do the themes of fantasy violence and emotional intensity shape your perception of the romance?  
 - What role does the setting play in defining the characters' relationships and choices?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

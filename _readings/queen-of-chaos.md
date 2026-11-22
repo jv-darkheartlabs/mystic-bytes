@@ -6,7 +6,7 @@ dek: "Legacy of the Nine Realms"
 number: R1429
 sort_key: 1429
 date: 2026-06-05
-date_read: 2016-10-22
+date_read: 2023-10-22
 category: fantasy-romance
 cover: /assets/readings/queen-of-chaos.jpg
 spice: 4
@@ -52,5 +52,3 @@ At its conclusion, the narrative presents a resolution that feels both earned an
 - In what ways does the nonlinear structure affect your connection to the characters?  
 - What is the significance of chaos in the title and how does it resonate with the main character’s journey?  
 - How does the book's handling of dark themes affect its accessibility to a wider audience?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #chaos

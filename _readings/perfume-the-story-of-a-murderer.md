@@ -23,7 +23,6 @@ tags:
   - dark
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ Süskind's exploration of desire and identity presents rich grounds for debate, 
 - In what ways does Grenouille's character challenge our understanding of empathy and monstrosity?  
 - What is the significance of scent as a motif in the novel, and how does it relate to the themes of connection and alienation?  
 - Does the ending serve the narrative’s exploration of desire, or does it undermine the tension built throughout the novel?
-
-#TheOrchidRoom #gothic #horrorromance #psychological #obsession

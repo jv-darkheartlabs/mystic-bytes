@@ -47,5 +47,3 @@ The novel's exploration of dark themes and complex power dynamics is sure to spa
 - Are the romantic elements justifiable in light of the bullying depicted, or do they perpetuate harmful tropes?  
 - How does the protagonist's journey reflect broader societal issues regarding inheritance and entitlement?  
 - What unresolved questions linger about the characters' futures and the implications of their choices?
-
-#TheOrchidRoom #BrutalHeir #BullyRomance #Gothic #LiteraryAnalysis

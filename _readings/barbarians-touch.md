@@ -50,5 +50,3 @@ The novel's polarizing elements stem from its contentious exploration of consent
 - Do you think the blurred lines of consent enhance or undermine the romantic tension?  
 - What are the implications of reading this book within the broader fantasy-romance context?  
 - How does Dixon's work challenge or reinforce existing stereotypes in the genre?
-
-#TheOrchidRoom #fantasyromance #darkromance #alienromance #barbarian #literaryanalysis

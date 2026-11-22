@@ -7,7 +7,7 @@ dek: "Beasts of the Briar — Book Three"
 number: R302
 sort_key: 302
 date: 2026-02-02
-date_read: 2017-08-16
+date_read: 2023-08-16
 category: vampire-paranormal
 cover: /assets/readings/forged-by-malice.jpg
 spice: 4
@@ -49,5 +49,3 @@ The thematic exploration of desire as both a fuel for life and a harbinger of de
 - In what ways does the dual perspective enhance or detract from character development?  
 - What are the implications of portraying desire as a dangerous force in a romantic context?  
 - How does *Forged by Malice* compare to other works in the vampire-paranormal genre regarding emotional depth?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

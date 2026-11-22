@@ -45,5 +45,3 @@ King’s prose is stark and unflinching, effectively conveying the grotesque nat
 - In what ways can the walkers’ journey be seen as a metaphor for contemporary societal pressures?  
 - Do you think the minimal world-building detracts from or enhances the story’s impact?  
 - How do the themes in *The Long Walk* resonate with current societal issues?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #dystopian #horror #TheOrchidRoom

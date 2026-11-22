@@ -47,5 +47,3 @@ The interplay between power and desire serves as a captivating focal point for d
 - Do the characters’ motivations resonate with you, or do they feel contrived?  
 - How does the magic system enhance or detract from the themes of power and control?  
 - What elements of the book do you think will most divide readers, and why?
-
-#TheOrchidRoom #fantasyromance #darkromance #shadowsandcrowns #literaryanalysis

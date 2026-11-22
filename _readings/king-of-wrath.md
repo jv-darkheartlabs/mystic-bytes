@@ -7,7 +7,7 @@ dek: "Kings of Sin — Book 1"
 number: R002
 sort_key: 002
 date: 2026-01-01
-date_read: 2017-05-07
+date_read: 2023-05-07
 category: arranged-marriage
 cover: /assets/readings/king-of-wrath.jpg
 spice: 4
@@ -49,5 +49,3 @@ The polarities in "King of Wrath" are ripe for discussion, particularly around t
 - In what ways do the characters transcend or conform to their genre archetypes?
 - Is the emotional intensity depicted in the relationship sustainable, or is it destined for conflict?
 - How do the content warnings shape your expectations or interpretation of the story?
-
-#TheOrchidRoom #KingofWrath #darkromance #arrangedmarriage #literaryanalysis

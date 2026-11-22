@@ -40,5 +40,3 @@ However, the pacing occasionally falters; certain sections linger too long on in
 - Did the resolution feel earned within the context of the characters' journeys, or was it too simplistic?  
 - How do the themes of control and desire resonate with contemporary societal issues?  
 - What are the implications of portraying such intense dynamics in a romantic frame?  
-
-#TheOrchidRoom #captive #darkromance #literaryanalysis #darkheartlabs

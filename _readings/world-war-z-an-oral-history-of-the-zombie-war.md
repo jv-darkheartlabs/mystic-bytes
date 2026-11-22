@@ -23,7 +23,6 @@ tags:
   - oral history
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The book presents polarizing elements around the nature of fear and survival wit
 - Can the horror of zombies be considered a metaphor for real-life fears, such as pandemics or war?  
 - What role does hope play in the narrative, and is it ultimately uplifting or disheartening?  
 - How do you interpret the varying perspectives on survival, and which resonated with you?  
-
-#LiteraryAnalysis #darkthriller #horror #zombies #oralhistory #TheOrchidRoom

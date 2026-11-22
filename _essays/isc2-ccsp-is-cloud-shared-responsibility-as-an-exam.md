@@ -17,7 +17,7 @@ brief:
 
 Shared responsibility is a cloud-vendor sentence: they secure the cloud, you secure what you put in it, and the diagram is cleaner than the outage. CCSP is ISC2 productizing that sentence. Cloud architecture, design, operations, legal weather — sold to people whose job is arguing where the control lives when the workload is someone else's computer.
 
-I do not hold CCSP. I do not hold CISSP. I write from Auckland. Dark Heart Labs is not sitting an exam about a landing zone. The weather is the job posts. Cloud security became a title because the split became an audit finding. ISC2 already had the CISSP membership machine. CCSP points that machine at the cloud. Five years of IT, three in cybersecurity, one in a CCSP domain — or an active CISSP, which waives the whole pile.[^1] Own the management logo and the cloud logo is a sitting.
+I do not hold CCSP. I do not hold CISSP. I write from Louisiana. Dark Heart Labs is not sitting an exam about a landing zone. The weather is the job posts. Cloud security became a title because the split became an audit finding. ISC2 already had the CISSP membership machine. CCSP points that machine at the cloud. Five years of IT, three in cybersecurity, one in a CCSP domain — or an active CISSP, which waives the whole pile.[^1] Own the management logo and the cloud logo is a sitting.
 
 Hiring wants a badge that means you can talk to the architect and the auditor about whose control failed. Buy it if you will live in that argument. Do not treat a pass as the contract, the IAM, or who gets paged when the bucket is public.
 

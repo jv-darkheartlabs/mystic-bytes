@@ -23,7 +23,6 @@ tags:
   - psychological
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The endings, while often ambiguous, are earned; they linger with a haunting reso
 - Can horror stories serve as a form of catharsis, or do they merely heighten anxiety?  
 - Do you find the ambiguity in King’s endings satisfying or frustrating?  
 - Which story resonated with you most, and why do you think that is?  
-
-#TheOrchidRoom #gothic #horrorromance #shortstories #psychological

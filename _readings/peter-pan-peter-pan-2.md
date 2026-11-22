@@ -19,7 +19,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ However, the dialogue can occasionally falter—dipping into overly simplistic e
 - In what ways do the romantic elements affect the horror aspects of the narrative?
 - How do you interpret the portrayal of Wendy, and what does it say about gender expectations?
 - Can we reconcile the whimsical nature of the story with its darker undertones?
-
-#TheOrchidRoom #gothic #horrorromance #classic #literaryanalysis

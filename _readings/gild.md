@@ -50,5 +50,3 @@ The tension between beauty and suffering in *Gild* raises compelling questions a
 - Does the ending align with the book's exploration of freedom and desire, or does it feel like a departure?  
 - How does the first-person perspective shape our understanding of the protagonist’s experience of oppression?  
 - What does *Gild* suggest about the nature of power within romantic relationships?
-
-#TheOrchidRoom #fantasyromance #darkromance #platedprisoner #midasretelling

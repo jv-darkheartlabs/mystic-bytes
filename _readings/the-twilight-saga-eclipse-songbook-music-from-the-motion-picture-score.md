@@ -20,7 +20,6 @@ tags:
   - twilight
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The dichotomy between emotional resonance and narrative clarity is ripe for disc
 - In what ways do the themes of desire and danger manifest in the musical choices?  
 - How does this songbook compare to other adaptations of literary works into music?  
 - What might the implications of the songbook’s structure mean for future adaptations in the genre?  
-
-#TheOrchidRoom #gothic #horrorromance #twilight #literaryanalysis

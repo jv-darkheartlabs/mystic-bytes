@@ -27,7 +27,7 @@ mystic-bytes vision work is a pile of Node operators wrapped in bash so I can `t
 
 I still got it wrong. An early version used `PARALLEL=${PARALLEL:-6}` then passed `$PARALLEL` into a Node flag without quotes in a second script. Fine until `PARALLEL` had a space from a copy-paste in Cursor. Word-splitting is not a corner case. It is what unquoted expansions do. Local Fedora zsh is my interactive shell. The script is bash. CI on GitHub Actions is bash on Ubuntu. Three dialects if you count "commands I typed by hand." The bug was me treating the file as a sticky note.
 
-Auckland 2026 does not make this more romantic. I still run these from a Fedora box. `/usr/bin/bash` is Bash 5.x. POSIX `sh` on the same machine is not bash. A script that uses arrays or `[[` and claims `#!/bin/sh` is a defect.
+I still run these from a Fedora box. `/usr/bin/bash` is Bash 5.x. POSIX `sh` on the same machine is not bash. A script that uses arrays or `[[` and claims `#!/bin/sh` is a defect.
 
 ## Mechanism
 

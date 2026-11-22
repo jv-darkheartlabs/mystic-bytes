@@ -19,7 +19,6 @@ tags:
   - Shakespeare
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Shakespeare’s ability to balance humor and darker themes opens a rich vein for
 - Can the resolution of the play be seen as truly just, or does it gloss over deeper moral failures?  
 - How does the use of language in the play enhance or obscure the underlying tensions?  
 - What role does deception play in both love and friendship throughout the narrative?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #classic #Shakespeare

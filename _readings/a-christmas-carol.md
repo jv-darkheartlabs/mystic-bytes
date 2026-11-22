@@ -22,7 +22,6 @@ tags:
   - ghost story
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The interplay between horror and redemption in *A Christmas Carol* invites both 
 - What role does the supernatural play in shaping Scrooge's journey — does it enhance or detract from the narrative's impact?  
 - Are there modern parallels to Scrooge's character that resonate in today's society?  
 - How do the ghosts serve as both harbingers of fear and agents of change — is there a danger in such a dual role?
-
-#TheOrchidRoom #gothic #redemption #darkheartlabs #Christmas

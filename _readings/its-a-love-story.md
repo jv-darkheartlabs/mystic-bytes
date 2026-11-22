@@ -6,7 +6,7 @@ dek: ""
 number: R1021
 sort_key: 1021
 date: 2026-04-22
-date_read: 2016-07-13
+date_read: 2025-07-13
 category: forbidden-love
 cover: /assets/readings/its-a-love-story.jpg
 spice: 3
@@ -45,5 +45,3 @@ The dichotomies in *It's a Love Story* are ripe for debate, challenging readers 
 - In what ways does the setting enhance or detract from the emotional tension of the story?
 - Did you find the pacing effective, or did it disrupt your engagement with the characters?
 - How do you interpret the ending in relation to the characters' journeys?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

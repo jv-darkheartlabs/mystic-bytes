@@ -45,5 +45,3 @@ The interplay of emotional intensity and fantastical elements provides fertile g
 - In what ways does the duality of POV enhance or detract from the story's emotional impact?  
 - How does Beswick’s world-building compare to other authors in the genre you’ve read?  
 - Can a fantasy-romance successfully explore darker themes without losing its romantic core?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis #darkheartlabs

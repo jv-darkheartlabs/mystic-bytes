@@ -46,5 +46,3 @@ Gwynne’s exploration of the interplay between ambition and desire raises provo
 - Do you believe the emotional intensity enhances or detracts from the fantasy elements?  
 - How effective is the resolution in balancing the themes of desire and consequence?  
 - What elements do you feel were left unsaid or unresolved, and how do they affect your overall reading experience?  
-
-#TheOrchidRoom #fantasyromance #darkromance #malice #literaryanalysis

@@ -18,7 +18,6 @@ tags:
   - introduction
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ However, some may argue that Rowe's approach could be too analytical for those s
 - Is the problem of evil addressed sufficiently, or does it leave significant ethical questions unexamined?  
 - How does Rowe's work compare to more contemporary discussions on faith and reason?  
 - Does the lack of resolution in the text enhance its value or detract from its purpose?
-
-#LiteraryAnalysis #philosophy #religion #darkthriller #theorchidroom

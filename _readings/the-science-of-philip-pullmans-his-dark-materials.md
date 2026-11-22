@@ -20,7 +20,6 @@ tags:
   - fantasy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Gribbin’s scholarly approach invites polarized opinions on the accessibility o
 - Does Gribbin’s tone serve the subject matter, or does it risk alienating non-academic readers?  
 - What role does moral ambiguity play in our understanding of heroism within Pullman's universe?  
 - How can Gribbin's insights be applied to contemporary discussions about ethics in storytelling?  
-
-#TheOrchidRoom #gothic #horrorromance #PhilipPullman #HisDarkMaterials

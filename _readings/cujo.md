@@ -23,7 +23,6 @@ tags:
   - Stephen King
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ The ending, while shocking and evocative, raises questions about its resolution 
 - Is the ending of *Cujo* satisfying, or does it leave too many threads unresolved?  
 - In what ways does *Cujo* challenge the reader's expectations of a traditional horror story?  
 - How does King’s portrayal of animal violence serve the larger narrative?
-
-#LiteraryAnalysis #darkthriller #StephenKing #Cujo #theorchidroom

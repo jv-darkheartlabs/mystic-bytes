@@ -50,5 +50,3 @@ The exploration of desire and belonging in **Dragon Haven** invites rich discuss
 - In what ways does the multiple POV structure enhance or detract from the overall narrative?
 - What personal biases or experiences influence your understanding of the themes of belonging and sacrifice?
 - Do you find the emotional intensity of the book to be a strength or a weakness in your reading experience?
-
-#TheOrchidRoom #fantasyromance #darkromance #dragon #HobbAnalysis

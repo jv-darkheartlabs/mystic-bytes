@@ -6,7 +6,7 @@ dek: "Brutes of Bristlebrook, Book 2"
 number: R1009
 sort_key: 1009
 date: 2026-04-21
-date_read: 2016-04-04
+date_read: 2023-04-04
 category: fantasy-romance
 cover: /assets/readings/entangled.jpg
 spice: 5
@@ -45,5 +45,3 @@ The dialogue is sharp and laden with subtext, revealing character motivations wh
 - Are the themes of power and obsession handled with nuance, or do they risk glorifying harmful dynamics?
 - How does the novel’s structure influence our engagement with its darker themes?
 - What unresolved questions linger after the conclusion, and how do they affect your overall impression of the story?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #bristlebrook

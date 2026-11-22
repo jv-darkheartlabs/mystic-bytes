@@ -7,7 +7,7 @@ dek: ""
 number: R951
 sort_key: 951
 date: 2026-04-14
-date_read: 2018-09-19
+date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/dawn-with-the-wolf-knight.jpg
 spice: 4
@@ -45,5 +45,3 @@ Kova’s narrative invites a rich discussion on various polarities that can igni
 - Do you feel the pacing ultimately enhances or detracts from the building tension?  
 - How does the genre's typical use of tropes both serve and hinder the story's originality?  
 - What unresolved tensions linger at the novel's conclusion, and how do they inform your understanding of the characters' arcs?  
-
-#TheOrchidRoom #fantasyromance #darkromance #dawn #literaryanalysis

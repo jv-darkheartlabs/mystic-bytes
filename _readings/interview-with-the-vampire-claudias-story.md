@@ -24,7 +24,6 @@ tags:
   - dark romance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -51,5 +50,3 @@ Witter’s *Claudia's Story* invites a multitude of conversations around the int
 - Does the portrayal of violence and abuse serve the narrative, or does it risk overshadowing Claudia’s character development?
 - How do you interpret the relationship dynamics between Claudia and Lestat—are they rooted in love or manipulation?
 - What does Claudia’s journey say about the cost of immortality in both a literal and metaphorical sense?
-
-#TheOrchidRoom #vampire #gothic #graphicnovel #darkromance

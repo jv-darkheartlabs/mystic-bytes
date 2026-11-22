@@ -7,7 +7,7 @@ dek: "Destiny is a choice"
 number: R579
 sort_key: 579
 date: 2026-03-04
-date_read: 2018-06-10
+date_read: 2022-06-10
 category: fantasy-romance
 cover: /assets/readings/the-atlas-paradox.jpg
 spice: 3
@@ -47,5 +47,3 @@ Thematically, the book grapples with the dichotomy of control versus chaos, expe
 - Does the ending fulfill the narrative's thematic promises, or does it leave the reader feeling unanchored?
 - How effectively does Blake balance the fantasy elements with the emotional depth of her characters?
 - What role does dark magic play in shaping the characters' identities and choices?
-
-#TheOrchidRoom #fantasyromance #darkromance #darkacademia #atlasseries

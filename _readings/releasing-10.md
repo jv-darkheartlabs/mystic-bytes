@@ -7,7 +7,7 @@ dek: "Boys of Tommen #6"
 number: R320
 sort_key: 320
 date: 2026-02-04
-date_read: 2023-08-16
+date_read: 2025-08-16
 category: bully-romance
 cover: /assets/readings/releasing-10.jpg
 spice: 4
@@ -46,5 +46,3 @@ The thematic exploration of bullying is handled with a nuanced sensitivity, yet 
 - Are the protagonists’ actions justified by their backstories, or do they merely perpetuate harmful stereotypes?  
 - How does the setting of sports culture enhance or detract from the story's themes?
 - What might be the impact of portraying bullying in a romantic context on young readers?
-
-#TheOrchidRoom #bullyromance #darkromance #BoysOfTommen #literaryanalysis

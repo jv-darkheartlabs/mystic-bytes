@@ -19,7 +19,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ In connecting the dots between whimsy and existential sorrow, this work raises i
 - Do you find the ending satisfactory, or does it leave you with an unresolved longing?  
 - In what ways does this book challenge the traditional boundaries of children's literature?  
 - How might adult readers interpret the themes differently compared to children?
-
-#TheOrchidRoom #gothic #horrorromance #childrensliterature #darkheartlabs

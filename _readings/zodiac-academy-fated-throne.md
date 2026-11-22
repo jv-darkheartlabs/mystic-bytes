@@ -46,5 +46,3 @@ The tension between love and power, coupled with the darker elements of grief an
 - Do you find the level of explicit content enhances or detracts from the emotional depth of the story?  
 - How does the dual POV impact your understanding of the characters' motivations and growth?  
 - Where do you see the line drawn between justified actions and toxic behavior in these relationships?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #fatedthrone

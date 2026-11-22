@@ -47,5 +47,3 @@ Crichton’s exploration of human vulnerability in the face of scientific advanc
 - In what ways does the lack of character development impact your reading experience?
 - Can a story be thrilling without emotional investment in its characters? 
 - What parallels can you draw between the pathogen in the novel and contemporary fears surrounding disease?
-
-#LiteraryAnalysis #GothicEdge  #darkthriller #sci-fi #medical #TheOrchidRoom

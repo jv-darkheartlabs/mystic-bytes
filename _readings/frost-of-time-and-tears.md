@@ -44,5 +44,3 @@ The interplay between frost as a metaphor for love’s vulnerability and the emo
 - Does the emotional intensity resonate with you, or does it feel overwhelming?  
 - Do you think the pacing serves the romance, or does it detract from the urgency?  
 - How do you interpret the symbolism of frost in relation to the characters' relationships?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

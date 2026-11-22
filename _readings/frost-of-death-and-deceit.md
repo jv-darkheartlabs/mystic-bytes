@@ -47,5 +47,3 @@ The interplay of love and betrayal creates a fertile ground for debate, revealin
 - In what ways did the setting influence your understanding of the characters’ relationships?  
 - How did the themes of betrayal resonate with you compared to typical tropes in fantasy romance?  
 - Were there aspects of the world-building that you felt needed further development to enhance your immersion?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #frost

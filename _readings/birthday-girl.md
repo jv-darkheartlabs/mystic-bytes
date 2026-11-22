@@ -7,7 +7,7 @@ dek: "New York Times Bestselling Author"
 number: R001
 sort_key: 001
 date: 2026-01-01
-date_read: 2016-04-04
+date_read: 2018-04-04
 category: age-gap
 cover: /assets/readings/birthday-girl.jpg
 spice: 4
@@ -47,5 +47,3 @@ The tension between desire and duty, along with the ethical implications of the 
 - How do familial dynamics shape the characters' motivations and desires?  
 - In what ways does Douglas's writing style enhance or detract from the story's emotional impact?  
 - What boundaries are crossed in the pursuit of love, and where should society draw the line?
-
-#TheOrchidRoom #BirthdayGirl #agegap #darkromance #forbidden

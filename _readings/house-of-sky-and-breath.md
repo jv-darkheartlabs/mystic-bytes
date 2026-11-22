@@ -46,5 +46,3 @@ Maas employs a dual narrative structure, alternating perspectives that heighten 
 - Do you find the resolution of the plot satisfying, or does it leave too many threads unresolved?  
 - What do you think the book says about the relationship between grief and desire?  
 - How effectively does the setting of Crescent City contribute to the overall themes of the story?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #CrescentCity

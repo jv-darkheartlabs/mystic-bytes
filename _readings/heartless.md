@@ -7,7 +7,7 @@ dek: "My contract is for two months . . . But, my heart says this is forever."
 number: R1338
 sort_key: 1338
 date: 2026-05-26
-date_read: 2021-09-19
+date_read: 2022-09-19
 category: dark-cowboy-romance
 cover: /assets/readings/heartless.jpg
 spice: 3
@@ -46,5 +46,3 @@ The thematic exploration of love as both a sanctuary and a battleground is compe
 - In what ways do the setting and genre conventions shape reader expectations and experiences?
 - Is the emotional resolution at the end of the novel sufficient, or does it fall short of the thematic depth established earlier?
 - How do the character dynamics reflect larger societal issues within the realm of relationships?
-
-#TheOrchidRoom #cowboyromance #darkromance #darkcowboy #literaryanalysis

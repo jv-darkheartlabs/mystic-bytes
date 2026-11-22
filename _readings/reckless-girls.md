@@ -6,7 +6,7 @@ dek: "They're dying to escape..."
 number: R376
 sort_key: 376
 date: 2026-02-10
-date_read: 2011-10-22
+date_read: 2022-10-22
 category: mystery-crime
 cover: /assets/readings/reckless-girls.jpg
 content_warnings:
@@ -41,5 +41,3 @@ Characterization is a mixed bag; while the protagonist's arc is compelling, othe
 - Is the ending a satisfying resolution, or does it leave too many questions unanswered?
 - How does the tropical setting influence the themes of isolation and danger?
 - What does the novel suggest about the nature of desire when juxtaposed with the instinct for self-preservation?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

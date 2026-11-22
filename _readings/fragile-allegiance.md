@@ -53,5 +53,3 @@ While *Fragile Longing* effectively portrays themes of love versus loyalty, it a
 - In what ways does the novel challenge or reinforce stereotypes in the mafia romance genre?
 - What are the implications of the ending for the characters' growth and their relationship?
 - How does the interplay of desire and danger shape your interpretation of love in the context of crime?  
-
-#TheOrchidRoom #mafiaromance #darkromance #shatteredheart #allegiance

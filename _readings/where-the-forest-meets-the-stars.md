@@ -48,5 +48,3 @@ This novel invites a rich tapestry of discussion, particularly concerning the in
   - In what ways do the secondary characters enhance or detract from Jo’s journey?  
   - How does the forest setting function as a metaphor for healing?  
   - Are the themes of death and cancer appropriate for a fantasy-romance narrative?
-
-#TheOrchidRoom #fantasyromance #magicalrealism #grief #foundfamily

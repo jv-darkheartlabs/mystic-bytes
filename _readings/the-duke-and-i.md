@@ -46,5 +46,3 @@ The book’s interplay of humor and the deeper, often darker undercurrents of de
 - What role does class play in shaping the characters’ desires, and how does this reflect contemporary issues in romance narratives?  
 - Do the characters' motivations feel authentic, or are they overly constrained by their societal roles?  
 - How does the portrayal of 'fake dating' in this book resonate with or diverge from other interpretations in the genre?  
-
-#TheOrchidRoom #fantasyromance #bridgerton #darkromance #literaryanalysis

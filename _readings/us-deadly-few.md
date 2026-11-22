@@ -6,7 +6,7 @@ dek: ""
 number: R843
 sort_key: 843
 date: 2026-04-02
-date_read: 2008-09-19
+date_read: 2024-09-19
 category: romantic-suspense
 cover: /assets/readings/us-deadly-few.jpg
 spice: 4

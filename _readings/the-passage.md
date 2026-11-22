@@ -46,5 +46,3 @@ Cronin's prose is immersive, often lush with gothic imagery that evokes a viscer
 - Do you think the pacing ultimately serves the story, or does it hinder the emotional engagement?
 - How does the book’s gothic atmosphere compare to other works in the genre?
 - In what ways does this narrative challenge traditional notions of heroism and villainy?
-
-#TheOrchidRoom #gothic #horrorromance #thepassage #literaryanalysis

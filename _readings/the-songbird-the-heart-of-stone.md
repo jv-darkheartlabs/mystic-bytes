@@ -49,5 +49,3 @@ Broadbent’s work invites passionate discourse, particularly around the interpl
 - Are there moments in the book where the portrayal of desire feels problematic, and how might that affect reader reception?
 - How do the fantasy elements enhance or detract from the emotional depth of the story?
 - What unresolved tensions do you think will be explored in the sequel, and how do they relate to the themes introduced in this book?
-
-#TheOrchidRoom #fantasyromance #darkromance #shadowborn #literaryanalysis

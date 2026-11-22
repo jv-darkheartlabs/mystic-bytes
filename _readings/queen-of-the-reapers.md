@@ -48,5 +48,3 @@ Halliwell’s ability to evoke desire and dread raises pivotal questions about t
 - Do you believe the ending is justified within the narrative, or does it leave too much unresolved?
 - How does the balance of power dynamics between characters affect the way we perceive their relationships?  
 - What role does the setting play in intensifying the themes of desire and danger in the story?
-
-#TheOrchidRoom #QueenOfTheReapers #darkromance #lovesickvillains #reverseharem

@@ -52,5 +52,3 @@ Hutchins' blend of romance and darkness invites polarizing opinions, particularl
 - Is the abruptness of the ending a creative choice that reinforces the theme of chaos, or does it undermine the story's arc?  
 - How do the content warnings shape your expectations and experience of the book?  
 - Do the characters’ struggles with obsession resonate with contemporary societal issues, or do they feel trapped within the confines of fantasy?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #romantasy

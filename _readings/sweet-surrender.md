@@ -48,5 +48,3 @@ The interplay of desire, power, and emotional intensity creates polarizing react
 - Is the ambiguous ending a triumph of complexity or a flaw in resolution?  
 - In what ways does the gothic influence impact your perception of the characters' choices?  
 - How does Miller's treatment of forbidden love compare to other contemporary authors in the genre?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #gothic #literaryanalysis

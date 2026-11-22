@@ -6,7 +6,7 @@ dek: ""
 number: R1454
 sort_key: 1454
 date: 2026-06-07
-date_read: 2017-08-16
+date_read: 2022-08-16
 category: fantasy-romance
 cover: /assets/readings/this-woven-kingdom.jpg
 spice: 3
@@ -52,5 +52,3 @@ The novel prompts a myriad of discussions surrounding the intersection of love a
 - How do you perceive the balance between romance and political intrigue in the story?
 - Does the portrayal of magic feel integral to the plot, or does it serve as a mere backdrop for the romance?
 - What are the effects of the unresolved elements in the ending on your overall impression of the book?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #persianinspired

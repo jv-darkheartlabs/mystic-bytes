@@ -49,5 +49,3 @@ The interplay of love and power within **A Strange Hymn** raises several polariz
 - How did the ending resonate with you — was it a fitting culmination or an unsatisfactory cliffhanger?
 - In what ways does this sequel stand apart from the first book in the series?
 - How do you interpret the use of dark magic in relation to the protagonists’ development?
-
-#TheOrchidRoom #fantasyromance #darkromance #bargainer #fae

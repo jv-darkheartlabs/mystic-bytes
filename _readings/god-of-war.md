@@ -6,7 +6,7 @@ dek: "Legacy of Gods"
 number: R845
 sort_key: 845
 date: 2026-04-03
-date_read: 2020-11-25
+date_read: 2024-11-25
 category: enemies-to-lovers
 cover: /assets/readings/god-of-war.jpg
 spice: 5
@@ -43,5 +43,3 @@ The interplay of love and power in *God of War* presents a fertile ground for di
 - Are the themes of violence and control a necessary backdrop for the love story, or do they detract from the emotional core?  
 - What elements of the ending felt earned, and what might have benefited from further development?  
 - How do you see Kent's work contributing to or challenging conventions within the dark romance genre?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #legacyofgods #literaryanalysis

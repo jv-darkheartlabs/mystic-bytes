@@ -7,7 +7,7 @@ dek: "She was wicked lonely and far too young"
 number: R170
 sort_key: 170
 date: 2026-01-19
-date_read: 2017-11-25
+date_read: 2020-11-25
 category: mafia-boss-and-innocent
 cover: /assets/readings/sweet-temptation.jpg
 spice: 4
@@ -48,5 +48,3 @@ Reilly’s novel invites a plethora of discussions not only about the themes of 
 - How does the narrative balance the line between romantic desire and moral responsibility?  
 - What are the implications of the age gap in the context of the characters’ relationship?  
 - Can we reconcile the violent backdrop of the mafia with the tenderness of the romance, or do they remain irreconcilable?
-
-#TheOrchidRoom #mafiaromance #darkromance #forbidden #literaryanalysis

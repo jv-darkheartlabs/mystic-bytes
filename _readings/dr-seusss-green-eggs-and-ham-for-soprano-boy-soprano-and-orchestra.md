@@ -18,7 +18,6 @@ tags:
   - Seussical
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ Kapilow's adaptation raises provocative questions about the nature of choice and
 - Do you believe the gothic elements serve to deepen the story, or do they risk alienating a younger audience?
 - How does the adaptation's ending affect your understanding of the central conflict?
 - What themes resonate most strongly with your personal experiences of choice and acceptance?
-
-#TheOrchidRoom #gothic #horrorromance #musicaladaptation #Seussical

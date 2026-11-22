@@ -6,7 +6,7 @@ dek: "A secret brought to light. Two hearts in the balance."
 number: R746
 sort_key: 746
 date: 2026-03-23
-date_read: 2017-11-25
+date_read: 2025-11-25
 category: forbidden-love
 cover: /assets/readings/the-love-we-found.jpg
 spice: 3
@@ -42,5 +42,3 @@ The tension between love and loyalty presents a fertile ground for debate, espec
 - Do you feel the dual perspectives added depth to the story, or did it dilute the central conflict?
 - In what ways does Santopolo challenge or reinforce traditional tropes of forbidden love?
 - How did the ending resonate with you? Was it satisfying or contentious?
-
-#TheOrchidRoom #forbiddenlove #darkromance #NYC #literaryanalysis

@@ -7,7 +7,7 @@ dek: ""
 number: R405
 sort_key: 405
 date: 2026-02-13
-date_read: 2010-03-01
+date_read: 2025-03-01
 category: mystery-crime
 cover: /assets/readings/the-tenant.jpg
 content_warnings:
@@ -43,5 +43,3 @@ However, the pacing falters in the midsection, where the tension lags slightly, 
 - Is the ending a satisfying culmination of the narrative's tension, or does it undermine the buildup?
 - What are the ethical implications of the characters' actions, and how do they reflect societal norms?
 - How does McFadden's work compare to other authors in the genre regarding character complexity?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

@@ -7,7 +7,7 @@ dek: "But the truth may hold you"
 number: R1140
 sort_key: 1140
 date: 2026-05-05
-date_read: 2015-09-19
+date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/gleam.jpg
 spice: 4
@@ -47,5 +47,3 @@ Character development is where *Gleam* truly shines; the protagonist's arc is fr
 - In what ways does Kennedy's world-building enhance or detract from the central themes?  
 - Is there a fine line between romanticizing abuse and portraying it as a tool for character development?  
 - How do we reconcile the fantasy elements with the harsh realities depicted in the book?
-
-#TheOrchidRoom #fantasyromance #darkromance #Gleam #RavenKennedy

@@ -48,5 +48,3 @@ Stewart's *Flock* invites a multitude of discussions around the complexities of 
 - How does the setting enhance or complicate the characters' relationships?
 - Do you think the ending serves the story well, or does it undermine the emotional journey?
 - How might the themes of *Flock* resonate differently with varying cultural backgrounds?
-
-#TheOrchidRoom #forbiddenlove #darkromance #flock #literaryanalysis

@@ -7,7 +7,7 @@ dek: "Hollow Boys Book Four — Will obsession be enough?"
 number: R1512
 sort_key: 1512
 date: 2026-06-14
-date_read: 2015-03-01
+date_read: 2022-03-01
 category: bully-romance
 cover: /assets/readings/the-blood-we-crave.jpg
 spice: 4
@@ -21,7 +21,6 @@ tags:
   - darkromance
   - the
   - blood
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -48,5 +47,3 @@ The exploration of obsession versus autonomy raises compelling questions about t
 - In what ways does the setting amplify the characters' internal struggles?  
 - How do character flaws contribute to or detract from the overall message of the novel?  
 - What role does the concept of redemption play in shaping our understanding of the characters’ arcs?  
-
-#TheOrchidRoom #bullyromance #darkromance #MontyJay #TheBloodWeCrave

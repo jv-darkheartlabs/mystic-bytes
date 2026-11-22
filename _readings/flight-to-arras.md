@@ -19,7 +19,6 @@ tags:
   - philosophy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The ending, though ambiguous, is fittingly earned, encapsulating the essence of 
 - Does the ambiguity of the ending serve the narrative’s themes, or does it leave too many questions unanswered?  
 - How does the depiction of war in this novel compare to other literary representations you’ve encountered?  
 - What elements of the protagonist's journey resonate with contemporary issues of courage and isolation?  
-
-#LiteraryAnalysis #darkthriller #war #aviation #philosophy #theorchidroom

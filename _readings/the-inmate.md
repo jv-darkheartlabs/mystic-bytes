@@ -7,7 +7,7 @@ dek: "Never ever become too friendly with the inmate."
 number: R387
 sort_key: 387
 date: 2026-02-11
-date_read: 2012-03-01
+date_read: 2022-03-01
 category: mystery-crime
 cover: /assets/readings/the-inmate.jpg
 content_warnings:
@@ -44,4 +44,3 @@ However, while the thematic exploration of trust and betrayal is compelling, som
 - Is the ending justified in its emotional payoff, or does it feel like a narrative cheat?
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #darkthriller #romanticsuspense #prison #darkheartlabs

@@ -10,7 +10,7 @@ type: pillar
 read_time: 8
 tags: [craft]
 brief:
-  system: GitHub, VS Code, and Microsoft 365 documents used from an Auckland remote desk
+  system: GitHub, VS Code, and Microsoft 365 documents used from a Louisiana remote desk
   issue: each Microsoft logo treated as a separate vendor when identity and the agreement already bundled them
   constraint: public customer and filings; no Microsoft employment; distinct from the GitHub-under-Microsoft forge essay
 ---
@@ -21,7 +21,7 @@ brief:
 
 ## Context
 
-Dark Heart Labs' public repos live on GitHub. I write in an editor Microsoft invented. I open `.docx` files I did not choose because someone else's legal or finance stack still emits them. I do this from Auckland in 2026 as a customer. I have never been a Microsoft employee. There is a separate essay about GitHub after the 2018 acquisition: the forge still works, Copilot is the extraction layer. This one is wider. It is about why a studio of one still orbits a company built to be the default of institutions.
+Dark Heart Labs' public repos live on GitHub. I write in an editor Microsoft invented. I open `.docx` files I did not choose because someone else's legal or finance stack still emits them. I do this from Louisiana in 2026 as a customer. I have never been a Microsoft employee. There is a separate essay about GitHub after the 2018 acquisition: the forge still works, Copilot is the extraction layer. This one is wider. It is about why a studio of one still orbits a company built to be the default of institutions.
 
 The default is not a conspiracy. It is decades of being the file format, the login, and the laptop image that procurement already approved.
 

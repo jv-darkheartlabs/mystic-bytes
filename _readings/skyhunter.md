@@ -47,5 +47,3 @@ The interplay of love and sacrifice raises profound questions about the cost of 
 - Do you find the world-building comprehensive enough to support the narrative, or are there critical elements that feel lacking?
 - What role does the backdrop of war play in shaping character relationships, and does this resonate with current social issues?
 - How effectively does the novel balance romantic tension with its darker themes of oppression and violence?
-
-#TheOrchidRoom #fantasyromance #darkromance #dystopian #literaryanalysis

@@ -7,7 +7,7 @@ dek: ""
 number: R1236
 sort_key: 1236
 date: 2026-05-15
-date_read: 2015-06-10
+date_read: 2023-06-10
 category: classic-literature
 cover: /assets/readings/emily-wildes-encyclopaedia-of-faeries.jpg
 content_warnings:
@@ -45,5 +45,3 @@ Fawcett's narrative invites debate on the boundaries between knowledge and dange
 - In what ways does Emily's relationship with the fae reflect the complexities of desire and control?  
 - Do you find Emily's academic pursuits relatable, or do they feel detached from the emotional stakes presented?  
 - Is the portrayal of fae trickery a metaphor for real-world academic challenges and ethical dilemmas?
-
-#TheOrchidRoom #fantasyromance #academicfantasy #fae #darkromance

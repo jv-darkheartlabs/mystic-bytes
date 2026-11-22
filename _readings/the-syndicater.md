@@ -48,5 +48,3 @@ The dichotomies presented in **The Syndicater** generate rich ground for debate.
 - In what ways do you think the genre's typical tropes serve or undermine the themes presented in the story?  
 - Is the tension between dark themes and romantic arcs effectively handled, or does it come off as sensationalist?  
 - How do you feel about the ending — was it a fitting conclusion to the characters' journeys?
-
-#TheOrchidRoom #mafiaromance #darkromance #literaryanalysis #darkheartlabs

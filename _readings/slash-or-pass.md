@@ -23,7 +23,6 @@ tags:
   - snake
   - moth
   - dark romance
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -50,5 +49,3 @@ The polarities within *Slash or Pass* are abundant: while some may revel in the 
 - In what ways does the book challenge or reinforce your views on morality in romantic relationships?  
 - How effective is the non-linear timeline in conveying the themes of the story?  
 - What role does religious imagery play in shaping the characters' journeys?
-
-#TheOrchidRoom #forbiddenlove #darkromance #gothic #darkheartlabs

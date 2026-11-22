@@ -24,7 +24,6 @@ tags:
   - Civil War
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -51,5 +50,3 @@ The polarities within *Gone with the Wind* are palpable, igniting debates around
 - Does the romantic tension between Scarlett and Rhett overshadow the moral implications of their actions?  
 - How effective is the novel's ending in reflecting the themes of longing and loss?  
 - What responsibilities do authors have when portraying historical events and figures in romantic narratives?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #historical #AmericanSouth

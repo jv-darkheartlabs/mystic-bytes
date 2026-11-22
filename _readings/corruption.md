@@ -51,5 +51,3 @@ Snow's *Corruption* ignites polarizing discussions about morality in relationshi
 - How do the content warnings shape your reading of the text?  
 - Do you believe the ending is earned, or does it feel like a retreat from the complexity established throughout?  
 - What are your thoughts on the representation of consent in the context of this story?  
-
-#TheOrchidRoom #mafiaromance #darkromance #underworldkings #literaryanalysis

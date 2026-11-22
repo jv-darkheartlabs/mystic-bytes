@@ -22,7 +22,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ This novel presents polarities that could ignite debate among readers regarding 
   - How does the maze function as a metaphor for internal struggles versus external threats?  
   - Do you find the narrative's pacing effective in building tension, or does it detract from character development?  
   - What unresolved themes linger post-read, particularly regarding the characters' emotional journeys?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

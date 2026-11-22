@@ -6,7 +6,7 @@ dek: ""
 number: R1602
 sort_key: 1602
 date: 2026-06-21
-date_read: 2007-03-01
+date_read: 2010-03-01
 category: literary-fiction
 cover: /assets/readings/truly-madly-deeply.jpg
 content_warnings:
@@ -20,7 +20,6 @@ tags:
   - psychological
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The novel's exploration of love intertwined with mental health raises significan
 - Are the characters relatable or excessively stereotypical, and what impact does this have on the reader's engagement?  
 - Can love be truly unconditional, or does the narrative suggest otherwise?  
 - What does the ending communicate about the nature of love and obsession?  
-
-#LiteraryAnalysis #darkthriller #romantic suspense #psychological #theorchidroom

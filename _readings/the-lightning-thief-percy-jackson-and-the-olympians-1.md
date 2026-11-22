@@ -21,7 +21,6 @@ tags:
   - friendship
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -48,5 +47,3 @@ The interplay of myth and modernity invites varied interpretations, and Riordanâ
 - Does the convenience of the plot resolution undermine the stakes established throughout the story?  
 - How effectively does Riordan address the theme of belonging in a world filled with gods and monsters?  
 - Can the character development in *The Lightning Thief* stand up to scrutiny in the broader context of fantasy literature?
-
-#TheOrchidRoom #fantasyromance #mythology #youngadult #literaryanalysis

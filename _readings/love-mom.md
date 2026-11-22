@@ -6,7 +6,7 @@ dek: "Want to know a secret?"
 number: R380
 sort_key: 380
 date: 2026-02-10
-date_read: 2005-05-07
+date_read: 2025-05-07
 category: mystery-crime
 cover: /assets/readings/love-mom.jpg
 content_warnings:

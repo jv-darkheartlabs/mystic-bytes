@@ -49,5 +49,3 @@ The interplay between love and darkness in this novel is sure to ignite robust d
 - Are the characters' resolutions satisfying, or do they leave too much unresolved?  
 - In what ways does the book subvert traditional fantasy-romance tropes?  
 - What role does the setting play in shaping the characters' inner darkness and desires?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

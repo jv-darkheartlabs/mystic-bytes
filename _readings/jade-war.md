@@ -47,5 +47,3 @@ This novel invites rich debate on the nature of power and the sacrifices one mus
 - Do you believe the emotional intensity enriches the narrative, or does it detract from character accessibility?  
 - How does Lee’s portrayal of power dynamics reflect contemporary societal issues, if at all?  
 - What unresolved questions remain about the characters’ fates and the world they inhabit?
-
-#TheOrchidRoom #fantasyromance #darkromance #jade #war

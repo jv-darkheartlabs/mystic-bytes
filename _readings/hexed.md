@@ -7,7 +7,7 @@ dek: "A Never After Novel"
 number: R148
 sort_key: 148
 date: 2026-01-16
-date_read: 2019-07-13
+date_read: 2024-07-13
 category: forbidden-love
 cover: /assets/readings/hexed.jpg
 spice: 5
@@ -44,5 +44,3 @@ Characterization is another strength, with protagonists who embody the duality o
 - What are the implications of the ending — is it a hopeful resolution or a mere illusion of safety?  
 - How do you feel about the pacing — does it serve or hinder the overall emotional impact?  
 - In what ways does McIntire's writing style contribute to the sense of danger throughout the narrative?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

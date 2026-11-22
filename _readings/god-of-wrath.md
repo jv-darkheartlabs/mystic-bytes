@@ -47,5 +47,3 @@ The intricate dynamics of power and desire in *God of Wrath* are ripe for debate
 - Does the ending feel like a satisfying resolution or a capitulation to genre expectations?  
 - How do we reconcile the allure of the bully-romance trope with its potential to normalize unhealthy behaviors?  
 - What might be the implications of portraying power imbalances in romantic contexts?
-
-#TheOrchidRoom #bullyromance #darkromance #literaryanalysis #darkheartlabs

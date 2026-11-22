@@ -47,5 +47,3 @@ The novel’s exploration of the intertwining of love and danger presents rich g
 - In what ways does the ending challenge or conform to genre expectations?  
 - Can the portrayal of emotional intensity be seen as a double-edged sword?  
 - What biases do we bring to the interpretation of love intertwined with danger in fantasy?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #cityofgodsandmonsters

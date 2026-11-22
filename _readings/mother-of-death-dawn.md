@@ -7,7 +7,7 @@ dek: "The War of Lost Hearts Vol. III"
 number: R1206
 sort_key: 1206
 date: 2026-05-12
-date_read: 2021-03-01
+date_read: 2022-03-01
 category: fantasy-romance
 cover: /assets/readings/mother-of-death-dawn.jpg
 spice: 3
@@ -47,5 +47,3 @@ The novel’s exploration of desire and conflict invites rich discussions on the
 - What did you think of the symbolism of the 'flaming sword' in relation to love and sacrifice?  
 - How do Broadbent’s choices in pacing and structure affect your engagement with the characters?  
 - Does the bittersweet nature of the ending work for you, or would you have preferred a different resolution?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

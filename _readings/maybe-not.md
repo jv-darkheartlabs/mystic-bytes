@@ -44,5 +44,3 @@ This novella invites a myriad of discussions on the ethics of love and the moral
 - In what ways does Hoover challenge traditional narratives of love and loyalty?  
 - How does the first-person POV affect your connection to the characters?  
 - What are the implications of presenting forbidden love in contemporary literature?
-
-#TheOrchidRoom #forbiddenlove #darkromance #colleenhoover #literaryanalysis

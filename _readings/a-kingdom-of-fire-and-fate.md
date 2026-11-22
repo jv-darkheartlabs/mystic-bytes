@@ -6,7 +6,7 @@ dek: ""
 number: R1442
 sort_key: 1442
 date: 2026-06-06
-date_read: 2017-05-07
+date_read: 2026-05-07
 category: fantasy-romance
 cover: /assets/readings/a-kingdom-of-fire-and-fate.jpg
 spice: 4
@@ -48,5 +48,3 @@ The novel's exploration of obsession and fate invites a complex dialogue about t
 - What is the impact of the book's pacing on your emotional engagement with the characters?  
 - In what ways does the setting amplify the themes of war and magic in the character's journey?  
 - Do you find the ending to be an affirmation of the characters' desires or a cautionary tale about the consequences of their choices?  
-
-#TheOrchidRoom #fantasyromance #darkromance #kingdom #fire #fate

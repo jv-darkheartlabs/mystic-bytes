@@ -22,7 +22,6 @@ tags:
   - rebellion
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,4 +48,3 @@ However, the mechanical flaws lie in the abruptness of the ending, where the cli
 - Can the themes of *Dead Poets Society* be applied to current educational systems?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #coming-of-age #TheOrchidRoom

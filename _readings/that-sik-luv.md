@@ -6,7 +6,7 @@ dek: ""
 number: R218
 sort_key: 218
 date: 2026-01-24
-date_read: 2017-05-07
+date_read: 2023-05-07
 category: stalker-obsession
 cover: /assets/readings/that-sik-luv.jpg
 spice: 5
@@ -49,5 +49,3 @@ The polarizing elements of this book may ignite fervent debate among readers. On
 - What are the implications of portraying violence within a romantic context?  
 - In what ways does the use of gothic elements enhance or detract from the narrative?  
 - How do the characters' complexities affect your emotional response to their actions?  
-
-#TheOrchidRoom #ThatSikLuv #darkromance #psychological #gothic

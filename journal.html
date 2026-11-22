@@ -1,0 +1,176 @@
+---
+layout: default
+title: Journal
+description: "The Journal — book and film reviews, essays, and poetry from Dark Heart Labs, shelved by genre."
+permalink: /journal/
+---
+{% assign cats = site.data.reading_categories.categories %}
+{% assign hidden_slugs = site.data.shelf_exclusions.hidden_slugs | default: "" %}
+{% assign literary = "" | split: "" %}
+{% assign romance = "" | split: "" %}
+{% assign genre = "" | split: "" %}
+{% assign juvenile = "" | split: "" %}
+{% for r in site.readings %}
+  {% if r.shelf == false %}{% continue %}{% endif %}
+  {% if hidden_slugs contains r.slug %}{% continue %}{% endif %}
+  {% assign lane = cats[r.category].lane %}
+  {% if lane == "canon" %}{% assign literary = literary | push: r %}
+  {% elsif lane == "romance" %}{% assign romance = romance | push: r %}
+  {% elsif lane == "genre" %}{% assign genre = genre | push: r %}
+  {% elsif lane == "juvenile" %}{% assign juvenile = juvenile | push: r %}
+  {% endif %}
+{% endfor %}
+{% assign literary = literary | sort: "date" | reverse %}
+{% assign romance = romance | sort: "date" | reverse %}
+{% assign genre = genre | sort: "date" | reverse %}
+{% assign juvenile = juvenile | sort: "date" | reverse %}
+{% assign films = site.films | sort: "date" | reverse %}
+{% assign essays = site.essays | where_exp: "e", "e.locked != true" | sort: "date" | reverse %}
+{% assign verse = site.verse | sort: "date" | reverse %}
+<div class="container journal-page">
+  <header class="signal-header">
+    <p class="page-eyebrow">Journal</p>
+    <h1 class="page-title">Journal</h1>
+    <p class="career-intro">Everything written lives here — shelved by genre. Each shelf holds its most recent pieces; the shelf itself leads to the full collection.</p>
+  </header>
+
+  <section class="shelf-section" aria-labelledby="shelf-literary">
+    <a class="shelf" href="{{ '/journal/reviews/#reviews-literary' | relative_url }}" aria-label="Literary and Classics — full shelf">
+      <span class="shelf__covers">
+        {% for entry in literary limit: 10 %}{% if entry.cover %}<img class="shelf__cover" src="{{ entry.cover | relative_url }}" alt="" loading="lazy" width="120" height="180">{% else %}<span class="shelf__cover shelf__cover--blank" style="--spine: {% cycle 'shelfcolors': '#7a3590', '#9f0a65', '#342459', '#5c2a72' %}"><span>{{ entry.title | escape }}</span></span>{% endif %}{% endfor %}
+      </span>
+      <span class="shelf__plank"></span>
+      <h2 class="shelf__plate" id="shelf-literary">Literary &amp; Classics</h2>
+    </a>
+    <ul class="home-entry-list">
+      {% assign picks = literary | sample: 3 %}{% for entry in picks %}
+      <li>
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+        {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+        <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+      </li>
+      {% endfor %}
+    </ul>
+    <p><a href="{{ '/journal/reviews/#reviews-literary' | relative_url }}">The full shelf →</a></p>
+  </section>
+
+  <section class="shelf-section" aria-labelledby="shelf-romance">
+    <a class="shelf" href="{{ '/journal/reviews/#reviews-romance' | relative_url }}" aria-label="Dark Romance — full shelf">
+      <span class="shelf__covers">
+        {% for entry in romance limit: 10 %}{% if entry.cover %}<img class="shelf__cover" src="{{ entry.cover | relative_url }}" alt="" loading="lazy" width="120" height="180">{% else %}<span class="shelf__cover shelf__cover--blank" style="--spine: {% cycle 'shelfcolors': '#7a3590', '#9f0a65', '#342459', '#5c2a72' %}"><span>{{ entry.title | escape }}</span></span>{% endif %}{% endfor %}
+      </span>
+      <span class="shelf__plank"></span>
+      <h2 class="shelf__plate" id="shelf-romance">Dark Romance</h2>
+    </a>
+    <ul class="home-entry-list">
+      {% assign picks = romance | sample: 3 %}{% for entry in picks %}
+      <li>
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+        {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+        <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+      </li>
+      {% endfor %}
+    </ul>
+    <p><a href="{{ '/journal/reviews/#reviews-romance' | relative_url }}">The full shelf →</a></p>
+  </section>
+
+  <section class="shelf-section" aria-labelledby="shelf-genre">
+    <a class="shelf" href="{{ '/journal/reviews/#reviews-genre' | relative_url }}" aria-label="Mystery, SFF and Horror — full shelf">
+      <span class="shelf__covers">
+        {% for entry in genre limit: 10 %}{% if entry.cover %}<img class="shelf__cover" src="{{ entry.cover | relative_url }}" alt="" loading="lazy" width="120" height="180">{% else %}<span class="shelf__cover shelf__cover--blank" style="--spine: {% cycle 'shelfcolors': '#7a3590', '#9f0a65', '#342459', '#5c2a72' %}"><span>{{ entry.title | escape }}</span></span>{% endif %}{% endfor %}
+      </span>
+      <span class="shelf__plank"></span>
+      <h2 class="shelf__plate" id="shelf-genre">Mystery, SFF &amp; Horror</h2>
+    </a>
+    <ul class="home-entry-list">
+      {% assign picks = genre | sample: 3 %}{% for entry in picks %}
+      <li>
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+        {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+        <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+      </li>
+      {% endfor %}
+    </ul>
+    <p><a href="{{ '/journal/reviews/#reviews-genre' | relative_url }}">The full shelf →</a></p>
+  </section>
+
+  <section class="shelf-section" aria-labelledby="shelf-juvenile">
+    <a class="shelf" href="{{ '/journal/reviews/#reviews-juvenile' | relative_url }}" aria-label="Juvenile and YA — full shelf">
+      <span class="shelf__covers">
+        {% for entry in juvenile limit: 10 %}{% if entry.cover %}<img class="shelf__cover" src="{{ entry.cover | relative_url }}" alt="" loading="lazy" width="120" height="180">{% else %}<span class="shelf__cover shelf__cover--blank" style="--spine: {% cycle 'shelfcolors': '#7a3590', '#9f0a65', '#342459', '#5c2a72' %}"><span>{{ entry.title | escape }}</span></span>{% endif %}{% endfor %}
+      </span>
+      <span class="shelf__plank"></span>
+      <h2 class="shelf__plate" id="shelf-juvenile">Juvenile &amp; YA</h2>
+    </a>
+    <ul class="home-entry-list">
+      {% assign picks = juvenile | sample: 3 %}{% for entry in picks %}
+      <li>
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+        {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+        <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+      </li>
+      {% endfor %}
+    </ul>
+    <p><a href="{{ '/journal/reviews/#reviews-juvenile' | relative_url }}">The full shelf →</a></p>
+  </section>
+
+  <section class="shelf-section" aria-labelledby="shelf-films">
+    <a class="shelf" href="{{ '/journal/films/' | relative_url }}" aria-label="Films — full collection">
+      <span class="shelf__covers">
+        {% for entry in films limit: 10 %}{% assign poster_src = entry.poster %}{% if poster_src == nil and entry.source_readings.size > 0 %}{% assign first_source = site.readings | where: "slug", entry.source_readings.first | first %}{% if first_source and first_source.cover %}{% assign poster_src = first_source.cover %}{% endif %}{% endif %}{% if poster_src %}<img class="shelf__cover" src="{{ poster_src | relative_url }}" alt="" loading="lazy" width="200" height="300">{% else %}<span class="shelf__cover shelf__cover--blank" style="--spine: {% cycle 'shelfcolors': '#7a3590', '#9f0a65', '#342459', '#5c2a72' %}"><span>{{ entry.title | escape }}</span></span>{% endif %}{% endfor %}
+      </span>
+      <span class="shelf__plank"></span>
+      <h2 class="shelf__plate" id="shelf-films">Films</h2>
+    </a>
+    <ul class="home-entry-list">
+      {% assign picks = films | sample: 3 %}{% for entry in picks %}
+      <li>
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+        {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+        <p class="home-entry__meta">{% if entry.year %}{{ entry.year }}{% endif %}{% if entry.director %} · dir. {{ entry.director }}{% endif %}</p>
+      </li>
+      {% endfor %}
+    </ul>
+    <p><a href="{{ '/journal/films/' | relative_url }}">All adaptation reviews →</a></p>
+  </section>
+
+  <section class="shelf-section" aria-labelledby="shelf-essays">
+    <a class="shelf" href="{{ '/journal/essays/' | relative_url }}" aria-label="Essays — full collection">
+      <span class="shelf__covers">
+        {% for entry in essays limit: 10 %}{% if entry.cover contains 'cover-' %}{% assign topic = entry.cover | split: 'cover-' | last | split: '.' | first %}{% case topic %}{% when 'systems' %}{% assign tint = '#342459' %}{% when 'code' %}{% assign tint = '#7a3590' %}{% when 'craft' %}{% assign tint = '#9f0a65' %}{% when 'language' %}{% assign tint = '#4a3566' %}{% when 'mentorship' %}{% assign tint = '#7a5c1e' %}{% when 'mind' %}{% assign tint = '#5c2a72' %}{% else %}{% assign tint = '#221538' %}{% endcase %}<span class="shelf__cover shelf__cover--topic" style="--spine: {{ tint }}"><span class="shelf__topic">{{ topic | capitalize }}</span><span class="shelf__cover-title">{{ entry.title | escape }}</span></span>{% else %}<span class="shelf__cover shelf__cover--blank" style="--spine: {% cycle 'shelfcolors': '#7a3590', '#9f0a65', '#342459', '#5c2a72' %}"><span>{{ entry.title | escape }}</span></span>{% endif %}{% endfor %}
+      </span>
+      <span class="shelf__plank"></span>
+      <h2 class="shelf__plate" id="shelf-essays">Essays</h2>
+    </a>
+    <ul class="home-entry-list">
+      {% assign picks = essays | sample: 5 %}{% for entry in picks %}
+      <li>
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+        {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+        <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+      </li>
+      {% endfor %}
+    </ul>
+    <p><a href="{{ '/journal/essays/' | relative_url }}">All essays →</a></p>
+  </section>
+
+  <section class="shelf-section" aria-labelledby="shelf-poetry">
+    <a class="shelf" href="{{ '/journal/poetry/' | relative_url }}" aria-label="Poetry — full collection">
+      <span class="shelf__covers">
+        {% for entry in verse limit: 10 %}{% if entry.cover %}<img class="shelf__cover" src="{{ entry.cover | relative_url }}" alt="" loading="lazy" width="120" height="180">{% else %}<span class="shelf__cover shelf__cover--blank" style="--spine: {% cycle 'shelfcolors': '#7a3590', '#9f0a65', '#342459', '#5c2a72' %}"><span>{{ entry.title | escape }}</span></span>{% endif %}{% endfor %}
+      </span>
+      <span class="shelf__plank"></span>
+      <h2 class="shelf__plate" id="shelf-poetry">Poetry</h2>
+    </a>
+    <ul class="home-entry-list">
+      {% assign picks = verse | sample: 5 %}{% for entry in picks %}
+      <li>
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+        {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+        <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+      </li>
+      {% endfor %}
+    </ul>
+    <p><a href="{{ '/journal/poetry/' | relative_url }}">All poetry →</a></p>
+  </section>
+</div>

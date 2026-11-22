@@ -48,5 +48,3 @@ This novel will undoubtedly ignite diverse opinions within the reading group, pa
 - Are the moral ambiguities of the characters served well by the narrative, or do they detract from the overall impact?  
 - How does the ending shape your perception of the characters’ journeys and the story’s central themes?  
 - What role does setting play in enhancing the gothic elements of the narrative, and does it succeed?
-
-#TheOrchidRoom #SoulOfAPsycho #darkromance #gothic #literaryanalysis

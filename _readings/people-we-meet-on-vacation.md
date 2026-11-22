@@ -7,7 +7,7 @@ dek: "A novel"
 number: R1369
 sort_key: 1369
 date: 2026-05-29
-date_read: 2016-04-04
+date_read: 2021-04-04
 category: enemies-to-lovers
 cover: /assets/readings/people-we-meet-on-vacation.jpg
 spice: 3
@@ -41,5 +41,3 @@ The novel thrives on its exploration of love's complexities but invites polarizi
 - Are the secondary characters necessary to the narrative, or do they distract from the central relationship?  
 - How does this book compare to other contemporary romances in its handling of emotional intimacy?  
 - What do you think about the ending — is it a fulfilling resolution or a cliché conclusion?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #contemporaryromance #literaryanalysis

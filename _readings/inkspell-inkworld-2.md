@@ -21,7 +21,6 @@ tags:
   - young adult
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Characterization is where the novel shines, especially in the portrayal of Dustf
 - In what ways does Funke's use of language enhance or detract from the story's impact?  
 - How does *Inkspell* compare to other fantasy works in its treatment of love and sacrifice?  
 - What might this story suggest about the nature of storytelling itself?  
-
-#TheOrchidRoom #fantasyromance #darkromance #Inkworld #CorneliaFunke

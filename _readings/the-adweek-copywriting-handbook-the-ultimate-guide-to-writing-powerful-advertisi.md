@@ -19,7 +19,6 @@ tags:
   - nonfiction
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ Sugarman’s work invites both admiration and scrutiny, striking a provocative b
 - What parallels can be drawn between the characters in Sugarman's examples and those in classic Gothic tales of manipulation and control?
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #darkthriller #copywriting

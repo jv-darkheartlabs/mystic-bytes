@@ -49,5 +49,3 @@ Vincent's exploration of love as a weapon raises polarizing questions about cons
 - Is the ending satisfying given the buildup of tension, or does it feel like a betrayal of the themes presented?  
 - How does the use of gore and physical danger enhance or detract from the romantic narrative?  
 - In what ways does this text challenge or conform to traditional gender roles within dark romance?  
-
-#TheOrchidRoom #FearMeLoveMe #darkromance #gothic #psychological

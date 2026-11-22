@@ -48,5 +48,3 @@ The juxtaposition of love and revenge in *Madness* opens a rich vein for discuss
 - Can the extremes of love depicted in the novel offer any insights into real-life relationships, or do they merely serve as cautionary tales?  
 - How effective is the ending in delivering a resolution that feels both earned and satisfying?  
 - What role does the setting play in amplifying the themes of revenge and desire?
-
-#TheOrchidRoom #Madness #enemiestolovers #darkromance #literaryanalysis

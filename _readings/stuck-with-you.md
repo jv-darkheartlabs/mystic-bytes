@@ -40,5 +40,3 @@ The prose is sharp yet accessible, with Hazelwood’s background in academia inf
 - In what ways does this book challenge or reinforce stereotypes about women in STEM?  
 - How do Hazelwood's characterizations compare to those of other authors in this genre?  
 - What role does humor play in the development of the protagonists' relationship?
-
-#TheOrchidRoom #enemiestolovers #darkromance #STEM #darkheartlabs

@@ -18,7 +18,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The interplay of humor and darker themes provides fertile ground for debate amon
   - In what ways does the portrayal of humanity's place in the universe resonate with current existential concerns?  
   - Can this book be classified purely as comedy, or does its underlying darkness elevate it to a more complex critique of existence?  
   - How does Adams' work compare to other speculative fiction that tackles similar themes?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #sci-fi #theorchidroom

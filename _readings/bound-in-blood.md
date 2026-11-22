@@ -49,5 +49,3 @@ Kincaid’s exploration of obsession and power dynamics serves as fertile ground
 - Does the author’s choice to reveal multiple perspectives enhance or detract from the emotional impact?  
 - How do the content warnings influence your reading experience, and do they feel justified within the narrative?  
 - What unresolved questions linger for you after the conclusion, and how might they inform a deeper reading of the themes?  
-
-#TheOrchidRoom #BoundinBlood #SadieKincaid #DarkRomance #Gothic

@@ -52,5 +52,3 @@ The polarities within *Reietti Senza Cuore* are stark; it oscillates between the
   - Do you believe the characters are redeemable, or do their actions irrevocably define them?  
   - How effectively does Knox balance the romantic elements with the darker themes of violence and captivity?  
   - What impact does the unresolved ending have on the overall message of the book?  
-
-#TheOrchidRoom #ReiettiSenzaCuore #darkromance #literaryanalysis #gothic

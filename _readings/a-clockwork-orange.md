@@ -22,7 +22,6 @@ tags:
   - crime
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The novel's polarizing themes ignite intense debate over morality, free will, an
 - Is the resolution satisfying, or does it undermine the book’s earlier philosophical inquiries?  
 - In what ways does *A Clockwork Orange* resonate with contemporary issues of crime and punishment?  
 - How does the dichotomy of innocence and evil manifest in Alex's character arc?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #psychological

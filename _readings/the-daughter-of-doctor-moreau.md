@@ -6,7 +6,7 @@ dek: "A reimagining of a classic tale exploring love and monstrosity."
 number: R1718
 sort_key: 1718
 date: 2026-07-02
-date_read: 2017-11-25
+date_read: 2022-11-25
 category: gothic-horror-romance
 cover: /assets/readings/the-daughter-of-doctor-moreau.jpg
 spice: 3
@@ -23,7 +23,6 @@ tags:
   - historical
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ Moreno-Garcia’s work is sure to stir debate, especially concerning the ethical
 - Does the abruptness of the resolution enhance or detract from the novel's overall impact?  
 - How do Carlotta's and Moreau's differing perspectives shape our understanding of love and ethics?  
 - What role does setting play in augmenting the novel's tension and emotional stakes?  
-
-#TheOrchidRoom #gothic #horrorromance #literaryanalysis #darkheartlabs

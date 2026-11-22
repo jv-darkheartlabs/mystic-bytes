@@ -19,7 +19,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -42,5 +41,3 @@ Freeman's tale walks a fine line between whimsy and melancholy, provoking though
 - Can a children's book effectively engage with themes of gothic horror, or does it risk losing its young audience?  
 - How do the illustrations contribute to or complicate the narrative's emotional depth?  
 - What aspects of the narrative might resonate differently with adult readers compared to children?
-
-#TheOrchidRoom #gothic #horrorromance #children'sliterature #classic

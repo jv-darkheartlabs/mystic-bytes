@@ -7,7 +7,7 @@ dek: ""
 number: R408
 sort_key: 408
 date: 2026-02-13
-date_read: 2013-06-10
+date_read: 2019-06-10
 category: historical
 cover: /assets/readings/the-things-we-cannot-say.jpg
 content_warnings:

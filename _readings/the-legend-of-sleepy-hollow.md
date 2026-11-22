@@ -22,7 +22,6 @@ tags:
   - American literature
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Irving’s ability to evoke both humor and horror invites polarizing interpretat
 - In what ways does the story reflect societal fears of the era, and how do they translate to contemporary issues?  
 - Is the supernatural element a genuine threat or a manifestation of Ichabod's own insecurities?  
 - How does the setting of Sleepy Hollow itself function as a character within the narrative?
-
-#TheOrchidRoom #gothic #horrorromance #classic #AmericanLiterature

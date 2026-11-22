@@ -46,5 +46,3 @@ Hobb's narrative invites polarizing interpretations regarding the balance of plo
 - Do you find the pacing to be a strength or a hindrance to the overall narrative experience?
 - In what ways do the darker elements of the story enhance or detract from the romantic aspects?
 - How does the emotional intensity challenge or reinforce traditional fantasy tropes?
-
-#TheOrchidRoom #DragonKeeper #fantasyromance #darkromance #literaryanalysis

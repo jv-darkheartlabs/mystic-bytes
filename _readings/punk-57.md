@@ -49,5 +49,3 @@ The thematic exploration of secrets and betrayal is particularly potent, as it m
 - Do you find the depiction of teenage angst relatable, or does it feel exaggerated?  
 - How does the ending shape your perception of the characters' growth and their relationship dynamics?  
 - What is the role of secrets in shaping the narrative, and do you think they were resolved satisfactorily?
-
-#TheOrchidRoom #enemiestolovers #darkromance #newadult #literaryanalysis

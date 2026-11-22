@@ -18,7 +18,6 @@ tags:
   - family dynamics
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ This text presents an intriguing mix of lightheartedness and subtle darkness, pr
 - In what ways can humor serve as a coping mechanism in narratives dealing with darker themes?
 - What elements of Ramona’s character resonate with your own childhood experiences?
 - Does the simplicity of the prose dilute or enhance the thematic depth of the story?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #comingofage

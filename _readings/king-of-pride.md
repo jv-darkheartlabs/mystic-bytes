@@ -7,7 +7,7 @@ dek: "Kings of Sin — Book 2"
 number: R097
 sort_key: 097
 date: 2026-01-11
-date_read: 2016-10-22
+date_read: 2023-10-22
 category: dark-billionaire
 cover: /assets/readings/king-of-pride.jpg
 spice: 4
@@ -48,5 +48,3 @@ The interplay of power and desire in *King of Pride* invites rich discussion, es
 - Does the ending provide a satisfying resolution, or does it leave too many questions unanswered?  
 - How do the themes of pride and classism resonate with contemporary societal issues?  
 - Can we separate the allure of wealth from the darker implications of the relationships portrayed?
-
-#TheOrchidRoom #darkbillionaire #darkromance #KingsOfSin #literaryanalysis

@@ -49,5 +49,3 @@ The polarizing elements within *Deviant King* are ripe for discussion, particula
 - Do you believe the ending justifies the means, considering the characters' actions throughout the book?  
 - How do you feel about the use of dark themes in romance — does it add depth or detract from the emotional experience?  
 - Can a relationship built on such instability and obsession be viewed as romantic, or does it cross into problematic territory?
-
-#TheOrchidRoom #bullyromance #darkromance #royalelite #literaryanalysis

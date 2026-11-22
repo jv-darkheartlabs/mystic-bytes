@@ -23,7 +23,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The intersections of motherhood, autonomy, and horror create a fertile ground fo
 - Can the reader sympathize with Guy, or does his betrayal render him irredeemable?  
 - How does the atmosphere of paranoia shape your reading experience?  
 - What unresolved anxieties does the novel raise about manipulation and trust in relationships?
-
-#TheOrchidRoom #gothic #horrorromance #paranoia #suspense

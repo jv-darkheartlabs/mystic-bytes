@@ -6,7 +6,7 @@ dek: ""
 number: R473
 sort_key: 473
 date: 2026-02-21
-date_read: 2020-08-16
+date_read: 2023-08-16
 category: enemies-to-lovers
 cover: /assets/readings/vacation-wars.jpg
 spice: 3
@@ -41,5 +41,3 @@ The book raises essential questions about the nature of love and rivalry. How do
 - Can humor coexist with darker themes without undermining the emotional stakes?  
 - What does *Vacation Wars* suggest about the nature of love born from conflict?  
 - How does Quinn’s style compare to other contemporary romance authors you’ve read?
-
-#TheOrchidRoom #enemiestolovers #darkromance #Greece #literaryanalysis

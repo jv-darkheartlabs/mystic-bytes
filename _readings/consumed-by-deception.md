@@ -7,7 +7,7 @@ dek: "Deception Trilogy 3"
 number: R804
 sort_key: 804
 date: 2026-03-29
-date_read: 2015-06-10
+date_read: 2021-06-10
 category: mafia-boss-and-innocent
 cover: /assets/readings/consumed-by-deception.jpg
 spice: 4
@@ -49,5 +49,3 @@ While *Consumed By Deception* wraps up the trilogy's overarching narrative, it l
 - In what ways does the blending of genres (mafia, romance, thriller) affect the reader's engagement with the story?  
 - How effectively does Kent balance the romantic and violent elements without compromising either?  
 - What lingering questions about love and deception remain unanswered, and how do they affect your perception of the characters?
-
-#TheOrchidRoom #mafiaromance #darkromance #deceptiontrilogy #literaryanalysis

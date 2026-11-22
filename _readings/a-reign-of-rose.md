@@ -45,5 +45,3 @@ The novel’s blend of romance and fantasy raises several polarizing questions t
 - Are the characters' motivations believable given their circumstances?  
 - In what ways does the ending fulfill or frustrate expectations set throughout the book?  
 - Can this novel appeal to those outside the fantasy-romance niche, or does it remain too insular?  
-
-#TheOrchidRoom #fantasyromance #darkromance #sacredstones #roses

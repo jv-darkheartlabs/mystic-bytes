@@ -47,5 +47,3 @@ The novel's polarizing elements—its exploration of dark themes and morally amb
 - What role does the supernatural play in shaping the characters' relationships?  
 - Can we celebrate the characters' journey towards love, or does the darkness overshadow their growth?  
 - What unresolved questions linger about the nature of love and power in the context of the story?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

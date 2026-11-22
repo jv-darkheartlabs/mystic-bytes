@@ -23,7 +23,6 @@ tags:
   - loneliness
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The interplay of horror and humanity in *I Am Legend* raises provocative questio
 - Can Neville’s evolution be seen as a form of redemption, or is it a descent into madness?  
 - What role does the setting play in amplifying the themes of fear and survival?  
 - How does the novel's ending alter our perception of Neville's journey?
-
-#TheOrchidRoom #gothic #horrorromance #vampires #darkheartlabs

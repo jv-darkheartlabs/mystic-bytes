@@ -7,7 +7,7 @@ dek: "Till death do us part"
 number: R147
 sort_key: 147
 date: 2026-01-16
-date_read: 2018-06-10
+date_read: 2023-06-10
 category: forbidden-love
 cover: /assets/readings/the-oath-we-give.jpg
 spice: 4
@@ -44,5 +44,3 @@ However, the pacing occasionally falters; certain sections linger too long on in
 - Are the ethical implications surrounding the characters' choices sufficiently addressed within the narrative?  
 - In what ways does the setting contribute to the overall mood and themes?  
 - How do you interpret the ending — is it satisfying or frustrating?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

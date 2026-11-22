@@ -48,5 +48,3 @@ While *Carnage* offers a gripping exploration of love entwined with revenge, its
 - In what ways do the characters' flaws contribute to or detract from the overall message of the book?  
 - Can the reliance on genre tropes be justified in *Carnage*, or does it hinder the story's originality?  
 - How does Tessier's depiction of vengeance resonate with contemporary societal themes, and does it feel relevant or excessive?
-
-#TheOrchidRoom #darkromance #enemiestolovers #revenge #literaryanalysis

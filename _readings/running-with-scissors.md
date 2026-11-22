@@ -21,7 +21,6 @@ tags:
   - coming of age
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Burroughs’ work evokes a unique tension between laughter and horror, challengi
 - In what ways does the fragmented narrative structure enhance or detract from the memoir's emotional impact?
 - Are the characters sufficiently complex, or do they serve more as symbols of dysfunction than as real individuals?
 - How does this memoir compare to other dark thrillers in its treatment of family dynamics and mental illness?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #memoir #darkhumor

@@ -25,7 +25,6 @@ tags:
   - American culture
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -52,5 +51,3 @@ Thematically, Gaiman succeeds in examining the tension between the old gods and 
 - Do you find the ending satisfying, or does it leave too many threads unresolved?  
 - How does Gaiman’s writing style enhance or detract from the emotional impact of the story?  
 - What role does the setting play in shaping the narrative, and how does it contribute to the themes of the book?  
-
-#TheOrchidRoom #fantasyromance #darkromance #mythology #literaryanalysis

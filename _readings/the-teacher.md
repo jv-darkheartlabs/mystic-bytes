@@ -7,7 +7,7 @@ dek: "It's a lesson she'll never forget."
 number: R384
 sort_key: 384
 date: 2026-02-11
-date_read: 2009-09-19
+date_read: 2024-09-19
 category: mystery-crime
 cover: /assets/readings/the-teacher.jpg
 content_warnings:

@@ -54,5 +54,3 @@ Ellis's exploration of obsession raises provocative questions about the nature o
 - In what ways does *Own to Obsess* challenge or reinforce common tropes within the omegaverse genre?  
 - What are the implications of power dynamics in relationships as depicted in the book?  
 - How does Ellis balance erotic tension with ethical considerations in her characters’ relationships?  
-
-#TheOrchidRoom #stalker #obsession #darkromance #omegaverse

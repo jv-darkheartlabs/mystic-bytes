@@ -6,7 +6,7 @@ dek: ""
 number: R544
 sort_key: 544
 date: 2026-02-28
-date_read: 2019-07-13
+date_read: 2024-07-13
 category: fantasy-romance
 cover: /assets/readings/song-of-the-abyss.jpg
 spice: 4
@@ -49,5 +49,3 @@ However, the book's embrace of themes like dubcon and forced proximity can polar
 - Are Hamm's depictions of violence and dubcon necessary for the story's emotional depth, or do they serve as gratuitous elements?  
 - How does Hamm's portrayal of dual perspectives enhance or detract from the reader's connection to the characters?  
 - What does the ending suggest about the nature of love and monstrosity in our own world?
-
-#TheOrchidRoom #fantasyromance #darkromance #merman #literaryanalysis

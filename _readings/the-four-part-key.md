@@ -7,7 +7,7 @@ dek: "The Aldoran Chronicles — Book Three"
 number: R581
 sort_key: 581
 date: 2026-03-05
-date_read: 2020-08-16
+date_read: 2021-08-16
 category: fantasy-romance
 cover: /assets/readings/the-four-part-key.jpg
 spice: 3
@@ -46,5 +46,3 @@ The complexities and contradictions within *The Four-Part Key* are ripe for disc
 - Does the pacing enhance or detract from the emotional stakes, particularly in the lead-up to the climax?  
 - How do you interpret the ending, and do you feel it resolves the central conflicts satisfactorily?  
 - What role does the setting play in shaping the characters’ journeys, and does it serve as a character in its own right?
-
-#TheOrchidRoom #fantasyromance #darkromance #aldoranchronicles #literaryanalysis

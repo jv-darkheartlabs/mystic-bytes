@@ -6,7 +6,7 @@ dek: "...lead us not into temptation..."
 number: R1264
 sort_key: 1264
 date: 2026-05-18
-date_read: 2019-07-13
+date_read: 2021-07-13
 category: forbidden-love
 cover: /assets/readings/saint.jpg
 spice: 5
@@ -49,5 +49,3 @@ The themes of **Saint** present fertile ground for debate, particularly around t
 - Can a love story that centers on forbidden desire truly offer redemption, or does it inherently undermine the possibility?
 - In what ways do you see the novel’s themes reflecting contemporary societal conflicts regarding faith and sexuality?
 - How does the dual POV enhance or detract from the reader's understanding of the characters' struggles?
-
-#TheOrchidRoom #forbiddenlove #darkromance #priestseries #literaryanalysis

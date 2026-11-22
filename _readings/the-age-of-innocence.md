@@ -22,7 +22,6 @@ tags:
   - New York
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The polarities within *The Age of Innocence* ignite compelling debates about the
   - What does the ending suggest about the possibility of true freedom in love?  
   - How do Wharton’s depictions of class disparity influence our understanding of the characters’ choices?  
   - In what ways does the novel challenge or conform to traditional romantic tropes?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #historical #society

@@ -12,12 +12,12 @@ tags: [ai, craft]
 hashnode: true
 cross_link: prompt-engineering-is-just-writing
 brief:
-  system: Cursor and batch LLM jobs for mystic-bytes blurbs and code scaffolds
+  system: Claude and batch LLM jobs for mystic-bytes blurbs and code scaffolds
   issue: fluent interchangeable output until constraints, audience, and examples were explicit
   constraint: spot-check review budget; distinct from ChatGPT-as-product and the writing-analogy micro
 ---
 
-Prompting is structured writing with a fast feedback loop. It fails the same way a vague email to a colleague fails. [Prompt Engineering Is Just Writing](/p/prompt-engineering-is-just-writing/) is the analogy in one breath. A different essay treats ChatGPT as a consumer product with a subscription ladder. This one is the operational brief: how I encode intent so a batch job, or a Cursor agent, cannot fill the silence with a default personality.
+Prompting is structured writing with a fast feedback loop. It fails the same way a vague email to a colleague fails. [Prompt Engineering Is Just Writing](/p/prompt-engineering-is-just-writing/) is the analogy in one breath. A different essay treats ChatGPT as a consumer product with a subscription ladder. This one is the operational brief: how I encode intent so a batch job, or an agent, cannot fill the silence with a default personality.
 
 ## Thesis
 
@@ -29,7 +29,7 @@ I ran a batch job for mystic-bytes blurbs and watched the first fifty rows arriv
 
 The same pattern shows up in codegen. "Add validation" yields a regex from a tutorial the weights loved. A typed discriminated union with named edge cases yields something I can merge after I read it.
 
-I write these prompts from Auckland in 2026, in Cursor, on Fedora, with mystic-bytes as the repo in the loop. I do not treat the chat window as a mind. I treat it as a fast intern with amnesia. If I omit the house style, I inherit generic helpfulness. Stochastic parrots are fluent. They are not grounded unless you demand grounding.[^1]
+I write these prompts from Louisiana in 2026, on Fedora, with mystic-bytes as the repo in the loop. I do not treat the chat window as a mind. I treat it as a fast intern with amnesia. If I omit the house style, I inherit generic helpfulness. Stochastic parrots are fluent. They are not grounded unless you demand grounding.[^1]
 
 ## Mechanism
 
@@ -59,7 +59,7 @@ A single packed prompt suits a bounded task: one function, one blurb schema, one
 
 Temperature is a dial, not a personality. Lower for extraction and codegen. Higher for brainstorming titles I will throw away. Matching the dial to the task is cheaper than arguing with a creative validator.
 
-Templates versus one-offs: if I will run it weekly, the prompt belongs in the repo next to the job. If I will run it once, a Cursor chat is fine. Most under-investment is on the weekly side. mystic-bytes cover copy that I regenerate should not live only in a thread I will lose after the move.
+Templates versus one-offs: if I will run it weekly, the prompt belongs in the repo next to the job. If I will run it once, a model chat is fine. Most under-investment is on the weekly side. mystic-bytes cover copy that I regenerate should not live only in a thread I will lose after the move.
 
 More context is not always more intent. Dumping the whole repo into a chat can dilute the instruction. I attach the schema and one example before I attach "the rest of writing."
 

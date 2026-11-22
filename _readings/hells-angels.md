@@ -22,7 +22,6 @@ tags:
   - rebellion
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Thompson's work evokes strong reactions, as it challenges readers to confront th
 - In what ways does **Hell's Angels** reflect the broader themes of the 1960s counterculture movement?  
 - Does the book's structure enhance or hinder its message about freedom and violence?  
 - What unresolved questions about the nature of rebellion arise from Thompson's narrative?
-
-#LiteraryAnalysis #darkthriller #counterculture #motorcycleclub #theorchidroom

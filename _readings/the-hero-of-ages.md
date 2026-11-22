@@ -46,5 +46,3 @@ The juxtaposition of heroism against the backdrop of dark romanticism raises sev
 - How effectively does Sanderson balance romantic elements with the epic fantasy narrative?
 - In what ways does the book challenge traditional notions of heroism?
 - Are the emotional intensities presented a strength of the narrative, or do they risk alienating readers?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

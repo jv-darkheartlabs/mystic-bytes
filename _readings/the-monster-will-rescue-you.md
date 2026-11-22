@@ -47,5 +47,3 @@ The intersection of horror and romance is a fraught yet fascinating terrain, and
 - Is the ending satisfying in its ambiguity, or does it feel like an incomplete resolution?  
 - How does the theme of obsession reflect contemporary societal attitudes towards love and desire?  
 - What role do you think the setting plays in framing the characters' emotional journeys?
-
-#TheOrchidRoom #gothic #horrorromance #darkfantasy #literaryanalysis

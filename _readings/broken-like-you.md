@@ -6,7 +6,7 @@ dek: "A Suspenseful Romance"
 number: R797
 sort_key: 797
 date: 2026-03-28
-date_read: 2020-08-16
+date_read: 2022-08-16
 category: gothic-horror-romance
 cover: /assets/readings/broken-like-you.jpg
 spice: 4
@@ -48,5 +48,3 @@ Thematically, the exploration of trauma and the cyclical nature of broken relati
 - Can love and trauma coexist in a healthy way, as suggested by the narrative?  
 - How do the characters’ interactions reflect broader societal views on vulnerability and intimacy?  
 - Does the somewhat resolved ending undermine the complexity of the themes explored, or does it offer a necessary catharsis?
-
-#TheOrchidRoom #gothic #horrorromance #suspense #darkheartlabs

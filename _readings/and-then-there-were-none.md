@@ -22,7 +22,6 @@ tags:
   - whodunit
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,4 +46,3 @@ The novel's exploration of guilt and retribution invites diverse interpretations
 - How might the novel differ if written from a contemporary perspective, especially regarding its treatment of justice and morality?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #mystery #theorchidroom

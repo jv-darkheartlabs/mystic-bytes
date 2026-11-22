@@ -11,6 +11,7 @@ redirect_from:
 number: 910.10
 sort_key: 0910.10
 cover: /assets/images/cover-archive.svg
+thread: letters
 ---
 
 A hiring manager asked where I would be during overlap, not which countries I had collected. I had a map. They wanted a sentence. The portfolio that travels is evidence you can work async from a moving room. Stamps do not ship software.

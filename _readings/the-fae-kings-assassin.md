@@ -49,5 +49,3 @@ The interplay of magic, politics, and romance invites a rich tapestry of discuss
 - How does Klapheke’s world-building compare to other fantasy-romance authors?  
 - Is the forced proximity trope effectively utilized, or does it feel contrived?  
 - What themes remained unexamined that could have enriched the narrative?
-
-#TheOrchidRoom #fantasyromance #darkromance #fae #assassin

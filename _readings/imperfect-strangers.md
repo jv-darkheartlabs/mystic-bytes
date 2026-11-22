@@ -39,5 +39,3 @@ The interplay of animosity and attraction raises compelling questions about the 
 - In what ways does the enemies-to-lovers trope resonate with your own experiences or observations?  
 - Do you see any potential pitfalls in the portrayal of conflict as a means to romantic connection?  
 - How does Frame's treatment of vulnerability compare to other authors within the genre?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

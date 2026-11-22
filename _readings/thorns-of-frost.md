@@ -6,7 +6,7 @@ dek: "Of Snow & Ice — Book 2"
 number: R1469
 sort_key: 1469
 date: 2026-06-09
-date_read: 2020-05-07
+date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/thorns-of-frost.jpg
 spice: 3
@@ -49,5 +49,3 @@ Character development is a strong point, especially as the protagonist grapples 
 - Are the characters’ decisions justified within the context of their development, or do they feel contrived to steer the plot?  
 - How does the setting influence the emotional tone of the story, and do you find it compelling or distracting?  
 - What unresolved tensions linger after the conclusion, and how do they affect your overall impression of the book?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

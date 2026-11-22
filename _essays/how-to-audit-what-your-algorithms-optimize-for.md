@@ -25,7 +25,7 @@ People talk about algorithms as weather. A recommendation engine, a feed ranker,
 
 On catalog and feed products, "the algorithm" becomes a shield: impersonal, inevitable, above debate. That story lasts until someone maps metric to behavior to a harmed user. A sort keyed to click-through rate will elevate sensational titles. Not because the model is evil. Because CTR is a loud proxy for curiosity and a quiet proxy for regret.
 
-mystic-bytes looks too small for this lecture. It still has an objective. Essays have `sort_key` and `number` and dates. The writing index can pretend to be chronological, or editorial, or "whatever Cursor last touched." Those are different products. Auckland 2026, writing from Tāmaki Makaurau, I care whether the homepage is a timeline of craft or a slot machine for whichever title a model thought would perform. I am the ranker. Pretending otherwise is how a personal site inherits engagement logic from platforms I claim to distrust.
+mystic-bytes looks too small for this lecture. It still has an objective. Essays have `sort_key` and `number` and dates. The writing index can pretend to be chronological, or editorial, or "whatever the model last touched." Those are different products. Louisiana 2026, writing from Louisiana, I care whether the homepage is a timeline of craft or a slot machine for whichever title a model thought would perform. I am the ranker. Pretending otherwise is how a personal site inherits engagement logic from platforms I claim to distrust.
 
 Cathy O'Neil's point still holds at this scale: a scoring system encodes values, and opacity is part of how those values avoid argument.[^1] You do not need a neural net. You need a sort and a story that the sort is natural.
 
@@ -49,7 +49,7 @@ Automation versus override: scale wants a script; justice and taste want a human
 
 Accuracy versus the asked question. A model can be accurate at predicting clicks and still be the wrong product. Do not celebrate the ROC curve until you like the sentence the metric implies.
 
-Proxies rot. Page views were a proxy for interest. They became a proxy for outrage and thumb-stopping. Re-audit yearly, or after a move, or after you add a new surface. Auckland readers and US readers are not the same traffic shape. A global CTR will hide that.
+Proxies rot. Page views were a proxy for interest. They became a proxy for outrage and thumb-stopping. Re-audit yearly, or after a move, or after you add a new surface. Louisiana readers and other US readers are not the same traffic shape. A global CTR will hide that.
 
 ## Close
 

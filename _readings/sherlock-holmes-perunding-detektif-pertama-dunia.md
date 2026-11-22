@@ -19,7 +19,6 @@ tags:
   - classic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ This book is ripe for discussion, particularly around its darker themes and the 
   - Are the gothic elements effectively integrated, or do they feel like an overlay on a traditional narrative?  
   - What does the resolution reveal about the nature of truth and its implications for the characters?  
   - How does this work compare to contemporary dark thrillers in terms of character complexity and thematic depth?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #detective #theorchidroom

@@ -22,7 +22,6 @@ tags:
   - identity
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,4 +48,3 @@ The complexities of *I Know Why the Caged Bird Sings* can ignite passionate disc
 - How does this memoir compare to other autobiographies addressing similar themes of adversity?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #comingofage #identity #theorchidroom

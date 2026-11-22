@@ -49,5 +49,3 @@ The exploration of morality and the boundaries of desire in *Tears of Tess* is c
 - In what ways does the author challenge societal norms around consent and desire, and is this effective?  
 - Are there limits to the themes of abuse that should not be crossed in literature?  
 - How does this book compare to other dark romances you’ve engaged with in terms of emotional impact?
-
-#TheOrchidRoom #TearsOfTess #darkromance #psychological #literaryanalysis

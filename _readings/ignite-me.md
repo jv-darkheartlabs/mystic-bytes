@@ -45,5 +45,3 @@ However, some moments feel rushed, particularly in the romantic developments, wh
 - Are the romantic developments in *Ignite Me* satisfying, or do they detract from Juliette's journey of self-discovery?  
 - How do the themes of power and control resonate with contemporary societal issues?  
 - What unresolved questions remain about the world Mafi has built and its implications?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #ignite

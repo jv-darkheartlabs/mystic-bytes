@@ -18,7 +18,6 @@ tags:
   - reference
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,4 +44,3 @@ The book's exploration of writing as a dark, transformative act invites polarizi
 - How can we reconcile the act of writing with the darker aspects of human psychology?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #writing #theorchidroom #darkheartlabs

@@ -6,7 +6,7 @@ dek: "Inferno Rising"
 number: R1404
 sort_key: 1404
 date: 2026-06-02
-date_read: 2015-03-01
+date_read: 2019-03-01
 category: fantasy-romance
 cover: /assets/readings/the-rogue-king.jpg
 spice: 4
@@ -51,5 +51,3 @@ The interplay of fate versus choice in *The Rogue King* presents a rich ground f
 - In what ways does the novel challenge traditional fantasy norms, and does it succeed?  
 - Can the pacing issues in the middle chapters be justified by the overall thematic depth?  
 - What does the portrayal of violence say about love and loyalty in the context of power dynamics?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #dragonromance

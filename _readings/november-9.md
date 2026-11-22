@@ -48,5 +48,3 @@ This novel's interplay of forbidden love and emotional manipulation presents a r
 - In what ways do you think Hoover handles the themes of trauma and recovery?  
 - Is the ending a true resolution or merely a reflection of unresolved issues?  
 - How do you feel about the portrayal of secrets in romantic relationships?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #contemporaryromance #literaryanalysis

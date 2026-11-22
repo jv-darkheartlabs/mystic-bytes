@@ -6,7 +6,7 @@ dek: ""
 number: R534
 sort_key: 534
 date: 2026-02-27
-date_read: 2021-06-10
+date_read: 2022-06-10
 category: fantasy-romance
 cover: /assets/readings/book-of-night.jpg
 spice: 2
@@ -50,5 +50,3 @@ However, the pacing occasionally falters; moments of introspection can slow the 
 - Are the darker elements of the narrative too prevalent, or do they enhance the story's emotional depth?  
 - How does the book's non-linear structure affect your understanding of the characters and their motivations?  
 - Do you find the ending aligns with the book's themes, or does it leave too many questions unanswered?  
-
-#TheOrchidRoom #fantasyromance #darkromance #hollyblack #literaryanalysis

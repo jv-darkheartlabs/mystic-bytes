@@ -7,7 +7,7 @@ dek: ""
 number: R937
 sort_key: 937
 date: 2026-04-13
-date_read: 2016-04-04
+date_read: 2019-04-04
 category: fantasy-romance
 cover: /assets/readings/defy-me.jpg
 spice: 3
@@ -47,5 +47,3 @@ As for the resolution, the ending feels both earned and provocative, encapsulati
 - Do you find the dual perspective enriching or distracting?  
 - How effective is Mafi’s use of lyrical prose in conveying emotional depth?  
 - What unresolved themes or character arcs left you wanting more?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #TaherehMafi

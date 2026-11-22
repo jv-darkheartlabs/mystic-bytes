@@ -51,5 +51,3 @@ The provocative themes of **Obsession** are sure to ignite discussions on the na
 - In what ways does the dual perspective enhance or detract from the reader's understanding of obsession?  
 - Is the ending of **Obsession** satisfying, or does it leave too many questions unanswered?  
 - How does **Obsession** compare to other works in the dark romance genre regarding its treatment of psychological themes?
-
-#TheOrchidRoom #Obsession #DarkRomance #LiteraryAnalysis #ShantelTessier

@@ -6,7 +6,7 @@ dek: "a novel"
 number: R853
 sort_key: 853
 date: 2026-04-04
-date_read: 2016-10-22
+date_read: 2020-10-22
 category: enemies-to-lovers
 cover: /assets/readings/tools-of-engagement.jpg
 spice: 4
@@ -38,5 +38,3 @@ Bailey's narrative ignites polarizing views on the balance between humor and emo
 - Are the renovation elements merely a backdrop, or do they serve a more significant thematic purpose in the characters’ journeys?  
 - What role does the city setting play in shaping the characters and their conflicts?  
 - How does this novel compare to other works within the enemies-to-lovers trope?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

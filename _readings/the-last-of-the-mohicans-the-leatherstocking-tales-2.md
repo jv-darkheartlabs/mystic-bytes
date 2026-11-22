@@ -21,7 +21,6 @@ tags:
   - classic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ While Cooper’s work is celebrated for its historical significance and rich des
 - Does the book's pacing enhance or detract from the emotional stakes?  
 - How do the themes of loyalty and sacrifice resonate with modern audiences, and do they hold relevance today?  
 - Can Cooper’s work still be appreciated today, or does it require contextualization that overshadows its literary merit?  
-
-#TheOrchidRoom #gothic #horrorromance #historical #literaryanalysis

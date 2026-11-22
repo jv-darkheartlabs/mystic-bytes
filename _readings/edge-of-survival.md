@@ -7,7 +7,7 @@ dek: "Edge of Collapse Series — Book Six"
 number: R366
 sort_key: 366
 date: 2026-02-09
-date_read: 2011-09-19
+date_read: 2021-09-19
 category: sff
 cover: /assets/readings/edge-of-survival.jpg
 content_warnings:
@@ -46,5 +46,3 @@ The thematic exploration of morality under pressure is compelling, yet the resol
 - How effectively does the character development challenge or reinforce genre tropes?
 - In what ways do the themes of trauma and morality resonate with contemporary societal issues?
 - Is the ending an authentic reflection of the journey, or does it undermine the story's darker themes?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

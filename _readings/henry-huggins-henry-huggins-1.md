@@ -18,7 +18,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Thematically, Cleary succeeds in portraying friendship and the challenges of gro
 - Does the episodic structure enhance or detract from the narrative’s overall impact?  
 - How does *Henry Huggins* compare with other classic children's literature in its portrayal of adventure and friendship?  
 - Can we consider Cleary's work as a precursor to contemporary children's literature that tackles darker themes?
-
-#LiteraryAnalysis #children'sliterature #friendship #adventure #theorchidroom

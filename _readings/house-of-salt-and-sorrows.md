@@ -7,7 +7,7 @@ dek: "The New York Times Bestseller"
 number: R1274
 sort_key: 1274
 date: 2026-05-19
-date_read: 2017-08-16
+date_read: 2019-08-16
 category: gothic-horror-romance
 cover: /assets/readings/house-of-salt-and-sorrows.jpg
 spice: 1
@@ -47,5 +47,3 @@ The ending, which fuses revelation with a sense of lingering dread, feels earned
 - How do we interpret the ending? Is it hopeful or ultimately tragic?  
 - Which characters resonated most deeply with you, and why?  
 - Does the blend of horror and romance enhance or detract from the story's emotional impact?  
-
-#TheOrchidRoom #gothic #horrorromance #retelling #literaryanalysis

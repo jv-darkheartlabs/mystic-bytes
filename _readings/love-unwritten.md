@@ -7,7 +7,7 @@ dek: "Lakefront Billionaires"
 number: R328
 sort_key: 328
 date: 2026-02-05
-date_read: 2019-07-13
+date_read: 2024-07-13
 category: dark-billionaire
 cover: /assets/readings/love-unwritten.jpg
 spice: 3
@@ -44,5 +44,3 @@ The duality of *Love Unwritten*—its ability to both thrill and unsettle—invi
 - Can the billionaire trope be redeemed through emotional depth, or does it inherently glorify problematic dynamics?  
 - How do you interpret the balance between desire and danger in the narrative?  
 - What elements of the prose do you think contributed to the emotional impact of the story?  
-
-#TheOrchidRoom #darkbillionaire #darkromance #literaryanalysis #LoveUnwritten

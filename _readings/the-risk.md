@@ -45,5 +45,3 @@ The thematic exploration of ambition versus romantic entanglement is compelling;
 - Do you find the resolution to be a fitting culmination of the characters’ journeys, or does it feel overly convenient?  
 - How does Kennedy’s portrayal of consent and desire contribute to the narrative's tension?  
 - What role do you think the sports setting plays in framing modern relationships?
-
-#TheOrchidRoom #enemiestolovers #darkromance #hockeyromance #forbiddenlove

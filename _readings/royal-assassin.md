@@ -47,5 +47,3 @@ Hobb’s **Royal Assassin** evokes strong reactions, particularly regarding the 
 - In what ways does Fitz's character resonate with contemporary notions of masculinity in literature?  
 - How does Hobb's portrayal of female characters compare to those in other fantasy works?  
 - Is the ending satisfying or does it leave too many threads unresolved?
-
-#TheOrchidRoom #fantasyromance #darkromance #royal #assassin

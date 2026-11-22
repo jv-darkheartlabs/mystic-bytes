@@ -6,7 +6,7 @@ dek: "a novel"
 number: R734
 sort_key: 734
 date: 2026-03-21
-date_read: 2017-08-16
+date_read: 2023-08-16
 category: forbidden-love
 cover: /assets/readings/meet-me-at-the-lake.jpg
 spice: 3
@@ -47,5 +47,3 @@ Fortune's exploration of grief and love presents polarities that can ignite rich
 - What are the implications of love that arises from shared trauma?  
 - How do we perceive the idea of 'forbidden love' in contemporary contexts?  
 - Can grief ever truly be reconciled within a new relationship, or does it always linger?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #secondchance #literaryanalysis

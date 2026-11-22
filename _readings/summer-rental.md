@@ -6,7 +6,7 @@ dek: "A Thriller"
 number: R425
 sort_key: 425
 date: 2026-02-15
-date_read: 2010-05-07
+date_read: 2023-05-07
 category: literary-fiction
 cover: /assets/readings/summer-rental.jpg
 content_warnings:
@@ -42,5 +42,3 @@ The interplay between trust and betrayal in **Summer Rental** raises significant
 - How do we interpret the characters' moral ambiguities, and do they resonate with real-world complexities?  
 - In what ways does the beach setting amplify the psychological tension?  
 - Does the rushed ending diminish the overall thematic weight, or does it leave one wanting more?  
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

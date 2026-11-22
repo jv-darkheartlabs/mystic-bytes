@@ -22,7 +22,6 @@ tags:
   - journalism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The structure of *Fear and Loathing* mirrors the manic disarray of its protagoni
 - Is the depiction of substance abuse glorified or critiqued through the lens of the characters' experiences?  
 - What implications does the novel's ending suggest about the pursuit of the American Dream?  
 - Can Thompson's work be considered a true reflection of counterculture, or is it too entrenched in its own excesses?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #darkheartlabs

@@ -45,5 +45,3 @@ The novel's exploration of love within the constraints of trauma and duty create
 - Can the depiction of grief in romance be considered a form of healing, or does it risk romanticizing trauma?  
 - What are the implications of the ending for the characters’ futures—does it suggest hope or further entrapment?  
 - How do Yarros' characterizations challenge or conform to traditional military romance tropes?
-
-#TheOrchidRoom #militaryromance #darkromance #literaryanalysis #darkheartlabs

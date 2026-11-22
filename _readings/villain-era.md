@@ -49,5 +49,3 @@ The prose is lush and evocative, expertly weaving imagery that conjures both bea
 - Does the portrayal of violence in the narrative serve a purpose, or does it risk glorifying harmful behavior?
 - How do the themes of power imbalance resonate with contemporary social contexts?
 - What role does the setting play in shaping character motivations and desires throughout the story?
-
-#TheOrchidRoom #mafiaromance #darkromance #villain #literaryanalysis

@@ -45,5 +45,3 @@ The juxtaposition of desire and revenge creates a fertile ground for polarizing 
 - What role does the setting play in amplifying the gothic elements of the story?  
 - Can a romance built on revenge ever be seen as healthy or justified?  
 - How does this book compare to other works in the bully-romance genre, and what unique contributions does it offer?
-
-#TheOrchidRoom #bullyromance #darkromance #emotionalintensity #literaryanalysis

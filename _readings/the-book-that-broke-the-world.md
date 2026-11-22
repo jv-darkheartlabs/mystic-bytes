@@ -7,7 +7,7 @@ dek: ""
 number: R1202
 sort_key: 1202
 date: 2026-05-11
-date_read: 2017-08-16
+date_read: 2024-08-16
 category: fantasy-romance
 cover: /assets/readings/the-book-that-broke-the-world.jpg
 spice: 1
@@ -44,5 +44,3 @@ The interplay between love and darkness is a rich terrain for debate, particular
 - Did the ending feel satisfying or abrupt, and why?
 - What role do societal structures play in shaping the characters' desires and decisions?
 - Can this book be appreciated solely as a fantasy, or do you believe its romantic elements are essential to its success?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

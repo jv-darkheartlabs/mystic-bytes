@@ -7,7 +7,7 @@ dek: ""
 number: R1327
 sort_key: 1327
 date: 2026-05-24
-date_read: 2022-07-13
+date_read: 2024-07-13
 category: vampire-paranormal
 cover: /assets/readings/bride.jpg
 spice: 4
@@ -49,5 +49,3 @@ The interplay of autonomy and desire in *Bride* presents rich ground for debate.
 - Are the violent elements justified within the context of the story, or do they overshadow the romance?  
 - In what ways does Hazelwood succeed or falter in elevating traditional vampire lore?  
 - How does the ending reflect the themes of autonomy and choice?  
-
-#TheOrchidRoom #Bride #AliHazelwood #darkromance #literaryanalysis

@@ -6,7 +6,7 @@ dek: ""
 number: R1799
 sort_key: 1799
 date: 2026-07-09
-date_read: 2014-11-25
+date_read: 2017-11-25
 category: mystery-crime
 cover: /assets/readings/behind-her-eyes.jpg
 content_warnings:
@@ -23,7 +23,6 @@ tags:
   - mystery
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,4 +49,3 @@ Pinborough's *Behind Her Eyes* invites heated debates about manipulation and tru
 - How do we define the line between psychological thriller and horror in this narrative?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #psychologicalthriller #twistending #theorchidroom

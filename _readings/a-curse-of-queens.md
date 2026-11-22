@@ -46,5 +46,3 @@ This novel invites discussion on the balance between romance and political intri
 - Are the character arcs satisfying and well-developed, or do they feel rushed and incomplete?  
 - How does Bouchet’s portrayal of magic serve as a metaphor for power dynamics in relationships?  
 - What lingering questions do you have about the world-building and its implications for future narratives?
-
-#TheOrchidRoom #fantasyromance #darkromance #kingmakerchronicles #literaryanalysis

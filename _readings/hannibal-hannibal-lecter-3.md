@@ -22,7 +22,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,4 +46,3 @@ Harris's portrayal of love entwined with violence raises significant questions a
 - How do the mature themes influence your interpretation of the characters’ motivations?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #psychologicalthriller #HannibalLecter #TheOrchidRoom #darkheartlabs

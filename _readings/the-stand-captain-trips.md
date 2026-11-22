@@ -23,7 +23,6 @@ tags:
   - horror
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Aguirre-Sacasa's adaptation raises significant questions about the balance betwe
 - In what ways does this adaptation succeed or fail in capturing King’s original message?  
 - How does the visual representation of violence impact your understanding of the narrative?  
 - What role does nostalgia play in your reception of this adaptation?
-
-#LiteraryAnalysis #darkthriller #StephenKing #graphicnovel #TheOrchidRoom

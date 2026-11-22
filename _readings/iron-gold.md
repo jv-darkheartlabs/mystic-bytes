@@ -7,7 +7,7 @@ dek: "Red Rising Saga Book Four"
 number: R482
 sort_key: 482
 date: 2026-02-22
-date_read: 2017-08-16
+date_read: 2018-08-16
 category: fantasy-romance
 cover: /assets/readings/iron-gold.jpg
 spice: 4
@@ -47,5 +47,3 @@ Ultimately, the ending is both earned and surprising, leaving readers poised on 
 - In what ways do the themes of loyalty challenge traditional fantasy romance tropes? 
 - Which character's journey resonated with you the most, and why? 
 - How does *Iron Gold* redefine the concept of 'hero' and 'villain' within its narrative?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #iron #gold

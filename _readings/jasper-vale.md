@@ -49,5 +49,3 @@ Perry's *Jasper Vale* presents a tantalizing mix of heat and emotional depth, bu
 - What elements of their past do you feel should have been addressed more deeply?
 - How do you perceive the dual perspectives in shaping the narrative tension?
 - Does the novel’s resolution genuinely reflect the complexity of the characters’ struggles, or does it wrap things up too neatly?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #DevneyPerry

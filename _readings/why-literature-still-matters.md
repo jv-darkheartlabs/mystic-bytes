@@ -6,7 +6,7 @@ dek: ""
 number: R1854
 sort_key: 1854
 date: 2026-07-14
-date_read: 2009-03-01
+date_read: 2024-03-01
 category: memoir-nonfiction
 cover: /assets/readings/why-literature-still-matters.jpg
 content_warnings:
@@ -18,7 +18,6 @@ tags:
   - philosophy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -41,5 +40,3 @@ Baxter's exploration of literature's relevance prompts polarizing debates about 
 - What role does personal interpretation play in our understanding of a text's significance?  
 - Is there a danger in elevating literature to an idealized status?  
 - How might Baxter's arguments shift in light of current literary trends?
-
-#LiteraryAnalysis #darkthriller #importanceofliterature #literaryanalysis #theorchidroom

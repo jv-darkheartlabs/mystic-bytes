@@ -7,7 +7,7 @@ dek: "A Lady of Darkness Novel"
 number: R1157
 sort_key: 1157
 date: 2026-05-06
-date_read: 2020-08-16
+date_read: 2022-08-16
 category: fantasy-romance
 cover: /assets/readings/lady-of-ashes.jpg
 spice: 3
@@ -44,5 +44,3 @@ Characterization shines through the protagonist's evolution; she grapples with h
 - Are the protagonist's conflicts relatable beyond the fantasy setting, and how do they reflect real-world issues of autonomy and power?  
 - What is your interpretation of the ending, and do you feel it resonates with the overall thematic arc?  
 - How does the portrayal of violence serve the narrative, and does it enhance or detract from the romantic elements?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #ladyofdarkness

@@ -7,7 +7,7 @@ dek: ""
 number: R985
 sort_key: 985
 date: 2026-04-18
-date_read: 2016-07-13
+date_read: 2024-07-13
 category: fantasy-romance
 cover: /assets/readings/the-prisoners-throne.jpg
 spice: 3
@@ -45,5 +45,3 @@ The tension between love and freedom creates polarizing viewpoints, provoking a 
 - Do you find the ending satisfying, or does it leave too many questions unanswered?  
 - How does Black's portrayal of emotional intensity influence your engagement with the story?  
 - What aspects of the world-building felt fresh or clichéd to you, and how did that affect your reading experience?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #romantasy

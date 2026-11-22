@@ -42,5 +42,3 @@ This novel raises compelling tensions around the nature of love and consent, inv
 - What does *The Dare* suggest about the nature of desire—does it liberate or imprison its characters?
 - How effective is the use of a nonlinear timeline in deepening the emotional impact of the story?
 - In what ways does Laroux's portrayal challenge or conform to typical dark romance tropes?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

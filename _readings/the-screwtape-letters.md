@@ -23,7 +23,6 @@ tags:
   - morality
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ The juxtaposition of morality and manipulation in *The Screwtape Letters* presen
 - What role does humor play in the exploration of dark themes, and does it serve to diminish or deepen their gravity?  
 - Can Screwtape’s insights be applied to personal experiences of temptation and doubt, or are they too abstract?  
 - How does this text compare to other works in the gothic genre that explore similar themes?
-
-#TheOrchidRoom #gothic #horrorromance #philosophy #literaryanalysis

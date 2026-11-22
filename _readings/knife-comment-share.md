@@ -6,7 +6,7 @@ dek: ""
 number: R1111
 sort_key: 1111
 date: 2026-05-02
-date_read: 2006-07-13
+date_read: 2024-07-13
 category: romantic-suspense
 cover: /assets/readings/knife-comment-share.jpg
 spice: 4

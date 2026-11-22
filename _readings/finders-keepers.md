@@ -7,7 +7,7 @@ dek: "Author of Mr. Mercedes"
 number: R373
 sort_key: 373
 date: 2026-02-10
-date_read: 2008-07-13
+date_read: 2014-07-13
 category: horror
 cover: /assets/readings/finders-keepers.jpg
 content_warnings:

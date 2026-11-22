@@ -20,7 +20,6 @@ tags:
   - literary analysis
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Thompson's insights raise intriguing questions about fidelity in adaptations and
 - How can adaptations successfully respect the source material while still innovating?
 - What is the role of the screenwriter in preserving character integrity?
 - In what ways does Thompson's personal narrative influence our understanding of the adaptation process?
-
-#LiteraryAnalysis #JaneAusten #screenplay #filmadaptation #theorchidroom

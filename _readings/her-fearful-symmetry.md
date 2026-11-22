@@ -23,7 +23,6 @@ tags:
   - haunting
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The interplay between life and death, agency and dependency raises intriguing qu
 - In what ways does the setting influence the emotional tone of the narrative?  
 - Can the spectral elements of the story be seen as a metaphor for unresolved issues in life?  
 - How do you interpret the ending—does it offer closure or reinforce the cycle of loss?  
-
-#TheOrchidRoom #gothic #horrorromance #twins #love

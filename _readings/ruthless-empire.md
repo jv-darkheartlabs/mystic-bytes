@@ -6,7 +6,7 @@ dek: "She's off limits. He has none. — Royal Elite Book 6"
 number: R024
 sort_key: 024
 date: 2026-01-04
-date_read: 2015-09-19
+date_read: 2020-09-19
 category: bully-romance
 cover: /assets/readings/ruthless-empire.jpg
 spice: 4
@@ -47,5 +47,3 @@ The novel provokes a myriad of polarizing themes that can ignite vigorous debate
 - To what extent does the ending validate or undermine earlier conflicts?  
 - Can the themes of obsession and bullying be reconciled with romantic ideals, or do they fundamentally undermine each other?  
 - What role does setting play in amplifying the emotional stakes of the narrative?  
-
-#TheOrchidRoom #RuthlessEmpire #bullyromance #darkromance #literaryanalysis

@@ -42,5 +42,3 @@ The internal and external conflicts within *Make You Mine* are bound to ignite f
 - In what ways do the supporting characters enhance or detract from the main themes?  
 - Is the ending of the novel justified in light of the characters' journeys, or does it brush over the implications of their actions?  
 - How does Reyes’s portrayal of possessiveness challenge or reinforce societal views on love and relationships?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

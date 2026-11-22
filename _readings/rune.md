@@ -47,5 +47,3 @@ While *Rune* captivates with its exploration of dark love, its ability to provok
 - Is the blend of horror and romance a successful formula, or does it risk overshadowing one aspect for the other?  
 - How does Isaly's portrayal of death imagery shape your understanding of desire in the context of the novel?  
 - What unresolved questions linger for you after the final pages?  
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #Rune

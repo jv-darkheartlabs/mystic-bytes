@@ -23,7 +23,6 @@ tags:
   - terrorism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Clancy's *Patriot Games* presents a tapestry of political themes that can provok
 - Does the book's reliance on technical detail enhance or detract from the overall reading experience?  
 - What are the implications of the moral choices faced by Ryan in the context of contemporary global politics?  
 - How do you interpret the relationship between personal agency and larger political events in the story?
-
-#LiteraryAnalysis #darkthriller #espionage #military #theorchidroom

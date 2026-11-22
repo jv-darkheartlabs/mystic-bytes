@@ -45,5 +45,3 @@ The juxtaposition of love and pain in **God of Pain** offers rich ground for deb
 - In what ways do the protagonists' backgrounds shape their actions, and are these motivations rendered convincingly?  
 - What role does the setting play in amplifying the emotional stakes, and does it feel integral to the story?  
 - How do the nonlinear storytelling and alternating perspectives affect your engagement with the characters?
-
-#TheOrchidRoom #bullyromance #darkromance #legacyofgods #literaryanalysis

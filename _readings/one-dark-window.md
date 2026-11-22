@@ -6,7 +6,7 @@ dek: ""
 number: R948
 sort_key: 948
 date: 2026-04-14
-date_read: 2015-06-10
+date_read: 2022-06-10
 category: fantasy-romance
 cover: /assets/readings/one-dark-window.jpg
 spice: 3
@@ -46,5 +46,3 @@ Gillig's work presents a tantalizing exploration of the dichotomy between love a
 - How effective is the dual perspective in deepening our understanding of the characters' motivations?  
 - Does the ending fulfill the promise of the beginning, or does it leave too many threads unresolved?  
 - What role does world-building play in shaping the emotional stakes of the romance?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

@@ -21,7 +21,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The juxtaposition of parental love against the backdrop of exploitation presents
   - In what ways does the government’s role serve as a critique of real-world authority?  
   - How does the theme of sacrifice resonate with contemporary issues of parental responsibility?  
   - What unresolved questions linger about the nature of power and its consequences?
-
-#LiteraryAnalysis #darkthriller #psychicpowers #governmentconspiracy #theorchidroom

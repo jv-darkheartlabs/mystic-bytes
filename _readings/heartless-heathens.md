@@ -6,7 +6,7 @@ dek: "A dark romance / A dark new adult"
 number: R1298
 sort_key: 1298
 date: 2026-05-21
-date_read: 2017-05-07
+date_read: 2022-05-07
 category: reverse-harem
 cover: /assets/readings/heartless-heathens.jpg
 spice: 5
@@ -49,5 +49,3 @@ However, while the thematic exploration of power within relationships is profoun
 - In what ways does the portrayal of power dynamics challenge or reinforce traditional romantic tropes?
 - How do you feel about the open-ended nature of the conclusion — does it enhance the intrigue or frustrate the reader?
 - What role does violence play in shaping desire within the narrative, and is it justified?
-
-#TheOrchidRoom #HeartlessHeathens #darkromance #reverseharem #literaryanalysis

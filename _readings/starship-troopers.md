@@ -19,7 +19,6 @@ tags:
   - war
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The tension between militarism and individual freedom forms the crux of polarizi
 - Can we separate the enjoyment of the book from its political implications?  
 - How does Heinlein's vision of the future compare to modern representations of military and governance in science fiction?  
 - What unresolved questions linger about the ethics of duty versus personal freedom in the text?  
-
-#LiteraryAnalysis #darkthriller #military #sciencefiction #theorchidroom

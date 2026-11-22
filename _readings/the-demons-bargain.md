@@ -52,5 +52,3 @@ The novel’s exploration of power dynamics and consent within relationships can
 - In what ways does the dual narrative enhance or detract from the reader's understanding of the characters' motivations?  
 - What aspects of the world-building felt fully realized, and where did it fall short?  
 - How do you feel about the use of familiar tropes — do they enrich the story or hinder its originality?
-
-#TheOrchidRoom #fantasyromance #darkromance #demon #literaryanalysis

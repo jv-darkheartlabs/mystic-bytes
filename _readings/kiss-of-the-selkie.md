@@ -6,7 +6,7 @@ dek: "Entangled with Fae — A Little Mermaid Retelling"
 number: R1418
 sort_key: 1418
 date: 2026-06-03
-date_read: 2017-08-16
+date_read: 2021-08-16
 category: fantasy-romance
 cover: /assets/readings/kiss-of-the-selkie.jpg
 spice: 3
@@ -51,5 +51,3 @@ Odette's work invites a deeper discourse on the nature of transformation and cap
 - How does the presence of fae mythology influence your perception of the characters' motivations?  
 - Do you find the ending satisfying in terms of character development and thematic resolution? If not, why?  
 - How does the book balance its darker themes with romantic elements — does it succeed or falter?
-
-#TheOrchidRoom #fantasyromance #darkromance #selkie #literaryanalysis

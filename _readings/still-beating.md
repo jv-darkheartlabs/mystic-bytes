@@ -47,5 +47,3 @@ Characterization is another of Hartmann's strengths; the development of the capt
 - How does Hartmann's writing style influence our perception of the protagonists' emotional states?  
 - In what ways does the duality of captor and captive reflect larger societal power dynamics?  
 - Can we reconcile empathy for the captor with the horror of their actions, or does it remain an irreconcilable conflict?  
-
-#TheOrchidRoom #StillBeating #DarkRomance #LiteraryAnalysis #EmotionalTrauma

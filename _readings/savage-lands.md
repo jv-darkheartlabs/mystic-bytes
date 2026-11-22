@@ -49,5 +49,3 @@ Thematic exploration shines where the author contrasts the allure of immortality
 - Are the characters' motivations relatable, or do they fall into the archetypal traps of dark romance?  
 - What role does survival play in shaping the characters' identities, and how does it resonate with contemporary societal issues?  
 - Does the ending provide a sense of closure, or does it instead reflect the ongoing struggle within the characters?
-
-#TheOrchidRoom #SavageLands #StaceyMarieBrown #DarkRomance #VampireFiction

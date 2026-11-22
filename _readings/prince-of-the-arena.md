@@ -49,5 +49,3 @@ At the heart of *Prince of the Arena* lies a provocative exploration of desire i
 - Does the dual perspective enhance or detract from the romantic tension?  
 - What does the ending suggest about the nature of sacrifice in the pursuit of love?  
 - How do the content warnings influence your reading experience and interpretation of the story?  
-
-#TheOrchidRoom #vampire #paranormal #darkromance #beastsofthebriar

@@ -26,7 +26,7 @@ mystic-bytes is a Jekyll site. The temptation to "just add" is constant: a 404 l
 
 The 404 log was the one that caught me. Paths are useful. Paths with query strings are often emails, reset tokens, internal preview keys, or search terms someone typed in a moment they did not think of as a data submission. IP-adjacent headers on a small origin make a reading session into a record of a person at a time. I wanted a carpenter's list of broken URLs. I almost built a miniature surveillance file because the default in the logging library was verbose and I had not written a purpose.
 
-Auckland 2026 adds a second clock. New Zealand's Privacy Act 2020 is principle-based: collect for a purpose, do not keep what the purpose does not need, be careful when the information can identify someone. The EU regulation is louder in the industry press. The design move is the same. Small sites inherit large-site defaults: trackers, verbose access logs, form fields kept "in case." Later is not a purpose. Later is how you hold a biography you cannot defend.
+Louisiana 2026 adds a second clock, and it barely ticks. The state's operative privacy statute is a breach-notification law: it speaks after the data leaks, not before you collect it. A Louisiana Data Privacy Act arrives in January 2027, but its thresholds — twenty-five million in revenue, seventy-five thousand consumers, half your income from selling data — are written for companies a thousand times this site's size. No statute is coming to supply this site's constraint. The EU regulation is louder in the industry press. The design move is the same either way. Small sites inherit large-site defaults: trackers, verbose access logs, form fields kept "in case." Later is not a purpose. Later is how you hold a biography you cannot defend.
 
 ## Mechanism
 
@@ -46,7 +46,7 @@ On mystic-bytes I keep referrer collection off unless I am diagnosing a crawl pr
 
 **First-party analytics vs none.** Aggregate page counts without a cross-site profile is a different product from dumping raw logs into a spreadsheet. If I cannot explain the identifier, I do not enable the event.
 
-**Legal floors vs studio practice.** GDPR, the NZ Privacy Act, and sector rules set floors that may or may not apply. Studio practice can be stricter: collect less than the floor allows. That is cheaper than becoming a processor of stories you never needed. When collection *is* the point (comments, a workshop signup), write the purpose anyway, with deletion in the same design. The constraint forbids holding data as a side effect of debugging, not holding it on purpose.
+**Legal floors vs studio practice.** GDPR, state breach laws, and sector rules set floors that may or may not apply. Studio practice can be stricter: collect less than the floor allows. That is cheaper than becoming a processor of stories you never needed. When collection *is* the point (comments, a workshop signup), write the purpose anyway, with deletion in the same design. The constraint forbids holding data as a side effect of debugging, not holding it on purpose.
 
 ## Close
 

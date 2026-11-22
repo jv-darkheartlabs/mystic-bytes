@@ -47,5 +47,3 @@ Muir's *Nona the Ninth* operates in a space filled with contradictions, challeng
 - Does the ambiguity of the ending enhance or detract from the story’s overall message?  
 - How do the elements of necromancy and dark romance interplay to reshape our understanding of love?  
 - What role does the setting play in shaping character dynamics and thematic exploration?
-
-#TheOrchidRoom #NonaTheNinth #fantasyromance #darkromance #literaryanalysis

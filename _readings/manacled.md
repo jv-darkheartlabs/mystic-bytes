@@ -45,5 +45,3 @@ The novel's exploration of power dynamics and emotional intensity presents sever
 - In what ways does Yu's portrayal of emotional intensity enhance or detract from the overall narrative?
 - Can we sympathize with characters who thrive in morally ambiguous situations, and what does that say about our own perceptions of love and loyalty?
 - What role does trauma play in shaping the characters’ choices, and does it justify their actions?
-
-#TheOrchidRoom #Manacled #darkromance #literaryanalysis #darkheartlabs

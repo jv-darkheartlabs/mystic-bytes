@@ -20,7 +20,6 @@ tags:
   - self-help
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The interplay of psychological depth and practical advice in minimalist living r
 - Are the darker implications of minimalism explored adequately, or do they feel like an afterthought?  
 - In what ways might the book resonate differently with readers from various backgrounds?  
 - Can the pursuit of minimalism lead to a form of emotional or social isolation?  
-
-#LiteraryAnalysis #darkthriller #minimalism #selfhelp #theorchidroom

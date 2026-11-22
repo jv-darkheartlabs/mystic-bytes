@@ -7,7 +7,7 @@ dek: "Her family broke their promise. Now he's going to take her for himself."
 number: R005
 sort_key: 005
 date: 2026-01-02
-date_read: 2020-08-16
+date_read: 2024-08-16
 category: arranged-marriage
 cover: /assets/readings/forced-union.jpg
 spice: 4
@@ -47,5 +47,3 @@ The book's exploration of captivity and emotional manipulation will likely spark
 - Is the ending of **Forced Union** a reflection of realistic consequences, or does it veer into romanticized fantasy?
 - How does the use of alternating perspectives enhance or detract from the narrative's emotional weight?
 - What role does the setting of organized crime play in shaping the characters' dynamics and the story's overall tone?
-
-#TheOrchidRoom #arrangedmarriage #darkromance #forcedunion #literaryanalysis

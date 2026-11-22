@@ -49,5 +49,3 @@ The tension created by Roehrich's juxtaposition of chaos and intimacy will undou
 - What are your thoughts on the portrayal of legacy in the characters' decisions? Is it handled with enough nuance?  
 - How does Roehrich's character development compare to other works in the genre—does it stand out or fall flat?  
 - What role does dark magic play in shaping the characters’ fates, and does it serve as a mere plot device or a deeper thematic element?  
-
-#TheOrchidRoom #DawnOfChaosAndFury #vampire #darkromance #gothic

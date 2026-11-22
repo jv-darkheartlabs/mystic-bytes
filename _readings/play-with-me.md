@@ -7,7 +7,7 @@ dek: ""
 number: R1480
 sort_key: 1480
 date: 2026-06-10
-date_read: 2019-07-13
+date_read: 2022-07-13
 category: forbidden-love
 cover: /assets/readings/play-with-me.jpg
 spice: 4
@@ -46,5 +46,3 @@ Mack’s exploration of forbidden love provides fertile ground for discussion, p
 - Is the resolution to the couple's struggles satisfying, or does it feel too neatly tied up?  
 - How does Mack's portrayal of female desire challenge or conform to genre expectations?  
 - In what ways does *Play with Me* provoke reflection on our own boundaries when it comes to love?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #hockeyromance #literaryanalysis

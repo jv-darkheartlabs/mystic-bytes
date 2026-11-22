@@ -51,5 +51,3 @@ Amore’s novel is rife with polarizing elements that will spark debate among re
 - Are the emotional stakes heightened or diminished by the moments of melodrama in dialogue?
 - Does the ending provide a satisfying resolution, or does it leave too many questions unanswered?
 - How does this work compare to other gothic-romance narratives you’ve encountered?
-
-#TheOrchidRoom #gothic #horrorromance #expiation #darkheartlabs

@@ -26,7 +26,7 @@ There are two hard problems in computer science: cache invalidation, naming thin
 
 I paid for bad names in the mystic-bytes cover pipeline. `processImage` cropped and hashed. `normalizeCover` resized and wrote metadata. Both touched paths. New contributors, including me after a week away, called the wrong one, added defensive comments, then invented wrappers to translate a lie into intent. The bug was not the image math. The bug was two operations hiding behind verbs that sounded interchangeable.
 
-Auckland 2026 made the "future reader" less hypothetical. Relocating, changing machines, writing on Fedora in Cursor at hours when I should be asleep: I am the stranger. The name has to work when the Slack thread is gone. TypeScript helpers in the merge pipeline had the same disease in miniature: `data`, `status`, `handle` as if those were domain terms.
+Louisiana 2026 made the "future reader" less hypothetical: a move ahead of me, machines changing under me, writing on Fedora at hours when I should be asleep. I am the stranger. The name has to work when the Slack thread is gone. TypeScript helpers in the merge pipeline had the same disease in miniature: `data`, `status`, `handle` as if those were domain terms.
 
 Naming happens in the same breath as choosing the data structure. A cleanup sprint that never ships is not a naming strategy. It is a wish.
 
@@ -36,7 +36,7 @@ Variables should answer a question. `data`, `temp`, and `result` are placeholder
 
 Functions are verbs with outcomes. `userValidation` is a pile of noun. `validateUser` is an instruction. `payment` is a folder. `submitPayment` is a thing you can grep after an incident. `handleClick` names the DOM event. `openCheckoutDrawer` names the business outcome. Public APIs should read like instructions someone could follow without opening the file.
 
-Length follows ambiguity. Short names belong in tight scope: `i` in a loop, `id` next to a `User`. Exported symbols earn length proportional to the distance they travel. Keystrokes are cheap. A misread diff at midnight in Auckland is not. I would rather type `loadCoverManifest` than debug why `load` fetched a path I already had.
+Length follows ambiguity. Short names belong in tight scope: `i` in a loop, `id` next to a `User`. Exported symbols earn length proportional to the distance they travel. Keystrokes are cheap. A misread diff at midnight is not. I would rather type `loadCoverManifest` than debug why `load` fetched a path I already had.
 
 Rename while the context is hot. Language servers make cross-file renames mechanical. Do it when you understand the domain, not in a mythical cleanup week. Renaming `fetchUser` to `loadUserProfile` everywhere is a one-commit clarity win. Waiting until "we have time" is how `processImage` lives another year.
 
@@ -52,7 +52,7 @@ Consistency costs local cleverness. A witty name that only you find funny is a p
 
 Abbreviation drift is a tax. `config` is fine once. `cfg`, `conf`, and `configuration` across three packages is a scavenger hunt. Pick one. Put it in the PR template if you have to.
 
-Mechanical rename versus behavior change: do not mix them. A rename PR that also "fixes" a path is how reviewers miss the fix. I split those commits. Cursor is happy to mix them. I am not.
+Mechanical rename versus behavior change: do not mix them. A rename PR that also "fixes" a path is how reviewers miss the fix. I split those commits. The model is happy to mix them. I am not.
 
 When a bad name is load-bearing in a public URL or a stored column, keep the wire name and introduce a honest internal name. mystic-bytes public cover paths are a contract with the web. Internals can tell the truth without a 301.
 

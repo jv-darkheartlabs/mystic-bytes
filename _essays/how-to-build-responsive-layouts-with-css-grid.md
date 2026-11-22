@@ -23,7 +23,7 @@ I used to float things. I cleared floats with empty divs. I pretended `display: 
 
 ## Context
 
-mystic-bytes is a Jekyll writing site. The index is cards. The essay page is a reading column with optional asides. I write the CSS on Fedora, usually with Firefox's grid inspector open, because that overlay is the runtime. Auckland 2026 did not change the box model. It did change the screens I actually use: a laptop at a hostel desk, a phone on a bus down Dominion Road, a wide monitor when I can borrow one. The layout has to survive those without a separate "mobile site."
+mystic-bytes is a Jekyll writing site. The index is cards. The essay page is a reading column with optional asides. I write the CSS on Fedora, usually with Firefox's grid inspector open, because that overlay is the runtime. The box model does not care where I sit. The screens I actually use still vary: a laptop at a desk, a phone on the road, a wide monitor when I can borrow one. The layout has to survive those without a separate "mobile site."
 
 The failure I kept shipping was a card grid that looked fine at three breakpoints and went ragged the moment a dek ran long or a fourth tile appeared. Flex-only page shells were not evil. They were a one-dimensional tool asked to do two-dimensional work. Grid separates *where* a block lives from *how* content flows inside the cell.
 
@@ -43,7 +43,7 @@ The workhorse for a card index looks like this:
 
 `minmax()` sets a readable floor. `auto-fill` asks how many such columns fit. Leftover space is shared. Breakpoints remain useful for navigation chrome and type scale. They should not be the reason every product row exists. Rachel Andrew's layout writing is the practical canon here: Grid and Flex are complementary, not a replacement war.[^1]
 
-Spacing is geometry. Random margins on children create invisible debt. A `gap` token reused across grids (`1rem`, `1.5rem`, `2rem`) is structural. Readers feel the rhythm even when they cannot name `gap`. mystic-bytes uses one scale. When I let Cursor paste `margin-bottom: 23px` on a card, the rhythm breaks and I spend the next PR hunting a ghost.
+Spacing is geometry. Random margins on children create invisible debt. A `gap` token reused across grids (`1rem`, `1.5rem`, `2rem`) is structural. Readers feel the rhythm even when they cannot name `gap`. mystic-bytes uses one scale. When I let the model paste `margin-bottom: 23px` on a card, the rhythm breaks and I spend the next PR hunting a ghost.
 
 Grid places regions. Flex distributes items along one axis inside a track: toolbars, tag rows, the metadata line under a title. Nesting flex in a grid cell is idiomatic. Simulating a full page grid with flex alone is how you rediscover 2012. If I need a sidebar beside a reading column, that is Grid. If I need the tags in the sidebar to sit in a row, that is Flex.
 

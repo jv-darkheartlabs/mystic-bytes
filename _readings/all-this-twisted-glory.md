@@ -6,7 +6,7 @@ dek: "This Woven Kingdom — Book Three"
 number: R1466
 sort_key: 1466
 date: 2026-06-09
-date_read: 2017-11-25
+date_read: 2024-11-25
 category: fantasy-romance
 cover: /assets/readings/all-this-twisted-glory.jpg
 spice: 3
@@ -49,5 +49,3 @@ This book challenges readers to reflect on the cost of ambition and the nature o
 - In what ways does the portrayal of glory in the book align or clash with your own understanding of success and sacrifice?  
 - What are the implications of magic as a tool for power and identity in this narrative?  
 - How does the ending shape your overall interpretation of the characters' journeys?
-
-#TheOrchidRoom #fantasyromance #darkromance #wovenkingdom #literaryanalysis

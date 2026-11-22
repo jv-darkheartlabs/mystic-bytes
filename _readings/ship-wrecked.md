@@ -6,7 +6,7 @@ dek: "A Novel"
 number: R900
 sort_key: 900
 date: 2026-04-09
-date_read: 2015-03-01
+date_read: 2022-03-01
 category: enemies-to-lovers
 cover: /assets/readings/ship-wrecked.jpg
 spice: 4
@@ -42,5 +42,3 @@ Ultimately, the ending feels earned; the journey to acceptance and love is fraug
 - Can the enemies-to-lovers trope convey genuine emotional depth, or does it risk being superficial?  
 - What role do humor and wit play in reframing the darker themes presented in the narrative?  
 - How do we reconcile the characters’ initial antagonism with their ultimate romance?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

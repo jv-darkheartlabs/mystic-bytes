@@ -47,5 +47,3 @@ The intricate dance of desire and danger in *Heartless Sky* ignites polarizing v
 - Are the protagonists' actions justifiable within the context of their emotional trauma, or do they perpetuate a harmful narrative?  
 - What role does the supernatural play in shaping the characters' moral compasses?  
 - How does the resolution impact your perception of the characters, and do you feel it is earned?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #heartlesssky

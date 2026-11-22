@@ -21,7 +21,6 @@ tags:
   - classic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Despite its classic status, *The Hound of the Baskervilles* invites polarizing o
 - In what ways do the themes of legacy and revenge resonate with contemporary societal issues?
 - Can the novel’s treatment of justice be reconciled with modern moral standards?
 - How do the gothic elements contribute to the story’s tension and overall impact?
-
-#TheOrchidRoom #gothic #horrorromance #detective #classics

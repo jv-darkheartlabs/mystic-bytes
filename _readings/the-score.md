@@ -7,7 +7,7 @@ dek: "Off-Campus — Book 3"
 number: R456
 sort_key: 456
 date: 2026-02-19
-date_read: 2015-09-19
+date_read: 2016-09-19
 category: enemies-to-lovers
 cover: /assets/readings/the-score.jpg
 spice: 4
@@ -47,5 +47,3 @@ Characterization shines in this novel, particularly through the male lead's tran
 - In what ways do the characters challenge or conform to traditional romance archetypes?
 - How does *The Score* compare to other works in the enemies-to-lovers genre?
 - What unresolved tensions linger beyond the final chapter?
-
-#TheOrchidRoom #enemiestolovers #darkromance #hockeyromance #collegefiction

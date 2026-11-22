@@ -46,5 +46,3 @@ The novel's exploration of obsession and toxic dynamics raises provocative quest
 - What role does setting play in amplifying the gothic elements of the story?  
 - How do you interpret the ending? Is it a genuine redemption, or does it leave room for doubt?  
 - In what ways does *Hideaway* challenge or reinforce your views on love as a dual-edged sword?  
-
-#TheOrchidRoom #bullyromance #darkromance #gothic #literaryanalysis

@@ -7,7 +7,7 @@ dek: "Monster Trilogy Book Three"
 number: R065
 sort_key: 065
 date: 2026-01-08
-date_read: 2020-05-07
+date_read: 2023-05-07
 category: captor-and-captive
 cover: /assets/readings/heart-of-my-monster.jpg
 spice: 5
@@ -50,5 +50,3 @@ This novel stands at the intersection of desire and danger, prompting polarizing
 - In what ways does Kent balance horror and romance, and are there moments where this balance tips too far?  
 - Can a story rooted in violence and captivity offer a valid exploration of love, or does it romanticize toxic relationships?  
 - What are the implications of the abrupt ending on the overall message of the trilogy?  
-
-#TheOrchidRoom #darkromance #MonsterTrilogy #RinaKent #literaryanalysis

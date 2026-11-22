@@ -50,5 +50,3 @@ While *From Blood and Ash* delivers a compelling blend of romance and fantasy, i
 - In what ways does the book challenge or conform to traditional fantasy-romance archetypes, particularly in its portrayal of the 'chosen one'?  
 - Are the stakes of the narrative compelling enough to overshadow the moments of cliché dialogue?  
 - What implications does the explicit nature of the romance have on how the characters’ autonomy is perceived?
-
-#TheOrchidRoom #fantasyromance #darkromance #bloodandash #literaryanalysis

@@ -20,7 +20,6 @@ tags:
   - literary
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ While many will appreciate the practical advice offered, polarities arise regard
 - What are the biggest fears writers face that this guide doesn't address?  
 - Should a writing guide prioritize entertainment over education, or vice versa?  
 - In what ways does personal experience shape our understanding of writing mistakes?
-
-#LiteraryAnalysis #GothicEdge #theorchidroom #darkthriller #writing

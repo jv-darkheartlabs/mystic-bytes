@@ -53,5 +53,3 @@ The uncomfortable nature of **Dear Reader** presents polarities ripe for discuss
 - What are the implications of the protagonist's actions on our understanding of consent in romantic relationships?  
 - How does James balance the line between thriller and romance, and is it successful in your view?  
 - In what ways does this book challenge or conform to our expectations of the dark romance genre?  
-
-#TheOrchidRoom #stalker #obsession #darkromance #literaryanalysis

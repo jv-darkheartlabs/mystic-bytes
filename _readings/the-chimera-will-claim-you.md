@@ -51,5 +51,3 @@ This text invites rich discussion around the duality of love and monstrosity, as
 - In what ways does the body horror serve as a metaphor for emotional experiences in the narrative?  
 - Do you find the ending satisfying or frustrating in its ambiguity, and what does that say about your expectations of resolution in gothic narratives?  
 - How do the elements of possession impact our understanding of agency in the characters’ relationships?  
-
-#TheOrchidRoom #gothic #horrorromance #chimera #darkfantasy

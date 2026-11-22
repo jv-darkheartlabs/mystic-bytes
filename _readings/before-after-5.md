@@ -19,7 +19,6 @@ tags:
   - drama
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The prose is marked by a raw, unpolished quality that mirrors the tumultuous nat
 - In what ways does the nonlinear structure enhance or detract from the romantic narrative?  
 - Can the rawness of Todd’s prose be seen as a flaw, or does it contribute to the authenticity of the characters’ experiences?  
 - How do the themes of regret and redemption resonate within the broader context of the series?
-
-#TheOrchidRoom #enemiestolovers #darkromance #romance #literaryanalysis

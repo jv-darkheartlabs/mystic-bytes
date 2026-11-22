@@ -6,7 +6,7 @@ dek: ""
 number: R1519
 sort_key: 1519
 date: 2026-06-14
-date_read: 2014-10-22
+date_read: 2024-10-22
 category: romantic-suspense
 cover: /assets/readings/never-say-never.jpg
 spice: 4
@@ -23,7 +23,6 @@ tags:
   - suspense
   - collaboration
   - gritty
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -50,4 +49,3 @@ The polarities within *Never Say Never* are ripe for debate, particularly surrou
 - How does this book compare to others in the dark-thriller genre in terms of originality and impact?  
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #darkthriller #romanticsuspense #crime

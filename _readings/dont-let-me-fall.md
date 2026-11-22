@@ -7,7 +7,7 @@ dek: "Don't Let Me Series — Book One"
 number: R1489
 sort_key: 1489
 date: 2026-06-11
-date_read: 2016-07-13
+date_read: 2022-07-13
 category: forbidden-love
 cover: /assets/readings/dont-let-me-fall.jpg
 spice: 3
@@ -45,5 +45,3 @@ Rae's work presents polarities that can ignite a spirited discussion among reade
 - Can the emotional distress depicted in the book resonate universally, or is it too niche?  
 - How do the craft choices around pacing and dialogue impact your overall engagement with the characters?  
 - Do you believe the ending is earned, or does it leave too many questions unresolved?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #emotional #literaryanalysis

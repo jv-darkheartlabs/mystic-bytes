@@ -44,5 +44,3 @@ DeWitt’s *The Co-Op* prompts intriguing questions about the nature of love and
 - How effectively does the alternating POV impact your connection to each character?  
 - What does this story reveal about the nature of competition in romantic contexts?  
 - Can characters truly evolve from adversaries to partners in a believable way, or does it require a suspension of disbelief?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

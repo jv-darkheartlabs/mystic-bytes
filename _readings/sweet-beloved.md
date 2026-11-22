@@ -42,5 +42,3 @@ The complexities of desire and societal constraints invite rich debate within th
 - How effectively does the dual perspective shape our understanding of the central conflict?  
 - In what ways does the setting amplify or complicate the theme of forbidden love?  
 - What does this narrative reveal about the nature of desire and its consequences?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

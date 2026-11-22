@@ -6,7 +6,7 @@ dek: ""
 number: R876
 sort_key: 876
 date: 2026-04-06
-date_read: 2015-06-10
+date_read: 2021-06-10
 category: enemies-to-lovers
 cover: /assets/readings/lifes-too-short.jpg
 spice: 3
@@ -39,5 +39,3 @@ While *Life's Too Short* is engaging, it presents polarizing elements that could
 - How do we perceive the balance of character flaws and growth in romance novels?  
 - Is predictability in romantic resolutions a flaw, or can it serve comfort and familiarity for readers?  
 - In what ways does Jimenez challenge or conform to traditional enemies-to-lovers tropes?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #rom-com #literaryanalysis

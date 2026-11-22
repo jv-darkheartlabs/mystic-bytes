@@ -6,7 +6,7 @@ dek: ""
 number: R1254
 sort_key: 1254
 date: 2026-05-17
-date_read: 2021-06-10
+date_read: 2023-06-10
 category: forbidden-love
 cover: /assets/readings/bend-her.jpg
 spice: 4
@@ -48,5 +48,3 @@ However, while the prose often dazzles with lyrical beauty, it can occasionally 
 - In what ways does Alexander succeed or fail in balancing emotional intensity with reader accessibility?  
 - What are the implications of a lack of clear resolution in the ending?  
 - How does this book compare to other dark romances in terms of thematic depth and character complexity?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #gothic #literaryanalysis

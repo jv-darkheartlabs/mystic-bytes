@@ -6,7 +6,7 @@ dek: "A Romantic Comedy"
 number: R855
 sort_key: 855
 date: 2026-04-04
-date_read: 2018-03-01
+date_read: 2022-03-01
 category: enemies-to-lovers
 cover: /assets/readings/in-your-dreams-holden-rhodes.jpg
 spice: 3
@@ -42,5 +42,3 @@ Archer's narrative teeters on the edge of romantic comedy and deeper emotional i
 - Were there any moments that felt contrived or overly familiar within the genre?  
 - How does Archer’s writing style enhance or detract from the emotional stakes?  
 - What gaps in character development remain and how do they affect your overall impression of the story?
-
-#TheOrchidRoom #enemiestolovers #darkromance #rom-com #darkheartlabs

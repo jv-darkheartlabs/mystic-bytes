@@ -52,5 +52,3 @@ Moreover, the world-building showcases a rich tapestry of dark magic and forebod
 - In what ways do the characters’ pursuits of power reflect real-world familial dynamics?  
 - Does the ending leave you yearning for resolution, or does it invite deeper reflection on the nature of ambition?  
 - How does Blake's use of multiple perspectives impact your engagement with each character's journey?  
-
-#TheOrchidRoom #fantasyromance #darkromance #queens #literaryanalysis

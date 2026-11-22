@@ -20,7 +20,7 @@ Microsoft bought GitHub in 2018. The incentive machine changed. The forge did no
 
 ## Context
 
-Dark Heart Labs' public work lives at [github.com/jv-darkheartlabs](https://github.com/jv-darkheartlabs). mystic-bytes is a git remote with a CI workflow, a pull-request culture, and a habit of treating `main` as the record. I use GitHub as a customer from Auckland. I have never been a GitHub or Microsoft employee. The documents that matter are the ones they published: the acquisition posts, Copilot billing changes, Actions pricing, and the still-boring core of git hosting.
+Dark Heart Labs' public work lives at [github.com/jv-darkheartlabs](https://github.com/jv-darkheartlabs). mystic-bytes is a git remote with a CI workflow, a pull-request culture, and a habit of treating `main` as the record. I use GitHub as a customer from Louisiana. I have never been a GitHub or Microsoft employee. The documents that matter are the ones they published: the acquisition posts, Copilot billing changes, Actions pricing, and the still-boring core of git hosting.
 
 There is a separate essay about GitHub as the default product-shaped forge: issues, PRs, the social UI of code. This one is about who owns that default and how they get paid without killing the thing they bought.
 

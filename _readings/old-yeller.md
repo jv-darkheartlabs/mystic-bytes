@@ -20,7 +20,6 @@ tags:
   - family
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The emotional core of *Old Yeller* raises compelling polarities that could ignit
 - Is the choice of a first-person narrative effective in conveying the protagonist's internal conflicts?  
 - Does the book romanticize rural life, or does it provide a more realistic depiction?  
 - What does the ending suggest about the nature of growth and resilience?  
-
-#LiteraryAnalysis #darkthriller #coming-of-age #family #classic #TheOrchidRoom

@@ -7,7 +7,7 @@ dek: "The Hunter's Game"
 number: R211
 sort_key: 211
 date: 2026-01-23
-date_read: 2022-07-13
+date_read: 2024-07-13
 category: stalker-obsession
 cover: /assets/readings/wanna-play-a-game.jpg
 spice: 4
@@ -52,5 +52,3 @@ The juxtaposition of love and obsession raises questions that beg for deeper exp
 - Are the moments of violence justified by the narrative arc, or do they detract from character development?  
 - In what ways does the novel challenge or reinforce societal views on romance and possession?  
 - Does the unsettling ending enhance the story, or does it feel like a narrative cop-out?  
-
-#TheOrchidRoom #WannaPlayAGame #darkromance #psychologicalthriller #AlinaMay

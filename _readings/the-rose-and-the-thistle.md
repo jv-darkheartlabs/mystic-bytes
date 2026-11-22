@@ -44,5 +44,3 @@ Frantz's ability to blend romance with historical conflict evokes varied respons
 - In what ways could the ending have explored the aftermath of the political conflict more thoroughly?  
 - How does the portrayal of desire in this novel compare to other works in the fantasy-romance genre?  
 - What gaps or unresolved questions linger after reading, and how do they shape your interpretation of the characters' journeys?
-
-#TheOrchidRoom #fantasyromance #darkromance #historical #romantasy

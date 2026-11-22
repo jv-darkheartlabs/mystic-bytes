@@ -7,7 +7,7 @@ dek: "The couple who slays together, stays together"
 number: R122
 sort_key: 122
 date: 2026-01-14
-date_read: 2017-08-16
+date_read: 2024-08-16
 category: enemies-to-lovers
 cover: /assets/readings/lights-out.jpg
 spice: 5
@@ -50,5 +50,3 @@ The thematic exploration of morality in love and the nature of obsession is both
 - Is the portrayal of the protagonists’ darkness an endorsement of their actions or a critique of them?  
 - How does Allen's use of gothic elements enhance the emotional impact of the story?  
 - What does this book suggest about the nature of desire when intertwined with danger?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #gothic #literaryanalysis

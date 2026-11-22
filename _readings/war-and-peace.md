@@ -19,7 +19,6 @@ tags:
   - philosophy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---

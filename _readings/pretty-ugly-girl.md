@@ -47,5 +47,3 @@ Thematically, Tyler excels in portraying the all-consuming nature of obsession, 
 - In what ways do the gothic elements enhance the themes of the story?  
 - What responsibility do authors have in portrayals of manipulation and toxic relationships in romance?  
 - How does *Pretty Ugly Girl* compare to other darker romances in its handling of emotional complexity?
-
-#TheOrchidRoom #bullyromance #darkromance #gothic #literaryanalysis

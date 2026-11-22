@@ -22,7 +22,6 @@ tags:
   - writer's block
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ While the ending arrives with an earned sense of resolution, it raises questions
 - To what extent does the novel's resolution offer closure, or does it perpetuate the cycle of violence and obsession?
 - How do King's thematic choices reflect or diverge from other dark-thriller authors?
 - What role does the setting play in shaping the psychological tension of the narrative?
-
-#LiteraryAnalysis #darkthriller #psychologicalthriller #obsession #theorchidroom

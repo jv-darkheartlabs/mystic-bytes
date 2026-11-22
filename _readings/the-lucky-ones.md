@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R793
 sort_key: 793
 date: 2026-03-28
-date_read: 2016-04-04
+date_read: 2018-04-04
 category: gothic-horror-romance
 cover: /assets/readings/the-lucky-ones.jpg
 spice: 3
@@ -46,5 +46,3 @@ However, while the ending delivers a cathartic resolution, it may feel abrupt to
 - Do you think the ending does justice to the characters’ arcs, or does it feel like a narrative concession?
 - How effectively does Reisz balance gothic horror with romantic elements — does one overshadow the other?
 - What impact does the setting have on the narrative, and how does it reflect the characters’ internal struggles?
-
-#TheOrchidRoom #gothic #horrorromance #thriller #foundfamily #literaryanalysis #darkheartlabs

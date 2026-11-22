@@ -1,7 +1,7 @@
 ---
 layout: film
 title: "The Shining"
-dek: "1980 Kubrick reimagining of Stephen King's haunted hotel novel."
+dek: "Kubrick's Shining keeps King's hotel and discards King's Jack — a haunted-house film where the haunting may just be the husband."
 number: F0009
 sort_key: 9
 date: 2026-02-15
@@ -44,23 +44,27 @@ lane: genre
 ---
 
 ## Hook & thesis
-Stanley Kubrick's *The Shining* is a psychological thriller that brilliantly transforms Stephen King's haunted hotel novel into a chilling cinematic experience. **Verdict:** This film is a masterclass in visual storytelling that captivates as it diverges from its source material, creating a unique atmosphere of dread and isolation.
+King's novel is a tragedy of alcoholism and love failing in real time: Jack Torrance is a decent man being eaten. Kubrick starts Nicholson at a simmer the book takes three hundred pages to reach, and relocates the evil from the bottle to the building — or to Jack himself; the film famously won't decide. What it builds instead is architecture as dread: Steadicam corridors, a maze that isn't in the novel, a hotel that watches back. **Verdict:** A masterwork that is also a hostile takeover — the definitive haunted-hotel film, made by hollowing out the haunted man at its center and leaving Wendy and Danny to carry a terror the book shared more mercifully.
 
 ## The contextual pivot
-Released in 1980, *The Shining* sits as a significant entry in the horror genre, showcasing Kubrick's distinct vision that often transcends traditional narrative forms. This adaptation reimagines King's novel, focusing more on psychological horror than supernatural elements. The film speaks to the cultural moment of the late 70s and early 80s, where audiences craved intense emotional experiences, fundamentally shifting perceptions of fear and tension in cinema.
+*The Shining* opened in May 1980 to respectful bewilderment and became, across the following decade, the century’s defining haunted-house film — a slow canonization that inverted its first reception entirely. Kubrick came to it as the industry’s most exacting auteur adapting the era’s most commercial horror novelist, and the production’s legend — the year of shooting, the Steadicam’s debut gliding behind a tricycle, the takes counted in dozens — is really the story of two incompatible arts occupying one hotel: King’s hot, confessional, alcoholic tragedy processed through Kubrick’s cold architectural formalism until the confession froze. King’s public repudiation, sustained for decades and eventually answered with his own television remake, fixed the film’s historical frame: it is the canonical case in every argument about adaptation as betrayal, the masterwork that exists because its director discarded the source’s heart. The culture chose Kubrick’s version — the maze, the elevator of blood, ‘Here’s Johnny’ — and the novel survives alongside its own replacement, both haunted, neither reconciled.
 
 ## Deep-dive critique
-Kubrick’s direction excels in creating a hypnotic atmosphere through meticulous cinematography and sound design. The sweeping shots of the Overlook Hotel, particularly the iconic trike sequences, immerse the audience in Danny's perspective. The editing, characterized by long takes and abrupt cuts, enhances the disorientation felt by both characters and viewers alike. Jack Nicholson’s performance as Jack Torrance is hauntingly memorable, embodying a slow descent into madness that feels both surreal and terrifying. The score, featuring eerie music and unsettling silences, effectively heightens tension and sets a tone that lingers long after viewing. However, the film's departure from specific plot points can lead to a disconnect for those familiar with the novel, as it emphasizes psychological complexity over the original's explicit horror.
+Alcott’s cinematography and Kubrick’s Steadicam build the film’s real subject: the Overlook as a space that doesn’t resolve — corridors tracked at a child’s height, the Gold Room’s impossible geometry, interiors that refuse to map onto each other — so that dread accumulates as architecture rather than incident. The editing enforces it: title cards marking time that stops helping, long takes that let scenes curdle. Nicholson’s performance is the famous problem and the film’s thesis in one: where King’s Jack is a decent man being eaten across three hundred pages, Kubrick starts him at a simmer — the job interview already performs instability — so the question is never whether Jack will break but whether he was ever whole, which relocates the evil from the bottle to the building, or to the husband, and refuses to decide. Duvall pays for the design: her Wendy written thinner and more frightened than King’s resourceful mother, the performance registering as genuine distress, which the film uses and history has re-examined. Lloyd’s Danny and Crothers’s Hallorann carry the supernatural register between them, the shining kept mostly as dread and image: the twins, the woman in 237, the river of blood the hotel promises and finally delivers. Carlos and Elkind’s electronic score, woven with Ligeti and Penderecki, makes the building hum like a machine idling. The ending replaces the novel’s exploding boiler and Jack’s moment of reclaimed love with the maze — Kubrick’s invention — and a photograph that absorbs Jack into the hotel’s past: the man not redeemed, not even released, but filed. A masterwork and a hostile takeover; the two verdicts have shared the building for forty years.
 
 ## Adaptation ledger
-- **Characterization:** Jack Torrance's motivations are explored more deeply in the film, diverging from the novel's portrayal.
+- **Characterization:** The film strips the interiority the novel builds — King's Jack arrives with a childhood, a drinking history, and a shame the book lives inside; Kubrick's is given a job interview and a typewriter, his motivations withheld by design.
 - **Ending:** The film's conclusion, with its ambiguous fate, differs significantly from the book's more definitive resolution.
 - **Omissions:** Many subplots and character arcs from the novel are omitted, streamlining the narrative to focus on psychological tension.
 - **Visual Elements:** Kubrick invented the famous hedge maze, which adds a new layer of symbolism not present in the book.
 
 ## Discussion launchpad
-The adaptation polarizes opinions on how well it captures the essence of King’s work. Some argue Kubrick's changes enhance emotional depth, while others believe it loses the narrative's core. **Questions for the room:**  
-- How does the film's psychological focus alter our understanding of fear compared to the novel?  
-- What are the implications of the film's ambiguous ending?  
-- In what ways does the visual storytelling overshadow the original narrative?  
-- How do you feel about the omission of character backgrounds and subplots?
+The argument is the oldest one in adaptation: can a film be great *because* it betrays its source? King has said his piece for forty years; the room divides between the novel's Jack — loved, alcoholic, redeemable, lost — and Kubrick's, who may never have been safe to live with.
+
+**Questions for the room:**
+
+- Nicholson's casting pre-loads the madness. Flaw, or the film's actual thesis about marriage?
+- Duvall's Wendy is written thinner and more hysterical than King's. What does the film gain by diminishing her?
+- The maze versus the novel's exploding boiler: which ending is the story's real verdict on Jack?
+- Hallorann's journey and fate are changed from the book. What does Kubrick spend him on?
+- If the hotel is innocent and Jack was always the danger, is it still a ghost story?

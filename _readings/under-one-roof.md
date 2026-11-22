@@ -7,7 +7,7 @@ dek: ""
 number: R1361
 sort_key: 1361
 date: 2026-05-28
-date_read: 2020-05-07
+date_read: 2022-05-07
 category: enemies-to-lovers
 cover: /assets/readings/under-one-roof.jpg
 spice: 2
@@ -46,5 +46,3 @@ The prose is sharp and witty, pulling readers into the world of academia and the
 - In what ways do you think the STEM setting enhances or complicates the romantic narrative?  
 - Do you find the enemies-to-lovers trope stale or revitalized in this context?  
 - How important is the resolution in a novella compared to a full-length novel?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #STEMromance #darkheartlabs

@@ -50,5 +50,3 @@ The ending, while climactic, raises questions about the extent to which the char
 - In what ways does the setting of San Francisco enhance or detract from the narrative's emotional stakes?  
 - Can a romance centered on unhealthy dynamics still resonate positively with readers?  
 - What are the implications of a non-linear timeline in shaping our understanding of character motivations?  
-
-#TheOrchidRoom #reverseharem #darkromance #lovesickvillains #TwistedViolet

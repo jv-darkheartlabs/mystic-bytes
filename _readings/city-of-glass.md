@@ -50,5 +50,3 @@ The thematic exploration of love as a weapon—both in the hands of the passiona
 - Are the risks taken by characters justified in the name of love, or do they cross ethical lines?
 - Does the portrayal of violence enhance or detract from the emotional stakes of the narrative?
 - How does this book compare to other entries in the urban fantasy genre regarding its handling of dark themes?
-
-#TheOrchidRoom #fantasyromance #darkromance #urbanfantasy #shadowhunters

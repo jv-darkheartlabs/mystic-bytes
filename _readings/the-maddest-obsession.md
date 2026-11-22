@@ -7,7 +7,7 @@ dek: "She fears the dark, he rules it."
 number: R168
 sort_key: 168
 date: 2026-01-19
-date_read: 2015-09-19
+date_read: 2019-09-19
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-maddest-obsession.jpg
 spice: 4
@@ -50,5 +50,3 @@ The juxtaposition of love and obsession in this narrative raises significant que
 - Are the moral ambiguities presented in the book a necessary element of dark romance, or do they compromise the narrative?  
 - What impact does the dual perspective have on our understanding of the protagonists’ motivations?  
 - How does the book’s ending shape our perception of the characters' journey?
-
-#TheOrchidRoom #mafiaromance #darkromance #themadseries #literaryanalysis

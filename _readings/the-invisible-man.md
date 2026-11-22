@@ -21,7 +21,6 @@ tags:
   - horror
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The themes interwoven throughout *The Invisible Man* provoke a range of interpre
 - In what ways do the gothic elements enhance or detract from the narrative's suspense?  
 - Can the concept of invisibility be viewed as a metaphor for modern alienation in society?  
 - How does the ending shape your perception of Griffin as both a victim and a villain?
-
-#TheOrchidRoom #gothic #horrorromance #classic #sciencefiction

@@ -21,7 +21,6 @@ tags:
   - whodunit
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ However, the novel's climax, while shocking, raises questions about the moral im
 - In what ways does the setting of the Orient Express enhance or detract from the story's themes?  
 - What role does the diversity of characters play in challenging or reinforcing societal norms?  
 - Are the moral ambiguities presented a reflection of the time in which Christie was writing?
-
-#LiteraryAnalysis #darkthriller #mystery #detective #theorchidroom

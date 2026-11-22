@@ -44,5 +44,3 @@ The prose is sharp and evocative, capturing both the bleakness of the vampire wo
 - Do you think the pacing issues impact the emotional weight of the story, or do they serve to reflect the characters’ internal chaos?
 - How does Mead's handling of supernatural elements compare to other authors in the genre? What sets her apart?
 - What lingering questions does the ending raise about the future of the characters and their relationships?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #Frostbite #literaryanalysis #darkheartlabs

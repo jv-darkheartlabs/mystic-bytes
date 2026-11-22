@@ -7,7 +7,7 @@ dek: ""
 number: R1226
 sort_key: 1226
 date: 2026-05-14
-date_read: 2017-05-07
+date_read: 2021-05-07
 category: fantasy-romance
 cover: /assets/readings/a-fate-of-wrath-flame.jpg
 spice: 3
@@ -46,5 +46,3 @@ The interplay of fate versus choice remains a poignant tension throughout the no
 - In what ways does the fantasy setting enhance or detract from the exploration of human emotions?  
 - Does the world-building enrich the characters' journeys, or does it complicate the narrative unnecessarily?  
 - What implications does the ending hold for the concept of agency within the genre?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #fateandflame

@@ -55,5 +55,3 @@ The interplay of desire and horror in *Scream For Us* invites a rich discussion 
 - In what ways does the secret society function as a character in its own right?  
 - How does this work compare to other gothic romances you’ve read in terms of thematic exploration?  
 - What unresolved questions linger for you at the conclusion of the novel?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #literaryanalysis

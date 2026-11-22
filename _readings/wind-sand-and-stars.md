@@ -18,7 +18,6 @@ tags:
   - philosophical
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The climax of the narrative, while contemplative, risks feeling unearned for rea
 - How effective is Saint-Exupéry's use of nature as a character in its own right?
 - Does the lack of traditional resolution leave the reader feeling fulfilled or frustrated?
 - Can a narrative rooted in philosophical exploration still deliver suspense effectively?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #adventure #philosophical #TheOrchidRoom

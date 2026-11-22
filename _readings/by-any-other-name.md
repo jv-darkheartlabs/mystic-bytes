@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R439
 sort_key: 439
 date: 2026-02-17
-date_read: 2014-10-22
+date_read: 2024-10-22
 category: literary-fiction
 cover: /assets/readings/by-any-other-name.jpg
 content_warnings:
@@ -41,5 +41,3 @@ The interplay of identity and gender discrimination raises polarizing questions 
 - Is the use of Shakespearean references enriching or distracting in the context of a modern narrative?  
 - What does the ambiguous ending say about the nature of the societal issues at play?  
 - How does Picoult’s portrayal of gender discrimination compare to other contemporary works addressing similar themes?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

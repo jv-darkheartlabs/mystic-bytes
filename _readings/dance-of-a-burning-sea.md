@@ -44,5 +44,3 @@ Mellow’s *Dance of a Burning Sea* is a dual-edged sword of emotion and adventu
 - In what ways does the setting influence character development and thematic depth?  
 - Can the emotional intensity be justified within the fantasy-romance framework, or does it risk alienating readers?
 - How does Mellow's exploration of desire shape the overall narrative arc of the series?
-
-#TheOrchidRoom #fantasyromance #darkromance #mousai #pirates

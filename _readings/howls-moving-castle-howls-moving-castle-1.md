@@ -21,7 +21,6 @@ tags:
   - witchcraft
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The novel thrives on its polarities, particularly the interplay between personal
 - In what ways does the setting of the moving castle serve as a metaphor for the characters’ internal struggles?  
 - How does Jones’ approach to magic differ from traditional depictions in fantasy, and what does this say about her characters?  
 - Are there instances where the whimsical elements detract from the emotional weight of the narrative?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

@@ -44,5 +44,3 @@ The interplay of desire and toxicity in *Vile Boys* will undoubtedly provoke rob
   - In what ways does the narrative structure enhance or detract from the themes of power and control?  
   - Is the ending ultimately satisfying, or does it perpetuate the cycle of toxicity? 
   - How might this book resonate differently with various readers based on their personal experiences with love and obsession?
-
-#TheOrchidRoom #bullyromance #darkromance #gothic #literaryanalysis

@@ -22,7 +22,6 @@ tags:
   - psychological
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The prose is strikingly simple yet profound, mirroring Jack’s understanding of
 - Can the reader maintain empathy for the captor, or does this undermine the story's moral framework?  
 - How does the shift from confinement to freedom impact the overall message of the novel?  
 - What unresolved tensions linger in the narrative that could lead to further exploration of identity and agency?
-
-#TheOrchidRoom #captive #darkromance #survival #psychological

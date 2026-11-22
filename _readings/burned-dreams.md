@@ -6,7 +6,7 @@ dek: "Perfectly Imperfect Series — Special Edition"
 number: R1263
 sort_key: 1263
 date: 2026-05-18
-date_read: 2018-06-10
+date_read: 2023-06-10
 category: forbidden-love
 cover: /assets/readings/burned-dreams.jpg
 spice: 4
@@ -49,5 +49,3 @@ The ending, however, is where the narrative shines. It is earnestly earned, enca
 - Are the characters' motivations relatable, or do they border on the implausible?  
 - What role does the dual POV play in shaping your understanding of the protagonists' relationship?  
 - How did the pacing impact your overall engagement with the story?
-
-#TheOrchidRoom #forbiddenlove #darkromance #perfectlyimperfect #literaryanalysis

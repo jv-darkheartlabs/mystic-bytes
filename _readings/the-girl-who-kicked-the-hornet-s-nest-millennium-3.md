@@ -6,7 +6,7 @@ dek: "Millennium Series Book 3"
 number: R2172
 sort_key: 2172
 date: 2026-08-03
-date_read: 2007-06-10
+date_read: 2009-06-10
 category: mystery-crime
 cover: /assets/readings/the-girl-who-kicked-the-hornet-s-nest-millennium-3.jpg
 content_warnings:
@@ -23,7 +23,6 @@ tags:
   - investigative journalism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Larsson's novel prompts discussions about the portrayal of women in thriller nar
   - Does the political commentary enhance or complicate the thriller elements?  
   - How do you interpret the novel’s ending in relation to Salander's future?  
   - In what ways does this series challenge or conform to traditional thriller tropes?  
-
-#LiteraryAnalysis #darkthriller #suspense #crime #femaleprotagonist #theorchidroom

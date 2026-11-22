@@ -7,7 +7,7 @@ dek: "Shades of Magic Book Two"
 number: R780
 sort_key: 780
 date: 2026-03-26
-date_read: 2015-09-19
+date_read: 2016-09-19
 category: gothic-horror-romance
 cover: /assets/readings/a-gathering-of-shadows.jpg
 spice: 3
@@ -46,5 +46,3 @@ The novel's blend of ambition and darkness raises compelling questions about hum
 - Are the characters’ moral dilemmas relatable, or do they come off as excessive in their ambition?  
 - How does the pacing affect your engagement with the story’s central conflicts?  
 - What aspects of the world-building stand out as particularly effective or flawed?
-
-#TheOrchidRoom #gothic #horrorromance #AGatheringOfShadows #literaryanalysis #darkheartlabs

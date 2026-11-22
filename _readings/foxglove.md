@@ -44,5 +44,3 @@ Character development shines through the protagonist’s journey, marked by both
 - Does the dual perspective enhance or detract from the emotional impact?
 - How does Grace's prose style contribute to the overall atmosphere of the book?
 - Is the ending earned, or does it leave too many questions unanswered?
-
-#TheOrchidRoom #fantasyromance #darkromance #foxglove #literaryanalysis

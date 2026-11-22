@@ -6,7 +6,7 @@ dek: "Morally Black Series"
 number: R1563
 sort_key: 1563
 date: 2026-06-18
-date_read: 2018-09-19
+date_read: 2023-09-19
 category: gothic-horror-romance
 cover: /assets/readings/taming-seraphine-morally-black-1.jpg
 spice: 4
@@ -22,7 +22,6 @@ tags:
   - supernatural
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The novel's exploration of morally gray characters raises intriguing questions a
 - What unresolved questions linger after the book's conclusion, particularly regarding character fate?  
 - How do you interpret the relationship dynamics in light of the novel’s dark themes?  
 - Does the novel ultimately offer redemption, or does it reinforce the idea that some desires lead to inescapable consequences?  
-
-#TheOrchidRoom #gothic #horrorromance #morallyambiguous #darkheartlabs

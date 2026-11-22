@@ -50,5 +50,3 @@ The polarities in *Ice Planet Barbarians* are stark, particularly surrounding th
 - In what ways do you think the book's treatment of survival impacts the romantic narrative?
 - Can the portrayal of fated mates be reconciled with contemporary views on autonomy in relationships?
 - How does Dixon's writing style contribute to or detract from the overall themes of the story?
-
-#TheOrchidRoom #fantasyromance #darkromance #alienromance #romantasy

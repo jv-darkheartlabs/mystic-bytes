@@ -7,7 +7,7 @@ dek: "The Lost & Found Series"
 number: R1351
 sort_key: 1351
 date: 2026-05-27
-date_read: 2006-04-04
+date_read: 2024-04-04
 category: romantic-suspense
 cover: /assets/readings/ashes-of-you.jpg
 spice: 3

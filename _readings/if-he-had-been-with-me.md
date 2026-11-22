@@ -50,5 +50,3 @@ Nowlin's exploration of love intertwined with grief may resonate differently amo
 - Does the emotional weight of Autumn's experience resonate universally, or is it more niche?  
 - How does Nowlin's treatment of grief challenge or conform to typical YA tropes?
 - What alternatives could have been explored for the ending, and how would they have changed the story's impact?
-
-#TheOrchidRoom #forbiddenlove #darkromance #youngadult #grief

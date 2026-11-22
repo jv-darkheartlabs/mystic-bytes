@@ -19,7 +19,6 @@ tags:
   - sisterhood
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Brashares' work invites a rich dialogue about the nature of friendship and perso
 - In what ways does the representation of female friendship differ from male-centric narratives in young adult literature?  
 - Can we consider the book's ending to be a true conclusion, or does it leave critical questions unresolved?  
 - What impact does the book have on the modern perception of sisterhood and female solidarity?
-
-#LiteraryAnalysis #darkthriller #coming-of-age #sisterhood #theorchidroom

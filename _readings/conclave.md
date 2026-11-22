@@ -48,5 +48,3 @@ The polarities within **Conclave** stem from its provocative themes and complex 
 - In what ways does the nonlinear structure enhance or detract from the emotional impact of the story?  
 - Can the reader sympathize with the characters’ actions, given their morally ambiguous choices?  
 - What role does setting play in shaping the characters’ motivations and desires throughout the novella?
-
-#TheOrchidRoom #bullyromance #darkromance #devilsnight #literaryanalysis

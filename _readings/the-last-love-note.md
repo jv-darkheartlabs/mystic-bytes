@@ -41,5 +41,3 @@ The novel's exploration of grief as a backdrop for passion raises ample room for
 - In what ways does the gothic undertone enhance or detract from the romantic elements of the story?  
 - Can a relationship born in the shadow of grief ever be considered truly healthy?  
 - What role does the setting play in creating the emotional tone of the narrative?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

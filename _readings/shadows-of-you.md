@@ -7,7 +7,7 @@ dek: "The Lost & Found Series"
 number: R1348
 sort_key: 1348
 date: 2026-05-27
-date_read: 2013-10-22
+date_read: 2023-10-22
 category: romantic-suspense
 cover: /assets/readings/shadows-of-you.jpg
 spice: 3
@@ -44,5 +44,3 @@ While *Shadows of You* invites readers into a world of healing amid shadows, it 
 - Are the characters' resolutions satisfying, or do they feel like an unrealistic escape from their traumas?  
 - In what ways does the small-town setting amplify the themes of isolation and connection?  
 - Does the gothic undertone evoke a necessary dread that enriches the story, or does it overwhelm the romance?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

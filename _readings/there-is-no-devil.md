@@ -48,5 +48,3 @@ The moral complexities and dark themes presented in *There Is No Devil* may igni
 - Was the ending satisfying in light of the darker themes explored throughout the story?  
 - How does Lark's portrayal of emotional intensity resonate with your own experiences of love?  
 - In what ways does the novel challenge traditional enemies-to-lovers tropes?
-
-#TheOrchidRoom #DarkRomance #SophieLark #EnemiesToLovers #LiteraryAnalysis

@@ -7,7 +7,7 @@ dek: ""
 number: R160
 sort_key: 160
 date: 2026-01-18
-date_read: 2019-10-22
+date_read: 2025-10-22
 category: gothic-horror-romance
 cover: /assets/readings/graves.jpg
 spice: 1
@@ -48,5 +48,3 @@ As for world-building, Taylor excels in crafting a supernatural atmosphere that 
 - Do you find the use of supernatural elements as a coping mechanism effective, or does it detract from the emotional authenticity?  
 - What are your thoughts on the resolution of the protagonist's journey? Was it satisfying or frustrating?  
 - How does the setting of the cemetery enhance or hinder the overall impact of the story?  
-
-#TheOrchidRoom #gothic #horrorromance #cemetery #darkheartlabs

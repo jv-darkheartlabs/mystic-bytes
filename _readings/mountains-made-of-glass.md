@@ -45,5 +45,3 @@ Lancet’s exploration of love as a double-edged sword evokes significant polari
 - In what ways does the fantasy setting amplify or dilute the emotional stakes of the narrative?
 - Do you find the pacing to detract from or enhance your understanding of the characters' journeys?
 - How do the themes of isolation and connection resonate with contemporary societal issues?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #mountainsmadeofglass

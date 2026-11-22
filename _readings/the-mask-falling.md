@@ -43,5 +43,3 @@ Shannon’s intricate interplay of romance and rebellion invites heated discussi
 - Are there moments in the book where the emotional intensity feels overwhelming or misplaced?  
 - How does the ending of this installment compare to those of previous entries in the series?  
 - What are the implications of the characters' sacrifices for the greater good — are they justified?
-
-#TheOrchidRoom #TheMaskFalling #fantasyromance #darkromance #literaryanalysis

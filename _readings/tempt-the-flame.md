@@ -44,5 +44,3 @@ The interplay of fire and smoke serves as a metaphor for the characters’ passi
 - How does the blend of gothic romance with contemporary issues affect your reading experience?  
 - Can a love story rooted in darkness ever offer redemption, or is it doomed to tragedy?  
 - What role does setting play in shaping the narrative's emotional landscape?
-
-#TheOrchidRoom #forbiddenlove #darkromance #fire #literaryanalysis

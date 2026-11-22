@@ -7,7 +7,7 @@ dek: ""
 number: R915
 sort_key: 915
 date: 2026-04-10
-date_read: 2018-09-19
+date_read: 2020-09-19
 category: fantasy-romance
 cover: /assets/readings/a-game-of-fate.jpg
 spice: 4
@@ -45,5 +45,3 @@ St. Clair's novel presents a rich tapestry for discussion, particularly around t
 - Do you find the resolution satisfying, or does it leave you wanting more depth?  
 - How do the elements of fantasy serve to amplify the central themes of desire and ambition?  
 - What tropes do you feel are essential to this genre, and how does St. Clair either uphold or subvert them?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

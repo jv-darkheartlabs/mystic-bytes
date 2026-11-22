@@ -22,7 +22,6 @@ tags:
   - dark
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The novel’s exploration of mental illness and obsession might provoke polarize
 - In what ways does the novel challenge or reinforce typical gothic romance tropes?  
 - What are the implications of love depicted through the lens of obsession?  
 - How does the setting contribute to the overarching themes of the novel?
-
-#TheOrchidRoom #gothic #horrorromance #psychological #dark

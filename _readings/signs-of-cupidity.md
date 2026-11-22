@@ -7,7 +7,7 @@ dek: "Heart Hassle Book One — A Fantasy Reverse Harem Story"
 number: R805
 sort_key: 805
 date: 2026-03-29
-date_read: 2016-07-13
+date_read: 2018-07-13
 category: reverse-harem
 cover: /assets/readings/signs-of-cupidity.jpg
 spice: 4
@@ -45,5 +45,3 @@ The interplay between desire and manipulation is sure to ignite passionate debat
 - Are the themes of emotional manipulation and power dynamics too heavy-handed, or do they enrich the narrative?  
 - What role does pacing play in the reader's engagement with the characters' conflicts?  
 - How do you feel about the open-ended conclusion—does it heighten the intrigue or leave you unsatisfied?
-
-#TheOrchidRoom #reverseharem #darkromance #signs #literaryanalysis #darkheartlabs

@@ -22,7 +22,6 @@ tags:
   - classic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The polarities within *The Call of Cthulhu* revolve around its philosophical imp
 - Can we separate the author from the work when considering the cultural biases evident in his writing? 
 - What role does cosmic horror play in shaping our understanding of fear in the modern world? 
 - How does Lovecraft's vision of the unknown compare to the fears presented in today's horror literature?
-
-#TheOrchidRoom #gothic #horrorromance #Lovecraft #cosmichorror

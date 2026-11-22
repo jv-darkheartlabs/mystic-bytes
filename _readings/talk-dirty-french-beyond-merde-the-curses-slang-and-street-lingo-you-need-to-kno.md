@@ -19,7 +19,6 @@ tags:
   - culture
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,4 +47,3 @@ Munier's work raises provocative questions about the intersection of language an
 - What role does context play in the understanding of slang terms, and how does that affect communication?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #language #culturalidentity #TheOrchidRoom

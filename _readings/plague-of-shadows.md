@@ -7,7 +7,7 @@ dek: "The Aldoran Chronicles — Book Two"
 number: R576
 sort_key: 576
 date: 2026-03-04
-date_read: 2015-03-01
+date_read: 2019-03-01
 category: fantasy-romance
 cover: /assets/readings/plague-of-shadows.jpg
 spice: 3
@@ -48,5 +48,3 @@ The interplay between duty and desire in *Plague of Shadows* presents a fertile 
 - Does the shifting perspective enhance or detract from the narrative's emotional impact?  
 - In what ways do the themes of plague and violence reflect contemporary societal issues?  
 - How effectively does the ending resolve the primary conflicts, and what might it suggest about the nature of hope amidst despair?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #aldoranchronicles

@@ -22,7 +22,6 @@ tags:
   - revenge
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The structural elements of *V for Vendetta* are noteworthy. Moore employs a nonl
 - Do you think the graphic novel medium enhances or detracts from the themes explored?  
 - How does the ending reshape your understanding of V's character?  
 - What contemporary parallels can be drawn from the political landscape presented in the story?
-
-#LiteraryAnalysis #darkthriller #dystopian #graphicnovel #theorchidroom

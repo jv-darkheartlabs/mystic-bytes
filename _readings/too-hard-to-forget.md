@@ -38,5 +38,3 @@ The novel's exploration of desire amidst conflict invites rich conversation abou
 - Are the romantic resolutions satisfying when they come too easily, or do they need to be fought for?  
 - How do the characters' past traumas shape their present relationships?  
 - What does the book suggest about the line between love and hate?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

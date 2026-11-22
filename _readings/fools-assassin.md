@@ -47,5 +47,3 @@ Hobb’s work is rife with elements that may stir debate among readers, particul
 - Can the emotional weight of Fitz's choices be justified given the events of the narrative?  
 - How does the use of first-person POV shape your understanding of Fitz compared to secondary characters?  
 - What role does the setting play in amplifying the story's themes of identity and fate?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #fool's #assassin

@@ -1,20 +1,19 @@
 logo: /assets/images/dark-heart-labs-logo.png
 logo_header: /assets/images/dark-heart-labs-logo-header.png
-logo_alt: "Dark Heart Labs — Jennifer Picado"
+logo_alt: "Dark Heart Labs — Jennifer"
 brand_name: "DARK HEART LABS"
-brand_tagline: "Practical experience · Selected work · Outdoor interests"
+brand_tagline: "code // creativity // the technical void"
 icon: /assets/images/dark-heart-labs-icon.png
 
 coordinates: ""
 location: "Louisiana · Seeking coastal and island Washington opportunities"
 footer_tagline: ""
-sign_off: "Jennifer Picado"
+sign_off: "Jennifer"
 
 social:
   github: "https://github.com/jv-darkheartlabs"
   linkedin: "https://www.linkedin.com/in/darkheartlabs"
   spotify: "https://open.spotify.com/show/033kpxYNnb0RaXWV94VeEz"
-  discord: "https://discord.gg/darkheartlabs"
   instagram: "https://www.instagram.com/darkheartlabs/"
   twitch: "https://www.twitch.tv/darkheartlabs"
   youtube: "https://www.youtube.com/@darkheartlabs"

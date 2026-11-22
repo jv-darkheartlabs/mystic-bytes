@@ -7,7 +7,7 @@ dek: "The Legends of Thezmarr Book II"
 number: R1224
 sort_key: 1224
 date: 2026-05-14
-date_read: 2015-03-01
+date_read: 2025-03-01
 category: fantasy-romance
 cover: /assets/readings/vows-ruins.jpg
 spice: 3
@@ -44,5 +44,3 @@ The book invites robust discussion on the interplay between love and destruction
 - In what ways does the violence in the story influence the romantic dynamics?  
 - Is the ending satisfying or does it feel unresolved in terms of character growth?  
 - How does Scheuerer navigate the expectations of fantasy romance, and does she succeed in subverting them?
-
-#TheOrchidRoom #VowsAndRuins #fantasyromance #darkromance #literaryanalysis

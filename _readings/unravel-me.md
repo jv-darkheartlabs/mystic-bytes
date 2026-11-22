@@ -47,5 +47,3 @@ Mafi's *Unravel Me* invites discourse on the interplay of desire, identity, and 
 - Are the romantic entanglements portrayed realistically, or do they veer into trope territory?  
 - How effective is the book's pacing in building tension and emotional resonance?  
 - What unresolved questions about power, identity, and love linger after the final page?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #unravelme

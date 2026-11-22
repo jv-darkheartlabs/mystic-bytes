@@ -6,7 +6,7 @@ dek: "A glance. A kiss. A touch. They'll change you forever."
 number: R828
 sort_key: 828
 date: 2026-04-01
-date_read: 2015-03-01
+date_read: 2020-03-01
 category: dark-billionaire
 cover: /assets/readings/irresistible-attraction.jpg
 spice: 5
@@ -44,5 +44,3 @@ The tension between desire and self-preservation in **Irresistible Attraction** 
 - In what ways does the book’s resolution align or clash with your expectations of the genre?  
 - What role does setting play in shaping the emotional landscape of the story?  
 - Can a relationship built on manipulation ever lead to true love?
-
-#TheOrchidRoom #darkbillionaire #darkromance #literaryanalysis #mercilessworld

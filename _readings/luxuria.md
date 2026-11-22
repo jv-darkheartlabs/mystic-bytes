@@ -6,7 +6,7 @@ dek: "Shades of Sin"
 number: R642
 sort_key: 642
 date: 2026-03-11
-date_read: 2021-06-10
+date_read: 2022-06-10
 category: fantasy-romance
 cover: /assets/readings/luxuria.jpg
 spice: 5
@@ -45,5 +45,3 @@ However, while the prose often soars, at times it leans heavily on flowery descr
 - In what ways do the dark themes resonate with contemporary societal issues surrounding relationships?  
 - Is the portrayal of obsession romanticized, or does it serve as a cautionary tale?  
 - What role do the supernatural elements play in shaping the characters' destinies and desires?  
-
-#TheOrchidRoom #fantasyromance #darkromance #shadesofsin #literaryanalysis

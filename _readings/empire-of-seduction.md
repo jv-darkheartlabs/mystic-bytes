@@ -7,7 +7,7 @@ dek: "New York State of Mafia — Book Two"
 number: R174
 sort_key: 174
 date: 2026-01-19
-date_read: 2021-06-10
+date_read: 2025-06-10
 category: mafia-boss-and-innocent
 cover: /assets/readings/empire-of-seduction.jpg
 spice: 4
@@ -50,5 +50,3 @@ The novel's exploration of obsession and power dynamics presents fertile ground 
 - Are the characters’ developments authentic given their extreme circumstances, or do they lean too heavily into archetypes?  
 - In what ways does the novel challenge or reinforce traditional gender roles within its narrative?  
 - Is the emotional payoff of the ending satisfying or does it leave too many questions unanswered?
-
-#TheOrchidRoom #mafiaromance #darkromance #newyorkmafia #literaryanalysis

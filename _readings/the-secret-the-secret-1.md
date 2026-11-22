@@ -18,7 +18,6 @@ tags:
   - personal development
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ Byrne's *The Secret* polarizes its audience, inciting debates about the merits o
 - What are the ethical implications of promoting such an approach to personal development?  
 - Can we truly achieve our desires through thought alone, or is action required?  
 - In what ways might *The Secret* reflect broader societal attitudes towards success and failure?
-
-#LiteraryAnalysis #darkthriller #self-help #personal-development #TheOrchidRoom

@@ -10,7 +10,7 @@ type: pillar
 read_time: 8
 tags: [craft]
 brief:
-  system: "GitHub OAuth and OIDC sign-in used as a customer of public identity providers from Auckland"
+  system: "GitHub OAuth and OIDC sign-in used as a customer of public identity providers from Louisiana"
   issue: '"Sign in with Google" taught as login when the protocol is delegated authorization'
   constraint: "RFC 6749 and OIDC as the texts; no identity-vendor employment; not a copy-paste tutorial"
 ---
@@ -21,7 +21,7 @@ brief:
 
 ## Context
 
-I click through GitHub OAuth when a tool wants to list my repos. I have used a Google or Microsoft button on sites I did not write, from a desk in Auckland, because the alternative was another password I would reuse. I do not work for those identity providers. I do not owe you a framework snippet. I owe you the shape of the trust you just moved.
+I click through GitHub OAuth when a tool wants to list my repos. I have used a Google or Microsoft button on sites I did not write, from a desk in Louisiana, because the alternative was another password I would reuse. I do not work for those identity providers. I do not owe you a framework snippet. I owe you the shape of the trust you just moved.
 
 mystic-bytes itself does not run an OAuth server. Dark Heart Labs still lives in a world where GitHub is the forge and GitHub is an authorization server. The protocol shows up anyway. Treating it as a green button is how scopes sprawl and a leaked token becomes a leaked account.
 

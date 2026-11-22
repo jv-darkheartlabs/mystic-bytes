@@ -6,7 +6,7 @@ dek: "A Dark Captive Romance"
 number: R327
 sort_key: 327
 date: 2026-02-04
-date_read: 2018-06-10
+date_read: 2024-06-10
 category: captor-and-captive
 cover: /assets/readings/killing-emma.jpg
 spice: 4
@@ -46,5 +46,3 @@ Pacing is both a strength and a potential pitfall; the initial slow burn captiva
 - Can we sympathize with a character who embodies both vulnerability and menace?  
 - What role does societal conditioning play in our acceptance of dark romance tropes?  
 - How does the resolution affect your overall interpretation of the characters' journeys?
-
-#TheOrchidRoom #KillingEmma #darkromance #literaryanalysis #captorandcaptive

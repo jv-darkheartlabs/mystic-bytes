@@ -47,5 +47,3 @@ Structurally, the timeline cleverly incorporates flashbacks, revealing the haunt
 - Is the ending satisfactory in terms of character development, or does it leave too many threads unresolved?
 - In what ways does Kent’s exploration of power dynamics compare to other works within the genre, and does it challenge or conform to typical romantic tropes?
 - How do the content warnings influence your reading experience and interpretation of the text?
-
-#TheOrchidRoom #bullyromance #darkromance #royalelite #literaryanalysis

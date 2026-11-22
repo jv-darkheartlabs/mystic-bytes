@@ -21,7 +21,6 @@ tags:
   - dystopian
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Herbert's complex treatment of power, love, and sacrifice invites a spectrum of 
 - Do you see the philosophical underpinnings of the text as a strength or a hindrance to character engagement?  
 - How does the ending affect your overall impression of the narrative's exploration of leadership and sacrifice?  
 - What does this novel suggest about the nature of destiny and the agency of those who believe they are chosen?
-
-#TheOrchidRoom #fantasyromance #darkromance #sciencefiction #politicalintrigue

@@ -27,9 +27,9 @@ Database migrations carry a weight other deploys do not. You are reshaping the f
 
 On the mystic-bytes readings catalog, a slug column lived as `VARCHAR(255)` for years. Imports with longer romanized titles did not fail loudly. Postgres truncated. Covers pointed at the wrong slug. The bug surfaced three hops away from the column, which is how schema debt usually announces itself.
 
-The SQL was trivial. The operational problem was not: expand without downtime, backfill honestly, and write a comment that future-me could trust after a flight. Auckland 2026 did not invent that constraint. It made the timezone honest. A "quiet night" in Tāmaki Makaurau is business hours for readers and bots in the US. Low traffic is a window, not a personality. If the only time I can take a lock is when I am exhausted, the checklist has to be written for exhausted me.
+The SQL was trivial. The operational problem was not: expand without downtime, backfill honestly, and write a comment that future-me could trust after a flight. Louisiana 2026 did not invent that constraint. It made the window honest: a quiet night here is a quiet night for my US readers too — the low-traffic window is real, and it is also my night. Low traffic is a window, not a personality. If the only time I can take a lock is when I am exhausted, the checklist has to be written for exhausted me.
 
-I run this from Fedora, with the migration file in Cursor and a second terminal on the replica lag graph. There is no DBA shift. There is a backup I verified last month, or there is a story I am telling myself.
+I run this from Fedora, with the migration file in front of me and a second terminal on the replica lag graph. There is no DBA shift. There is a backup I verified last month, or there is a story I am telling myself.
 
 ## Mechanism
 
@@ -39,7 +39,7 @@ Expand and contract is the pattern that keeps users asleep.[^1] Add the new colu
 
 Batching is not aesthetic. A single `UPDATE` over a large table takes locks you will feel in the request log. I backfill slugs in chunks with a pause, then compare counts. The pause is where you notice that a trigger you forgot is rewriting rows you already fixed.
 
-Comments are part of the migration. SQL files accept them. `Expand slug to TEXT per silent truncation` links the DDL to the incident. The PR discussion is ephemeral. The migration file is what you grep at 01:00. Cursor can generate the `ALTER`. It will not remember why `VARCHAR(255)` was a lie unless you type the sentence.
+Comments are part of the migration. SQL files accept them. `Expand slug to TEXT per silent truncation` links the DDL to the incident. The PR discussion is ephemeral. The migration file is what you grep at 01:00. The model can generate the `ALTER`. It will not remember why `VARCHAR(255)` was a lie unless you type the sentence.
 
 Low-traffic windows still matter. You run when traffic is lowest because rollback has margin. That is not permission to skip staging. It is insurance for the test suite's blind spots. Staging that does not have production-shaped row counts will bless a lock you cannot afford.
 
@@ -59,7 +59,7 @@ Expand/contract costs more PRs. A single scary migration costs one PR and a week
 
 When users wake up and everything works, they will not send thank-you notes. That is the compliment. The floor moved. The surface stayed calm because someone did the unglamorous checklist.
 
-Write the rollback plan before you need it. Name the commit. Sleep anyway, even if Auckland morning is someone else's peak. The migration file should still make sense when you are not proud of how late you stayed.
+Write the rollback plan before you need it. Name the commit. Sleep anyway, even if the morning after is everyone's peak. The migration file should still make sense when you are not proud of how late you stayed.
 
 — JV · Dark Heart Labs.
 

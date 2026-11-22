@@ -45,5 +45,3 @@ Collins' work invites discourse on the complexities of character development and
 - How do the characters' flaws contribute to the tension and their eventual growth?  
 - In what ways do the elements of humor and darkness interact to shape the overall tone?  
 - How does Collins' approach compare with other contemporary authors in the historical romance genre?
-
-#TheOrchidRoom #enemiestolovers #darkromance #historicalromance #mystery

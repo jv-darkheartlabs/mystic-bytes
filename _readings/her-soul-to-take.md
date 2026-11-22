@@ -49,5 +49,3 @@ However, while the lyrical quality of the writing enhances the gothic atmosphere
 - Are the darker themes of violence and dubcon justified within the narrative, or do they overshadow character development?
 - How does the gothic romance framework affect the reader's perception of the protagonists’ choices?
 - What lingering emotions or questions did the ending evoke for you, and do you see it as an invitation to reflect or a narrative flaw?
-
-#TheOrchidRoom #vampire #darkromance #occult #souls_trilogy

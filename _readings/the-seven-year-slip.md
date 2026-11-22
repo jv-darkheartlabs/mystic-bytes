@@ -7,7 +7,7 @@ dek: "A novel"
 number: R604
 sort_key: 604
 date: 2026-03-07
-date_read: 2019-04-04
+date_read: 2023-04-04
 category: fantasy-romance
 cover: /assets/readings/the-seven-year-slip.jpg
 spice: 2
@@ -48,5 +48,3 @@ The intersection of grief and romance in a time-bending narrative will undoubted
 - Does the ending provide a satisfying resolution to the themes of love and loss, or does it feel overly simplistic?  
 - How do you perceive the balance between fantasy elements and the real-life implications of grief in the story?  
 - What role does nostalgia play in shaping our perceptions of love, as reflected in Poston’s work?  
-
-#TheOrchidRoom #TheSevenYearSlip #AshleyPoston #fantasyromance #darkromance

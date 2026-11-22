@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R424
 sort_key: 424
 date: 2026-02-15
-date_read: 2009-04-04
+date_read: 2024-04-04
 category: mystery-crime
 cover: /assets/readings/the-last-murder-at-the-end-of-the-world.jpg
 content_warnings:

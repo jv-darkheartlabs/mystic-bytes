@@ -7,7 +7,7 @@ dek: "Hollow Boys — Book Four · Part Two"
 number: R314
 sort_key: 314
 date: 2026-02-03
-date_read: 2017-11-25
+date_read: 2022-11-25
 category: stalker-obsession
 cover: /assets/readings/the-blood-we-crave-part-two.jpg
 spice: 4
@@ -56,5 +56,3 @@ Jay's exploration of obsession raises polarizing questions about morality, desir
 - In what ways does the gothic element contribute to or complicate the story's message about desire?  
 - How does Jay’s writing style influence your experience of the characters' emotional journeys?  
 - Can the ending's abruptness be interpreted as a commentary on the chaotic nature of obsession?
-
-#TheOrchidRoom #stalker #obsession #darkromance #gothic

@@ -47,5 +47,3 @@ The book’s blend of political maneuvering and personal desire often divides op
 - What role does the setting play in shaping the characters' desires and actions?  
 - How do you interpret the moral ambiguity presented in the character arcs?  
 - In what ways does the book challenge or reinforce traditional gender roles within its romantic and political contexts?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

@@ -43,5 +43,3 @@ This novel invites a reflection on the complexities of love and rivalry, raising
 - Does the use of dual perspectives enhance the romantic tension or dilute it?  
 - How does Quinn's handling of secondary characters affect the main narrative?  
 - What elements of the enemies-to-lovers trope do you find most compelling or clichéd?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #Bridgerton #historical

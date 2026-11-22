@@ -6,7 +6,7 @@ dek: "A Deal with a Demon Novel"
 number: R1334
 sort_key: 1334
 date: 2026-05-25
-date_read: 2017-05-07
+date_read: 2022-05-07
 category: captor-and-captive
 cover: /assets/readings/the-dragons-bride.jpg
 spice: 5
@@ -53,5 +53,3 @@ The interplay of power dynamics in *The Dragon's Bride* raises provocative quest
 - Does the novel successfully navigate the thin line between consent and coercion, or does it lean too heavily into problematic territory?
 - How does the ending affect your overall interpretation of the characters’ journey?
 - What does this book suggest about the nature of desire in relationships marked by power imbalances?
-
-#TheOrchidRoom #captive #darkromance #dragon #literaryanalysis

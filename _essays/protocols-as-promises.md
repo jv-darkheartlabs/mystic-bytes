@@ -21,7 +21,7 @@ brief:
 
 The mystic-bytes pipeline looked fine until it was not. Local Jekyll builds on Fedora hit warm artifacts. GitHub Actions rebuilt from cold and got different hashes. Intent — cache the compiled asset graph — had drifted from implementation — cache a key that silently omitted one input the cover-preprocess still read. No downtime. No schema break. Ship before end of week. We could not blow the cache away and pretend the contract had never existed. We had to extend the promise without breaking callers who had already shipped against the old one.
 
-That is protocol work even when the "protocol" is internal. Every boundary — HTTP, webhooks, cache keys, event schemas, the frontmatter fields Cursor keeps inventing — is a contract with strangers: future you, the next script, the vendor Action you do not control. Auckland 2026 does not give CI a second clock you can argue with. It gives you a weekday and a hash.
+That is protocol work even when the "protocol" is internal. Every boundary — HTTP, webhooks, cache keys, event schemas, the frontmatter fields the model keeps inventing — is a contract with strangers: future you, the next script, the vendor Action you do not control. Louisiana 2026 does not give CI a second clock you can argue with. It gives you a weekday and a hash.
 
 Nightbind's Stripe webhooks taught the same lesson on a louder surface. The partner's payload is a protocol. Your handler is an implementation. If you treat retries as a surprise, you did not read the promise.
 

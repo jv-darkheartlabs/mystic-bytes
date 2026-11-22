@@ -24,7 +24,6 @@ tags:
   - supernatural
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ Rice's *The Queen of the Damned* provokes heated discourse on the nature of evil
 - Does the narrative's philosophical underpinning enhance or detract from the plot's urgency?  
 - How does Rice's lyrical prose serve to heighten the themes of desire and power?  
 - What unresolved questions linger for you after reading the novel?  
-
-#TheOrchidRoom #vampire #darkromance #gothic #literaryanalysis

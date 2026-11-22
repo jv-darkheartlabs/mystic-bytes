@@ -46,5 +46,3 @@ Mansy’s exploration of memory and obsession raises polarizing questions about 
 - In what ways does the dual timeline enhance or detract from the emotional weight of the story?  
 - What are the implications of the ending—does it suggest hope or despair in the face of trauma?  
 - How does Mansy’s portrayal of dark magic serve as a metaphor for the dangers of losing oneself in love?
-
-#TheOrchidRoom #fantasyromance #darkromance #memory #literaryanalysis

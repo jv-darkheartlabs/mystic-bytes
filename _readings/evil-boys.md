@@ -6,7 +6,7 @@ dek: "New York Times & USA Today Bestselling Author"
 number: R060
 sort_key: 060
 date: 2026-01-07
-date_read: 2015-09-19
+date_read: 2023-09-19
 category: bully-romance
 cover: /assets/readings/evil-boys.jpg
 spice: 4
@@ -47,5 +47,3 @@ The juxtaposition of love and toxicity in *Evil Boys* invites a multitude of int
 - Do you think the portrayal of secondary characters weakens or strengthens the main narrative?  
 - How does the ending shape your perception of the protagonists' journeys?  
 - What are the implications of romanticizing toxic relationships in literature?
-
-#TheOrchidRoom #bullyromance #darkromance #gothic #masquerade

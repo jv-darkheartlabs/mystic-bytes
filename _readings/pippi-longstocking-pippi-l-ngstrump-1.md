@@ -19,7 +19,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Pippi Longstocking invites readers to grapple with the complexities of freedom v
 - Can we draw parallels between Pippi’s adventures and modern notions of childhood autonomy?  
 - What might the narrative suggest about the responsibilities that accompany freedom?  
 - Is the whimsical tone a distraction from deeper societal critiques, or does it enhance them?
-
-#TheOrchidRoom #gothic #horrorromance #children'sliterature #darkheartlabs

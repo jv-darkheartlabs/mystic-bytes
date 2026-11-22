@@ -46,5 +46,3 @@ The thematic exploration of identity — particularly how love can compel one to
 - How does Black's portrayal of faerie politics reflect contemporary societal issues?  
 - In what ways do the characters’ identities evolve through their relationships with each other?  
 - Is the ending truly earned, or does it feel contrived in the context of the characters' journeys?
-
-#TheOrchidRoom #fantasyromance #darkromance #HollyBlack #literaryanalysis

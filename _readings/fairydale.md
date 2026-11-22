@@ -7,7 +7,7 @@ dek: ""
 number: R277
 sort_key: 277
 date: 2026-01-30
-date_read: 2016-10-22
+date_read: 2022-10-22
 category: vampire-paranormal
 cover: /assets/readings/fairydale.jpg
 spice: 4
@@ -50,5 +50,3 @@ In *Fairydale*, the complexities of desire and the nature of obsession raise pol
 - What do you think of the dual timeline structure — does it enhance or detract from the narrative's emotional impact? 
 - How does Lancet balance the line between explicit themes and literary craft? 
 - In what ways does the ending challenge typical genre conventions?
-
-#TheOrchidRoom #vampire #darkromance #gothic #literaryanalysis

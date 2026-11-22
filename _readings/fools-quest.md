@@ -47,5 +47,3 @@ Hobb’s exploration of complex relationships and the intricacies of loyalty pre
 - Is the ending of *Fool's Quest* satisfactory in its ambiguity, or does it leave too many loose ends?
 - In what ways does Hobb's portrayal of love differ from typical romance tropes?
 - How does the blend of fantasy elements with psychological depth affect your connection to the characters?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #FoolsQuest

@@ -7,7 +7,7 @@ dek: "A Maple Hills Novel"
 number: R1363
 sort_key: 1363
 date: 2026-05-28
-date_read: 2022-07-13
+date_read: 2023-07-13
 category: enemies-to-lovers
 cover: /assets/readings/wildfire.jpg
 spice: 4
@@ -46,5 +46,3 @@ The thematic exploration of vulnerability amidst rivalry is where Grace truly sh
 - What does *Wildfire* suggest about the nature of love and rivalry—can they coexist, or are they inherently at odds?  
 - How do the summer camp setting and forced proximity influence the characters' development?  
 - In what ways does Grace's writing style either elevate or hinder your connection to the characters?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #contemporaryromance #HannahGrace

@@ -22,7 +22,6 @@ tags:
   - social commentary
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Thompson's work sparks rich debates about the intersections of journalism and fi
   - In what ways does *Generation of Swine* challenge the boundaries of nonfiction?  
   - Is the self-indulgence in his writing a flaw or a necessary part of his critique?  
   - How does the book resonate differently with readers from various generational backgrounds?
-
-#LiteraryAnalysis #darkthriller #socialcommentary #nonfiction #theorchidroom

@@ -46,5 +46,3 @@ While the ending attempts to tie up the narrative threads, it leaves some emotio
 - What are your thoughts on the resolution—did it satisfy or provoke further questions?  
 - How does Kent’s exploration of legacy shape your understanding of the characters’ motivations?  
 - In what ways do you think the gothic elements enhance or detract from the romance?
-
-#TheOrchidRoom #GodOfMalice #bullyromance #darkromance #literaryanalysis

@@ -7,7 +7,7 @@ dek: ""
 number: R1192
 sort_key: 1192
 date: 2026-05-10
-date_read: 2019-07-13
+date_read: 2024-07-13
 category: fantasy-romance
 cover: /assets/readings/fate-of-the-sun-king.jpg
 spice: 3
@@ -47,5 +47,3 @@ Tuli's melding of light and dark creates a fertile ground for debate, particular
 - Does the ending deliver an earned resolution, or does it feel like a setup for future conflicts?  
 - How do the characters' moral complexities influence your reading of their choices?  
 - What role does the setting play in shaping the emotional stakes of the narrative?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #FateOfTheSunKing

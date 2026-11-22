@@ -6,7 +6,7 @@ dek: "A Dark Hitchhiker Romance"
 number: R087
 sort_key: 087
 date: 2026-01-10
-date_read: 2018-09-19
+date_read: 2023-09-19
 category: captor-and-captive
 cover: /assets/readings/along-for-the-ride.jpg
 spice: 4
@@ -50,5 +50,3 @@ The interplay of captivity and desire in **Along for the Ride** raises profound 
 - What role does the setting play in shaping the characters' relationships?  
 - How does Biel balance the thrill of danger with the ethics of her characters' actions?  
 - Can a character's transformation redeem their initial moral failings, and what does that say about forgiveness in relationships?
-
-#TheOrchidRoom #darkromance #captive #biker #literaryanalysis

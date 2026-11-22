@@ -6,7 +6,7 @@ dek: "Fallen Gods Motorcycle Club — Book One"
 number: R1290
 sort_key: 1290
 date: 2026-05-21
-date_read: 2021-06-10
+date_read: 2023-06-10
 category: motorcycle-club
 cover: /assets/readings/no-place-for-devils.jpg
 spice: 4
@@ -48,5 +48,3 @@ This novel presents several polarizing elements worthy of debate. On one hand, i
 - Are the protagonists’ choices justified in the context of their backgrounds, or do they simply perpetuate harmful stereotypes?  
 - In what ways does the concept of 'fallen gods' apply to modern relationships, both in fiction and reality?  
 - How does the dual perspective enrich or complicate our understanding of desire and conflict in the narrative?
-
-#TheOrchidRoom #mcromance #darkromance #fallen gods #literaryanalysis

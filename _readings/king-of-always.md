@@ -51,5 +51,3 @@ The ending presents a mixed bag. While it resolves the immediate conflicts effec
 - Can the antagonist's obsession be seen as a reflection of love, or does it cross a line into something more sinister?
 - How does Heart's prose contribute to the emotional depth of the characters?
 - Is the ending of the book satisfying or does it leave too much unresolved?
-
-#TheOrchidRoom #fantasyromance #darkromance #fae #royalintrigue

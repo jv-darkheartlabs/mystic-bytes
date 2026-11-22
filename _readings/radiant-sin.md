@@ -50,5 +50,3 @@ Prose-wise, Robert excels with evocative imagery and sharp dialogue that crackle
 - In what ways does Robert’s retelling innovate upon or reinforce existing mythological narratives?  
 - How do you feel about the balance between fantasy elements and emotional realism in the characters' journeys?  
 - What implications does the ending hold for our understanding of love and loyalty?
-
-#TheOrchidRoom #fantasyromance #darkromance #darkolympus #literaryanalysis

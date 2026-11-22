@@ -49,5 +49,3 @@ The interplay of love and obsession raises intriguing questions about the nature
 - Do you believe the ending provides closure, or does it leave too many questions unanswered?
 - How do the themes of grief and supernatural power resonate in today’s societal climate?
 - Is the balance between horror and romance effective, or does one overshadow the other?
-
-#TheOrchidRoom #gothic #horrorromance #godsandmonsters #darkromantasy

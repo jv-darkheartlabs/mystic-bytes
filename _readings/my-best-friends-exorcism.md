@@ -23,7 +23,6 @@ tags:
   - 80s nostalgia
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Hendrix's blend of horror and humor may polarize readers, prompting discussions 
 - Does the portrayal of demonic possession resonate with personal or cultural experiences of betrayal?  
 - How effectively does the novel address the complexities of female friendship through its supernatural lens?  
 - What does the portrayal of body horror say about the characters’ internal struggles?  
-
-#TheOrchidRoom #gothic #horrorromance #friendship #80snostalgia

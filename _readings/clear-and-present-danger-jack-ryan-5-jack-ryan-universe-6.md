@@ -22,7 +22,6 @@ tags:
   - political thriller
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Clancy's exploration of power dynamics and moral ambiguity invites a spectrum of
 - Can the excessive detail detract from character engagement, or does it enrich the narrative?  
 - How do the differing perspectives influence your understanding of the central conflict?  
 - Is the resolution of the narrative satisfactory, or does it leave too many questions unanswered?  
-
-#LiteraryAnalysis #darkthriller #military #espionage #politicalthriller #TheOrchidRoom

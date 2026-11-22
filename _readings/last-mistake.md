@@ -48,5 +48,3 @@ The tension in *Last Mistake* ignites polarizing discussions about morality, des
 - In what ways does the psychological intensity shape our perception of the characters' morality?  
 - Can we sympathize with characters who make destructive choices in the name of love?  
 - How does the ending reflect the broader themes of desire and consequence in the novella?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #gothic #literaryanalysis

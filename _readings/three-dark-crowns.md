@@ -49,5 +49,3 @@ Craft-wise, Blake excels in constructing a vividly realized world that teeters o
 - Is the ending a culmination of the sisters' arcs, or does it undermine their individual journeys?  
 - How does the portrayal of dark magic serve as a metaphor for the characters' internal struggles?  
 - What role does the setting play in enhancing the sense of dread and competition within the story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #triplets #queens

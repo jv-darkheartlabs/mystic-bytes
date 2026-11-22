@@ -48,5 +48,3 @@ The exploration of love tinged with danger generates rich avenues for discussion
 - Are the gothic elements successful in heightening the emotional stakes, or do they detract from the realism?  
 - In what ways does the ending challenge conventional expectations of romance?  
 - How do the content warnings shape your reading experience and emotional response?
-
-#TheOrchidRoom #PrettyDarkVows #CallieRose #darkromance #gothic

@@ -44,5 +44,3 @@ Characterization shines through the duality of the protagonists: they are both d
 - What are the implications of the unresolved ending — does it elevate or diminish the overall experience?  
 - In what ways does *Heavy* challenge or conform to traditional views of love and morality?  
 - How do the craft choices influence your emotional response to the characters and their fates?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

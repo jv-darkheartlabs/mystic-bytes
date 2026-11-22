@@ -7,7 +7,7 @@ dek: "A Witch Walker Novel"
 number: R1216
 sort_key: 1216
 date: 2026-05-13
-date_read: 2019-04-04
+date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/city-of-ruin.jpg
 spice: 3
@@ -48,5 +48,3 @@ The juxtaposition of love and moral compromise creates a fertile ground for deba
 - Does the ending resonate as a satisfying conclusion, or does it feel like a retreat from the complexities presented throughout the novel?  
 - How do Weaks' characterizations reflect or subvert expectations within the fantasy-romance genre?  
 - What role does the setting play in shaping the emotional stakes of the narrative?
-
-#TheOrchidRoom #fantasyromance #darkromance #witchwalker #literaryanalysis

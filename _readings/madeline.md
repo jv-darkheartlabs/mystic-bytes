@@ -18,7 +18,6 @@ tags:
   - illustrated
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ Bemelmans excels in crafting dialogue that is both playful and poignant, effecti
 - Can the simplistic resolution be viewed as a necessary closure, or does it undermine the book's deeper themes?  
 - How do illustrations alter or enhance the reading experience in this context of gothic horror romance?  
 - What does Madeline's character reveal about gender expectations in literature for both children and adults?  
-
-#TheOrchidRoom #gothic #horrorromance #children'sliterature #classic

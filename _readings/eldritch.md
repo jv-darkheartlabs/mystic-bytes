@@ -51,5 +51,3 @@ Characterization shines, particularly in the portrayal of the vampire figure, wh
 - Does the slow pacing enhance or detract from the overall tension of the story?  
 - How might the psychological horror elements affect a reader’s perception of the romantic aspects?  
 - What unresolved questions linger after the climax, and how do they affect your interpretation of the ending?  
-
-#TheOrchidRoom #vampire #paranormal #darkromance #gothic

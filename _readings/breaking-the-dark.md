@@ -7,7 +7,7 @@ dek: "A Jessica Jones Marvel Crime Novel"
 number: R388
 sort_key: 388
 date: 2026-02-11
-date_read: 2013-04-04
+date_read: 2024-04-04
 category: mystery-crime
 cover: /assets/readings/breaking-the-dark.jpg
 content_warnings:
@@ -44,5 +44,3 @@ Character development is one of Jewell's strong suits; her protagonists are deep
 - To what extent does the novel challenge or conform to typical tropes in dark thrillers?  
 - How do the moral ambiguities presented in the novel reflect societal issues?  
 - What might the ending suggest about the cost of survival in a world defined by darkness?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

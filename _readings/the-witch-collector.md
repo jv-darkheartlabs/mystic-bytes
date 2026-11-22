@@ -46,5 +46,3 @@ The interplay of light and darkness in Weaks’ narrative presents intriguing po
 - Does the portrayal of dark magic serve as a metaphor for the characters’ emotional struggles, and how effectively is this conveyed?  
 - How does Weaks’ dialogue contribute to or hinder the world-building?  
 - Is the resolution of the protagonists' journeys fulfilling, or does it leave too many threads unresolved?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #witches

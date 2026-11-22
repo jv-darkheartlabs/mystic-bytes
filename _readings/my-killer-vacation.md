@@ -6,7 +6,7 @@ dek: ""
 number: R379
 sort_key: 379
 date: 2026-02-10
-date_read: 2014-04-04
+date_read: 2022-04-04
 category: romantic-suspense
 cover: /assets/readings/my-killer-vacation.jpg
 spice: 4
@@ -44,4 +44,3 @@ The interplay of humor and horror may divide readers sharply — can one effecti
 - Does the ending provide closure, or does it leave too many threads dangling?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #TheOrchidRoom

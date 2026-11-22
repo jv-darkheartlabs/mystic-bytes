@@ -49,5 +49,3 @@ Thematically, *Gula* triumphs in its exploration of excess and consequence, but 
 - In what ways does the book challenge conventional notions of romance?  
 - Can the excessive descriptions enhance or detract from the reader's experience?  
 - How does the use of multiple perspectives impact your empathy toward characters?
-
-#TheOrchidRoom #fantasyromance #darkromance #gluttony #literaryanalysis

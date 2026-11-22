@@ -45,5 +45,3 @@ The interplay of desire and moral boundaries in *Don't Let Me Go* invites ample 
 - In what ways does the book challenge or reinforce traditional tropes found in forbidden romance?  
 - How does the dual perspective impact your connection to the characters?  
 - What role does grief play in shaping the characters' actions and their eventual outcomes?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #contemporaryromance #emotional

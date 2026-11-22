@@ -6,7 +6,7 @@ dek: ""
 number: R940
 sort_key: 940
 date: 2026-04-13
-date_read: 2019-07-13
+date_read: 2023-07-13
 category: fantasy-romance
 cover: /assets/readings/two-twisted-crowns.jpg
 spice: 3
@@ -44,5 +44,3 @@ The interplay of power, desire, and moral ambiguity in *Two Twisted Crowns* invi
 - Are the characters’ moral failings redeemed by their desires, or do they ultimately lead to their downfall?  
 - How does the gothic atmosphere enhance the themes of desire and betrayal?  
 - What are the implications of the book's ending on the overarching themes of power and love?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #two #twisted

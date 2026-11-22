@@ -18,7 +18,6 @@ tags:
   - literary
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The complexities of *Persuasion* invite significant debate on the nature of love
 - Are the secondary characters in *Persuasion* effective in their roles, or do they detract from Anne’s narrative?  
 - How does the ending redefine the concept of 'happily ever after' in the context of personal growth?  
 - What does the novel suggest about the balance between societal duty and personal desire?
-
-#TheOrchidRoom #gothic #horrorromance #classic #literaryanalysis

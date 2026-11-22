@@ -42,5 +42,3 @@ The novel's blend of desire and taboo raises potent questions about societal nor
 - How does Ron's treatment of familial relationships shape our understanding of love?  
 - What are the implications of unresolved endings in romance narratives?  
 - How do we navigate our discomfort with taboo relationships while engaging with their portrayal in literature?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #Culpables #literaryanalysis

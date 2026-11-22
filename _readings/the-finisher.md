@@ -50,5 +50,3 @@ The heart of *The Finisher* lies in its confrontational love story, evoking pass
 - What are your thoughts on the resolution: was it satisfying or did it leave you wanting more?  
 - Can love truly flourish in the shadows of crime, or is it inevitably tainted by the darkness that surrounds it?  
 - How does the dual perspective alter your understanding of the protagonists’ motivations?  
-
-#TheOrchidRoom #darkromance #enemiestolovers #literaryanalysis #darkheartlabs

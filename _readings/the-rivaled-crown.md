@@ -44,5 +44,3 @@ The interplay of ambition and romance creates polarizing debates around characte
 - In what ways do you think the themes of loyalty and ambition resonate with contemporary societal issues?
 - Can the ending be considered truly satisfying if it leaves the reader questioning the characters' fates?
 - What elements of the world-building stand out as particularly effective or ineffective in immersing you in the story?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #TheRivaledCrown

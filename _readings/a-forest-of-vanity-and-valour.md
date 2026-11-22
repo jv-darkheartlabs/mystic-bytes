@@ -45,5 +45,3 @@ The polarities within *A Forest of Vanity and Valour* may spark heated debates a
 - What role does the forest itself play as a character in the story — does it reflect the inner turmoil of the protagonist or serve merely as a backdrop?
 - How do you feel about the balance of world-building and character development in this narrative?
 - Does the ending resonate as a fitting conclusion, or does it feel like a missed opportunity?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

@@ -41,5 +41,3 @@ The novel's engaging exploration of desire versus ambition invites a variety of 
 - To what extent do you feel the supporting characters enrich or dilute the main narrative?  
 - Does Jouhanneau succeed in portraying genuine tension between love and ambition, or does it come off as romanticized?  
 - How might a more complex ending alter the impact of the story?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #Paris #literaryanalysis

@@ -40,5 +40,3 @@ Rooney’s novel provokes a dichotomy in its reception; some readers may find so
 - Do you find the unresolved ending satisfying or frustrating, and why?
 - How does *Beautiful World, Where Are You* compare to other works in the forbidden love genre?
 - What aspects of the characters' relationships resonated with you, and what did you find lacking?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literary #darkheartlabs

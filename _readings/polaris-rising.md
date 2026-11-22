@@ -7,7 +7,7 @@ dek: ""
 number: R578
 sort_key: 578
 date: 2026-03-04
-date_read: 2017-05-07
+date_read: 2019-05-07
 category: fantasy-romance
 cover: /assets/readings/polaris-rising.jpg
 spice: 3
@@ -47,5 +47,3 @@ However, the book's reliance on familiar tropes sometimes dilutes the impact of 
 - Does the book undermine its own tension through predictable plot developments, or does it successfully navigate these tropes?
 - How does the setting of a galactic conflict enhance or detract from the romantic elements of the story?
 - What are the implications of the book's ending for the narrative of female empowerment?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #spaceopera

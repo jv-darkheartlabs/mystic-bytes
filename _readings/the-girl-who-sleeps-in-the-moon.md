@@ -6,7 +6,7 @@ dek: ""
 number: R564
 sort_key: 564
 date: 2026-03-03
-date_read: 2015-09-19
+date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/the-girl-who-sleeps-in-the-moon.jpg
 spice: 3
@@ -53,5 +53,3 @@ Warmerdam’s novel presents polarities that are ripe for discussion, particular
 - Was the ending satisfying in its ambiguity, or did it feel like a disservice to the journey?
 - How does Warmerdam’s depiction of dreams and magic influence the narrative’s tension? 
 - In what ways does the novel challenge or reinforce traditional romantic tropes?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #AcaciaWarmerdam

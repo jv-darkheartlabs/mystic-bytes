@@ -44,5 +44,3 @@ The novel's exploration of duty versus desire presents a rich ground for debate,
 - What message do you think the novel conveys about the nature of power and its impact on relationships?  
 - Can the pacing issues impact your overall enjoyment of the story, or do they serve a greater purpose?  
 - How does Sabriel’s journey reflect broader societal themes regarding gender and agency?
-
-#TheOrchidRoom #sabriel #fantasyromance #darkromance #literaryanalysis

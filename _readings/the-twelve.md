@@ -46,5 +46,3 @@ Cronin's *The Twelve* ignites a dichotomy of responses: can horror truly embody 
 - Does the ending feel like a satisfying culmination of themes, or is it a conventional resolution that undermines the story?  
 - In what ways does the setting amplify the emotional stakes of the narrative?  
 - How does Cronin’s prose style contribute to the gothic atmosphere of the novel?  
-
-#TheOrchidRoom #gothic #horrorromance #TheTwelve #literaryanalysis #darkheartlabs

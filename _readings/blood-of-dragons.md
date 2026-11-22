@@ -45,5 +45,3 @@ Hobb's ability to weave intricate emotional landscapes into a fantasy setting ra
 - Were you satisfied with the resolutions of secondary characters, or did their arcs feel underdeveloped?  
 - How does Hobb balance the dark elements of her narrative with moments of hope and redemption?  
 - What does the portrayal of emotional intensity add to the romantic elements within the story?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #blood

@@ -6,7 +6,7 @@ dek: ""
 number: R930
 sort_key: 930
 date: 2026-04-12
-date_read: 2021-06-10
+date_read: 2023-06-10
 category: fantasy-romance
 cover: /assets/readings/the-foxglove-king.jpg
 spice: 3
@@ -46,5 +46,3 @@ While *The Foxglove King* invites readers into a world of romance and magic, it 
 - In what ways does the pacing impact your overall engagement with the story?  
 - Are the stakes in the emotional conflicts sufficient to justify the fantastical violence?  
 - How does Whitten’s writing style influence your perception of the characters’ desires and motivations?  
-
-#TheOrchidRoom #TheFoxgloveKing #fantasyromance #darkromance #literaryanalysis

@@ -19,7 +19,6 @@ tags:
   - self-improvement
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,4 +48,3 @@ This book presents multiple polarities that can ignite spirited discussion among
 - What does the book suggest about the nature of power in language?
 
 #LiteraryAnalysis #GothicEdge
-#darkthriller #selfimprovement #theorchidroom

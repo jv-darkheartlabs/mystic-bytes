@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R589
 sort_key: 589
 date: 2026-03-05
-date_read: 2016-07-13
+date_read: 2017-07-13
 category: fantasy-romance
 cover: /assets/readings/a-conjuring-of-light.jpg
 spice: 3
@@ -47,5 +47,3 @@ Schwab's ability to intertwine romance with darker themes raises polarizing ques
 - Are the darker elements of the plot necessary for the romantic arcs, or do they overshadow them?  
 - What moments or character decisions felt most satisfying or unsatisfying in terms of resolution?  
 - How does this book compare to other fantasy romances in its treatment of complex emotional states?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

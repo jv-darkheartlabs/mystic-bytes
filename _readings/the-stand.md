@@ -23,7 +23,6 @@ tags:
   - dystopian
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The dichotomy of **The Stand** raises significant questions about morality and s
 - Are the character arcs satisfying, or do they feel secondary to the overarching themes?
 - How does the balance of horror and hope function in the narrative?
 - What does the ending suggest about the cyclical nature of history and morality?
-
-#LiteraryAnalysis #darkthriller #apocalyptic #goodvsevil #theorchidroom

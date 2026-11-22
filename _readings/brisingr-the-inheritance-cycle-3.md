@@ -21,7 +21,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Dialogue, while functional, sometimes teeters into cliché territory, underminin
 - In what ways do the characters embody or challenge fantasy tropes?  
 - Are the book's themes of legacy and duty universally relatable, or do they resonate specifically with younger audiences?  
 - How does Paolini’s youthful perspective influence the themes and craft of the narrative?  
-
-#TheOrchidRoom #fantasyromance #darkromance #dragons #literaryanalysis

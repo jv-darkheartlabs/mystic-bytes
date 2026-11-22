@@ -23,7 +23,7 @@ On mystic-bytes I shipped a reading gallery that cleared automated checks. Contr
 
 I maintain [accessibility-rails-components](https://github.com/jv-darkheartlabs/accessibility-rails-components) for the same class of failure in Rails: ViewComponents and Stimulus wired so the accessible path is the default path. I did not start that repo because a scanner yelled. I started it because I kept watching visual QA pass and the first Tab fail.
 
-axe and Lighthouse did their job. They evaluate properties they can see. The failure was upstream. We had treated accessibility as a verification step instead of a build posture. We had a checklist and not a model of use. Cursor will complete an `onClick` on a `div` before it asks whether the control has a name, a role, and a value. Fedora's Firefox and a cheap laptop on a bright Auckland afternoon are more honest reviewers than a green badge.
+axe and Lighthouse did their job. They evaluate properties they can see. The failure was upstream. We had treated accessibility as a verification step instead of a build posture. We had a checklist and not a model of use. The model will complete an `onClick` on a `div` before it asks whether the control has a name, a role, and a value. Fedora's Firefox and a cheap laptop in bright Gulf Coast light are more honest reviewers than a green badge.
 
 ## Mechanism
 

@@ -50,5 +50,3 @@ The interplay of power and passion in *Bound by Duty* raises compelling question
 - How does Reilly's portrayal of organized crime contribute to or detract from the romance?
 - Is the tension between duty and desire effectively resolved, or does it leave more questions than answers?
 - How do the content warnings influence your reading experience? 
-
-#TheOrchidRoom #BoundByDuty #darkromance #arrangedmarriage #CoraReilly

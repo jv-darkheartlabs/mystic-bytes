@@ -50,5 +50,3 @@ This novel stirs a mixture of admiration and critique, particularly regarding it
 - In what ways does the resolution (or lack thereof) impact your overall impression of the characters' journeys?  
 - How does Gaither’s approach to dark magic and royal intrigue compare to other works in the genre?  
 - What messages do you think this book conveys about the nature of power and desire?
-
-#TheOrchidRoom #fantasyromance #darkromance #shadowsandcrowns #literaryanalysis

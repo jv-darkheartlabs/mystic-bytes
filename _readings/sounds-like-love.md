@@ -40,5 +40,3 @@ The narrative’s exploration of forbidden love is bound to inspire divided opin
 - In what ways does Poston’s style evoke the complexities of desire, and are there moments that tread too close to cliché?  
 - Is the resolution of the romance satisfying, or does it undermine the journey’s intensity?  
 - How do the supporting characters contribute (or fail to contribute) to the main narrative arc?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

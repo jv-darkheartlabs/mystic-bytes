@@ -16,7 +16,7 @@ brief:
   constraint: incremental strictness; no rewrite fantasy; paired micro is types-as-docs
 ---
 
-TypeScript does not raise its voice. It underlines in red and waits. That patience is mentorship, and it is the first review pass when generated code arrives fluent and wrong. [Types Are Documentation That Runs](/p/types-are-documentation-that-runs/) is the micro argument: comments rot, the compiler does not. This is how I adopt strictness without a fantasy rewrite, especially when Cursor is eager to paste `any`.
+TypeScript does not raise its voice. It underlines in red and waits. That patience is mentorship, and it is the first review pass when generated code arrives fluent and wrong. [Types Are Documentation That Runs](/p/types-are-documentation-that-runs/) is the micro argument: comments rot, the compiler does not. This is how I adopt strictness without a fantasy rewrite, especially when the model is eager to paste `any`.
 
 ## Thesis
 
@@ -28,7 +28,7 @@ Mixed JavaScript and TypeScript repos often keep `strict: false` as a temporary 
 
 LLM-generated scaffolds raise the stakes. Models name fields convincingly and miss discriminated unions. A strict compiler is the reviewer that never tires, if you leave it on.
 
-mystic-bytes is mostly Markdown and Ruby. The TypeScript that exists around merge helpers and small tools still taught me the lesson. A slug that was "required" in a comment and `string | undefined` in practice leaked into cover association. Tests mocked the happy path. `strictNullChecks` would have made the leak a build failure. Auckland 2026, writing on Fedora in Cursor: I am future-me often enough that I do not need a poetic justification. I need CI to refuse the hole before I fly.
+mystic-bytes is mostly Markdown and Ruby. The TypeScript that exists around merge helpers and small tools still taught me the lesson. A slug that was "required" in a comment and `string | undefined` in practice leaked into cover association. Tests mocked the happy path. `strictNullChecks` would have made the leak a build failure. Writing on Fedora: I am future-me often enough that I do not need a poetic justification. I need CI to refuse the hole before I fly.
 
 Gary Bernhardt's "Boundaries" talk is the migration picture I actually use: type the edges where lies enter, do not pretend every interior function needs a masterpiece.[^2]
 
@@ -38,7 +38,7 @@ Treat the squiggle as design feedback. The underline means your mental model and
 
 Enable `strict` as a bundle, then fix module by module. The handbook's strict mode is not one flag. It is null checks, implicit any rejection, function types, and friends, meant to work together.[^1] You do not need a big-bang rewrite. You need a bounded surface per PR and CI that refuses new escapes. `// @ts-expect-error` with a reason is honest debt. Silent `any` on an export is a gift to every importer.
 
-Replace `any` with intentional boundaries. Prefer `unknown` and narrow at IO. Use generics where a utility is truly reused. When JavaScript interop forces an escape, comment why and ticket the removal. Cursor will offer `any` because it compiles. That is not the same as it being true.
+Replace `any` with intentional boundaries. Prefer `unknown` and narrow at IO. Use generics where a utility is truly reused. When JavaScript interop forces an escape, comment why and ticket the removal. The model will offer `any` because it compiles. That is not the same as it being true.
 
 Use types as the first AI review pass. Before a human reads the diff, run `tsc`. Wrong keys, impossible states, and missing null handling become compile errors instead of demo magic. Types prove shape. Tests prove behavior. Generated code fails both in different places. I have merged a helper that type-checked and still did the wrong I/O because I skipped the test the model also skipped.
 
@@ -60,7 +60,7 @@ Assertions and casts bypass the checker. Overuse them and types become theatre. 
 
 Strict types hold shape while features churn. Disable them and you are asking production to mentor you instead.
 
-Enable one strict flag you have been deferring. Fix one module. Ship the PR before the exception becomes culture. Future-you, unpacking a machine in Auckland or grepping a slug bug at a wrong hour, will not thank you for the `any`. They will thank you for the red underline you did not skip.
+Enable one strict flag you have been deferring. Fix one module. Ship the PR before the exception becomes culture. Future-you, unpacking a machine or grepping a slug bug at a wrong hour, will not thank you for the `any`. They will thank you for the red underline you did not skip.
 
 — JV · Dark Heart Labs.
 

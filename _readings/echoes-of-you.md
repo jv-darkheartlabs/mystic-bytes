@@ -7,7 +7,7 @@ dek: "The Lost & Found Series"
 number: R1350
 sort_key: 1350
 date: 2026-05-27
-date_read: 2005-03-01
+date_read: 2023-03-01
 category: romantic-suspense
 cover: /assets/readings/echoes-of-you.jpg
 spice: 3

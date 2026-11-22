@@ -50,5 +50,3 @@ The interplay between power dynamics and romantic relationships offers fertile g
 - Does the structure ultimately enhance or detract from the emotional stakes of the narrative?  
 - What are the implications of loyalty in the face of personal desire as depicted in the book?  
 - Can the book's flaws be overlooked in light of its genre's conventions, or do they hinder its overall impact?  
-
-#TheOrchidRoom #fantasyromance #darkromance #dragons #literaryanalysis

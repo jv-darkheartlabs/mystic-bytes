@@ -6,7 +6,7 @@ dek: "Wicked Villains"
 number: R1357
 sort_key: 1357
 date: 2026-05-28
-date_read: 2016-10-22
+date_read: 2020-10-22
 category: enemies-to-lovers
 cover: /assets/readings/the-sea-witch.jpg
 spice: 5
@@ -49,5 +49,3 @@ However, while the prose flows with a lyrical quality, certain moments verge on 
 - Can the romanticization of toxic relationships in this book be justified, or does it perpetuate harmful tropes?  
 - How does the setting of the ocean enhance the themes of power and desire?  
 - What implications does the ending hold for our understanding of love in the face of darkness?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #wickedvillains #literaryanalysis

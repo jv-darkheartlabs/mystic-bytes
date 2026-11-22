@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R438
 sort_key: 438
 date: 2026-02-17
-date_read: 2013-09-19
+date_read: 2019-09-19
 category: historical
 cover: /assets/readings/the-huntress.jpg
 content_warnings:

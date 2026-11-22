@@ -23,7 +23,6 @@ tags:
   - car horror
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ While the ending is both shocking and earned, it raises questions about moral ag
 - In what ways does the novel reflect societal views on masculinity and vulnerability through Arnie’s transformation?  
 - What role does nostalgia play in the characters’ relationships with Christine, and how does this affect their fates?  
 - Is the ending a cautionary tale or an affirmation of the power of desire?  
-
-#TheOrchidRoom #gothic #horrorromance #supernatural #obsession

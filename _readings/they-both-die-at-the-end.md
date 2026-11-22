@@ -46,5 +46,3 @@ The juxtaposition of love and mortality in this novel opens a plethora of avenue
 - In what ways does Silvera challenge traditional depictions of forbidden love?  
 - Does the novel provide a satisfying exploration of grief, or does it fall short in addressing the aftermath of loss?  
 - How does this book compare to other works in the contemporary young adult genre regarding its treatment of mortality and love?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #youngadult #LGBTQ

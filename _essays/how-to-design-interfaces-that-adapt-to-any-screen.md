@@ -15,7 +15,7 @@ brief:
   constraint: one codebase; no m-dot site; Grid tracks live in a sibling essay
 ---
 
-Water has no fixed shape. It takes the form of the container. Interfaces that last do the same: they keep their purpose while the viewport, the network, and the input method change. This is not a Grid tutorial. Arrangement of tracks is the other how-to. This is the adaptation brief: what still works when the screen is a phone on an Auckland bus, a laptop at 125% zoom, or a split view beside Cursor.
+Water has no fixed shape. It takes the form of the container. Interfaces that last do the same: they keep their purpose while the viewport, the network, and the input method change. This is not a Grid tutorial. Arrangement of tracks is the other how-to. This is the adaptation brief: what still works when the screen is a phone on a streetcar down St. Charles, a laptop at 125% zoom, or a split view beside an editor.
 
 ## Thesis
 
@@ -25,7 +25,7 @@ Water has no fixed shape. It takes the form of the container. Interfaces that la
 
 Ethan Marcotte named responsive design during the smartphone surge: fluid grids, flexible media, media queries.[^1] The device class got less interesting. The constraint set got larger. The same mystic-bytes page has to render in a phone browser, a tablet split view, a Fedora laptop with font scaling, and an ultrawide with half the screen occupied by an editor. Viewport width is one input. Bandwidth, CPU, pointer precision, zoom, and motion sensitivity all reshape what "fits."
 
-I write from Tāmaki Makaurau in 2026. I check pages on the phone I actually carry, often on cellular, often in bright light. A desktop-first comp that assumed 1440px and a mouse is a souvenir from a desk I do not live at every hour. Nightbind-era dashboards taught the same lesson harder: a component reused in a sidebar and in a full-width main cannot ask the window how wide the window is. It has to ask how wide *it* is.
+I write from Louisiana in 2026. I check pages on the phone I actually carry, often on cellular, often in bright light. A desktop-first comp that assumed 1440px and a mouse is a souvenir from a desk I do not live at every hour. Nightbind-era dashboards taught the same lesson harder: a component reused in a sidebar and in a full-width main cannot ask the window how wide the window is. It has to ask how wide *it* is.
 
 Teams that treat responsiveness as a QA checkbox rediscover launch-week panic: navigation that never fit, type that never scaled, cards that assumed a canvas. The panic is scheduled. You skipped the narrow start.
 
@@ -63,7 +63,7 @@ Container queries add a containment cost. Use them where the component's parent 
 
 The river finds a way around stones without forgetting it is a river. Your interface should still feel like the same product on every screen, not a cropped apology for the wide layout.
 
-Test at 320px, on a slow connection, at 200% zoom, and keyboard-only on the next feature before you polish the wide layout. Auckland sunlight on a phone is a more honest QA environment than a maximized window at a desk.
+Test at 320px, on a slow connection, at 200% zoom, and keyboard-only on the next feature before you polish the wide layout. Louisiana sunlight on a phone is a more honest QA environment than a maximized window at a desk.
 
 — JV · Dark Heart Labs.
 

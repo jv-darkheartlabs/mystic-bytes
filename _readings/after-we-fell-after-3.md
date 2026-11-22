@@ -23,7 +23,6 @@ tags:
   - relationship
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The interplay of love and self-destruction in *After We Fell* generates polarizi
 - Are Tessa’s choices empowering or simply reflective of her circumstances?  
 - What role does the dual POV play in shaping our understanding of the characters?  
 - Can we reconcile the idea of love as both nurturing and destructive in this narrative?  
-
-#TheOrchidRoom #AfterWeFell #AnnaTodd #DarkRomance #NewAdult

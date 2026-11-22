@@ -18,7 +18,6 @@ tags:
   - language
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -42,4 +41,3 @@ The very act of consulting a dictionary raises questions about the nature of lan
   - Can definitions ever fully encapsulate the complexity of human experience, or do they always fall short?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #theorchidroom

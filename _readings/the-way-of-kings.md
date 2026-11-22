@@ -53,5 +53,3 @@ The intricate layers of character development and morality in *The Way of Kings*
 - Do you find the emotional stakes to be compelling or overwrought?  
 - How do you interpret the themes of honor and sacrifice in the context of the narrative?  
 - What are your thoughts on the ending—did it feel earned or like a setup for future installments?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

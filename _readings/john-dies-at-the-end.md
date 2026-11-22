@@ -51,5 +51,3 @@ This book's unpredictable tone and genre-blending might spark a lively debate ab
 - In what ways can we draw parallels between the surreal elements in this novel and real-life existential crises?  
 - Are the characters' experiences reflective of broader societal issues, such as substance use and disillusionment?  
 - What does the book ultimately say about the human condition?  
-
-#TheOrchidRoom #gothic #horrorromance #darkheartlabs #literaryanalysis

@@ -6,7 +6,7 @@ dek: ""
 number: R1470
 sort_key: 1470
 date: 2026-06-09
-date_read: 2021-06-10
+date_read: 2022-06-10
 category: fantasy-romance
 cover: /assets/readings/prince-of-then.jpg
 spice: 4
@@ -49,5 +49,3 @@ In the intricate weave of *Prince of Then*, polarities of desire, control, and t
 - Can the ending be considered a reflection of empowerment or a cautionary tale?  
 - How do the themes of time magic and royal intrigue speak to contemporary societal issues?  
 - What elements of the narrative push the boundaries of typical fantasy-romance, and do they succeed?
-
-#TheOrchidRoom #fantasyromance #darkromance #time #fae

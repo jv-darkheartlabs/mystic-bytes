@@ -48,5 +48,3 @@ However, while the thematic exploration of obsession is compelling, certain mech
 - In what ways does the nonlinear structure affect your engagement with the characters and their motivations?  
 - Can the reliance on certain tropes diminish the novel's impact, or does it enhance its allure within the genre?  
 - How does the psychological intensity of this narrative compare to other works you’ve read in the dark romance genre?
-
-#TheOrchidRoom #stalker #obsession #darkromance #HalloweenBoys

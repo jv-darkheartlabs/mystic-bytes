@@ -23,7 +23,6 @@ tags:
   - American history
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Thompson's work often polarizes readers, particularly regarding the ethics of Go
 - How does the portrayal of mental health challenges resonate with contemporary discussions around the subject?  
 - In what ways does Thompson's commentary reflect or distort the American identity?  
 - Can the chaotic structure of the narrative be seen as a strength, or does it undermine the thematic exploration?
-
-#LiteraryAnalysis #darkthriller #gonzo #counterculture #theorchidroom

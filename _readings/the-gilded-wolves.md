@@ -49,5 +49,3 @@ This novel raises intriguing questions about the balance between aesthetic allur
 - In what ways do colonial themes manifest in the characters' journeys, and are they resolved satisfactorily?  
 - What role does the setting play in shaping character identity and relationships?  
 - How does the book’s conclusion align with or challenge genre expectations?
-
-#TheOrchidRoom #fantasyromance #darkromance #historicalfantasy #gildedwolves

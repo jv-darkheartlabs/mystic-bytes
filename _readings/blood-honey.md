@@ -49,5 +49,3 @@ Mahurin excels in crafting vivid imagery that immerses readers in the oppressive
 - In what ways does the depiction of persecution resonate with contemporary issues, and does it feel relevant or heavy-handed? 
 - Are the romantic tensions and physical conflicts resolved in a way that feels earned, or do they rely too heavily on genre conventions? 
 - How does the ending reflect the themes of identity and personal choice versus societal expectation?
-
-#TheOrchidRoom #BloodAndHoney #enemiestolovers #darkromance #literaryanalysis

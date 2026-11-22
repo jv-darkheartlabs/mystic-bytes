@@ -23,7 +23,6 @@ tags:
   - betrayal
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Puzo's *The Sicilian* invites debate not just on the actions of its characters b
 - In what ways do the characters embody the conflict between good and evil?  
 - Is the ending of *The Sicilian* a fitting conclusion to Michael Corleone's arc, or does it leave too many threads unresolved?  
 - How does Puzo's exploration of betrayal resonate with contemporary social issues?
-
-#TheOrchidRoom #mafiaromance #darkromance #crime #family

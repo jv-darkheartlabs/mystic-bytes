@@ -6,7 +6,7 @@ dek: ""
 number: R1692
 sort_key: 1692
 date: 2026-06-29
-date_read: 2007-03-01
+date_read: 2017-03-01
 category: mystery-crime
 cover: /assets/readings/final-girls.jpg
 content_warnings:
@@ -22,7 +22,6 @@ tags:
   - female protagonist
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Thematically, Sager excels in examining identity and how trauma reshapes it. The
 - How do you interpret the concept of the ‘final girl’ in contemporary narratives?
 - In what ways does Sager's writing style contribute to the novel’s suspense?
 - What are the implications of the characters' unresolved traumas?
-
-#LiteraryAnalysis #darkthriller #thriller #mystery #theorchidroom

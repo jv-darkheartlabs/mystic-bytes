@@ -6,7 +6,7 @@ dek: ""
 number: R783
 sort_key: 783
 date: 2026-03-27
-date_read: 2018-03-01
+date_read: 2023-03-01
 category: gothic-horror-romance
 cover: /assets/readings/starling-house.jpg
 spice: 2
@@ -47,5 +47,3 @@ Harrow's exploration of grief and desire invites a rich discussion about the bou
   - In what ways does Starling House serve as a metaphor for the characters’ internal struggles?  
   - What role does the setting play in shaping the emotional stakes of the narrative?  
   - How do you interpret the ambiguous ending—does it suggest hope or a cycle of despair?
-
-#TheOrchidRoom #gothic #horrorromance #hauntedhouse #literaryanalysis

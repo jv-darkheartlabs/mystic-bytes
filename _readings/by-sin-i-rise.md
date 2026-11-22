@@ -52,5 +52,3 @@ As we dive deeper into *By Sin I Rise*, several polarities emerge that could fos
 - In what ways does the setting enhance or detract from the characters’ struggles?  
 - What are the implications of violence as a backdrop for romance in this narrative?  
 - Does Reilly provide enough of a moral framework for her characters, or are they left to grapple with their choices alone?  
-
-#TheOrchidRoom #mafiaromance #darkromance #literaryanalysis #CoraReilly

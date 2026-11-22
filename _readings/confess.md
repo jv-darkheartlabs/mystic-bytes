@@ -49,5 +49,3 @@ The complexities of *Confess* invite rich discussion around the nature of love a
 - Do you find the resolution satisfying, or does it undermine the darker elements introduced earlier in the narrative?  
 - How does Hoover's portrayal of grief compare to that of other contemporary authors?  
 - What ethical considerations arise from the characters' decisions and their consequences in the story?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #contemporaryromance #literaryanalysis

@@ -7,7 +7,7 @@ dek: "The Web of Silence Duet — Book 2"
 number: R205
 sort_key: 205
 date: 2026-01-23
-date_read: 2016-10-22
+date_read: 2024-10-22
 category: stalker-obsession
 cover: /assets/readings/little-liar.jpg
 spice: 4
@@ -49,5 +49,3 @@ Rivers employs a nonlinear structure that enhances the psychological tension of 
 - Is the ambiguous ending a narrative flaw or a deliberate choice to provoke thought about the nature of human desire?  
 - In what ways do the themes of captivity resonate with broader societal issues regarding relationships?  
 - How does the book challenge or reinforce stereotypes associated with the stalker-obsession genre?  
-
-#TheOrchidRoom #LittleLiar #LeighRivers #darkromance #literaryanalysis

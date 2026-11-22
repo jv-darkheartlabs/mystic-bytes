@@ -19,7 +19,6 @@ tags:
   - Edwardian society
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The novel's rich tapestry invites debate on the nuances of societal constraints 
 - What role does setting play in shaping the characters' decisions and desires?  
 - Can love truly exist free of social influences, or is it always intertwined with societal expectations?  
 - How do you interpret the ending in relation to Lucy's character development?  
-
-#TheOrchidRoom #gothic #horrorromance #classdifferences #romantictension

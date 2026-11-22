@@ -41,5 +41,3 @@ Bourne's exploration of love under duress poses several intriguing polarities. T
 - Are the characters' actions justified within the scope of their impending doom, or do they feel contrived?  
 - In what ways does this novel challenge or conform to the conventions of forbidden love narratives?  
 - Can readers separate the emotional stakes of a doomed romance from its clichéd settings and tropes?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #YA #darkheartlabs

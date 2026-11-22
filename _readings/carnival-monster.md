@@ -49,5 +49,3 @@ Dialogue flows with a rawness that captures the complexities of manipulation and
 - What are the implications of presenting a dual perspective in a story centered around obsession?  
 - How does Winters' prose style contribute to or undermine the narrative's tension?  
 - Can we separate the allure of the masked hero from the ethical implications of his actions?
-
-#TheOrchidRoom #stalker #obsession #darkromance #carnival

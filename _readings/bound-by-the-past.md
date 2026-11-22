@@ -23,7 +23,6 @@ tags:
   - betrayal
   - watch
   - dark romance
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -50,5 +49,3 @@ The stark contrasts between loyalty and betrayal, love and violence, will likely
 - How does the setting influence the characters' choices and their development throughout the story?  
 - Are the characters’ actions justified by their circumstances, or do they reveal deeper moral ambiguities?  
 - What message, if any, does the novel convey about the cycle of violence in relationships?
-
-#TheOrchidRoom #mafiaromance #darkromance #betrayal #emotionaltrauma

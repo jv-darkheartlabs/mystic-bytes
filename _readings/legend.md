@@ -7,7 +7,7 @@ dek: "Watch your head."
 number: R771
 sort_key: 771
 date: 2026-03-26
-date_read: 2018-09-19
+date_read: 2023-09-19
 category: gothic-horror-romance
 cover: /assets/readings/legend.jpg
 spice: 4
@@ -45,5 +45,3 @@ Halle's *Legend* presents polarizing elements that are ripe for discussion, part
 - In what ways does the gothic atmosphere enhance or distract from the central themes?  
 - How do you interpret the ending—was it an earned resolution or a retreat into familiar tropes?  
 - Can the emotional intensity be justified through character development, or does it risk becoming excessive?  
-
-#TheOrchidRoom #gothic #horrorromance #legend #literaryanalysis #darkheartlabs

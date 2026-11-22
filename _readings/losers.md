@@ -53,5 +53,3 @@ The juxtaposition of love and obsession offers fertile ground for debate: how fa
 - What does the nonlinear structure contribute to your understanding of the characters and their relationships?  
 - In what ways does *Losers* challenge or reinforce your perceptions of the reverse-harem trope?  
 - How do the violence and explicit content serve the story's exploration of darker themes?  
-
-#TheOrchidRoom #darkromance #reverseharem #literaryanalysis #HarleyLaroux

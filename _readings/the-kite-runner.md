@@ -24,7 +24,6 @@ tags:
   - coming-of-age
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ The complexities of *The Kite Runner* invite a variety of interpretations, parti
 - How do the cultural elements enhance or distract from the universal themes of the narrative?  
 - In what ways does the portrayal of childhood trauma affect our understanding of Amir's adult decisions?  
 - Can we separate the themes of betrayal and redemption from the historical context of Afghanistan's turmoil?  
-
-#LiteraryAnalysis #darkthriller #redemption #friendship #betrayal #theorchidroom

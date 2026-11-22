@@ -20,7 +20,6 @@ tags:
   - coming-of-age
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The stark contrasts between civilization and nature, innocence and experience, p
 - Does the narrative's structure enhance or disrupt the reader's connection to Mowgli's journey?  
 - What role does the theme of belonging play in the shaping of Mowgli’s identity?  
 - How might contemporary readers interpret the depictions of colonialism and nature in the text?
-
-#TheOrchidRoom #gothic #horrorromance #classic #adventure

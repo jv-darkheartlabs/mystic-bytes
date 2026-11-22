@@ -6,7 +6,7 @@ dek: "The perfect rivals-to-lovers romance."
 number: R461
 sort_key: 461
 date: 2026-02-19
-date_read: 2020-05-07
+date_read: 2023-05-07
 category: enemies-to-lovers
 cover: /assets/readings/check-mate.jpg
 spice: 3
@@ -44,5 +44,3 @@ The dynamics of rivalry and romance in **Check & Mate** offer fertile ground for
 - What elements of the enemies-to-lovers trope were most effectively employed, and which felt cliché?  
 - How does the dual POV impact your connection to the characters?  
 - Do you think the chess metaphor resonates with broader themes of competition in relationships?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #chess #literaryanalysis

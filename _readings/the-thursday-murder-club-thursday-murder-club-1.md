@@ -6,7 +6,7 @@ dek: "Thursday Murder Club Series"
 number: R1745
 sort_key: 1745
 date: 2026-07-05
-date_read: 2010-11-25
+date_read: 2020-11-25
 category: mystery-crime
 cover: /assets/readings/the-thursday-murder-club-thursday-murder-club-1.jpg
 content_warnings:
@@ -20,7 +20,6 @@ tags:
   - humor
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,4 +46,3 @@ Osman’s blend of humor with dark themes will provoke interesting discussions a
 - What unresolved themes linger after the final page, and how do they impact the overall message of the novel?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #mystery #theorchidroom

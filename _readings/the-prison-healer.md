@@ -6,7 +6,7 @@ dek: ""
 number: R1335
 sort_key: 1335
 date: 2026-05-25
-date_read: 2018-06-10
+date_read: 2021-06-10
 category: captor-and-captive
 cover: /assets/readings/the-prison-healer.jpg
 spice: 3
@@ -49,5 +49,3 @@ The interplay of captivity and healing serves as a breeding ground for polarizin
 - Does Kiva’s journey resonate as a feminist narrative, or does it fall into traditional tropes of female suffering?  
 - How effective is the use of flashbacks in deepening our understanding of Kiva’s character?  
 - What does the resolution say about the possibilities of healing and agency in oppressive systems?  
-
-#TheOrchidRoom #ThePrisonHealer #darkromance #literaryanalysis #romantasy

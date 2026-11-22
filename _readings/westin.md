@@ -7,7 +7,7 @@ dek: "Two Sovereign Mountain"
 number: R090
 sort_key: 090
 date: 2026-01-11
-date_read: 2021-03-01
+date_read: 2025-03-01
 category: captor-and-captive
 cover: /assets/readings/westin.jpg
 spice: 4
@@ -52,5 +52,3 @@ The central themes of **Westin** provoke robust debate around the nature of love
   - In what ways does the narrative challenge or reinforce traditional notions of romance and desire?  
   - How do we reconcile the beauty of the prose with the unsettling themes of captivity and obsession?  
   - What are the implications of portraying such relationships in contemporary literature?
-
-#TheOrchidRoom #Westin #darkromance #literaryanalysis #captorandcaptivedynamics

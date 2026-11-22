@@ -12,10 +12,10 @@ tags: ['craft']
 brief:
   system: IntelliJ platform indexing, inspections, and refactorings as a thick language engine
   issue: opening a JetBrains IDE for Jekyll frontmatter, or treating LSP-in-VS-Code as the same bet
-  constraint: Cursor is the mystic-bytes editor; JV is a JetBrains user on other codebases, not a JetBrains engineer
+  constraint: Claude is the mystic-bytes editor; JV is a JetBrains user on other codebases, not a JetBrains engineer
 ---
 
-JetBrains IDEs are a language server with a window around it: an index of your code, inspections, refactorings, a debugger, a GUI that makes "find usages" a click. The IntelliJ platform did semantic indexing long before Microsoft published LSP. LSP is the later, editor-agnostic protocol. JetBrains still ships the thicker thing: a semantic engine plus chrome.[^1] I do not daily-drive IntelliJ for mystic-bytes. Cursor is the editor. I have used JetBrains products as a user on other codebases. I have never been a JetBrains engineer.
+JetBrains IDEs are a language server with a window around it: an index of your code, inspections, refactorings, a debugger, a GUI that makes "find usages" a click. The IntelliJ platform did semantic indexing long before Microsoft published LSP. LSP is the later, editor-agnostic protocol. JetBrains still ships the thicker thing: a semantic engine plus chrome.[^1] I do not daily-drive IntelliJ for mystic-bytes. Claude is the editor. I have used JetBrains products as a user on other codebases. I have never been a JetBrains engineer.
 
 The product is the index. You wait for it. Then rename is safer, the bulb is a warning, the gutter is coverage. VS Code plus a language server approximates a slice of that. The JetBrains bet is that the GUI and the engine should be one company. That is why RubyMine knows Rails, why IDEA knows Spring, why people tolerate the RAM bill. A protocol cannot love a framework that hard.
 

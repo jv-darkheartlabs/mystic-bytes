@@ -46,5 +46,3 @@ The interplay of obsession and desire raises polarizing questions about morality
 - What role does the gothic atmosphere play in enhancing the themes of the novel? Is it merely a backdrop, or does it serve a deeper purpose?  
 - In what ways does the narrative challenge or reinforce stereotypes associated with stalker narratives?  
 - Does the ending adequately address the consequences of obsession, or does it romanticize the darker aspects of the relationship?  
-
-#TheOrchidRoom #SavingHailey #stalker #darkromance #literaryanalysis

@@ -6,7 +6,7 @@ dek: ""
 number: R1788
 sort_key: 1788
 date: 2026-07-08
-date_read: 2013-09-19
+date_read: 2025-09-19
 category: mystery-crime
 cover: /assets/readings/the-widow.jpg
 content_warnings:
@@ -21,7 +21,6 @@ tags:
   - mystery
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ The dualities present in *The Widow* pave the way for a spirited discussion. Whi
 - What role does societal perception of widows play in shaping the protagonist's actions?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #legalthriller #mystery #theorchidroom

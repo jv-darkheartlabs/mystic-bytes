@@ -47,5 +47,3 @@ The novel’s exploration of toxic relationships presents rich ground for discus
 - Can we separate the thrill of forbidden love from the moral implications of toxic dynamics presented in the narrative?  
 - How do you perceive the ending in terms of character redemption or failure?  
 - What elements of the authors' writing style either enhance or detract from the overall impact of the story?
-
-#TheOrchidRoom #bullyromance #darkromance #everlakeprep #reverseharem

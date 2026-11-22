@@ -7,7 +7,7 @@ dek: "Kings of Sin — Book 4"
 number: R099
 sort_key: 099
 date: 2026-01-12
-date_read: 2018-03-01
+date_read: 2024-03-01
 category: dark-billionaire
 cover: /assets/readings/king-of-sloth.jpg
 spice: 4
@@ -49,5 +49,3 @@ The interplay of wealth and emotional distance in *King of Sloth* invites consid
 - Are the protagonists relatable, or do their privileged circumstances alienate the reader?  
 - How does the slow-burn structure impact your engagement with the story?  
 - What do you think about the ending — does it provide genuine closure or leave lingering questions?
-
-#TheOrchidRoom #darkbillionaire #darkromance #kings of sin #literaryanalysis

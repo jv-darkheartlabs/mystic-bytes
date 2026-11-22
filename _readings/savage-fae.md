@@ -21,7 +21,6 @@ tags:
   - ruthless boys
   - reverse harem
   - fae
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -50,5 +49,3 @@ The polarities in **Savage Fae** are ripe for debate, particularly regarding the
 - Are the characters compelling enough to warrant the darker elements of the narrative, or do they serve merely as vessels for the plot?  
 - What role does world-building play in shaping our understanding of the characters' motivations?  
 - Is the ending satisfying, or does it leave too many unresolved questions about the characters' futures?
-
-#TheOrchidRoom #reverseharem #darkromance #ruthlessboys #fae

@@ -50,5 +50,3 @@ The novel's intertwining of romantic desire with themes of obsession and captivi
 - Do the characters' moral complexities enhance or detract from reader empathy?  
 - How does the juxtaposition of dark humor with serious themes affect the overall tone of the narrative?  
 - What unresolved questions linger after the ending, and how do they impact your interpretation of the book?  
-
-#TheOrchidRoom #FearTheReapers #darkromance #reverseharem #lovesickvillains

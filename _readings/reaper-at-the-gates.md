@@ -51,5 +51,3 @@ Tahir's blend of romance and fantasy may polarize readers, especially those who 
 - Does the ending satisfactorily resolve the character arcs, or does it leave too much open-ended?  
 - How do the content warnings influence your reading experience and interpretation of the characters' choices?  
 - Can we separate the romantic elements from the backdrop of war, or are they inextricably linked in this narrative?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #epicfantasy

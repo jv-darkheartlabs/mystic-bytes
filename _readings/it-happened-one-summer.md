@@ -6,7 +6,7 @@ dek: "a novel"
 number: R469
 sort_key: 469
 date: 2026-02-20
-date_read: 2016-04-04
+date_read: 2021-04-04
 category: enemies-to-lovers
 cover: /assets/readings/it-happened-one-summer.jpg
 spice: 4
@@ -43,5 +43,3 @@ The interplay of humor and heart in *It Happened One Summer* creates a rich grou
 - In what ways does the setting influence the characters’ development and the overall narrative?
 - How does Bailey's approach to the enemies-to-lovers trope compare with other authors in the genre?
 - What lingering questions do you have about the characters’ future beyond the final pages?
-
-#TheOrchidRoom #enemiestolovers #darkromance #Bellinger #literaryanalysis

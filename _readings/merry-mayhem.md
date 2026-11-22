@@ -50,5 +50,3 @@ The juxtaposition of holiday cheer with dark themes in *Merry Mayhem* opens a Pa
 - How does the dual perspective enhance or hinder your connection to the characters?  
 - In what ways does the book challenge or reinforce your views on love and obsession?  
 - How does the portrayal of bullying resonate with current societal conversations?  
-
-#TheOrchidRoom #merrymayhem #bullyromance #darkromance #holidayreads

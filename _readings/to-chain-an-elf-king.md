@@ -51,5 +51,3 @@ The novel's exploration of complex themes prompts a rich dialogue surrounding th
 - How might the portrayal of captivity influence readers' perceptions of love and desire?
 - In what ways does Wykes successfully balance the elements of fantasy with the emotional realism of her characters?
 - Does the ending offer a resolution, or does it invite further contemplation of the themes?
-
-#TheOrchidRoom #fantasyromance #darkromance #elfking #LandsOfMaioris

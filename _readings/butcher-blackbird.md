@@ -7,7 +7,7 @@ dek: "The Ruinous Love Trilogy"
 number: R126
 sort_key: 126
 date: 2026-01-14
-date_read: 2021-03-01
+date_read: 2023-03-01
 category: enemies-to-lovers
 cover: /assets/readings/butcher-blackbird.jpg
 spice: 4
@@ -50,5 +50,3 @@ The thematic exploration of love as a catalyst for both destruction and healing 
 - Do you find the resolution satisfying, or does it leave too much ambiguity regarding the protagonists’ futures?  
 - What are your thoughts on the portrayal of obsession in romantic contexts—can it ever be justified?  
 - How does Weaver’s writing style influence your engagement with the characters and their tumultuous relationship?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #ruinouslove #literaryanalysis

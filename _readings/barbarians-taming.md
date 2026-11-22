@@ -50,5 +50,3 @@ This novel presents a richly layered tapestry of themes that can spark passionat
 - Is the portrayal of consent nuanced enough to resonate with contemporary readers?  
 - How do the fantastical elements shape our understanding of the characters’ emotional journeys?  
 - Can we separate enjoyment of the romance from the problematic aspects of the characters' dynamics?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #barbarian

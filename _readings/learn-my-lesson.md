@@ -50,5 +50,3 @@ The novel is rife with polarities that could ignite passionate debates among rea
 - How does the dual POV structure affect our understanding of consent in this story?  
 - Is the resolution of the story earned, given the darker themes explored throughout?  
 - In what ways do the characters subvert traditional villain tropes, and what implications does this have for the genre?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #wickedvillains #KateeRobert

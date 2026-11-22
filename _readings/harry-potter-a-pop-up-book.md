@@ -18,7 +18,6 @@ tags:
   - children's literature
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Williamson's work invites a spectrum of interpretations and emotional responses,
 - What are your thoughts on the effectiveness of the pop-up format in conveying complex emotions?  
 - How might the absence of traditional storytelling elements affect your connection to the characters?  
 - Do you feel that Williamson successfully balances nostalgia with darker themes, or does one overshadow the other?  
-
-#TheOrchidRoom #gothic #horrorromance #pop-upbook #darkheartlabs

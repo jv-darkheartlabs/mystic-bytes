@@ -7,7 +7,7 @@ dek: ""
 number: R504
 sort_key: 504
 date: 2026-02-24
-date_read: 2015-03-01
+date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/the-wisdom-of-crowds.jpg
 spice: 4
@@ -47,5 +47,3 @@ Abercrombie's exploration of power dynamics and human morality presents polarizi
 - Do you find the emotional intensity and sexual content to be an integral part of the story or a distraction from the plot?
 - How does the ending challenge conventional expectations of resolution in fantasy narratives?
 - What does this book suggest about the nature of crowds and collective wisdom in a morally ambiguous world?
-
-#TheOrchidRoom #fantasyromance #darkromance #wisdom #literaryanalysis

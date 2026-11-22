@@ -1,7 +1,7 @@
 ---
 layout: film
 title: "Twilight"
-dek: "2008 feature adaptation of Stephenie Meyer's vampire romance."
+dek: "Hardwicke's Twilight is all blue light and held breath — Meyer's longing translated into weather, the morality flattened into postcard."
 number: F0001
 sort_key: 1
 date: 2026-01-01
@@ -45,7 +45,7 @@ lane: romance
 
 ## Hook & thesis
 
-Catherine Hardwicke's *Twilight* translates Stephenie Meyer's interior teenage longing into a blue-filtered Pacific Northwest dream — a film whose true engine is not vampire lore but the vertigo of first desire seen through a gaze that cannot look away. **Verdict:** The adaptation succeeds as mood-piece and casting triumph even where it flattens the novel's moral ambiguity into postcard romance.
+Catherine Hardwicke's *Twilight* translates Stephenie Meyer's interior teenage longing into a blue-filtered Pacific Northwest dream. The vampires are the excuse. The subject is a girl looking at something she wants and not looking away. **Verdict:** The adaptation succeeds as mood-piece and casting triumph even where it flattens the novel's moral ambiguity into postcard romance.
 
 ## The contextual pivot
 

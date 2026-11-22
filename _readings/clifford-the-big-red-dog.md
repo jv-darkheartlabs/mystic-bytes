@@ -19,7 +19,6 @@ tags:
   - friendship
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The interplay of affection and fear in *Clifford the Big Red Dog* raises provoca
 - Do you believe the book successfully bridges the gap between children's literature and more serious thematic explorations of love?  
 - How does the child’s perspective shape the narrative’s emotional weight?  
 - What elements might alienate conventional readers of gothic romance from engaging with this text?
-
-#TheOrchidRoom #gothic #horrorromance #childrensliterature #darkheartlabs

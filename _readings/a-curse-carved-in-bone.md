@@ -7,7 +7,7 @@ dek: "Saga of the Unfated Book Two"
 number: R1184
 sort_key: 1184
 date: 2026-05-09
-date_read: 2023-08-16
+date_read: 2026-08-16
 category: fantasy-romance
 cover: /assets/readings/a-curse-carved-in-bone.jpg
 spice: 3
@@ -46,5 +46,3 @@ Jensen’s exploration of fate versus free will creates a fertile ground for deb
 - What implications does the notion of a curse have for the characters' agency throughout the story?  
 - How does Jensen's use of Norse mythology enhance or detract from the emotional stakes?  
 - In what ways does the book challenge or reinforce the archetypes found in fantasy-romance?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

@@ -49,5 +49,3 @@ The climax of the novel, where celestial themes collide with the harsh reality o
 - What are your thoughts on the pacing — does it enhance or detract from the overall experience?  
 - How does Fajohn’s use of religious imagery challenge or reinforce the narrative’s themes?  
 - In what ways does the novel stretch the boundaries of the vampire-paranormal genre?
-
-#TheOrchidRoom #vampire #darkromance #gothic #literaryanalysis

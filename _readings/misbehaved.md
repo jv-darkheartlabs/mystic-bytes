@@ -44,5 +44,3 @@ However, the pacing falters in the latter half as the story shifts towards resol
 - In what ways does the power imbalance complicate our emotional responses to the protagonists?  
 - Can a story centered on such a controversial relationship still convey genuine love?  
 - What unresolved themes linger for you after finishing the book?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

@@ -50,5 +50,3 @@ The world-building, rich with royal intrigue and omegaverse lore, serves to heig
 - Can love that emerges from power imbalance ever be genuine?  
 - What elements of the ending felt earned, and what left you questioning?  
 - How does Ellis’s portrayal of royalty influence your perception of the characters’ relationships?  
-
-#TheOrchidRoom #ReignToRuin #darkromance #omegaverse #literaryanalysis

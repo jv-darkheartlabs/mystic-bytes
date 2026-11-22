@@ -7,7 +7,7 @@ dek: ""
 number: R1237
 sort_key: 1237
 date: 2026-05-15
-date_read: 2016-07-13
+date_read: 2024-07-13
 category: classic-literature
 cover: /assets/readings/emily-wildes-map-of-the-otherlands.jpg
 content_warnings:
@@ -47,5 +47,3 @@ Fawcett's blend of whimsical fantasy with darker elements such as kidnapping inv
 - How effective is the balance between whimsical adventure and darker thematic elements? Does it enhance or detract from the story?  
 - What unresolved questions linger for you after the conclusion, particularly regarding Emily's future choices?  
 - How does the relationship between Emily and the fae challenge or conform to traditional romantic narratives in fantasy?
-
-#TheOrchidRoom #fantasyromance #darkromance #emilywilde #literaryanalysis

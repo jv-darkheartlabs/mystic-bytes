@@ -50,5 +50,3 @@ The thematic exploration of power imbalance is particularly poignant. The charac
 - In what ways does the dual perspective shape our understanding of the protagonists’ motivations and moral standings?
 - How does Massery’s treatment of the sports setting influence the reader's perception of the characters and their relationship?
 - Can we find redemption or growth for the characters, or are they irrevocably trapped in their obsessions?
-
-#TheOrchidRoom #secretobsession #darkromance #stalker #literaryanalysis

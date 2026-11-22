@@ -6,7 +6,7 @@ dek: "The Infatuated Fae Book One"
 number: R1183
 sort_key: 1183
 date: 2026-05-09
-date_read: 2022-07-13
+date_read: 2023-07-13
 category: fantasy-romance
 cover: /assets/readings/how-does-it-feel.jpg
 spice: 3
@@ -43,5 +43,3 @@ The themes of obsession versus true love create rich ground for debate, particul
 - In what ways does the structure of the narrative enhance or detract from your understanding of the protagonist’s journey?  
 - How do the content warnings shape your reading experience and interpretation of the themes?  
 - What unresolved questions about the nature of desire linger after the final chapter?
-
-#TheOrchidRoom #fantasyromance #darkromance #fae #obsession

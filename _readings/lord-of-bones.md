@@ -48,5 +48,3 @@ The novel's exploration of love entwined with death presents polarizing themes: 
 - What are your thoughts on the ending—was it a fitting conclusion to the themes presented, or did it leave you wanting more?
 - How do you interpret the role of dark magic in the characters' relationships?  
 - In what ways does the book challenge traditional notions of romantic love?
-
-#TheOrchidRoom #gothic #horrorromance #darkfantasy #darkheartlabs

@@ -22,7 +22,6 @@ tags:
   - classic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The climactic ending, steeped in tragic irony, is both earned and shocking, leav
 - In what ways does Bloch's exploration of desire complicate the reader's understanding of the character's actions?  
 - How does the gothic element enhance or detract from the psychological aspects of the story?  
 - What does the novel suggest about the duality of human nature and the masks we wear?
-
-#TheOrchidRoom #gothic #horrorromance #psychologicalthriller #darkheartlabs

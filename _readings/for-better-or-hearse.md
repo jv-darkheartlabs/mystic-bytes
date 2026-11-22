@@ -6,7 +6,7 @@ dek: ""
 number: R1052
 sort_key: 1052
 date: 2026-04-25
-date_read: 2023-11-25
+date_read: 2024-11-25
 category: gothic-horror-romance
 cover: /assets/readings/for-better-or-hearse.jpg
 spice: 3
@@ -40,5 +40,3 @@ The tension between love and loss, life and death, is palpable throughout *For B
 - Are the characters relatable, or do they succumb to archetypical representations?  
 - What role does setting play in shaping the emotional landscape of the novel?  
 - Does the ending resonate as a true reflection of the novel's themes, or does it feel like a departure from the established tone?
-
-#TheOrchidRoom #gothic #horrorromance #paranormal #darkheartlabs

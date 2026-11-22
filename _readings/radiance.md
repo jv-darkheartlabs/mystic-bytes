@@ -46,5 +46,3 @@ The duality of love and duty in *Radiance* invites rich discussion on societal e
 - What is the significance of grief in the characters' development, and does it overshadow their romantic arc?  
 - Are the darker themes appropriately addressed, or do they feel tacked on?  
 - In what ways do the characters challenge traditional gender roles within the genre?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #wraithkings

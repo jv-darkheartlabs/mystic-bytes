@@ -7,7 +7,7 @@ dek: "The Legends of Thezmarr Book III"
 number: R1229
 sort_key: 1229
 date: 2026-05-14
-date_read: 2020-08-16
+date_read: 2025-08-16
 category: fantasy-romance
 cover: /assets/readings/fate-furies.jpg
 spice: 4
@@ -47,5 +47,3 @@ The novel invites polarizing discussions around the balance of romance and confl
 - Are the character arcs believable in their development, or do they feel forced by the plot?  
 - What role does the setting play in shaping the characters’ decisions, and does it enhance or detract from the narrative?  
 - How do the content warnings impact your reading experience, and do they feel integral to the story or gratuitous?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #LegendsOfThezmarr

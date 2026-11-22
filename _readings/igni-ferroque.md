@@ -6,7 +6,7 @@ dek: ""
 number: R1048
 sort_key: 1048
 date: 2026-04-25
-date_read: 2019-07-13
+date_read: 2023-07-13
 category: gothic-horror-romance
 cover: /assets/readings/igni-ferroque.jpg
 spice: 4
@@ -47,5 +47,3 @@ The conclusion, while steeped in the conventions of the genre, leaves room for i
 - Can the mechanical dialogue be justified within the tone of gothic literature, or does it undermine character authenticity?  
 - How do you interpret the ambiguous ending—does it offer closure or provoke further questions?  
 - What does the interplay of fire and iron symbolize in the context of passion and conflict?  
-
-#TheOrchidRoom #gothic #horrorromance #igni #ferroque

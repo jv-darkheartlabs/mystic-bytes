@@ -45,5 +45,3 @@ Rath’s blend of sports and romance draws a line between traditional and progre
 - In what ways does the dual POV enhance or detract from the story’s emotional depth?  
 - How do you feel about the ending — did it earn its resolution, or was it too neat for the complexity presented?  
 - What does *Pucking Sweet* say about the nature of loyalty in love and sport?  
-
-#TheOrchidRoom #reverseharem #darkromance #hockeyromance #sportsromance

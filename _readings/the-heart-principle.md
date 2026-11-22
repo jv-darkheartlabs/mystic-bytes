@@ -7,7 +7,7 @@ dek: "A novel"
 number: R1373
 sort_key: 1373
 date: 2026-05-29
-date_read: 2020-08-16
+date_read: 2021-08-16
 category: enemies-to-lovers
 cover: /assets/readings/the-heart-principle.jpg
 spice: 3
@@ -45,5 +45,3 @@ Hoang’s novel ignites a rich tapestry of discussion points, particularly conce
 - Does the resolution of Anna and Quan's relationship feel earned, or does it lean too much into romantic tropes?  
 - How does the enemies-to-lovers dynamic serve the deeper themes of self-discovery and acceptance in the story?  
 - Where do you see potential gaps in the narrative that could have enriched the exploration of its themes?
-
-#TheOrchidRoom #TheHeartPrinciple #contemporaryromance #darkromance #literaryanalysis

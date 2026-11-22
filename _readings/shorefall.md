@@ -46,5 +46,3 @@ However, the thematic exploration of ambition occasionally teeters into melodram
 - In what ways does Bennett's world-building enhance or detract from the character journey?
 - Did you find the ending satisfying? Why or why not? 
 - How does *Shorefall* compare to its predecessor, *Foundryside*, in terms of emotional depth and character growth?
-
-#TheOrchidRoom #shorefall #fantasyromance #darkromance #literaryanalysis

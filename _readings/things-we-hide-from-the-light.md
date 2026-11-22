@@ -7,7 +7,7 @@ dek: "Good guys don't fall for bad girls"
 number: R1371
 sort_key: 1371
 date: 2026-05-29
-date_read: 2018-06-10
+date_read: 2023-06-10
 category: enemies-to-lovers
 cover: /assets/readings/things-we-hide-from-the-light.jpg
 spice: 4
@@ -46,5 +46,3 @@ This book undeniably raises questions about the boundaries of love, trauma, and 
 - In what ways does the small-town setting enhance or detract from the narrative's emotional stakes?  
 - How do we perceive the grumpy-sunshine dynamic in relation to power and vulnerability within relationships?  
 - Is there a danger in romanticizing trauma within the enemies-to-lovers trope?
-
-#TheOrchidRoom #enemiestolovers #darkromance #smalltown #literaryanalysis

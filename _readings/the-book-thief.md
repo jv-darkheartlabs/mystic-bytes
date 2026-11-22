@@ -22,7 +22,6 @@ tags:
   - Death as a narrator
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The dichotomies present in **The Book Thief** are ripe for discussion, particula
 - What are your thoughts on the balance between historical context and fictional narrative? Does it feel authentic?
 - How do the supporting characters contribute to or detract from Liesel's journey?
 - In what ways does the novel challenge or reinforce your understanding of love and loss in extreme circumstances?
-
-#TheOrchidRoom #TheBookThief #historicalfiction #gothicromance #narrativestyle

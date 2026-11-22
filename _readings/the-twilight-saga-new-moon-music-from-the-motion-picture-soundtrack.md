@@ -21,7 +21,6 @@ tags:
   - fantasy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The interplay of music and narrative in this soundtrack invites rich discussion,
 - How do the selected tracks reflect broader themes of vampire-paranormal literature?  
 - Are there instances where the music felt clichéd or uninspired, and how does this affect your overall impression?  
 - How does this soundtrack compare to other film soundtracks in terms of thematic cohesion and emotional depth?  
-
-#TheOrchidRoom #darkromance #vampires #soundtrack #literaryanalysis

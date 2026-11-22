@@ -11,6 +11,7 @@ redirect_from:
 number: 910.04
 sort_key: 0910.04
 cover: /assets/images/cover-archive.svg
+thread: letters
 ---
 
 Professional contacts are not the people who notice if you go quiet for ten days. I keep two lists, and I do not mix them. Home people: family in Louisiana, friends who knew me before the hemisphere changed. Local people: the ones who can meet for coffee in Tāmaki Makaurau, who know which pharmacy is open late, who will answer a text when the apartment Wi-Fi dies on a Sunday.

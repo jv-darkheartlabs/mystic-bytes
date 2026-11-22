@@ -6,7 +6,7 @@ dek: "Vanessa Michael Munroe, #1"
 number: R1605
 sort_key: 1605
 date: 2026-06-21
-date_read: 2010-06-10
+date_read: 2011-06-10
 category: mystery-crime
 cover: /assets/readings/the-informationist-vanessa-michael-munroe-1.jpg
 content_warnings:
@@ -21,7 +21,6 @@ tags:
   - international intrigue
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ The novel’s exploration of trauma, identity, and vengeance provokes a spectrum
 - What unresolved questions linger for you after the conclusion, and how do they affect your overall perception of the story?
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #darkthriller #romanticsuspense

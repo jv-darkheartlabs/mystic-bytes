@@ -6,7 +6,7 @@ dek: "Perfectly Imperfect Series — Special Edition"
 number: R1261
 sort_key: 1261
 date: 2026-05-18
-date_read: 2016-04-04
+date_read: 2022-04-04
 category: forbidden-love
 cover: /assets/readings/stolen-touches.jpg
 spice: 4
@@ -49,5 +49,3 @@ The dual nature of love—its potential for both liberation and destruction—in
 - What role does the setting play in amplifying the emotional stakes of their romance?  
 - Are there elements of the narrative that felt overly familiar or clichéd, and how did they affect your reading experience?  
 - How does Altaj’s exploration of trauma shape the characters’ arcs, and does it add depth or distract from the central romance?
-
-#TheOrchidRoom #forbiddenlove #darkromance #perfectlyimperfect #literaryanalysis

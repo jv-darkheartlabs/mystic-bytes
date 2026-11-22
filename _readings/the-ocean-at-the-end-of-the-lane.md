@@ -52,5 +52,3 @@ The interplay of childhood trauma and magical realism presents polarizing elemen
 - Can the elements of horror and magic in this story be seen as a means of coping with real-life fears?  
 - How does the character of Lettie Hempstock challenge traditional notions of childhood innocence?  
 - What does the ocean symbolize in the context of memory and loss?  
-
-#TheOrchidRoom #gothic #horrorromance #magicalrealism #darkfantasy

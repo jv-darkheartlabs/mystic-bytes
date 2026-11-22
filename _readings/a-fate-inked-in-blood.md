@@ -48,5 +48,3 @@ This novel probes the depths of desire, identity, and the societal chains that b
 - In what ways did the world-building contribute to or distract from the characters’ journeys?  
 - How do the themes of violence and slavery resonate in the context of the characters' relationships?
 - Do you think the ending was a bold choice or a narrative misstep?  
-
-#TheOrchidRoom #fantasyromance #darkromance #norseinspired #literaryanalysis

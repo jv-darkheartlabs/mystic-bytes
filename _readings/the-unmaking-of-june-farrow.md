@@ -45,5 +45,3 @@ The interplay of darkness and desire in *The Unmaking of June Farrow* presents f
 - How do Young's world-building choices enhance or detract from the emotional stakes of the narrative?  
 - What are the implications of the ending's ambiguity? Does it serve the story or undermine it?  
 - How does the emotional intensity resonate with the broader themes of self-discovery and personal agency?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

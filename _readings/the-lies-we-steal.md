@@ -53,5 +53,3 @@ The interplay of obsession and affection creates a fertile ground for debate wit
 - What commentary does the book offer on modern relationships and the nature of desire?  
 - Are the characters relatable, or do they exist solely as vessels for exploring darker themes?  
 - How does the dual POV impact your understanding of the protagonists’ motivations?  
-
-#TheOrchidRoom #TheLiesWeSteal #MontyJay #darkromance #literaryanalysis

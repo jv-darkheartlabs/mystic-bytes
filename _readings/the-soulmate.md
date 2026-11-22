@@ -39,5 +39,3 @@ Hepworth's *The Soulmate* poses questions about the nature of love and the lengt
   - Are the characters' actions justifiable within the context of their relationships?  
   - How does the setting contribute to the overall themes of entrapment and freedom?  
   - What unresolved questions linger about the nature of love as depicted in the novel?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

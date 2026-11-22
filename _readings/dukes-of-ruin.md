@@ -7,7 +7,7 @@ dek: "Royals of Forsyth U — Book 4"
 number: R036
 sort_key: 036
 date: 2026-01-05
-date_read: 2015-03-01
+date_read: 2022-03-01
 category: bully-romance
 cover: /assets/readings/dukes-of-ruin.jpg
 spice: 5
@@ -47,5 +47,3 @@ This novel draws a fine line between exhilarating and troubling, leaving readers
 - In what ways does the dual POV enhance or hinder the understanding of the central conflict?  
 - Can the emotional intensity in the dialogue be seen as a reflection of the characters’ complexities, or does it risk pushing into melodrama?  
 - Is the ending satisfying in its ambiguity, or does it undermine the journey taken by the characters?
-
-#TheOrchidRoom #bullyromance #darkromance #royalsofforsyth #literaryanalysis

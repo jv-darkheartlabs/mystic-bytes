@@ -23,7 +23,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The seductive dance between love and fear in *Haunting the Hunter* creates polar
 - Is the portrayal of violence justified in the context of exploring desire, or does it risk trivializing serious themes?  
 - How does Harp's use of setting as a character influence your understanding of the protagonists' journeys?  
 - What lingering questions do you have about the characters’ motivations or the story’s resolution?  
-
-#TheOrchidRoom #gothic #horrorromance #haunting #darkheartlabs

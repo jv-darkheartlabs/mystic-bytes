@@ -7,7 +7,7 @@ dek: ""
 number: R917
 sort_key: 917
 date: 2026-04-11
-date_read: 2020-11-25
+date_read: 2022-11-25
 category: fantasy-romance
 cover: /assets/readings/the-spear-cuts-through-water.jpg
 spice: 2
@@ -44,5 +44,3 @@ The intersection of love and violence in *The Spear Cuts Through Water* will lik
 - In what ways does the dual-timeline structure enhance or detract from the emotional core of the story?  
 - Was the ending satisfying in how it addressed the consequences faced by the protagonists, or did it feel incomplete?  
 - How does Jimenez's portrayal of love challenge or conform to traditional fantasy tropes?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #romantasy

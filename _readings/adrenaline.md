@@ -47,5 +47,3 @@ However, while the thematic exploration of love entangled with violence is provo
 - Does the dual perspective enhance or detract from the narrative's emotional stakes?  
 - How does the setting contribute to the overall mood and themes of the book?  
 - Are there moments where the emotional intensity feels overdone, and how does this affect reader engagement?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #adrenaline

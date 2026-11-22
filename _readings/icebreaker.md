@@ -7,7 +7,7 @@ dek: ""
 number: R458
 sort_key: 458
 date: 2026-02-19
-date_read: 2017-11-25
+date_read: 2022-11-25
 category: enemies-to-lovers
 cover: /assets/readings/icebreaker.jpg
 spice: 4
@@ -44,5 +44,3 @@ The polarities within "Icebreaker" are ripe for debate, particularly concerning 
 - Do you find the dual POV effective, or does it dilute the intensity of the romance?  
 - What role do supporting characters play in influencing the protagonists' journey, and are they adequately fleshed out?  
 - How does Grace navigate consent and agency within the heated dynamics of her characters?
-
-#TheOrchidRoom #Icebreaker #HannahGrace #enemiestolovers #darkromance #literaryanalysis

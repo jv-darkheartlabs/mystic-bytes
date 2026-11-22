@@ -20,7 +20,6 @@ tags:
   - conspiracy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The polarizing aspects of this book lie in its theological assertions and the wa
 - In what ways does the disjointed structure impact your engagement with the characters and plot?  
 - Can a narrative centered on conspiracy ever truly serve its intended audience without alienating others?  
 - How does the resolution affect your perception of the overall journey?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #mystery #theorchidroom

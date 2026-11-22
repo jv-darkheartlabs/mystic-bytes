@@ -6,7 +6,7 @@ dek: "National Bestseller"
 number: R1020
 sort_key: 1020
 date: 2026-04-22
-date_read: 2015-06-10
+date_read: 2024-06-10
 category: forbidden-love
 cover: /assets/readings/summer-romance.jpg
 spice: 3
@@ -40,5 +40,3 @@ The novel’s exploration of forbidden love is bound to stir contrasting opinion
 - Does the novel’s resolution feel satisfying, or does it undermine the complexity of the characters’ struggles?  
 - How do you feel about the use of nostalgia in the narrative — does it enhance or detract from the urgency of the story?  
 - Are there moments in the book where you felt the tension could have been heightened?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

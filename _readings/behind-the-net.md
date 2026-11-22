@@ -6,7 +6,7 @@ dek: ""
 number: R476
 sort_key: 476
 date: 2026-02-21
-date_read: 2023-11-25
+date_read: 2024-11-25
 category: enemies-to-lovers
 cover: /assets/readings/behind-the-net.jpg
 spice: 4
@@ -41,5 +41,3 @@ The novel's duality of harsh rivalry and passionate attraction invites a spectru
 - Are the character developments believable, or do they fall into trope traps?  
 - How does the portrayal of desire manifest throughout the text, and does it challenge or reinforce traditional romantic narratives?  
 - What are the implications of a predictable ending in a genre that thrives on tension and surprise?
-
-#TheOrchidRoom #enemiestolovers #darkromance #hockey #literaryanalysis

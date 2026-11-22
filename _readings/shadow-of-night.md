@@ -45,5 +45,3 @@ Harkness’s narrative choices provoke a range of responses; the intricacies of 
 - In what ways does the pacing affect your engagement with the characters?
 - Are the supernatural elements integral to the theme of identity, or do they serve as mere embellishments?
 - How does Harkness challenge or reinforce traditional gender roles through her characters?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

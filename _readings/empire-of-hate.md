@@ -7,7 +7,7 @@ dek: ""
 number: R480
 sort_key: 480
 date: 2026-02-21
-date_read: 2015-06-10
+date_read: 2022-06-10
 category: enemies-to-lovers
 cover: /assets/readings/empire-of-hate.jpg
 spice: 4
@@ -44,5 +44,3 @@ The intricate balance between love and hate in *Empire of Hate* raises vital que
 - Can love born from animosity ever be truly healthy, or does it always carry the risk of toxicity?  
 - What role does the power imbalance play in their relationship, and how is it portrayed?  
 - Does the resolution validate or undermine the central themes presented throughout the narrative?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #EmpireTrilogy #literaryanalysis

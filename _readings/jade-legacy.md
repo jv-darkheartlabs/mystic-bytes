@@ -46,5 +46,3 @@ The thematic exploration of legacy—both familial and personal—resonates thro
 - In what ways does the romantic tension serve as both a catalyst and a barrier in the characters' development?  
 - What does the novel suggest about the nature of legacy—can it be a burden as much as a gift?  
 - How does the fantastical element of jade function as a symbol for power and desire in the narrative?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #jade #legacy

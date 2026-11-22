@@ -47,5 +47,3 @@ Wright's *Vices and Vows* invites polarizing discussions around the morality of 
 - What are the implications of using innocent characters in narratives steeped in violence?  
 - Does the predictability of the ending detract from the overall impact of the story, or does it serve a thematic purpose?  
 - How do the content warnings shape your reading experience and expectations for the narrative?
-
-#TheOrchidRoom #mafiaromance #darkromance #literaryanalysis #CandiceWright

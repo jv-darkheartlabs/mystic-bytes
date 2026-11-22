@@ -6,7 +6,7 @@ dek: "Missed me, princess?"
 number: R219
 sort_key: 219
 date: 2026-01-24
-date_read: 2018-06-10
+date_read: 2023-06-10
 category: stalker-obsession
 cover: /assets/readings/skin-of-a-sinner.jpg
 spice: 4
@@ -52,5 +52,3 @@ As the story unfolds, the ending, while shocking, feels meticulously earned, ali
 - In what ways does the dual perspective affect your empathy towards both characters?  
 - How does the portrayal of violence shape the narrative's themes?  
 - What does the ending suggest about the possibility of redemption for the characters involved?  
-
-#TheOrchidRoom #SkinOfASinner #DarkRomance #Gothic #LiteraryAnalysis

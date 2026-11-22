@@ -20,7 +20,6 @@ tags:
   - love
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Keats’ intricate dance between beauty and despair invites a spectrum of interp
 - In what ways does the structure of Keats’ poems influence your emotional response?  
 - Can the ornate language of Keats’ poetry enhance or detract from its accessibility?  
 - How do you see themes of desire evolving from Keats to contemporary poetry?
-
-#TheOrchidRoom #gothic #horrorromance #poetry #romanticism

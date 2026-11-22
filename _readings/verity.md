@@ -7,7 +7,7 @@ dek: "Sublimely creepy with a true Hoover pulse."
 number: R110
 sort_key: 110
 date: 2026-01-12
-date_read: 2005-05-07
+date_read: 2018-05-07
 category: mystery-crime
 cover: /assets/readings/verity.jpg
 content_warnings:

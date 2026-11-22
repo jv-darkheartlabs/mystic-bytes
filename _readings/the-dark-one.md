@@ -7,7 +7,7 @@ dek: "Never, never let him chase you."
 number: R257
 sort_key: 257
 date: 2026-01-28
-date_read: 2020-08-16
+date_read: 2022-08-16
 category: vampire-paranormal
 cover: /assets/readings/the-dark-one.jpg
 spice: 4
@@ -51,5 +51,3 @@ The complex layers of *The Dark One* can ignite a lively debate on the nature of
 - Can the portrayal of predatory love be reconciled with romantic ideals, or does it undermine them?  
 - How do the content warnings influence your reading experience and interpretation of the characters' actions?  
 - What elements of the gothic genre are most effectively utilized here, and where do they falter?
-
-#TheOrchidRoom #vampire #darkromance #literaryanalysis #TheDarkOne

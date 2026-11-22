@@ -23,9 +23,9 @@ mystic-bytes is a static site. Jekyll builds HTML. GitHub Pages serves files. Th
 
 Nightbind's live session feed wanted a different promise: who is in the room, who just rolled, what the table just received. A demo with a websocket and a pub/sub channel looked like a sprint. Production load showed the back-of-house was still designed for batch. PostgreSQL as source of truth. No conflict rules for concurrent edits. Retry semantics that assumed idempotent reads, not fan-out writes.[^1]
 
-I am not running a planet-scale store. I am running a product that told people *now* and a writing site that correctly says *soon*. Mixing those promises is how you pay real-time prices for batch value. Auckland 2026 does not require a live cursor on an essay. A TTRPG table does require dice to appear when they happened, not when a poll woke up.
+I am not running a planet-scale store. I am running a product that told people *now* and a writing site that correctly says *soon*. Mixing those promises is how you pay real-time prices for batch value. A TTRPG table does require dice to appear when they happened, not when a poll woke up.
 
-Cursor will scaffold a websocket before it asks whether the user can act on the data in a second. That is a product question wearing a library install.
+The model will scaffold a websocket before it asks whether the user can act on the data in a second. That is a product question wearing a library install.
 
 ## Mechanism
 

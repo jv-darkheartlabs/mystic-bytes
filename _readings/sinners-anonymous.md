@@ -50,5 +50,3 @@ The book invites a dichotomy of responses, particularly around its treatment of 
 - In what ways does the dual perspective shape your understanding of love as a battleground?  
 - How does Sketcher's approach compare to other dark romance authors you've read?  
 - What unresolved themes or character arcs left you wanting more or questioning their implications?
-
-#TheOrchidRoom #SinnersAnonymous #enemiestolovers #darkromance #mafia

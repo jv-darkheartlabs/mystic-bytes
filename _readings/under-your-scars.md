@@ -7,7 +7,7 @@ dek: "A Dark Romance Novel"
 number: R171
 sort_key: 171
 date: 2026-01-19
-date_read: 2018-03-01
+date_read: 2023-03-01
 category: mafia-boss-and-innocent
 cover: /assets/readings/under-your-scars.jpg
 spice: 4
@@ -48,5 +48,3 @@ The novel's exploration of power and obsession presents rich ground for discours
 - What elements of the ending resonate with you, and do you feel it aligns with the themes presented throughout the book?  
 - How does the balance of darkness and light in the prose affect your engagement with the characters?  
 - Does the level of violence in the story serve a purpose, or does it risk overshadowing the emotional core of the narrative?
-
-#TheOrchidRoom #mafiaromance #darkromance #romanticsuspense #gothic

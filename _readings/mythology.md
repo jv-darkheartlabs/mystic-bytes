@@ -19,7 +19,6 @@ tags:
   - literary
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The interplay of myth and morality in Hamilton's *Mythology* invites rich debate
 - Can we separate the beauty of the prose from the moral ambiguities of the tales?  
 - How does the gothic element of horror enhance our understanding of these myths, or does it distract from their original intent?  
 - What myths resonate most deeply with our current cultural landscape, and why?  
-
-#TheOrchidRoom #gothic #horrorromance #mythology #literaryanalysis

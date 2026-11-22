@@ -50,5 +50,3 @@ However, a notable flaw arises in the portrayal of secondary characters, who, wh
 - How do you interpret the use of gothic elements in the context of contemporary romance?  
 - Can a romance rooted in toxicity ultimately be redemptive?  
 - What role does the university setting play in shaping the characters' relationships?
-
-#TheOrchidRoom #bullyromance #darkromance #gothic #literaryanalysis

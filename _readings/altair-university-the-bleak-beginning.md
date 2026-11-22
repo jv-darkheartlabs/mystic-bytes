@@ -22,7 +22,6 @@ tags:
   - dark academia
   - winter
   - gothic
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -49,5 +48,3 @@ Vant’s work invites a spectrum of responses, particularly regarding the ethica
 - In what ways do the winter setting and dark academia backdrop enhance the themes of isolation and desire?  
 - Can this book bridge the gap between dark romance enthusiasts and general readers, or does it risk alienating those unfamiliar with its tropes?  
 - What elements did you find most compelling or problematic in the portrayal of relationships?
-
-#TheOrchidRoom #bullyromance #darkacademia #emotionalintensity #gothic

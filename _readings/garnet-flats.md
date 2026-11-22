@@ -44,5 +44,3 @@ The themes of trauma and healing resonate profoundly, particularly in the way Pe
 - In what ways does the development of the protagonists' relationship challenge or conform to traditional enemies-to-lovers tropes?  
 - Is the ending of the novel earned in terms of character development, or does it feel like a convenient conclusion?  
 - How effectively does Perry balance the darker themes with the romance?  
-
-#TheOrchidRoom #GarnetFlats #enemiestolovers #darkromance #literaryanalysis

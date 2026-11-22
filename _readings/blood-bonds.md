@@ -45,5 +45,3 @@ The world-building is immersive, vividly painted with a blend of dark fantasy el
 - Does the emotional intensity of the relationships justify the darker themes?  
 - How effectively does the author navigate the balance between fantasy and realism in the characters' experiences?  
 - What unresolved emotional threads linger for you after finishing the book, and how do they reflect broader societal themes?
-
-#TheOrchidRoom #reverseharem #darkromance #blood #literaryanalysis

@@ -44,5 +44,3 @@ The interplay between duty and desire in *Abhorsen* raises questions about the c
 - Can emotional intensity detract from a narrative, or does it enhance the reader's connection to the characters?  
 - How does Nix's world-building influence your investment in the characters' journeys?  
 - What role does the structure play in shaping your understanding of the characters’ internal conflicts?
-
-#TheOrchidRoom #abhorsen #darkromance #fantasyromance #literaryanalysis

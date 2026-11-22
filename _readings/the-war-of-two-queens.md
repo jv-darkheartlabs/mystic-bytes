@@ -47,5 +47,3 @@ This novel invites passionate debate, especially regarding its treatment of powe
 - In what ways does the dual perspective enhance or detract from the narrative?  
 - Are the characters' moral ambiguities compelling or frustrating?  
 - How does this book compare with other works in the genre regarding its treatment of war and romance?
-
-#TheOrchidRoom #fantasyromance #darkromance #bloodandash #literaryanalysis

@@ -10,7 +10,7 @@ type: pillar
 read_time: 9
 tags: ['craft']
 brief:
-  system: Node and npm as tooling around mystic-bytes, Cursor, and GitHub Actions
+  system: Node and npm as tooling around mystic-bytes and GitHub Actions
   issue: treating Node as "the frontend" while the event loop and the registry set policy for the whole toolchain
   constraint: no invented Node product at DHL; describe the runtime where it actually shows up
 ---
@@ -23,11 +23,11 @@ I do not ship a Node app as Dark Heart Labs' public site. mystic-bytes is Jekyll
 
 ## Context
 
-The honest map for this studio is mixed. Fedora runs the shells. Ruby builds the site. Rails serves the component library's host apps. Cursor is an Electron cousin whether or not I think about Chromium. GitHub's workflow docs are full of `actions/setup-node`. I meet Node as infrastructure for JavaScript that needed a home once the tab was not enough.
+The honest map for this studio is mixed. Fedora runs the shells. Ruby builds the site. Rails serves the component library's host apps. GitHub's workflow docs are full of `actions/setup-node`. I meet Node as infrastructure for JavaScript that needed a home once the tab was not enough.
 
 That meeting is easy to misread. People say "we use Node" the way they say "we use Linux," and they mean a product, a culture, and a hiring filter. I mean: the toolchain spoke JS, so the runtime came along. I will not invent a Node startup in this paragraph to sound current. I will describe the event loop and the registry, because those are the parts that bite when a tiny script grows feelings.
 
-Auckland 2026 does not require a Node rewrite. It requires that whatever JS the laptop needs still installs with a lockfile I can restore after a disk clone.
+The Washington move does not require a Node rewrite. It requires that whatever JS the laptop needs still installs with a lockfile I can restore after a disk clone.
 
 ## Mechanism
 

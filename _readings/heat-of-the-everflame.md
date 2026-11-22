@@ -6,7 +6,7 @@ dek: "The Kindred's Curse Saga, Book Three"
 number: R1156
 sort_key: 1156
 date: 2026-05-06
-date_read: 2019-07-13
+date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/heat-of-the-everflame.jpg
 spice: 3
@@ -47,5 +47,3 @@ The interplay of love and betrayal in this narrative invites a rich discussion o
 - In what ways does Cole challenge or conform to the expectations of the fantasy-romance genre?
 - Are the characters' motivations compelling enough, or do they read as archetypes?
 - What unresolved questions linger for you after the conclusion, particularly regarding the themes of trust and betrayal?
-
-#TheOrchidRoom #fantasyromance #darkromance #kindredscurse #heatofeverflame

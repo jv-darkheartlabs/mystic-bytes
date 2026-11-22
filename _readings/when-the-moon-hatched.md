@@ -7,7 +7,7 @@ dek: ""
 number: R955
 sort_key: 955
 date: 2026-04-15
-date_read: 2022-04-04
+date_read: 2024-04-04
 category: fantasy-romance
 cover: /assets/readings/when-the-moon-hatched.jpg
 spice: 4
@@ -47,5 +47,3 @@ The novel's juxtaposition of desire against the backdrop of darker themes presen
 - Is the unresolved ending a courageous artistic choice or a narrative flaw?  
 - What did you think of the balance between fantasy elements and the romance storyline — did one overshadow the other?  
 - How does the exploration of grief and longing impact your connection to the romance?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

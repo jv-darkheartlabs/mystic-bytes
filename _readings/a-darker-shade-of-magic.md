@@ -19,7 +19,6 @@ tags:
   - horrorromance
   - the
   - shades
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -46,5 +45,3 @@ The interplay between desire and power in the narrative raises compelling questi
 - Are we satisfied with the resolution of Kell and Lila’s arcs, or does it feel incomplete?  
 - What role does the setting play in shaping the characters’ identities and choices?  
 - How does the portrayal of magic in the novel challenge or reinforce traditional fantasy tropes?  
-
-#TheOrchidRoom #gothic #horrorromance #darkheartlabs #shades

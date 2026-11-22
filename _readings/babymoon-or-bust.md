@@ -40,5 +40,3 @@ The interplay between societal expectations and personal desire serves as a pote
 - In what ways does the setting influence the characters' decisions and the story's tension?  
 - Is the portrayal of secondary characters sufficient to support the main narrative, or do they detract from it?  
 - How does this book compare to other works in the forbidden love genre in terms of thematic depth?
-
-#TheOrchidRoom #forbiddenlove #darkromance #pregnancy #literaryanalysis

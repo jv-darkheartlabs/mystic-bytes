@@ -23,7 +23,6 @@ tags:
   - narrative structure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The interplay of guilt and forgiveness in *Atonement* raises provocative questio
 - Are Briony’s actions ultimately forgivable, or do they irrevocably tarnish her quest for atonement?  
 - In what ways does the exploration of class and war enhance the gothic elements of the story?  
 - Does the ending undermine the narrative's earlier tensions, or does it elevate them into a more profound commentary on the human condition?  
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #forgiveness

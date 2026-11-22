@@ -7,7 +7,7 @@ dek: "The Bridge Kingdom Book 3"
 number: R1240
 sort_key: 1240
 date: 2026-05-15
-date_read: 2019-10-22
+date_read: 2021-10-22
 category: fantasy-romance
 cover: /assets/readings/the-inadequate-heir.jpg
 spice: 3
@@ -49,5 +49,3 @@ While *The Inadequate Heir* excels in its exploration of desire and duty, it als
 - In what ways does Jensen’s portrayal of power dynamics differ from other authors in the genre?  
 - Does the romantic relationship feel like a genuine partnership or a reflection of societal expectations?  
 - How effectively does the narrative balance its darker elements with romantic tropes?  
-
-#TheOrchidRoom #fantasyromance #darkromance #bridgekingdom #literaryanalysis

@@ -45,5 +45,3 @@ The novel intricately balances themes of power and vulnerability, raising questi
 - Can the concept of vulnerability as strength resonate universally, or is it confined to specific characters and situations within the story?  
 - How does the book's pacing affect your emotional engagement with the climax and resolution?  
 - Are the character arcs of Adam and Warner fulfilling, or do they lean into stereotype?
-
-#TheOrchidRoom #fantasyromance #darkromance #shatter #literaryanalysis

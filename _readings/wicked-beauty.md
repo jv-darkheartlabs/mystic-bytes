@@ -6,7 +6,7 @@ dek: "Dark Olympus"
 number: R1395
 sort_key: 1395
 date: 2026-06-01
-date_read: 2018-03-01
+date_read: 2022-03-01
 category: fantasy-romance
 cover: /assets/readings/wicked-beauty.jpg
 spice: 5
@@ -50,5 +50,3 @@ The interplay of desire and ambition in *Wicked Beauty* raises questions about t
 - Can the ending be considered satisfying if it feels rushed, and what does that say about narrative pacing in romance?  
 - How does Robert's use of mythology influence our understanding of modern relationships depicted in the book?  
 - What elements of desire are most compelling to you — emotional, physical, or a blend of both, and how are they represented here?  
-
-#TheOrchidRoom #fantasyromance #darkromance #darkolympus #polyamory

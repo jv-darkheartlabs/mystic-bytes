@@ -48,5 +48,3 @@ Gabaldon’s work offers rich ground for discussion, particularly regarding the 
 - Are the dual timelines effective in building tension, or do they detract from the immediacy of the narrative?  
 - How do you interpret the ending in relation to the characters' journeys?  
 - What themes resonate most strongly with today’s societal issues, and how does that impact your reading experience?
-
-#TheOrchidRoom #fantasyromance #historical #outlander #literaryanalysis

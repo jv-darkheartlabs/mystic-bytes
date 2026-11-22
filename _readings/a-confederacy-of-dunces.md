@@ -19,7 +19,6 @@ tags:
   - quirky characters
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ Toole’s melding of comedy and darkness invites mixed interpretations, often po
 - What unresolved questions about the characters linger after the final page, and are they integral to the story's impact?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #satire #TheOrchidRoom

@@ -7,7 +7,7 @@ dek: "The Roots of Chaos"
 number: R571
 sort_key: 571
 date: 2026-03-03
-date_read: 2022-07-13
+date_read: 2023-07-13
 category: fantasy-romance
 cover: /assets/readings/a-day-of-fallen-night.jpg
 spice: 3
@@ -50,5 +50,3 @@ Shannon's work invites deep contemplation, particularly around the moral complex
 - Does the novel's pacing ultimately enhance or detract from its thematic explorations?  
 - How effectively do the multiple perspectives deepen the reader's understanding of the central conflicts?  
 - What unresolved questions linger for you after the conclusion, particularly regarding the fate of its characters and the world they inhabit?  
-
-#TheOrchidRoom #fantasyromance #darkromance #epicfantasy #SamanthaShannon

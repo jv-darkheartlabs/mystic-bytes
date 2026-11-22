@@ -7,7 +7,7 @@ dek: "One body. Six experts. Can you solve the case before they do?"
 number: R416
 sort_key: 416
 date: 2026-02-14
-date_read: 2011-05-07
+date_read: 2023-05-07
 category: mystery-crime
 cover: /assets/readings/murder-in-the-family.jpg
 content_warnings:
@@ -48,5 +48,3 @@ Hunter's intricate narrative and the morality of her characters will likely igni
 - How do you interpret the moral ambiguity presented in familial relationships?
 - What did you think of the pacing and structure? Did it enhance or hinder your reading experience?
 - How do Hunter's choices in characterization compare to other authors in the genre?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

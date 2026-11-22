@@ -45,5 +45,3 @@ The intricate dance between loyalty and betrayal invites polarizing perspectives
 - In what ways does the ending challenge conventional notions of trust and resolution in relationships?  
 - Can the heist genre be a vehicle for deeper emotional exploration, or does it remain primarily a thrill ride?  
 - How do the content warnings shape our reading experience and interpretation of the characters' journeys?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #ScottLynch

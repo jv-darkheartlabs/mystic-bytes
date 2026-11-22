@@ -7,7 +7,7 @@ dek: "The Wrecked Series"
 number: R761
 sort_key: 761
 date: 2026-03-24
-date_read: 2020-08-16
+date_read: 2021-08-16
 category: forbidden-love
 cover: /assets/readings/wrecked-palace.jpg
 spice: 4
@@ -44,5 +44,3 @@ The interplay of love and trauma within **Wrecked Palace** raises several polari
 - Is the ending of the novel earned, or does it fall into cliché?  
 - How effectively does Cowles use POV to enhance the emotional stakes?  
 - In what ways does the book challenge or reinforce traditional notions of love and desire?
-
-#TheOrchidRoom #forbiddenlove #darkromance #wreckedseries #literaryanalysis

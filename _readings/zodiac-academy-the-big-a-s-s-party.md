@@ -47,5 +47,3 @@ The novella's exploration of bullying and desire raises provocative questions ab
 - Can the characters’ transformations be seen as genuine growth or merely plot devices?  
 - What role does the setting play in reinforcing the power dynamics at play?  
 - How does the novella challenge or conform to typical bully-romance conventions?  
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #literaryanalysis

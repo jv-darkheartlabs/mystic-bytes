@@ -22,7 +22,6 @@ tags:
   - family drama
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The novel's blend of humor and darkness creates polarizing reactions, particular
 - Is the ending of the novel satisfying or does it lean too heavily into sentimentality?  
 - How does Flagg's portrayal of Southern life contribute to the broader themes of resilience and defiance?  
 - What are the implications of the book's treatment of violence and mental illness in the context of its Southern Gothic roots?
-
-#TheOrchidRoom #gothic #horrorromance #friendship #southerngothic

@@ -48,5 +48,3 @@ The book raises intriguing polarities around its exploration of power dynamics a
 - Do you find the duality of light and shadow effective as a metaphor for the characters' inner conflicts?  
 - How does the pacing impact your overall experience of the story, particularly in relation to character development?  
 - What do you think of the balance between lyrical prose and structural flaws in shaping the reader's engagement with the narrative?  
-
-#TheOrchidRoom #vampire #paranormal #darkromance #gothic

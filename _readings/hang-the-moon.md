@@ -41,5 +41,3 @@ The novel presents compelling polarities for debate, particularly around the tra
 - In what ways does the setting act as a character in its own right, influencing the romantic dynamics?  
 - How does Bellefleur’s portrayal of bisexuality challenge or conform to genre norms?  
 - What are the implications of unresolved tensions between characters, and how do they reflect broader societal themes?
-
-#TheOrchidRoom #enemiestolovers #darkromance #Seattle #literaryanalysis

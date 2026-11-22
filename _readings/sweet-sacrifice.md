@@ -48,5 +48,3 @@ The thematic exploration of sacrifice resonates deeply, as both characters confr
 - Does the ending justify the journey, or does it lean too heavily on genre conventions?  
 - What role do the gothic elements play in shaping the characters' emotional landscapes?  
 - How effectively does Miller challenge the reader's moral compass through her portrayal of sacrifice?  
-
-#TheOrchidRoom #SweetSacrifice #SavRMiller #darkromance #literaryanalysis

@@ -19,7 +19,6 @@ tags:
   - folklore
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Pyle's work invites a rich discussion on the interplay between heroism and moral
 - Are the archetypal characters a strength or a weakness in Pyle's narrative?  
 - How does the ending shape your understanding of the costs of loyalty and justice?  
 - What role does setting play in amplifying the story's emotional and thematic weight?  
-
-#TheOrchidRoom #gothic #horrorromance #classic #adventure

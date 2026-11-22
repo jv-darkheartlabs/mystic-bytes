@@ -45,5 +45,3 @@ Bardugo’s intricate tapestry of relationships and moral dilemmas invites a mul
 - Do you find the emotional arcs of all characters satisfying, or are there moments where you felt underwhelmed?  
 - Considering the dual POV, which character's journey resonated more with you and why?  
 - What does the ending suggest about the future of the characters and their moral choices?
-
-#TheOrchidRoom #fantasyromance #darkromance #crooked #kingdom

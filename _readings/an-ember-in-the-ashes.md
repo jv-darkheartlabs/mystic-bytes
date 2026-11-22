@@ -46,5 +46,3 @@ The interplay of love and rebellion in **An Ember in the Ashes** creates a ferti
   - Are the character arcs satisfying in their resolution, or do they leave more questions than answers?  
   - In what ways does the historical inspiration enrich or limit the narrative’s originality?  
   - How does the author’s portrayal of female agency challenge or conform to genre expectations?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #AnEmberInTheAshes

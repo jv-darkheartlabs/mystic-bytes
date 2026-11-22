@@ -45,5 +45,3 @@ McMyne's work raises polarities that might ignite passionate discourse within ou
 - Are the romantic elements in the story empowering or do they reinforce traditional tropes of desire and possession?  
 - What implications does the ending have for Gothel's journey, and is it satisfying?  
 - How does *The Book of Gothel* compare to other retellings in its exploration of female agency?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #thebookofgothel

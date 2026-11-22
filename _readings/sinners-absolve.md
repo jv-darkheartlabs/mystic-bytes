@@ -46,5 +46,3 @@ The novel’s interplay of love and violence, intertwined with its exploration o
 - Are the moments of tenderness enough to offset the darkness within the plot?  
 - How do you view the ending in terms of genre expectations—was it earned or jarring?  
 - What ethical implications arise from the characters' decisions, and do they resonate beyond the page?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

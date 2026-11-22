@@ -53,5 +53,3 @@ Carlton's *Shallow River* invites vigorous debate on the ethics of its character
 - Can we argue that the novel's gothic elements serve as a critique of societal norms surrounding love and possession?  
 - How does the setting—a river—function as a character in its own right, and what does it symbolize in the context of the plot?  
 - What implications does the ending hold for discussions of accountability in relationships marked by obsession?
-
-#TheOrchidRoom #ShallowRiver #darkromance #stalker #literaryanalysis

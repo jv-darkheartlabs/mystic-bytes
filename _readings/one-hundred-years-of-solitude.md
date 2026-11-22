@@ -19,7 +19,6 @@ tags:
   - Latin American literature
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The novel’s exploration of solitude and desire presents stark contrasts that c
 - Can the sense of solitude be seen as a character in itself, and how does it shape the narrative?  
 - What are the implications of the novel's non-linear structure on reader engagement?  
 - How does Márquez’s use of language and imagery impact our understanding of the characters’ desires?  
-
-#TheOrchidRoom #gothic #horrorromance #magicalrealism #familySaga

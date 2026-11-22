@@ -6,7 +6,7 @@ dek: ""
 number: R1753
 sort_key: 1753
 date: 2026-07-06
-date_read: 2008-10-22
+date_read: 2018-10-22
 category: literary-fiction
 cover: /assets/readings/where-the-crawdads-sing.jpg
 content_warnings:
@@ -22,7 +22,6 @@ tags:
   - southern-gothic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ While **Where the Crawdads Sing** presents a compelling and richly detailed worl
 - How does nature serve as a character in Kya's journey, and is it effective in conveying her isolation?  
 - In what ways does the book challenge or reinforce stereotypes of Southern women?  
 - Is the ending satisfying given the build-up of Kya's character arc?
-
-#LiteraryAnalysis #darkthriller #mystery #coming-of-age #southern-gothic #TheOrchidRoom

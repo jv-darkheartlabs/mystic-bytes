@@ -49,5 +49,3 @@ Chakraborty’s ability to weave romantic tension into a politically charged nar
 - What themes of betrayal resonate with contemporary issues in our society?  
 - How effectively does the world-building contribute to or hinder character development?  
 - In what ways does the ending challenge or fulfill your expectations of resolution in a series?
-
-#TheOrchidRoom #fantasyromance #daevabad #darkromance #literaryanalysis

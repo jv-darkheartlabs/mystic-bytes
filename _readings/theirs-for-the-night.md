@@ -50,5 +50,3 @@ The nuances of desire, consent, and power dynamics in romantic literature often 
 - In what ways does *Theirs for the Night* redefine or reinforce the tropes of reverse harem narratives?
 - How can the portrayal of power dynamics challenge or reinforce societal stereotypes around relationships?
 - What elements of Robert's writing style resonate most with you, and where do you think it falters?
-
-#TheOrchidRoom #reverseharem #darkromance #twistedhearts #literaryanalysis

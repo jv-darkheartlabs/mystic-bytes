@@ -48,5 +48,3 @@ Clare's narrative choices provoke fascinating discussions around the portrayal o
 - Are Clare's characters fully realized, or do they occasionally fall into archetypal roles?  
 - What ethical dilemmas in the Shadowhunter world resonate most with contemporary issues?  
 - How does the ending shape your expectations for the series moving forward, and is it satisfying in its own right?  
-
-#TheOrchidRoom #fantasyromance #darkromance #urbanfantasy #shadowhunters

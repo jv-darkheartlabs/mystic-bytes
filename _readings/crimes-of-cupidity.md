@@ -7,7 +7,7 @@ dek: "Heart Hassle Book Three — A Fantasy Reverse Harem Series"
 number: R806
 sort_key: 806
 date: 2026-03-29
-date_read: 2017-08-16
+date_read: 2019-08-16
 category: reverse-harem
 cover: /assets/readings/crimes-of-cupidity.jpg
 spice: 4
@@ -45,5 +45,3 @@ The novel’s exploration of desire and moral ambiguity raises several provocati
 - Can the power dynamics in reverse-harem narratives ever align with healthy relationship standards, or are they always destined for chaos?  
 - How effectively does the setting contribute to the book's overall atmosphere and emotional weight?  
 - What are the implications of the ending’s ambiguity for character development and reader satisfaction?  
-
-#TheOrchidRoom #reverseharem #darkromance #CrimesofCupidity #RavenKennedy

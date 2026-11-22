@@ -6,7 +6,7 @@ dek: "Possessing Her — Book 2"
 number: R254
 sort_key: 254
 date: 2026-01-27
-date_read: 2017-05-07
+date_read: 2023-05-07
 category: stalker-obsession
 cover: /assets/readings/now-youre-mine.jpg
 spice: 4
@@ -51,5 +51,3 @@ In terms of prose, Bridges excels with vivid descriptions that evoke a sense of 
 - In what ways do the symbolic elements (like moths and skulls) enhance or detract from the narrative?  
 - Can we empathize with the protagonist despite her flaws, and what does that reveal about our own perceptions of love?  
 - How might the non-linear structure affect our understanding of character motivations and emotional stakes?
-
-#TheOrchidRoom #NowYoureMine #DarkRomance #Obsession #PsychologicalThriller

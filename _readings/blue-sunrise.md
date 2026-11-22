@@ -45,5 +45,3 @@ The exploration of desire within the perils of space travel provokes rich discus
 - In what ways do the character archetypes both serve and limit the narrative’s depth?  
 - How does the juxtaposition of cosmic danger and romantic tension resonate with current socio-political themes in real life?  
 - What elements of the ending felt earned or unearned, and how could this have been more effectively constructed?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #spaceopera

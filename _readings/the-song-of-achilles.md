@@ -51,5 +51,3 @@ The polarities within *The Song of Achilles* invite diverse interpretations and 
 - Are there aspects of the narrative that feel overly romanticized, especially given the violent context?  
 - How does the first-person perspective influence your connection to Patroclus and your perception of Achilles?  
 - What does the ending suggest about the nature of love and legacy in the face of tragedy?  
-
-#TheOrchidRoom #fantasyromance #darkromance #greekmythology #lgbtq #literaryanalysis

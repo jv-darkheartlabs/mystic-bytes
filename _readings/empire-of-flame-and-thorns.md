@@ -46,5 +46,3 @@ This novel’s exploration of desire and ambition invites heated discussions, es
 - What role does the setting play in shaping the characters' journey—does it feel like a character in its own right?  
 - How do you feel about the use of familiar tropes—do they enhance or hinder the story's originality?  
 - In what ways does the emotional intensity impact your overall enjoyment of the book?
-
-#TheOrchidRoom #fantasyromance #darkromance #romantasy #literaryanalysis

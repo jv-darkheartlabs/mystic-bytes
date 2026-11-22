@@ -48,5 +48,3 @@ This book presents a tapestry of polarizing themes that will spark fervent debat
 - Does the book's structure enhance or detract from the emotional impact of the story?
 - How does Cole's portrayal of flawed characters shape our understanding of love and desire?
 - Are the themes of obsession and violence justified within the context of the romance genre?
-
-#TheOrchidRoom #forbiddenlove #darkromance #gothic #literaryanalysis

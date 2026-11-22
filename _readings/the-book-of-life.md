@@ -45,5 +45,3 @@ The novel invites fervent debate, particularly around the balance of historical 
 - In what ways does the novel challenge or reinforce traditional gender roles within its gothic framework?  
 - Is the resolution of the central conflict earned, or does it leave the reader wanting?  
 - How do themes of blood and lineage influence your perception of the characters’ motivations?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

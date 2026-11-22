@@ -45,5 +45,3 @@ The interplay of morality and desire in Abercrombie's work sparks a wealth of po
 - Do you believe the ending provides sufficient resolution, or does it leave too many threads unresolved?  
 - How does the shifting perspective impact your connection to the characters?  
 - What role does emotional intensity play in shaping the reader's experience of the narrative?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #theblade

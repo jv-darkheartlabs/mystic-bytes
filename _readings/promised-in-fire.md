@@ -46,5 +46,3 @@ Walt’s narrative evokes both passion and debate, particularly in how it naviga
 - In what ways does the elemental magic serve as a metaphor for the characters’ relationships?  
 - Are the instances of exposition in dialogue an acceptable trade-off for thematic clarity?  
 - How does *Promised in Fire* compare to other works in the genre, particularly in its treatment of love and violence?  
-
-#TheOrchidRoom #fantasyromance #darkromance #dragonsandfae #literaryanalysis

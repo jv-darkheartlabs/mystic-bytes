@@ -47,5 +47,3 @@ The interplay of power and morality, alongside the seductive allure of knowledge
 - In what ways do the romantic elements serve to complicate the characters' moral dilemmas?  
 - Is the ending satisfying, or does it leave too many questions unanswered?  
 - What does *The Atlas Six* suggest about the nature of knowledge and its inherent dangers?
-
-#TheOrchidRoom #fantasyromance #darkacademia #literaryanalysis #darkheartlabs

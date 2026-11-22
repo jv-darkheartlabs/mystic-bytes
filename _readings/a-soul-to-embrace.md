@@ -50,5 +50,3 @@ The intersection of obsession and desire in **A Soul to Embrace** may provoke va
 - Does the ending redeem the darker elements of the story, or does it reinforce troubling notions about desire?  
 - How does the juxtaposition of lyrical prose against violent imagery affect your reading experience?  
 - What role does the setting play in shaping the characters' relationships and their choices?
-
-#TheOrchidRoom #fantasyromance #darkromance #duskwalker #literaryanalysis

@@ -48,5 +48,3 @@ The thematic exploration of obsession is where Mason truly excels — the charac
 - What does the dual perspective contribute to our understanding of power dynamics in romance?  
 - In what ways does *Crave* challenge or reinforce genre conventions?  
 - Is the emotional payoff of the ending satisfying in the context of the protagonist's journeys?
-
-#TheOrchidRoom #mafiaromance #darkromance #beneaththesecrets #literaryanalysis

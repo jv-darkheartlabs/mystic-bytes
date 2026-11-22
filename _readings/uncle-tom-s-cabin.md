@@ -21,7 +21,6 @@ tags:
   - social-issues
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ Stowe’s work polarizes as it vacillates between deep empathy for its character
 - How do Stowe's choices reflect or contradict modern understandings of trauma and representation in literature?  
 - In what ways does the novel succeed or fail in humanizing its characters within its political agenda?  
 - How does the portrayal of slavery in Stowe’s work compare to other contemporary narratives?  
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #historical

@@ -43,5 +43,3 @@ Zanetti’s *One Dark Kiss* invites intriguing polarities around the nature of l
 - Is the ending sufficient to justify the characters' emotional arc?  
 - What role do shadows play as a metaphor for temptation in the novel?  
 - Can we separate the allure of dark romance from the potential glorification of its themes?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

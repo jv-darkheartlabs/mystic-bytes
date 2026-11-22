@@ -44,5 +44,3 @@ The novel's exploration of death and desire, framed within a gothic lens, invite
 - In what ways does the gothic atmosphere influence your perception of the characters' choices?  
 - How effective is the use of dream imagery in conveying the protagonist’s psyche?  
 - Which elements of the narrative do you think resonate most with contemporary themes of desire and mortality?  
-
-#TheOrchidRoom #gothic #horrorromance #literaryanalysis #darkheartlabs

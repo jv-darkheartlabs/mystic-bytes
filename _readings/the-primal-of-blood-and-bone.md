@@ -7,7 +7,7 @@ dek: ""
 number: R1531
 sort_key: 1531
 date: 2026-06-15
-date_read: 2022-04-04
+date_read: 2025-04-04
 category: fantasy-romance
 cover: /assets/readings/the-primal-of-blood-and-bone.jpg
 spice: 3
@@ -21,7 +21,6 @@ tags:
   - dark fantasy
   - ritual
   - gothic
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -50,5 +49,3 @@ The interplay of love and power creates a fertile ground for contrasting opinion
 - Can the themes of sacrifice be reconciled with the romantic elements, or do they undermine each other?  
 - How does Armentrout’s depiction of dark magic challenge or reinforce societal norms around romance?  
 - What does the novel suggest about the connection between power and vulnerability in relationships?  
-
-#TheOrchidRoom #fantasyromance #darkromance #gothic #romantasy

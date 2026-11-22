@@ -48,5 +48,3 @@ The novel's exploration of possessiveness and power dynamics within romantic ent
 - What role does power imbalance play in the romantic dynamics, and how should it be portrayed in fiction?  
 - Can we find redemption in characters who embody toxic traits, or do they ultimately reinforce harmful stereotypes?  
 - In what ways does the novel challenge traditional tropes of romance, and does it succeed?  
-
-#TheOrchidRoom #bullyromance #darkromance #DukesOfForsyth #literaryanalysis

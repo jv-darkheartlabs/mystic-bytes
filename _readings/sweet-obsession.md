@@ -6,7 +6,7 @@ dek: "Dark Olympus"
 number: R1467
 sort_key: 1467
 date: 2026-06-09
-date_read: 2018-03-01
+date_read: 2025-03-01
 category: fantasy-romance
 cover: /assets/readings/sweet-obsession.jpg
 spice: 5
@@ -51,5 +51,3 @@ The novel's deep dive into themes of obsession and power imbalance can split opi
 - How effectively does Robert balance the line between passion and toxicity in her characters’ relationships?  
 - In what ways does this retelling of mythology add depth or detract from the original narratives?  
 - How does the dual perspective influence your understanding of consent in the dynamics presented?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

@@ -17,7 +17,7 @@ brief:
 
 ITIL is a shared language for tickets. ITIL 4, the 2019 revision, still sells the same useful nouns: incident, problem, change, service.[^1] The desk can say "this is an incident" and mean a restore, not a root cause, and the change board can say "this needs enablement" without inventing a dialect per team. That is the product worth keeping.
 
-I do not hold ITIL Foundation. Dark Heart Labs does not run a service desk. mystic-bytes ships markdown. I still hear the words in other people's queues, from Auckland, because the language leaked into every tool that copied a ticket form.
+I do not hold ITIL Foundation. Dark Heart Labs does not run a service desk. mystic-bytes ships markdown. I still hear the words in other people's queues, because the language leaked into every tool that copied a ticket form.
 
 The honest product is the glossary. A problem is not a pile of incidents with a louder subject line. Change is not a Slack thumbs-up. When an org is large enough that the person who writes the fix is not the person who answers the phone, you need English that survives a shift handover. ITIL 4 wrapped that English in a Service Value System and a list of practices. The wrapper is optional. The nouns are not.
 

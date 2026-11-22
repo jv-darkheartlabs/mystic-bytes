@@ -22,7 +22,6 @@ tags:
   - psychological thriller
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -52,5 +51,3 @@ The novel invites heated debate on the following polarities:
 - What are the implications of losing one's autonomy in the pursuit of acceptance?  
 - How do you interpret the ending—what does it signify for Joanna and for broader societal commentary?  
 - Can the themes of *The Stepford Wives* be applied to modern-day discussions about gender and identity?
-
-#TheOrchidRoom #gothic #horrorromance #dystopian #feminism

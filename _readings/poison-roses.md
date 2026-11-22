@@ -47,5 +47,3 @@ The interplay of desire and danger in *Poison Roses* invites rich debate around 
 - In what ways does the setting amplify the themes of power and control?  
 - Are the characters' motivations compelling enough to justify their actions, or do they fall into typical archetypes?  
 - How might this book affect perceptions of relationships among its target audience?  
-
-#TheOrchidRoom #bullyromance #darkromance #BoysOfBellerose #literaryanalysis

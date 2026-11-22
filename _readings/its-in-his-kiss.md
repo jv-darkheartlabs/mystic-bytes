@@ -44,5 +44,3 @@ While *It's in His Kiss* delights with its charm, it also raises questions about
 - In what ways does Quinn successfully navigate the fantasy-romance genre without compromising narrative depth?  
 - How does the historical setting influence the characters' motivations and struggles in a contemporary context?  
 - What elements would you say differentiate this installment from other books in the *Bridgerton* series?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #Bridgerton

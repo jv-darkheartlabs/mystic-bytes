@@ -47,5 +47,3 @@ The interplay of love and trauma in "Hopeless" presents a landscape ripe for deb
 - In what ways do you feel the characters' development aligns with or subverts typical romance tropes?  
 - How do you interpret the ending in relation to the themes of healing and forgiveness?  
 - Can the book's treatment of sensitive topics be justified within the framework of a romance narrative?
-
-#TheOrchidRoom #forbiddenlove #darkromance #newadult #contemporaryromance

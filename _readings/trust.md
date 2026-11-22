@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R436
 sort_key: 436
 date: 2026-02-17
-date_read: 2011-07-13
+date_read: 2022-07-13
 category: literary-fiction
 cover: /assets/readings/trust.jpg
 content_warnings:
@@ -39,5 +39,3 @@ The novel's duality of intimate betrayal against a backdrop of financial machina
 - What is the impact of the shifting narrative perspectives on your perception of truth and reliability?
 - Does the ending serve the novel’s themes effectively, or does it leave too many questions unanswered?
 - How do the gothic elements enhance the overall atmosphere of the narrative?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

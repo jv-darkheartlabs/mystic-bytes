@@ -22,7 +22,6 @@ tags:
   - satire
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Thompson's work polarizes readers with its unabashed celebration of excess and c
 - In what ways does the book's structure enhance or detract from its central message?  
 - Can the chaotic narrative be seen as a form of authenticity, or does it risk alienating the reader?  
 - How does Thompson's portrayal of the American Dream resonate with contemporary societal issues?
-
-#LiteraryAnalysis #darkthriller #Americanliterature #counterculture #theorchidroom

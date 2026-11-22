@@ -45,5 +45,3 @@ Moronova's masterful blending of horror and romance raises questions about the n
 - Do you believe that the ending offers closure or perpetuates a cycle of trauma?  
 - How do Moronova's characterizations reflect or challenge traditional gothic archetypes?  
 - What moral complexities does the book present regarding love and violence?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #literaryanalysis

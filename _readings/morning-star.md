@@ -45,5 +45,3 @@ The interplay of ambition and emotional depth is where *Morning Star* truly divi
 - In what ways do the emotional stakes elevate or detract from the action-driven narrative?
 - Are the character choices relatable, or do they serve the plot at the expense of realism?
 - How does the blending of genres impact the development of themes in this conclusion?
-
-#TheOrchidRoom #fantasyromance #darkromance #RedRising #literaryanalysis

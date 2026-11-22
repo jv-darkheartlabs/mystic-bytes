@@ -7,7 +7,7 @@ dek: "To save her prince"
 number: R1176
 sort_key: 1176
 date: 2026-05-08
-date_read: 2015-09-19
+date_read: 2018-09-19
 category: fantasy-romance
 cover: /assets/readings/to-kill-a-kingdom.jpg
 spice: 2
@@ -46,5 +46,3 @@ The novel invites critical examination of the duality of love and vengeance, lea
 - Can the romantic resolution truly satisfy after such a journey of conflict and moral ambiguity?  
 - Is the dual perspective an effective narrative choice, or does it dilute the emotional impact of the story?  
 - What moral complexities are presented, and how do they resonate with contemporary societal issues?
-
-#TheOrchidRoom #fantasyromance #darkromance #enemiestolovers #literaryanalysis

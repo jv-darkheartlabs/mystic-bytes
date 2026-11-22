@@ -7,7 +7,7 @@ dek: "It's a small price to pay for the woman he loves."
 number: R100
 sort_key: 100
 date: 2026-01-12
-date_read: 2019-04-04
+date_read: 2023-04-04
 category: dark-billionaire
 cover: /assets/readings/highest-bidder.jpg
 spice: 4
@@ -51,5 +51,3 @@ Cate's exploration of dark themes invites debate, particularly around the ethics
 - Do you believe the characters receive the redemption they deserve, or is the ending more punishing than liberating?  
 - How might the book's themes resonate differently across various cultural contexts?  
 - Does the portrayal of BDSM in the novel align with or detract from its romantic elements?  
-
-#TheOrchidRoom #darkbillionaire #darkromance #salaciousplayersclub #literaryanalysis

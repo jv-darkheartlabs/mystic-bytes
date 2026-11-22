@@ -47,5 +47,3 @@ The interplay of ambition and desire in *The Burning God* raises provocative que
 - What are your thoughts on the portrayal of violence and its relationship to desire in the narrative?  
 - Does the ambiguity of the ending serve to deepen the themes, or does it leave too many questions unanswered?  
 - How do you interpret the role of cultural context in shaping the characters' desires and conflicts?
-
-#TheOrchidRoom #theburninggod #fantasyromance #darkromance #literaryanalysis

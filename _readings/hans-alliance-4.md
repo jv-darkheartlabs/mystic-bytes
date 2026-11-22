@@ -22,7 +22,6 @@ tags:
   - action-packed
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,4 +48,3 @@ Character development is a mixed bag; while the protagonists are vividly drawn, 
 - Does the familiar setting detract from the originality of the narrative, or does it serve to underscore the psychological tension?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #theorchidroom

@@ -6,7 +6,7 @@ dek: "Millennium #2"
 number: R2170
 sort_key: 2170
 date: 2026-08-03
-date_read: 2005-04-04
+date_read: 2006-04-04
 category: mystery-crime
 cover: /assets/readings/the-girl-who-played-with-fire-millennium-2.jpg
 content_warnings:
@@ -22,7 +22,6 @@ tags:
   - psychological
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Larsson's bold exploration of dark themes invites a range of interpretations and
 - Does the ending of the book offer a satisfying resolution, or does it leave too many questions unanswered?  
 - How does the dual narrative structure affect your engagement with the plot?  
 - What role does societal critique play in your enjoyment of dark-thrillers like this one?
-
-#LiteraryAnalysis #darkthriller #mystery #psychological #theorchidroom

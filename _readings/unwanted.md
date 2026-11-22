@@ -46,5 +46,3 @@ The climax, laden with tension, feels both inevitable and earned, forcing charac
 - Do you think the dual timeline structure enhances the story's depth or complicates it unnecessarily?  
 - How do you feel about the portrayal of secondary characters—do they add to or detract from the main narrative?  
 - How does Sheridan's treatment of forbidden love challenge or conform to genre conventions?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

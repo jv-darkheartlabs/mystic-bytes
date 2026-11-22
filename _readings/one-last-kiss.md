@@ -53,5 +53,3 @@ The themes of obsession and possession present both a gripping narrative and a p
 - In what ways does the narrative challenge or reinforce traditional romantic tropes?  
 - How does the limited POV affect your empathy for the characters?  
 - Is the resolution of the novella satisfactory in its portrayal of obsession, or does it fall into cliché?
-
-#TheOrchidRoom #stalker #obsession #darkromance #LolaKing

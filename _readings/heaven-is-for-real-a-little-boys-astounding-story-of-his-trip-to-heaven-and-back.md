@@ -19,7 +19,6 @@ tags:
   - faith
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -41,5 +40,3 @@ The dichotomy of belief versus skepticism permeates this text, offering fertile 
   - Can a memoir that leans toward sensationalism genuinely contribute to spiritual discourse?  
   - What does this book overlook about the complexities of grief and belief?  
   - In what ways does this narrative shape or distort our understanding of faith?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #spiritual

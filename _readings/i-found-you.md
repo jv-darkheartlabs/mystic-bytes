@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R390
 sort_key: 390
 date: 2026-02-11
-date_read: 2005-06-10
+date_read: 2016-06-10
 category: mystery-crime
 cover: /assets/readings/i-found-you.jpg
 content_warnings:

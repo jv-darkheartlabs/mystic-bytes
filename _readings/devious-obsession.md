@@ -51,5 +51,3 @@ The intricacies of **Devious Obsession** provoke a multitude of discussions rega
   - Do you believe the ending serves as a form of empowerment or entrapment for the protagonist?  
   - What role does the setting (hockey and celebrity culture) play in shaping the characters’ motivations?  
   - How do the content warnings enhance or detract from your reading experience?  
-
-#TheOrchidRoom #stalker #darkromance #obsession #emotionalmanipulation

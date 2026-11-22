@@ -6,7 +6,7 @@ dek: ""
 number: R744
 sort_key: 744
 date: 2026-03-23
-date_read: 2015-09-19
+date_read: 2021-09-19
 category: forbidden-love
 cover: /assets/readings/the-summer-of-broken-rules.jpg
 spice: 2
@@ -41,5 +41,3 @@ As we explore *The Summer of Broken Rules*, we might find ourselves divided on i
 - Are the characters’ arcs sufficiently developed to support the book's emotional stakes?  
 - What role does grief play in shaping the narrative’s trajectory, and is it handled sensitively?  
 - Can we see parallels between the protagonist's journey and our own experiences with love and loss?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #YA #literaryanalysis

@@ -49,5 +49,3 @@ Thematically, the novel wrestles with the notion of power imbalance, cleverly ut
 - To what extent do you believe the characters’ development is impacted by their dark motivations?  
 - How does Robert's use of myth enhance or detract from the contemporary themes of the narrative?  
 - What role does moral ambiguity play in your enjoyment of dark romance?  
-
-#TheOrchidRoom #DesperateMeasures #KateeRobert #darkromance #enemiestolovers

@@ -41,5 +41,3 @@ This book presents a compelling tapestry of longing and time, but it also invite
 - In what ways does Bailey's narrative challenge or reinforce traditional romance tropes?
 - How does the interplay between time and desire shape your understanding of love's consequences?
 - What does the novel suggest about the nature of regret in relationships?
-
-#TheOrchidRoom #forbiddenlove #darkromance #contemporary #literaryanalysis

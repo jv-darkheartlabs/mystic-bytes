@@ -48,5 +48,3 @@ This novel is bound to ignite passionate discussions among readers, particularly
 - Do you feel the balance of romance and political intrigue is successful, or does one overshadow the other?  
 - How does the dark magic element influence your perception of the characters’ moral choices?  
 - What implications do you see for the larger narrative arc of The Gift War series based on this installment?  
-
-#TheOrchidRoom #vampire #darkromance #gothicfantasy #literaryanalysis

@@ -19,7 +19,6 @@ tags:
   - 1980s
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---

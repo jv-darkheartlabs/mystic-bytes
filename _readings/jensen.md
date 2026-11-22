@@ -50,5 +50,3 @@ The climax and resolution are strikingly earned, with a conclusion that feels bo
 - Does the dual POV structure strengthen or dilute the emotional stakes of the story?
 - How do the content warnings influence your reading experience and interpretation of the characters’ actions?
 - What unspoken implications about brotherhood and loyalty resonate with contemporary societal issues?
-
-#TheOrchidRoom #mcromance #darkromance #brotherskeeper #alphahero

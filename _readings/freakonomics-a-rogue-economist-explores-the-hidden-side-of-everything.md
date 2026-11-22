@@ -19,7 +19,6 @@ tags:
   - data analysis
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The ending, while not traditionally climactic, offers a haunting reflection on t
 - How does Levitt's analytical detachment impact the reader's emotional engagement with the subject matter?  
 - What are the implications of using data to draw uncomfortable correlations in societal issues?  
 - Is the pursuit of knowledge through such a lens ultimately beneficial or detrimental to society?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #socialscience #TheOrchidRoom

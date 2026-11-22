@@ -7,7 +7,7 @@ dek: ""
 number: R426
 sort_key: 426
 date: 2026-02-15
-date_read: 2011-06-10
+date_read: 2020-06-10
 category: mystery-crime
 cover: /assets/readings/the-summer-house.jpg
 content_warnings:
@@ -42,5 +42,3 @@ The interplay of suspense and morality raises questions about the nature of huma
 - Are the characters' moral dilemmas relatable, or do they fall flat in their predictability?  
 - In what ways do you think Patterson and DuBois succeed or fail in crafting authentic dialogue?  
 - What role does violence play in shaping the narrative's emotional impact, and is it justified?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

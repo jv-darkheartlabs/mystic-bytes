@@ -7,7 +7,7 @@ dek: ""
 number: R484
 sort_key: 484
 date: 2026-02-22
-date_read: 2019-10-22
+date_read: 2024-10-22
 category: fantasy-romance
 cover: /assets/readings/the-dagger-and-the-flame.jpg
 spice: 4
@@ -45,5 +45,3 @@ The interplay of fantasy and romance in *The Dagger and the Flame* invites polar
 - Do you think the character arcs successfully subvert traditional fantasy tropes, or do they fall into predictable patterns?  
 - How effectively does the pacing contribute to or detract from the overall tension of the narrative?  
 - What themes resonated with you the most, and were there any you felt were left unexplored?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #CatherineDoyle

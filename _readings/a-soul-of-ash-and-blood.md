@@ -47,5 +47,3 @@ The interplay of desire and duty in *A Soul of Ash and Blood* invites rich debat
 - Are the character archetypes refreshing or overused, and how does that affect your reading experience?  
 - Does the blending of dark fantasy and romance serve the story, or does it dilute its potential?  
 - What unresolved questions linger after the book’s conclusion?
-
-#TheOrchidRoom #fantasyromance #darkromance #bloodandash #literaryanalysis

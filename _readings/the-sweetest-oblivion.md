@@ -7,7 +7,7 @@ dek: "She's a romantic at heart... living in the most unromantic of worlds..."
 number: R169
 sort_key: 169
 date: 2026-01-19
-date_read: 2016-10-22
+date_read: 2018-10-22
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-sweetest-oblivion.jpg
 spice: 4
@@ -50,5 +50,3 @@ The interplay of love and power in *The Sweetest Oblivion* invites polarizing di
 - To what extent does the dark setting shape our understanding of love in this context?  
 - Are the characters' motivations consistently believable, or do they sometimes falter under the weight of the plot?  
 - How does this book compare to other dark romance novels in its treatment of violence and desire?  
-
-#TheOrchidRoom #mafiaromance #darkromance #TheMadeSeries #literaryanalysis

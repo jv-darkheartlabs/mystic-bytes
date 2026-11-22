@@ -21,7 +21,6 @@ tags:
   - hades persephone
   - immortals
   - mythology
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -48,5 +47,3 @@ The world-building is rich yet eerie, effectively utilizing lush imagery to evok
 - Are the emotional stakes high enough to justify the characters' decisions, or do they feel contrived?  
 - In what ways does the author's use of mythological elements redefine the standard tropes in romance?  
 - How does the nonlinear storytelling impact your engagement with the characters and their journeys?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #theorchidroom

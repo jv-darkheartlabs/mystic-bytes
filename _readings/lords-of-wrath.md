@@ -7,7 +7,7 @@ dek: "Royals of Forsyth — Book 2"
 number: R048
 sort_key: 048
 date: 2026-01-06
-date_read: 2015-06-10
+date_read: 2021-06-10
 category: bully-romance
 cover: /assets/readings/lords-of-wrath.jpg
 spice: 5
@@ -48,5 +48,3 @@ The interplay between desire and danger in *Lords of Wrath* serves as fertile gr
 - What are the implications of portraying such intense possessiveness as romantic?  
 - How does the dual perspective enhance or hinder the overall impact of the story?  
 - In what ways does the setting amplify the themes of power and vulnerability?  
-
-#TheOrchidRoom #bullyromance #darkromance #royalsofforsyth #literaryanalysis

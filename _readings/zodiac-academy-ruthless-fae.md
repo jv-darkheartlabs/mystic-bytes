@@ -47,5 +47,3 @@ Despite its strengths, *Ruthless Fae* may polarize readers regarding its approac
 - Is the ending a fitting resolution, or does it risk reinforcing negative behavior patterns?  
 - What impact does the dual perspective have on our empathy for each character?  
 - How does this book compare to other works in the bully-romance genre, such as *Cruel Intentions* or *The Deal*?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #elementalmagic

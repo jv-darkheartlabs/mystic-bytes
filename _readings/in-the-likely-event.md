@@ -6,7 +6,7 @@ dek: "A Novel"
 number: R338
 sort_key: 338
 date: 2026-02-06
-date_read: 2017-08-16
+date_read: 2023-08-16
 category: dark-military-romance
 cover: /assets/readings/in-the-likely-event.jpg
 spice: 3
@@ -44,5 +44,3 @@ Yarros’s exploration of love amidst trauma invites polarizing interpretations,
 - In what ways does the setting enhance or detract from the emotional stakes of the story?
 - Does the resolution feel earned, or does it leave too many questions unanswered?
 - How does the author’s portrayal of military life compare with other narratives in the genre?
-
-#TheOrchidRoom #militaryromance #darkromance #PTSD #literaryanalysis

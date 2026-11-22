@@ -7,7 +7,7 @@ dek: "Edge of Collapse Series — Book One"
 number: R365
 sort_key: 365
 date: 2026-02-09
-date_read: 2010-08-16
+date_read: 2020-08-16
 category: sff
 cover: /assets/readings/edge-of-collapse.jpg
 content_warnings:
@@ -45,5 +45,3 @@ Stone’s *Edge of Collapse* is a potent blend of survival horror and romance, y
 - What are the implications of the characters' moral choices in the context of a post-apocalyptic setting?  
 - Are the themes of love and survival effectively integrated, or do they clash?  
 - How does *Edge of Collapse* compare to other works in the dark-thriller genre regarding its treatment of trauma?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

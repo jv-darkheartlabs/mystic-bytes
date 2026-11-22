@@ -7,7 +7,7 @@ dek: "Everyone has a dark side"
 number: R391
 sort_key: 391
 date: 2026-02-12
-date_read: 2006-07-13
+date_read: 2021-07-13
 category: mystery-crime
 cover: /assets/readings/the-good-sister.jpg
 content_warnings:

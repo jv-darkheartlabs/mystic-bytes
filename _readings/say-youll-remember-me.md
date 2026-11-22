@@ -6,7 +6,7 @@ dek: ""
 number: R738
 sort_key: 738
 date: 2026-03-22
-date_read: 2021-03-01
+date_read: 2025-03-01
 category: forbidden-love
 cover: /assets/readings/say-youll-remember-me.jpg
 spice: 3
@@ -41,5 +41,3 @@ The interplay of love and loss in "Say You'll Remember Me" offers rich avenues f
 - What are the implications of the ending? Does it resonate with the themes of remembrance and loss, or does it leave too much unresolved?
 - How do you interpret Jimenez’s portrayal of forbidden love in the context of the characters’ challenges?
 - What craft choices stood out to you as either strengths or weaknesses in the narrative?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

@@ -22,7 +22,7 @@ ASCII is a cramped neighbourhood that a lot of software still treats as the map 
 
 ## Context
 
-I write mystic-bytes from an Auckland-bound 2026: Tāmaki Makaurau, Aotearoa, macrons in the place names I refuse to flatten for a CMS that was designed in a language without tohutō. Māori vowels with macrons (ā, ē, ī, ō, ū) are not decoration. They change pronunciation and, in enough words, they change meaning. A pipeline that turns *Māori* into *Maori* because the slug library used a Latin-1 table has already lost.
+I write mystic-bytes from Louisiana in 2026: Tāmaki Makaurau, Aotearoa, macrons in the place names I refuse to flatten for a CMS that was designed in a language without tohutō. Māori vowels with macrons (ā, ē, ī, ō, ū) are not decoration. They change pronunciation and, in enough words, they change meaning. A pipeline that turns *Māori* into *Maori* because the slug library used a Latin-1 table has already lost.
 
 The same week I watched search on a local preview miss a heading I could see on the page. One file stored *ā* as a single precomposed character. Another, after a copy through a tool that likes decomposed form, stored *a* plus a combining macron. To a reader they are the same letter. To a naive `==` or a search index that never normalized, they are different strings. I had not been hacked. I had two Unicode spellings of the same word and software that only believed in one of them.
 
@@ -36,7 +36,7 @@ Emoji showed up in a title I almost "cleaned." A catalog blurb pipeline treated 
 
 **Normalization is a compare-and-search problem.** The same visual letter can be stored more than one way. For mystic-bytes I NFC-normalize titles and names at the boundary before slug comparison, search indexing, and filename checks. I pick a form and apply it everywhere a string is identity. Skip that step and you get duplicate tags, missed searches, and "it works on my Mac" fights that are decomposed versus composed.
 
-**Māori macrons are a product requirement in Aotearoa.** Government and iwi names, street signs, and the words I use for where I live assume tohutō. A URL fallback may map *ā* to *a*. The displayed name and the search corpus should keep the macron. Stripping as default is a colonial leftover dressed as sanitization.
+**Māori macrons are a product requirement in Aotearoa.** Government and iwi names, street signs, and the words I use for the places I write about assume tohutō. A URL fallback may map *ā* to *a*. The displayed name and the search corpus should keep the macron. Stripping as default is a colonial leftover dressed as sanitization.
 
 ## Tradeoffs
 
@@ -48,7 +48,7 @@ Emoji showed up in a title I almost "cleaned." A catalog blurb pipeline treated 
 
 ## Close
 
-The real character set is the one the Unicode Consortium publishes, not the one your sanitizer inherited. mystic-bytes has to store Tāmaki Makaurau with the macrons intact, search *ā* as *ā*, and stop treating emoji as dirt in a title. Auckland 2026 is not an ASCII city. The site should not pretend it is.
+The real character set is the one the Unicode Consortium publishes, not the one your sanitizer inherited. mystic-bytes has to store Tāmaki Makaurau with the macrons intact, search *ā* as *ā*, and stop treating emoji as dirt in a title. The site should not pretend it is.
 
 If you ship a form this week, type a macronized word and one emoji through it. If either disappears, the bug is in your character set policy, not in the user.
 

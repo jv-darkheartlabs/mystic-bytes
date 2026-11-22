@@ -11,6 +11,7 @@ redirect_from:
 number: 910.05
 sort_key: 0910.05
 cover: /assets/images/cover-archive.svg
+thread: letters
 ---
 
 I do not need a clubhouse. I need a desk I can find without thinking and a room that does not require me to explain myself at the door. Community, for me, has been a library on Lorne Street, a café that learned the order, a gym I could walk to in the rain. Repeat spaces. The same chair on a Tuesday. That is the whole method.

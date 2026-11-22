@@ -19,7 +19,6 @@ tags:
   - humor
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Heim’s adaptation begs a deeper examination of the boundaries between light-he
 - In what ways does the use of whimsy impact the acceptance of darker themes in children’s literature?  
 - What does the juxtaposition of holiday cheer with melancholy reveal about our own experiences during the festive season?  
 - How do we define the boundaries of children's literature when it engages with more complex emotional truths?
-
-#TheOrchidRoom #gothic #horrorromance #holiday #literaryanalysis

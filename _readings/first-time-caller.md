@@ -6,7 +6,7 @@ dek: "Welcome to Heartstrings, Baltimore's romance hotline."
 number: R865
 sort_key: 865
 date: 2026-04-05
-date_read: 2016-04-04
+date_read: 2025-04-04
 category: enemies-to-lovers
 cover: /assets/readings/first-time-caller.jpg
 spice: 3
@@ -40,5 +40,3 @@ While **First-Time Caller** navigates the familiar waters of romance with skill,
 - Do you find the dual perspectives effective in deepening character engagement, or do they distract from the central conflict?  
 - How does Borison's portrayal of vulnerability resonate with your understanding of the enemies-to-lovers trope?  
 - What thematic elements do you think were underexplored, and how would you have approached them differently?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #radio #literaryanalysis #darkheartlabs

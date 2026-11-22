@@ -45,5 +45,3 @@ The novel's exploration of love arising from animosity presents intriguing polar
 - How does the dual POV influence your perception of the protagonists?  
 - Is the resolution earned, or does it feel like a convenient wrap-up?  
 - In what ways does the book challenge or conform to traditional enemies-to-lovers tropes?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #rom-com #literaryanalysis #darkheartlabs

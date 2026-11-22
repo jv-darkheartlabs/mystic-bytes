@@ -46,5 +46,3 @@ The interplay between desire and violence in "Cursed Fates" raises questions abo
 - In what ways does the dual perspective enrich or complicate the reader's engagement with the characters?  
 - Are there moments where the narrative risks glorifying toxic relationships?  
 - How does the climax shape your understanding of the characters' arcs, and do you find it satisfying or unresolved?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #cursedfates

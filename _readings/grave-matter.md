@@ -48,5 +48,3 @@ Characterization is another area where Halle excels. The protagonist is flawed a
 - Does the dual narrative structure enrich the reader's understanding or create confusion?  
 - In what ways does the novel challenge or conform to traditional vampire tropes?  
 - Can we separate the romantic elements from the horror, or do they inherently coexist in this narrative?
-
-#TheOrchidRoom #GraveMatter #vampire #darkromance #gothic

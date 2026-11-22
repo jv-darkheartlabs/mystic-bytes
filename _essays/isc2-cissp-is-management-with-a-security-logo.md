@@ -17,7 +17,7 @@ brief:
 
 CISSP is the security logo procurement already knows. The domains are a management syllabus wearing a lock. You can pass a long exam and still be an Associate of ISC2 until the years land. The product is the experience rule: five years, two or more domains, paid and full-time, with a one-year waiver for a qualifying degree or approved credential.[^1] That is the gate. The exam is the ceremony.
 
-I do not hold CISSP. I write from Auckland and I read job posts. Senior security roles treat the four letters as "this person has been in the room long enough for the institution to believe them." Shared language for policy, audit, and a steering committee. Not a packet-crafting contest. ISC2 sells the membership and the continuing education attached to the logo.
+I do not hold CISSP. I write from Louisiana and I read job posts. Senior security roles treat the four letters as "this person has been in the room long enough for the institution to believe them." Shared language for policy, audit, and a steering committee. Not a packet-crafting contest. ISC2 sells the membership and the continuing education attached to the logo.
 
 Five years is how a cert body stays expensive to fake. Endorsement is the last lock: another CISSP has to vouch that those years are real. Sharp practitioners still sit as Associates while the posting says required. If you want the logo, budget the years. If you are hiring, say whether you need the management dialect or someone who rotated the keys.
 

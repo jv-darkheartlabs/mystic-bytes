@@ -21,7 +21,6 @@ tags:
   - female friendship
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The juxtaposition of empowerment versus exploitation is likely to stir a heated 
 - How do the humor and lighter moments serve or obstruct the serious themes of racism and emotional abuse?
 - In what ways could the narrative have presented a more authentic portrayal of its historical context?
 - What are the implications of a predominantly white readership engaging with this story?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #historicalfiction

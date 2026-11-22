@@ -47,5 +47,3 @@ The interplay of grief and romance can be polarizing, challenging readers to rec
 - Are the supporting characters well-developed, or do they serve merely as plot devices?
 - What does this novel say about creativity as a response to personal trauma?
 - In what ways does the setting influence the characters’ emotional journeys?
-
-#TheOrchidRoom #enemiestolovers #darkromance #contemporaryromance #literaryanalysis

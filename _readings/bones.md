@@ -7,7 +7,7 @@ dek: "The Dark Kingdom"
 number: R101
 sort_key: 101
 date: 2026-01-12
-date_read: 2020-05-07
+date_read: 2022-05-07
 category: dark-billionaire
 cover: /assets/readings/bones.jpg
 spice: 5
@@ -51,5 +51,3 @@ The duality of desire in *Bones* will undoubtedly provoke heated discussions amo
 - In what ways does the narrative challenge or uphold traditional gender roles within dark romance?  
 - Are the content warnings a necessary lens for reading the book, or do they detract from the overall experience?  
 - How does the ending impact your perception of the protagonists’ journeys?  
-
-#TheOrchidRoom #darkbillionaire #darkromance #theDarkKingdom #Bones

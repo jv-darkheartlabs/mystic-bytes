@@ -47,5 +47,3 @@ The delicate balance between attraction and animosity in **Zodiac Academy: Live 
 - Can the portrayal of rivalries be seen as a critique of societal norms regarding power and attraction?  
 - How does the pacing impact your emotional investment in the characters?  
 - What unresolved questions linger about the characters' journeys and relationships?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #literaryanalysis

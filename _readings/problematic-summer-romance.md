@@ -6,7 +6,7 @@ dek: ""
 number: R896
 sort_key: 896
 date: 2026-04-08
-date_read: 2023-08-16
+date_read: 2025-08-16
 category: enemies-to-lovers
 cover: /assets/readings/problematic-summer-romance.jpg
 spice: 4
@@ -40,5 +40,3 @@ While the romance is compelling, *Problematic Summer Romance* invites readers to
 - In what ways does the novel challenge or reinforce stereotypes about women in STEM?  
 - How effectively does the dual POV enhance your understanding of the characters' motivations?  
 - What role does humor play in alleviating the tension of the romance?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

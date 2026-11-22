@@ -6,7 +6,7 @@ dek: ""
 number: R962
 sort_key: 962
 date: 2026-04-15
-date_read: 2017-11-25
+date_read: 2024-11-25
 category: fantasy-romance
 cover: /assets/readings/reckless.jpg
 spice: 4
@@ -45,5 +45,3 @@ In *Reckless*, the interplay between love and danger provokes a myriad of interp
 - In what ways do the secondary characters contribute or detract from the protagonists’ journeys?  
 - Is the ending satisfying in its ambiguity, or does it leave too much unresolved?  
 - What does the book suggest about the nature of recklessness in love—can it ever be justified?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

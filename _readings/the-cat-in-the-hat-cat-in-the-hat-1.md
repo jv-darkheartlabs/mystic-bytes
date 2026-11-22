@@ -19,7 +19,6 @@ tags:
   - whimsical
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The inherent tension between chaos and order in **The Cat in the Hat** creates a
 - How does the whimsical language enhance or distract from the book's underlying themes? 
 - Does the Cat serve as a positive role model, or is he a cautionary figure? 
 - How might this story be perceived differently by adults versus children? 
-
-#TheOrchidRoom #gothic #horrorromance #children'sliterature #whimsical

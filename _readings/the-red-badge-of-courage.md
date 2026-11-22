@@ -22,7 +22,6 @@ tags:
   - coming-of-age
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---

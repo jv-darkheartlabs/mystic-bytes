@@ -6,7 +6,7 @@ dek: "USA Today Bestselling Author"
 number: R819
 sort_key: 819
 date: 2026-03-31
-date_read: 2018-03-01
+date_read: 2021-03-01
 category: stalker-obsession
 cover: /assets/readings/what-i-would-do-for-you.jpg
 spice: 4
@@ -44,5 +44,3 @@ This novel’s exploration of obsession presents several polarizing elements tha
 - Do you believe the ending provides closure or intentionally leaves us in a state of unease?  
 - In what ways does the minimalist prose shape your experience of the characters’ emotional journeys?  
 - Is there a risk that the novel romanticizes unhealthy relationships, and if so, how might this impact readers?
-
-#TheOrchidRoom #stalker #obsession #darkromance #WWinters

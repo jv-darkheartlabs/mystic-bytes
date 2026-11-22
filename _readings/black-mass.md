@@ -18,7 +18,6 @@ tags:
   - Boston
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ Lehr’s exploration of moral ambiguity raises complex questions about the natur
 - In what ways does the book's structure enhance or detract from its thematic intentions?  
 - Can the moral decay depicted in the story be seen as a reflection of broader societal issues?  
 - How does the duality of law enforcement and criminality challenge our perceptions of justice?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #truecrime

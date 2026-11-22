@@ -42,5 +42,3 @@ The complexities of love often breed polarizing discussions, particularly in the
 - Does the ending feel like a true resolution, or is it a convenient wrap-up that undermines the characters’ journeys?  
 - What role do societal expectations play in the characters' choices and developments?  
 - How does Score's work compare to other dark romance authors in addressing themes of redemption and transformation?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #Knockemout

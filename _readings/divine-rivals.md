@@ -46,5 +46,3 @@ Ross’s **Divine Rivals** presents a tapestry of desire and duty, but it also i
 - In what ways do the characters challenge or conform to typical rivals-to-lovers archetypes?  
 - Was the ending satisfying in providing closure, or did it leave too many questions unanswered?  
 - How does Ross’s portrayal of grief resonate with contemporary issues facing young readers today?  
-
-#TheOrchidRoom #fantasyromance #darkromance #magicaltypewriters #rivalstolovers

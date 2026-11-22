@@ -43,5 +43,3 @@ The novel's juxtaposition of love and animosity provides fertile ground for deba
 - Do you believe the ending reconciles the characters' journeys, or does it leave too many questions unanswered?
 - In what ways does the book challenge or reinforce traditional tropes in the enemies-to-lovers genre?
 - How does the portrayal of desire influence your perception of the characters' development throughout the narrative?
-
-#TheOrchidRoom #enemiestolovers #darkromance #contemporaryromance #literaryanalysis

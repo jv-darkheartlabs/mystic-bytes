@@ -6,7 +6,7 @@ dek: "An Outer Banks Bookshop Mystery"
 number: R398
 sort_key: 398
 date: 2026-02-12
-date_read: 2013-05-07
+date_read: 2022-05-07
 category: mystery-crime
 cover: /assets/readings/smile-beach-murder.jpg
 content_warnings:
@@ -41,5 +41,3 @@ There are polarities lurking within *Smile Beach Murder* that could ignite passi
 - How effective is Bessette's use of humor in the face of dark subject matter — does it enhance or detract from the narrative?  
 - In what ways could the secondary characters have been developed to enrich the protagonist’s story?  
 - Does the pacing of the book serve to build tension, or does it undermine the suspense?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

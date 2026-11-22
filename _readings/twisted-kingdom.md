@@ -6,7 +6,7 @@ dek: "The kingdom isn't supposed to fall — Royal Elite Book 3"
 number: R026
 sort_key: 026
 date: 2026-01-04
-date_read: 2017-11-25
+date_read: 2020-11-25
 category: bully-romance
 cover: /assets/readings/twisted-kingdom.jpg
 spice: 4
@@ -46,5 +46,3 @@ In exploring **Twisted Kingdom**, the polarities of desire and destruction emerg
 - In what ways does Kent's use of dual POV impact our sympathies toward the protagonists?
 - How does the chess motif enhance or detract from the story's overarching themes?
 - What unresolved questions linger after the conclusion, and how do they affect our interpretation of the protagonists’ journeys?
-
-#TheOrchidRoom #bullyromance #darkromance #royalelite #darkheartlabs

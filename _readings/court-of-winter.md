@@ -6,7 +6,7 @@ dek: "Of Snow & Ice — Book 1"
 number: R1387
 sort_key: 1387
 date: 2026-05-31
-date_read: 2022-04-04
+date_read: 2023-04-04
 category: fantasy-romance
 cover: /assets/readings/court-of-winter.jpg
 spice: 3
@@ -51,5 +51,3 @@ In discussing "Court of Winter," the interplay between desire and power dynamics
 - Do you think the portrayal of royal intrigue is effective in heightening the stakes of the romance?  
 - How does Street's treatment of consent within the fated mate trope shape your perception of the characters’ relationships?  
 - What unresolved questions or desires do you have for the sequel, given the open-ended conclusion?
-
-#TheOrchidRoom #fantasyromance #darkromance #winter #faecourt

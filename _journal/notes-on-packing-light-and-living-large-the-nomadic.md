@@ -11,6 +11,7 @@ redirect_from:
 number: 910.54
 sort_key: 0910.54
 cover: /assets/images/cover-archive.svg
+thread: letters
 ---
 
 Capsule culture wants a suitcase that looks like a mood board. I want seven days of laundry and a zipper that still closes after I add the jacket I actually wear. Light packing is a wash cycle, not a personality. If I cannot get clothes clean once a week, I packed a costume change, not a life.

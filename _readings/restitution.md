@@ -7,7 +7,7 @@ dek: "The Edge of Darkness Trilogy"
 number: R127
 sort_key: 127
 date: 2026-01-14
-date_read: 2022-04-04
+date_read: 2024-04-04
 category: enemies-to-lovers
 cover: /assets/readings/restitution.jpg
 spice: 4
@@ -46,5 +46,3 @@ Rivers’ structure is a study in tension, employing a dual perspective that ena
 - Does the ending leave you satisfied or yearning for closure, and why?  
 - How effective is Rivers’ use of gothic elements in shaping the story’s atmosphere?  
 - What role does violence play in the relationship dynamics, and how is it portrayed?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #gothic #LiteraryAnalysis

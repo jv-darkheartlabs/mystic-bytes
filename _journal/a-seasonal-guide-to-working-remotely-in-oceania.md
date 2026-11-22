@@ -11,6 +11,7 @@ redirect_from:
 number: 910.57
 sort_key: 0910.57
 cover: /assets/images/cover-archive.svg
+thread: letters
 ---
 
 December in Tāmaki Makaurau is peak summer. US calendars still treat it as a winding-down month. You get long evenings and a standup that lands after dinner. The mismatch is the work. Seasons here do not politely wait for anyone's Q4.

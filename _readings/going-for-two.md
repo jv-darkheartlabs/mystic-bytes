@@ -6,7 +6,7 @@ dek: "A Novel"
 number: R847
 sort_key: 847
 date: 2026-04-03
-date_read: 2022-04-04
+date_read: 2024-04-04
 category: enemies-to-lovers
 cover: /assets/readings/going-for-two.jpg
 spice: 3
@@ -39,5 +39,3 @@ Veillon’s novel invites a spectrum of reactions — some readers may revel in 
 - In what ways does the enemies-to-lovers trope both reinforce and challenge traditional romantic narratives?  
 - Do you find the unresolved elements of the ending refreshing or frustrating?  
 - How does Veillon's portrayal of desire influence your perception of the characters' relationship?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #Cinderella #darkheartlabs

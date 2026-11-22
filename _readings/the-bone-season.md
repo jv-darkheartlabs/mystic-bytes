@@ -47,5 +47,3 @@ The juxtaposition of desire against a backdrop of authoritarian control creates 
 - Does the rich world-building enhance or detract from character development?  
 - How do you interpret the emotional intensity presented in the novel, and what does it reveal about the nature of desire?  
 - What unresolved themes linger after the conclusion, and how do they affect your reading of the story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #thebone

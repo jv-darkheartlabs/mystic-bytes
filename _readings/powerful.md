@@ -45,5 +45,3 @@ Roberts's prose shines with vivid imagery and poetic undertones, which serve to 
 - Are the characters' actions justified by their circumstances, or do they reflect a more troubling aspect of desire?  
 - In what ways does the narrative challenge or conform to traditional fantasy-romance tropes?  
 - What lingering feelings did the ending evoke, and how do they shape our understanding of the characters' journeys?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #powerful

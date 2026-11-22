@@ -7,7 +7,7 @@ dek: "A Caraval Novel"
 number: R1200
 sort_key: 1200
 date: 2026-05-11
-date_read: 2015-06-10
+date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/legendary.jpg
 spice: 1
@@ -46,5 +46,3 @@ The novel is a tapestry of light and darkness, yet it raises questions about the
 - What are your thoughts on the pacing? Did it serve or sabotage the overall narrative?
 - In what ways do you think the sisterly bond is pivotal to the book's emotional impact?
 - How does *Legendary* compare to other fantasy-romance novels you've read in terms of emotional depth?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #caraval

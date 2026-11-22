@@ -47,5 +47,3 @@ This novel presents rich themes that prompt intense discussion about loyalty and
 - Do you find the moral ambiguity of the characters compelling or frustrating?  
 - How does Lynch’s portrayal of love challenge conventional romantic tropes in fantasy?  
 - What elements of the writing style do you think contribute most effectively to the book's overall tension?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #redseasunderredskies

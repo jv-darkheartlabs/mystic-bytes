@@ -46,5 +46,3 @@ This narrative provokes a spectrum of responses, particularly around its treatme
 - In what ways do you think the book critiques or romanticizes the concept of power imbalance?  
 - How does the resolution impact your overall perception of the characters' journey?  
 - What does *Ruin My Life* suggest about the nature of desire in situations of moral ambiguity?  
-
-#TheOrchidRoom #ruinmylife #mafiaromance #darkromance #literaryanalysis

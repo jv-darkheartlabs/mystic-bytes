@@ -49,5 +49,3 @@ Yet, the emotional intensity that Kent cultivates is not without its shadows. Th
 - Can we sympathize with characters who embody harmful behaviors, and if so, what does that say about our own desires?  
 - What role does setting play in magnifying the psychological tension in *Steel Princess*?  
 - Is the ending of *Steel Princess* an affirmation of love or a cautionary tale about obsession?
-
-#TheOrchidRoom #bullyromance #darkromance #royalelite #literaryanalysis

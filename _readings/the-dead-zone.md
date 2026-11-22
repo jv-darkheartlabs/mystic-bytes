@@ -22,7 +22,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ King's exploration of psychic abilities versus ethical dilemmas may polarize rea
 - In what ways does the political subplot reflect contemporary issues?  
 - Is the resolution of the novel satisfying, or does it undermine the preceding tension?  
 - What does this say about the nature of knowledge and responsibility in our own lives?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #supernatural #theorchidroom

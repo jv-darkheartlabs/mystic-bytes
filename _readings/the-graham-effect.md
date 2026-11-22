@@ -6,7 +6,7 @@ dek: ""
 number: R907
 sort_key: 907
 date: 2026-04-09
-date_read: 2022-10-22
+date_read: 2023-10-22
 category: enemies-to-lovers
 cover: /assets/readings/the-graham-effect.jpg
 spice: 4
@@ -42,5 +42,3 @@ This novel's interplay of power dynamics and emotional vulnerability provokes a 
 - Can the portrayal of dominance and submission in the romance feel problematic, or does it enhance the narrative complexity?  
 - How does Kennedy balance humor and tension, and does this affect the portrayal of love?  
 - What unresolved themes linger after the conclusion, and how do they affect your perception of the characters' futures?
-
-#TheOrchidRoom #TheGrahamEffect #darkromance #enemiestolovers #literaryanalysis

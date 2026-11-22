@@ -23,7 +23,7 @@ I keep finding this in my own files. A theme snippet inherited `outline: none` o
 
 [accessibility-rails-components](https://github.com/jv-darkheartlabs/accessibility-rails-components) exists partly so the default is a real `<button>` with a visible focus style, not a `div` and a comment that says "consumers can opt in." Consumers will not opt in. They will copy the component and ship your conscience as their UI.
 
-Cursor has defaults too. It will complete telemetry-friendly snippets and `outline: none` with equal confidence. Fedora's installer has defaults. Jekyll has defaults. I live inside other people's presets all day from a desk in Auckland. That does not make my presets optional for the next person.
+The model has defaults too. It will complete telemetry-friendly snippets and `outline: none` with equal confidence. Fedora's installer has defaults. Jekyll has defaults. I live inside other people's presets all day from a desk in Louisiana. That does not make my presets optional for the next person.
 
 Thaler and Sunstein formalized what operators already knew: the preset option is policy with outsized influence.[^1] Jared Spool's UX research kept finding the same empirical fact. People do not change settings.[^2] Refusal is not apathy. They did not buy the software to configure it.
 

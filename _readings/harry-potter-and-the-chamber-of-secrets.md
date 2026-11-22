@@ -7,7 +7,7 @@ dek: ""
 number: R935
 sort_key: 935
 date: 2026-04-13
-date_read: 1994-06-01
+date_read: 1998-06-01
 category: ya-fiction
 cover: /assets/readings/harry-potter-and-the-chamber-of-secrets.jpg
 content_warnings:

@@ -7,7 +7,7 @@ dek: "Book 2"
 number: R592
 sort_key: 592
 date: 2026-03-06
-date_read: 2019-10-22
+date_read: 2024-10-22
 category: fantasy-romance
 cover: /assets/readings/king-of-fire-and-flames.jpg
 spice: 4
@@ -43,5 +43,3 @@ The tension between love and power serves as a fertile ground for discussion, as
 - In what ways does the setting amplify the characters' internal conflicts?  
 - What are the implications of using love as a destructive force in a relationship?  
 - Does the ending suggest growth for the characters, or does it reinforce their tragic arcs?  
-
-#TheOrchidRoom #fantasyromance #darkromance #romantasy #JunoHeart

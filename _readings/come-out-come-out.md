@@ -6,7 +6,7 @@ dek: "The one who finds everyone, stays out"
 number: R1265
 sort_key: 1265
 date: 2026-05-18
-date_read: 2020-08-16
+date_read: 2023-08-16
 category: gothic-horror-romance
 cover: /assets/readings/come-out-come-out.jpg
 spice: 3
@@ -49,5 +49,3 @@ The novel's interplay of desire and terror presents rich opportunities for debat
 - Can the themes of violence and psychological suspense coexist harmoniously with romance, or do they inherently conflict?  
 - How does the atmosphere contribute to the development of the protagonist's character arc?  
 - What lingering questions does the ending leave regarding the nature of obsession and redemption?  
-
-#TheOrchidRoom #gothic #horrorromance #hauntedhearts #darkthriller

@@ -46,5 +46,3 @@ While **The Three-Body Problem** invites admiration for its ambitious scope and 
 - Do you find the emotional stakes compelling enough to engage with the heavy scientific themes?  
 - In what ways does the concept of cosmic isolation reflect our contemporary human experiences?  
 - How does the portrayal of desire and ambition challenge or reinforce traditional tropes in romance?
-
-#TheOrchidRoom #thethreebodyproblem #literaryanalysis #fantasyromance #darkromance

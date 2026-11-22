@@ -49,5 +49,3 @@ The interplay of power dynamics and romantic tension in *Siege and Storm* is rip
 - How effectively does the world-building serve the characters’ journeys, and does it feel cohesive throughout?
 - Are there moments that resonate with you personally, and how do they shape your understanding of the narrative?
 - Does the ending set the stage for further exploration of the characters' conflicts, or does it leave too much unresolved?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

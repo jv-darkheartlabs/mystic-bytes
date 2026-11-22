@@ -7,7 +7,7 @@ dek: ""
 number: R1069
 sort_key: 1069
 date: 2026-04-27
-date_read: 2016-10-22
+date_read: 2022-10-22
 category: vampire-paranormal
 cover: /assets/readings/court-of-the-vampire-queen.jpg
 spice: 5
@@ -51,5 +51,3 @@ The novel's embrace of dark themes and emotional intensity is sure to spark deba
 - In what ways does the character development impact your view of the protagonist's journey?  
 - How does the ending shape your understanding of the characters' arcs and the overall message of the novel?  
 - What personal biases might affect our interpretations of the power dynamics presented in the story?  
-
-#TheOrchidRoom #vampire #darkromance #literaryanalysis #darkheartlabs

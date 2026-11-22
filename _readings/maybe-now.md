@@ -45,5 +45,3 @@ Hoover's ability to depict complex relationships often ignites polarizing debate
 - What role do societal norms play in shaping the narrative of forbidden love?  
 - Is the emotional trauma presented in the story a necessary device for character development, or does it detract from the romantic journey?  
 - How does the resolution reflect on the thematic elements of desire and consequence?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

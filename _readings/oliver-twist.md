@@ -23,7 +23,6 @@ tags:
   - social commentary
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ However, the dialogue can occasionally veer into the didactic, where the moralis
 - What role does the setting play in shaping the characters’ fates?  
 - Does the ending resonate with hope or resignation, and why?  
 - How does *Oliver Twist* compare to contemporary works addressing similar themes?
-
-#TheOrchidRoom #gothic #horrorromance #classic #Victorian

@@ -47,5 +47,3 @@ The enchantment and peril of forbidden love create a fertile ground for discussi
 - What does the nonlinear structure add to our understanding of the characters' internal conflicts?  
 - How do societal norms shape our responses to the characters' choices?  
 - Is the resolution earned, or does it feel like a safe conclusion to a daring narrative?
-
-#TheOrchidRoom #forbiddenlove #darkromance #TheFinishLine #literaryanalysis

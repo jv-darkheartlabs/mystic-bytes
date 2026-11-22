@@ -45,5 +45,3 @@ The interplay of fantasy and reality in relationships often sparks debate, espec
 - Do you find the characters relatable, or do they lean too heavily into romance tropes?  
 - Is the ending of the novel satisfying, or does it leave too many threads unexplored?  
 - How does Keim's narrative style compare to other authors in the fantasy romance genre?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #beachhotel

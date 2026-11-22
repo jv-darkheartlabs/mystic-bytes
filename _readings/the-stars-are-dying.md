@@ -49,5 +49,3 @@ The novel presents several polarities that invite rich discussion, particularly 
 - In what ways does the ending align or clash with your expectations of a romance steeped in dark fantasy?  
 - How do the content warnings shape your reading experience, and do they enhance or hinder the book's romantic elements?  
 - Can the line between love and possession be definitively drawn, or is it inherently blurred as depicted in the story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #TheStarsAreDying

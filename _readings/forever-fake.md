@@ -7,7 +7,7 @@ dek: "He needs a fake wife. Why not blackmail her into being his fiancée?"
 number: R004
 sort_key: 004
 date: 2026-01-02
-date_read: 2019-07-13
+date_read: 2025-07-13
 category: arranged-marriage
 cover: /assets/readings/forever-fake.jpg
 spice: 4
@@ -50,5 +50,3 @@ The ending, while ostensibly satisfying, raises questions about the characters�
 - In what ways does the narrative challenge or reinforce societal views on arranged marriages?  
 - How do the characters’ motivations reflect or distort our understanding of love and desire?  
 - Does the ending offer true redemption for the characters, or does it reinforce the cycle of manipulation?
-
-#TheOrchidRoom #ForeverFake #darkromance #arrangedmarriage #literaryanalysis

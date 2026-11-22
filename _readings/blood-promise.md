@@ -47,5 +47,3 @@ The interplay of loyalty and desire serves as a fertile ground for debate, with 
 - In what ways does Mead subvert typical expectations of dark romance, and are these choices effective?  
 - How does the first-person perspective shape our understanding of the protagonist’s internal conflict?  
 - Is the resolution of the narrative satisfying, considering the buildup of thematic tensions?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

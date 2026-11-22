@@ -1,68 +1,93 @@
-// Variables
-// ---------------------------------------/
+// Variables — DarkHeartLabs cosmic foundation (Nov 2026 makeover)
+// ---------------------------------------
+// New token set first. Legacy names from the retired cyberpunk theme are
+// mapped onto the new palette further down so existing partials keep
+// compiling while the staged build replaces their usages page by page.
 
 $container-width: 1200px !default;
+$measure-narrow:  42rem !default;
 $grid-gutter:     20px !default;
 
-// Colors - Cyberpunk Tech Theme
-$bg-primary:        #0a0e27;
-$bg-secondary:      #1a1f3a;
-$bg-card:           #151b35;
-$border-color:      #2d3454;
-$border-accent:     #4a5578;
+// Cosmic palette (approved Nov 17, 2026)
+$void:               #0a0612;
+$surface:            #221538;
+$line:               #342459;
+$nebula:             #7a3590;
+$bright-violet:      #9d61ba;
+$bright-violet-card: #a771c1; // AA on Surface (4.69:1) — links inside cards
+$violet-pale:        #b688cb;
+$shrine:             #9f0a65; // fill/glow only on dark — 2.58:1 as text on Void
+$heart-red:          #ff1c1c;
+$bone-gold:          #eacd9a;
+$pale:               #ece6f4;
+$muted:              #9a8fb0;
 
-// Accent colors
-$purple-primary:    #a78bfa;
-$purple-light:      #c4b5fd;
-$purple-dark:       #7c3aed;
-$cyan-primary:      #22d3ee;
-$cyan-light:        #67e8f9;
-$orange-primary:    #fb923c;
-$orange-light:      #fdba74;
-$green-accent:      #34d399;
-$blue-accent:       #60a5fa;
+// Light theme derivations (WCAG AA checked Nov 18, 2026)
+$light-bg:      #ece6f4;
+$light-surface: #f7f3fb;
+$light-line:    #c9bcd8;
+$light-muted:   #685f79; // 4.91:1 on Pale bone
+$light-link:    #7a3590; // Nebula — 6.28:1 on Pale bone
 
-// Text colors
-$text-primary:      #e2e8f0;
-$text-secondary:    #94a3b8;
-$text-muted:        #64748b;
-$text-highlight:    $cyan-primary;
+// Legacy color mapping (retired cyberpunk theme -> cosmic palette)
+$bg-primary:    $void;
+$bg-secondary:  $surface;
+$bg-card:       $surface;
+$border-color:  $line;
+$border-accent: $nebula;
+
+$purple-primary: $bright-violet;
+$purple-light:   $violet-pale;
+$purple-dark:    $nebula;
+$cyan-primary:   $bright-violet;
+$cyan-light:     $violet-pale;
+$orange-primary: $heart-red;
+$orange-light:   #ff8a8a;
+$green-accent:   #34d399; // functional success state; palette has no green
+$blue-accent:    $bright-violet;
+
+$text-primary:   $pale;
+$text-secondary: $muted;
+$text-muted:     $muted;
+$text-highlight: $bright-violet;
 
 // Status badge colors
-$badge-green:       #10b981;
-$badge-blue:        #3b82f6;
-$badge-orange:      $orange-primary;
-$badge-purple:      #8b5cf6;
+$badge-green:  #10b981;
+$badge-blue:   $bright-violet;
+$badge-orange: $heart-red;
+$badge-purple: $shrine;
 
-// Font stacks
-$font-display: 'Space Mono', 'Courier New', Courier, monospace !default;
-$font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !default;
+// Font stacks — serif headings, sans body, mono for code only
+$font-display: 'Cormorant Garamond', Georgia, 'Times New Roman', serif !default;
+$font-body: 'Fira Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !default;
 $font-mono: 'Fira Code', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Liberation Mono', Menlo, monospace !default;
 
-// Font sizes
+// Font sizes — phi scale (16 -> 25.9 -> 41.9 -> 67.8). 67.8px exists once:
+// the home hero. 41.9px caps every other heading.
 $text-xs:     0.75rem;    // 12px
 $text-sm:     0.875rem;   // 14px
 $text-base:   1rem;       // 16px
 $text-lg:     1.125rem;   // 18px
 $text-xl:     1.25rem;    // 20px
 $text-2xl:    1.5rem;     // 24px
-$text-3xl:    1.875rem;   // 30px
-$text-4xl:    2.25rem;    // 36px
-$text-5xl:    3rem;       // 48px
-$text-6xl:    3.75rem;    // 60px
+$text-3xl:    1.618rem;   // 25.9px (phi)
+$text-4xl:    2.618rem;   // 41.9px (phi) — heading cap
+$text-5xl:    2.618rem;   // capped at phi-2 per makeover spec B2
+$text-6xl:    4.236rem;   // 67.8px (phi) — home hero only
+$text-hero:   $text-6xl;
 
-// Spacing
+// Spacing — Fibonacci (4, 8, 13, 21, 34, 55, 89 px)
 $space-1:     0.25rem;    // 4px
 $space-2:     0.5rem;     // 8px
-$space-3:     0.75rem;    // 12px
-$space-4:     1rem;       // 16px
-$space-5:     1.25rem;    // 20px
-$space-6:     1.5rem;     // 24px
-$space-8:     2rem;       // 32px
-$space-10:    2.5rem;     // 40px
-$space-12:    3rem;       // 48px
-$space-16:    4rem;       // 64px
-$space-20:    5rem;       // 80px
+$space-3:     0.8125rem;  // 13px
+$space-4:     1.3125rem;  // 21px
+$space-5:     1.3125rem;  // 21px
+$space-6:     2.125rem;   // 34px
+$space-8:     2.125rem;   // 34px
+$space-10:    3.4375rem;  // 55px
+$space-12:    3.4375rem;  // 55px
+$space-16:    5.5625rem;  // 89px
+$space-20:    5.5625rem;  // 89px
 
 // Border radius
 $radius-sm:   0.25rem;
@@ -75,12 +100,12 @@ $transition-fast:   150ms cubic-bezier(0.4, 0, 0.2, 1);
 $transition-base:   300ms cubic-bezier(0.4, 0, 0.2, 1);
 $transition-slow:   500ms cubic-bezier(0.4, 0, 0.2, 1);
 
-// Shadows
+// Shadows — re-tinted to the cosmic palette
 $shadow-sm:   0 1px 2px 0 rgba(0, 0, 0, 0.3);
 $shadow-md:   0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
 $shadow-lg:   0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -2px rgba(0, 0, 0, 0.4);
-$shadow-glow: 0 0 20px rgba(167, 139, 250, 0.3);
-$shadow-cyan: 0 0 20px rgba(34, 211, 238, 0.3);
+$shadow-glow: 0 0 20px rgba(157, 97, 186, 0.3);
+$shadow-cyan: 0 0 20px rgba(159, 10, 101, 0.3);
 
 // Breakpoints
 $breakpoint-sm:   640px;

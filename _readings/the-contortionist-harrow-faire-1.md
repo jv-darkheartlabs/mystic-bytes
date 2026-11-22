@@ -22,7 +22,6 @@ tags:
   - supernatural
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The intersection of desire and horror brings forth compelling tensions, especial
 - In what ways do you think the structure of the narrative influences your understanding of the protagonist’s journey?  
 - Are the characters' motivations believable within the context of the story, or do they feel like contrivances?  
 - What unresolved themes linger after the climax, and how do they affect your interpretation of the ending?
-
-#TheOrchidRoom #gothic #horrorromance #literaryanalysis #darkheartlabs

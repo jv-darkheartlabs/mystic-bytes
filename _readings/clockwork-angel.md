@@ -51,5 +51,3 @@ The thematic exploration of sacrifice and loyalty intricately weaves through the
 - In what ways does the steampunk setting enhance or detract from the emotional stakes of the story?  
 - Do you find Tessa’s character arc satisfying, or does it fall into familiar patterns of the genre?  
 - How effectively does the novel balance its supernatural elements with the character-driven narrative?
-
-#TheOrchidRoom #fantasyromance #darkromance #steampunk #literaryanalysis

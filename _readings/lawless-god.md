@@ -24,7 +24,6 @@ tags:
   - stockholm syndrome
   - gritty
   - contemporary
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -50,5 +49,3 @@ The intricate balance of desire and horror in *Lawless God* will certainly ignit
 - How does King’s approach to violence shape your understanding of the characters’ relationship?  
 - In what ways does the structure enhance or detract from the story's overall impact?  
 - Can we separate the allure of the captor from the moral implications of their actions?  
-
-#TheOrchidRoom #darkromance #LawlessGod #LolaKing #captorandcaptive

@@ -42,5 +42,3 @@ Stark's exploration of love's duality both captivates and divides, opening a fer
 - Does the emotional intensity of the romance elevate the story, or does it risk overshadowing other critical plot elements?
 - How do you perceive the balance between fantasy elements and romantic tropes in the book?
 - What unresolved questions linger for you regarding the characters’ fates and choices?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

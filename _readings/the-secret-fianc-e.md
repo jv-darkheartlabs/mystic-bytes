@@ -7,7 +7,7 @@ dek: ""
 number: R1333
 sort_key: 1333
 date: 2026-05-25
-date_read: 2016-04-04
+date_read: 2024-04-04
 category: arranged-marriage
 cover: /assets/readings/the-secret-fianc-e.jpg
 spice: 4
@@ -45,5 +45,3 @@ The interplay between choice and compulsion is a central theme that invites heat
 - Are the protagonists' emotional traumas adequately resolved by the end, or do they leave lingering questions?  
 - What role does societal expectation play in the characters' development, and does it resonate with contemporary readers?  
 - Can the novel's portrayal of desire be seen as empowering, or does it lean into problematic territory?  
-
-#TheOrchidRoom #arrangedmarriage #darkromance #literaryanalysis #CatharinaMaura

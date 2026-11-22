@@ -49,5 +49,3 @@ The ending, while powerful, leaves some threads tantalizingly unresolved, which 
 - Can we discuss the balance between emotional intensity and narrative clarity — does one overshadow the other?
 - How does the use of fire imagery serve as a metaphor for the characters’ internal struggles?
 - What lingering questions do you have about the unresolved aspects of the story's conclusion?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #literaryanalysis

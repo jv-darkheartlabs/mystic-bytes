@@ -6,7 +6,7 @@ dek: "A Tattered Curtain Novel"
 number: R1107
 sort_key: 1107
 date: 2026-05-01
-date_read: 2018-03-01
+date_read: 2023-03-01
 category: dark-billionaire
 cover: /assets/readings/rouge.jpg
 spice: 4
@@ -46,5 +46,3 @@ The intricacies of *Rouge* provoke discussion about the morality of love within 
 - Are the ethical implications of the characters' actions fully explored, or do they remain glossed over?  
 - In what ways does the dual POV deepen or complicate our understanding of the protagonists?  
 - How does Rivers' writing style compare to other authors in the dark billionaire genre?  
-
-#TheOrchidRoom #darkbillionaire #darkromance #Rouge #literaryanalysis

@@ -42,5 +42,3 @@ Zapata’s exploration of emotional scars and the healing process through the le
 - What role does setting play in shaping the characters' journeys?  
 - Are there moments in the narrative that seem to challenge or uphold genre conventions?  
 - In what ways does the author’s choice of dual POV influence your perception of the characters?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #slowburn #literaryanalysis

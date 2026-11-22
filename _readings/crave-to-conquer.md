@@ -50,5 +50,3 @@ Ellis’s narrative invites a spectrum of interpretations, particularly regardin
 - What are the implications of portraying power imbalances in modern romance, and how does this reflect societal norms?  
 - Can we separate the narrative's gothic elements from its romantic core, or are they irrevocably intertwined?  
 - How do we reconcile the characters' morally ambiguous actions with our own ethical frameworks regarding love and autonomy?  
-
-#TheOrchidRoom #CraveToConquer #DarkRomance #Omegaverse #LiteraryAnalysis

@@ -50,5 +50,3 @@ The polarities in **Pretty Vengeful Queen** center around the nature of obsessio
 - Do you see the ending as a triumph or a tragedy, and why?  
 - How does Rose’s portrayal of obsession compare to other works in the dark romance genre?  
 - Can the line between love and obsession be clearly defined, or is it always blurred in narratives like this?
-
-#TheOrchidRoom #stalker #obsession #darkromance #ruthlesshearts

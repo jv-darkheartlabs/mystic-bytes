@@ -7,7 +7,7 @@ dek: ""
 number: R1165
 sort_key: 1165
 date: 2026-05-07
-date_read: 2016-07-13
+date_read: 2020-07-13
 category: fantasy-romance
 cover: /assets/readings/a-kingdom-of-flesh-and-fire.jpg
 spice: 4
@@ -49,5 +49,3 @@ This book polarizes its audience with its blend of fantasy and romance, pushing 
 - How effective is the dual perspective in deepening our understanding of the protagonists? Do you find it enriching or distracting?  
 - Do you believe the explicit elements serve the narrative or detract from the character arcs?  
 - What are the implications of using fantasy as a lens to explore real-world issues of power and desire?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #BloodandAsh

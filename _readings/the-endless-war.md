@@ -49,5 +49,3 @@ The intricacies of *The Endless War* provoke a wealth of discussion, particularl
 - Does the novel’s pacing ultimately serve the narrative, or does it undermine the tension of the storyline?  
 - How do you feel about the ending’s ambiguity—does it enrich the story or leave you wanting?  
 - What role does the setting play in shaping the characters’ experiences and choices throughout the novel?  
-
-#TheOrchidRoom #fantasyromance #darkromance #BridgeKingdom #literaryanalysis

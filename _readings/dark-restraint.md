@@ -6,7 +6,7 @@ dek: "Dark Olympus"
 number: R1468
 sort_key: 1468
 date: 2026-06-09
-date_read: 2019-04-04
+date_read: 2024-04-04
 category: fantasy-romance
 cover: /assets/readings/dark-restraint.jpg
 spice: 5
@@ -52,5 +52,3 @@ The interplay of power and desire in *Dark Restraint* invites a host of polarizi
 - Can we separate the allure of the characters from the potentially harmful implications of their actions?  
 - How does the dual perspective shape our understanding of consent and desire within the narrative?  
 - Does the ending provide a satisfying resolution to the complex themes presented, or does it fall short?  
-
-#TheOrchidRoom #darkromance #fantasyromance #literaryanalysis #KateRobert

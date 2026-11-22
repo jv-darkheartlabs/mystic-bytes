@@ -49,5 +49,3 @@ The intricacies of love amidst chaos present polarizing perspectives. Readers ma
 - In what ways does Scheuerer's exploration of sacrifice resonate with or challenge romantic ideals?  
 - How does the ending impact your overall impression of the series?  
 - What role do the storms play in symbolizing the characters' internal conflicts?
-
-#TheOrchidRoom #fantasyromance #darkromance #stormsthemes #literaryanalysis

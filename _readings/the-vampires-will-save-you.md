@@ -6,7 +6,7 @@ dek: ""
 number: R820
 sort_key: 820
 date: 2026-03-31
-date_read: 2019-04-04
+date_read: 2021-04-04
 category: vampire-paranormal
 cover: /assets/readings/the-vampires-will-save-you.jpg
 spice: 4
@@ -48,5 +48,3 @@ The interplay between love and danger in **The Vampires Will Save You** invites 
 - In what ways does the dual perspective enhance or detract from the emotional depth of the story?  
 - How effectively does Kenney balance gothic elements with modern sensibilities?  
 - What implications does the use of vampire mythology have on our understanding of human relationships?  
-
-#TheOrchidRoom #vampire #darkromance #gothic #literaryanalysis

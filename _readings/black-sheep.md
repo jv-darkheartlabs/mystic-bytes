@@ -7,7 +7,7 @@ dek: "She's not your meek little lamb"
 number: R120
 sort_key: 120
 date: 2026-01-13
-date_read: 2015-06-10
+date_read: 2022-06-10
 category: enemies-to-lovers
 cover: /assets/readings/black-sheep.jpg
 spice: 4
@@ -47,5 +47,3 @@ The complexities of love, power, and rebellion in *Black Sheep* create rich grou
 - Does the depiction of obsession enhance or detract from the romantic narrative?  
 - What insights do we gain about societal expectations through the characters’ rebellion?  
 - How did the pacing impact your overall engagement with the story?
-
-#TheOrchidRoom #enemiestolovers #darkromance #strongheroine #powerdynamics

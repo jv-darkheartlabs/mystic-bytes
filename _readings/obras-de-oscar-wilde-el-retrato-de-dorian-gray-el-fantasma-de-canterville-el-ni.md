@@ -22,7 +22,6 @@ tags:
   - supernatural
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Wilde’s work provokes both admiration and critique, particularly in its treatm
 - How does the interplay between beauty and decay resonate with contemporary societal values?  
 - Are the characters’ transformations authentic, or do they serve merely as vehicles for Wilde’s broader philosophical points?  
 - In what ways do these stories challenge or reinforce contemporary notions of morality and virtue?  
-
-#TheOrchidRoom #gothic #horrorromance #OscarWilde #moraldecay

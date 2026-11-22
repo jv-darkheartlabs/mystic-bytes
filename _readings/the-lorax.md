@@ -19,7 +19,6 @@ tags:
   - classic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Seuss's *The Lorax* challenges our relationship with nature and consumption, pro
 - Do you believe the moral message overshadows the narrative, or does it enhance the story’s emotional depth?  
 - How does the urgency of the environmental message resonate with contemporary audiences compared to its original publication context?  
 - What unresolved themes or biases linger in the text, and how might they be interpreted today?  
-
-#TheOrchidRoom #gothic #horrorromance #environmentalism #childrensliterature

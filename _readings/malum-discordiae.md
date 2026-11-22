@@ -6,7 +6,7 @@ dek: ""
 number: R1049
 sort_key: 1049
 date: 2026-04-25
-date_read: 2020-08-16
+date_read: 2022-08-16
 category: gothic-horror-romance
 cover: /assets/readings/malum-discordiae.jpg
 spice: 4
@@ -46,5 +46,3 @@ Drewek’s unflinching exploration of desire against a backdrop of horror raises
   - In what ways does this book challenge conventional portrayals of gothic romance?  
   - How does Drewek’s portrayal of emotional intensity compare to other gothic narratives you’ve read?  
   - What role does the gothic atmosphere play in shaping the characters’ desires and fears?  
-
-#TheOrchidRoom #gothic #horrorromance #malum #discordiae

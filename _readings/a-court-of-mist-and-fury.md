@@ -47,5 +47,3 @@ The juxtaposition of desire and trauma will undoubtedly spark debate among reade
 - Can the pacing issues in the latter half be justified by the thematic exploration, or do they undermine the overall experience?  
 - How does the depiction of consent evolve throughout the story, and what implications does it have for the genre?  
 - Do you believe that the novel will resonate with readers outside of the fantasy-romance niche, and why?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #acotar

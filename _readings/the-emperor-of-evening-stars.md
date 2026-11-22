@@ -7,7 +7,7 @@ dek: "Every devil has his day"
 number: R1189
 sort_key: 1189
 date: 2026-05-10
-date_read: 2016-04-04
+date_read: 2017-04-04
 category: fantasy-romance
 cover: /assets/readings/the-emperor-of-evening-stars.jpg
 spice: 3
@@ -47,5 +47,3 @@ The intertwining of love and manipulation throughout the narrative presents pola
 - In what ways does the setting enhance or detract from the central themes of desire and power?  
 - How does the ending reshape your understanding of the characters' journeys and their moral choices?  
 - What elements of the fantasy genre contribute to or challenge the depiction of relationships in this story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #bargainer #literaryanalysis

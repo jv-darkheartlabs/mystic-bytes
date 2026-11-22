@@ -17,7 +17,7 @@ brief:
   constraint: solo maintainer; no rollback window; user data must survive the fix
 ---
 
-Production does not care about your calendar. The page arrives while dinner cools, while bags are half-packed for a hemisphere change, or at an hour when Auckland is awake and the people who wrote the last deploy are not. That timing is structural. Systems that live long enough eventually tell you something true. The first job is to read it in order.
+Production does not care about your calendar. The page arrives while dinner cools, while bags are half-packed for a cross-country move, or at an hour when the people who wrote the last deploy are asleep two zones west and not answering. That timing is structural. Systems that live long enough eventually tell you something true. The first job is to read it in order.
 
 ## Thesis
 
@@ -27,15 +27,15 @@ Production does not care about your calendar. The page arrives while dinner cool
 
 I maintain [NeuroShell](https://github.com/jv-darkheartlabs/NeuroShell), a macOS terminal built for people who need session recovery, plain language, and fewer sharp edges when cognition is already taxed. The product philosophy is also an incident philosophy. When an alert fires during a relocation sprint, you are not only fighting the bug. You are fighting context switch, timezone arithmetic, and the story that you should already know the answer.
 
-Auckland 2026 made that arithmetic literal. A US afternoon deploy becomes an evening or a morning here depending on daylight saving on both ends. mystic-bytes CI can fail while I am on a walk. Nightbind-era payment alerts did not wait for a convenient overlap with anyone who remembered the last schema change. Solo maintenance means there is no second pair of eyes in Slack. There is you, the log, and whatever session the terminal still has.
+Louisiana 2026 makes that arithmetic literal enough. A Pacific afternoon deploy lands in my evening; a Pacific morning fix is still asleep when my users wake. mystic-bytes CI can fail while I am on a walk. Nightbind-era payment alerts did not wait for a convenient overlap with anyone who remembered the last schema change. Solo maintenance means there is no second pair of eyes in Slack. There is you, the log, and whatever session the terminal still has.
 
-The failure I keep seeing is panic dressed as activity: restarting services, clearing caches, redeploying the last green build. Motion without a named hypothesis. Night debugging punishes that habit because the people who could confirm your guess are asleep in another country. Richard Cook's point about complex systems is the one I keep taped near the keyboard: they fail in layers, and the first story you invent is usually too small.[^1]
+The failure I keep seeing is panic dressed as activity: restarting services, clearing caches, redeploying the last green build. Motion without a named hypothesis. Night debugging punishes that habit because the people who could confirm your guess are asleep in another timezone. Richard Cook's point about complex systems is the one I keep taped near the keyboard: they fail in layers, and the first story you invent is usually too small.[^1]
 
 ## Mechanism
 
 Treat the incident like a document with sections you must read in order.
 
-Name what broke. Open the alert. Read the message aloud if you need to. Write down the error string, the service, the timestamp in UTC *and* in Pacific/Auckland, and the deploy that preceded it. Ugly words are still words. I have chased a "timeout" for twenty minutes before noticing the timestamp was yesterday's retry, not tonight's failure.
+Name what broke. Open the alert. Read the message aloud if you need to. Write down the error string, the service, the timestamp in UTC *and* in US Pacific, and the deploy that preceded it. Ugly words are still words. I have chased a "timeout" for twenty minutes before noticing the timestamp was yesterday's retry, not tonight's failure.
 
 Follow one thread. Grep the request id. Walk the stack trace file by file. Stop when you can say: this line, this assumption, this input. Pair debugging helps. Solo debugging still benefits from saying what you see out loud. NeuroShell's session restore matters here. If the shell forgets the last working directory and the last grep, you pay a sensory tax before you have a hypothesis. The incident already spends attention. The tool should not.
 
@@ -43,7 +43,7 @@ Separate user impact from your embarrassment. A red dashboard is telemetry. The 
 
 Choose the smallest reversible move. Roll back if the deploy window is suspect. Patch if the root cause is isolated. Communicate if data is at risk. Do not combine all three because anxiety asked for coverage. Write the choice down in the incident note before you type the command. Future-you, still tired, will need the sentence.
 
-After the graph flattens, do not skip the writeup because it is morning in Auckland and you want sleep. A six-line template is enough: alert text, timeline, hypothesis, action, result, what you would check first next time. John Allspaw's ops culture work is blunt about this: the review is how the next wrong hour gets cheaper, not how you perform remorse.[^2]
+After the graph flattens, do not skip the writeup because it is morning here and you want sleep. A six-line template is enough: alert text, timeline, hypothesis, action, result, what you would check first next time. John Allspaw's ops culture work is blunt about this: the review is how the next wrong hour gets cheaper, not how you perform remorse.[^2]
 
 ## Tradeoffs
 
@@ -51,7 +51,7 @@ Executives want an ETA. Logs want patience. Quote ranges, not promises, until yo
 
 Rollback is honest when the deploy introduced the regression. Fix-forward is honest when rollback loses migrations or user state. Pick one story. Document why. Mixing them because you want both safety and speed is how you get a half-applied migration at 04:00.
 
-Teams that celebrate all-nighters train people to hide fatigue until the mistake is expensive. Night debugging should be rare, rehearsed, and followed by rest. Badge culture is how you lose the next incident. If you are the only on-call, schedule the rest anyway. Auckland does not owe you a quiet morning because you earned one.
+Teams that celebrate all-nighters train people to hide fatigue until the mistake is expensive. Night debugging should be rare, rehearsed, and followed by rest. Badge culture is how you lose the next incident. If you are the only on-call, schedule the rest anyway. Nobody owes you a quiet morning because you earned one.
 
 Heroics also hide missing runbooks. If the only way the system recovers is you at a laptop, the bug is also an ownership design. Write the runbook while the memory is hot, even if the audience is future-you after the move.
 

@@ -51,5 +51,3 @@ Crucially, the ending not only ties up narrative arcs but also resonates with th
 - Can a love story that hinges on fate still offer genuine character agency?  
 - How does the balance of dark magic influence the characters’ choices and relationships?  
 - What unresolved tensions linger after the final chapter, and how do they impact your view of the protagonist's journey?  
-
-#TheOrchidRoom #fantasyromance #darkromance #fatedmates #faepolitics

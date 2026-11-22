@@ -50,5 +50,3 @@ The dichotomies in "Starlight" present ample opportunities for spirited discussi
 - In what ways does the gothic setting amplify the themes of desire and dread?
 - Are the character arcs satisfying in their resolution, or do they leave too much unresolved?
 - How does the author’s style influence your emotional connection to the protagonist?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #literaryanalysis

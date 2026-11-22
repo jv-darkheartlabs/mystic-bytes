@@ -6,7 +6,7 @@ dek: "The Four Horsemen — Book 2"
 number: R552
 sort_key: 552
 date: 2026-03-01
-date_read: 2015-06-10
+date_read: 2019-06-10
 category: fantasy-romance
 cover: /assets/readings/war.jpg
 spice: 4
@@ -49,5 +49,3 @@ The prose strikes a tone that oscillates between lyrical and visceral, embodying
 - Can the themes of fate versus free will be reconciled within the context of a romance, or do they inherently conflict?  
 - How does the portrayal of violence affect the reader's perception of romance in this narrative?  
 - What role does the setting play in shaping the characters' identities and their relationships?
-
-#TheOrchidRoom #fantasyromance #darkromance #fourhorsemen #apocalypse

@@ -20,7 +20,6 @@ tags:
   - identity
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Shakespeare's intricate dance between comedy and commentary invites rich debate,
 - In what ways does the pastoral setting of Arden enhance or detract from the play's themes of love and freedom?  
 - Do you find the resolution of romantic tensions believable, or does it feel contrived?  
 - How does Shakespeare’s treatment of love in this play compare with his darker works?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #classic #Shakespeare

@@ -22,7 +22,6 @@ tags:
   - isolation
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ King's *The Mist* invites varied interpretations around the human condition and 
 - Can the actions of the characters be justified under extreme circumstances, or do they reveal an inherent darkness in humanity?  
 - How does King’s use of dialogue shape our understanding of character motivations?  
 - What role does setting play in amplifying the psychological horror of the narrative?  
-
-#LiteraryAnalysis #darkthriller #suspense #survival #theorchidroom

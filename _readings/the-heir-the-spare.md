@@ -48,5 +48,3 @@ Characterization is one of Woods' strengths; the heir, with their noble burdens,
 - Does the familiar setting of vampire royalty enhance or detract from the story's originality?  
 - How do the themes of violence and dark romance interact, and what message might they convey about relationships?  
 - Are the emotional stakes presented in the heir and spare's relationship compelling enough, or do they fall short?
-
-#TheOrchidRoom #vampire #darkromance #literaryanalysis #ofleshandbone

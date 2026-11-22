@@ -6,7 +6,7 @@ dek: "A Novel"
 number: R867
 sort_key: 867
 date: 2026-04-05
-date_read: 2018-06-10
+date_read: 2024-06-10
 category: enemies-to-lovers
 cover: /assets/readings/fangirl-down.jpg
 spice: 4
@@ -41,5 +41,3 @@ The exploration of rivalry as a precursor to romance often ignites passionate de
 - In what ways do the characters’ initial animosity contribute to their eventual connection, and does this resonate with your own experiences of relationships?  
 - Do you find the resolution of the conflict satisfying, or does it feel too tidy given the complexities of the buildup?  
 - What role does the sport setting play in enhancing or detracting from the romantic tension?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

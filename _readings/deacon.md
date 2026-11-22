@@ -51,5 +51,3 @@ The novel's exploration of dark themes juxtaposes romantic allure with ethical d
 - Can we separate the romantic elements from the darker themes of obsession and power imbalance?  
 - How do the dual perspectives enhance or complicate our understanding of both characters?  
 - What does the ending suggest about the potential for redemption in such complex relationships?
-
-#TheOrchidRoom #darkromance #captorandcaptives #literaryanalysis #RayaMorrisEdwards

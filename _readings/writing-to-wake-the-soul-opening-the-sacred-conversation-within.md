@@ -18,7 +18,6 @@ tags:
   - writing
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The book invites a wealth of discussion regarding the nature of writing as both 
 - Does the abstract nature of Hering’s prose enhance or detract from the emotional impact?  
 - How might the spiritual aspects of writing resonate differently with diverse audiences?  
 - What unresolved questions linger for you after engaging with the text?
-
-#LiteraryAnalysis #darkthriller #selfhelp #spirituality #theorchidroom

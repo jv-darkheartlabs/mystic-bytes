@@ -20,7 +20,6 @@ tags:
   - emotional
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The thematic success lies in Munsch’s ability to articulate the complexities o
 - Can love ever become too possessive, and if so, where is the line drawn?  
 - Does the cyclical structure enhance or detract from the story’s emotional impact?  
 - How does Munsch’s treatment of love resonate with or contradict contemporary views on relationships?
-
-#TheOrchidRoom #forbiddenlove #darkromance #timeless #emotional

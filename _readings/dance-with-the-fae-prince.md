@@ -47,5 +47,3 @@ There are polarizing elements in the narrative that could spark a spirited debat
 - Are the secondary characters effectively utilized to support the main narrative, or do they detract from it?  
 - What are the implications of the ending — is it a satisfying conclusion or a premature wrap-up?  
 - How does Kova's portrayal of the fae challenge or reinforce existing stereotypes in the genre?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

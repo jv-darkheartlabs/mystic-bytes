@@ -48,5 +48,3 @@ Wildenstein's exploration of desire and obsession provokes a rich tapestry of di
 - In what ways does the narrative challenge or reinforce traditional gothic tropes?  
 - Does the ending offer closure or leave the reader in a state of unresolved tension?  
 - How do the content warnings shape our reading experience and expectations?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #oliviawildenstein

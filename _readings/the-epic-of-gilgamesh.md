@@ -21,7 +21,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The juxtaposition of friendship and mortality in **The Epic of Gilgamesh** raise
 - Does the epic’s unresolved tensions enhance or detract from its emotional impact?  
 - How do the supernatural elements shape our understanding of the characters’ humanity?  
 - What can modern readers learn from Gilgamesh's confrontation with his own limitations?
-
-#TheOrchidRoom #gothic #horrorromance #mythology #friendship

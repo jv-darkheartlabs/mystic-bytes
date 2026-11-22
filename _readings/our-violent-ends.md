@@ -7,7 +7,7 @@ dek: ""
 number: R1248
 sort_key: 1248
 date: 2026-05-16
-date_read: 2015-09-19
+date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/our-violent-ends.jpg
 spice: 1
@@ -47,5 +47,3 @@ The thematic exploration of loyalty and betrayal is rendered with striking clari
 - In what ways does the ending resonate with the overarching themes of the duology?  
 - What unresolved questions linger for you after reading, and how do they reflect on the characters' journeys?  
 - How does *Our Violent Ends* compare to other works in the fantasy-romance genre that tackle similar themes?
-
-#TheOrchidRoom #fantasyromance #darkromance #theseviolentdelightssequel #literaryanalysis

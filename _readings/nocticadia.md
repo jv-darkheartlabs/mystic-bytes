@@ -48,5 +48,3 @@ Despite these strengths, the novel occasionally falters in its dialogue, which c
 - Are the unresolved threads at the end of the novel frustrating or liberating as a narrative choice?  
 - How does the balance of beauty and darkness in the prose affect your perception of the characters’ journeys?  
 - What role does desire play in shaping the narrative’s conflict, and how does it reflect broader societal themes?  
-
-#TheOrchidRoom #vampire #darkromance #gothic #literaryanalysis

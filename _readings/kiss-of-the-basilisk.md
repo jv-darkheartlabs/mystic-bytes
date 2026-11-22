@@ -6,7 +6,7 @@ dek: "A Spit or Swallow Novel"
 number: R259
 sort_key: 259
 date: 2026-01-28
-date_read: 2022-10-22
+date_read: 2025-10-22
 category: vampire-paranormal
 cover: /assets/readings/kiss-of-the-basilisk.jpg
 spice: 4
@@ -47,5 +47,3 @@ This novel presents a rich tapestry of themes that could ignite passionate debat
 - Do you believe the ending serves the story's themes, or does it undermine the emotional investment built throughout?  
 - How does Straube's use of mythological elements enhance or detract from the narrative's contemporary relevance?  
 - What aspects of the character's journey resonate with real-life experiences of desire and obsession?  
-
-#TheOrchidRoom #KissOfTheBasilisk #vampire #darkromance #literaryanalysis

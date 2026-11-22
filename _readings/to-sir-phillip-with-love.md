@@ -44,5 +44,3 @@ The interplay between grief and romance is a delicate balance, and Quinn's handl
 - Are Eloise's and Phillip's character arcs believable, given the premise of their relationship? What do their developments say about societal expectations?
 - In what ways does this novel reflect or subvert traditional romance tropes? Are there moments that felt particularly innovative or clichéd?
 - How does the dual perspective influence your understanding of love and loss? Does it add depth or create confusion?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #bridgerton

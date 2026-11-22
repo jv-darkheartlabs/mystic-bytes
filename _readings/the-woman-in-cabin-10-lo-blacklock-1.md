@@ -6,7 +6,7 @@ dek: "Lo Blacklock Series Book 1"
 number: R1878
 sort_key: 1878
 date: 2026-07-17
-date_read: 2013-09-19
+date_read: 2016-09-19
 category: mystery-crime
 cover: /assets/readings/the-woman-in-cabin-10-lo-blacklock-1.jpg
 content_warnings:
@@ -21,7 +21,6 @@ tags:
   - psychological thriller
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The polarizing elements of *The Woman in Cabin 10* lie in its reliance on tropes
 - Is the ending a satisfying payoff for the build-up, or does it leave too many questions unanswered?  
 - In what ways does the setting amplify the psychological tension within the story?  
 - How does the novel compare to other works in the dark-thriller genre regarding character development and plot resolution?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #mystery #theorchidroom

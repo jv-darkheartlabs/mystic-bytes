@@ -47,5 +47,3 @@ St. Clair’s novel ignites discussions around the fine line between romance and
 - Does the ending provide a satisfying conclusion, or does it leave too many threads unresolved?  
 - How do St. Clair's prose choices amplify or dilute the story's core themes?  
 - What role do the secondary characters play in shaping the protagonists' journeys, and are they adequately developed?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #ScarlettStClair

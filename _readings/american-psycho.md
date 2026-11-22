@@ -24,7 +24,6 @@ tags:
   - identity
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ Ellis's work elicits strong reactions, polarizing opinions on its moral implicat
 - How does Ellis's portrayal of masculinity reflect or distort societal expectations?  
 - In what ways does the novel challenge our understanding of identity in a consumerist culture?  
 - Is the ambiguity of the ending a strength or weakness in the narrative?
-
-#LiteraryAnalysis #darkthriller #psychologicalthriller #capitalism #theorchidroom

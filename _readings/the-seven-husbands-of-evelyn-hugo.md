@@ -41,5 +41,3 @@ Reid’s exploration of love’s darker corners raises compelling polarities. Th
 - Do you find Evelyn's choices relatable, or do they feel more like escapism?  
 - How does the portrayal of Hollywood in the novel serve as a commentary on fame and authenticity?  
 - Is the ending of the story an affirmation of love, or does it imply the cost of such love is too high?
-
-#TheOrchidRoom #forbiddenlove #darkromance #Hollywood #literaryanalysis #darkheartlabs

@@ -17,7 +17,7 @@ brief:
 
 CEH is a brand that sells the noun "hacker" to people who hire. EC-Council's Certified Ethical Hacker is a survey credential: a catalog of tools, a multiple-choice exam, later a Practical add-on.[^1] The product is a vocabulary and a logo.
 
-I do not hold CEH. I do not hold OSCP. I write from Auckland and I read job posts. "CEH required" is a procurement sentence: a known string on a résumé, not a pentest anyone watched. An honest use exists. The syllabus names a map of the field. You learn what a scanner is for and how to talk in a screening call without freezing. Shared language gets people through HR. That is not nothing.
+I do not hold CEH. I do not hold OSCP. I write from Louisiana and I read job posts. "CEH required" is a procurement sentence: a known string on a résumé, not a pentest anyone watched. An honest use exists. The syllabus names a map of the field. You learn what a scanner is for and how to talk in a screening call without freezing. Shared language gets people through HR. That is not nothing.
 
 Be skeptical of the claim. "Ethical hacker" is a marketing identity. Passing a catalog of topics is not sitting in a lab, finding a hole, and writing a report a defender can use. Offensive Security's OSCP is the usual contrast: a timed practical and a writeup. That contrast is enough. This note is about the brand. CEH sells the word. OSCP sells a sitting.
 

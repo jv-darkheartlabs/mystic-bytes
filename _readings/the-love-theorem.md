@@ -40,5 +40,3 @@ While *The Love Theorem* offers a compelling narrative, it invites debate on sev
 - What aspects of character development felt satisfying or lacking?  
 - How does the dual perspective impact your connection with the characters?  
 - In what ways does the ending reflect or subvert genre expectations?
-
-#TheOrchidRoom #enemiestolovers #darkromance #STEM #darkheartlabs

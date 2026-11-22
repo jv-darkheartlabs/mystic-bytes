@@ -7,7 +7,7 @@ dek: ""
 number: R1370
 sort_key: 1370
 date: 2026-05-29
-date_read: 2017-05-07
+date_read: 2022-05-07
 category: enemies-to-lovers
 cover: /assets/readings/book-lovers.jpg
 spice: 3
@@ -43,5 +43,3 @@ The interplay between ambition and romance raises questions about the sacrifices
 - What role does humor play in balancing the emotional stakes of the story?  
 - Do you think the dual perspective strengthens the narrative or detracts from a unified voice?  
 - How does *Book Lovers* compare to other enemies-to-lovers narratives in terms of depth and character complexity?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #contemporaryromance #literaryanalysis

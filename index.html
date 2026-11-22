@@ -1,26 +1,50 @@
 ---
 layout: default
-title: "Jennifer Picado — Animal Care & Technical Support"
-description: "Jennifer Picado — based in Louisiana and seeking wildlife, fisheries and related public-service opportunities in coastal and island Washington."
+title: "Dark Heart Labs"
+description: "Documentation for the living, literature for the haunted — writing, projects, and reviews from Dark Heart Labs, by Jennifer."
 permalink: /
 ---
-{% assign career = site.data.career %}
-<div class="container career-page">
-  <header class="signal-header career-hero">
-    <p class="page-eyebrow">Dark Heart Labs</p><h1 class="page-title">{{ career.name }}</h1>
-    <p class="career-headline">{{ career.headline }}</p><p class="career-intro">{{ career.intro }}</p>
-    <p class="career-location">{{ career.relocation }}</p>
-    <div class="career-actions"><a class="btn-outline" href="{{ '/experience/' | relative_url }}">Explore my experience</a><a class="btn-outline" href="{{ '/cv/' | relative_url }}">View résumé</a></div>
+{% assign written = site.essays | concat: site.readings | concat: site.films | concat: site.verse | concat: site.journal | concat: site.wellness %}
+{% assign latest = written | where_exp: "e", "e.locked != true and e.thread != 'letters'" | sort: "date" | reverse %}
+<div class="container home-page">
+  <header class="home-hero panel">
+    <p class="page-eyebrow">Dark Heart Labs</p>
+    <h1 class="home-hero__title">Documentation for the living, literature for the haunted.</h1>
+    <p class="home-hero__sub">Twenty-five years of making hard things readable. This is where the rest of the writing lives.</p>
+    <p class="home-hero__actions"><a class="btn-outline" href="{{ '/journal/' | relative_url }}">Read the Journal</a> <a class="btn-outline" href="{{ '/projects/' | relative_url }}">See the projects</a></p>
   </header>
-  <section class="career-section" aria-labelledby="experience-preview"><h2 id="experience-preview">Experience</h2>
-    <div class="career-grid">{% for skill in career.skills %}<article class="panel career-card"><h3>{{ skill.title }}</h3><p>{{ skill.text }}</p></article>{% endfor %}</div>
-  </section>
-  <section class="career-section" aria-labelledby="explore-heading"><h2 id="explore-heading">Explore</h2>
-    <ul class="career-link-list">
-      <li><a href="{{ '/projects/' | relative_url }}">Selected work</a> — websites, practical tools and writing.</li>
-      <li><a href="{{ '/outdoors/' | relative_url }}">Outdoors</a> — Gulf Coast fishing, travel and wildlife observations.</li>
-      <li><a href="{{ '/media/' | relative_url }}">Personal media</a> — creative writing, music and video.</li>
-      <li><a href="{{ '/contact/' | relative_url }}">Contact</a> — employment inquiries and direct contact details.</li>
-    </ul>
-  </section>
+
+  <div class="home-split">
+    <section aria-labelledby="home-journal">
+      <h2 id="home-journal">Journal</h2>
+      <ul class="home-entry-list">
+        {% for entry in latest limit: 3 %}
+        <li>
+          <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+          {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+          <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+        </li>
+        {% endfor %}
+      </ul>
+      <p><a href="{{ '/journal/' | relative_url }}">All of the Journal →</a></p>
+    </section>
+
+    <section aria-labelledby="home-projects">
+      <h2 id="home-projects">Projects</h2>
+      {% for project in site.data.projects.featured %}
+      <article class="panel career-card home-project-card">
+        <h3><a href="{{ project.demo | default: project.url | escape }}">{{ project.name | escape }}</a></h3>
+        <p>{{ project.text | escape }}</p>
+        <p>{% if project.demo %}<a href="{{ project.demo | escape }}">{% if project.demo_label %}{{ project.demo_label | escape }}{% else %}View demo{% endif %} →</a>{% if project.url %} · {% endif %}{% endif %}{% if project.url %}<a href="{{ project.url | escape }}">Source →</a>{% endif %}</p>
+      </article>
+      {% endfor %}
+      <h3 class="home-more__title">More projects</h3>
+      <ul class="home-link-list">
+        {% for project in site.data.projects.additional %}{% if project.home_link %}
+        <li><a href="{{ project.demo | default: project.url | escape }}">{{ project.name | escape }}</a></li>
+        {% endif %}{% endfor %}
+      </ul>
+      <p><a href="{{ '/projects/' | relative_url }}">All projects →</a></p>
+    </section>
+  </div>
 </div>

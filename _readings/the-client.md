@@ -22,7 +22,6 @@ tags:
   - mystery
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Prose-wise, Grisham excels in crafting vivid and relatable characters, particula
 - Does the ending honor the emotional journey of the characters, or is it a narrative convenience?
 - How does the legal context enhance or detract from the suspense?
 - In what ways does the book reflect or distort the realities of the justice system today?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #darkheartlabs

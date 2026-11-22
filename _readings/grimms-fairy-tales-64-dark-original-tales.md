@@ -22,7 +22,6 @@ tags:
   - classic literature
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The stark contrasts between innocence and corruption, as well as the moral dilem
 - Which tale left the most profound impact on you, and why?  
 - How do you interpret the endings of these stories — are they satisfying or frustrating?  
 - In what ways do you see the themes of desire and fear interwoven throughout the tales?
-
-#TheOrchidRoom #gothic #darkfantasy #classicliterature #horrorromance

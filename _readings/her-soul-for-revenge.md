@@ -51,5 +51,3 @@ However, there are moments where Laroux’s ambition may slightly outpace execut
 - Can revenge ever be romantic, or does it inherently taint the purity of love?  
 - How does Laroux’s use of dark magic influence the moral landscape of the story?  
 - What unresolved questions linger regarding character motivations and their ultimate fates?
-
-#TheOrchidRoom #vampire #darkromance #soulstrilogy #literaryanalysis

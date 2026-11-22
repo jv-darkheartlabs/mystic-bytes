@@ -45,5 +45,3 @@ The novel’s tension between eroticism and horror raises questions that could i
 - Does the blend of horror and romance ultimately serve to empower or entrap the characters?  
 - How might the novel's imagery impact the reader's experience of desire and fear?  
 - Are there specific moments in the text where you felt the balance of horror and romance tipped too far in one direction?
-
-#TheOrchidRoom #gothic #darkromance #horrorromance #literaryanalysis

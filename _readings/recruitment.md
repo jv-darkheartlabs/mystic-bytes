@@ -46,5 +46,3 @@ The interplay of loyalty and desire raises profound questions regarding human co
 - Do you believe the ending justifies the protagonist’s journey, or does it leave critical elements unresolved?  
 - How do the themes of oppression resonate with contemporary societal issues?  
 - What are the implications of choice in a world defined by coercion and manipulation?  
-
-#TheOrchidRoom #fantasyromance #darkromance #dystopian #darkheartlabs

@@ -22,7 +22,6 @@ tags:
   - identity
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,4 +49,3 @@ This novel presents a range of polarities that can ignite debate among readers.
 - How does the narrative's pacing affect the overall impact of the themes presented?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #initiation #dystopia #identity #theorchidroom

@@ -50,5 +50,3 @@ The polarities in **The Sinner** are charged, evoking strong reactions that coul
 - Can the depiction of possessive behavior in the book be justified within the context of the story, or does it reinforce harmful stereotypes?  
 - How do we reconcile the need for dark romance with the potential for glorifying unhealthy relationships?  
 - What aspects of the character development felt earned, and where did you feel the narrative faltered?
-
-#TheOrchidRoom #bullyromance #darkromance #literaryanalysis #TheSinner

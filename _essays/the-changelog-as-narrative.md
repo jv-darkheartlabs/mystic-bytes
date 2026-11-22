@@ -25,7 +25,7 @@ A release notes file is easy to treat as packaging. Wrap the version, paste thre
 
 Last winter I spent an afternoon bisecting the mystic-bytes cover pipeline because invoice-style rounding had drifted from what the manifest expected. The bug was not in the file I had open in Cursor on Fedora. It was a decision from a release nobody present had shipped. Git showed the hunk. Git did not show the *why*: regulator guidance, a customer ticket, a workaround that became permanent. The public changelog for that release said `Refactored billing module.` That is a tombstone, not a chapter.[^1]
 
-Auckland 2026 makes the stranger more real. Relocating means the person who remembers the Slack thread might be twelve hours away, or gone. I write mystic-bytes from Tāmaki Makaurau. The next person who clones it might be me after a disk failure, or a future maintainer who never sat in that room. Either way, they will search the changelog before they bisect. If the changelog is marketing copy, they inherit an archaeology project.
+Relocating means the person who remembers the Slack thread might be twelve hours away, or gone. I write mystic-bytes from Louisiana. The next person who clones it might be me after a disk failure, or a future maintainer who never sat in that room. Either way, they will search the changelog before they bisect. If the changelog is marketing copy, they inherit an archaeology project.
 
 Every long-running system eventually produces the question *when did this start.* Teams that treat changelogs as launch notes answer with fifty commits. Teams that treat them as narrative hand the next maintainer a hypothesis on page one.
 
@@ -33,7 +33,7 @@ Every long-running system eventually produces the question *when did this start.
 
 Write for the reader you will never meet: the maintainer in three years, the auditor on a deadline, the new hire on day four, support reconstructing what shipped the week a bug started. None of them were in the room. `Fixed bug in auth.` tells the stranger nothing. Which bug. Whose. What it cost while open. What you learned. Keep a Changelog exists because commit logs are not that document. Commits record what the machine did. A changelog records what a human should believe changed.[^1]
 
-On mystic-bytes the durable fix was a PR template with a mandatory CHANGELOG section: what changed, why, what to watch for, merged in the same pull request as the code. Ninety seconds while the work is fresh. Six months later, for a release I shipped during a packing week, reconstruction without that paragraph takes an afternoon and is usually wrong. Cursor will draft a bullet if I let it. I still have to name the why. The model has the diff. It does not have the regulator email.
+On mystic-bytes the durable fix was a PR template with a mandatory CHANGELOG section: what changed, why, what to watch for, merged in the same pull request as the code. Ninety seconds while the work is fresh. Six months later, for a release I shipped during a packing week, reconstruction without that paragraph takes an afternoon and is usually wrong. The model will draft a bullet if I let it. I still have to name the why. The model has the diff. It does not have the regulator email.
 
 Narrative beats taxonomy. Added, Changed, Fixed, Removed are filing buckets. They help a scanner. They do not explain. The useful entry reads like a quiet diary: what changed, who asked, what to do if the change surprises you. Link the PR for the patient reader and the upgrade note for the impatient one. Admit mistakes: reverted the previous attempt; caused a webhook regression; postmortem here. Admission is what keeps the document trustworthy when the stranger needs to believe it.
 
@@ -55,7 +55,7 @@ Prototypes and weekend experiments do not need diary entries. The threshold is w
 
 Years from now the marketing site will smooth the story. Press will compress it. The only artifact that reliably remembers the sequence of decisions is the changelog, if you wrote it like it mattered. Codify the CHANGELOG section in the PR template. Write the entry while the work is fresh. Name the why.
 
-I still open `CHANGELOG.md` before I bisect. When the sentence is there, the afternoon stays an afternoon. When it is not, Auckland is just a prettier place to grep.
+I still open `CHANGELOG.md` before I bisect. When the sentence is there, the afternoon stays an afternoon. When it is not, Louisiana is just a prettier place to grep.
 
 — JV · Dark Heart Labs.
 

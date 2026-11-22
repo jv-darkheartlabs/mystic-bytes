@@ -44,5 +44,3 @@ The novel presents several polarities ripe for discussion, particularly regardin
 - Can the ghostly elements be interpreted as mere metaphors for emotional struggles, or do they exist as tangible threats?  
 - What role does the setting play in amplifying the themes of the story?  
 - How does Winning's prose style contribute to the overall atmosphere of dread and longing?  
-
-#TheOrchidRoom #TheShadowGlass #gothic #horrorromance #literaryanalysis

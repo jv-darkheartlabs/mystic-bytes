@@ -50,5 +50,3 @@ The prose excels in painting vivid imagery; Lovelot’s descriptions of the fae 
 - How effectively does the author navigate the themes of power and desire?
 - In what ways do you feel the ending serves or undermines the overall story?
 - What implications does the depiction of violence have on the romantic elements of the plot?
-
-#TheOrchidRoom #fantasyromance #darkromance #fae #royalty

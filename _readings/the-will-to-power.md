@@ -18,7 +18,6 @@ tags:
   - nihilism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -42,5 +41,3 @@ Nietzsche's work invites a plethora of debates, particularly around the themes o
   - In what ways does the text resonate with contemporary understandings of power dynamics in society?
   - Does the lack of traditional narrative hinder or enhance its philosophical impact?
   - What are the implications of embracing nihilism as proposed by Nietzsche?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #philosophy #existentialism #TheOrchidRoom

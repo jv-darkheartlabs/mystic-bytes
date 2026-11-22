@@ -48,5 +48,3 @@ While Maas's work resonates with many, it also invites polarizing responses arou
 - Do you find the dual perspective effective in conveying the emotional weight of trauma, or does it dilute the experience?  
 - How do the content warnings shape your understanding of the characters’ interactions and their implications?  
 - What do you think the novella suggests about the nature of intimacy in the aftermath of conflict?
-
-#TheOrchidRoom #fantasyromance #acotar #darkromance #literaryanalysis

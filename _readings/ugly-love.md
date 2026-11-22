@@ -47,5 +47,3 @@ The novel's exploration of grief and desire creates a fertile ground for discuss
 - In what ways does the narrative's resolution align or conflict with your expectations of a romance novel?  
 - Does the tension between forbidden love and emotional healing create a compelling narrative, or does it detract from the authenticity of the characters’ journeys?  
 - How might this book differ in reception compared to Hoover’s other works that focus less on trauma?
-
-#TheOrchidRoom #forbiddenlove #darkromance #contemporaryromance #UglyLove

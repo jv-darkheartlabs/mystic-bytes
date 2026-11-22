@@ -6,7 +6,7 @@ dek: ""
 number: R1022
 sort_key: 1022
 date: 2026-04-22
-date_read: 2017-08-16
+date_read: 2018-08-16
 category: forbidden-love
 cover: /assets/readings/normal-people.jpg
 spice: 2
@@ -38,5 +38,3 @@ The interplay of love, class, and communication in *Normal People* presents fert
 - Do you find the ending satisfying or frustrating, and why?  
 - How does Rooney's portrayal of intimacy reflect contemporary societal issues around connection?  
 - What do you think about the use of dialogue as a primary tool for character development in the novel?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literary #darkheartlabs

@@ -23,7 +23,6 @@ tags:
   - romance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ While *Tales From The French Quarter* excels in atmosphere and character, its un
 - Can the violent and sexual content be justified within the context of the narratives, or does it risk overshadowing the thematic depth?  
 - How does the nonlinear structure affect your understanding of the characters' journeys?  
 - Which story or character resonated most deeply, and why?
-
-#TheOrchidRoom #gothic #horrorromance #NewOrleans #supernatural

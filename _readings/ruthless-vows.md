@@ -7,7 +7,7 @@ dek: "#1 New York Times bestselling author of Divine Rivals"
 number: R1194
 sort_key: 1194
 date: 2026-05-10
-date_read: 2021-09-19
+date_read: 2023-09-19
 category: fantasy-romance
 cover: /assets/readings/ruthless-vows.jpg
 spice: 1
@@ -47,5 +47,3 @@ This narrative invites a myriad of interpretations, particularly regarding the b
 - Does the pacing affect your emotional investment in the characters’ journeys? If so, how?  
 - How does *Ruthless Vows* compare to other fantasy romances you’ve read in terms of character depth and thematic exploration?  
 - What is your take on the unresolved elements at the story's conclusion—are they frustrating or thought-provoking?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

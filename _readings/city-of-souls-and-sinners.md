@@ -7,7 +7,7 @@ dek: "House of Symbols Book Two — Something wicked is coming."
 number: R569
 sort_key: 569
 date: 2026-03-03
-date_read: 2020-05-07
+date_read: 2024-05-07
 category: fantasy-romance
 cover: /assets/readings/city-of-souls-and-sinners.jpg
 spice: 4
@@ -45,5 +45,3 @@ This narrative stirs a cauldron of polarities, as readers may grapple with the b
 - What role does the setting play in shaping the characters’ motivations and desires?  
 - How do you feel about the pacing of emotional revelations versus action?  
 - What did you think of the ending — was it earned, or did it feel like a setup for the next installment?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #CityOfSoulsAndSinners

@@ -47,5 +47,3 @@ The tension in *To Flame a Wildflower* pivots around the fine line between passi
 - Can the darker elements of the romance be reconciled with its overall message about love?  
 - How effectively do you think Parker balances the gothic elements with romantic tropes?  
 - What character motivations felt fully realized, and which fell flat for you?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #toflameawildflower

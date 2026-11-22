@@ -6,7 +6,7 @@ dek: "Dance With My Demons Series"
 number: R1953
 sort_key: 1953
 date: 2026-07-23
-date_read: 2024-03-01
+date_read: 2026-03-01
 category: gothic-horror-romance
 cover: /assets/readings/unhinged-dance-with-my-demons-1.jpg
 spice: 4
@@ -22,7 +22,6 @@ tags:
   - dark
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Thematic success lies in Macca’s exploration of mental health issues; she port
 - In what ways does the gothic atmosphere amplify the themes of desire and madness?  
 - Does the ending offer a satisfying resolution, or does it leave too much ambiguity?  
 - How does this book compare to other gothic romances you've read in terms of character development and thematic depth?  
-
-#TheOrchidRoom #gothic #horrorromance #psychological #dark

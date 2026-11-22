@@ -49,5 +49,3 @@ The intersection of grief and fantastical elements in *You've Reached Sam* prese
 - Is the resolution of Julie's arc satisfying, or does it undermine the depth of her emotional struggle?  
 - How might the story differ if told from Sam’s perspective?  
 - What cultural or societal biases influence the portrayal of grief in YA literature?
-
-#TheOrchidRoom #fantasyromance #grief #youngadult #darkheartlabs

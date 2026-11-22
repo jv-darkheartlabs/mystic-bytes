@@ -7,7 +7,7 @@ dek: ""
 number: R423
 sort_key: 423
 date: 2026-02-15
-date_read: 2008-03-01
+date_read: 2022-03-01
 category: mystery-crime
 cover: /assets/readings/a-quiet-retreat.jpg
 content_warnings:

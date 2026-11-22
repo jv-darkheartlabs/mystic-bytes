@@ -7,7 +7,7 @@ dek: "Gods & Monsters Book Two"
 number: R293
 sort_key: 293
 date: 2026-02-01
-date_read: 2020-08-16
+date_read: 2023-08-16
 category: vampire-paranormal
 cover: /assets/readings/the-throne-of-broken-gods.jpg
 spice: 4
@@ -51,5 +51,3 @@ Amid the lush prose and intricate plotting, several polarities emerge that could
 - Are the themes of betrayal and dark magic too on-the-nose, or do they enhance the narrative’s depth?  
 - How do you feel about the use of multiple POVs — does it enrich or dilute the emotional stakes?  
 - Does the ending provide a satisfying resolution, or does it leave too many threads dangling?  
-
-#TheOrchidRoom #vampire #darkromance #godsandmonsters #literaryanalysis

@@ -1,17 +1,13 @@
 - label: Home
   url: /
   exact: true
-- label: Experience
-  url: /experience/
-- label: Résumé
-  url: /cv/
-- label: Selected work
+- label: Projects
   url: /projects/
-- label: Outdoors
-  url: /outdoors/
-- label: Personal media
+- label: Journal
+  url: /journal/
+- label: About
+  url: /about/
+- label: Travels
+  url: /travels/
+- label: Media
   url: /media/
-- label: Contact
-  url: /contact/
-- label: Card search
-  url: /card-search/

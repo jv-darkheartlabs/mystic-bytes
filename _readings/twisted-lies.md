@@ -7,7 +7,7 @@ dek: "He'll do anything to have her. Including lie."
 number: R1501
 sort_key: 1501
 date: 2026-06-13
-date_read: 2016-10-22
+date_read: 2022-10-22
 category: stalker-obsession
 cover: /assets/readings/twisted-lies.jpg
 spice: 4
@@ -51,5 +51,3 @@ Huang's novel lays bare polarities that provoke deep discussion: the thrill of o
 - To what extent does wealth influence our perception of characters' actions in romance narratives?  
 - Are the supporting characters adequately fleshed out to reflect or challenge the protagonist's journey, or do they fall into stereotype?  
 - What unresolved questions about manipulation and consent linger after reading?  
-
-#TheOrchidRoom #TwistedLies #AnaHuang #DarkRomance #LiteraryAnalysis

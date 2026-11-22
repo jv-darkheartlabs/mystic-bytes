@@ -20,7 +20,6 @@ tags:
   - study guide
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ This text presents a myriad of polarities for discussion, particularly around th
 - Should educational materials strive for engagement, or is clarity and precision enough?  
 - What other texts manage to intertwine technical knowledge with compelling storytelling?  
 - How does this book compare to other educational resources in terms of emotional impact?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #darkheartlabs

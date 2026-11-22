@@ -49,5 +49,3 @@ The novel’s exploration of desire and obsession presents polarities that can i
 - In what ways does the setting contribute to the overarching mood of the story?  
 - Are the darker elements of the plot a necessary foil for the romance, or do they overwhelm it?  
 - Does the ending provide a satisfying resolution to the themes presented, or does it leave too much unresolved?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #gothic

@@ -18,7 +18,6 @@ tags:
   - whimsical
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Seuss’s ability to weave humor with darker undertones sparks fascinating conve
 - Can we consider the unsettling aspects of Seuss’s work as a form of gothic storytelling?
 - How do the illustrations contribute to or detract from the text's themes?
 - What are the implications of leaving stories open-ended for young audiences?
-
-#TheOrchidRoom #gothic #horrorromance #childrensliterature #literaryanalysis

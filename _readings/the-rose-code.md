@@ -7,7 +7,7 @@ dek: ""
 number: R428
 sort_key: 428
 date: 2026-02-16
-date_read: 2013-08-16
+date_read: 2021-08-16
 category: historical
 cover: /assets/readings/the-rose-code.jpg
 content_warnings:
@@ -48,4 +48,3 @@ Quinn's exploration of friendship versus duty raises complex questions about eth
 - What unresolved questions or biases linger after finishing the novel?
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #darkthriller #romanticsuspense #Bletchley #wwii #codebreaking

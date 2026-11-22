@@ -7,7 +7,7 @@ dek: "Gods & Monsters Book One"
 number: R294
 sort_key: 294
 date: 2026-02-01
-date_read: 2021-09-19
+date_read: 2022-09-19
 category: vampire-paranormal
 cover: /assets/readings/the-book-of-azrael.jpg
 spice: 4
@@ -51,5 +51,3 @@ The interplay of morality, desire, and monstrosity in *The Book of Azrael* prese
 - Do you find the blending of gods and monsters enriching, or does it dilute the narrative focus?  
 - How does Nicole’s writing style influence your emotional engagement with the characters?  
 - Is Azrael a villain or a tragic hero in your view, and what does that say about the nature of desire?
-
-#TheOrchidRoom #vampire #darkromance #godsandmonsters #gothic

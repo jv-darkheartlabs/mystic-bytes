@@ -20,7 +20,6 @@ tags:
   - soundtrack
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Shore's score is a complex interplay of familiar themes and innovative compositi
 - In what ways does the music reflect the themes of desire and conflict, and are there moments that feel particularly poignant or lacking?  
 - Do you think the score has the potential to stand alone outside the film's context, or is it too tied to the visuals?  
 - How does familiarity with the story impact our reception of the score’s emotional depth?  
-
-#TheOrchidRoom #vampires #darkromance #musicalanalysis #TheTwilightSaga

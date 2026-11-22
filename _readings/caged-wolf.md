@@ -7,7 +7,7 @@ dek: ""
 number: R1164
 sort_key: 1164
 date: 2026-05-07
-date_read: 2015-06-10
+date_read: 2021-06-10
 category: fantasy-romance
 cover: /assets/readings/caged-wolf.jpg
 spice: 4
@@ -48,5 +48,3 @@ The novel's thematic interplay of captivity and autonomy raises compelling quest
 - What ethical considerations arise in portraying relationships rooted in captivity and violence?  
 - Does the ending offer a satisfying resolution or does it leave too much unresolved?  
 - How does this work compare to other fantasy-romance titles in its portrayal of character agency?
-
-#TheOrchidRoom #fantasyromance #darkromance #shifter #CagedWolf

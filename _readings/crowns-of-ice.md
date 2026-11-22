@@ -6,7 +6,7 @@ dek: "Of Snow & Ice"
 number: R1398
 sort_key: 1398
 date: 2026-06-01
-date_read: 2021-06-10
+date_read: 2024-06-10
 category: fantasy-romance
 cover: /assets/readings/crowns-of-ice.jpg
 spice: 3
@@ -49,5 +49,3 @@ The interplay of power and desire in *Crowns of Ice* presents polarizing themes 
 - Are dual POVs an effective choice, or do they dilute the emotional intensity?
 - In what ways does the book challenge or conform to the expectations of its genre?
 - What lingering questions do you have about the characters’ motivations and their fates?
-
-#TheOrchidRoom #fantasyromance #darkromance #winter #crown

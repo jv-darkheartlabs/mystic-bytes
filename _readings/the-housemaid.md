@@ -7,7 +7,7 @@ dek: "From behind closed doors, she sees everything."
 number: R410
 sort_key: 410
 date: 2026-02-14
-date_read: 2005-08-16
+date_read: 2022-08-16
 category: mystery-crime
 cover: /assets/readings/the-housemaid.jpg
 content_warnings:

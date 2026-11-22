@@ -21,7 +21,6 @@ tags:
   - mystery
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Patterson's *Along Came a Spider* raises intriguing questions about morality, ju
 - What are the implications of the protagonist's personal struggles on his professional decisions?  
 - Do you feel the ending was earned, or did it leave too many threads unresolved?  
 - How does the portrayal of violence affect your reading experience and perception of the narrative?
-
-#LiteraryAnalysis #darkthriller #crime #suspense #theorchidroom

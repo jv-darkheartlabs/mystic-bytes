@@ -7,7 +7,7 @@ dek: "Jaga and the Devil — Book 2"
 number: R139
 sort_key: 139
 date: 2026-01-15
-date_read: 2022-07-13
+date_read: 2025-07-13
 category: forbidden-love
 cover: /assets/readings/devils-doom.jpg
 spice: 4
@@ -43,5 +43,3 @@ However, there are moments where the dialogue feels contrived; the characters so
 - Are the characters’ choices believable given the supernatural influences at play?  
 - In what ways does the setting amplify the novel’s emotional stakes?  
 - How does the ending impact your overall perception of the characters' journeys?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

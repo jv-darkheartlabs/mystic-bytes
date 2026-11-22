@@ -46,5 +46,3 @@ Mellow’s work can polarize readers—some may revel in the atmospheric depth a
 - In what ways does the lyrical quality of the prose affect your immersion in the story?  
 - Can the intensity of the emotions presented be too much, or is it a necessary aspect of the gothic romance genre?  
 - How does the ending resonate with you in terms of thematic closure?
-
-#TheOrchidRoom #gothic #horrorromance #literaryanalysis #darkheartlabs

@@ -7,7 +7,7 @@ dek: "Bound for eternity. Born for vengeance."
 number: R1179
 sort_key: 1179
 date: 2026-05-09
-date_read: 2018-03-01
+date_read: 2022-03-01
 category: fantasy-romance
 cover: /assets/readings/princess-of-souls.jpg
 spice: 1
@@ -46,5 +46,3 @@ The interplay between desire and the moral implications of vengeance is a rich g
 - What does the ending suggest about the nature of sacrifice in the quest for power?  
 - Are the characters' motivations relatable, or do they feel too steeped in the fantasy genre’s conventions?  
 - In what ways does the exploration of curses resonate with contemporary societal issues?
-
-#TheOrchidRoom #fantasyromance #darkromance #witches #curse

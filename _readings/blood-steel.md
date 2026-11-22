@@ -7,7 +7,7 @@ dek: "An epic romantic fantasy"
 number: R1218
 sort_key: 1218
 date: 2026-05-13
-date_read: 2021-06-10
+date_read: 2023-06-10
 category: fantasy-romance
 cover: /assets/readings/blood-steel.jpg
 spice: 3
@@ -48,5 +48,3 @@ The narrative stirs a potent mix of admiration and critique, particularly in its
 - Does the ambiguous ending enrich or detract from the overall experience, and why?  
 - How does the portrayal of violence affect the romantic elements of the story?  
 - In what ways does the world-building enhance or distract from character development?
-
-#TheOrchidRoom #fantasyromance #darkromance #bloodandsteel #HelenScheuerer

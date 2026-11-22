@@ -52,5 +52,3 @@ The intricacies of loyalty and desire within the confines of a feudal society se
 - Are the fantasy tropes employed here innovative or limiting for the narrative?  
 - In what ways does the book challenge or reinforce typical gender roles within the fantasy genre?  
 - How does the ending impact your interpretation of the characters’ journeys and their ultimate fates?
-
-#TheOrchidRoom #fantasyromance #darkromance #highfantasy #literaryanalysis

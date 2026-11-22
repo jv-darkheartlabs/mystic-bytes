@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R422
 sort_key: 422
 date: 2026-02-15
-date_read: 2007-11-25
+date_read: 2024-11-25
 category: mystery-crime
 cover: /assets/readings/first-lie-wins.jpg
 content_warnings:

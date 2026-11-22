@@ -22,7 +22,6 @@ tags:
   - thriller
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The intricacies of human psychology and the nature of evil are richly woven thro
 - Are the psychological elements compelling or overshadowed by the thriller aspects?  
 - Does the ending provide closure or provoke further contemplation?  
 - How effectively does Edwards balance tension with character development?
-
-#TheOrchidRoom #darkthriller #psychopath #suspense #literaryanalysis

@@ -54,5 +54,3 @@ The ending, while satisfying in its resolution of the central conflict, leaves l
 - Can the emotional complexities presented in the narrative redeem the morally ambiguous choices of the characters?  
 - How do you feel about the portrayal of captivity and desire? Does it offer a critique or simply glorify the dynamic?  
 - What elements of the book do you think challenge traditional romance narratives?
-
-#TheOrchidRoom #Credence #darkromance #omegaverse #literaryanalysis

@@ -7,7 +7,7 @@ dek: "Savage Lands Book Six"
 number: R281
 sort_key: 281
 date: 2026-01-30
-date_read: 2020-05-07
+date_read: 2022-05-07
 category: vampire-paranormal
 cover: /assets/readings/shadow-lands.jpg
 spice: 4
@@ -48,5 +48,3 @@ The characters, particularly the protagonist, embody a duality that reflects the
 - Does the reliance on genre tropes enhance or undermine the book's thematic ambitions?  
 - How effectively does the ending encapsulate the journey of the characters, and is it satisfying?  
 - What aspects of Brown's writing style contribute most to the overall tension and atmosphere?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

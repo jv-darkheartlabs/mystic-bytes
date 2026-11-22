@@ -42,5 +42,3 @@ While *Make Me* is a vibrant addition to the enemies-to-lovers genre, it straddl
 - How do the protagonists’ vulnerabilities shape their relationship, and are these transformations credible?  
 - In what ways does Bailey's voice contribute to or detract from the genre's conventions?  
 - Is the resolution of their conflicts earned, or does it fall into the trap of convenient storytelling?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #BrokeAndBeautiful #literaryanalysis

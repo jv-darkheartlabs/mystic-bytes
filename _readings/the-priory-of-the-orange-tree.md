@@ -49,5 +49,3 @@ While *The Priory of the Orange Tree* is a celebration of diversity and strength
 - In what ways does the dragon lore serve as a metaphor for the characters' struggles?  
 - How did the pacing affect your connection to the characters?  
 - What unresolved tensions linger for you after finishing the book?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #epicfantasy

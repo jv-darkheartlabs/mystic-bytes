@@ -48,5 +48,3 @@ The polarities in *Toxic* stem from its unabashed embrace of darkness in romance
 - In what ways do the characters reflect or subvert traditional archetypes in dark romance?  
 - Can the intense portrayal of desire and danger coexist without crossing into harmful territory?  
 - What lingering questions do you have about the characters’ motivations and the implications of their relationship?
-
-#TheOrchidRoom #Toxic #darkromance #enemiestolovers #literaryanalysis

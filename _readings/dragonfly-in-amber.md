@@ -48,5 +48,3 @@ Gabaldon’s work is rife with polarizing themes—feminism vs. traditionalism, 
 - How does the book handle themes of violence and consent, and are these portrayals problematic or pivotal?  
 - Can the romance be viewed as empowering, or does it reinforce certain tropes of dependence and sacrifice?  
 - What role does the historical setting play in shaping reader empathy for the characters’ struggles?
-
-#TheOrchidRoom #fantasyromance #darkromance #outlander #literaryanalysis

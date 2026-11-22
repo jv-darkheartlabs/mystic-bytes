@@ -7,7 +7,7 @@ dek: ""
 number: R345
 sort_key: 345
 date: 2026-02-06
-date_read: 2010-06-10
+date_read: 2016-06-10
 category: sff
 cover: /assets/readings/dark-matter.jpg
 content_warnings:

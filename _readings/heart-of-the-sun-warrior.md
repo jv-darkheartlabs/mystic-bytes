@@ -7,7 +7,7 @@ dek: "Book Two in the Celestial Kingdom Duology"
 number: R1250
 sort_key: 1250
 date: 2026-05-16
-date_read: 2017-11-25
+date_read: 2022-11-25
 category: fantasy-romance
 cover: /assets/readings/heart-of-the-sun-warrior.jpg
 spice: 1
@@ -49,5 +49,3 @@ The novel invites polarizing opinions, particularly around the pacing of the con
 - In what ways do the mythological elements enhance or hinder the story’s emotional impact?  
 - How do you interpret the role of sacrifice in the characters' journeys?  
 - What lingering questions do you have about the world-building and its implications for future stories?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #celestialkingdom #darkheartlabs

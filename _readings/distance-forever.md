@@ -49,5 +49,3 @@ Thematically, Mason excels in illustrating the conflict between desire and moral
 - What role do secrets and hidden identities play in shaping the characters’ relationships?  
 - How effective is the use of multiple POVs in enhancing or complicating the narrative?  
 - In what ways does the urban setting contribute to the overall theme of obsession?  
-
-#TheOrchidRoom #mafiaromance #darkromance #beneaththemask #literaryanalysis

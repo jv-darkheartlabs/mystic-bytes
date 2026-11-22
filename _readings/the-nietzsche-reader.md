@@ -19,7 +19,6 @@ tags:
   - literary analysis
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,4 +43,3 @@ Nietzsche’s work inevitably polarizes readers, inciting debate on the nature o
 - How does this work compare with other philosophical texts in its engagement with dark themes?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #philosophy #existentialism #TheOrchidRoom

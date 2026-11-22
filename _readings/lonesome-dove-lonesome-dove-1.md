@@ -20,7 +20,6 @@ tags:
   - loss
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ However, the novel is not without its flaws. At times, the rich tapestry of char
 - How does the landscape function as a character in its own right, influencing decisions and fates?  
 - Can the novel's pacing be seen as a metaphor for the characters' emotional journeys?  
 - What role does nostalgia play in our reading of this story, particularly in the context of loss?  
-
-#TheOrchidRoom #cowboyromance #darkromance #western #literaryanalysis

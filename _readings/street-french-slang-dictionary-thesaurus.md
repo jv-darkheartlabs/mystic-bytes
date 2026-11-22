@@ -19,7 +19,6 @@ tags:
   - French
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ Burke’s work is rife with polarities that could spark intense discussion. On o
 - What role does the urban setting play in shaping the slang and its implications?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #language #TheOrchidRoom #darkheartlabs #romanticsuspense

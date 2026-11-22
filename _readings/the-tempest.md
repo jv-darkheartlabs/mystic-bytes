@@ -19,7 +19,6 @@ tags:
   - romance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Craft-wise, the dialogue is packed with poetic nuances that reveal the character
 - How does Shakespeare's use of supernatural elements enhance or detract from the emotional depth of the narrative?  
 - What does Miranda's role say about gender dynamics within the context of power and autonomy?  
 - Do you see the reconciliation between characters as plausible, or does it feel contrived to you?
-
-#TheOrchidRoom #gothic #horrorromance #classic #literature

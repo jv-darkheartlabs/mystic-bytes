@@ -20,7 +20,6 @@ tags:
   - courage
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ This novel presents intriguing polarities that could fuel a lively conversation:
 - In what ways do the novel's symbols reflect broader themes of courage and vulnerability?  
 - Are there moments where you felt the pacing compromised the emotional impact?  
 - How do you interpret the ending — a triumph or an evasion of deeper truths?  
-
-#TheOrchidRoom #gothic #horrorromance #adventure #survival

@@ -46,5 +46,3 @@ The prose is imbued with a lyrical quality that captures the rawness of desire a
 - What lines do we draw between romance and obsession within the story?
 - How effectively does Sheridan balance tension with emotional nuance?
 - Can love be justified in the face of violence, and what does the narrative suggest?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

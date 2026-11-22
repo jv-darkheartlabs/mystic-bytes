@@ -20,7 +20,6 @@ tags:
   - peace
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ As the narrative reaches its conclusion, the question of whether the ending is e
 - Can philanthropic efforts, as depicted in the book, truly promote peace, or do they risk oversimplifying complex issues?
 - How do personal anecdotes in social activism narratives impact the reader's perception of those cultures?
 - What role does the portrayal of local communities play in the effectiveness of charitable narratives?
-
-#LiteraryAnalysis #darkthriller #nonfiction #memoir #philanthropy #education #theorchidroom

@@ -7,7 +7,7 @@ dek: ""
 number: R418
 sort_key: 418
 date: 2026-02-15
-date_read: 2013-07-13
+date_read: 2020-07-13
 category: mystery-crime
 cover: /assets/readings/one-by-one.jpg
 content_warnings:
@@ -44,5 +44,3 @@ The prose is crisp and evocative, particularly in its depiction of the oppressiv
 - In what ways do the characters' flaws serve the overall theme of trust?  
 - Are the psychological elements of the story effective in portraying the characters' descent into paranoia?  
 - How does McFadden compare with authors like Ruth Ware in her handling of suspense and character development?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #suspense #TheOrchidRoom

@@ -22,7 +22,6 @@ tags:
   - mystery
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The complexities woven into **A Tongue so Sweet and Deadly** prompt rich discuss
 - Does the ending provide a satisfying conclusion, or does it feel like an evasion of resolution?  
 - How does the dual perspective shape our understanding of the central conflict?  
 - Are the characters' motivations relatable, or do they remain ensconced in the gothic archetype?
-
-#TheOrchidRoom #gothic #horrorromance #literaryanalysis #darkheartlabs

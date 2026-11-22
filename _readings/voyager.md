@@ -42,5 +42,3 @@ Gabaldon’s *Voyager* evokes polarities surrounding its ambitious narrative sco
 - What do you think about the use of time travel as a narrative device? Does it enhance or detract from the story’s emotional weight?
 - How effectively does Gabaldon develop her supporting characters, and do they overshadow the leads?
 - Is the portrayal of violence in the novel justified within its historical context, or does it feel gratuitous?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #outlander

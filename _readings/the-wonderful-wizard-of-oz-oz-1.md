@@ -19,7 +19,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The contrasts in Baum's narrative provide fertile ground for debate. The interpl
 - Do you see Baum’s portrayal of the Wicked Witch as reinforcing or subverting stereotypes of female power?  
 - How does the book’s resolution affect the reader’s interpretation of home and belonging?  
 - What elements of the gothic and horror genres are present in the narrative, and how do they influence the overall tone?
-
-#TheOrchidRoom #gothic #horrorromance #fantasy #classic

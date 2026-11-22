@@ -43,5 +43,3 @@ The intricate dance of honor and desire presents polarizing questions about the 
 - Are the characters' transformations satisfying, or do they feel forced by the plot?  
 - How does the atmospheric setting contribute to the emotional stakes of the story?  
 - What unanswered questions linger regarding the future of the characters after the conclusion?
-
-#TheOrchidRoom #fantasyromance #darkromance #evertonsociety #historical

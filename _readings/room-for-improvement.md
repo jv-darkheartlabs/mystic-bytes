@@ -43,5 +43,3 @@ However, the novel occasionally falters in its execution; certain character arcs
 - What are the implications of the novel’s resolution on the theme of self-acceptance?  
 - How do you feel about the balance of fantasy elements with contemporary themes?  
 - Does the book's structure enhance or detract from the emotional stakes?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

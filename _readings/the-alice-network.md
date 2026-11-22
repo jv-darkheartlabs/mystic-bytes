@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R437
 sort_key: 437
 date: 2026-02-17
-date_read: 2012-08-16
+date_read: 2017-08-16
 category: historical
 cover: /assets/readings/the-alice-network.jpg
 content_warnings:
@@ -44,5 +44,3 @@ Characterization stands as a pillar of Quinn's craft; the protagonists, especial
 - Does the portrayal of female spies challenge or reinforce traditional gender roles in wartime narratives?  
 - How does the depiction of violence impact your reading experience?  
 - What are the ethical implications of romanticizing war in literature?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

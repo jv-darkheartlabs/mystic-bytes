@@ -49,5 +49,3 @@ The interplay between love and madness creates polarizing reactions in readers, 
 - Do we sympathize with Hailee, or does her character become too passive in the face of her circumstances?
 - How does the narrative challenge traditional notions of agency in relationships?
 - What are the ethical implications of portraying such obsessive love in literature?
-
-#TheOrchidRoom #BreakingHailee #stalker #darkromance #psychologicalthriller

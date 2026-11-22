@@ -50,5 +50,3 @@ The interplay of obsession and desire in *King of Envy* is likely to provoke var
 - Do you find the ending satisfying, or does it leave too many questions unanswered?  
 - How do the themes of jealousy and obsession reflect contemporary societal issues?  
 - What elements of the craft stood out to you as particularly effective or ineffective?  
-
-#TheOrchidRoom #darkbillionaire #darkromance #KingsOfSin #literaryanalysis

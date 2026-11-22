@@ -7,7 +7,7 @@ dek: ""
 number: R361
 sort_key: 361
 date: 2026-02-08
-date_read: 2006-04-04
+date_read: 2023-04-04
 category: sff
 cover: /assets/readings/the-ferryman.jpg
 content_warnings:

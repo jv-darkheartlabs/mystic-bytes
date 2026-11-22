@@ -47,5 +47,3 @@ This novel presents various polarities, particularly in how it tackles the natur
 - Do you find the resolution of the characters’ arcs satisfying, or does it leave too much unresolved?
 - What role does the fantastical setting play in the characters’ emotional journeys?
 - How effective is the use of gothic elements in amplifying the themes of desire and fear?
-
-#TheOrchidRoom #fantasyromance #darkromance #romantasy #literaryanalysis

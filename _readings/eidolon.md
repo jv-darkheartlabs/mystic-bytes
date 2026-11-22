@@ -47,5 +47,3 @@ The interplay of light and dark in *Eidolon* invites a spectrum of interpretatio
 - In what ways do the themes of grief and sacrifice reflect our own realities?  
 - Does the predictability of certain plot elements undermine the overall impact, or does it serve to reinforce the story's themes?  
 - How does Draven’s approach to a non-human hero challenge traditional romantic tropes in the genre?
-
-#TheOrchidRoom #fantasyromance #darkromance #Eidolon #GraceDraven

@@ -18,7 +18,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The thematic exploration of fate versus free will is particularly resonant, espe
 - In what ways does King challenge traditional tropes of the Western genre in this narrative?
 - How effectively does the ending serve the themes presented throughout the book?
 - What role does the landscape play in shaping the characters' journeys, both physically and metaphorically?
-
-#LiteraryAnalysis #darkthriller #fantasy #TheOrchidRoom #thedarktower

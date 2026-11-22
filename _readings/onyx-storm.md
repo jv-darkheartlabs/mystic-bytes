@@ -47,5 +47,3 @@ The intersection of love and violence in **Onyx Storm** will undoubtedly ignite 
 - Do you believe the ending leaves room for a sequel, or does it stand alone effectively?  
 - How does Yarros's treatment of trauma and recovery resonate with or challenge traditional romance narratives?  
 - What role does the fantasy genre play in how we perceive the moral implications of love amidst conflict?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #OnyxStorm

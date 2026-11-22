@@ -49,5 +49,3 @@ The book invites polarizing discussions around the nature of power and the ethic
 - Can a character's journey toward self-discovery coexist with themes of betrayal and manipulation?  
 - How do you feel about the balance between genre tropes and innovative storytelling?  
 - What does the ending suggest about the nature of freedom in a cursed existence?  
-
-#TheOrchidRoom #vampire #darkromance #godsandmonsters #literaryanalysis

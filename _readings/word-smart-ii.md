@@ -19,7 +19,6 @@ tags:
   - education
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The novel raises polarities regarding the ethics of intelligence and the moral i
 - What are the implications of the ending — does it provide resolution or merely provoke further questions?  
 - In what ways does *Word Smart II* challenge or reinforce stereotypes about intellectualism in thrillers?  
 - How does this book compare to other dark thrillers that utilize knowledge as a central theme?  
-
-#LiteraryAnalysis #darkthriller #romanticsuspense #vocabulary #theorchidroom

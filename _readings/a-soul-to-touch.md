@@ -45,5 +45,3 @@ The interplay of desire and darkness in *A Soul to Touch* creates a fertile grou
   - In what ways does the portrayal of desire complicate our understanding of love in the context of the book?  
   - Are the darker elements of the romance portrayed in a way that is responsible, or do they risk glorifying unhealthy relationships?  
   - How does the ending shape your overall perception of the characters’ journeys?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #OpalReyne

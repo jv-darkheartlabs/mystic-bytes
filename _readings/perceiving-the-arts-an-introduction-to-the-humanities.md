@@ -18,7 +18,6 @@ tags:
   - literary analysis
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ This book invites a rich dialogue on the interplay between art and human experie
 - Do you think the book's philosophical depth enhances or detracts from its narrative appeal?
 - How effectively does Sporre bridge the gap between niche academic discussions and mainstream storytelling?
 - Were you satisfied with the emotional resolution of the book? Why or why not?
-
-#LiteraryAnalysis #darkthriller #romanticsuspense #humanities #theorchidroom

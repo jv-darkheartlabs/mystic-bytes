@@ -47,5 +47,3 @@ The world-building, while rich and immersive, occasionally succumbs to a slower 
 - Do you feel that the emotional intensity enhances or detracts from the overall narrative?  
 - How does Hobb's use of perspective shape your understanding of the characters' motivations?  
 - What role does the setting play in influencing character decisions and the narrative's emotional weight?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #foolsfate #literaryanalysis #darkheartlabs

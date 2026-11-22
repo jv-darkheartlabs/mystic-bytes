@@ -52,5 +52,3 @@ Thematically, the novel excels in its exploration of loyalty and betrayal, with 
 - What aspects of Doyle's characterization left you most unsettled? 
 - How do you interpret the motivations behind the characters' dark desires? 
 - In what ways did the blend of horror and romance challenge your expectations of the genre?
-
-#TheOrchidRoom #reverseharem #darkromance #orderoftheunseen #literaryanalysis

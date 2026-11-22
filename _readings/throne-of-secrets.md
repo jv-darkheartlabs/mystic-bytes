@@ -6,7 +6,7 @@ dek: "A sinful prince. A determined reporter. A dangerous rivalry."
 number: R560
 sort_key: 560
 date: 2026-03-02
-date_read: 2023-05-07
+date_read: 2024-05-07
 category: fantasy-romance
 cover: /assets/readings/throne-of-secrets.jpg
 spice: 3
@@ -49,5 +49,3 @@ The prose thrives in its vivid imagery, painting a world where every shadow conc
 - Can we sympathize with characters who prioritize ambition over loyalty? Why or why not?  
 - How does the dual POV affect your perception of trust and deception within the narrative?  
 - What elements of the fantasy-romance genre does *Throne of Secrets* subvert or conform to?
-
-#TheOrchidRoom #fantasyromance #darkromance #KerriManiscalco #ThroneofSecrets

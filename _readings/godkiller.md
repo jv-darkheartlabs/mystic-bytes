@@ -46,5 +46,3 @@ The interplay between love and violence is at the heart of *Godkiller*, provokin
 - Do you feel the ending was satisfactory, or did it leave unresolved tensions that undermine the character arcs?  
 - How can we reconcile the appeal of flawed characters who engage in morally ambiguous actions?  
 - What does the portrayal of divine beings in this narrative say about human nature and relationships?
-
-#TheOrchidRoom #fantasyromance #darkromance #Godkiller #literaryanalysis

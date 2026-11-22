@@ -52,5 +52,3 @@ The novel's grappling with obsession raises polarizing questions about the natur
 - In what ways does the narrative structure enhance or hinder our understanding of the protagonist's psyche?  
 - What role does setting play in amplifying the themes of control and vulnerability?  
 - How do we reconcile the darker aspects of romance depicted in the book with personal experiences of love?
-
-#TheOrchidRoom #DrivingMyObsession #DarkRomance #StalkerFiction #LiteraryAnalysis

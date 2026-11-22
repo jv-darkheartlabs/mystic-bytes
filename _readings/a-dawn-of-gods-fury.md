@@ -44,5 +44,3 @@ The book's exploration of the intersection between divine intervention and morta
 - Do you feel the portrayal of violence enhances or detracts from the romantic elements?
 - What are your thoughts on the dual perspectives? Did they enrich your understanding of the characters or confuse it?
 - How does the ending align or conflict with the themes established throughout the book?
-
-#TheOrchidRoom #fantasyromance #darkromance #KATucker #A_Dawn_of_Gods_Fury

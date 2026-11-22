@@ -44,5 +44,3 @@ The juxtaposition of loyalty versus personal desire is a rich vein for explorati
 - Are the characters’ arcs sufficiently resolved, or do they leave too much to be desired?  
 - How does Lawhead’s treatment of fantasy violence reflect on the emotional stakes of the narrative?  
 - Does the lush prose elevate the romantic and gothic elements, or does it risk overshadowing the narrative drive?
-
-#TheOrchidRoom #hood #fantasyromance #darkromance #literaryanalysis

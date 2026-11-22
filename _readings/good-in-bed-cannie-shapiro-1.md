@@ -18,7 +18,6 @@ tags:
   - body-positive
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -41,5 +40,3 @@ The exploration of body image and romantic relationships can ignite passionate d
 - In what ways does the novel resonate with or diverge from typical dark-comedy tropes?  
 - How do the secondary characters support or detract from Cannie's personal growth?  
 - What unresolved questions about body positivity linger after turning the last page?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romantic-suspense #theorchidroom

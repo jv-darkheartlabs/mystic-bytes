@@ -20,7 +20,6 @@ tags:
   - existential
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Frost's interplay of beauty and despair provokes a myriad of interpretations, le
 - Does the simplicity of Frost's language serve to clarify or obscure the complexity of his themes?  
 - How does the natural landscape function as a character in Frost’s poetry?  
 - Can Frost’s exploration of choice be seen as a form of gothic despair?
-
-#TheOrchidRoom #gothic #horrorromance #poetry #existential

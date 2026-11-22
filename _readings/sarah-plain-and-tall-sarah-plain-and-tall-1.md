@@ -19,7 +19,6 @@ tags:
   - settling down
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The interplay of simplicity and depth in *Sarah, Plain and Tall* raises crucial 
 - Does the novella’s brevity enhance or undermine its emotional impact?  
 - How does MacLachlan's use of language contribute to the tension within the familial relationships?  
 - What does the ending suggest about the nature of love and commitment?
-
-#TheOrchidRoom #gothic #horrorromance #family #love

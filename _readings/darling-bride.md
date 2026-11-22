@@ -50,5 +50,3 @@ However, the novella isn’t without its flaws. At times, the pacing may feel ru
 - In what ways does the novella subvert or conform to typical dark romance tropes?  
 - How does the setting of Sovereign Mountain enhance the themes of isolation and entrapment?  
 - What unresolved tensions linger after the final pages, and how might they reflect broader societal attitudes toward arranged marriages?
-
-#TheOrchidRoom #arrangedmarriage #darkromance #mountainman #literaryanalysis

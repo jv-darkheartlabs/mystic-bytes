@@ -45,5 +45,3 @@ The prose is marked by a sharp, vivid style that evokes the brutality of the wor
 - In what ways does the novel challenge traditional gender roles within its dystopian setting?  
 - Are the stakes high enough to warrant the character decisions, or do they occasionally feel forced?  
 - How does the world-building affect our emotional connection to the characters and their plight?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #redrising

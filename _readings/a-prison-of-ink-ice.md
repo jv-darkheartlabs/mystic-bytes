@@ -45,5 +45,3 @@ The complexities of Kenney's narrative invite rich discussion, particularly arou
   - Can the moments of dialogue that feel forced be interpreted as a stylistic choice rather than a flaw?  
   - What does the ending suggest about the nature of love in oppressive circumstances?  
   - How does the world-building contribute to or detract from the characters' arcs?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

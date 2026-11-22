@@ -45,5 +45,3 @@ Faye’s narrative invites debate, particularly around the polarities of love ve
   - In what ways do the gothic elements serve to enhance or detract from the story's emotional core?  
   - Can the psychological intensity depicted in *Dollhouse* be reconciled with notions of romantic idealism, or does it fundamentally challenge them?  
   - What could have been explored further in the secondary characters to enrich the narrative?  
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #literaryanalysis

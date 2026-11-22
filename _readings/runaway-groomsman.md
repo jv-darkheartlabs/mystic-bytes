@@ -6,7 +6,7 @@ dek: "USA Today bestselling author"
 number: R1502
 sort_key: 1502
 date: 2026-06-13
-date_read: 2017-11-25
+date_read: 2022-11-25
 category: enemies-to-lovers
 cover: /assets/readings/runaway-groomsman.jpg
 spice: 3
@@ -44,5 +44,3 @@ The thematic exploration of love as a transformative force is poignant, though i
 - In what ways does the setting serve the narrative? Does it feel fresh or overdone?  
 - How critical is character development in supporting roles for your overall enjoyment of the story?  
 - What themes resonate most with you in enemies-to-lovers stories, and how effectively does Quinn address them?
-
-#TheOrchidRoom #enemiestolovers #darkromance #romcom #literaryanalysis

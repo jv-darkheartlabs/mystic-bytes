@@ -43,5 +43,3 @@ The polarizing elements of **A Photo Finish** lie in its portrayal of morality a
 - In what ways does the setting influence the narrative's emotional weight?  
 - Can the darker themes in the romance be reconciled with a redemptive arc, or do they overshadow the love story?  
 - How does the dual perspective impact your connection to the characters?  
-
-#TheOrchidRoom #cowboyromance #darkromance #darkcowboy #literaryanalysis

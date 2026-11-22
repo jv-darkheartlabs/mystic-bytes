@@ -45,5 +45,3 @@ Hobb's intricate emotional landscape and complex character arcs invite a multitu
 - Does the emotional weight of the narrative enhance or detract from your reading experience? 
 - How does Hobb’s treatment of legacy and sacrifice compare to other fantasy authors you've encountered? 
 - What unresolved themes linger with you after reading, and how do they affect your overall take on the story?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

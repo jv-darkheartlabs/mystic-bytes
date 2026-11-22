@@ -21,7 +21,6 @@ tags:
   - relationship dynamics
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The play's exploration of emotional abuse and manipulation invites polarized int
   - What role does alcohol play in the unraveling of truth within the narrative?  
   - Can the cyclical nature of their conflict be seen as a form of dark romanticism, or does it simply depict despair?  
   - What does the ending suggest about the potential for redemption in toxic relationships?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #psychological #relationship dynamics #TheOrchidRoom

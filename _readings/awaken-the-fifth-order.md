@@ -7,7 +7,7 @@ dek: "Book III of the Immortal Orders"
 number: R481
 sort_key: 481
 date: 2026-02-22
-date_read: 2016-07-13
+date_read: 2023-07-13
 category: fantasy-romance
 cover: /assets/readings/awaken-the-fifth-order.jpg
 spice: 4
@@ -47,5 +47,3 @@ This novel's blend of dark themes and romantic entanglements sets the stage for 
 - In what ways do the secondary characters contribute to, or detract from, the main themes?  
 - What are your thoughts on the moral implications of the ending?  
 - How does Waechter’s writing style influence your emotional engagement with the characters?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

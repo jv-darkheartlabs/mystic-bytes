@@ -19,7 +19,6 @@ tags:
   - feminism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Nin’s work invites polarizing discussions, particularly regarding the balance 
 - Do you find the blend of gothic and romantic elements successful in conveying the complexities of desire?  
 - What role does the setting play in shaping the mood and themes of Nin’s collection?  
 - Can the emotional intensity of Nin’s prose be both empowering and alienating for readers?  
-
-#TheOrchidRoom #gothic #horrorromance #literaryfiction #feminism

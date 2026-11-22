@@ -38,5 +38,3 @@ The duality of love—its capacity to uplift and ensnare—offers fertile ground
 - Do you feel the narrative's pacing aligns with its thematic exploration of desire, or does it undermine it?  
 - What implications does the ending hold for the characters’ future relationships?  
 - How does the novel reflect or complicate the notion of identity within romantic entanglements?  
-
-#TheOrchidRoom #ThreeHeartsHideaway #darkromance #reverseharem #literaryanalysis

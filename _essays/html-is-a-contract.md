@@ -26,7 +26,7 @@ This is not the essay about checklists versus posture. That one already exists. 
 
 ## Context
 
-mystic-bytes builds darkheartlabs.technology as HTML. Frontmatter and Markdown go through Jekyll; the artifact is tags. I write those layouts in Cursor on Fedora. If I let the model emit `<div onclick>` because React muscle memory is in the weights, I have broken the contract in the file that actually ships. Auckland 2026 does not give VoiceOver a CSS parser.
+mystic-bytes builds darkheartlabs.technology as HTML. Frontmatter and Markdown go through Jekyll; the artifact is tags. I write those layouts on Fedora. If I let the model emit `<div onclick>` because React muscle memory is in the weights, I have broken the contract in the file that actually ships.
 
 [accessibility-rails-components](https://github.com/jv-darkheartlabs/accessibility-rails-components) exists because Rails will generate a form that looks complete while the name, role, and value mapping are wrong. A `button` is a contract: focusable, activatable, named. A `div` with a click handler is a drawing of a button. I keep the library on native elements and Stimulus because that is how you keep the promise without a second, parallel DOM made of ARIA.
 
@@ -42,7 +42,7 @@ The accessibility tree is a mapping of that document, not a courtesy. Platform A
 
 Crawlers are a third party to the same contract. They read headings, landmarks, links, and `a href`, not your `data-analytics-id`. Semantic HTML is not an SEO trick layered on later. It is the same public language. mystic-bytes can afford this honesty because the site is documents. A writing page that is a pile of `div`s with `role="text"` is a document that refused to be one.
 
-Progressive enhancement is the contract under failure. HTML that works without the Stimulus controller is HTML that still means something when Cursor's JavaScript does not load. Enhance a `button`. Do not reconstruct one.
+Progressive enhancement is the contract under failure. HTML that works without the Stimulus controller is HTML that still means something when the model's JavaScript does not load. Enhance a `button`. Do not reconstruct one.
 
 Parsing is stricter than people think and sloppier than they want. You can omit tags the parser will insert. You cannot omit meaning. A `p` inside a `p` will be repaired. A clickable `div` will not become a button by empathy.
 

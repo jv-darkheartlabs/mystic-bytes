@@ -7,7 +7,7 @@ dek: "A Heart Hassle Novel"
 number: R808
 sort_key: 808
 date: 2026-03-30
-date_read: 2019-10-22
+date_read: 2022-10-22
 category: reverse-harem
 cover: /assets/readings/sheer-cupidity.jpg
 spice: 4
@@ -47,5 +47,3 @@ Raven Kennedy’s "Sheer Cupidity" invites a rich discussion around the intricat
 - Do you feel that the resolution of the protagonist's journey is earned, or does it simplify the complexities introduced earlier?  
 - How do the content warnings influence your perception of the narrative’s emotional depth?  
 - What does this novel suggest about the nature of love in a world where multiple partners are involved?  
-
-#TheOrchidRoom #reverseharem #darkromance #sheer #cupidity

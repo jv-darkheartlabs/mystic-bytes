@@ -49,5 +49,3 @@ The novel’s exploration of obsession versus love presents a fertile ground for
 - Can we truly empathize with characters who engage in possessive behavior, or does that complicate our understanding of love?  
 - What are the ethical boundaries in writing romance that explores themes of obsession and possessiveness?  
 - How did the ending shape your perception of the characters and their journey?
-
-#TheOrchidRoom #CarnivalStalker #DarkRomance #Obsession #LiteraryAnalysis

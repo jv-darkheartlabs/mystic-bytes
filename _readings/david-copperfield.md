@@ -19,7 +19,6 @@ tags:
   - literary-fiction
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Character development is another strong suit, particularly the relationships tha
 - In what ways do Copperfield's relationships challenge or reinforce Victorian norms?  
 - How does the narrative's focus on character development impact the overall message of the novel?  
 - What role do minor characters play in shaping Copperfield's journey, and do they overshadow his story?  
-
-#LiteraryAnalysis #darkthriller #coming-of-age #Victorian #theorchidroom

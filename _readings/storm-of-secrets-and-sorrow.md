@@ -6,7 +6,7 @@ dek: "The Legacy Series"
 number: R300
 sort_key: 300
 date: 2026-02-01
-date_read: 2015-06-10
+date_read: 2025-06-10
 category: vampire-paranormal
 cover: /assets/readings/storm-of-secrets-and-sorrow.jpg
 spice: 3
@@ -48,5 +48,3 @@ The emotional weight of **Storm of Secrets and Sorrow** invites rich discussion 
 - Do the gothic elements serve to deepen the narrative, or do they risk overshadowing character development?  
 - How does the author balance the line between emotional depth and genre expectations?  
 - What lingering questions does the ending leave you with, and how might they be addressed in potential sequels?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #gothic

@@ -6,7 +6,7 @@ dek: "It'll always be you. Only you."
 number: R1260
 sort_key: 1260
 date: 2026-05-17
-date_read: 2015-03-01
+date_read: 2022-03-01
 category: forbidden-love
 cover: /assets/readings/dark-desires.jpg
 spice: 4
@@ -47,5 +47,3 @@ The complexities of **Dark Desires** provide ample fodder for debate. Readers ma
 - Where does the line between passion and toxicity lie in this narrative?  
 - Do you feel the ending resolves the themes appropriately, or does it leave too many questions?  
 - What role does societal expectation play in shaping the characters’ desires and decisions?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #MollyDoyle

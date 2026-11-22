@@ -18,7 +18,6 @@ tags:
   - mouse protagonist
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -42,5 +41,3 @@ Characterization excels in Ralph's evolution from a naive mouse seeking adventur
 - In what ways do the anthropomorphic elements enhance or detract from the story’s thematic depth?  
 - Are the stakes in Ralph's adventures sufficient to engage older readers, or do they remain firmly within a children's narrative?  
 - How does the resolution shape our understanding of Ralph's character, and is it ultimately earned?  
-
-#LiteraryAnalysis #darkthriller #childrensliterature #adventure #theorchidroom

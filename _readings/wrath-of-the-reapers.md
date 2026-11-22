@@ -48,5 +48,3 @@ This novel invites a spectrum of reactions, particularly concerning the morality
 - Is the violence depicted in the narrative justified by the emotional stakes of the characters?  
 - How do Halliwell’s choices in prose and structure affect your engagement with the characters?  
 - What unresolved themes linger for you after reading, and how do they impact your overall interpretation of the book?
-
-#TheOrchidRoom #reverseharem #darkromance #lovesickvillains #JessaHalliwell

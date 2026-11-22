@@ -48,5 +48,3 @@ In a book where passion collides with the harsh realities of gender discriminati
 - How do you perceive the intersection of romance and professional ambition in the narrative?  
 - In what ways does Blake challenge or conform to genre conventions?  
 - What are the implications of the unresolved elements in the story, and do they improve or weaken the narrative experience?  
-
-#TheOrchidRoom #fantasyromance #darkromance #historical #literaryanalysis

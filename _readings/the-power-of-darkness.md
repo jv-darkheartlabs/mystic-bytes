@@ -51,5 +51,3 @@ Amore’s blend of gothic elements with romantic obsession can polarize readers,
 - Do you find the dual perspectives enhance or detract from the emotional weight of the story?  
 - In what ways does the snake imagery serve to deepen the themes of danger and desire?  
 - Is the ending of the novel satisfying, or does it leave too much unresolved?  
-
-#TheOrchidRoom #gothic #horrorromance #brokenhearted #darkheartlabs

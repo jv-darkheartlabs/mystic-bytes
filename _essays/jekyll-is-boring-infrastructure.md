@@ -25,11 +25,11 @@ This is not a tour of the publishing pipeline. Canonical URLs, media collections
 
 ## Context
 
-mystic-bytes is a Jekyll app. Essays live in `_essays/`. Journal and other collections sit beside them. Frontmatter is YAML. The layout is HTML with Liquid. I write in Cursor on Fedora; GitHub Actions and Pages do the rest. When the build is green, files exist. When it is red, I broke a layout or a piece of frontmatter. There is no application server to pet.
+mystic-bytes is a Jekyll app. Essays live in `_essays/`. Journal and other collections sit beside them. Frontmatter is YAML. The layout is HTML with Liquid. I write on Fedora; GitHub Actions and Pages do the rest. When the build is green, files exist. When it is red, I broke a layout or a piece of frontmatter. There is no application server to pet.
 
 I have been offered migrations the way people are offered religions. Next.js. A headless CMS. A database for posts. Each one is a real product. Each one would make the writing site more interesting than the writing. I already have enough interesting problems: voice, accessibility, whether a pillar is actually 800 words. I do not need a hydration strategy for a paragraph.
 
-Auckland 2026 is a laptop problem, not a platform problem. Clone the repo, `bundle exec jekyll serve`, keep going. Boring is portable.
+Louisiana 2026 is a laptop problem, not a platform problem. Clone the repo, `bundle exec jekyll serve`, keep going. Boring is portable.
 
 ## Mechanism
 

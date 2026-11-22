@@ -49,5 +49,3 @@ Polarities abound in *Reign of Shadows*, with the tension between light and dark
 - Can we reconcile the themes of power and sacrifice with the typical tropes of YA romance, or do they inherently clash?  
 - What are the implications of the unresolved aspects of the ending for the characters' future journeys?  
 - How does Jordan's depiction of teenage characters in a world of violence shape your perception of their agency?  
-
-#TheOrchidRoom #fantasyromance #darkromance #shadows #literaryanalysis

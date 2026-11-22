@@ -47,5 +47,3 @@ Hobb’s intricate character studies provoke varied interpretations, particularl
 - Can Fitz’s self-sacrifice be justified, or does it betray his character development?  
 - What role does the *Skill* magic play in shaping interpersonal dynamics — is it a gift or a curse?  
 - How does Hobb’s use of pacing affect your emotional engagement with the characters?
-
-#TheOrchidRoom #fantasyromance #darkromance #golden #fool

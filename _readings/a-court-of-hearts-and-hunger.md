@@ -6,7 +6,7 @@ dek: "A Wonderland Retelling"
 number: R542
 sort_key: 542
 date: 2026-02-28
-date_read: 2017-05-07
+date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/a-court-of-hearts-and-hunger.jpg
 spice: 4
@@ -47,5 +47,3 @@ The interplay of desire and danger in "A Court of Hearts and Hunger" invites ric
 - What role does the setting play in shaping the characters' motivations and desires?  
 - How does Kenney’s prose style enhance or detract from the themes of the story?  
 - What unresolved questions linger for you after the conclusion of the novel?  
-
-#TheOrchidRoom #fantasyromance #darkromance #wonderlandretelling #literaryanalysis

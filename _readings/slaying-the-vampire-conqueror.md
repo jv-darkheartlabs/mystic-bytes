@@ -7,7 +7,7 @@ dek: "Mortal enemies to monster lovers"
 number: R1326
 sort_key: 1326
 date: 2026-05-24
-date_read: 2021-06-10
+date_read: 2025-06-10
 category: vampire-paranormal
 cover: /assets/readings/slaying-the-vampire-conqueror.jpg
 spice: 4
@@ -48,5 +48,3 @@ The interplay of power and desire within Broadbent's narrative creates a fertile
 - In what ways does the dual perspective enrich or complicate your understanding of the characters?  
 - How does the novel’s conclusion shape your view of the protagonists’ transformation?  
 - Is the tension between power and desire realistically portrayed, or does it veer into fantasy?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

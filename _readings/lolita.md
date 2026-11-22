@@ -23,7 +23,6 @@ tags:
   - literary fiction
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Nabokov's *Lolita* is rife with polarizing elements that can ignite fervent deba
 - Can we separate the art from the artist in the context of this work? How does Nabokov's personal life influence your reading?  
 - What is the role of language in shaping our perception of Humbert as a character?  
 - How does the ending resonate with your understanding of consequences for Humbert's actions?
-
-#TheOrchidRoom #forbiddenlove #darkromance #classic #psychological

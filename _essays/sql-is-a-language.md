@@ -17,7 +17,7 @@ brief:
 
 I already wrote the other SQL essay: the one where the ORM is a translator and the database is the honest interface. This is not that. This is the language. `SELECT` is a sentence that defines a relation. The planner is allowed to rearrange the furniture. If you wanted to dictate the scan, you wanted a procedural language and a loop.
 
-Cursor will emit Active Record until the query is a novella. The novella still compiles to SQL. Learn the compilation target as syntax, not as a vibe that "looks dated."
+The model will emit Active Record until the query is a novella. The novella still compiles to SQL. Learn the compilation target as syntax, not as a vibe that "looks dated."
 
 ## Thesis
 
@@ -29,7 +29,7 @@ Nightbind keeps operational truth in Postgres. Rails apps I touch, including the
 
 The bug that taught me the language was not N+1. It was `WHERE status = 'active'` missing rows whose `status` was NULL. I "fixed" it in Cursor with `status != 'archived'`. Same hole. SQL's `=` and `<>` do not do what Ruby's `==` does with `nil`. Unknown is a third truth value. The query was correct. My model of the language was a two-valued fantasy.
 
-Auckland 2026 does not change three-valued logic. Fedora's `psql` and the hosted instance agree on NULL. The dialect differences start after that.
+Fedora's `psql` and the hosted instance agree on NULL. The dialect differences start after that.
 
 They treat SQL as a report writer you outgrow, or as a leak from the ORM you patch with another include. Both stances skip the grammar: projection, restriction, join, grouping, the fact that a query returns a table you can query again.
 
@@ -47,7 +47,7 @@ CTEs and subqueries are nested sentences. Older Postgres treated a CTE as an opt
 
 ## Tradeoffs
 
-**Standard SQL vs dialect.** Portable SQL is a subset. `RETURNING`, `JSONB` operators, `DISTINCT ON` are Postgres. I write for the engine I run. I do not pretend it is 9075-pure. I do name the extension when Cursor invents a function from another vendor.
+**Standard SQL vs dialect.** Portable SQL is a subset. `RETURNING`, `JSONB` operators, `DISTINCT ON` are Postgres. I write for the engine I run. I do not pretend it is 9075-pure. I do name the extension when the model invents a function from another vendor.
 
 **Declarative query vs application loop.** Pulling rows and filtering in Ruby is how you hide a tablescan in a profiler that only sees HTTP. If the result is a set, write the set.
 

@@ -51,5 +51,3 @@ However, the narrative does stumble in moments where the pacing feels unnecessar
 - Can love that is rooted in revenge ever be redeemed, or is it inherently doomed?  
 - How does the novel’s treatment of psychological themes resonate with or challenge your own experiences of love?  
 - What elements of the characters' motivations did you find most compelling or troubling?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #romanticsuspense #literaryanalysis

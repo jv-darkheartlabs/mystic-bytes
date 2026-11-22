@@ -7,7 +7,7 @@ dek: "A Satirical Novella"
 number: R389
 sort_key: 389
 date: 2026-02-11
-date_read: 2014-05-07
+date_read: 2024-05-07
 category: mystery-crime
 cover: /assets/readings/the-widows-husbands-secret-lie.jpg
 content_warnings:
@@ -46,4 +46,3 @@ McFadden's novella invites a host of polarizing discussions, particularly around
 - Can satire truly convey the complexities of human emotion, or does it risk trivializing the serious issues?  
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #darkthriller #romanticsuspense #satire

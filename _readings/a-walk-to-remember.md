@@ -22,7 +22,6 @@ tags:
   - faith
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The heart of *A Walk to Remember* lies in its ability to provoke reflections on 
 - In what ways does Sparks balance the themes of young love with the gravity of terminal illness?  
 - Is the sentimentality a flaw or a necessary embrace of the emotional landscape of the story?  
 - How does the book compare to other forbidden love stories you’ve encountered?
-
-#TheOrchidRoom #forbiddenlove #darkromance #redemption #younglove

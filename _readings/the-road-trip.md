@@ -6,7 +6,7 @@ dek: "One car. Five people. A whole lot of history."
 number: R903
 sort_key: 903
 date: 2026-04-09
-date_read: 2018-06-10
+date_read: 2021-06-10
 category: enemies-to-lovers
 cover: /assets/readings/the-road-trip.jpg
 spice: 3
@@ -42,5 +42,3 @@ The interplay of love and animosity in O'Leary's work invites room for rich disc
 - Are there moments in the novel where humor undermines the seriousness of the characters' experiences?  
 - How do the characters' individual journeys contribute to the ultimate resolution of their relationship?  
 - What does O'Leary suggest about the nature of forgiveness and moving forward in relationships?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

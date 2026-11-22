@@ -18,7 +18,6 @@ tags:
   - family dynamics
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ This narrative invites a range of reactions, particularly regarding the portraya
 - Does the ending provide a satisfactory resolution, or does it leave too many threads untied?  
 - How effectively does the narrative balance the innocence of childhood with the darker aspects of familial love?  
 - What role does humor play in navigating the deeper themes of the book?  
-
-#TheOrchidRoom #gothic #horrorromance #childrensliterature #siblingrelationship

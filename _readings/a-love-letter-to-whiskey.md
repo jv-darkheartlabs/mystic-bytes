@@ -43,5 +43,3 @@ Steiner's exploration of desire set against the backdrop of addiction presents p
 - In what ways does the first-person perspective enhance or hinder your connection to the characters?  
 - Can love exist healthily within the confines of addiction, or is the narrative ultimately cautionary?  
 - How do you interpret the symbolism of whiskey throughout the novel?
-
-#TheOrchidRoom #forbiddenlove #darkromance #angst #literaryanalysis #darkheartlabs

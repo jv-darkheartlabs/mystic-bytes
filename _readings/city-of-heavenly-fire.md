@@ -51,5 +51,3 @@ This book, like the series it concludes, elicits passionate reactions, particula
 - Is the resolution of key character arcs satisfying, or does it leave unresolved threads that challenge the narrative's integrity?  
 - How does *City of Heavenly Fire* compare to other fantasy romances in its treatment of sacrifice and redemption?  
 - What role does the concept of war play in shaping the characters’ identities and relationships throughout the novel?  
-
-#TheOrchidRoom #fantasyromance #shadowhunters #darkromance #literaryanalysis

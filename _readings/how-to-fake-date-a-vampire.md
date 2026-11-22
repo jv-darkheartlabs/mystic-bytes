@@ -6,7 +6,7 @@ dek: ""
 number: R1080
 sort_key: 1080
 date: 2026-04-28
-date_read: 2015-03-01
+date_read: 2023-03-01
 category: vampire-paranormal
 cover: /assets/readings/how-to-fake-date-a-vampire.jpg
 spice: 3
@@ -44,5 +44,3 @@ The interplay of humor and horror in **How to Fake Date a Vampire** opens avenue
 - Can the ending be viewed as a triumph of authenticity, or does it succumb to genre clichés?  
 - How do the content warnings shape your reading experience, particularly in balancing lighthearted romance with supernatural horror?  
 - What does this novel suggest about the masks we wear in our own relationships?  
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis #darkheartlabs

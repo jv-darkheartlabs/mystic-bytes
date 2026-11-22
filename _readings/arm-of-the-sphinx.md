@@ -47,5 +47,3 @@ The tensions in "Arm of the Sphinx" create fertile ground for discussion, partic
 - Is the ambiguous ending a triumph of literary depth or an unsatisfying narrative choice?  
 - How effectively does the novel explore the theme of identity in a fantastical setting?  
 - Does the nonlinear structure serve the emotional narrative or create unnecessary complexity?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

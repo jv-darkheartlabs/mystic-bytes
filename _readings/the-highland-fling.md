@@ -42,5 +42,3 @@ The dynamic interplay of humor and tension in *The Highland Fling* presents ripe
 - How does the Scottish setting influence the characters’ journey and the story's emotional depth?  
 - What role does humor play in shaping the narrative's darker themes?  
 - Can the enemies-to-lovers trope effectively explore deeper emotional truths, or is it bound to superficiality?
-
-#TheOrchidRoom #enemiestolovers #darkromance #Scotland #literaryanalysis

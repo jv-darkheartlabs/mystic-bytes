@@ -48,5 +48,3 @@ The novel's exploration of power dynamics and forbidden attraction presents a fe
 - Can love that defies societal norms ever be justified, or does it inherently lead to harm?  
 - How does the novel’s resolution challenge traditional romantic tropes?  
 - What gaps remain in Greene’s exploration of these themes, and do they affect our overall understanding of the narrative?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #unexpectedhearts #literaryanalysis

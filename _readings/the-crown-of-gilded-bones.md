@@ -7,7 +7,7 @@ dek: ""
 number: R1168
 sort_key: 1168
 date: 2026-05-08
-date_read: 2019-10-22
+date_read: 2020-10-22
 category: fantasy-romance
 cover: /assets/readings/the-crown-of-gilded-bones.jpg
 spice: 4
@@ -49,5 +49,3 @@ This novel elicits diverse reactions, particularly around the themes of power dy
 - In what ways does the exploration of betrayal elevate the narrative?  
 - How does the setting of a war-torn world impact the character relationships?  
 - What unresolved questions about the gods’ influence linger after the final pages?
-
-#TheOrchidRoom #fantasyromance #darkromance #BloodandAsh #literaryanalysis

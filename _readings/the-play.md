@@ -44,5 +44,3 @@ The interplay of rivalry and romance offers rich terrain for exploration, partic
 - Does the humor enhance or undermine the emotional stakes of the story?  
 - How effective is the resolution in conveying the growth of the characters?  
 - What do you think about the balance between light-heartedness and darker themes within the narrative?
-
-#TheOrchidRoom #enemiestolovers #darkromance #hockeyromance #literaryanalysis

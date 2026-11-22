@@ -6,7 +6,7 @@ dek: "The Immortal Orders — Book 1"
 number: R1444
 sort_key: 1444
 date: 2026-06-06
-date_read: 2019-07-13
+date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/dark-night-golden-dawn.jpg
 spice: 3
@@ -49,5 +49,3 @@ However, the pacing occasionally falters, particularly in the middle sections, w
 - What do you think the ouroboros symbolizes in relation to the characters' journeys?  
 - How does Waechter's character development compare to that of other fantasy-romance authors?  
 - In what ways do the content warnings shape your reading experience?
-
-#TheOrchidRoom #fantasyromance #darkromance #immortalorders #literaryanalysis

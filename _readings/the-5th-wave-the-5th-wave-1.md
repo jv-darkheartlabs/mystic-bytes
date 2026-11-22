@@ -6,7 +6,7 @@ dek: "The 5th Wave Series"
 number: R1655
 sort_key: 1655
 date: 2026-06-26
-date_read: 2010-11-25
+date_read: 2013-11-25
 category: ya-fiction
 cover: /assets/readings/the-5th-wave-the-5th-wave-1.jpg
 content_warnings:
@@ -22,7 +22,6 @@ tags:
   - young adult
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -51,4 +50,3 @@ Yancey’s work presents polarizing elements that could spark a lively discussio
 - How does the fragmented narrative structure impact your engagement with the characters and plot?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #dystopian #survival #theorchidroom #darkheartlabs

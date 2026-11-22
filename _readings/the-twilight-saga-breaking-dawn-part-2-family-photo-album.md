@@ -22,7 +22,6 @@ tags:
   - supernatural
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -51,5 +50,3 @@ The album offers a fertile ground for debate, particularly regarding the balance
 - What aspects of familial love and loyalty stand out most in the album?
 - How does the portrayal of supernatural elements influence our understanding of human relationships in this context?
 - Do you believe the emotional impact of the photographs could rival that of a traditional narrative?
-
-#TheOrchidRoom #vampire #darkromance #literaryanalysis #thetwilightsaga

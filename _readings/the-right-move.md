@@ -44,5 +44,3 @@ The interplay of rivalry and romance in **The Right Move** invites rich discussi
 - Do the characters’ resolutions feel earned, or do they succumb to genre clichés?  
 - How does Tomforde’s exploration of ambition shape our understanding of love?  
 - What does this book suggest about the nature of competition in relationships?
-
-#TheOrchidRoom #enemiestolovers #darkromance #basketballromance #literaryanalysis

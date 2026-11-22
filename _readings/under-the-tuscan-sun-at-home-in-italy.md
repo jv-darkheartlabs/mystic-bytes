@@ -20,7 +20,6 @@ tags:
   - food
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ This memoir raises intriguing questions about the nature of home and the sacrifi
 - Is the book's resolution satisfying, or does it gloss over the complexities of personal transformation?  
 - In what ways does this memoir challenge or reinforce the traditional tropes of travel literature?  
 - Can we genuinely capture the essence of a place without confronting our own emotional landscapes?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #darkheartlabs

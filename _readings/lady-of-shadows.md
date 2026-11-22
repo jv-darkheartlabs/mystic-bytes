@@ -48,5 +48,3 @@ This novel provokes a fascinating exploration of the motivations that drive its 
 - In what ways does Roehrich's exploration of dark magic reflect contemporary societal issues?  
 - Does the dual perspective enhance or hinder the story’s emotional impact?  
 - How does this book compare to other fantasy-romance titles you’ve read in terms of thematic depth?
-
-#TheOrchidRoom #fantasyromance #darkromance #ladyofdarkness #literaryanalysis

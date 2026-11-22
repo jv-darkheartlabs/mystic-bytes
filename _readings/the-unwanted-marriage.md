@@ -44,5 +44,3 @@ The novel invites a rich tapestry of discussion due to its polarizing themes and
 - How does the dual perspective enhance or detract from your understanding of the characters’ motivations?  
 - What role does grief play in shaping the dynamics of love in the narrative, and can it ever truly be reconciled in such relationships?  
 - In what ways do you think societal expectations influence the characters' actions and decisions?  
-
-#TheOrchidRoom #darkromance #arrangedmarriage #literaryanalysis #CatharinaMaura

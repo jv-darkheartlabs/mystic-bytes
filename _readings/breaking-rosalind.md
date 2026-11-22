@@ -6,7 +6,7 @@ dek: ""
 number: R1104
 sort_key: 1104
 date: 2026-05-01
-date_read: 2015-09-19
+date_read: 2024-09-19
 category: captor-and-captive
 cover: /assets/readings/breaking-rosalind.jpg
 spice: 5
@@ -46,5 +46,3 @@ Styx’s work challenges us to confront the uncomfortable allure of power dynami
   - Does the ending provide a sense of closure or provoke further discomfort regarding the characters' fates?  
   - How do the content warnings shape your reading experience, and do they enhance or detract from the story's emotional impact?  
   - What does this book suggest about the nature of agency within the constructs of captivity?
-
-#TheOrchidRoom #BreakingRosalind #darkromance #literaryanalysis #GigiStyx

@@ -44,5 +44,3 @@ The thematic exploration of love as an intoxicating, transformative force is exe
 - Does the dual perspective enhance or detract from the emotional impact of the story?  
 - Are there moments when the prose's richness becomes overwhelming, and if so, how does that affect the reading experience?  
 - What does the ending suggest about the nature of love entwined with danger?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

@@ -7,7 +7,7 @@ dek: "Death is not your end."
 number: R289
 sort_key: 289
 date: 2026-01-31
-date_read: 2016-04-04
+date_read: 2023-04-04
 category: vampire-paranormal
 cover: /assets/readings/the-coven.jpg
 spice: 4
@@ -49,5 +49,3 @@ The interplay of desire and danger in *The Coven* poses fascinating questions ab
 - In what ways does the portrayal of witches challenge or reinforce existing stereotypes within the genre?  
 - Is the ambiguity of the ending a strength or a flaw in the narrative?  
 - How does the book's use of violence shape our understanding of the characters' motivations?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #coven

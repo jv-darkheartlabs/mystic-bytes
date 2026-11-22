@@ -49,5 +49,3 @@ Characterization shines in Edwards' work; the protagonist is rendered with a com
 - What are the implications of using blindfold imagery in the context of submission and power?
 - Do you see the portrayal of obsession as a cautionary tale or a romantic ideal?
 - How does *Redbird* compare to other works within the captor-and-captive subgenre in terms of emotional depth?
-
-#TheOrchidRoom #Redbird #darkromance #gothic #literaryanalysis

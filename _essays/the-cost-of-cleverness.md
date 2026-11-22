@@ -21,7 +21,7 @@ brief:
 
 Nightbind had an auth middleware nobody wanted to touch. It worked. It also used three language features to say what a flat conditional would have said in five lines. When 403s spiked, the person on the hook — not the original author, who had already left — spent the first half hour reverse-engineering intent before finding a misconfigured header check. The bug was boring. The code was not. Ownership was ambiguous because *clever* had been mistaken for *encapsulated*.
 
-I have done the same damage to myself. `cover-preprocess.py` on mystic-bytes is a crop-and-trim script. Cursor will happily fold the background-detection into a one-liner that reads like a puzzle. At 2am on Fedora, with a batch of covers and an Auckland weekday coming, I do not want a puzzle. I want a named predicate I can print.
+I have done the same damage to myself. `cover-preprocess.py` on mystic-bytes is a crop-and-trim script. The model will happily fold the background-detection into a one-liner that reads like a puzzle. At 2am on Fedora, with a batch of covers and an Auckland weekday coming, I do not want a puzzle. I want a named predicate I can print.
 
 Kernighan's line still holds: debugging is twice as hard as writing the code; if you write it as cleverly as possible, you are not smart enough to debug it.[^1] The original author leaving is not a people failure. It is what happens when the only documentation for a critical path lives in one head and that person's stylistic choices.
 
@@ -39,7 +39,7 @@ Weinberg treated programs as social artifacts long before "code as communication
 
 We flattened Nightbind's middleware in one PR: name the header checks, delete the combinator nobody else used. Lines went up. Time to comprehension went down. The next 403 was a five-minute read. On accessibility-rails-components I keep the same rule in Ruby. A focus trap written as a clever DSL is a trap for the next maintainer too. WCAG behavior stays in Ruby a tired reader can follow.
 
-Cursor biases the other way. Completions love density. Density is not kindness. I accept the suggestion when I can still narrate the branch. I reject it when I would need the language spec.
+The model biases the other way. Completions love density. Density is not kindness. I accept the suggestion when I can still narrate the branch. I reject it when I would need the language spec.
 
 ## Tradeoffs
 

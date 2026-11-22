@@ -49,5 +49,3 @@ This novella's polarizing elements, particularly its treatment of consent and po
 - What does *Compulsion* reveal about the nature of desire in the context of power imbalance?  
 - How does Ellis’s approach to the omegaverse challenge or reinforce existing stereotypes within the genre?  
 - What does the ending suggest about the characters' journey toward mutual understanding and vulnerability?  
-
-#TheOrchidRoom #omegaverse #darkromance #fantasyromance #literaryanalysis

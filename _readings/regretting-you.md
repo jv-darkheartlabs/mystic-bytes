@@ -45,5 +45,3 @@ The interplay of grief and desire raises polarizing questions about moral bounda
 - Do you think the resolution is earned, or does it leave certain emotional arcs unfulfilled?
 - How does Hoover's portrayal of forbidden love compare to other authors in the genre? Is it more relatable or problematic?
 - What are the implications of the mother-daughter relationship in the context of loss and desire?
-
-#TheOrchidRoom #forbiddenlove #darkromance #contemporaryromance #grief

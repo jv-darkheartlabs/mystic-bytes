@@ -23,7 +23,6 @@ tags:
   - nostalgia
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The lyrical quality of Eugenides’ writing invites admiration, yet the novel’
 - Can we separate the aesthetic beauty of the prose from the dark themes it grapples with?  
 - How does Eugenides’ portrayal of teenage angst resonate with contemporary issues of mental health?  
 - What role does nostalgia play in shaping our perception of the sisters' tragic end?  
-
-#TheOrchidRoom #gothic #horrorromance #coming-of-age #tragedy

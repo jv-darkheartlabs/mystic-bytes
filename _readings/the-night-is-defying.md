@@ -6,7 +6,7 @@ dek: "A Nyxirel Novel — Book II"
 number: R1457
 sort_key: 1457
 date: 2026-06-08
-date_read: 2020-11-25
+date_read: 2025-11-25
 category: fantasy-romance
 cover: /assets/readings/the-night-is-defying.jpg
 spice: 4
@@ -49,5 +49,3 @@ As readers navigate the complexities of *The Night is Defying*, certain polariti
 - Does the world-building enhance or detract from character development?  
 - Can the portrayal of dark magic be reconciled with romantic ideals, or does it create a dissonance?  
 - What elements of the narrative resonate with your own experiences of love and loss?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #nyxirel

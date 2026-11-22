@@ -7,7 +7,7 @@ dek: "Edge of Collapse Series — Book Three"
 number: R355
 sort_key: 355
 date: 2026-02-08
-date_read: 2010-07-13
+date_read: 2020-07-13
 category: sff
 cover: /assets/readings/edge-of-darkness.jpg
 content_warnings:
@@ -43,5 +43,3 @@ While *Edge of Darkness* masterfully captures the grit of survival, it raises po
 - What are the implications of the characters' moral choices — do they redeem or condemn them?  
 - How effective is the non-linear structure in conveying emotional depth?  
 - In what ways does the setting function as a character in its own right?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

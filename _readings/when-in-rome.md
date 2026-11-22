@@ -6,7 +6,7 @@ dek: ""
 number: R854
 sort_key: 854
 date: 2026-04-04
-date_read: 2017-11-25
+date_read: 2022-11-25
 category: enemies-to-lovers
 cover: /assets/readings/when-in-rome.jpg
 spice: 3
@@ -42,5 +42,3 @@ The delicate balance between humor and emotional depth in "When in Rome" invites
 - Do you find the ending hopeful or overly idealistic?  
 - How does Adams’ approach to the enemies-to-lovers trope compare with other contemporary authors?  
 - What role does culinary art play in the development of the relationship, and how does it enhance the narrative?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #baking #literaryanalysis

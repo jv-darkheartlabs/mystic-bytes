@@ -6,7 +6,7 @@ dek: ""
 number: R895
 sort_key: 895
 date: 2026-04-08
-date_read: 2022-07-13
+date_read: 2025-07-13
 category: enemies-to-lovers
 cover: /assets/readings/the-charlie-method.jpg
 spice: 4
@@ -41,5 +41,3 @@ The interplay of desire and ethics in *The Charlie Method* will surely ignite de
   - Is the portrayal of consent adequately addressed in the context of their dynamic?
   - How does the setting of a university influence the characters' interactions and the story's overall tone?
   - Does the ending provide closure, or does it leave you questioning the morality of the relationship?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

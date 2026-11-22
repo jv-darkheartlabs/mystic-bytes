@@ -43,5 +43,3 @@ The interplay of power and vulnerability in *Powerless* presents a fertile groun
 - Are the moments of emotional intensity more compelling than the fantasy elements, and why?  
 - How does the dual perspective impact your understanding of each character's motivations?  
 - What aspects of the world-building did you find lacking, and how did that affect your connection to the story?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #powerless

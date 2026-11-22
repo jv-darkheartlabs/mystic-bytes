@@ -44,5 +44,3 @@ The thematic exploration of obsession is particularly compelling; it raises ques
 - Do you believe the ending provides closure, or does it evade accountability for the characters' actions?  
 - What are the implications of romanticizing obsession in literature?  
 - How does Godwin balance the fine line between desire and danger in her narrative?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

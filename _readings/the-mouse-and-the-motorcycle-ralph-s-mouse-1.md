@@ -18,7 +18,6 @@ tags:
   - friendship
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -42,5 +41,3 @@ Dialogue flows naturally, capturing the innocence and earnestness of childhood i
   - In what ways does the book reflect or challenge traditional gender roles, particularly in its portrayal of friendship?  
   - What are the implications of using animal characters to convey human emotions and experiences?  
   - How does the narrative structure impact the reader's connection to Ralph and his journey?
-
-#LiteraryAnalysis #darkthriller #childrensliterature #friendship #theorchidroom

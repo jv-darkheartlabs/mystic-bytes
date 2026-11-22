@@ -51,5 +51,3 @@ Amore's novel deftly navigates the fine line between romance and horror, provoki
 - In what ways does the novel challenge or reinforce gothic romance conventions?  
 - How effective is the use of symbolism (like snake imagery) in conveying deeper themes?  
 - What unresolved questions linger after reaching the conclusion of the book?
-
-#TheOrchidRoom #gothic #horrorromance #death #darkromance

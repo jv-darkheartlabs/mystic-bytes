@@ -21,7 +21,6 @@ tags:
   - fae
   - forest
   - mystery
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -48,5 +47,3 @@ However, the book is not without its mechanical flaws; certain plot points feel 
 - In what ways does the dual POV technique enrich or complicate the narrative?  
 - Does the resolution of the central conflict provide a satisfying payoff for the emotional investment?  
 - How does the balance of romance and fantasy compare to other works in the genre, and what does it say about reader expectations?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #fae

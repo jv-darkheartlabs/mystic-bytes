@@ -42,5 +42,3 @@ The nuances of this novel create a fertile ground for discussion, particularly r
 - How does Doyle's exploration of darker themes influence your perception of the characters' relationship?  
 - What are the implications of leaving the ending somewhat unresolved?  
 - In what ways does this novel challenge or affirm your views on the enemies-to-lovers trope?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

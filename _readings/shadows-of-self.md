@@ -47,5 +47,3 @@ However, the novel is not without its flaws. At times, the intricate plotting ri
 - Are the emotional stakes of the characters compelling enough to overshadow the intricate plotting?  
 - How does the dual perspective influence your understanding of the characters' motivations?  
 - What does the ending suggest about the nature of power and its relationship with love?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

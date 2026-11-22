@@ -7,7 +7,7 @@ dek: "The truth doesn't set you free"
 number: R1117
 sort_key: 1117
 date: 2026-05-02
-date_read: 2016-04-04
+date_read: 2020-04-04
 category: enemies-to-lovers
 cover: /assets/readings/all-the-truths.jpg
 spice: 4
@@ -48,5 +48,3 @@ The book invites a rich conversation about the nature of love when intertwined w
 - Is the conclusion satisfying given the narrative’s buildup, or does it leave too much unresolved?  
 - How does the exploration of power dynamics reflect larger societal themes, and do you find it to be a critique or a glorification of such relationships?  
 - What role does deception play in shaping the characters’ identities and their evolving relationship?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #rina kent #truthduet

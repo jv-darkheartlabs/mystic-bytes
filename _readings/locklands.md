@@ -7,7 +7,7 @@ dek: "Foundryside Book Three"
 number: R506
 sort_key: 506
 date: 2026-02-24
-date_read: 2017-05-07
+date_read: 2022-05-07
 category: fantasy-romance
 cover: /assets/readings/locklands.jpg
 spice: 3
@@ -46,5 +46,3 @@ The thematic exploration of love, sacrifice, and the consequences of power is pr
 - Can the tension between power and vulnerability be reconciled within the story, or does it leave readers in a state of unresolved conflict?  
 - How does the multi-POV structure enhance or detract from the emotional resonance of key moments?  
 - What unresolved questions does the ending leave you with about the characters' fates and choices?
-
-#TheOrchidRoom #locklands #fantasyromance #darkromance #literaryanalysis

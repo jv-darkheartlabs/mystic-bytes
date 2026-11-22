@@ -45,5 +45,3 @@ The novel’s merging of AI with traditional romantic tropes creates polarizing 
 - In what ways does the book challenge or reinforce traditional romantic tropes?  
 - How does the exploration of existential dread resonate with contemporary societal anxieties?  
 - What do you believe is the ultimate message regarding love and morality in a technologically advanced society?  
-
-#TheOrchidRoom #moralcode #darkromance #fantasyromance #literaryanalysis

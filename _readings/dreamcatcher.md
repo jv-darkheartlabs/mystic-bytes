@@ -23,7 +23,6 @@ tags:
   - aliens
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The complex layers of "Dreamcatcher" invite a wide array of interpretations, yet
 - In what ways does the novel's portrayal of mental illness shape your understanding of the characters?  
 - Is the graphic violence necessary for the story, or does it overshadow the underlying themes?  
 - How does the resolution impact your overall perception of the narrative's stakes?
-
-#LiteraryAnalysis #darkthriller #romanticsuspense #paranormal #theorchidroom

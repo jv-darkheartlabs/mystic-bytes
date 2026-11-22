@@ -7,7 +7,7 @@ dek: ""
 number: R313
 sort_key: 313
 date: 2026-02-03
-date_read: 2016-10-22
+date_read: 2023-10-22
 category: arranged-marriage
 cover: /assets/readings/the-temporary-wife.jpg
 spice: 3
@@ -45,5 +45,3 @@ The interplay of duty and desire invites rich discussion, particularly about how
 - Do you find the ending satisfying, or does it feel like a concession to genre expectations?  
 - What role does vulnerability play in the characters' development, and how effectively is it portrayed?  
 - How does the author's portrayal of wealth influence the characters' decisions and desires?  
-
-#TheOrchidRoom #arrangedmarriage #darkromance #billionaireromance #literaryanalysis

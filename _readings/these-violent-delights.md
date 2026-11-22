@@ -49,5 +49,3 @@ The interplay between love and violence serves as a rich foundation for discussi
 - In what ways does the dual perspective shape your understanding of love and loyalty?  
 - Is the ending a true reflection of the characters’ journeys, or does it feel like a concession to genre expectations?  
 - How does this retelling compare to its source material in terms of thematic depth and character development?  
-
-#TheOrchidRoom #TheseViolentDelights #ChloeGong #fantasyromance #darkromance

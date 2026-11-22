@@ -6,7 +6,7 @@ dek: ""
 number: R842
 sort_key: 842
 date: 2026-04-02
-date_read: 2007-08-16
+date_read: 2024-08-16
 category: romantic-suspense
 cover: /assets/readings/us-dark-few.jpg
 spice: 4

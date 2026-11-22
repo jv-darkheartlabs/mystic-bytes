@@ -46,5 +46,3 @@ The interplay of loyalty and betrayal in *City of Ashes* raises questions about 
   - How does Clare's treatment of supernatural elements contribute to the larger themes of identity?  
   - Do you find the romantic entanglements enriching or distracting from the central conflict?  
   - In what ways does the duality of light and dark manifest in character arcs, and is it effectively resolved?
-
-#TheOrchidRoom #fantasyromance #romantasy #urbanfantasy #shadowhunters

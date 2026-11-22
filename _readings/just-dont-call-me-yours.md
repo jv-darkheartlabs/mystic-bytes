@@ -40,5 +40,3 @@ The novel's exploration of power dynamics and personal identity raises several p
 - In what ways do the secondary characters enhance or detract from the main narrative?
 - Do you find the ending fulfilling, or does it leave too many questions unanswered?
 - How does the dual POV impact your emotional engagement with the protagonists?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

@@ -7,7 +7,7 @@ dek: ""
 number: R608
 sort_key: 608
 date: 2026-03-08
-date_read: 2023-08-16
+date_read: 2024-08-16
 category: fantasy-romance
 cover: /assets/readings/bridesmaid-undercover.jpg
 spice: 3
@@ -44,5 +44,3 @@ The interplay of humor and stakes in *Bridesmaid Undercover* creates polarizing 
 - What does the undercover motif suggest about identity and authenticity in romance?  
 - How does this book compare to other fantasy romances you’ve read in terms of emotional depth and character development?  
 - Could the pacing issues detract from the overall experience, or do they add to the whimsical nature of the plot?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #wedding

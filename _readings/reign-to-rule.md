@@ -50,5 +50,3 @@ The novel navigates polarizing themes of consent and power, sparking debates aro
 - In what ways does the book challenge or reinforce traditional gender roles?  
 - What impact does the nonlinear structure have on our emotional engagement with the characters?  
 - How do you interpret the unresolved elements at the story's conclusion — liberating or frustrating?  
-
-#TheOrchidRoom #ReignToRule #darkromance #omegaverse #literaryanalysis

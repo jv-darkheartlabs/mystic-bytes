@@ -49,5 +49,3 @@ The complexities of toxic love in *Royal Elite Epilogue* will undoubtedly stir d
 - In what ways does Kent's writing style enhance or detract from the themes of the narrative?  
 - Can we separate the allure of dark romance from the realities of unhealthy relationships, and should we?  
 - What responsibilities do authors of dark romance have in depicting themes of obsession and control?  
-
-#TheOrchidRoom #bullyromance #darkromance #royalelite #literaryanalysis

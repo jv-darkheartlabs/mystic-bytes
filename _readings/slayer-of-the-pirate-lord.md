@@ -46,5 +46,3 @@ The interplay of desire and moral complexity in *Slayer of the Pirate Lord* invi
 - How do you feel about the pacing in the second act? Did it add to the tension or detract from the narrative drive?
 - What are your thoughts on the moral ambiguity of the characters? Do they resonate with your own views on love and loyalty?
 - How does the book redefine or reaffirm typical fantasy-romance tropes? 
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

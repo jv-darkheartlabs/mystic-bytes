@@ -7,7 +7,7 @@ dek: "The Edens"
 number: R1346
 sort_key: 1346
 date: 2026-05-26
-date_read: 2011-08-16
+date_read: 2023-08-16
 category: romantic-suspense
 cover: /assets/readings/crimson-river.jpg
 spice: 3
@@ -45,5 +45,3 @@ Characterization is a notable strength; the protagonist is both relatable and de
 - Are the character arcs satisfying, or do they feel incomplete by the book's conclusion?
 - How does Perry’s writing style compare to other authors in the dark-thriller genre?
 - What unresolved questions linger after the final page, and how do they affect your perception of the story?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

@@ -50,5 +50,3 @@ However, the book is not without its flaws. Some character arcs may come off as 
 - Are the characters' motivations believable and relatable, or do they fall into cliché?  
 - In what ways does the author challenge traditional notions of love and power?  
 - Is the ending satisfying, or does it leave too many questions unresolved?
-
-#TheOrchidRoom #BrutalDesire #darkromance #gothic #literaryanalysis

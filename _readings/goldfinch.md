@@ -7,7 +7,7 @@ dek: "The Plated Prisoner Series"
 number: R1212
 sort_key: 1212
 date: 2026-05-12
-date_read: 2015-09-19
+date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/goldfinch.jpg
 spice: 4
@@ -47,5 +47,3 @@ However, while the thematic exploration of trauma and captivity is compelling, t
 - Do you think the ending successfully honors the protagonist's journey, or does it undermine the themes established throughout?  
 - How does Kennedy’s use of language enhance or detract from the story's emotional impact?  
 - What role does the concept of personal autonomy play in the relationships depicted in the novel?
-
-#TheOrchidRoom #fantasyromance #darkromance #platedprisoner #gold

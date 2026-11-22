@@ -39,5 +39,3 @@ The interplay of conflict and attraction raises questions about the nature of lo
 - How do the characters’ past traumas inform their present relationships, and does Bailey handle these themes with nuance or cliché?  
 - In the context of the enemies-to-lovers trope, what risks does Bailey take that either elevate or undermine the narrative?  
 - Can humor coexist with darker themes in romance without diminishing the stakes? If so, how?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

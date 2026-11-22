@@ -49,5 +49,3 @@ Jensen's world-building is immersive, with intricately crafted settings that enh
 - In what ways does Jensen's depiction of betrayal enhance or undermine the romantic elements?  
 - Do you think the pacing ultimately serves or hinders the emotional payoff of the story?  
 - How does Jensen's writing style compare to other fantasy-romance authors you've read?  
-
-#TheOrchidRoom #fantasyromance #darkromance #politicalintrigue #TheTwistedThrone

@@ -47,5 +47,3 @@ Mix's exploration of obsession blurs the boundaries of love and manipulation, ig
 - In what ways does the setting enhance the romantic tension between the characters?  
 - Can the ending be viewed as a triumph or a tragedy? Why?  
 - How does Mix's work challenge or conform to typical tropes in fantasy-romance?
-
-#TheOrchidRoom #fantasyromance #darkromance #witch #romantasy

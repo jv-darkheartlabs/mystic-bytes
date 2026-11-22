@@ -6,7 +6,7 @@ dek: "Shadows & Crowns — Book One"
 number: R1455
 sort_key: 1455
 date: 2026-06-08
-date_read: 2018-09-19
+date_read: 2020-09-19
 category: fantasy-romance
 cover: /assets/readings/the-song-of-the-marked.jpg
 spice: 4
@@ -49,5 +49,3 @@ This novel's interplay of dark magic, romance, and identity raises compelling qu
 - Do you find the dual narrative structure enhances or detracts from the emotional impact of the story?  
 - How effectively does the setting function as a character within the narrative?  
 - Is the resolution of the protagonist's journey satisfying, or does it leave you craving more clarity?
-
-#TheOrchidRoom #fantasyromance #darkromance #shadowsandcrowns #marked

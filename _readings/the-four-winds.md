@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R406
 sort_key: 406
 date: 2026-02-13
-date_read: 2011-04-04
+date_read: 2021-04-04
 category: historical
 cover: /assets/readings/the-four-winds.jpg
 content_warnings:
@@ -47,5 +47,3 @@ Hannah’s *The Four Winds* raises several polarizing elements for debate: the b
 - In what ways does the narrative's resolution challenge or reinforce the idea of survival?
 - Can the emotional weight of the novel overshadow its technical flaws, or do those flaws diminish the overall impact?
 - What might have been gained or lost if the story had been told from a different perspective?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

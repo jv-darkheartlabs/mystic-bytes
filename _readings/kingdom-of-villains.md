@@ -46,5 +46,3 @@ However, the pacing occasionally falters; moments of intense emotional conflict 
 - In what ways does Fields challenge the traditional notions of heroism and villainy?  
 - How do the content warnings influence your reading experience and interpretation of the themes?  
 - What unresolved questions linger for you after the final chapter, particularly regarding the fate of the protagonists?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

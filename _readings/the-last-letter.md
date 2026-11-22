@@ -43,5 +43,3 @@ The interplay of love and death in *The Last Letter* presents a fertile ground f
 - Are there moments in the dialogue that felt out of place or cliché, and how did they affect your reading experience?  
 - How does Yarros balance the themes of love and loss without veering into melodrama?  
 - What unresolved questions linger after the conclusion, and how do they shape your understanding of the characters’ journeys?
-
-#TheOrchidRoom #militaryromance #darkromance #literaryanalysis #darkheartlabs

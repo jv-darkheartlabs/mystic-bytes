@@ -40,5 +40,3 @@ The exploration of forbidden love and its consequences invites heated debate, pa
 - Is the ending satisfactory, or does it undermine the emotional investment built throughout the novel?  
 - In what ways does Han challenge or reinforce stereotypes about young love in this narrative?  
 - How does the exploration of forbidden love resonate with contemporary societal norms and expectations?
-
-#TheOrchidRoom #forbiddenlove #darkromance #YA #literaryanalysis

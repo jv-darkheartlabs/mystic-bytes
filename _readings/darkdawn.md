@@ -46,5 +46,3 @@ The interplay of dark themes, emotional intensity, and violent stakes in **Darkd
 - What are the implications of Mia’s journey on the notion of agency within the genre?  
 - In what ways do the violent and sexual themes redefine traditional romance in fantasy?  
 - How does the ending resonate with your understanding of sacrifice in narratives?  
-
-#TheOrchidRoom #darkdawn #fantasyromance #romantasy #darkromance

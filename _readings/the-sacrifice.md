@@ -47,5 +47,3 @@ Tessier’s work is bound to stimulate rich debate among readers due to its pola
 - In what ways does the dual POV enhance or confuse the emotional stakes?  
 - Should love stories rooted in darkness always lead to redemption, or is tragedy a valid conclusion?  
 - What does *The Sacrifice* reveal about our societal fascination with dark romance and the allure of danger in love?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #revenge #gothic

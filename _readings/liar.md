@@ -49,5 +49,3 @@ The interplay of obsession and morality in *Liar* raises profound questions abou
 - Do you find the ending satisfying, or does it feel like a moral compromise?  
 - How do the themes in *Liar* compare to those in other dark romance novels?  
 - In what ways does the novel challenge or reinforce your views on the stalker-obsession trope?  
-
-#TheOrchidRoom #Liar #TateJames #darkromance #psychologicalthriller

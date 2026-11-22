@@ -20,7 +20,6 @@ tags:
   - social critique
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Wilde’s work polarizes readers in its blend of humor and critique, challenging
 - Is the resolution of the play satisfying, or does it undermine the serious themes addressed?  
 - How does Wilde’s wit influence your emotional engagement with the characters?  
 - What parallels can be drawn between the social norms of Wilde’s time and those of today?
-
-#TheOrchidRoom #gothic #satire #identity #socialcritique

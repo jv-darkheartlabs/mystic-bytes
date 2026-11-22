@@ -18,7 +18,6 @@ tags:
   - political commentary
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The tension between Swift's satirical genius and the accessibility of his themes
 - Can we separate Swift's personal biases from his broader critiques of society, or are they inextricably linked?  
 - Which of Gulliver’s experiences do you find most reflective of contemporary societal issues?  
 - Does the ending of the novel provide a hopeful resolution, or does it ultimately reinforce a sense of despair?  
-
-#LiteraryAnalysis #darkthriller #satire #politicalcommentary #theorchidroom

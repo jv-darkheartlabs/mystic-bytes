@@ -23,7 +23,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The polarities in *A Head Full of Ghosts* invite intense debate. Does the intert
 - Does the ending feel earned, or does it leave too many questions unanswered?  
 - How do you interpret the role of media representation within the story?  
 - What are the implications of framing trauma and horror in a familial context?
-
-#TheOrchidRoom #gothic #psychologicalhorror #familydynamics #darkheartlabs

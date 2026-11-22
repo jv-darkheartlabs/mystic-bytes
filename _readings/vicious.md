@@ -43,5 +43,3 @@ Schwab’s *Vicious* invites profound reflection on the nature of power and the 
 - Is the ending of *Vicious* satisfying or frustrating in its ambiguity?  
 - In what ways does this story reflect contemporary societal issues regarding power and ambition?  
 - How does Schwab's exploration of obsession compare with other gothic romances you've read?
-
-#TheOrchidRoom #vicious #gothic #horrorromance #literaryanalysis #darkheartlabs

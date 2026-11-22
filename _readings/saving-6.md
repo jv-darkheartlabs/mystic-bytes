@@ -7,7 +7,7 @@ dek: "Boys of Tommen #3"
 number: R317
 sort_key: 317
 date: 2026-02-03
-date_read: 2020-05-07
+date_read: 2023-05-07
 category: bully-romance
 cover: /assets/readings/saving-6.jpg
 spice: 4
@@ -47,5 +47,3 @@ The interplay of love and violence in *Saving 6* invites varied interpretations 
 - Do you see the dual perspective as enriching or complicating the narrative? 
 - How do you feel about the resolution — is it satisfying or rushed? 
 - In what ways do the characters' actions reflect broader societal issues concerning youth and violence?
-
-#TheOrchidRoom #bullyromance #darkromance #boys_of_tommen #literaryanalysis

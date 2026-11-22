@@ -7,7 +7,7 @@ dek: "The Edens"
 number: R375
 sort_key: 375
 date: 2026-02-10
-date_read: 2010-09-19
+date_read: 2021-09-19
 category: romantic-suspense
 cover: /assets/readings/indigo-ridge.jpg
 spice: 3
@@ -46,4 +46,3 @@ Thematically, *Indigo Ridge* excels in its portrayal of fragility amidst strengt
 - What lingering questions do you have about the characters’ futures beyond the page?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #TheOrchidRoom

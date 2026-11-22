@@ -45,5 +45,3 @@ The novella's exploration of power imbalance and the allure of toxicity invites 
 - In what ways do the characters' motivations reflect broader societal issues?  
 - What impact does the first-person narrative have on our perception of the characters?  
 - Is the novella's ending satisfying in the context of its genre, or does it leave too many threads unresolved?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #literaryanalysis

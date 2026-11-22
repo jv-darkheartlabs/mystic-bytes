@@ -19,7 +19,6 @@ tags:
   - human nature
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -42,5 +41,3 @@ Nietzsche’s work stands as a polarizing examination of morality and free will,
 - Can the absence of a traditional plot be justified in a philosophical text, or does it hinder engagement?  
 - How does Nietzsche's exploration of free will resonate in today's context of existential crises?  
 - What role does the concept of the 'free spirit' play in contemporary discourse on individuality?  
-
-#LiteraryAnalysis #darkthriller #philosophy #existentialism #theorchidroom

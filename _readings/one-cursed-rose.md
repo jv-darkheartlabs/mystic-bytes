@@ -7,7 +7,7 @@ dek: "New York Times Bestselling Author"
 number: R144
 sort_key: 144
 date: 2026-01-16
-date_read: 2015-03-01
+date_read: 2024-03-01
 category: forbidden-love
 cover: /assets/readings/one-cursed-rose.jpg
 spice: 4
@@ -42,5 +42,3 @@ Zanetti’s exploration of forbidden love raises compelling tensions that can di
 - How does the gothic atmosphere influence your perception of the characters’ choices?  
 - In what ways do you think the curses serve as metaphors for emotional obstacles?  
 - Are the character arcs satisfying, or do they leave unresolved tensions?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

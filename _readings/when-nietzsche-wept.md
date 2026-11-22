@@ -19,7 +19,6 @@ tags:
   - mental-health
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -40,5 +39,3 @@ The structure of *When Nietzsche Wept* cleverly weaves together alternating pers
 - Should literature offer resolution, or is the open-ended nature of this narrative a strength?
 - In what ways does Yalom’s background as a psychiatrist influence the portrayal of his characters’ psychological landscapes?  
 - What is the role of dialogue in shaping character depth, and does it serve the narrative or detract from it?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #philosophy #theorchidroom

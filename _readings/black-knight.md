@@ -6,7 +6,7 @@ dek: "Love is impossible. Hate is an open game. — Royal Elite Book 4"
 number: R025
 sort_key: 025
 date: 2026-01-04
-date_read: 2016-10-22
+date_read: 2020-10-22
 category: bully-romance
 cover: /assets/readings/black-knight.jpg
 spice: 4
@@ -47,5 +47,3 @@ The polarities in *Black Knight* are stark; some readers may revel in the intens
 - In what ways does the chess metaphor enrich the narrative, and does it succeed in heightening the stakes?  
 - How do the character arcs reflect or challenge the conventions of the bully romance genre?  
 - Is the ending of *Black Knight* earned, or does it suggest an unrealistic resolution to the characters' struggles?  
-
-#TheOrchidRoom #bullyromance #darkromance #royalelite #literaryanalysis

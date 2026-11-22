@@ -7,7 +7,7 @@ dek: ""
 number: R494
 sort_key: 494
 date: 2026-02-23
-date_read: 2017-11-25
+date_read: 2018-11-25
 category: fantasy-romance
 cover: /assets/readings/foundryside.jpg
 spice: 3
@@ -44,5 +44,3 @@ The interplay between technology and magic raises questions about morality and t
 - Can you identify specific moments where the pacing undermines character development?  
 - What thematic elements do you believe were left unresolved, and how do they affect your overall view of the narrative?  
 - How does the blending of romantic and fantastical elements enhance or detract from the story's core message?  
-
-#TheOrchidRoom #foundryside #fantasyromance #darkromance #literaryanalysis

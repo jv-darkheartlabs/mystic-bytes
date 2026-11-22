@@ -49,5 +49,3 @@ Renee's work invites contemplation on the nature of love when entangled with amb
 - Do the characters’ arcs align with traditional romantic tropes, or do they subvert them in meaningful ways?  
 - How does the snake imagery function as a commentary on the characters' relationships?  
 - What implications does the ending have for the way we view the protagonists’ journeys?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

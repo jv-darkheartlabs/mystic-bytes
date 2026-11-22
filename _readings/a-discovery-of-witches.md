@@ -41,5 +41,3 @@ Harkness's narrative is steeped in polarities that can invigorate discussion: th
 - Does the reliance on genre tropes enhance or detract from the story’s overall impact?
 - How does the treatment of blood and supernatural horror contribute to the themes of desire and power?
 - What does the resolution say about the nature of love in a world filled with both magical and mundane challenges?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

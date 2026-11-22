@@ -6,7 +6,7 @@ dek: ""
 number: R1024
 sort_key: 1024
 date: 2026-04-22
-date_read: 2019-10-22
+date_read: 2024-10-22
 category: forbidden-love
 cover: /assets/readings/would-you-rather.jpg
 spice: 3
@@ -41,5 +41,3 @@ The interplay of choice and consequence is a provocative theme in Alves' narrati
 - How do the protagonists’ flaws contribute to or detract from their chemistry?  
 - In what ways does the book challenge or adhere to traditional tropes of the forbidden love genre?  
 - How does the nonlinear structure affect your understanding of the characters’ motivations?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

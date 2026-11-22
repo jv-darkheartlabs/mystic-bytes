@@ -8,7 +8,7 @@ date: 2026-01-28
 cover: /assets/images/cover-code.svg
 type: pillar
 brief:
-  system: Fedora workstation running Jekyll, cover-preprocess, Cursor, and a browser
+  system: Fedora workstation running Jekyll, cover-preprocess, and a browser
   issue: a memory spike in preprocess starves the neighbor; no explicit limits
   constraint: no new hardware; negotiate fairness in software
 ---
@@ -19,11 +19,11 @@ brief:
 
 ## Context
 
-I do not run a fleet. I run Fedora. On a working afternoon the neighbors are Jekyll, `cover-preprocess.py`, Firefox, and Cursor. Finite RAM. A vision-adjacent crop batch spiked during a cover import; the Linux OOM killer picked a victim. Exit 137. Logs said nothing about fairness. They said something lost the fight for pages.
+I do not run a fleet. I run Fedora. On a working afternoon the neighbors are Jekyll, `cover-preprocess.py`, and Firefox. Finite RAM. A vision-adjacent crop batch spiked during a cover import; the Linux OOM killer picked a victim. Exit 137. Logs said nothing about fairness. They said something lost the fight for pages.
 
 Nobody had set a memory ceiling on the preprocess. I had trusted polite processes on a crowded laptop. The OS did what operating systems do: picked a victim when the treaty broke down. The political question — who may consume how much of the commons? — had never been answered in configuration, so the kernel answered with violence.
 
-GitHub Actions outsources a different constitution. `ubuntu-latest` has vendor-enforced caps. I do not write those cgroups. I live under them. Auckland 2026 does not add RAM to either machine. It adds a reason not to pretend OOM is weather.
+GitHub Actions outsources a different constitution. `ubuntu-latest` has vendor-enforced caps. I do not write those cgroups. I live under them. Louisiana 2026 does not add RAM to either machine. It adds a reason not to pretend OOM is weather.
 
 ## Mechanism
 
@@ -35,11 +35,11 @@ Docker on Linux is not magic isolation. Containers are processes with extra pape
 
 Userspace repeats the pattern. macOS privacy prompts — which app may use the camera — are capability politics in UI. Windows UAC is escalation policy. Mobile sandboxes are the strictest consumer treaties: apps do not share memory because the vendor decided inter-app trust is too expensive. I daily-drive Fedora. NeuroShell ships on macOS. None of that makes the politics optional. It changes which constitution you are reading.
 
-Security models are constitutions. Capability systems like seL4 ask what if nothing had authority unless explicitly granted.[^3] Unix asks what if root is god and everyone else negotiates. Your deployment picks a constitution and lives with its failure modes. Shared infrastructure without explicit limits is a bet that your neighbors stay polite forever. They will not. A cover batch does not know about your Cursor window.
+Security models are constitutions. Capability systems like seL4 ask what if nothing had authority unless explicitly granted.[^3] Unix asks what if root is god and everyone else negotiates. Your deployment picks a constitution and lives with its failure modes. Shared infrastructure without explicit limits is a bet that your neighbors stay polite forever. They will not. A cover batch does not know about your model's window.
 
 The preprocess fix took an afternoon once I stopped treating OOM as bad luck and started treating it as missing policy. The lesson generalizes past my laptop. The moment two workloads share a kernel, you are in politics. CI just hides the minutes behind a yellow check.
 
-I used to restart Firefox and call it operations. That is a folk treaty. It works until a batch and an editor start in the same five minutes because Cursor launched a helper and I forgot. Written limits survive that kind of forgetting. Folk treaties do not.
+I used to restart Firefox and call it operations. That is a folk treaty. It works until a batch and an editor start in the same five minutes because the model launched a helper and I forgot. Written limits survive that kind of forgetting. Folk treaties do not.
 
 ## Tradeoffs
 

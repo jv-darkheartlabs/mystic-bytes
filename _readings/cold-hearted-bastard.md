@@ -47,5 +47,3 @@ This novel ignites a spectrum of reactions, particularly regarding its portrayal
 - Does the romanticization of violent characters undermine the book's thematic depth?
 - How do we reconcile the innocent versus the corrupt in the context of love?
 - Is the resolution satisfying, or does it leave too many ethical questions unresolved?
-
-#TheOrchidRoom #mafiaromance #darkromance #ColdHeartedBastard #literaryanalysis

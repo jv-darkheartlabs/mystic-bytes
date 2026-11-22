@@ -49,5 +49,3 @@ Perry's narrative presents polarities that can ignite passionate discussions: th
 - Are the character arcs satisfying enough to justify the predictability of the resolution?  
 - Do you believe the dual POV structure enhances or complicates the narrative?  
 - How does Perry's use of death imagery shape your understanding of the characters' motivations?
-
-#TheOrchidRoom #mcromance #darkromance #FallenJester #TinGypsySeries

@@ -40,5 +40,3 @@ However, while the dialogue sparkles with verve, there are moments where the nar
 - In what ways does the book challenge or reinforce the enemies-to-lovers trope?  
 - How does Ferguson's use of humor affect the overall tone of the narrative?  
 - What themes of vulnerability and ambition resonate with you beyond the romantic context?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #romcom #literaryanalysis #darkheartlabs

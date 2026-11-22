@@ -49,4 +49,3 @@ This novel is a compelling exploration of the thin line between life and death, 
 - How does this trilogy as a whole compare to King's standalone works in terms of thematic depth?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #supernatural #StephenKing #TheOrchidRoom

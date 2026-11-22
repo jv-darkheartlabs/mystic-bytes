@@ -27,9 +27,9 @@ mystic-bytes does not live here. The writing site is Jekyll on GitHub Pages. I u
 
 Dark Heart Labs runs a self-hosted social scheduler on Railway so cross-posting does not require handing the calendar to a SaaS buffer. I am not walking through OAuth order again. The platform assumed I had read the rest: internal hostnames, volumes, sleep, and a meter on CPU, RAM, disk, and egress.
 
-Cursor will scaffold a Dockerfile and a `DATABASE_URL`. It will not tell you that public and private URLs disagree about who pays for packets, or that a worker that must never sleep cannot share a "serverless" toggle with staging you forgot.
+The model will scaffold a Dockerfile and a `DATABASE_URL`. It will not tell you that public and private URLs disagree about who pays for packets, or that a worker that must never sleep cannot share a "serverless" toggle with staging you forgot.
 
-They want Heroku nostalgia without reading what changed: usage pricing, a service canvas, defaults that are kind until they are expensive. Auckland 2026 does not change the invoice. It changes whether I am awake when a spend alert fires.
+They want Heroku nostalgia without reading what changed: usage pricing, a service canvas, defaults that are kind until they are expensive. Louisiana 2026 does not change the invoice. It changes whether I am awake when a spend alert fires.
 
 I do not run Kubernetes for this studio. Railway is someone else's orchestrator with a smaller language. The opinions are the language.
 

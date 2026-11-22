@@ -46,5 +46,3 @@ The novel's interplay of power, trauma, and romance invites a rich discourse on 
 - What does the portrayal of grief suggest about personal growth in the face of adversity?  
 - Where does the balance lie between dark themes and romantic escapism in bully romance?  
 - In what ways might the book's unresolved elements reflect the complexities of real-life relationships?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #sorrowandstarlight

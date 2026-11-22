@@ -46,5 +46,3 @@ The thematic exploration of desire — specifically, the desire for wealth and r
 - In what ways does the lunar setting enhance or detract from the themes of crime and desire?  
 - Are there ethical limits to ambition, as portrayed in the novel, and how do they resonate with contemporary issues?  
 - How does Weir's writing style contribute to or hinder the emotional weight of the narrative?  
-
-#TheOrchidRoom #fantasyromance #darkromance #sci-fi #heist

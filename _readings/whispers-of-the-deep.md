@@ -6,7 +6,7 @@ dek: ""
 number: R540
 sort_key: 540
 date: 2026-02-28
-date_read: 2015-03-01
+date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/whispers-of-the-deep.jpg
 spice: 4
@@ -49,5 +49,3 @@ The novel's exploration of captivity and consent, set against an enchanting yet 
 - Does the underwater setting enhance or detract from the emotional stakes of the characters?  
 - How do you interpret the ending in terms of character development and thematic resolution?  
 - What does the novel suggest about the nature of desire in contexts of power imbalance?  
-
-#TheOrchidRoom #fantasyromance #darkromance #monsterromance #literaryanalysis

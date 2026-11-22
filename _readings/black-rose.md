@@ -7,7 +7,7 @@ dek: "New York Times Bestselling Author"
 number: R145
 sort_key: 145
 date: 2026-01-16
-date_read: 2016-04-04
+date_read: 2023-04-04
 category: forbidden-love
 cover: /assets/readings/black-rose.jpg
 spice: 4
@@ -44,5 +44,3 @@ The thematic core of the novel, centered on obsession and the consequences of fo
 - Do you find the gothic elements contribute positively to the romance, or do they overshadow it?  
 - How effectively does the pacing impact your emotional engagement with the characters?  
 - What are your thoughts on the ending—was it earned or did it fall flat?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

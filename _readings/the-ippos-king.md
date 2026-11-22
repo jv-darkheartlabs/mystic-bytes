@@ -47,5 +47,3 @@ Structurally, the timeline oscillates between past and present, expertly weaving
 - Can the abruptness of the resolution be seen as a deliberate choice reflecting the characters' states of mind, or does it undermine the narrative?  
 - How does Draven's portrayal of grief shape our understanding of love in her fantasy world?  
 - What role does identity play in defining the characters’ connections to one another?
-
-#TheOrchidRoom #fantasyromance #darkromance #wraithkings #literaryanalysis

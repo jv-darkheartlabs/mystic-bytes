@@ -6,7 +6,7 @@ dek: "When opposites don't attract, can romance ever reign?"
 number: R872
 sort_key: 872
 date: 2026-04-06
-date_read: 2023-11-25
+date_read: 2024-11-25
 category: enemies-to-lovers
 cover: /assets/readings/love-at-first-knight.jpg
 spice: 3
@@ -38,5 +38,3 @@ The interplay of love and rivalry in *Love at First Knight* invites debate on th
 - How does humor play a role in softening the darker themes of the story?  
 - What is the significance of setting in their relationship dynamic?  
 - Does the book reinforce or subvert traditional romance narratives?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

@@ -46,5 +46,3 @@ The interplay of forbidden love amidst the shadows of war presents polarizing th
 - Do you find the ending to be a resolution, or does it leave too many questions unanswered about the characters’ futures?  
 - How effectively does Yarros balance the tension between longing and loss?  
 - What role does the historical context play in shaping the characters’ experiences of love and grief?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #dualtimeline #literaryanalysis

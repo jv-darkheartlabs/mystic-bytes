@@ -47,5 +47,3 @@ Kennedy's *The Deal* elicits strong reactions, particularly regarding its portra
 - In what ways does the ending reshape our understanding of the characters’ journeys?
 - Can a romance novel effectively address serious themes without compromising its core entertainment value?
 - What makes *The Deal* successful in drawing readers into its emotional landscape, and where does it risk alienating them?
-
-#TheOrchidRoom #enemiestolovers #darkromance #college romance #literaryanalysis

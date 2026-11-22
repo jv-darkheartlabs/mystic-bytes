@@ -6,7 +6,7 @@ dek: "Pride and Prejudice meets the undead in this thrilling twist on a classic.
 number: R2165
 sort_key: 2165
 date: 2026-08-03
-date_read: 2000-08-16
+date_read: 2009-08-16
 category: classic-literature
 cover: /assets/readings/pride-and-prejudice-and-zombies-pride-and-prejudice-and-zombies-1.jpg
 content_warnings:

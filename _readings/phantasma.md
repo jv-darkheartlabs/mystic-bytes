@@ -7,7 +7,7 @@ dek: "A Dark Fantasy Romance"
 number: R271
 sort_key: 271
 date: 2026-01-29
-date_read: 2022-04-04
+date_read: 2024-04-04
 category: vampire-paranormal
 cover: /assets/readings/phantasma.jpg
 spice: 4
@@ -48,5 +48,3 @@ Smith's prose is lush and evocative, painting vivid scenes that are at once beau
 - Do you find the ending satisfying, or does it leave too many unresolved issues?  
 - How does *Phantasma* compare to other dark romances in terms of character depth and thematic exploration?  
 - Can the portrayal of dark magic be reconciled with the romantic elements, or does it create a dissonance?
-
-#TheOrchidRoom #vampire #darkromance #literaryanalysis #darkheartlabs

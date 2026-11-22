@@ -6,7 +6,7 @@ dek: "The Eating Woods, #1"
 number: R1638
 sort_key: 1638
 date: 2026-06-25
-date_read: 2021-03-01
+date_read: 2024-03-01
 category: gothic-horror-romance
 cover: /assets/readings/anathema-the-eating-woods-1.jpg
 spice: 4
@@ -22,7 +22,6 @@ tags:
   - dark fantasy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Character development is particularly noteworthy; the protagonists are flawed ye
 - In what ways does the juxtaposition of desire and violence challenge the traditional tropes of romance?  
 - How effective is the dual POV in enhancing the themes of the novel?  
 - Can you separate the appeal of the gothic aesthetic from the darker themes present in the narrative?  
-
-#TheOrchidRoom #gothic #horrorromance #darkfantasy #literaryanalysis

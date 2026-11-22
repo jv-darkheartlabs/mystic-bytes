@@ -6,7 +6,7 @@ dek: "Deception is the most wicked game of all"
 number: R559
 sort_key: 559
 date: 2026-03-02
-date_read: 2022-04-04
+date_read: 2023-04-04
 category: fantasy-romance
 cover: /assets/readings/throne-of-the-fallen.jpg
 spice: 3
@@ -50,5 +50,3 @@ The novel’s interplay of trust and betrayal invites rich discussion on the nat
 - Do you find the multiple perspectives enriching or disorienting?  
 - How does Maniscalco balance the gothic elements with romantic development?  
 - What are the implications of the ending — was it a triumph of love or a cautionary tale of trust?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

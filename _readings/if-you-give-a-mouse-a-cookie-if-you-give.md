@@ -18,7 +18,6 @@ tags:
   - humor
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The book’s exploration of desire and chaos invites a polarizing discussion. Do
 - How does the book's dual audience affect its ultimate message?  
 - In what ways does the charming facade of the narrative contrast with its darker implications?  
 - Can we view the mouse as a villain, or is it merely a product of its inherent nature?
-
-#TheOrchidRoom #gothic #horrorromance #childrensliterature #literaryanalysis

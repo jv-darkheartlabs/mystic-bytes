@@ -6,7 +6,7 @@ dek: "Duskwalker Brides — Book 1"
 number: R553
 sort_key: 553
 date: 2026-03-01
-date_read: 2016-07-13
+date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/a-soul-to-keep.jpg
 spice: 4
@@ -49,5 +49,3 @@ Character development is a strong suit in Reyne’s work, particularly in how sh
 - Does the book romanticize captivity, or does it critique the notion through its characters’ development?  
 - In what ways does the author balance the line between desire and danger within the narrative?  
 - How effectively does the ending set the stage for potential sequels, and what does it imply about character arcs moving forward?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

@@ -43,5 +43,3 @@ The culmination of the narrative is both satisfying and troubling; while the end
 - In what ways does the author’s portrayal of step-sibling dynamics contribute to or challenge typical genre tropes?  
 - Can the narrative be defended morally, or does it perpetuate harmful stereotypes?  
 - How does the dual perspective enhance or detract from the overall experience of the story?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #Culpables #literaryanalysis

@@ -6,7 +6,7 @@ dek: ""
 number: R942
 sort_key: 942
 date: 2026-04-13
-date_read: 2021-09-19
+date_read: 2024-09-19
 category: fantasy-romance
 cover: /assets/readings/apprentice-to-the-villain.jpg
 spice: 3
@@ -44,5 +44,3 @@ However, the thematic ambition is somewhat marred by occasional mechanical flaws
 - Does the book successfully critique the allure of villainy, or does it inadvertently glorify it?
 - How do the structural choices influence your engagement with the narrative? 
 - Are the emotional intensities presented in the romance reflective of healthy dynamics, or do they lean more towards toxic relationships?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

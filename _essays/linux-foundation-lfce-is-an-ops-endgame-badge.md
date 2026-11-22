@@ -19,7 +19,7 @@ The Linux Foundation Certified Engineer was sold as the ops endgame on a vendor-
 
 I do not hold LFCE. I could not sit it now. The Foundation retired the exam on 1 May 2022. That is on their own page.[^1] They did not publish a same-shape Linux engineer successor. LFCS is the Linux-track exam they still sell. The catalog's energy went to project badges. People still list LFCE as if the ladder is intact.
 
-I write from Auckland and I read résumés the way I read job posts. A retired badge is residual reputation. The incentive while it lived was an endgame that was not Red Hat's. After retirement it is a line you cannot renew by sitting the same paper. Dump sites still sell practice tests. That is not a sitting.
+I write from Louisiana and I read résumés the way I read job posts. A retired badge is residual reputation. The incentive while it lived was an endgame that was not Red Hat's. After retirement it is a line you cannot renew by sitting the same paper. Dump sites still sell practice tests. That is not a sitting.
 
 Treat LFCE as history. If you need a current Linux Foundation Linux cert, LFCS is what they offer. Do not invent a 2026 sitting because a practice site still sells a dump.
 

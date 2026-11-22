@@ -20,7 +20,7 @@ Anthropic's bet is that a written constitution is a better control surface than 
 
 ## Context
 
-I use Claude the way I use other frontier APIs from a remote desk in Auckland: drafts, code review, a second pair of eyes on mystic-bytes copy. The firm's public story is unusual among vendors. In 2022 they published *Constitutional AI: Harmlessness from AI Feedback*. Later they published the principles used to steer Claude, and a Responsible Scaling Policy for catastrophic-risk thresholds.[^1] Those documents are worth reading. They are also a product strategy.
+I use Claude the way I use other frontier APIs from a remote desk in Louisiana: drafts, code review, a second pair of eyes on mystic-bytes copy. The firm's public story is unusual among vendors. In 2022 they published *Constitutional AI: Harmlessness from AI Feedback*. Later they published the principles used to steer Claude, and a Responsible Scaling Policy for catastrophic-risk thresholds.[^1] Those documents are worth reading. They are also a product strategy.
 
 I have never been on Anthropic's staff. I am a customer who has read the papers. The temptation, especially if you like the vibe of "helpful, honest, harmless," is to treat Claude as the aligned one and everyone else as the messy ones. That is fan behavior. The constitution is a training method. The assistant is a SKU. The gap between those two facts is the essay.
 
@@ -32,7 +32,7 @@ I have never been on Anthropic's staff. I am a customer who has read the papers.
 
 **Claude is the commercial object.** API, claude.ai, coding products: latency targets, rate limits, and a helpfulness gradient that competes with other vendors. Constitutional training was meant to produce a harmless-but-non-evasive assistant, one that explains objections instead of stonewalling.[^1] That is a UX bet as much as a safety bet. A constitution that over-weights agreeableness will sycophant. One that over-weights caution will refuse work you needed done. I have hit both. The papers predicted the tension. The product still picks a point on the curve every release.
 
-**The RSP is a second bet, on process.** The 2023 Responsible Scaling Policy commits the lab to capability thresholds and to not deploying past a risk band without mitigations.[^3] They wrote it as a framework they can update. I cannot audit a board delay from Auckland. I can notice they published a delay condition, and still refuse to confuse a PDF with a guarantee.
+**The RSP is a second bet, on process.** The 2023 Responsible Scaling Policy commits the lab to capability thresholds and to not deploying past a risk band without mitigations.[^3] They wrote it as a framework they can update. I cannot audit a board delay from Louisiana. I can notice they published a delay condition, and still refuse to confuse a PDF with a guarantee.
 
 **Safety as differentiation has a market logic.** If your competitor ships the vibes model, you ship the principles model. That can improve the industry. It can also become a moat made of PDFs. The test is behavioral: does the product still flatter a bad idea because helpfulness retains seats? When it does, the constitution failed as a complete control, which no training method is.
 

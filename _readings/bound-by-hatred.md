@@ -49,5 +49,3 @@ However, the narrative occasionally falters under the weight of its themes, part
 - Does the resolution of the protagonists’ struggles feel earned, or does it rely too heavily on genre conventions?  
 - In what ways does the first-person perspective enhance or hinder the reader's connection to the characters?  
 - How does Reilly's work compare to other authors in the dark romance genre in terms of thematic depth?
-
-#TheOrchidRoom #enemiestolovers #darkromance #mafiaromance #literaryanalysis

@@ -7,7 +7,7 @@ dek: ""
 number: R636
 sort_key: 636
 date: 2026-03-11
-date_read: 2015-09-19
+date_read: 2019-09-19
 category: fantasy-romance
 cover: /assets/readings/realm-breaker.jpg
 spice: 4
@@ -45,5 +45,3 @@ The interplay of power and vulnerability raises questions that could spark vigor
 - In what ways does the moral ambiguity presented challenge the archetypal hero's journey?  
 - What themes of sacrifice resonate most strongly, and how do they reflect modern societal issues?  
 - Is the emotional intensity a strength or a hindrance to the overall narrative?
-
-#TheOrchidRoom #realmbreaker #fantasyromance #literaryanalysis #darkromance

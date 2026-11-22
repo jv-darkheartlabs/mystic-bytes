@@ -52,5 +52,3 @@ The novel's exploration of ambition and sacrifice presents polarizing themes tha
 - What role does dark magic play in shaping the identities of the sisters, and does it serve as a metaphor for their ambitions?  
 - How do the character arcs align or diverge from typical hero or anti-hero trajectories in fantasy narratives?  
 - What lingering feelings or questions does the open ending evoke regarding the sisters' futures and the cost of their ambitions?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

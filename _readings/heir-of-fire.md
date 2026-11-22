@@ -47,5 +47,3 @@ The exploration of identity against a backdrop of immense pressure raises polari
 - Do the emotional stakes resonate authentically, or do they feel exaggerated for dramatic effect?  
 - In what ways does the book’s structure enhance or impede character development?  
 - How does the exploration of grief shape your understanding of Aelin’s journey?  
-
-#TheOrchidRoom #fantasyromance #darkromance #assassin #literaryanalysis

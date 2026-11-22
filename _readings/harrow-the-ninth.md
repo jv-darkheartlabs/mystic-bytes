@@ -45,5 +45,3 @@ The novel’s rich tapestry of themes and intricate relationships naturally invi
 - In what ways does the portrayal of desire challenge conventional romantic tropes?  
 - How does Harrow’s personal journey reflect broader themes of power and agency within the genre?  
 - What unresolved questions linger about the characters’ motivations and the narrative’s conclusion?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #Harrow

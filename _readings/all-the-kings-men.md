@@ -22,7 +22,6 @@ tags:
   - betrayal
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The book's exploration of political corruption and moral decay raises significan
 - Do you see parallels between the political landscape of *All the King's Men* and today's political climate?
 - Is there a character whose moral compass you empathize with, or do they all succumb to the darkness?
 - How effective is Warren’s use of symbolism in conveying the themes of power and betrayal?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #politics #betrayal #TheOrchidRoom

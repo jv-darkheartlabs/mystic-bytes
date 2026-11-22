@@ -7,7 +7,7 @@ dek: ""
 number: R999
 sort_key: 999
 date: 2026-04-19
-date_read: 2018-03-01
+date_read: 2025-03-01
 category: fantasy-romance
 cover: /assets/readings/shield-of-sparrows.jpg
 spice: 4
@@ -47,5 +47,3 @@ Perry's **Shield of Sparrows** invites robust debate, particularly regarding its
 - How do the book’s darker themes shape your perception of the romantic journey?
 - In what ways does the setting contribute to the emotional landscape of the characters?
 - Are there moments where the tension between light and dark feels unbalanced?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #shieldofsparrows

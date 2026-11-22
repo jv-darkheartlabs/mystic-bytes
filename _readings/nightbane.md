@@ -7,7 +7,7 @@ dek: "From the #1 NYT bestselling author of Lightlark"
 number: R1217
 sort_key: 1217
 date: 2026-05-13
-date_read: 2020-05-07
+date_read: 2022-05-07
 category: fantasy-romance
 cover: /assets/readings/nightbane.jpg
 spice: 2
@@ -47,5 +47,3 @@ However, while the world-building is immersive, at times it leans heavily on fam
 - In what ways does the ending reinforce or undermine the novel's exploration of desire?  
 - Does the dual narrative enhance or detract from the overall tension of the story?  
 - To what extent does the familiar trope of the curse serve the narrative versus limiting it?
-
-#TheOrchidRoom #fantasyromance #darkromance #romantasy #literaryanalysis

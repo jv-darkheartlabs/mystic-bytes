@@ -7,7 +7,7 @@ dek: "The Edens"
 number: R1383
 sort_key: 1383
 date: 2026-05-31
-date_read: 2018-09-19
+date_read: 2023-09-19
 category: enemies-to-lovers
 cover: /assets/readings/sable-peak.jpg
 spice: 3
@@ -45,5 +45,3 @@ The interplay of grief and romance in *Sable Peak* invites varied interpretation
 - In what ways does Perry's handling of grief compare to other romance authors you've read?  
 - Are the character dynamics believable within the enemies-to-lovers framework, or do they lean into fantasy?  
 - How does the book's pacing affect your emotional connection to the characters?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #Montana #literaryanalysis

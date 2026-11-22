@@ -42,5 +42,3 @@ Reid's exploration of love versus obligation presents a rich ground for discussi
 - Do you feel the ending is a closure or an open-ended invitation for further contemplation?  
 - How does Reid's portrayal of secondary characters influence your understanding of the protagonist's choices?  
 - What does this novel suggest about the concept of 'one true love' in the face of life-altering loss?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

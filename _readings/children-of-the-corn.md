@@ -24,7 +24,6 @@ tags:
   - supernatural
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The hauntingly simple premise raises questions about the nature of evil and the 
 - In what ways does the novella’s ending impact the overall message regarding the cyclical nature of violence?  
 - Can the suburban horror elements translate to contemporary issues, and if so, how?  
 - Does the novella ultimately suggest that evil is learned or inherent?  
-
-#TheOrchidRoom #gothic #horrorromance #literaryanalysis #darkheartlabs

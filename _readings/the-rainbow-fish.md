@@ -20,7 +20,6 @@ tags:
   - self-acceptance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Pfister's approach invites a rich discussion about the dichotomy between beauty 
 - In what ways does the narrative reflect contemporary issues of social media and identity?  
 - Can we view the fish’s sacrifice as a necessary step toward true friendship, or does it signify a loss of self?  
 - How does the minimal dialogue affect your emotional connection to the characters?
-
-#TheOrchidRoom #gothic #horrorromance #childrensliterature #selfacceptance

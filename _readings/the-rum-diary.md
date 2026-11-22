@@ -22,7 +22,6 @@ tags:
   - dark humor
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,4 +46,3 @@ The novel's polarities lie in its simultaneous critique of idealism and celebrat
 - Are the themes of disillusionment and futility reflective of broader societal issues, or are they deeply personal to Thompson’s experience?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #islandlife #corruption #darkhumor #TheOrchidRoom

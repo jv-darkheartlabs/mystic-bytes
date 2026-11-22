@@ -6,7 +6,7 @@ dek: "Die Brutalen Jungs der Everlake Prep Buch 3"
 number: R039
 sort_key: 039
 date: 2026-01-05
-date_read: 2018-06-10
+date_read: 2022-06-10
 category: bully-romance
 cover: /assets/readings/kings-of-anarchy.jpg
 spice: 4
@@ -47,5 +47,3 @@ The provocative nature of *Kings of Anarchy* invites intense debate on the ethic
 - Can we separate the thrill of this narrative from the potential harm it may impart on young, impressionable readers?  
 - What does the ending suggest about the nature of power and control in relationships?  
 - How do you interpret the significance of the setting at Everlake Prep in relation to the characters’ emotional landscapes?  
-
-#TheOrchidRoom #bullyromance #darkromance #everlakeprep #literaryanalysis

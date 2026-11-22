@@ -45,5 +45,3 @@ The novel invites polarities around the nature of love and loss: Is it possible 
 - In what ways does the setting reflect the inner turmoil of the characters?  
 - Are the darker themes of the novel a necessary exploration of love, or do they risk overshadowing the romance?  
 - How does the ending resonate with your understanding of love’s duality?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

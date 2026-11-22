@@ -23,7 +23,6 @@ tags:
   - female protagonist
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ The ending feels earned, as Elena reconciles her identity with her newfound powe
 - Are the moments of violence justified in the context of the narrative, or do they risk glorifying harmful behaviors?  
 - What role does the setting play in shaping the characters' identities and choices?  
 - How do you interpret the balance between desire and danger throughout the novel?  
-
-#TheOrchidRoom #vampire #urbanfantasy #darkromance #literaryanalysis

@@ -6,7 +6,7 @@ dek: "Wicked Villains"
 number: R1358
 sort_key: 1358
 date: 2026-05-28
-date_read: 2017-11-25
+date_read: 2020-11-25
 category: enemies-to-lovers
 cover: /assets/readings/queen-takes-rose.jpg
 spice: 5
@@ -51,5 +51,3 @@ The novel’s interplay of power dynamics versus romantic fulfillment sparks sig
 - What are the implications of romanticizing villainy—does it enhance or detract from the story's depth?  
 - How do you feel about the portrayal of power imbalances in romantic relationships—does it resonate or repulse?  
 - In what ways does this retelling challenge or reinforce your understanding of the original myth?
-
-#TheOrchidRoom #enemiestolovers #darkromance #wickedvillains #QueenTakesRose

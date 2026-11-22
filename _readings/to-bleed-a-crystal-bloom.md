@@ -6,7 +6,7 @@ dek: ""
 number: R1493
 sort_key: 1493
 date: 2026-06-12
-date_read: 2020-11-25
+date_read: 2021-11-25
 category: gothic-horror-romance
 cover: /assets/readings/to-bleed-a-crystal-bloom.jpg
 spice: 4
@@ -48,5 +48,3 @@ The interplay between love and horror in Parker's narrative raises compelling qu
 - Do you find the nonlinear structure enhances or detracts from the emotional impact of the story?  
 - How do you interpret the ending in terms of character growth and thematic resolution?  
 - What biases do you think the narrative reflects regarding obsession and love?  
-
-#TheOrchidRoom #gothic #horrorromance #darkromantasy #literaryanalysis

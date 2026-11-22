@@ -6,7 +6,7 @@ dek: "Entangled with Fae — A Beauty and the Beast Retelling"
 number: R1406
 sort_key: 1406
 date: 2026-06-02
-date_read: 2017-05-07
+date_read: 2021-05-07
 category: fantasy-romance
 cover: /assets/readings/curse-of-the-wolf-king.jpg
 spice: 3
@@ -49,5 +49,3 @@ The duality of desire and danger in *Curse of the Wolf King* raises compelling q
 - In what ways do the characters' struggles reflect contemporary issues of autonomy and consent?  
 - What do you think about the balance between lush prose and dialogue authenticity in driving the story forward?  
 - How does the ending shape your perception of the characters' journeys?
-
-#TheOrchidRoom #fantasyromance #darkromance #beautyandbeast #TessonjaOdette

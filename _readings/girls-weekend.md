@@ -6,7 +6,7 @@ dek: "a MonsterBait romance"
 number: R1013
 sort_key: 1013
 date: 2026-04-21
-date_read: 2020-08-16
+date_read: 2021-08-16
 category: fantasy-romance
 cover: /assets/readings/girls-weekend.jpg
 spice: 4
@@ -41,5 +41,3 @@ Character development shines through the protagonist's interactions with her mon
 - How might the portrayal of monsters reflect societal fears around intimacy?  
 - What role does humor play in diffusing—or heightening—the tension throughout the story?  
 - How do you interpret the protagonist's growth in relation to her monstrous counterpart?
-
-#TheOrchidRoom #fantasyromance #darkromance #monsterromance #literaryanalysis

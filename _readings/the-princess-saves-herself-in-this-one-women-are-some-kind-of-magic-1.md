@@ -23,7 +23,6 @@ tags:
   - self-discovery
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Thematic success shines brightly through the interplay of gothic elements—shad
 - Can the collection's simplicity coexist with its profound themes, or does it detract from the gravity of the subject matter?  
 - How do you interpret the balance between self-empowerment and the acknowledgment of trauma in Lovelace's narrative?  
 - What role does audience expectation play in the reception of feminist poetry today?  
-
-#TheOrchidRoom #gothic #feminism #selfdiscovery #poetry

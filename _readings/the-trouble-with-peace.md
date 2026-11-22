@@ -47,5 +47,3 @@ The interplay of power and desire in "The Trouble with Peace" invites divisive i
 - Are there moments you found particularly jarring or compelling that could split opinion on the execution of romance in the narrative?  
 - What aspects of Abercrombie's world-building contribute to or detract from the emotional stakes of the story?  
 - How does the ending shape your understanding of the characters’ journeys, and was it an effective resolution for the themes presented?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #JoeAbercrombie

@@ -45,5 +45,3 @@ The novel wades into the murky waters of power dynamics and consent within roman
 - Can the predictability of certain tropes detract from the overall impact of the story, or do they serve a purpose in the genre's framework?  
 - In what ways does the setting of the underworld enhance or hinder the development of romantic tension?  
 - How does St. Clair balance the elements of gothic romance with modern themes, and is this balance successful?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #romantasy

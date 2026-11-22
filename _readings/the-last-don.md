@@ -24,7 +24,6 @@ tags:
   - loyalty
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ Puzo's exploration of loyalty versus ambition creates a rich tapestry for debate
 - In what ways does the novel challenge or reinforce stereotypes associated with mafia culture?  
 - How does the ending shape your understanding of the characters' motivations and desires?  
 - What does *The Last Don* reveal about the cost of loyalty, both personally and socially?
-
-#TheOrchidRoom #mafiaromance #darkromance #betrayal #power

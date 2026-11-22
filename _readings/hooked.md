@@ -44,5 +44,3 @@ Yet, while the thematic exploration of revenge and obsession is compelling, it r
 - In what ways does the dual perspective enhance or detract from the narrative’s impact?  
 - Are the underlying themes of revenge and captivity handled with the necessary gravity?  
 - What responsibilities do authors have when depicting dark themes in romance?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

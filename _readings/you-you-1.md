@@ -24,7 +24,6 @@ tags:
   - dark romance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ Kepnes’ intricate portrayal of Joe raises polarizing questions about empathy a
 - What role does cultural commentary play in shaping Joe's character and his worldview?  
 - In what ways does *You* compare to other psychological thrillers in terms of its exploration of love and obsession?  
 - How do the content warnings influence your reading experience and interpretation of the novel?  
-
-#TheOrchidRoom #You #CarolineKepnes #psychologicalthriller #darkromance

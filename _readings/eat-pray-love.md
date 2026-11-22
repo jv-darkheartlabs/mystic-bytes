@@ -19,7 +19,6 @@ tags:
   - memoir
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The memoir raises intriguing questions about the nature of self-discovery and th
   - In what ways does the book challenge or reinforce traditional gender roles in the context of personal fulfillment?  
   - Is the narrative overly romanticized, and does that detract from its message?  
   - How does the balance between travel writing and memoir affect the overall impact of the story?
-
-#LiteraryAnalysis #darkthriller #self-discovery #travel #spirituality #theorchidroom

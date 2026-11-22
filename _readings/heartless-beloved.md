@@ -54,5 +54,3 @@ The polarities within **Heartless Beloved** are likely to ignite a passionate di
 - What role do you think the setting plays in amplifying the themes of the narrative?  
 - Can a story that delves into such dark themes still offer a glimmer of hope, or is the ending truly a reflection of the characters’ fates?  
 - How does the use of dual perspectives affect your connection to the characters and your interpretation of their actions?
-
-#TheOrchidRoom #HeartlessBeloved #darkromance #stalker #obsession

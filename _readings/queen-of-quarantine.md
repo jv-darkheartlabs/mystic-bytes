@@ -6,7 +6,7 @@ dek: "Brutal Boys of Everlake Prep Book 4"
 number: R038
 sort_key: 038
 date: 2026-01-05
-date_read: 2017-05-07
+date_read: 2022-05-07
 category: bully-romance
 cover: /assets/readings/queen-of-quarantine.jpg
 spice: 4
@@ -49,5 +49,3 @@ The ending offers both resolution and ambiguity, leaving the reader pondering th
 - In what ways do the alternating perspectives enhance or detract from the emotional impact of the story?  
 - Is the humor a necessary reprieve, or does it undermine the gravity of the themes explored?  
 - How do you interpret the ending, and what predictions do you have for potential future installments?
-
-#TheOrchidRoom #bullyromance #darkromance #EverlakePrep #literaryanalysis

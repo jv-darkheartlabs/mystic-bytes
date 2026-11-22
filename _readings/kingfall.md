@@ -7,7 +7,7 @@ dek: ""
 number: R493
 sort_key: 493
 date: 2026-02-23
-date_read: 2016-10-22
+date_read: 2021-10-22
 category: fantasy-romance
 cover: /assets/readings/kingfall.jpg
 spice: 4
@@ -44,5 +44,3 @@ While *Kingfall* presents a captivating exploration of love's darker facets, it 
 - In what ways do the multiple POVs enhance or complicate the reader's connection to the characters?
 - Is the balance between fantasy elements and romantic tension successfully maintained throughout?
 - How does the book's darker tone influence your overall perception of the romance?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #kingfall

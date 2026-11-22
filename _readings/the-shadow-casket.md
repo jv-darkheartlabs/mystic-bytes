@@ -47,5 +47,3 @@ Wooding's exploration of desire raises polarizing questions about the nature of 
 - What role does the setting play in shaping the characters' desires and decisions?  
 - How do you interpret the ending — is it a triumph or a tragedy?  
 - What elements of Wooding's craft most effectively convey the tension between love and power?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #TheShadowCasket

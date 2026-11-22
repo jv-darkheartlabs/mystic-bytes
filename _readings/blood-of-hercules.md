@@ -48,5 +48,3 @@ The thematic exploration of violence and mythological consequences is particular
 - Do you think the ending serves the thematic exploration of legacy, or does it leave too many threads unresolved?  
 - How does the blending of mythological elements with contemporary romance shape your engagement with the story?  
 - What role does violence play in the development of both plot and character arcs?
-
-#TheOrchidRoom #fantasyromance #darkromance #greekmythology #literaryanalysis

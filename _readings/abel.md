@@ -49,5 +49,3 @@ However, some may argue that the relentless focus on sexual tension occasionally
 - Does the book's explicit content enhance or detract from its thematic exploration?  
 - How does the dual perspective affect your connection to the characters?  
 - What lingering questions do you have about the characters' futures beyond the page?
-
-#TheOrchidRoom #reverseharem #darkromance #KateeRobert #literaryanalysis

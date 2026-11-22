@@ -6,7 +6,7 @@ dek: ""
 number: R1787
 sort_key: 1787
 date: 2026-07-08
-date_read: 2012-08-16
+date_read: 2021-08-16
 category: mystery-crime
 cover: /assets/readings/local-woman-missing.jpg
 content_warnings:
@@ -21,7 +21,6 @@ tags:
   - psychological thriller
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The blend of domesticity and horror in *Local Woman Missing* raises essential qu
 - How does Kubica's portrayal of mental health issues compare to other contemporary thrillers?  
 - Is the ending sufficiently earned, or does it rely too heavily on twists?  
 - What gothic elements can we identify in the modern thriller landscape?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #psychologicalthriller #TheOrchidRoom

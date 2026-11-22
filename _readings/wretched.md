@@ -44,5 +44,3 @@ The interplay between love and violence raises significant questions about the n
 - Are there moments in the narrative that felt excessive or gratuitous, and how did they affect your reading experience?
 - In what ways does the setting enhance or detract from the overall themes of the book?
 - How do you interpret the ending in relation to the characters' journeys throughout the novel?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

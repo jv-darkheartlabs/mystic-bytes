@@ -20,7 +20,6 @@ tags:
   - whimsy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Silverstein's work is a rich tapestry of contradictions, raising questions about
 - What does Silverstein's approach reveal about the complexities of human emotions as we transition from childhood to adulthood?
 - How does the imagery employed in the poems shape your understanding of the themes presented?
 - In what ways does this collection challenge the traditional boundaries of children's literature?
-
-#TheOrchidRoom #gothic #horrorromance #poetry #imagination

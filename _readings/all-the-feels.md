@@ -40,5 +40,3 @@ The novel's interplay of humor and emotional depth raises intriguing questions a
 - What role does vulnerability play in the development of the characters?  
 - Are there moments in the book that felt overly cliché or predictable, and how did they affect your reading experience?  
 - How does the ending align or clash with your expectations for a romance narrative?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #rom-com #literaryanalysis

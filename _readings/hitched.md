@@ -6,7 +6,7 @@ dek: "A Dark Hitchhiker Romance"
 number: R088
 sort_key: 088
 date: 2026-01-10
-date_read: 2019-10-22
+date_read: 2023-10-22
 category: captor-and-captive
 cover: /assets/readings/hitched.jpg
 spice: 4
@@ -48,5 +48,3 @@ However, pacing falters in the middle section, where introspection occasionally 
 - Can a character's moral ambiguity enhance or detract from their relatability?  
 - What are the implications of the dual perspective structure on reader empathy for both characters?  
 - How does the novel's resolution impact your interpretation of the characters' journey?
-
-#TheOrchidRoom #Hitched #darkromance #literaryanalysis #psychologicalintensity

@@ -20,7 +20,7 @@ OpenAI sells inference. Model names are stock-keeping units. System cards are sp
 
 ## Context
 
-I use the public API the way I use any other metered service from a desk in Auckland. Drafts for mystic-bytes go through a model ID, a temperature, a token budget, and a habit of treating fluent output as a first pass rather than a source. When a snapshot ID disappears from the catalog, the failure is not metaphysical. The failure is a deprecation notice.
+I use the public API the way I use any other metered service from a desk in Louisiana. Drafts for mystic-bytes go through a model ID, a temperature, a token budget, and a habit of treating fluent output as a first pass rather than a source. When a snapshot ID disappears from the catalog, the failure is not metaphysical. The failure is a deprecation notice.
 
 I have never claimed to work there. The useful documents are the ones they published: the GPT-4 System Card, later cards such as GPT-4o's, the API deprecations page, and the Preparedness Framework as a process claim sitting next to a product catalog.[^1] Read those as vendor literature. They are more honest than the myth that a chat window contains a mind.
 

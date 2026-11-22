@@ -24,7 +24,6 @@ tags:
   - suffering
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The interplay of redemption and societal critique creates polarizing views on th
 - Do you believe the pacing of the narrative ultimately serves or undermines the climax?  
 - How does the ending influence your perception of the novel as a whole?  
 - What elements of the gothic and horror genres are most pronounced in Hugo's portrayal of suffering?  
-
-#TheOrchidRoom #gothic #classic #redemption #suffering #Frenchliterature

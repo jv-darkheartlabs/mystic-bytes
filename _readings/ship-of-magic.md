@@ -45,5 +45,3 @@ Hobb's masterful intertwining of fantasy and romance provokes a spectrum of resp
 - Are there moments in the narrative where the world-building detracts from character development, and if so, how does that impact our connection to the story?  
 - What role does emotional intensity play in shaping reader empathy for characters who make morally ambiguous choices?  
 - How does Hobb's portrayal of relationships challenge or conform to typical romantic tropes within the fantasy genre?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

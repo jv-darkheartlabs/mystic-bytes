@@ -25,7 +25,7 @@ Nightbind stored payment-ish rows with a three-value `status` enum. It was hones
 
 mystic-bytes taught a quieter version. Titles and slugs live in YAML and in scripts that assume a length. English romance titles fit a habit I did not measure. Longer romanized names and series strings did not. Nothing threw. Things truncated or collided. Covers pointed at the wrong slug. The bug surfaced in the cover-preprocess pass, three hops from the field, which is how these sins usually surface. The commit message had to confess the belief: I assumed marketing-length slugs; I never measured; I silently lost data. Fedora did not care. The catalog did.
 
-I am not a DBA on someone else's payroll. I am the person who has to write the next file so future-me, in Auckland, tired, does not invent a kinder history.
+I am not a DBA on someone else's payroll. I am the person who has to write the next file so future-me, tired, does not invent a kinder history.
 
 ## Mechanism
 
@@ -39,7 +39,7 @@ Reversible in spirit is the standard I can defend. True down migrations are ofte
 
 Contempt is the failure mode. "Whoever did this was an idiot" teaches nothing and usually describes you, earlier, with less information. The original author worked under different constraints. Your job is to name the constraint that died, not to perform superiority in a comment that will outlive your mood.
 
-Cursor will draft a migration that changes the type and leaves the belief unsaid. That is housekeeping. Reject it. The file is the letter.
+The model will draft a migration that changes the type and leaves the belief unsaid. That is housekeeping. Reject it. The file is the letter.
 
 I keep the archaeology metaphor in its lane. Layers tell time. Dropping a column without a sentence erases a stratum. The confession is what you chisel into the new layer so the next dig does not assume bedrock where there was a parking lot. How to *read* those layers is the other essay. Do not skip it. Do not collapse it into this one.
 

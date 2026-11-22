@@ -45,5 +45,3 @@ The interplay of tension and romance in *Never Have I Ever* invites lively discu
 - Are the protagonists believable in their motivations, or do they fall into cliché? 
 - How does the dual POV impact your understanding of the characters? 
 - Is the ending satisfying enough to feel earned, or does it leave too much unresolved?
-
-#TheOrchidRoom #enemiestolovers #darkromance #college romance #literaryanalysis

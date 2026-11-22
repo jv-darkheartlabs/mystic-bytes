@@ -7,7 +7,7 @@ dek: ""
 number: R209
 sort_key: 209
 date: 2026-01-23
-date_read: 2020-05-07
+date_read: 2021-05-07
 category: stalker-obsession
 cover: /assets/readings/haunting-adeline.jpg
 spice: 4
@@ -52,5 +52,3 @@ However, the dialogue, while often charged, occasionally veers into melodrama, r
 - What are your thoughts on the use of graphic violence in the context of romance — does it elevate or detract from the narrative?  
 - In what ways do you think Carlton's work responds to contemporary societal fears regarding privacy and personal agency?  
 - How do the elements of Gothic literature manifest in the characters’ development and setting?  
-
-#TheOrchidRoom #HauntingAdeline #darkromance #stalker #gothic

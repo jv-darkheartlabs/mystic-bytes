@@ -45,5 +45,3 @@ Catharina Maura’s narrative invites a multitude of polarizing discussions, par
 - Is the ending a fitting resolution or an unsatisfactory cliffhanger?  
 - How does the depiction of desire and obligation influence our understanding of love in the context of arranged marriages?  
 - What cultural factors could influence a reader's perception of the arranged marriage trope?
-
-#TheOrchidRoom #arrangedmarriage #darkromance #contemporaryromance #emotionalmanipulation

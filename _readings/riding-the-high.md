@@ -6,7 +6,7 @@ dek: "Her heart is solid. Only he can capture it."
 number: R336
 sort_key: 336
 date: 2026-02-05
-date_read: 2015-06-10
+date_read: 2025-06-10
 category: dark-cowboy-romance
 cover: /assets/readings/riding-the-high.jpg
 spice: 3
@@ -44,5 +44,3 @@ Hope's exploration of law enforcement themes invites complex discussions about a
 - In what ways does the setting function as a character in its own right, and how does it influence the narrative?
 - What are the implications of portraying dark themes of desire and danger within romance? 
 - How effective is the dual POV structure in eliciting empathy for both protagonists?
-
-#TheOrchidRoom #cowboyromance #darkromance #literaryanalysis #darkheartlabs

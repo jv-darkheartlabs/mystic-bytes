@@ -10,7 +10,7 @@ type: pillar
 read_time: 8
 tags: [ai]
 brief:
-  system: Claude.ai and the Anthropic API used for mystic-bytes drafts from Auckland
+  system: Claude.ai and the Anthropic API used for mystic-bytes drafts from Louisiana
   issue: constitutional branding read as warranty; product shape is still plans, Projects, Artifacts, and rate limits
   constraint: public product docs and system prompts; no Anthropic employment; distinct from the firm-level constitution essay
 ---
@@ -21,7 +21,7 @@ brief:
 
 ## Context
 
-I use Claude from a desk in Auckland for drafting and for a second pass on mystic-bytes copy. I use the API when I want a model ID instead of a chat habit. I have never been on Anthropic's staff. There is a separate essay about the firm's bet: Constitutional AI as a paper, a public principle list, an RSP. This one is the product shape those papers funded. What you click. What you get billed for. How a refusal arrives in the UI.
+I use Claude from a desk in Louisiana for drafting and for a second pass on mystic-bytes copy. I use the API when I want a model ID instead of a chat habit. I have never been on Anthropic's staff. There is a separate essay about the firm's bet: Constitutional AI as a paper, a public principle list, an RSP. This one is the product shape those papers funded. What you click. What you get billed for. How a refusal arrives in the UI.
 
 "Helpful, honest, harmless" is a slogan that fits on a plan page. The plan page is the document I actually renew.
 

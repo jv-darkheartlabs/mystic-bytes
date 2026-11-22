@@ -23,7 +23,6 @@ tags:
   - loss
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The stark realities presented in *All Quiet on the Western Front* challenge read
 - In what ways does Remarque’s depiction of war differ from contemporary portrayals in literature and media?
 - How does the silence in the novel’s conclusion speak to the experiences of veterans today?
 - Can the graphic violence serve a greater purpose in the narrative, or does it risk desensitizing the reader?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #war #trauma #theorchidroom

@@ -6,7 +6,7 @@ dek: ""
 number: R2067
 sort_key: 2067
 date: 2026-07-28
-date_read: 2012-09-19
+date_read: 2021-09-19
 category: mystery-crime
 cover: /assets/readings/the-push.jpg
 content_warnings:
@@ -22,7 +22,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,4 +48,3 @@ Characterization thrives in the nuanced portrayals of maternal figures, revealin
 - Are the content warnings sufficient for the themes presented, or do they understate the book's darker elements?  
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #darkthriller #psychologicalthriller

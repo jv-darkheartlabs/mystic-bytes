@@ -42,5 +42,3 @@ The polarities of this novel could ignite a vibrant discussion about the balance
 - In what ways could the pacing of emotional revelations be improved?  
 - Is a predictable ending a flaw or a comfort in this genre?  
 - How does Garvin's portrayal of rivalry reflect real-world relationships?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #music #darkheartlabs

@@ -21,7 +21,7 @@ brief:
 
 ## Context
 
-I have already written the tool: Terraform is a plan you can diff. Apply is a blast radius. I do not keep a Terraform state bucket for Dark Heart Labs. mystic-bytes is GitHub Pages. Railway is a dashboard. Auckland 2026 does not add an `aws_instance` under these essays. This piece is the credential, not the CLI.
+I have already written the tool: Terraform is a plan you can diff. Apply is a blast radius. I do not keep a Terraform state bucket for Dark Heart Labs. mystic-bytes is GitHub Pages. Railway is a dashboard. This piece is the credential, not the CLI.
 
 HashiCorp publishes Terraform Associate (004) as a one-hour, online-proctored, multiple-choice exam on Terraform 1.12.[^1] Two-year expiry. The objectives are a table of "explain," "describe," "use," and "understand" across workflow, state, modules, and HCP Terraform.[^1] I do not hold this badge as a claim here. I read that table the way I read "Terraform Associate preferred": an institution that made a language exam out of an operations tool.
 

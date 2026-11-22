@@ -48,5 +48,3 @@ The interplay between obsession and power dynamics in *Reign of Psychos* will un
 - What are the ethical implications of romanticizing characters with mental instability?
 - How does the gothic atmosphere contribute to the overall tension of the narrative?
 - Are the characters relatable, or do they exist purely as archetypes within their dark world?  
-
-#TheOrchidRoom #mafiaromance #darkromance #empireofcarnage #gothic

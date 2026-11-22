@@ -19,7 +19,6 @@ tags:
   - strategy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The novel's climax, where Ender unknowingly annihilates an entire alien species,
 - What role does empathy play in the development of Ender’s character, and can it coexist with manipulation?  
 - How does the narrative's structure influence our understanding of moral dilemmas presented in the text?  
 - Is the ending satisfying in its ethical implications, or does it leave too many questions unanswered?
-
-#LiteraryAnalysis #darkthriller #sciencefiction #military #comingofage #theorchidroom

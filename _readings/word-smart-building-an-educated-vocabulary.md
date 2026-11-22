@@ -19,7 +19,6 @@ tags:
   - language
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ This book invites polarizing discussions about the ethics of knowledge and the p
 - Is the non-linear structure effective in conveying the protagonist's psychological state, or does it detract from the overall narrative?
 - What role does isolation play in the characters’ relationships, and how does that mirror the dark undertones of the plot?
 - How satisfying was the resolution, and what could have been done differently to enhance the impact?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #darkheartlabs

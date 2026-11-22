@@ -41,5 +41,3 @@ Bailey’s exploration of enemies-to-lovers ignites passionate discourse, partic
 - In what ways does Bailey challenge or reinforce traditional gender roles through her character dynamics?  
 - What role does societal expectation play in the characters' personal transformations?  
 - Can the tension created by rivalry be seen as healthy or problematic within the romance genre?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #BrokeandBeautiful #literaryanalysis #darkheartlabs

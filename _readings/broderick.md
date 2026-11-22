@@ -6,7 +6,7 @@ dek: "New York Times Bestselling Author"
 number: R1300
 sort_key: 1300
 date: 2026-05-22
-date_read: 2019-07-13
+date_read: 2021-07-13
 category: reverse-harem
 cover: /assets/readings/broderick.jpg
 spice: 5
@@ -45,5 +45,3 @@ Robert’s structuring of *Broderick* is particularly notable for its pacing and
 - What are the implications of unresolved threads in a romance narrative?  
 - Can we empathize with morally ambiguous characters, and should we?  
 - How does the portrayal of desire challenge or reinforce societal norms around relationships?  
-
-#TheOrchidRoom #reverseharem #darkromance #contemporary #KateeRobert

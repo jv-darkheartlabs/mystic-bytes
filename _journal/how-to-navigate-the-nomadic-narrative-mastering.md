@@ -11,6 +11,7 @@ redirect_from:
 number: 910.46
 sort_key: 0910.46
 cover: /assets/images/cover-archive.svg
+thread: letters
 ---
 
 Relocation is not content. The second you treat a move as a LinkedIn arc, you start performing the paperwork instead of doing it. I have drafted the post in my head: Louisiana light, Auckland rain, a lesson about courage. Then I remembered I still had to find a GP and prove the apartment internet worked at 7 p.m. The lesson could wait.

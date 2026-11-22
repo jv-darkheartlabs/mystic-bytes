@@ -48,5 +48,3 @@ This novel's exploration of power dynamics and moral ambiguity is sure to ignite
 - In what ways does the setting contribute to or hinder character development?  
 - Can love truly thrive in a space defined by bullying and power plays?  
 - What do you think about the resolution—does it offer hope or a continuation of the cycle?
-
-#TheOrchidRoom #bullyromance #darkromance #gothic #literaryanalysis

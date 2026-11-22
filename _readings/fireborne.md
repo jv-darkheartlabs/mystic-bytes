@@ -6,7 +6,7 @@ dek: ""
 number: R1392
 sort_key: 1392
 date: 2026-06-01
-date_read: 2015-09-19
+date_read: 2019-09-19
 category: fantasy-romance
 cover: /assets/readings/fireborne.jpg
 spice: 2
@@ -50,5 +50,3 @@ Munda’s *Fireborne* raises provocative questions about morality, power, and th
 - In what ways does the portrayal of dragons serve as a metaphor for human ambition?  
 - Can the book's pacing detract from character development, or does it serve to enhance the urgency of the narrative?  
 - How does Munda’s treatment of violence shape our understanding of the characters’ moral compass?  
-
-#TheOrchidRoom #fantasyromance #darkromance #dragons #politicalintrigue

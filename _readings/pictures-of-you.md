@@ -6,7 +6,7 @@ dek: "Author of The Last Love Note"
 number: R1507
 sort_key: 1507
 date: 2026-06-13
-date_read: 2022-07-13
+date_read: 2024-07-13
 category: forbidden-love
 cover: /assets/readings/pictures-of-you.jpg
 spice: 2
@@ -45,5 +45,3 @@ The interplay between love and loss raises questions about our own boundaries wh
   - In what ways does the forbidden love trope feel fresh or overused in this context?  
   - How important is the setting in influencing the characters’ emotional states, particularly with the underwater theme?  
   - What unresolved questions linger after the final pages, and how do they affect your interpretation of the novel?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #healing #literaryanalysis

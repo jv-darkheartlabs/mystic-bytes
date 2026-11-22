@@ -45,5 +45,3 @@ However, the novel is not without its flaws. While the world-building is immersi
 - Can you identify moments in the narrative where the pacing detracts from the emotional impact?  
 - How does Hobb’s portrayal of fantasy violence inform our understanding of her characters’ desires?  
 - Is the emotional intensity portrayed a strength that draws readers in, or does it risk overwhelming them with its weight?  
-
-#TheOrchidRoom #fantasyromance #darkromance #mad #ship

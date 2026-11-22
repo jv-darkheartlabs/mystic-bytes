@@ -46,5 +46,3 @@ Kenney’s exploration of love and healing invites a rich tapestry of discussion
 - Are the character relationships believable, or do they lean too heavily into fantasy tropes?  
 - How does the ending resonate with the overarching themes of healing and transformation?  
 - Does the narrative's pacing serve the emotional arc, or does it hinder engagement?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #healer

@@ -6,7 +6,7 @@ dek: "The thrilling conclusion to the Maze Runner series"
 number: R1762
 sort_key: 1762
 date: 2026-07-06
-date_read: 2007-10-22
+date_read: 2011-10-22
 category: ya-fiction
 cover: /assets/readings/the-death-cure-the-maze-runner-3.jpg
 content_warnings:
@@ -22,7 +22,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Dashner's conclusion invites polarities among readers, particularly regarding th
 - In what ways does *The Death Cure* succeed or fail in providing closure to its overarching themes?  
 - What are the implications of the characters’ sacrifices on the overall message of the series?  
 - Can the rapid shifts in plot be justified as a reflection of the chaotic world Dashner has created?
-
-#LiteraryAnalysis #darkthriller #dystopia #suspense #theorchidroom

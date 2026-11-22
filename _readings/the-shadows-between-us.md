@@ -49,5 +49,3 @@ The exploration of power and desire in *The Shadows Between Us* invites polarizi
 - In what ways does the world-building enhance the themes of desire and power?  
 - How does the novel compare to other fantasy romances in its portrayal of morally ambiguous characters?  
 - Is the ending of the story satisfying in light of the protagonist's journey, or does it leave unaddressed issues?  
-
-#TheOrchidRoom #fantasyromance #darkromance #villainousheroine #shadowking

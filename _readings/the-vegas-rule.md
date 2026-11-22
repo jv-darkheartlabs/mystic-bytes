@@ -6,7 +6,7 @@ dek: "a novel"
 number: R1503
 sort_key: 1503
 date: 2026-06-13
-date_read: 2018-03-01
+date_read: 2022-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-vegas-rule.jpg
 spice: 4
@@ -45,5 +45,3 @@ However, the narrative does occasionally falter, particularly in the dialogue, w
 - In what ways does the Las Vegas setting enhance or distract from the narrative's central themes?  
 - How do the characters' vulnerabilities challenge traditional romance archetypes?  
 - Is the resolution satisfying enough to justify the characters' journeys?
-
-#TheOrchidRoom #enemiestolovers #darkromance #LasVegas #literaryanalysis

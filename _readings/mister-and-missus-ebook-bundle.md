@@ -21,7 +21,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The collection raises questions about the moral implications of romanticizing da
 - What elements define a successful ending in a dark-thriller, and does *Mister and Missus* meet those criteria?  
 - In what ways do genre expectations shape our reading experience of dark romance?  
 - How do the character portrayals challenge or conform to conventional gender roles in thrillers?
-
-#LiteraryAnalysis #darkthriller #romanticsuspense #E.L.James #TheOrchidRoom

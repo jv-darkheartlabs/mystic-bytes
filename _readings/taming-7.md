@@ -7,7 +7,7 @@ dek: "Boys of Tommen #5"
 number: R319
 sort_key: 319
 date: 2026-02-04
-date_read: 2022-07-13
+date_read: 2024-07-13
 category: bully-romance
 cover: /assets/readings/taming-7.jpg
 spice: 4
@@ -45,5 +45,3 @@ The thematic interplay of possession and freedom is particularly striking. Walsh
 - In what ways do the characters' arcs reflect the possibility of redemption, and is this portrayal realistic?  
 - Can a romance rooted in possession and control ever be justified, or does it ultimately undermine the essence of love?  
 - What role does the setting play in enhancing the emotional stakes of the story?
-
-#TheOrchidRoom #bullyromance #darkromance #BoysOfTommen #literaryanalysis

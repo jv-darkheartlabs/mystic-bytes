@@ -7,7 +7,7 @@ dek: "Dare Series Book Two"
 number: R014
 sort_key: 014
 date: 2026-01-03
-date_read: 2017-08-16
+date_read: 2019-08-16
 category: bully-romance
 cover: /assets/readings/i-promise-you.jpg
 spice: 5
@@ -52,5 +52,3 @@ The polarizing elements of *I Promise You* are its unflinching portrayal of obse
 - In what ways does the dual perspective enrich or complicate the narrative?  
 - Can a relationship founded on such intense power dynamics ever lead to a healthy outcome?  
 - What does this book say about the nature of desire and its potential to consume us?  
-
-#TheOrchidRoom #bullyromance #darkromance #possession #literaryanalysis

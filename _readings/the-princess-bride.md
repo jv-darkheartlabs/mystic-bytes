@@ -21,7 +21,6 @@ tags:
   - humor
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The interplay between humor and romance in *The Princess Bride* invites a range 
 - In what ways do you feel the characters could have been developed further without sacrificing the intended humor?
 - Does the framing narrative enhance or detract from the overall impact of the story's core themes?
 - How does Goldman's approach to storytelling reflect or challenge contemporary views on romance in literature?
-
-#TheOrchidRoom #fantasyromance #darkromance #fairytale #literaryanalysis

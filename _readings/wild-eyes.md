@@ -7,7 +7,7 @@ dek: "Rose Hill Series — Book Two"
 number: R1340
 sort_key: 1340
 date: 2026-05-26
-date_read: 2023-11-25
+date_read: 2024-11-25
 category: dark-cowboy-romance
 cover: /assets/readings/wild-eyes.jpg
 spice: 3
@@ -45,5 +45,3 @@ The prose itself is imbued with vivid imagery and sensory details that transport
 - Can the darker elements of the romance be justified within the genre, or do they risk alienating potential readers?  
 - How does Silver’s portrayal of the cowboy archetype differ from traditional representations, and what implications does this have for modern romance?  
 - What unresolved questions linger after the conclusion, and how do they affect your perception of the characters’ journeys?
-
-#TheOrchidRoom #cowboyromance #darkromance #darkcowboy #literaryanalysis

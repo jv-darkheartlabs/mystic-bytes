@@ -47,5 +47,3 @@ Characterization is another area where the novel shines, particularly in the pro
 - What are the implications of power dynamics in love as depicted in the book?  
 - How does Bouchet's world-building enhance or distract from the emotional depth of the characters?  
 - In what ways do you believe the book both adheres to and subverts traditional fantasy-romance tropes?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #kingmakerchronicles

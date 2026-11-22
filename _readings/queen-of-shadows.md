@@ -47,5 +47,3 @@ The prose is lush, bursting with vivid imagery that captures the gothic essence 
 - In what ways does the pacing affect your engagement with the story?  
 - Are the character dynamics authentic, or do they lean into tropes that feel forced?  
 - How does the gothic romance element enhance or distract from the fantasy aspects of the plot?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #assassin

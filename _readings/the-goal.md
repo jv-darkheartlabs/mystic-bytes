@@ -47,5 +47,3 @@ World-building is executed with a keen eye for detail; Kennedy paints a vivid pi
 - Do you find the resolution satisfying, or does it undermine the character development leading up to it?  
 - What are your thoughts on the use of humor and wit — does it effectively balance the darker themes?  
 - How do the content warnings shape your understanding of the characters’ journeys?
-
-#TheOrchidRoom #enemiestolovers #darkromance #hockeyromance #literaryanalysis

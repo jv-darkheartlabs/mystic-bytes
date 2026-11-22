@@ -7,7 +7,7 @@ dek: "Dark Verse — Book One"
 number: R253
 sort_key: 253
 date: 2026-01-27
-date_read: 2016-04-04
+date_read: 2019-04-04
 category: stalker-obsession
 cover: /assets/readings/the-predator.jpg
 spice: 4
@@ -50,5 +50,3 @@ The exploration of obsession in *The Predator* presents a fertile ground for dis
 - Can a character's obsession ever be justified, or does it always stem from a place of toxicity?  
 - Does the portrayal of violence in the book detract from or enhance its themes?  
 - In what ways does the setting contribute to the overall atmosphere of psychological suspense?
-
-#TheOrchidRoom #stalker #obsession #darkromance #psychologicalsuspense

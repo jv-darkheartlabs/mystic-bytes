@@ -23,7 +23,6 @@ tags:
   - supernatural
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The interplay between love and obsession in *The Phantom of the Opera* invites f
 - Can the relationship dynamics in the novel be interpreted as a critique of societal norms, particularly regarding beauty and acceptance?  
 - How does the depiction of mental illness inform our understanding of the Phantom's character?  
 - What aspects of Leroux’s writing resonate with or diverge from contemporary gothic romance narratives?
-
-#TheOrchidRoom #gothic #horrorromance #romance #opera

@@ -40,5 +40,3 @@ The novel grapples with the inherent tensions between love and loss, sanity and 
 - Is the ambiguous ending a strength or a weakness? What does it say about the nature of love?  
 - What role do the darker themes play in shaping the reader's emotional journey?  
 - How effectively does the author balance gothic elements with romance, and what does this say about the genre as a whole?  
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #literaryanalysis #darkheartlabs

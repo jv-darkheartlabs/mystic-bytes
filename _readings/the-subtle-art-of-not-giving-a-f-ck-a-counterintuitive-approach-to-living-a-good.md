@@ -18,7 +18,6 @@ tags:
   - philosophy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -41,5 +40,3 @@ Manson's stark dismissal of conventional self-help dogmas invites polarized disc
 - Is his approach to personal responsibility empowering or overwhelming?  
 - What are the implications of framing happiness as a choice rather than an outcome?  
 - How does the casual language affect the seriousness of the content?  
-
-#LiteraryAnalysis #darkthriller #self-help #philosophy #theorchidroom

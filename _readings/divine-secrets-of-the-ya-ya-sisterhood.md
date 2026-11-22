@@ -22,7 +22,6 @@ tags:
   - family secrets
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Wells' ability to weave humor into heavy themes presents a polarizing element re
 - Does the humor in the novel serve to enhance or undermine the more serious themes of emotional abuse and mental health?  
 - How effectively does Wells address the concept of forgiveness within family dynamics?  
 - What role does the setting play in shaping the characters' identities and experiences?
-
-#LiteraryAnalysis #darkthriller #southerngothic #sisterhood #theorchidroom

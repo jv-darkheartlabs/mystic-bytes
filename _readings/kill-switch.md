@@ -49,5 +49,3 @@ The thematic success lies in its exploration of power dynamics and the duality o
 - In what ways does the book challenge or reinforce societal perceptions of love and obsession?  
 - Is the resolution satisfying in the context of the characters' development, or does it fall short?  
 - How do the content warnings shape your reading experience and interpretation of the themes?  
-
-#TheOrchidRoom #bullyromance #darkromance #devilsnight #literaryanalysis

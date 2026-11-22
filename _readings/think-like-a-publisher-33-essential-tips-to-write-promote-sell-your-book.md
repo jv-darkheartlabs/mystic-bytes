@@ -20,7 +20,6 @@ tags:
   - self-help
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ While "Think Like a Publisher" offers practical advice, it remains contentious w
 - How does Davila's approach compare to other writing guides you've encountered?
 - Do you think the commodification discussed in the book detracts from the essence of storytelling?
 - What elements do you believe are essential for a writing guide to truly connect with its audience?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #writing

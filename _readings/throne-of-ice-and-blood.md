@@ -6,7 +6,7 @@ dek: ""
 number: R1005
 sort_key: 1005
 date: 2026-04-20
-date_read: 2024-09-19
+date_read: 2025-09-19
 category: fantasy-romance
 cover: /assets/readings/throne-of-ice-and-blood.jpg
 spice: 4
@@ -44,5 +44,3 @@ However, the pacing occasionally falters; moments of introspection can stretch i
 - How does Blackwood’s portrayal of secondary characters affect the overall impact of the narrative?  
 - In what ways does the ending fulfill or undermine the themes established throughout the book?  
 - What does the interplay of ambition and desire reveal about contemporary relationships in our own world?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #darkheartlabs

@@ -6,7 +6,7 @@ dek: "Six summers to fall in love, one summer to change it all."
 number: R1023
 sort_key: 1023
 date: 2026-04-22
-date_read: 2018-09-19
+date_read: 2024-09-19
 category: forbidden-love
 cover: /assets/readings/seven-summers.jpg
 spice: 3
@@ -40,5 +40,3 @@ The exploration of forbidden love raises intriguing questions about morality, ch
 - Can the portrayal of forbidden love be justified in literature, or does it perpetuate harmful fantasies?  
 - How does the nonlinear structure impact your understanding of the characters’ evolution?  
 - In what ways does the setting enhance or detract from the emotional stakes of the story?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

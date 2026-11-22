@@ -48,5 +48,3 @@ The novel’s exploration of forced intimacy and the ethics of arranged marriage
   - In what ways does Reilly challenge or conform to traditional dark romance tropes?  
   - Can the emotional depth of the characters redeem the potentially problematic elements of the arranged marriage theme?  
   - How do the elements of crime and violence shape the romantic relationships in the story?  
-
-#TheOrchidRoom #arrangedmarriage #darkromance #mafiaromance #literaryanalysis

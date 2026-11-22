@@ -18,7 +18,6 @@ tags:
   - dark themes
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,4 +44,3 @@ The polarities within *The Portable Nietzsche* may ignite intense debate among r
 - Is *The Portable Nietzsche* a work that challenges or affirms your own beliefs about morality and existence?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #existentialism #darkthemes #TheOrchidRoom

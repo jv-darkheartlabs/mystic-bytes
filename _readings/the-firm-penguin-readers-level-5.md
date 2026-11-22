@@ -21,7 +21,6 @@ tags:
   - mystery
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ The novel's exploration of complicity in crime raises polarizing questions about
 - In what ways does the novel challenge or conform to typical genre expectations?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #suspense #mystery #theorchidroom

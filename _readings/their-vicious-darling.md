@@ -51,5 +51,3 @@ The juxtaposition of desire and danger in *Their Vicious Darling* offers fertile
 - Does the non-linear structure enhance your understanding of the protagonist's psyche, or does it create confusion?  
 - What does the ending suggest about the nature of love and loyalty in toxic relationships?  
 - How effective is the gothic atmosphere in shaping the emotional landscape of the characters?  
-
-#TheOrchidRoom #TheirViciousDarling #vampire #darkromance #literaryanalysis

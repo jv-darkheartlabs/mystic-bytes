@@ -48,5 +48,3 @@ The interplay of light and dark in *Nevernight* offers fertile ground for discus
 - What does the book suggest about the relationship between power and vulnerability?  
 - How do the gothic elements of the story shape your understanding of romance within a fantasy context?  
 - Can the emotional intensity of *Nevernight* be viewed as a commentary on the human condition?  
-
-#TheOrchidRoom #fantasyromance #darkromance #nevernight #literaryanalysis

@@ -47,5 +47,3 @@ Hobb's work invites both admiration and critique, particularly regarding its pac
 - How does Hobb’s treatment of emotional intensity compare to other fantasy authors you’ve read?  
 - What are your thoughts on the resolution of Fitz's journey? Was it satisfying for you?  
 - How do the elements of fantasy violence shape the romantic threads within the story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #assassinsquest #literaryanalysis

@@ -48,5 +48,3 @@ The interplay of ambition and morality within *Throne of Glass* provides fertile
 - In what ways do the characters reflect or subvert traditional fantasy tropes?
 - How important is the theme of freedom in the characters' arcs, and does it resonate with contemporary issues?
 - What lingering questions do you have about the world or the characters that remain unresolved?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #assassin

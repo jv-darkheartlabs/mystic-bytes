@@ -45,5 +45,3 @@ The interplay of loyalty and betrayal raises polarizing questions about the natu
 - Do you find the non-linear structure effective, or does it disrupt the narrative flow?  
 - How does the emotional intensity impact your overall enjoyment of the story?  
 - What does the resolution of the novel suggest about the nature of sacrifice in love and friendship?  
-
-#TheOrchidRoom #fantasyromance #darkromance #theemberblade #literaryanalysis

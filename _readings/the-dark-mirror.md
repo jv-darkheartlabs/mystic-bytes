@@ -7,7 +7,7 @@ dek: "A Bone Season Novel"
 number: R652
 sort_key: 652
 date: 2026-03-12
-date_read: 2019-07-13
+date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/the-dark-mirror.jpg
 spice: 4
@@ -45,5 +45,3 @@ The interplay of light and darkness in *The Dark Mirror* presents multiple avenu
 - In what ways does the emotional intensity serve the story, and does it risk overshadowing plot progression?  
 - Is the ending a triumph of character arcs, or does it succumb to genre clichés?  
 - How does *The Dark Mirror* compare with other contemporary works in the fantasy-romance sphere in terms of emotional depth and complexity?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

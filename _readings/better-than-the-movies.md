@@ -7,7 +7,7 @@ dek: ""
 number: R449
 sort_key: 449
 date: 2026-02-18
-date_read: 2020-11-25
+date_read: 2021-11-25
 category: enemies-to-lovers
 cover: /assets/readings/better-than-the-movies.jpg
 spice: 2
@@ -48,5 +48,3 @@ The novel presents several polarities that could ignite passionate discussions:
 - In what ways does Painter’s writing style contribute to or detract from your engagement with the narrative?
 - How do you interpret the balance of humor and emotional depth in the novel?
 - What does this story reveal about the nature of teenage relationships that other works fail to capture?
-
-#TheOrchidRoom #enemiestolovers #darkromance #youngadult #romcom

@@ -7,7 +7,7 @@ dek: ""
 number: R1191
 sort_key: 1191
 date: 2026-05-10
-date_read: 2018-06-10
+date_read: 2023-06-10
 category: fantasy-romance
 cover: /assets/readings/the-wolf-king.jpg
 spice: 3
@@ -45,5 +45,3 @@ Palphreyman's exploration of power dynamics and desire creates a fertile ground 
 - In what ways do the characters' transformations reflect broader themes of autonomy versus submission?  
 - Do you find the portrayal of violence and power imbalance a necessary part of the narrative, or does it detract from the romance?  
 - How do you interpret the ending in relation to the ethical concerns raised throughout the story?
-
-#TheOrchidRoom #fantasyromance #darkromance #wolfking #literaryanalysis

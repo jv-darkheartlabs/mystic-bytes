@@ -22,7 +22,6 @@ tags:
   - mystery
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ However, the dialogue occasionally falters, at times feeling stilted or exposito
 - Are the supernatural elements merely a vehicle for exploring human emotions, or do they stand alone as characters?  
 - How effective is the first-person narrative in conveying the protagonist's inner turmoil?  
 - What elements of the novella resonate with contemporary issues of loss and memory?
-
-#TheOrchidRoom #gothic #horrorromance #haunting #atmospheric

@@ -23,7 +23,6 @@ tags:
   - supernatural
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ Coleridge's poem elicits strong reactions, particularly in its exploration of gu
 - In what ways do the supernatural elements enhance or detract from the poem's message?  
 - Can we draw parallels between the mariner's plight and modern environmental issues?  
 - What does the albatross symbolize in the context of guilt and responsibility?
-
-#TheOrchidRoom #gothic #horrorromance #classic #literaryanalysis

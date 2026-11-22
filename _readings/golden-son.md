@@ -45,5 +45,3 @@ The prose, lyrical yet stark, mirrors the duality of its themes: beauty intertwi
 - Does the pacing enhance or hinder character depth and emotional resonance?
 - How effective is the blend of intimate relationships amidst grand political strife? 
 - What lingering themes from the book resonate with contemporary societal issues?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #goldenson

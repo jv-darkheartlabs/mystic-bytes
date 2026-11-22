@@ -44,5 +44,3 @@ The novel's inherent polarities lie in its exploration of consent and power dyna
 - How does Sager’s treatment of power dynamics reflect or challenge societal norms?  
 - In what ways does the gothic atmosphere contribute to the emotional stakes of the romance?  
 - Are the characters’ transformations believable, or do they fall into stereotypical roles?
-
-#TheOrchidRoom #fantasyromance #darkromance #shifter #enemiestolovers

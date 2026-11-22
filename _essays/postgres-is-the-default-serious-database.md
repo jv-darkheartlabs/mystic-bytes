@@ -27,11 +27,11 @@ I do not run a database for mystic-bytes. That site is Jekyll. Files in git are 
 
 Nightbind needed joins, not map-reduce folklore. Postgres was already there. The temptation, every time a nested vendor payload arrived, was a JSON column "for now." That is how you get a production filter on a key inside a blob you never indexed.
 
-Rails treats PostgreSQL as a first-class adapter: types, `jsonb`, advisory locks. SQLite is a gift for a dummy app. It is not the production shape of a multi-user Rails app with concurrent writes. Cursor will generate a migration valid in one and sad in the other. Read the adapter.
+Rails treats PostgreSQL as a first-class adapter: types, `jsonb`, advisory locks. SQLite is a gift for a dummy app. It is not the production shape of a multi-user Rails app with concurrent writes. The model will generate a migration valid in one and sad in the other. Read the adapter.
 
 The Mongo-for-everything pitch was schemaless speed. Some teams needed that. Most needed transactions, foreign keys, and a query a teammate could read. They got aggregation pipelines and a schema in application validation anyway. Postgres lets you write the schema in the database, then cheat locally with JSONB when a subtree is genuinely schemaless.
 
-Auckland 2026 does not change this default. Fedora runs `psql`. mystic-bytes remains files. I will not invent a catalog database for essays so the thesis has a cute repo. The writing site is when you do *not* need a server.
+Fedora runs `psql`. mystic-bytes remains files. I will not invent a catalog database for essays so the thesis has a cute repo. The writing site is when you do *not* need a server.
 
 ## Mechanism
 
@@ -41,7 +41,7 @@ Extensions are the other half of "do not buy a second database." `CREATE EXTENSI
 
 Rails migrations are how this default becomes muscle memory. `t.jsonb`, `t.references`, `add_index` using GIN, `null: false`. The schema file is the team's contract. JSONB without a check constraint is how you recreate Mongo's "any shape" inside a serious database and then blame Postgres for your dumps.
 
-Transactions and constraints are why the default is *serious*. A document store can persist. Postgres can refuse. `FOREIGN KEY`, `UNIQUE`, `CHECK`, and `NOT NULL` are product rules that survive a rewrite of the Rails app. I want those rules next to the data, not only in a model file Cursor will "simplify."
+Transactions and constraints are why the default is *serious*. A document store can persist. Postgres can refuse. `FOREIGN KEY`, `UNIQUE`, `CHECK`, and `NOT NULL` are product rules that survive a rewrite of the Rails app. I want those rules next to the data, not only in a model file the model will "simplify."
 
 ## Tradeoffs
 

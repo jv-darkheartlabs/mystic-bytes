@@ -42,5 +42,3 @@ The core of *Years Between You* revolves around the unyielding tensions of love 
 - What role does societal judgment play in shaping the characters' decisions, and is this portrayal realistic?
 - Is the ending earned, or does it feel like an evasion of the deeper themes presented?
 - How does the narrative's first-person perspective enhance or limit the reader's understanding of the broader implications of their love?
-
-#TheOrchidRoom #forbiddenlove #darkromance #contemporary #literaryanalysis

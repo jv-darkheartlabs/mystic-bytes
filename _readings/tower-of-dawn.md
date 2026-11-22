@@ -49,5 +49,3 @@ The world-building is meticulous, with Maas painting the Southern Continent in l
 - Does the dual narrative structure serve the story, or does it detract from the central conflict?  
 - How does Maas's world-building influence your emotional investment in the characters?  
 - Is the ending satisfying given the characters' journeys, or does it leave too much unresolved?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #romantasy

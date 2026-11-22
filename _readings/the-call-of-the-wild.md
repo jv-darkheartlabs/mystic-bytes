@@ -19,7 +19,6 @@ tags:
   - animal protagonist
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The tension between civilization and the wild presents a captivating polarizing 
 - Is Buck's ultimate return to the wild a triumph or a tragedy?  
 - How effectively does London's prose serve the themes of survival and identity?  
 - Could the story's impact be achieved without the anthropomorphism of Buck?  
-
-#LiteraryAnalysis #darkthriller #survival #adventure #TheOrchidRoom

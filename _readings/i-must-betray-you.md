@@ -7,7 +7,7 @@ dek: ""
 number: R409
 sort_key: 409
 date: 2026-02-14
-date_read: 2014-07-13
+date_read: 2022-07-13
 category: historical
 cover: /assets/readings/i-must-betray-you.jpg
 content_warnings:

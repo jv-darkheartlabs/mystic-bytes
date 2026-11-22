@@ -19,7 +19,6 @@ tags:
   - classic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ Hughes' poetry provokes a myriad of emotions and interpretations, particularly a
 - In what ways do you feel the emotional rawness in Hughes' poetry serves to enhance or detract from its overall impact?  
 - Can the gothic elements in Hughes’ work be seen as a reflection of societal horrors, and how does that compare to contemporary gothic literature?  
 - Do you believe Hughes invites readers to embrace or confront their own specters through his poetry? If so, how?
-
-#TheOrchidRoom #gothic #horrorromance #poetry #AfricanAmericanliterature

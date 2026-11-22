@@ -45,5 +45,3 @@ The characterization is a double-edged sword; while the protagonists are deeply 
 - In what ways does the narrative push the boundaries of consent, and how should readers navigate these themes?
 - Can the tension between obsession and love ever be reconciled in a satisfying way, or is it inherently flawed?
 - What does the ending imply about the future of its characters and the nature of their desires?
-
-#TheOrchidRoom #darkbillionaire #darkromance #EmpireTrilogy #literaryanalysis

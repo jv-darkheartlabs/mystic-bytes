@@ -22,7 +22,6 @@ tags:
   - classic literature
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Poe's exploration of the human psyche polarizes readers, especially regarding hi
 - How does the unreliable narrator affect your empathy towards characters like the one in "The Tell-Tale Heart"?
 - In what ways does Poe's writing remain relevant in today's discussions around mental health and trauma?
 - Can Poe’s works be appreciated solely for their gothic elements, or is it essential to engage with the underlying psychological themes?
-
-#TheOrchidRoom #gothic #horrorromance #classicliterature #poetry

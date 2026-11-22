@@ -7,7 +7,7 @@ dek: ""
 number: R996
 sort_key: 996
 date: 2026-04-19
-date_read: 2015-09-19
+date_read: 2021-09-19
 category: fantasy-romance
 cover: /assets/readings/death.jpg
 spice: 5
@@ -49,5 +49,3 @@ This novel’s exploration of love amidst despair invites a rich tapestry of dis
 - Do you find the ending to be an affirmation of love or a cautionary tale?
 - How does the structure impact your connection to the characters?
 - What unresolved questions linger after the final page?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #death

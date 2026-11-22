@@ -49,5 +49,3 @@ Chakraborty’s work deftly navigates the line between romantic longing and the 
 - Does the nonlinear narrative structure enrich the emotional impact, or does it risk alienating readers?  
 - How effectively does Chakraborty balance world-building with character development?  
 - What unresolved questions linger after reading, particularly related to character arcs or thematic explorations?  
-
-#TheOrchidRoom #fantasyromance #daevabad #darkromance #literaryanalysis

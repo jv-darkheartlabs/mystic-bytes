@@ -46,5 +46,3 @@ The novel presents a tantalizing dichotomy between the intoxicating thrill of po
 - Does the dual perspective enhance or detract from the story's emotional impact?  
 - How do the themes of grief and trauma resonate with the romance elements in the narrative?  
 - Can the resolution be seen as genuinely redemptive, or does it perpetuate cycles of toxicity?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #literaryanalysis

@@ -7,7 +7,7 @@ dek: ""
 number: R988
 sort_key: 988
 date: 2026-04-18
-date_read: 2019-10-22
+date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/a-soul-to-heal.jpg
 spice: 4
@@ -47,5 +47,3 @@ The interplay of desire and healing serves as fertile ground for debate within t
 - Do you believe the portrayal of healing through love is realistic or idealized?  
 - How does Reyne’s world-building contribute to the thematic elements of the story?  
 - What elements of desire are most prominent in the characters’ interactions, and do they serve the narrative effectively?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

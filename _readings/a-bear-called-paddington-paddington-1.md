@@ -20,7 +20,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The juxtaposition of humor and deeper themes in *A Bear Called Paddington* invit
 - Can the abrupt pacing in the latter half of the narrative detract from the overall impact of the story?  
 - What might the implications be if Paddington were a human character instead of a bear?  
 - How does the balance of innocence and the uncanny in Paddington’s adventures affect our understanding of childhood?  
-
-#TheOrchidRoom #gothic #horrorromance #childrensliterature #classic

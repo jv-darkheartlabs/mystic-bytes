@@ -47,5 +47,3 @@ St. Clair’s balancing act between desire and danger raises essential questions
 - Were the emotional stakes convincing enough to justify the characters' choices?  
 - Did the ending resonate with you, or did it feel underwhelming in light of the buildup?  
 - In what ways did the themes of power and desire reflect real-world dynamics?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #ScarlettStClair

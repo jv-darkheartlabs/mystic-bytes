@@ -18,7 +18,6 @@ tags:
   - humor
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The balance between humor and the serious themes of childhood can provoke diverg
 - In what ways do Ramona's experiences reflect broader societal expectations of children? 
 - How does this book compare to other coming-of-age stories in children's literature? 
 - What elements of Ramona's character resonate most with adult readers today?
-
-#LiteraryAnalysis #children'sliterature #coming-of-age #literaryanalysis #theorchidroom

@@ -7,7 +7,7 @@ dek: "A Devil's Night Novel"
 number: R051
 sort_key: 051
 date: 2026-01-06
-date_read: 2018-09-19
+date_read: 2020-09-19
 category: bully-romance
 cover: /assets/readings/nightfall.jpg
 spice: 5
@@ -51,5 +51,3 @@ Thematically, *Nightfall* delves into the psyche of obsession, exploring how lov
 - How does the dual perspective shape our understanding of the protagonists’ motivations?  
 - In what ways does the novel challenge or reaffirm societal views on bullying and romance?  
 - Is the resolution of the plot satisfying given the buildup of tension throughout the narrative?
-
-#TheOrchidRoom #bullyromance #darkromance #suspense #literaryanalysis

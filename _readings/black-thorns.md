@@ -49,5 +49,3 @@ Prose in *Black Thorns* is sharp and evocative, with vivid imagery that grounds 
 - In what ways does the dual perspective enhance or detract from the reader's understanding of the protagonists?  
 - How do Kent’s thematic choices compare to other books you’ve read in the bully romance genre?  
 - What unresolved tensions linger after the conclusion, and how do they affect your overall interpretation of the story?
-
-#TheOrchidRoom #bullyromance #darkromance #rina kent #thornsduet

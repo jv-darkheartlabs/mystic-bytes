@@ -6,7 +6,7 @@ dek: ""
 number: R1416
 sort_key: 1416
 date: 2026-06-03
-date_read: 2015-06-10
+date_read: 2022-06-10
 category: fantasy-romance
 cover: /assets/readings/guardian-of-the-drowned-empire.jpg
 spice: 3
@@ -50,5 +50,3 @@ The novel's exploration of love amid chaos presents polarities ripe for discussi
 - Does Mallis successfully balance the thematic elements of romance and political intrigue, or does one overshadow the other?  
 - How might the portrayal of secondary characters influence the reader's investment in the main storyline?  
 - What unresolved questions linger after the conclusion, and how do they affect your overall impression of the story?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #guardian

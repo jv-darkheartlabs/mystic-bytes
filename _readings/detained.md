@@ -7,7 +7,7 @@ dek: "Beneath the Mask Series"
 number: R182
 sort_key: 182
 date: 2026-01-20
-date_read: 2017-05-07
+date_read: 2025-05-07
 category: mafia-boss-and-innocent
 cover: /assets/readings/detained.jpg
 spice: 4
@@ -48,5 +48,3 @@ Mason’s *Detained* elicits strong reactions due to its exploration of dark the
 - In what ways does the setting enhance or detract from the emotional stakes of the story?
 - Are the character arcs in *Detained* sufficiently earned by the end of the novel?
 - How does Mason’s writing style influence our perception of the characters’ moral choices?
-
-#TheOrchidRoom #mafiaromance #darkromance #beneaththemask #literaryanalysis

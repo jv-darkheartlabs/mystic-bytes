@@ -45,5 +45,3 @@ The ending, however, is where Patton truly shines, weaving threads of redemption
 - In what ways does the exploration of desire and vulnerability resonate with your own experiences of love and loss?
 - Are there moments where the emotional intensity feels excessive? When, and why?
 - What role does the setting play in shaping the characters’ journeys — is it a character in its own right?
-
-#TheOrchidRoom #fantasyromance #darkromance #shattered #literaryanalysis

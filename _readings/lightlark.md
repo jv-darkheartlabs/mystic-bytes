@@ -7,7 +7,7 @@ dek: ""
 number: R1181
 sort_key: 1181
 date: 2026-05-09
-date_read: 2020-05-07
+date_read: 2022-05-07
 category: fantasy-romance
 cover: /assets/readings/lightlark.jpg
 spice: 2
@@ -49,5 +49,3 @@ As for the themes of betrayal and loyalty, Aster navigates this terrain with fin
 - How effective is Aster’s use of tension in crafting romantic and competitive stakes? 
 - In what ways does the ending challenge or fulfill your expectations for the genre? 
 - What themes do you feel remained underexplored or could have been more impactful?
-
-#TheOrchidRoom #fantasyromance #darkromance #deadlygames #literaryanalysis

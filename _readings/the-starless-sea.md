@@ -7,7 +7,7 @@ dek: ""
 number: R914
 sort_key: 914
 date: 2026-04-10
-date_read: 2017-08-16
+date_read: 2019-08-16
 category: fantasy-romance
 cover: /assets/readings/the-starless-sea.jpg
 spice: 2
@@ -46,5 +46,3 @@ Morgenstern’s work is sure to ignite polarizing discussions about narrative st
 - How do the romantic elements inform our understanding of identity within the narrative?
 - Is the ambiguity at the novel's conclusion a bold artistic choice or a narrative misstep?
 - In what ways does the use of metaphorical language shape our connection to the characters and their desires?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

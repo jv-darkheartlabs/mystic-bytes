@@ -19,7 +19,6 @@ tags:
   - historical
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The ending, though satisfying in its resolution of identity and friendship, risk
 - What are the implications of the novel's tidy resolution in contrast to its messy themes?  
 - How do secondary characters contribute or detract from the main themes of identity and friendship?  
 - Consider the historical context—how might modern readers interpret the themes differently than Twain's contemporaries?  
-
-#TheOrchidRoom #gothic #classdisparity #identity #friendship

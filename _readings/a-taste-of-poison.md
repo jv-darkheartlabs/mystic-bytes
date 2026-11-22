@@ -51,5 +51,3 @@ Odette's work invites a split between those who revel in the intricate, gothic r
 - Do the characters' transformations feel earned, or do they lean too heavily into trope?  
 - How does the balance of darkness and romance impact your enjoyment of the narrative?  
 - What unresolved themes linger after the closing pages, and how do they affect your interpretation of the characters' journeys?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #TessonjaOdette

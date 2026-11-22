@@ -22,7 +22,6 @@ tags:
   - psychological tension
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ Dickey’s *Deliverance* invites polarizing interpretations, particularly regard
 - In what ways does the setting enhance or undermine the characters’ psychological journeys?  
 - Is the ending an affirmation of survival or a grim reflection on the human condition?  
 - How does Dickey's style influence your emotional response to the events of the story?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #darkheartlabs

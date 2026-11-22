@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R386
 sort_key: 386
 date: 2026-02-11
-date_read: 2011-11-25
+date_read: 2017-11-25
 category: mystery-crime
 cover: /assets/readings/then-she-was-gone.jpg
 content_warnings:
@@ -41,5 +41,3 @@ Jewell's exploration of grief as a protagonist raises polarities that could spli
 - How effectively does Jewell's writing convey the gothic undercurrents of despair?
 - What role does the suburban setting play in amplifying the story's tensions?
 - Is the ending a fitting resolution or does it leave too many threads dangling?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

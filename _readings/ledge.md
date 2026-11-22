@@ -6,7 +6,7 @@ dek: "The Glacian Trilogy"
 number: R1446
 sort_key: 1446
 date: 2026-06-07
-date_read: 2021-09-19
+date_read: 2022-09-19
 category: fantasy-romance
 cover: /assets/readings/ledge.jpg
 spice: 3
@@ -49,5 +49,3 @@ The interplay of survival instincts and romantic urges creates a fertile ground 
 - In what ways does McEwan's world-building succeed or falter in creating a believable fantasy setting?  
 - What impact do the content warnings have on your reading experience and engagement with the characters?  
 - How might the novel's ending redefine your understanding of the characters’ journeys?
-
-#TheOrchidRoom #fantasyromance #darkromance #glaciantrilogy #ledge

@@ -50,5 +50,3 @@ The interplay of power, obsession, and love offers rich territory for debate, pa
   - How effective is the shifting point of view in deepening our understanding of the characters?  
   - In what ways does the ending challenge or confirm your expectations from the genre?  
   - What role does the setting play as a character in its own right?  
-
-#TheOrchidRoom #fantasyromance #darkromance #kingdom #venom

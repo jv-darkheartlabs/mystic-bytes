@@ -6,7 +6,7 @@ dek: "All my life he was my protector. Now he's who I needed to be protected fro
 number: R220
 sort_key: 220
 date: 2026-01-24
-date_read: 2019-07-13
+date_read: 2023-07-13
 category: stalker-obsession
 cover: /assets/readings/sicko.jpg
 spice: 4
@@ -52,5 +52,3 @@ The polarizing nature of *Sicko* lies in its unflinching portrayal of love's dar
 - Is there a moral line crossed in portraying such intense psychological manipulation?  
 - How does the genre's typical tropes shape our expectations versus the story’s subversion of those norms?  
 - In what ways does the book challenge or uphold the notion of a 'protector' in relationships?  
-
-#TheOrchidRoom #Sicko #darkromance #psychological #literaryanalysis

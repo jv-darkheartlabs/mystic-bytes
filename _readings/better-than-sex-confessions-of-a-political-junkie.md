@@ -21,7 +21,6 @@ tags:
   - journalism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ Thompson’s unabashed honesty and chaotic style will undoubtedly spark debate a
 - What aspects of Thompson’s style do you find most compelling or off-putting?
 - How do you interpret the balance between personal narrative and political commentary in this work?
 - In light of contemporary political discourse, do you see Thompson's insights as prescient or outdated?
-
-#LiteraryAnalysis #darkthriller #politics #memoir #theorchidroom

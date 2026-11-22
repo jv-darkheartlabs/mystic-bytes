@@ -49,5 +49,3 @@ In *Born in Blood*, the tension between familial loyalty and personal desire cre
 - Do you feel the emotional depth of the characters was fully realized, or did predictability diminish their journeys?  
 - How effectively does the novel balance dark themes with romantic tension?  
 - What is the significance of the title, and how does it encapsulate the essence of the story?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #brokenbloodlines

@@ -42,5 +42,3 @@ The interplay of rivalrous dynamics within a romantic framework elicits intense 
 - Are the characters’ arcs fulfilling, or do they fall prey to predictability?  
 - To what extent does the book challenge or reinforce traditional romantic tropes?  
 - In what ways does *Smut* reflect contemporary societal views on love and sexuality?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

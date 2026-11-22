@@ -7,7 +7,7 @@ dek: "Beasts of the Briar — Book Four"
 number: R301
 sort_key: 301
 date: 2026-02-02
-date_read: 2016-07-13
+date_read: 2024-07-13
 category: vampire-paranormal
 cover: /assets/readings/broken-by-daylight.jpg
 spice: 4
@@ -49,5 +49,3 @@ This novel naturally evokes polarizing discussions around its themes of power dy
 - What are your thoughts on the balance between world-building and character development?  
 - How does *Broken by Daylight* challenge or reinforce typical vampire and paranormal tropes?  
 - In what ways does the inclusion of fae court intrigue deepen the narrative's complexity?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

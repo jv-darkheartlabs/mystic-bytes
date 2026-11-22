@@ -48,5 +48,3 @@ While *I Dare You* is undeniably gripping, it provokes significant conversation 
 - What are the implications of dual perspectives on the reader's sympathy for flawed characters?  
 - In what ways does the ending challenge or reinforce traditional romance tropes?  
 - Can we separate the thrill of the narrative from its potentially harmful implications on real-life relationships?
-
-#TheOrchidRoom #bullyromance #darkromance #dareSeries #literaryanalysis

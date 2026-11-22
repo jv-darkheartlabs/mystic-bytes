@@ -46,5 +46,3 @@ At its core, *Gallant* invites a multitude of interpretations and reactions, par
 - What are your thoughts on the portrayal of family secrets—do they serve as a catalyst for growth or merely perpetuate cycles of trauma?  
 - How does the emotional depth of the characters affect your engagement with the horror elements?  
 - Do you believe the ending effectively encapsulates the themes presented, or does it leave too many threads unresolved?
-
-#TheOrchidRoom #gothic #horrorromance #darkfantasy #literaryanalysis

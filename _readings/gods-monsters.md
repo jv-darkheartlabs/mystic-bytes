@@ -6,7 +6,7 @@ dek: "A love that will burn for eternity"
 number: R444
 sort_key: 444
 date: 2026-02-17
-date_read: 2015-06-10
+date_read: 2021-06-10
 category: enemies-to-lovers
 cover: /assets/readings/gods-monsters.jpg
 spice: 4
@@ -48,5 +48,3 @@ The interplay of love and conflict in *Gods & Monsters* raises several thought-p
 - Do you find the dual POV effective in enhancing emotional depth, or does it detract from the tension?  
 - In what ways does the ending fulfill or betray the promises made throughout the narrative?  
 - What impact do you think the societal backdrop of witch persecution has on the characters' development and their relationship?  
-
-#TheOrchidRoom #GodsAndMonsters #darkromance #literaryanalysis #romantasy

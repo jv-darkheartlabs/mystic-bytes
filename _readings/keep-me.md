@@ -7,7 +7,7 @@ dek: "Sinful Manor"
 number: R1085
 sort_key: 1085
 date: 2026-04-29
-date_read: 2020-08-16
+date_read: 2024-08-16
 category: arranged-marriage
 cover: /assets/readings/keep-me.jpg
 spice: 4
@@ -50,5 +50,3 @@ The ending, while satisfying in its resolution of the central conflict, raises q
 - In what ways does the setting of Sinful Manor enhance or detract from the characters' development?  
 - How do you interpret the book's exploration of consent in an arranged marriage context?  
 - What elements of dark romance do you think are most effectively employed here, and why?
-
-#TheOrchidRoom #KeepMe #arrangedmarriage #darkromance #billionaire

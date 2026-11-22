@@ -18,7 +18,6 @@ tags:
   - literary analysis
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,4 +42,3 @@ This guide polarizes the audience, particularly in its treatment of Brown’s le
 - What does Eastment's analysis reveal about the expectations of narrative versus thematic depth in popular literature?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #mystery #suspense #theorchidroom

@@ -46,5 +46,3 @@ In *Exodus*, the exploration of taboo love sparks essential conversations about 
 - Can a love rooted in taboo ever be justified, and where do we draw the line?  
 - How does Stewart's approach to character development enhance or undermine the themes of the narrative?  
 - In what ways does the structure of the novel affect your emotional engagement with the characters?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #exodus

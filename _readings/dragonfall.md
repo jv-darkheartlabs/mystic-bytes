@@ -42,5 +42,3 @@ Estes structures "Dragonfall" with a dual narrative perspective, allowing reader
 - Are the emotional stakes in the story effectively earned by the narrative's conclusion?  
 - How does the exploration of darker themes influence your perception of the romantic arc?  
 - What aspects of world-building felt necessary versus excessive in supporting the plot?  
-
-#TheOrchidRoom #dragonfall #fantasyromance #darkromance #literaryanalysis

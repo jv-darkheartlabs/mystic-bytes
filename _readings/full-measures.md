@@ -42,5 +42,3 @@ The thematic exploration of grief and survival is woven throughout the text, as 
 - How effectively does Yarros balance the tension between duty and desire?  
 - Are the characters' journeys towards healing genuine, or do they succumb to genre clichés?  
 - How does the author’s approach to trauma shape the way we perceive the characters' choices?  
-
-#TheOrchidRoom #militaryromance #darkromance #Flight & Glory #literaryanalysis

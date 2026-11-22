@@ -44,5 +44,3 @@ Characterization shines in the depiction of the protagonists, who are steeped in
 - What role do societal taboos play in shaping our perception of love as depicted in the narrative?  
 - Is the ending an artistic choice or a narrative flaw?  
 - How do we reconcile the dark themes with our own moral compasses?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

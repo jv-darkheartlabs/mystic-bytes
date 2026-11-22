@@ -48,5 +48,3 @@ The ending, while ambiguous, is earned through the careful cultivation of tensio
 - Can the intense psychological themes alienate readers, or do they enhance the universality of the story?  
 - How does the ambiguity of the ending impact your overall interpretation of the narrative?  
 - What does *Kid* suggest about the relationship between love and violence, and how does this resonate with contemporary societal themes?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #darkheartlabs

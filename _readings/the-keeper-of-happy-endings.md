@@ -45,5 +45,3 @@ The dichotomy between the fantastical elements and the harsh realities of war ra
 - Does the resolution honor the complexities of grief that permeate the story, or does it lean too heavily into the realm of fantasy?  
 - How does the portrayal of love in the face of tragedy redefine traditional romantic tropes?  
 - Are there moments within the text where the character motivations feel unearned or lacking in depth?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #WWII

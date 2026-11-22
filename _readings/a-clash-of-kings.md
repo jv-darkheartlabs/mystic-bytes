@@ -47,5 +47,3 @@ The interplay of power, desire, and betrayal in *A Clash of Kings* raises essent
 - Do you find the multiple perspectives enriching or disorienting? Why?  
 - How effectively does the book balance emotional intensity with the overarching plot?  
 - What themes resonate most with you regarding the nature of desire and power?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #aClashOfKings

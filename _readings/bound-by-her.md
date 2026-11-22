@@ -50,5 +50,3 @@ Rylan's **Bound by Her** invites a cacophony of responses, particularly around t
 - In what ways does the ending reflect the themes of captivity and emotional restraint?  
 - Can we separate the characters’ actions from their desires, or do they remain inextricably linked?  
 - How does Rylan's work compare to other dark romance authors in terms of moral ambiguity?
-
-#TheOrchidRoom #BoundByHer #DarkRomance #Gothic #LiteraryAnalysis

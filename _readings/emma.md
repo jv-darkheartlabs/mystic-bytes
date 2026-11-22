@@ -18,7 +18,6 @@ tags:
   - social commentary
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ Austen's exploration of misjudgment and the evolution of affection raises severa
 - What moments in the novel highlight the tension between societal expectation and personal desire?  
 - How does Austen's use of irony shape our understanding of the characters' motivations?  
 - In what ways does Emma's journey resonate with contemporary narratives in romance?
-
-#TheOrchidRoom #enemiestolovers #darkromance #classic #socialcommentary

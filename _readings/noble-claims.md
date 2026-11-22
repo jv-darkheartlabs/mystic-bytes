@@ -49,5 +49,3 @@ The intricacies of *Noble Claims* invite a plethora of debates centered around i
 - How does the use of dark magic serve as a metaphor for the characters' struggles?
 - In what ways does the narrative challenge or reinforce traditional tropes of fantasy romance?
 - What implications does the ending hold for the characters' future and the societal structures they inhabit?
-
-#TheOrchidRoom #fantasyromance #darkromance #dragonromance #literaryanalysis

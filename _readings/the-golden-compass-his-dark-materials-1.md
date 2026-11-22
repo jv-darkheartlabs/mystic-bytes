@@ -21,7 +21,6 @@ tags:
   - parallel universes
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The ending, while climactic, leaves readers with a profound sense of ambiguity t
 - In what ways does the book’s ambiguity enhance or detract from its impact?  
 - How does Pullman’s representation of authority challenge or conform to traditional fantasy tropes?  
 - What role does Lyra’s gender play in her journey and the choices she makes?
-
-#TheOrchidRoom #fantasyromance #darkromance #comingofage #HisDarkMaterials

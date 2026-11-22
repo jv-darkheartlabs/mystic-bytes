@@ -20,7 +20,6 @@ tags:
   - philosophy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,4 +42,3 @@ Millburn’s essays present a dichotomy that may split readers: the allure of mi
 - Does the lack of traditional narrative drive weaken the impact of the essays?
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #darkthriller #philosophy #minimalism

@@ -49,5 +49,3 @@ The interplay of love and violence will undoubtedly ignite debate, with some rea
 - In what ways does the sports setting influence the characters' development and their relationship?  
 - Are readers of bully romance more receptive to moral ambiguity, or does it create a barrier?  
 - How does the novel's resolution reflect the themes of love and trauma?  
-
-#TheOrchidRoom #bullyromance #darkromance #enemiestolovers #literaryanalysis

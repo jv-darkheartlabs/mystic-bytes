@@ -7,7 +7,7 @@ dek: "USA Today Bestselling Author"
 number: R280
 sort_key: 280
 date: 2026-01-30
-date_read: 2019-04-04
+date_read: 2024-04-04
 category: vampire-paranormal
 cover: /assets/readings/land-of-ashes.jpg
 spice: 4
@@ -50,5 +50,3 @@ Thematically, the novel probes the intersections of love, power, and survival, q
 - Are the portrayals of violence justified by the narrative’s thematic explorations, or do they overshadow the emotional depth?  
 - In what ways does Brown challenge or conform to typical genre tropes?  
 - What unresolved questions linger after finishing the book that might spark further discussion?
-
-#TheOrchidRoom #LandofAshes #vampire #darkromance #literaryanalysis

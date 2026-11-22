@@ -48,5 +48,3 @@ This novel's exploration of emotional manipulation and the blurred lines of desi
 - What role does the college setting play in amplifying the themes of power and control?  
 - In what ways does Kent’s writing style affect our perception of the emotional stakes?  
 - Can the ending be seen as redemptive, or does it fail to earn its resolution?
-
-#TheOrchidRoom #RinaKent #ThornsDuet #darkromance #bullyromance

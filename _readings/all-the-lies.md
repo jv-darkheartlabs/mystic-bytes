@@ -7,7 +7,7 @@ dek: "When lies become truths"
 number: R1118
 sort_key: 1118
 date: 2026-05-02
-date_read: 2017-05-07
+date_read: 2020-05-07
 category: enemies-to-lovers
 cover: /assets/readings/all-the-lies.jpg
 spice: 4
@@ -48,5 +48,3 @@ The interplay of power and desire in *All the Lies* will undoubtedly weave a com
 - How effectively does the dual-narrative structure contribute to the development of tension and character depth?  
 - What role does societal expectation play in shaping the characters’ perceptions of love and deception?  
 - Does the ending provide a satisfactory resolution to the ethical dilemmas raised, or does it fall short?
-
-#TheOrchidRoom #enemiestolovers #darkromance #rina kent #literaryanalysis

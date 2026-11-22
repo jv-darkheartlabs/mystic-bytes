@@ -7,7 +7,7 @@ dek: "A Never After Novel"
 number: R150
 sort_key: 150
 date: 2026-01-17
-date_read: 2021-09-19
+date_read: 2023-09-19
 category: forbidden-love
 cover: /assets/readings/twisted.jpg
 spice: 5
@@ -44,5 +44,3 @@ McIntire excels in her world-building, crafting a setting that feels both alluri
 - Should we as readers accept darker themes in romance, or do they risk glorifying harmful behaviors?  
 - How does the dual perspective impact our empathy for the characters?  
 - What role does the setting play in shaping the characters' choices, and could it have been developed further?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

@@ -7,7 +7,7 @@ dek: ""
 number: R1190
 sort_key: 1190
 date: 2026-05-10
-date_read: 2017-05-07
+date_read: 2025-05-07
 category: fantasy-romance
 cover: /assets/readings/the-night-prince.jpg
 spice: 3
@@ -46,5 +46,3 @@ While *The Night Prince* captivates with its rich setting and emotional stakes, 
 - In what ways do the Celtic elements contribute to or detract from the overall narrative?  
 - How do you feel about the ending — does it honor the journey, or does it fall into predictable resolutions?  
 - What roles do violence and kidnapping play in shaping the narrative’s emotional landscape?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #wolfshifter

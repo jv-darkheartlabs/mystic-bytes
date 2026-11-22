@@ -50,5 +50,3 @@ The polarities within **Kingdom Titan** will incite vigorous debate: Does the gl
 - Do you believe the ending reflects an authentic resolution, or is it merely a convenient conclusion?  
 - What role does the setting play in amplifying the themes of power and desire?  
 - How do the content warnings influence your reading experience or interpretation of the characters' actions?
-
-#TheOrchidRoom #darkbillionaire #darkromance #the dark kings #literaryanalysis

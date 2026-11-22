@@ -22,7 +22,6 @@ tags:
   - books within books
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The juxtaposition of literary homage and the consequences of storytelling invite
 - What do we make of the pacing issues throughout the novel—do they reflect the nature of storytelling or weaken the plot?
 - In what ways does the exploration of fear and desire resonate with you as a reader? 
 - How does **Inkheart** compare to other literary fantasies in its treatment of the 'power of words' theme?  
-
-#TheOrchidRoom #gothic #horrorromance #fantasy #darkheartlabs

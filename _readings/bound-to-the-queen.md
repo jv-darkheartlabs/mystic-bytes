@@ -6,7 +6,7 @@ dek: "Our Fae Queen — Book 3"
 number: R531
 sort_key: 531
 date: 2026-02-27
-date_read: 2018-03-01
+date_read: 2021-03-01
 category: fantasy-romance
 cover: /assets/readings/bound-to-the-queen.jpg
 spice: 4
@@ -46,5 +46,3 @@ This narrative invites a spectrum of interpretations regarding the intersection 
 - In what ways does the setting enhance or hinder the exploration of autonomy and agency?  
 - Can we reconcile the darker themes of captivity with the romantic elements of the story, or do they ultimately undermine one another?  
 - What did you think of the character development throughout the series — did it feel earned by the end?
-
-#TheOrchidRoom #fantasyromance #darkromance #fae #literaryanalysis

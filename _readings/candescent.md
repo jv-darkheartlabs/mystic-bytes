@@ -49,5 +49,3 @@ Characterization shines through nuanced dialogue, revealing deep-seated fears an
 - In what ways does the world-building enhance or detract from the central conflict?  
 - What are the ethical considerations when writing about power imbalances in romance?  
 - How does *Candescent* compare to other dark romances you've read in terms of emotional impact?
-
-#TheOrchidRoom #Candescent #Omegaverse #DarkRomance #LiteraryAnalysis

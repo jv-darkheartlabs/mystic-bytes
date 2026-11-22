@@ -8,13 +8,17 @@
   <meta property="og:image" content="{{ page.cover | absolute_url }}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="{{ page.cover | absolute_url }}">
+  {% else %}
+  <meta property="og:image" content="{{ '/assets/images/og-default.png' | absolute_url }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ '/assets/images/og-default.png' | absolute_url }}">
   {% endif %}
 
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://static.cloudflareinsights.com https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://cards.scryfall.io; connect-src 'self' https://cloudflareinsights.com https://api.scryfall.com https://challenges.cloudflare.com{% if site.form_endpoint %} {{ site.form_endpoint }}{% endif %}; frame-src https://open.spotify.com https://www.youtube.com https://www.youtube-nocookie.com https://challenges.cloudflare.com;">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,400;1,500;1,600&family=Fira+Code:wght@400;500;600;700&family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,400;1,500;1,600&family=Fira+Code:wght@400;500;600;700&family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
 
   {% assign asset_v = site.github.build_revision | default: site.asset_version %}
   {% unless asset_v %}{% assign asset_v = site.time | date: '%s' %}{% endunless %}

@@ -6,7 +6,7 @@ dek: "A Dark Hitchhiker Romance"
 number: R1311
 sort_key: 1311
 date: 2026-05-23
-date_read: 2018-09-19
+date_read: 2024-09-19
 category: stalker-obsession
 cover: /assets/readings/white-lines.jpg
 spice: 5
@@ -54,5 +54,3 @@ The novel teeters on a precipice of polarizing themes: the nature of consent, th
 - Are the characters’ actions justifiable within the context of their emotional turmoil, or do they remain irredeemable?  
 - What role does setting play in amplifying the themes of the book?  
 - How effective is the ending in addressing the narrative's moral complexities?
-
-#TheOrchidRoom #stalker #obsession #darkromance #literaryanalysis

@@ -49,5 +49,3 @@ Craft-wise, James excels in crafting dialogue that crackles with tension, reveal
 - In what ways does the first-person narrative enhance or hinder the reader's experience?
 - Does the ending provide closure, or does it leave too many unresolved threads?
 - How do the content warnings shape your reading experience and interpretation of the themes?
-
-#TheOrchidRoom #Fake #TateJames #darkromance #literaryanalysis

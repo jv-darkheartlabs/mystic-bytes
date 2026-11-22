@@ -7,7 +7,7 @@ dek: ""
 number: R912
 sort_key: 912
 date: 2026-04-10
-date_read: 2015-06-10
+date_read: 2018-06-10
 category: fantasy-romance
 cover: /assets/readings/dance-of-thieves.jpg
 spice: 3
@@ -45,5 +45,3 @@ The novel’s interplay of love and power is rife with polarizing interpretation
 - In what ways does the resolution impact your reading of the characters’ journeys?  
 - How does Pearson's handling of emotional intensity affect your connection to the story?  
 - What tropes do you think were most effectively utilized or subverted in the narrative?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

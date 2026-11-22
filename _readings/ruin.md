@@ -44,5 +44,3 @@ The prose is particularly adept at conjuring vivid imagery and emotional nuance;
 - How effective is the dual perspective in creating empathy for both protagonists? 
 - Do you find the ending to be an authentic resolution or an evasion of deeper truths? 
 - What role do you think emotional intensity plays in shaping the narrative's moral framework?
-
-#TheOrchidRoom #fantasyromance #darkromance #ruin #literaryanalysis

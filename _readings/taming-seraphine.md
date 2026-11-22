@@ -6,7 +6,7 @@ dek: ""
 number: R1106
 sort_key: 1106
 date: 2026-05-01
-date_read: 2017-11-25
+date_read: 2023-11-25
 category: captor-and-captive
 cover: /assets/readings/taming-seraphine.jpg
 spice: 5
@@ -49,5 +49,3 @@ The polarities in *Taming Seraphine* are rich fodder for debate, inviting reader
 - In what ways does the narrative structure affect your perception of the characters’ morality?  
 - Does the ending serve the story's themes, or does it compromise the characters' development?  
 - What does the symbolism of roses reveal about love and danger in the context of the story?  
-
-#TheOrchidRoom #darkromance #TamingSeraphine #literaryanalysis #captorandcaptives

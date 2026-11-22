@@ -7,7 +7,7 @@ dek: "Into Darkness — Book 1"
 number: R221
 sort_key: 221
 date: 2026-01-24
-date_read: 2020-08-16
+date_read: 2025-08-16
 category: stalker-obsession
 cover: /assets/readings/caught-up.jpg
 spice: 4
@@ -53,5 +53,3 @@ Thematically, the book wrestles with the morality of love and obsession, raising
 - What are the implications of the book's ending for the characters' future?  
 - In what ways does the dual POV enhance or detract from the story's impact?  
 - How does Allen's approach compare to other authors in the dark romance genre?
-
-#TheOrchidRoom #CaughtUp #darkromance #stalker #literaryanalysis

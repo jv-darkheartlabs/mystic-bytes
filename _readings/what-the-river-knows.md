@@ -7,7 +7,7 @@ dek: "A divine exploration. A deadly secret. A desire she can't escape."
 number: R1242
 sort_key: 1242
 date: 2026-05-16
-date_read: 2021-03-01
+date_read: 2023-03-01
 category: fantasy-romance
 cover: /assets/readings/what-the-river-knows.jpg
 spice: 2
@@ -50,5 +50,3 @@ The novel presents intriguing polarities that could ignite passionate conversati
 - Do you find the ending satisfactory in resolving the key themes presented? Why or why not?  
 - How does Ibañez's portrayal of Egyptian mythology compare to other fantasy works you've encountered?  
 - What do you believe the river symbolizes in relation to the characters' journeys?  
-
-#TheOrchidRoom #fantasyromance #darkromance #egypt #literaryanalysis

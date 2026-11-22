@@ -7,7 +7,7 @@ dek: "A Devil's Night Novella"
 number: R028
 sort_key: 028
 date: 2026-01-04
-date_read: 2019-04-04
+date_read: 2020-04-04
 category: bully-romance
 cover: /assets/readings/fire-night.jpg
 spice: 4
@@ -50,5 +50,3 @@ The ending, while resonant, feels slightly rushed, leaving the reader craving a 
 - In what ways does Douglas's writing challenge or conform to traditional bully-romance narratives?  
 - Can we separate the characters' actions from their motivations when discussing moral implications in the story?  
 - What unresolved questions linger about the characters' futures beyond the novella's conclusion?  
-
-#TheOrchidRoom #bullyromance #darkromance #devilsnight #literaryanalysis

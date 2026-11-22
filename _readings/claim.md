@@ -49,5 +49,3 @@ Mason’s ability to blend dark themes with romantic elements invites polarizing
 - In what ways does **Claim** challenge or reinforce stereotypes within the mafia-boss subgenre?  
 - Does the masked hero trope elevate or detract from the narrative's depth?  
 - How does the exploration of possession resonate with contemporary discussions on consent and agency?  
-
-#TheOrchidRoom #mafiaromance #darkromance #beneaththesecrets #literaryanalysis

@@ -19,7 +19,6 @@ tags:
   - philosophical
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Wells’ narrative raises essential questions about humanity’s future, and thi
 - What does the uncertain ending imply about Wells’ perspective on human evolution?
 - In what ways does *The Time Machine* reflect modern anxieties about technological advancement?
 - Can the book still hold relevance for today’s readers, and if so, how?
-
-#LiteraryAnalysis #darkthriller #sciencefiction #philosophical #theorchidroom

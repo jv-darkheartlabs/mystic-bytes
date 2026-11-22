@@ -6,7 +6,7 @@ dek: "When love is a whole different animal."
 number: R605
 sort_key: 605
 date: 2026-03-07
-date_read: 2020-05-07
+date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/the-fake-mate.jpg
 spice: 4
@@ -45,5 +45,3 @@ The novel cleverly juxtaposes the mask of a fake relationship against the rawnes
 - Do you find the resolution of their conflict satisfying or lacking?
 - How does the balance of humor and darkness affect your reading experience?
 - What role does the setting play in shaping character development and thematic depth?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #shifter #literaryanalysis

@@ -47,5 +47,3 @@ The prose excels in its ability to convey visceral imagery, with scenes of viole
 - In what ways do the content warnings enhance or detract from the readers' experience?
 - Are the protagonists' actions justified within their context, or do they cross an irredeemable line?
 - What elements of the narrative challenge or reinforce your personal boundaries regarding dark romance?
-
-#TheOrchidRoom #NoSaint #mafiaromance #darkromance #literaryanalysis

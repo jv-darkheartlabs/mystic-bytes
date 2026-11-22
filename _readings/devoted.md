@@ -7,7 +7,7 @@ dek: "Beneath the Mask Series"
 number: R185
 sort_key: 185
 date: 2026-01-21
-date_read: 2020-08-16
+date_read: 2025-08-16
 category: mafia-boss-and-innocent
 cover: /assets/readings/devoted.jpg
 spice: 4
@@ -50,5 +50,3 @@ While **Devoted** captivates with its dark allure, it also invites polarizing di
 - How effectively does the dual POV enhance or detract from the story’s emotional weight?  
 - Where do we draw the line between dark romance and glorifying problematic relationships?  
 - Is the ending of **Devoted** satisfying, or does it undermine the depth of the characters’ struggles?  
-
-#TheOrchidRoom #mafiaromance #darkromance #beneaththemask #literaryanalysis

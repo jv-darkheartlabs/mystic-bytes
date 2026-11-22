@@ -7,7 +7,7 @@ dek: ""
 number: R723
 sort_key: 723
 date: 2026-03-20
-date_read: 2018-06-10
+date_read: 2022-06-10
 category: fantasy-romance
 cover: /assets/readings/the-hunger-of-the-gods.jpg
 spice: 4
@@ -44,5 +44,3 @@ The interplay of desire and ambition in *The Hunger of the Gods* presents a fert
 - How do the dual themes of desire and ambition reflect contemporary societal issues?  
 - In what ways does the structure of multiple perspectives enhance or detract from the story's emotional core?  
 - Was the ending satisfying, or did it feel like a cop-out for the characters' journeys?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

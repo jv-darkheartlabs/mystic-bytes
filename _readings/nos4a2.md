@@ -24,7 +24,6 @@ tags:
   - psychological thriller
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ However, while the character development is generally strong, some supporting ch
 - Can the ending be seen as a resolution or merely a continuation of the cycle of trauma?  
 - How do the content warnings shape your reading experience, and do they impact your engagement with the text?  
 - What role does nostalgia play in the characters’ journeys, and how does it complicate their desires?
-
-#TheOrchidRoom #gothic #horrorromance #darkfantasy #psychologicalthriller

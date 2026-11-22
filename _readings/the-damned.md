@@ -49,5 +49,3 @@ However, the structure can occasionally feel overloaded with exposition, risking
 - Are the pacing issues significant enough to detract from the reading experience, or do they enrich the chaotic nature of obsession?  
 - What does the ending suggest about the consequences of desire and the cyclical nature of obsession?  
 - In what ways does Woods' work redefine or reinforce genre expectations in paranormal romance?
-
-#TheOrchidRoom #darkromance #vampire #gothic #literaryanalysis

@@ -27,7 +27,7 @@ On Nightbind a security questionnaire arrived mid-sprint: *Does the product encr
 
 The gap was not algorithm choice. Nobody outside the backend had language for the system we had already built. Nobody inside had documented what we had not built, like client-side keys for exported notes. "Add encryption" sounded like progress. It was theatre unless it named a specific hole in the threat model.
 
-I am writing this from Auckland in 2026, on Fedora, with mystic-bytes drafts in Cursor. The hosting story for a small writing site is boring on purpose: HTTPS at the edge, disk encryption from the provider, secrets out of the repo. Boring is the point. A relocation is a bad time to discover that a "privacy feature" was a marketing sentence sitting on top of server-held keys I can still read.
+I am writing this from Louisiana in 2026, on Fedora. The hosting story for a small writing site is boring on purpose: HTTPS at the edge, disk encryption from the provider, secrets out of the repo. Boring is the point. A relocation is a bad time to discover that a "privacy feature" was a marketing sentence sitting on top of server-held keys I can still read.
 
 ## Mechanism
 

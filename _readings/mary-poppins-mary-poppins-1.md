@@ -19,7 +19,6 @@ tags:
   - children's literature
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Travers’ work invites a complex conversation about childhood, authority, and t
 - Can we view Mary Poppins as a feminist figure, challenging traditional gender roles, or does she reinforce them?  
 - How do the episodic elements contribute to or detract from the overall narrative experience?  
 - What are the implications of magic in the context of authority and control?  
-
-#TheOrchidRoom #gothic #horrorromance #classic #literaryanalysis

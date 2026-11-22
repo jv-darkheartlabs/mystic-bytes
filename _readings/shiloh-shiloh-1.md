@@ -18,7 +18,6 @@ tags:
   - friendship
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The ethical quandaries presented in **Shiloh** pose challenging questions that c
 - How does Naylor's treatment of animal welfare resonate with current societal views?
 - In what ways could the story have embraced darker themes to enhance its impact?
 - Does the book succeed in bridging the gap between young and adult audiences, or does it cater primarily to one demographic?
-
-#LiteraryAnalysis #GothicEdge  #TheOrchidRoom #darkthriller #romanticsuspense

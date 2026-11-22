@@ -43,5 +43,3 @@ Jimenez's novel challenges readers to grapple with the dynamics of love, ambitio
 - Are the tropes employed refreshingly subversive or predictably formulaic?  
 - What role does vulnerability play in the resolution, and is it earned?  
 - How does the tone shift throughout the narrative affect your overall experience?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #smalltown #literaryanalysis

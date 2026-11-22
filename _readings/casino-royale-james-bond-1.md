@@ -22,7 +22,6 @@ tags:
   - romance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Fleming's **Casino Royale** instigates polarizing views on the portrayal of masc
 - Can Bond be viewed as a morally ambiguous hero, or does he cross a line into irredeemability?  
 - How do the themes of betrayal and trust resonate in today's geopolitical landscape?  
 - What role does the setting play in shaping the novel's tension?
-
-#LiteraryAnalysis #darkthriller #romanticsuspense #spy #action #theorchidroom

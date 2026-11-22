@@ -6,7 +6,7 @@ dek: ""
 number: R1046
 sort_key: 1046
 date: 2026-04-25
-date_read: 2017-05-07
+date_read: 2020-05-07
 category: gothic-horror-romance
 cover: /assets/readings/master-of-salt-bones.jpg
 spice: 4
@@ -45,5 +45,3 @@ The novel's exploration of love set against a gothic backdrop invites a myriad o
 - Do you find the ending satisfying, or does it undermine the character arcs established throughout the novel?  
 - How does the atmospheric tension compare to the emotional intensity of the narrative?  
 - What biases might inform our reading of the characters' moral complexities?
-
-#TheOrchidRoom #gothic #horrorromance #master #literaryanalysis #darkheartlabs

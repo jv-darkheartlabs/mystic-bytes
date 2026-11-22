@@ -17,7 +17,7 @@ brief:
 
 GitHub Copilot is autocomplete with a lawyer. The completion is the demo. The legal wrapper is the product Microsoft can sell to a general counsel: trained in the shadow of public code, shipped inside the forge, with a copyright posture and a terms page that a random editor plugin does not have.
 
-I write mystic-bytes in Cursor. That loop is a different essay: an editor with a model in it, a diff I still have to read. Copilot is the SKU that lives in VS Code and on github.com, billed as a seat or as credits, attached to the account that already holds the repos. I have never been a GitHub or Microsoft employee. I read the public Copilot docs and the training-data fights the way a customer reads a warranty. Copilot is not uniquely clean. The company staffed the legal question. An intern completion engine does not come with a Microsoft legal department. This one does.
+I write mystic-bytes in Claude. That loop is a different essay: an editor with a model in it, a diff I still have to read. Copilot is the SKU that lives in VS Code and on github.com, billed as a seat or as credits, attached to the account that already holds the repos. I have never been a GitHub or Microsoft employee. I read the public Copilot docs and the training-data fights the way a customer reads a warranty. Copilot is not uniquely clean. The company staffed the legal question. An intern completion engine does not come with a Microsoft legal department. This one does.
 
 That is why Copilot spread in enterprises that would not install a model from a Discord. The lawyer is the feature. The ghost text is the payload.
 

@@ -22,7 +22,6 @@ tags:
   - Los Angeles
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The polarities present in *L.A. Confidential* invite fervent debate. On one hand
 - In what ways does the historical context enhance or detract from the narrative’s impact?
 - Are the violent themes justified in serving the story, or do they hinder the reader's connection to the characters?
 - What does the unresolved ending suggest about the nature of justice in Ellroy's world?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #noir #theorchidroom

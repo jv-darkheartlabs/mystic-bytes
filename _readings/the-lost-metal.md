@@ -7,7 +7,7 @@ dek: "Mistborn Era Two"
 number: R712
 sort_key: 712
 date: 2026-03-19
-date_read: 2019-04-04
+date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/the-lost-metal.jpg
 spice: 3
@@ -45,5 +45,3 @@ The tension between ambition and love serves as a critical fulcrum in the narrat
 - Were you satisfied with the resolution of the characters’ arcs, or did it leave you wanting more?  
 - How does Sanderson balance the darker elements of fantasy with the romantic threads?  
 - What message do you think the author conveys about sacrifice in pursuit of one’s desires?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #thelostmetal

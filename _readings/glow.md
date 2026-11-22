@@ -7,7 +7,7 @@ dek: "The Plated Prisoner Series"
 number: R1153
 sort_key: 1153
 date: 2026-05-06
-date_read: 2016-04-04
+date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/glow.jpg
 spice: 4
@@ -47,5 +47,3 @@ Kennedy's **Glow** deftly confronts polarities of power and agency, crafting a d
 - In what ways does the setting of captivity serve as a metaphor for broader societal issues?  
 - How does Kennedy's use of language shape your connection to the characters' emotional journeys?  
 - Is the resolution satisfying in addressing the complexities of the characters’ experiences?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #platedprisoner

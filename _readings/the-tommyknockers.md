@@ -24,7 +24,6 @@ tags:
   - alien
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -51,5 +50,3 @@ King's *The Tommyknockers* presents polarities that may divide readers. The juxt
 - How effective is the third-person narration in conveying the horror? Would a different perspective have altered the story's impact?  
 - Can the grotesque elements overshadow the emotional weight of the characters’ journeys?  
 - What unresolved questions linger after the conclusion, and how do they affect your overall reading experience?  
-
-#TheOrchidRoom #gothic #horrorromance #sci-fi #psychological

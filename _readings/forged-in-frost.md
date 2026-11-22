@@ -6,7 +6,7 @@ dek: "Of Dragons and Fae Book 2"
 number: R1238
 sort_key: 1238
 date: 2026-05-15
-date_read: 2017-08-16
+date_read: 2023-08-16
 category: fantasy-romance
 cover: /assets/readings/forged-in-frost.jpg
 spice: 3
@@ -43,5 +43,3 @@ The juxtaposition of power dynamics and romantic entanglements in "Forged in Fro
 - In what ways do the dual timelines enhance or detract from your emotional engagement with the characters?  
 - Do you find the archetypal characters refreshing or limiting within the fantasy-romance genre?  
 - How does the use of elemental magic reflect the characters' emotional journeys?
-
-#TheOrchidRoom #fantasyromance #darkromance #dragonsandfae #literaryanalysis

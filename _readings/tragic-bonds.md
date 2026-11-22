@@ -6,7 +6,7 @@ dek: "The Bonds That Tie — Book V"
 number: R555
 sort_key: 555
 date: 2026-03-02
-date_read: 2018-09-19
+date_read: 2023-09-19
 category: fantasy-romance
 cover: /assets/readings/tragic-bonds.jpg
 spice: 4
@@ -52,5 +52,3 @@ The ending, while satisfying, leaves certain threads tantalizingly unresolved, h
 - Do you find the balance between fantasy world-building and character development effective, or does one overshadow the other?  
 - How does the exploration of dark magic serve as a metaphor for the characters' internal struggles?  
 - Can obsession ever be portrayed positively in literature, or is it inherently tragic?
-
-#TheOrchidRoom #fantasyromance #darkromance #tragicbonds #literaryanalysis

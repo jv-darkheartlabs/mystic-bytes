@@ -7,7 +7,7 @@ dek: "The Nightborn Duet Book Two"
 number: R1323
 sort_key: 1323
 date: 2026-05-24
-date_read: 2018-03-01
+date_read: 2023-03-01
 category: vampire-paranormal
 cover: /assets/readings/the-ashes-the-star-cursed-king.jpg
 spice: 4
@@ -45,5 +45,3 @@ The novel raises compelling questions about loyalty, agency, and the nature of d
 - Can the elements of grief and betrayal in this love story be seen as a critique of romantic idealism?
 - How does the pacing affect our emotional investment in the characters?
 - Do you find the ending a fitting resolution, or does it leave too many threads dangling?
-
-#TheOrchidRoom #vampire #darkromance #literaryanalysis #crowns_of_nyxia

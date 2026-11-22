@@ -48,5 +48,3 @@ The tension between love and obsession in *Kingdom Grave* prompts questions abou
 - Are the content warnings effective in setting reader expectations, or do they hinder engagement with the themes?  
 - In what ways does the ending challenge traditional notions of romantic fulfillment?  
 - How do the characters' traumas inform your understanding of their actions, and do you find this sympathetic or problematic?  
-
-#TheOrchidRoom #darkbillionaire #darkromance #literaryanalysis #darkheartlabs

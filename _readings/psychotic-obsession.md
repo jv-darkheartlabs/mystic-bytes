@@ -54,5 +54,3 @@ This novel raises polarizing questions about the nature of obsession and the eth
 - In what ways does the gothic atmosphere enhance or detract from the psychological tension?
 - Can we separate the allure of the characters from the moral implications of their actions?
 - What unresolved themes resonate with you beyond the pages of this novel?
-
-#TheOrchidRoom #PsychoticObsession #DarkRomance #LiteraryAnalysis #Gothic

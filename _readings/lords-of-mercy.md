@@ -48,5 +48,3 @@ The prose is lush and evocative, effectively painting a world steeped in opulenc
 - In what ways do the dual perspectives enhance or detract from the emotional stakes of the narrative?  
 - Does the novel offer a sufficient resolution to the characters' arcs, or does it leave too many questions unanswered?  
 - How does the gothic setting contribute to the overall themes of power and desire?  
-
-#TheOrchidRoom #bullyromance #darkromance #gothic #literaryanalysis

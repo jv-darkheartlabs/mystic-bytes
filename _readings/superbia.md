@@ -6,7 +6,7 @@ dek: "Sins of the Flesh"
 number: R1010
 sort_key: 1010
 date: 2026-04-21
-date_read: 2017-05-07
+date_read: 2023-05-07
 category: fantasy-romance
 cover: /assets/readings/superbia.jpg
 spice: 5
@@ -47,5 +47,3 @@ The polarities present in *Superbia* are ripe for dissection — how do we recon
 - Do you believe the book’s ending provides sufficient resolution, or does it leave too many questions unanswered?  
 - How do the dark themes influence your reading experience? Do they enhance or detract from the romantic elements?  
 - Can we separate the notion of desire from its moral implications as depicted in the narrative?  
-
-#TheOrchidRoom #fantasyromance #darkromance #darkfantasy #literaryanalysis

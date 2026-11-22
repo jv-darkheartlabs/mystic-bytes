@@ -49,5 +49,3 @@ While **A Torch Against the Night** beautifully captures the tumult of desire ag
 - Do you believe the character arcs are fully realized, or are there important nuances left unexplored?  
 - How effectively does the fantasy setting amplify the emotional stakes of the story?  
 - What does this book reveal about the nature of power and the individuals who wield it?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #epicfantasy

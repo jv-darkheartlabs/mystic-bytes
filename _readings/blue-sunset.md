@@ -47,5 +47,3 @@ Thematically, Overman succeeds in intertwining love with existential inquiry, ch
 - Does the pacing enhance or hinder the novel’s emotional impact?  
 - How do the themes of violence and death inform the characters’ relationships?  
 - What is left unsaid at the end of the novel, and how does that affect our interpretation of the protagonists' journeys?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

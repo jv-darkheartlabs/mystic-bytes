@@ -7,7 +7,7 @@ dek: "The War of Lost Hearts Vol. II"
 number: R1205
 sort_key: 1205
 date: 2026-05-11
-date_read: 2020-11-25
+date_read: 2021-11-25
 category: fantasy-romance
 cover: /assets/readings/children-of-fallen-gods.jpg
 spice: 3
@@ -47,5 +47,3 @@ Broadbent's exploration of love amidst turmoil invites reflection on the nature 
 - Does the unresolved ending enrich the narrative or detract from the reader's experience?  
 - What role does the fantasy setting play in amplifying the emotional stakes of the characters' struggles?  
 - How effectively does Broadbent blend the tropes of fantasy and romance, and what does that say about genre expectations?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #waroflosthearts

@@ -48,5 +48,3 @@ The interplay of desire and danger raises polarizing questions about agency and 
 - In what ways does the pacing affect your emotional investment in the characters?
 - Do you find the ending satisfactory, or does it leave too many threads unresolved?
 - How does Brown’s work compare to other narratives in the vampire genre regarding themes of violence and desire?
-
-#TheOrchidRoom #vampire #darkromance #urbanfantasy #literaryanalysis

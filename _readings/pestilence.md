@@ -46,5 +46,3 @@ Thalassa's *Pestilence* ignites tension through its exploration of love in the f
 - Do you feel the ending was earned, or did it leave too many threads unresolved?  
 - How might the depiction of dark themes influence reader reception and genre expectations?  
 - Can the intense emotional dynamics overshadow the romantic elements, or do they coexist harmoniously?
-
-#TheOrchidRoom #pestilence #fantasyromance #darkromance #literaryanalysis

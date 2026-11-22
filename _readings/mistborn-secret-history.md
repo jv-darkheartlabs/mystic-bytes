@@ -45,5 +45,3 @@ The emotional undercurrents of *Secret History* present polarizing themes about 
 - In what ways does the emotional intensity enhance or detract from the overall narrative?  
 - Can the novella's deeper themes resonate with readers who are new to the *Mistborn* series, or does it require prior knowledge to fully appreciate?  
 - How does the blending of fantasy and romance manifest in the tensions between characters?
-
-#TheOrchidRoom #fantasyromance #darkromance #mistborn #literaryanalysis

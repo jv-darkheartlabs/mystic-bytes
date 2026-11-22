@@ -23,7 +23,6 @@ tags:
   - horror
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ King’s exploration of trauma and survival poses compelling questions about the
 - Is the handling of sexual assault a necessary evil for the story’s psychological depth, or does it detract from the narrative?  
 - In what ways do you see King’s narrative techniques influencing contemporary psychological thrillers?  
 - Can we separate the horror elements from the psychological trauma, or are they inseparable in creating tension?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #psychological #survival #TheOrchidRoom

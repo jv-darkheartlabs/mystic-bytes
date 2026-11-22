@@ -7,7 +7,7 @@ dek: "Lakefront Billionaires"
 number: R329
 sort_key: 329
 date: 2026-02-05
-date_read: 2020-08-16
+date_read: 2023-08-16
 category: dark-billionaire
 cover: /assets/readings/love-redesigned.jpg
 spice: 3
@@ -46,5 +46,3 @@ Asher's narrative bravely traverses the tumultuous waters of love and trauma, ye
 - Can the enemies-to-lovers trope be effectively reclaimed in a contemporary context?  
 - Does the resolution feel earned, or does it lean too heavily into fantasy?  
 - How does Asher's treatment of consent shape your overall perception of the romance?  
-
-#TheOrchidRoom #darkbillionaire #darkromance #billionaire romance #literaryanalysis

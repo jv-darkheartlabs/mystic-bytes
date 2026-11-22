@@ -40,5 +40,3 @@ Despite its emotional depth, "Rebel" presents polarizing elements that may divid
 - How effectively does Yarros navigate the fine line between trauma and romance? 
 - Can the intense emotional landscapes presented be considered a form of escapism, or do they resonate with the real-world struggles of veterans and their relationships?
 - What role does forgiveness play in the narrative, and how does it impact the characters' development?
-
-#TheOrchidRoom #militaryromance #darkromance #Renegades #darkheartlabs

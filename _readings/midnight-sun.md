@@ -47,5 +47,3 @@ Meyer’s *Midnight Sun* instigates polarized responses around the romanticizati
 - In what ways does this book challenge or reinforce the stereotypes present in vampire fiction?  
 - Can the moral complexities presented be reconciled with the romantic idealism the series is known for?  
 - What does this retelling say about the evolution of young adult literature concerning darker themes?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #midnight

@@ -9,7 +9,7 @@ cover: /assets/images/cover-code.svg
 type: pillar
 tags: [craft]
 brief:
-  system: NeuroShell on Apple silicon, shipped from a remote Auckland workstation
+  system: NeuroShell on Apple silicon, shipped from a remote Louisiana workstation
   issue: notarization, entitlements, and distribution rules arrive as one vendor policy, not three optional layers
   constraint: product is macOS-native; cannot treat hardware, OS, and store as independent suppliers
 ---
@@ -22,7 +22,7 @@ Apple's product is a default stack. The chip, the kernel, and the store are one 
 
 I ship [NeuroShell](https://github.com/jv-darkheartlabs/NeuroShell) as a macOS terminal. The constraints that matter arrive with the laptop: a signed binary, notarization, entitlements I did not invent, Gatekeeper, and a distribution path that still treats the App Store as the respectable door even when I release from GitHub.
 
-I am a user of that stack, writing from Tāmaki Makaurau in 2026. I have never been on Apple's payroll. The view here is the public one: developer docs, review guidelines, silicon announcements, and the second-order effects of living inside a computer that is also a store.
+I am a user of that stack, writing from Louisiana in 2026. I have never been on Apple's payroll. The view here is the public one: developer docs, review guidelines, silicon announcements, and the second-order effects of living inside a computer that is also a store.
 
 This is not the essay about product UI defaults. That one is about the checkbox most people never open. This one is about a company that sells the checkbox, the OS that hosts it, and the hardware that will not boot a competitor's kernel. The default is the firm.
 
@@ -30,7 +30,7 @@ This is not the essay about product UI defaults. That one is about the checkbox 
 
 **Vertical integration is the policy document.** Apple Silicon made the CPU a first-party part. Secure Enclave, unified memory, and the recovery OS are not accessories. They are the terms of use, burned into a board. Once the chip is yours only as a customer, the OS is not a layer you swap. It is the firmware's preferred language. Linux on Apple hardware exists as a hobbyist's translation. The supported path is macOS, and macOS assumes iCloud, Safari, and a signed update channel the way a landlord assumes the lease.
 
-**The store closes the loop.** App Review Guidelines are commerce law with a human interface.[^1] Guideline 3.1.1 still points digital goods through In-App Purchase unless a regulator has carved an exception. Search ranking, "Get" buttons, and the 15/30 percent take rate are not a marketplace beside the phone. They are how software reaches the phone. A developer in Aotearoa does not get the EU Digital Markets Act as a daily tool. Sideloading and alternative browser engines are regional weather. Outside that weather, the default distribution path remains Apple's.[^2]
+**The store closes the loop.** App Review Guidelines are commerce law with a human interface.[^1] Guideline 3.1.1 still points digital goods through In-App Purchase unless a regulator has carved an exception. Search ranking, "Get" buttons, and the 15/30 percent take rate are not a marketplace beside the phone. They are how software reaches the phone. A developer in Louisiana does not get the EU Digital Markets Act as a daily tool. Sideloading and alternative browser engines are regional weather. Outside that weather, the default distribution path remains Apple's.[^2]
 
 **Notarization is the macOS version of the same idea.** Even when I distribute NeuroShell from GitHub, Gatekeeper asks the user to trust a Developer ID certificate Apple issued and can revoke. Direct download is still a first-party permission. Safety is the stated reason. Unsigned software becomes a support burden, and the warning dialog trains people to fear every vendor except one.
 
@@ -44,7 +44,7 @@ This is not the essay about product UI defaults. That one is about the checkbox 
 
 **Taste vs take rate.** Apple's design control is real. So is the commission. Treating them as unrelated is how the security argument gets used to defend a payment argument. Read the guidelines as both.
 
-**Regional law vs global product.** DMA terms in the EU prove the stack can be unbundled when a legislature insists. From Auckland the lesson is sharper: if your jurisdiction does not insist, you are on the original contract. Plan for the contract you actually have.
+**Regional law vs global product.** DMA terms in the EU prove the stack can be unbundled when a legislature insists. From Louisiana the lesson is sharper: if your jurisdiction does not insist, you are on the original contract. Plan for the contract you actually have.
 
 **When the stack is the right buy.** If you want a machine that updates and a store that scans, Apple is a coherent vendor. Buy it as a vendor. Do not buy it as a philosophy and then act surprised when the philosophy invoices you.
 

@@ -6,7 +6,7 @@ dek: "A Captain Hook, Crocodile, & Wendy Darling Reimagining"
 number: R1122
 sort_key: 1122
 date: 2026-05-03
-date_read: 2021-09-19
+date_read: 2025-09-19
 category: fantasy-romance
 cover: /assets/readings/devour-the-dark.jpg
 spice: 4
@@ -48,5 +48,3 @@ This novel offers a rich terrain for discussion, particularly regarding its expl
 - Do you believe that obsession can ever be depicted positively in romance, or does it always lead to destructive outcomes?  
 - In what ways do you find the characterizations of Hook and Wendy resonate with contemporary discussions of relationships?  
 - How does the structure of the narrative enhance or detract from the themes of obsession and longing?
-
-#TheOrchidRoom #fantasyromance #darkromance #peterpan #retelling

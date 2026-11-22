@@ -51,5 +51,3 @@ The novel raises profound questions about the interplay of power and affection w
 - In what ways does the dual narrative enhance our understanding of the protagonist's psyche?  
 - Is the exploration of desire and identity ultimately empowering or problematic?  
 - How does the ending reshape your feelings about the characters' journeys?
-
-#TheOrchidRoom #reverseharem #darkromance #literaryanalysis #darkheartlabs

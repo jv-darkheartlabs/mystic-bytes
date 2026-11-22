@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R397
 sort_key: 397
 date: 2026-02-12
-date_read: 2012-04-04
+date_read: 2022-04-04
 category: mystery-crime
 cover: /assets/readings/the-house-across-the-lake.jpg
 content_warnings:
@@ -43,5 +43,3 @@ This novel raises significant questions about the boundaries of obsession and th
 - In what ways do the character flaws enhance or detract from the narrative?  
 - Does the ending undermine the psychological tension established earlier in the book?  
 - What role does the unreliable narrator play in shaping our understanding of the truth?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

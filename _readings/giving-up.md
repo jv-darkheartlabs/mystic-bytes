@@ -50,5 +50,3 @@ King’s exploration of dark romance invites a wealth of polarizing interpretati
 - What role does the setting of Stoneview play in amplifying the themes of the narrative?  
 - Are the emotional stakes heightened by the characters’ flaws, or do they detract from the overall impact of the love story?  
 - How does King balance moments of vulnerability with the intensity of obsession, and is this balance effective in engaging the reader?
-
-#TheOrchidRoom #enemiestolovers #darkromance #emotional #literaryanalysis

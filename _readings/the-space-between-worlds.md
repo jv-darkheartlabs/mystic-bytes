@@ -7,7 +7,7 @@ dek: "380 realities. 8 chances to survive."
 number: R602
 sort_key: 602
 date: 2026-03-07
-date_read: 2017-11-25
+date_read: 2020-11-25
 category: fantasy-romance
 cover: /assets/readings/the-space-between-worlds.jpg
 spice: 2
@@ -49,5 +49,3 @@ Johnson's exploration of identity and privilege elicits varied reactions, partic
 - Do you think the pacing of the narrative enhances or detracts from the emotional impact of the story?  
 - How do the content warnings shape your reading experience and interpretation of the text?  
 - What does the ending suggest about the nature of hope and survival in an unforgiving world?  
-
-#TheOrchidRoom #fantasyromance #darkromance #multiverse #literaryanalysis

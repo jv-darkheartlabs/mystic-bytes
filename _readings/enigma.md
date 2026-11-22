@@ -7,7 +7,7 @@ dek: "A Tale of Dark Romance"
 number: R161
 sort_key: 161
 date: 2026-01-18
-date_read: 2020-11-25
+date_read: 2025-11-25
 category: gothic-horror-romance
 cover: /assets/readings/enigma.jpg
 spice: 4
@@ -46,5 +46,3 @@ However, while the thematic exploration of secrets and psychological intensity i
 - What do you think about the balance between horror and romance in the novel? Does one overshadow the other, or do they coexist harmoniously?
 - How does RuNyx's use of setting contribute to the psychological tension? Is the castle a mere backdrop or a character in its own right?
 - In what ways does RuNyx challenge conventional portrayals of love through the lens of obsession? 
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #atmospheric

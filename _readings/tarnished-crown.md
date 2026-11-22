@@ -6,7 +6,7 @@ dek: "The Lochlann Feuds — Book 2"
 number: R532
 sort_key: 532
 date: 2026-02-27
-date_read: 2019-04-04
+date_read: 2021-04-04
 category: fantasy-romance
 cover: /assets/readings/tarnished-crown.jpg
 spice: 4
@@ -53,5 +53,3 @@ The interplay of love and ambition in *Tarnished Crown* raises significant quest
 - How do you interpret the characters' motivations in light of their loyalty to their families versus their personal desires?  
 - Do you find the pacing effective in conveying urgency, or does it detract from the emotional depth?  
 - In a genre rife with tropes, what innovative elements did Mahle and Madison introduce that stood out to you?  
-
-#TheOrchidRoom #fantasyromance #darkromance #royalty #literaryanalysis

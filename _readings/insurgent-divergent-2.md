@@ -6,7 +6,7 @@ dek: "Divergent Series Book 2"
 number: R1755
 sort_key: 1755
 date: 2026-07-06
-date_read: 2010-03-01
+date_read: 2011-03-01
 category: ya-fiction
 cover: /assets/readings/insurgent-divergent-2.jpg
 content_warnings:
@@ -22,7 +22,6 @@ tags:
   - young-adult
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,4 +48,3 @@ Thematically, Roth probes at the core of identity and loyalty, yet these explora
 - Does the resolution of *Insurgent* serve the series or merely prolong the conflict for the sake of a trilogy?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #dystopian #theorchidroom #romanticsuspense #youngadult

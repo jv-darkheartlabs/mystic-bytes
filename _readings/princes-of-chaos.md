@@ -7,7 +7,7 @@ dek: "Royals of Forsyth — Book 7"
 number: R027
 sort_key: 027
 date: 2026-01-04
-date_read: 2018-03-01
+date_read: 2023-03-01
 category: bully-romance
 cover: /assets/readings/princes-of-chaos.jpg
 spice: 5
@@ -48,5 +48,3 @@ However, the book does not shy away from its darker elements, including bullying
 - In what ways does the dual perspective shape our understanding of the characters' motivations?  
 - Are the unresolved elements in the ending a strength or a flaw in the narrative arc?  
 - How do readers navigate their own boundaries when engaging with dark romance themes?
-
-#TheOrchidRoom #bullyromance #darkromance #royals #literaryanalysis

@@ -51,5 +51,3 @@ The novel presents several polarizing elements worthy of debate, including the b
 - In what ways does the portrayal of the curse reflect on contemporary relationships?  
 - How effectively does Woods balance the elements of horror with those of romance?  
 - What role does the setting play in shaping the narrative’s emotional landscape?  
-
-#TheOrchidRoom #vampire #darkromance #gothic #TheCursed

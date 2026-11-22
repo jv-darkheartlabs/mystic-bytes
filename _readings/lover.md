@@ -47,5 +47,3 @@ Character development is one of O'Neill's strengths, though at times the protago
 - Can the depiction of toxic relationships in romance literature serve a purpose, or does it glorify harmful dynamics?  
 - How does the nonlinear structure affect your understanding of the characters' motivations and desires?  
 - Do the characters' arcs provide a sense of redemption, or are they ultimately left in their destructive patterns?
-
-#TheOrchidRoom #bullyromance #darkromance #gothic #emotionalmanipulation

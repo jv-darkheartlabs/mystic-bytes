@@ -50,5 +50,3 @@ The novel's intricacies evoke strong reactions, particularly around the portraya
 - Do you find the ending to be satisfying or frustrating, and why?  
 - How does the prose shape your emotional response to the characters?  
 - What lingering themes or questions does the book leave unaddressed, and how might they impact your interpretation?  
-
-#TheOrchidRoom #cageoficeandechoes #darkromance #gothic #literaryanalysis

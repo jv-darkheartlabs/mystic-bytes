@@ -6,7 +6,7 @@ dek: "Underworld Kings"
 number: R1289
 sort_key: 1289
 date: 2026-05-20
-date_read: 2020-05-07
+date_read: 2022-05-07
 category: mafia-boss-and-innocent
 cover: /assets/readings/reckless-heir.jpg
 spice: 4
@@ -47,5 +47,3 @@ The thematic exploration of inheritance is particularly rich, as it raises quest
 - Are the themes of inheritance and loyalty effectively resolved, or do they leave the reader with unanswered questions?  
 - In what ways does the duality of innocence and corruption manifest in the characters, and what does that say about their true nature?  
 - How does the book challenge traditional notions of romance within its dark framework?
-
-#TheOrchidRoom #mafiaromance #darkromance #literaryanalysis #RecklessHeir

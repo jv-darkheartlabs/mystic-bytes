@@ -22,7 +22,6 @@ tags:
   - redemption
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The polarities in *A Tale of Two Cities* stem from its exploration of justice ve
 - Can the novel’s ending be interpreted as wholly optimistic, or does it carry a more complex, ambiguous message?  
 - How does the novel compare to modern interpretations of revolution and social change in literature?  
 - What role does historical context play in shaping our understanding of the characters’ motivations?
-
-#LiteraryAnalysis #darkthriller #historical #redemption #theorchidroom

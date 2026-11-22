@@ -45,5 +45,3 @@ Bardugo’s narrative invites polarizing interpretations of love, loyalty, and s
 - What role does emotional intensity play in shaping reader investment?  
 - Can the ending be seen as a triumph or a tragedy?  
 - How does Bardugo balance darkness and hope in her concluding narrative?
-
-#TheOrchidRoom #fantasyromance #darkromance #ruin #literaryanalysis

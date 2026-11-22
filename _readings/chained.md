@@ -46,5 +46,3 @@ The book's exploration of captivity and desire presents polarizing themes that a
 - Can the emotional intensity justify the ethical ambiguities presented?  
 - How do you feel about the resolution of the characters' arcs? Did it satisfy or frustrate you?  
 - What role does world-building play in enhancing or detracting from the central themes?
-
-#TheOrchidRoom #Chained #darkromance #literaryanalysis #captorandcaptivedynamics

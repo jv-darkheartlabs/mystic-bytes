@@ -1,0 +1,23 @@
+---
+layout: default
+title: "Journal — Essays"
+description: "Technical essays on code, craft, and practice from Dark Heart Labs."
+permalink: /journal/essays/
+---
+{% assign essays = site.essays | where_exp: "e", "e.locked != true" | sort: "date" | reverse %}
+<div class="container journal-page">
+  <header class="signal-header">
+    <p class="page-eyebrow"><a href="{{ '/journal/' | relative_url }}">Journal</a></p>
+    <h1 class="page-title">Essays</h1>
+    <p class="career-intro">{{ essays.size }} essays. Newest first.</p>
+  </header>
+  <ul class="home-entry-list">
+    {% for entry in essays %}
+    <li>
+      <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+      {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+      <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -48,5 +48,3 @@ The polarizing elements of *Dukes of Peril* lie in its exploration of morality a
 - Are the darker themes effectively balanced by the romantic elements, or do they overshadow the narrative?  
 - How does the resolution (or lack thereof) impact your overall interpretation of the story’s message?  
 - What role does setting play in shaping the characters’ dynamics and the overarching themes of the novel?
-
-#TheOrchidRoom #bullyromance #darkromance #boys_of_forsyth #literaryanalysis

@@ -47,5 +47,3 @@ The prose is sharp and evocative, yet it occasionally lapses into cliché, parti
 - Does the book's ending offer sufficient closure, or does it leave important questions unanswered?  
 - How effectively does the author balance eroticism with emotional depth?  
 - What elements of the reverse-harem trope do you find most compelling or problematic?  
-
-#TheOrchidRoom #reverseharem #darkromance #literaryanalysis #darkheartlabs

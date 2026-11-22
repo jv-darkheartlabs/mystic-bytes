@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R412
 sort_key: 412
 date: 2026-02-14
-date_read: 2007-10-22
+date_read: 2014-10-22
 category: literary-fiction
 cover: /assets/readings/all-the-light-we-cannot-see.jpg
 content_warnings:

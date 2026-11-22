@@ -49,5 +49,3 @@ The interplay of desire and captivity invites varied interpretations of love and
 - How effective is the dual perspective in crafting empathy for both protagonists?  
 - Do you find the novel's resolution empowering or problematic in how it handles themes of transformation?  
 - In what ways does Odette's writing challenge or conform to the expectations of the fantasy-romance genre?  
-
-#TheOrchidRoom #fantasyromance #darkromance #cinderellaretelling #literaryanalysis

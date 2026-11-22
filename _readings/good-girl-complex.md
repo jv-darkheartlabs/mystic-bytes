@@ -6,7 +6,7 @@ dek: ""
 number: R474
 sort_key: 474
 date: 2026-02-21
-date_read: 2021-09-19
+date_read: 2022-09-19
 category: enemies-to-lovers
 cover: /assets/readings/good-girl-complex.jpg
 spice: 3
@@ -41,5 +41,3 @@ The dialogue crackles with a mix of wit and vulnerability, serving both to devel
 - Are the character arcs satisfying, or do they reinforce outdated stereotypes?  
 - Does the ending feel earned, or does it lean too heavily on genre conventions?  
 - How does the setting influence the characters' decisions and growth throughout the narrative?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #YA #literaryanalysis

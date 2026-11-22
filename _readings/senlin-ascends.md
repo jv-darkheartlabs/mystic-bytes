@@ -47,5 +47,3 @@ The thematic exploration of love as both a source of strength and vulnerability 
 - Do you feel the ending provides closure, or does it intentionally leave questions unanswered?  
 - How does the interplay of fantasy and romance alter the stakes of the narrative?  
 - What do you think Bancroft's portrayal of emotional intensity reveals about the nature of love in fantastical settings?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #SenlinAscends

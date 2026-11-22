@@ -47,5 +47,3 @@ Yet, the ending, while satisfying, teeters on the edge of predictability. It fee
 - In what ways does Hazelwood challenge or reinforce tropes of the dark romance genre?  
 - Is the resolution of the protagonists' journey believable, or does it feel like an easy way out?  
 - How do the themes of ambition and love intersect, and what message does that send about contemporary relationships?
-
-#TheOrchidRoom #forbiddenlove #darkromance #STEMromance #literaryanalysis

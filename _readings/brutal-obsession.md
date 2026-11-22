@@ -52,5 +52,3 @@ The culmination of the narrative leads to an ending that, while shocking, feels 
 - In what ways do the worlds of hockey and ballet enhance or detract from the central themes of the novel?  
 - Can the characters’ actions ever be justified, and what does that say about our own responses to obsession in literature?  
 - How does the dual POV shape our understanding of love and control?  
-
-#TheOrchidRoom #BrutalObsession #DarkRomance #LiteraryAnalysis #SMassery

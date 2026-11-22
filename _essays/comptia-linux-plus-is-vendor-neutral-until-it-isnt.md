@@ -17,7 +17,7 @@ brief:
 
 CompTIA Linux+ sells Linux as a subject you can examine without naming a vendor. The catalog is vendor-neutral. The fleet is not. Production is someone's RHEL, Ubuntu, or SUSE: a support contract, a package format, a set of habits that are not abstract.
 
-I do not hold Linux+. I do not hold RHCSA. I write from Auckland and I read job posts. Red Hat sells a live sitting on a paid distro; that is a different product. This note is about CompTIA's pitch. Neutrality is the brand. You study commands and filesystems that could live on more than one ISO. That is a real map. It is also a sales position. CompTIA's business is being the vendor that is not the vendor.[^1]
+I do not hold Linux+. I do not hold RHCSA. I write from Louisiana and I read job posts. Red Hat sells a live sitting on a paid distro; that is a different product. This note is about CompTIA's pitch. Neutrality is the brand. You study commands and filesystems that could live on more than one ISO. That is a real map. It is also a sales position. CompTIA's business is being the vendor that is not the vendor.[^1]
 
 When a posting says "Linux" and means a paid install, Linux+ is a conversation. The door belongs to whoever owns the box. mystic-bytes builds on Linux runners. The runner is still a distro. Vendor-neutral is a good way to start. It is a bad way to pretend the landlord does not exist.
 

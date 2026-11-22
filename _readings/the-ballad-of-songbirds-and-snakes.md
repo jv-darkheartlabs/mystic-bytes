@@ -7,7 +7,7 @@ dek: ""
 number: R840
 sort_key: 840
 date: 2026-04-02
-date_read: 2005-06-10
+date_read: 2020-06-10
 category: ya-fiction
 cover: /assets/readings/the-ballad-of-songbirds-and-snakes.jpg
 content_warnings:

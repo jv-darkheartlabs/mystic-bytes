@@ -48,5 +48,3 @@ The ending, while satisfying in its resolution of the central conflict, leaves l
 - Are the characters’ internal conflicts relatable beyond the fantasy context, or do they remain confined to genre expectations?  
 - Does the tension between wildness and vulnerability enhance or detract from the romantic arc?  
 - How effectively does the ending resonate with the themes established throughout the novel?
-
-#TheOrchidRoom #fantasyromance #darkromance #shifter #literaryanalysis

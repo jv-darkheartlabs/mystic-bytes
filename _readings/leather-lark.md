@@ -7,7 +7,7 @@ dek: "The Ruinous Love Trilogy"
 number: R114
 sort_key: 114
 date: 2026-01-13
-date_read: 2021-09-19
+date_read: 2024-09-19
 category: enemies-to-lovers
 cover: /assets/readings/leather-lark.jpg
 spice: 4
@@ -48,5 +48,3 @@ The interplay between love and violence serves as a polarizing element that coul
 - What role does the dual perspective play in shaping our understanding of love and violence in the narrative?  
 - Can you separate the allure of the characters from their darker traits, or do they become inextricably linked in your reading?  
 - How does *Leather & Lark* compare to other dark romances in its treatment of the enemies-to-lovers trope?
-
-#TheOrchidRoom #enemiestolovers #darkromance #rockstar #serialkillerromance

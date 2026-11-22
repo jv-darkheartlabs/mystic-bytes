@@ -48,5 +48,3 @@ The juxtaposition of wealth and morality creates inherent tension within the nar
 - Can the portrayal of toxic relationships in the novel be justified within the context of its gothic romance?  
 - How does the pacing impact your overall engagement with the narrative?  
 - What lingering questions do you have about the motives of the central characters, and were they adequately explored?
-
-#TheOrchidRoom #vampire #darkromance #literaryanalysis #filthy #rich #darkheartlabs

@@ -20,7 +20,6 @@ tags:
   - art
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ Russell’s work, while illuminating, also opens the floor for polarizing discus
 - Are there particular illustrations that you feel either profoundly enhanced or conflicted with the narrative?  
 - How does the gothic aspect of the artwork contribute to the overarching themes of hope and despair present in Tolkien’s story?  
 - Is Russell's analysis more about the art than the impact it has on the narrative itself?
-
-#TheOrchidRoom #gothic #horrorromance #fantasy #TheLordoftheRings

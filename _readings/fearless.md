@@ -6,7 +6,7 @@ dek: ""
 number: R967
 sort_key: 967
 date: 2026-04-16
-date_read: 2022-07-13
+date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/fearless.jpg
 spice: 4
@@ -43,5 +43,3 @@ This book invites a multitude of discussions, particularly around the themes of 
 - What are the implications of blending fantasy with deeply emotional content? Does it enhance or detract from the experience?  
 - How does Roberts' work compare to other authors in the genre, especially regarding emotional depth?  
 - What moments in the book stood out as particularly transformative for the characters, and why?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #fearless

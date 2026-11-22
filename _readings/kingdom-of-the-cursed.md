@@ -47,5 +47,3 @@ The interplay of choice and consequence in romantic dynamics creates ripe ground
 - Can the emotional intensity detract from the story's overall impact, or does it elevate the stakes?  
 - What does the ambiguous ending suggest about the nature of love and loyalty in situations of moral complexity?  
 - How do the content warnings reflect the themes presented in the story?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #kingdomofthecursed

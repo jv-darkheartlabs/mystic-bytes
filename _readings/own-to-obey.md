@@ -50,5 +50,3 @@ The complexities of power dynamics in "Own to Obey" provoke a rich tapestry of d
 - Can true liberation exist within the framework of enforced submission, or is it a paradox?  
 - What role does obsession play in shaping the characters' identities and choices?  
 - How do the gothic elements enhance or detract from the emotional stakes of the narrative?
-
-#TheOrchidRoom #OwnToObey #darkromance #omegaverse #literaryanalysis

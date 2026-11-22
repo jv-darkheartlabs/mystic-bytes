@@ -49,5 +49,3 @@ While *The Blood Traitor* successfully navigates the treacherous terrain of dark
 - In what ways does the setting amplify the characters’ emotional journeys, and does it risk overshadowing the plot?  
 - Is the resolution satisfying, or does it gloss over the complexities established throughout the narrative?  
 - How does this sequel compare to its predecessors in terms of thematic depth and character development?  
-
-#TheOrchidRoom #captive #darkromance #prisonhealer #romantasy

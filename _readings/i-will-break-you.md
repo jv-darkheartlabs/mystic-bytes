@@ -49,5 +49,3 @@ The intricacies of obsession and power dynamics offer fertile ground for debate,
 - In what ways does the setting contribute to the themes of captivity and psychological turmoil?  
 - What are the implications of the ambiguous ending for both characters?  
 - How does the book compare with other dark romances in handling themes of consent and agency?  
-
-#TheOrchidRoom #captive #darkromance #psychological #literaryanalysis

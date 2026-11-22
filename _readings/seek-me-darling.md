@@ -48,5 +48,3 @@ The book's exploration of obsession raises critical questions about the nature o
   - Are the moral ambiguities presented in the book ultimately redeeming or damning?  
   - In what ways does the setting amplify the themes of the narrative?  
   - How do you interpret the symbolism of roses in the context of the characters' relationship?
-
-#TheOrchidRoom #seekmedarling #darkromance #literaryanalysis #gothic

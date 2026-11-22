@@ -6,7 +6,7 @@ dek: ""
 number: R1452
 sort_key: 1452
 date: 2026-06-07
-date_read: 2015-06-10
+date_read: 2019-06-10
 category: fantasy-romance
 cover: /assets/readings/prince-of-never.jpg
 spice: 4
@@ -51,5 +51,3 @@ The climax, rich with dark magic and royal intrigue, is both thrilling and thoug
 - In what ways does the setting contribute to the themes of power and desire?  
 - Can the ending be seen as empowering, or does it signify a surrender to fate?  
 - How do the elements of fantasy enhance or detract from the romantic tension?
-
-#TheOrchidRoom #fantasyromance #darkromance #princeofnever #JunoHeart #literaryanalysis

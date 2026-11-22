@@ -6,7 +6,7 @@ dek: ""
 number: R864
 sort_key: 864
 date: 2026-04-05
-date_read: 2015-03-01
+date_read: 2022-03-01
 category: enemies-to-lovers
 cover: /assets/readings/something-wilder.jpg
 spice: 4
@@ -40,5 +40,3 @@ As we delve into *Something Wilder*, the interplay between adventure and romance
 - In what ways does the book challenge or reinforce typical genre expectations?  
 - What role does vulnerability play in the protagonists' relationship development?  
 - How does Lauren's writing style enhance or detract from the tension between the characters?
-
-#TheOrchidRoom #enemiestolovers #darkromance #adventure #literaryanalysis

@@ -22,7 +22,6 @@ tags:
   - deception
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -53,4 +52,3 @@ Mamet's exploration of ruthless ambition and moral ambiguity raises several pola
 - How does the play's ending reflect on the nature of success and failure?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #business #manipulation #theorchidroom

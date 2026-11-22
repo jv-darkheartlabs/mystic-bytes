@@ -6,7 +6,7 @@ dek: "A Silver Pines Novel"
 number: R832
 sort_key: 832
 date: 2026-04-01
-date_read: 2019-07-13
+date_read: 2024-07-13
 category: dark-cowboy-romance
 cover: /assets/readings/training-the-heart.jpg
 spice: 3
@@ -42,5 +42,3 @@ As for the ending, it presents a resolution that feels both earned and unexpecte
 - Do you believe the dual POV structure strengthens the emotional depth, or does it create distance?  
 - What role does the theme of redemption play in shaping our understanding of love in this novel?  
 - How does Hope’s portrayal of masculinity and vulnerability challenge or reinforce genre conventions?  
-
-#TheOrchidRoom #cowboyromance #darkromance #literaryanalysis #darkheartlabs

@@ -47,5 +47,3 @@ The novel's complexities invite a spectrum of interpretations, particularly arou
 - Do you find the pacing issues detract from the overall impact, or do they enhance the immersive quality of the world?
 - What is your interpretation of the ending, and does it provide a satisfying resolution to Tea's journey?
 - How does *The Bone Witch* compare to other works you've read that blend romance with darker themes?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #thebonewitch

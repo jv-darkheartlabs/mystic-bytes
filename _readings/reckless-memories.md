@@ -41,5 +41,3 @@ The novel’s exploration of trauma and desire invites a kaleidoscope of interpr
 - Can the use of dual POVs effectively enhance intimacy, or does it detract from the tension of the forbidden?  
 - How does the setting amplify the themes of longing and regret?  
 - What is your perspective on the resolution — does it feel earned or overly tidy given the buildup?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #wreckedseries #literaryanalysis

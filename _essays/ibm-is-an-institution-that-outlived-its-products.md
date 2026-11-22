@@ -17,7 +17,7 @@ brief:
 
 IBM's durable product is IBM. PCs went to Lenovo. Watson had Super Bowl ads and a research brand that did not become the consumer mind people were sold. The letterhead remained. Mainframes still print money for the joke that was supposed to have died. Consulting still shows up after the hype with a contract. That is an institution, not a SKU cycle.
 
-I have never been an IBMer. I write from Auckland as a user of the weather: enterprise language in job posts, Red Hat as the 2019 acquisition that made "IBM" sayable again in rooms that had sworn off the name, HashiCorp as the 2025 add-on of a newer operating model. None of that requires a System z under my desk. It requires noticing that products have end-of-life and procurement relationships do not.
+I have never been an IBMer. I write from Louisiana as a user of the weather: enterprise language in job posts, Red Hat as the 2019 acquisition that made "IBM" sayable again in rooms that had sworn off the name, HashiCorp as the 2025 add-on of a newer operating model. None of that requires a System z under my desk. It requires noticing that products have end-of-life and procurement relationships do not.
 
 The pattern is consistent. Buy or build a thing the market already decided it needs. Keep the account. Let the slide title change. Watson-as-advertisement faded. Red Hat did not, because RHEL and OpenShift are still how a lot of fleets eat. HashiCorp under IBM is the same move: purchase the dialect, keep the letterhead.
 

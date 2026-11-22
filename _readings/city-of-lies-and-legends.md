@@ -7,7 +7,7 @@ dek: "Truth or lust."
 number: R625
 sort_key: 625
 date: 2026-03-09
-date_read: 2016-07-13
+date_read: 2025-07-13
 category: fantasy-romance
 cover: /assets/readings/city-of-lies-and-legends.jpg
 spice: 4
@@ -48,5 +48,3 @@ This novel provokes a fascinating exploration of the complexities of love and de
 - How do you interpret the role of deception in romantic relationships as depicted in the novel?
 - In what ways does the novel challenge or conform to traditional fantasy romance tropes?
 - What aspects of the characters’ relationships resonated most deeply with you, and why?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #CityofLiesandLegends

@@ -47,5 +47,3 @@ The interplay between magic and morality creates room for significant debate wit
 - To what extent does Nahri's journey resonate with real-world issues of identity and belonging?
 - How effective is the dual perspective in conveying the complexities of the narrative?
 - What are the implications of an ending that leaves certain conflicts unresolved?
-
-#TheOrchidRoom #fantasyromance #darkromance #djinn #Daevabad

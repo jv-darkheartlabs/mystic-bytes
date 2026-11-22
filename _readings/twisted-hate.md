@@ -45,5 +45,3 @@ The polarities within **Twisted Hate** are ripe for debate; the interplay of lov
 - In what ways does the setting contribute to or distract from the emotional stakes?  
 - Is the resolution earned, or does it feel like a retreat from the deeper conflicts presented?  
 - How does this title compare to other works in the dark romance genre?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #contemporaryromance #TwistedHate

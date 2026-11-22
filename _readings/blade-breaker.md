@@ -7,7 +7,7 @@ dek: ""
 number: R649
 sort_key: 649
 date: 2026-03-12
-date_read: 2016-04-04
+date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/blade-breaker.jpg
 spice: 4
@@ -46,5 +46,3 @@ The interplay between loyalty and desire is central to the narrative, creating a
 - In what ways do the characters embody or subvert typical fantasy archetypes?
 - Can the emotional stakes resonate with readers outside the romance genre?
 - How does the exploration of darker themes impact the overall message of the story?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #blade

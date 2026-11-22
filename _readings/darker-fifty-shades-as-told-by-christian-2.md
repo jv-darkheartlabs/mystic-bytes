@@ -23,7 +23,6 @@ tags:
   - power dynamics
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The polarities in *Darker* are stark, as readers grapple with the romanticizatio
 - In what ways does the opulent setting influence the characters' motivations and relationships?  
 - Can we separate the erotic elements from the underlying themes of manipulation and power dynamics?  
 - How does E.L. James's portrayal of consent challenge or reinforce societal norms?
-
-#TheOrchidRoom #darkbillionaire #darkromance #BDSM #wealth

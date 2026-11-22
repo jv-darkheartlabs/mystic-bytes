@@ -18,7 +18,6 @@ tags:
   - self-help
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -41,5 +40,3 @@ The book raises interesting questions about the intersection of education and em
 - What strategies could Lerner have employed to enhance engagement with mathematical concepts?  
 - Are there other educational books that successfully blend personal narrative with instructional material?  
 - What role does audience awareness play in the success of self-help texts?
-
-#LiteraryAnalysis #darkthriller #selfhelp #math #theorchidroom

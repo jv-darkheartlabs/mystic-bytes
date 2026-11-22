@@ -22,7 +22,6 @@ tags:
   - psychological
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The tension between gothic romanticism and psychological horror creates a fertil
 - In what ways does **Anthesis** challenge or conform to traditional gothic tropes?  
 - What role does mental health play in shaping the characters’ destinies, and is it handled with the necessary nuance?  
 - How do the novel’s themes resonate with contemporary discussions on love and trauma?  
-
-#TheOrchidRoom #gothic #horrorromance #psychological #literaryanalysis

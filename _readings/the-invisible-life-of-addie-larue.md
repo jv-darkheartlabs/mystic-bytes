@@ -47,5 +47,3 @@ This novel invites various polarities and interpretations that could ignite spir
 - In what ways does the novel challenge or reinforce traditional notions of legacy in our lives?  
 - Can Addie's journey be viewed as an empowering tale, or does it highlight the futility of existence?  
 - How does Schwab's use of magical realism influence your emotional response to Addie’s plight?  
-
-#TheOrchidRoom #theinvisiblelifeofaddielarue #fantasyromance #literaryanalysis #darkromance

@@ -7,7 +7,7 @@ dek: "Welcome to Sleepy Hollow. May you never leave."
 number: R770
 sort_key: 770
 date: 2026-03-25
-date_read: 2017-08-16
+date_read: 2023-08-16
 category: gothic-horror-romance
 cover: /assets/readings/hollow.jpg
 spice: 4
@@ -47,5 +47,3 @@ The thematic exploration of love intertwined with loss is potent; the characters
 - In what ways does the use of death imagery affect your understanding of love in the narrative?  
 - Are the emotional stakes high enough to warrant the characters' choices, or do they feel contrived?  
 - How significant is the resolution of the protagonists' arc in relation to the overall themes of the novel?  
-
-#TheOrchidRoom #hollow #gothic #horrorromance #literaryanalysis #darkheartlabs

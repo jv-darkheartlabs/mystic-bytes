@@ -22,7 +22,6 @@ tags:
   - nonfiction
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ Berendt's narrative invites contemplation on the dichotomy of good versus evil, 
 - Is the duality of the characters a reflection of society as a whole, and what implications does that have?  
 - How does the non-linear structure enhance or detract from the overall impact of the narrative?  
 - What unresolved questions linger after the book's conclusion, and how do they affect your interpretation?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #southerngothic #theorchidroom

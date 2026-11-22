@@ -22,7 +22,6 @@ tags:
   - noir
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ Ellroy's work is polarizing, as it raises significant questions about morality, 
 - In what ways does Ellroy’s use of historical context enhance or hinder the narrative?
 - How does the psychological depth of the characters impact your understanding of the crime they investigate?
 - Can the novel be appreciated solely as a crime thriller, or is a deeper thematic reading necessary?
-
-#LiteraryAnalysis #darkthriller #crime #noir #TheOrchidRoom

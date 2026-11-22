@@ -15,7 +15,7 @@ brief:
   constraint: ship what the browser and Node actually execute; types may erase, the platform does not
 ---
 
-TypeScript is how I write contracts in the editor. JavaScript is what the page still runs. I keep mixing those up when Cursor paints types in the gutter and the file on disk is already `.mjs`. The mystic-bytes vision pipeline calls Node. dark-heart-themes still has to speak the browser. Neither host compiles your feelings. Both host ECMAScript as specified, inside HTML's idea of a script.
+TypeScript is how I write contracts in the editor. JavaScript is what the page still runs. I keep mixing those up when the model paints types in the gutter and the file on disk is already `.mjs`. The mystic-bytes vision pipeline calls Node. dark-heart-themes still has to speak the browser. Neither host compiles your feelings. Both host ECMAScript as specified, inside HTML's idea of a script.
 
 ## Thesis
 
@@ -27,7 +27,7 @@ I already wrote about types as contracts and about strict TypeScript as kindness
 
 Last winter I chased a cover-sync failure that only happened in CI. Locally I ran the `.mjs` with a Node that matched my Fedora laptop. CI had a different major. Optional chaining and a newer `fetch` behavior were not the issue. ESM resolution was. The file was JavaScript. The platform was Node's module loader, which is an implementation of ECMAScript modules plus Node's own rules. Types would not have saved me. Reading what the host does with a module specifier would have.
 
-They treat "we use TypeScript" as a runtime claim. It is a compile-time claim. The Auckland 2026 relocate does not change what Chrome executes on a reader's phone.
+They treat "we use TypeScript" as a runtime claim. It is a compile-time claim.
 
 ## Mechanism
 
@@ -37,7 +37,7 @@ The HTML living standard is the other book. It says how `script` is fetched, whe
 
 JavaScript-the-platform also means the language you cannot opt out of on the public web. WASM can compute. CSS can draw. The glue, the event handlers, the progressive enhancement, the import map, the worker that still talks `postMessage` in JS values — that is still JavaScript. TypeScript is a dialect that compiles to this. If the emit is wrong, the platform does not care that the `.ts` looked clean.
 
-Cursor makes this worse in a specific way. It completes types and imports as if the editor were the host. I have to ask: what file does Jekyll or the theme actually emit? What does Node execute in `run-vision-rename.sh`? The answer is JavaScript. Write the contract in TypeScript where you have a checker. Test the platform in the file the browser or Node will load.
+The model makes this worse in a specific way. It completes types and imports as if the editor were the host. I have to ask: what file does Jekyll or the theme actually emit? What does Node execute in `run-vision-rename.sh`? The answer is JavaScript. Write the contract in TypeScript where you have a checker. Test the platform in the file the browser or Node will load.
 
 Event-loop bugs are platform bugs. A `fetch` that races `DOMContentLoaded` is not a type error. A double `addEventListener` because a classic script ran twice is not a generic. You fix those by reading HTML's script processing, not by tightening an interface.
 
@@ -49,7 +49,7 @@ Event-loop bugs are platform bugs. A `fetch` that races `DOMContentLoaded` is no
 
 **Bundler vs native modules.** Bundlers hide the platform until import maps and HTTP caching matter. Pick one per surface and write it down.
 
-**When types are the right obsession.** Public APIs, state machines, anything you will refactor under Cursor. When the bug is "when does this run," open HTML.
+**When types are the right obsession.** Public APIs, state machines, anything you will refactor with the model. When the bug is "when does this run," open HTML.
 
 ## Close
 

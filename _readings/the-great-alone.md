@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R429
 sort_key: 429
 date: 2026-02-16
-date_read: 2014-09-19
+date_read: 2018-09-19
 category: historical
 cover: /assets/readings/the-great-alone.jpg
 content_warnings:
@@ -44,5 +44,3 @@ This novel presents several polarizing elements that can ignite debate among rea
 - How does the theme of isolation resonate with contemporary societal issues?  
 - Is the choice to leave the ending ambiguous a strength or a weakness?  
 - Can we reconcile the survival instinct with the moral complexities of the characters’ choices?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

@@ -21,7 +21,6 @@ tags:
   - dark humor
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The interplay of dark themes and humor in *The Bad Beginning* raises questions a
 - In what ways does the book reflect on real-world issues of neglect and abuse?  
 - Are the gothic elements a necessary component of the narrative, or do they distract from the central themes?  
 - What might the implications be if this book were adapted into a different medium, such as film or stage?  
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #darkhumor #childneglect

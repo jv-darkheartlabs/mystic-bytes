@@ -44,5 +44,3 @@ The complex interplay of grief and desire in *It's Not Summer Without You* prese
 - In what ways does the setting itself act as a character that influences the emotional landscape?  
 - Are the resolutions in the story satisfying, or do they feel rushed and unearned?  
 - How does Han's portrayal of forbidden love resonate with broader themes in contemporary YA literature?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #YA #literaryanalysis

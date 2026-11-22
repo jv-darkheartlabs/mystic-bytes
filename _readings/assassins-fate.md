@@ -45,5 +45,3 @@ Hobb's narrative choices invite polarizing reactions—some may find her pacing 
 - Does the ending serve as a satisfying conclusion to Fitz's journey, or does it leave too many questions unanswered?  
 - How does Hobb's portrayal of love as both a motivator and a curse resonate with your own interpretations of romance in fantasy?  
 - In what ways does Hobb challenge conventional fantasy tropes to redefine the genre?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #assassins #fate

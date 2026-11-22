@@ -6,7 +6,7 @@ dek: ""
 number: R1105
 sort_key: 1105
 date: 2026-05-01
-date_read: 2016-10-22
+date_read: 2024-10-22
 category: captor-and-captive
 cover: /assets/readings/snaring-emberly.jpg
 spice: 5
@@ -47,5 +47,3 @@ The intense emotional and thematic content of *Snaring Emberly* invites a spectr
 - How does Styx's use of imagery shape our understanding of the characters' emotional states?  
 - In what ways might the novel challenge or reinforce societal views on captivity and autonomy?  
 - How does the ending influence your overall interpretation of the narrative?  
-
-#TheOrchidRoom #darkromance #captorandcaptive #GigiStyx #literaryanalysis

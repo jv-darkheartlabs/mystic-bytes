@@ -6,7 +6,7 @@ dek: ""
 number: R1047
 sort_key: 1047
 date: 2026-04-25
-date_read: 2018-06-10
+date_read: 2023-06-10
 category: gothic-horror-romance
 cover: /assets/readings/a-study-in-drowning.jpg
 spice: 3
@@ -41,5 +41,3 @@ The interplay between beauty and horror creates polarizing interpretations, part
 - Are you satisfied with the ending, or does it leave you wanting more clarity?
 - How does the portrayal of grief influence the romantic elements of the story?
 - What role does the setting play in shaping character dynamics and thematic depth?
-
-#TheOrchidRoom #gothic #horrorromance #literaryanalysis #darkheartlabs

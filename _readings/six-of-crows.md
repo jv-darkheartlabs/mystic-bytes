@@ -45,5 +45,3 @@ The compelling interplay of fate and choice in *Six of Crows* raises questions a
 - In what ways does the setting influence the characters’ actions and decisions, and does it feel integral to the story?  
 - What role does emotional intensity play in defining the relationships within the crew?  
 - Does the unresolved ending elevate the story’s themes, or does it leave you feeling dissatisfied?
-
-#TheOrchidRoom #fantasyromance #darkromance #six #literaryanalysis

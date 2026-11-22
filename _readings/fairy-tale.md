@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R786
 sort_key: 786
 date: 2026-03-27
-date_read: 2021-06-10
+date_read: 2022-06-10
 category: gothic-horror-romance
 cover: /assets/readings/fairy-tale.jpg
 spice: 2
@@ -45,5 +45,3 @@ King's ability to blend genres raises polarities that could ignite passionate di
 - In what ways can the sacrifices made by characters be seen as reflections of real-life choices?  
 - Does the complexity of the ending enhance or detract from the overall experience of the novel?  
 - How does the blending of horror and romance affect the emotional stakes of the story?  
-
-#TheOrchidRoom #gothic #horrorromance #darkfantasy #literaryanalysis #darkheartlabs

@@ -7,7 +7,7 @@ dek: ""
 number: R699
 sort_key: 699
 date: 2026-03-18
-date_read: 2018-09-19
+date_read: 2021-09-19
 category: sff
 cover: /assets/readings/project-hail-mary.jpg
 content_warnings:
@@ -44,5 +44,3 @@ The novel's blend of high-concept science fiction with themes of companionship a
 - Do you feel the ending was a satisfying resolution to the build-up of tension and character arcs?
 - In what ways does this novel challenge or conform to traditional trope expectations in both sci-fi and romance genres?
 - How do the content warnings influence your perception and enjoyment of the book's themes?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #ProjectHailMary

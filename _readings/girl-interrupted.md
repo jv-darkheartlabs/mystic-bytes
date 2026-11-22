@@ -23,7 +23,6 @@ tags:
   - female friendship
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ However, the very structure that enhances the thematic exploration can also crea
 - What are the implications of labeling individuals as 'insane' in the context of societal norms presented in the book?  
 - In what ways does Kaysen’s personal narrative challenge or align with broader societal views of mental health today?  
 - How does the book balance the line between personal experience and broader commentary on institutionalization?
-
-#LiteraryAnalysis #darkthriller #psychological #memoir #theorchidroom

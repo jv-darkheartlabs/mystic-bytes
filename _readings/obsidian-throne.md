@@ -50,5 +50,3 @@ Craft-wise, Mahle and Madison excel in building romantic tension through evocati
 - In what ways do the authors subvert typical fantasy-romance tropes, and how does that impact your engagement with the story?  
 - How does the portrayal of violence and war inform the romantic elements of the plot?  
 - Can you identify any moments where the character's desires conflict with their moral compasses? How does this influence your perception of them?  
-
-#TheOrchidRoom #fantasyromance #darkromance #highfantasy #literaryanalysis

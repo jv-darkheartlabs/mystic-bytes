@@ -7,7 +7,7 @@ dek: "Unknown. Unspoken. Unseen."
 number: R196
 sort_key: 196
 date: 2026-01-22
-date_read: 2019-10-22
+date_read: 2022-10-22
 category: reverse-harem
 cover: /assets/readings/bloodshed.jpg
 spice: 5
@@ -51,5 +51,3 @@ The interplay between desire and fear creates polarizing perspectives that are s
 - What are the implications of depicting violence as a component of desire?  
 - How does the setting enhance or detract from the psychological tension?  
 - What remains unexamined in the portrayal of secret societies and their allure?
-
-#TheOrchidRoom #reverseharem #darkromance #gothic #bloodshed

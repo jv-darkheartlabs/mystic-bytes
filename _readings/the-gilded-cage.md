@@ -6,7 +6,7 @@ dek: "The Prison Healer — Book Two"
 number: R1336
 sort_key: 1336
 date: 2026-05-25
-date_read: 2019-07-13
+date_read: 2021-07-13
 category: captor-and-captive
 cover: /assets/readings/the-gilded-cage.jpg
 spice: 4
@@ -49,5 +49,3 @@ The interplay of captivity and desire raises several compelling questions about 
 - Can the use of dark magic in the narrative be seen as a metaphor for emotional manipulation in relationships?  
 - What role does world-building play in enhancing or detracting from character development throughout the series?  
 - How effectively does the resolution of the story reflect the protagonist's growth or lack thereof?
-
-#TheOrchidRoom #GildedCage #LynetteNoni #DarkRomance #Captivity

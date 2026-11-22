@@ -40,7 +40,7 @@ Unix-under-glass is the rest of the day. You get `zsh`, `ssh`, `git`, a BSD user
 
 The ADHD brief makes the cage sharper. NeuroShell's job is to lower sensory load and recover session state. Apple's job is to keep random binaries from owning the camera. Those jobs collide at the entitlement file. A terminal that needs shell access looks, to a sandbox, like a program that can do anything. The honest product on macOS is often "less sandbox, more notarization" — still gated, just gated at distribution time instead of at every `open()`.
 
-Auckland 2026 does not change the Mac story. It changes which laptop I carry through the airport. NeuroShell still ships for the OS most of its users already paid for. The writing practice still lives in git on a machine I can reinstall. Two contracts, one studio.
+The Washington move does not change the Mac story. It changes which laptop I carry through the airport. NeuroShell still ships for the OS most of its users already paid for. The writing practice still lives in git on a machine I can reinstall. Two contracts, one studio.
 
 ## Tradeoffs
 

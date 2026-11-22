@@ -7,7 +7,7 @@ dek: "Dark Verse Book Five"
 number: R184
 sort_key: 184
 date: 2026-01-20
-date_read: 2019-07-13
+date_read: 2022-07-13
 category: mafia-boss-and-innocent
 cover: /assets/readings/the-annihilator.jpg
 spice: 4
@@ -48,5 +48,3 @@ However, the novel's pacing occasionally falters under the weight of its own amb
 - What are the implications of the ending—does it offer a sense of closure or further challenge our moral compass?  
 - In what ways does RuNyx's writing style contribute to or detract from the overall impact of the themes?  
 - Can we draw parallels between the characters' obsessions and real-world situations—how does this reflection shape our understanding of love?
-
-#TheOrchidRoom #mafiaromance #darkromance #obsession #suspense

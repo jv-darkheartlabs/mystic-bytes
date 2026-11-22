@@ -17,7 +17,7 @@ brief:
 
 HashiCorp sold an operating model with three logos on it. Terraform is the plan you check into git. Vault is where secrets live instead of a wiki. Consul is how services find each other without a shared spreadsheet. The thesis was never "we make CLIs." It was that infrastructure is too important to be a pile of SSH habits, and the replacement is a workflow you can review.
 
-I do not work at HashiCorp or IBM. mystic-bytes is Jekyll. NeuroShell is a Mac app. I am not running a Consul mesh from Auckland. I still inherited the weather. Job posts ask for Terraform. Incident writeups mention Vault. "We do not have a secrets story" became a professional embarrassment because HashiCorp named the story and sold it as a platform.
+I do not work at HashiCorp or IBM. mystic-bytes is Jekyll. NeuroShell is a Mac app. I am not running a Consul mesh from Louisiana. I still inherited the weather. Job posts ask for Terraform. Incident writeups mention Vault. "We do not have a secrets story" became a professional embarrassment because HashiCorp named the story and sold it as a platform.
 
 IBM announced the acquisition in April 2024 and closed it in 2025. That is public. A company that already sells "how enterprises run" purchased the newer dialect of the same sentence. Terraform can remain the dialect. The sales motion, the Red Hat adjacency, and the usual post-close question — which parts stay open, which parts become a SKU — are now IBM weather. Open core was always a commercial shape. The letterhead changed.
 

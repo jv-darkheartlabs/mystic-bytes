@@ -49,5 +49,3 @@ The dialogue sparkles with wit, yet some exchanges feel contrived, serving plot 
 - Do you feel the pacing issues impacted your emotional engagement with the climax? How so?
 - How does Chokshi’s portrayal of Paris influence your perception of the characters’ journeys?
 - Can we reconcile the magical elements with the darker historical contexts presented in the novel, or do they clash?
-
-#TheOrchidRoom #fantasyromance #darkromance #heist #RoshaniChokshi

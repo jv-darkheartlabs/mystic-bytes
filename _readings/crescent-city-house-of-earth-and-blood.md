@@ -22,7 +22,6 @@ tags:
   - crescent city
   - murder mystery
   - urban fantasy
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -51,5 +50,3 @@ The novel's exploration of grief and desire against a backdrop of urban fantasy 
 - Do you think the unresolved threads in the ending serve the narrative or detract from it?  
 - How do the content warnings shape your reading experience, and do they align with the book's themes?  
 - What does this book reveal about Maas's growth as a writer compared to her earlier series?
-
-#TheOrchidRoom #fantasyromance #darkromance #crescentcity #murdermystery

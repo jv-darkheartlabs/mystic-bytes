@@ -21,7 +21,6 @@ tags:
   - series
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The *Percy Jackson Collection* is ripe for discussion, particularly regarding it
 - How do the depictions of female characters compare to their male counterparts in the series?  
 - What role does friendship play in the narrative, and how does it reflect real-world teenage dynamics?  
 - How does Riordan's use of mythology serve as a metaphor for contemporary issues faced by young adults?
-
-#TheOrchidRoom #fantasyromance #darkromance #youngadult #mythology

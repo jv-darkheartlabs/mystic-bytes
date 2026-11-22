@@ -22,7 +22,6 @@ tags:
   - obsession
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The structure of *Needful Things* unfolds through a multi-perspective narrative,
 - In what ways does the supernatural serve as a metaphor for real-world vices in this narrative?  
 - Can we sympathize with the characters despite their moral failings, and what does that say about human nature?  
 - How effective is the use of multiple perspectives in driving the narrative's tension?
-
-#LiteraryAnalysis #darkthriller #supernatural #obsession #theorchidroom

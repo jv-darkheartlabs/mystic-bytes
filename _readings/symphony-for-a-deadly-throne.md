@@ -6,7 +6,7 @@ dek: ""
 number: R1525
 sort_key: 1525
 date: 2026-06-14
-date_read: 2016-07-13
+date_read: 2023-07-13
 category: fantasy-romance
 cover: /assets/readings/symphony-for-a-deadly-throne.jpg
 spice: 4
@@ -19,7 +19,6 @@ tags:
   - darkromance
   - deadly
   - throne
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -46,5 +45,3 @@ Mellow’s juxtaposition of romantic desire and deadly ambition raises intriguin
 - Are the stakes of love and ambition compelling enough to warrant the decisions made by the characters?  
 - How does the gothic atmosphere contribute to the overall tension and allure of the narrative?  
 - What does the ending suggest about the costs of desire in a perilous world?  
-
-#TheOrchidRoom #fantasyromance #darkromance #romantasy #deadly

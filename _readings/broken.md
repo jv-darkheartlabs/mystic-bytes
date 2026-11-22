@@ -21,7 +21,6 @@ tags:
   - redemption
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,4 +47,3 @@ The prose is stark and unflinching, a double-edged sword that captures visceral 
 - What role does the setting play in the overall atmosphere of despair and potential healing?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #psychological #redemption #theorchidroom

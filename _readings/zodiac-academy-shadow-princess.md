@@ -7,7 +7,7 @@ dek: ""
 number: R1095
 sort_key: 1095
 date: 2026-04-30
-date_read: 2018-09-19
+date_read: 2020-09-19
 category: bully-romance
 cover: /assets/readings/zodiac-academy-shadow-princess.jpg
 spice: 4
@@ -46,5 +46,3 @@ This novel raises critical questions about morality within romantic entanglement
 - In what ways do the authors challenge or reinforce stereotypes in their character portrayals?
 - Is the dual perspective a strength in understanding the characters, or does it complicate the narrative unnecessarily?
 - What is the impact of the fantasy setting on the themes of emotional trauma and resolution?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #shadowprincess

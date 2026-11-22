@@ -7,7 +7,7 @@ dek: "New York Times Bestselling Author"
 number: R146
 sort_key: 146
 date: 2026-01-16
-date_read: 2017-05-07
+date_read: 2022-05-07
 category: forbidden-love
 cover: /assets/readings/blood-orange.jpg
 spice: 4
@@ -46,5 +46,3 @@ However, the exploration of vampiric elements, while intriguing, sometimes feels
 - In what ways do the supernatural elements serve to underscore or detract from the central themes of the story?  
 - Can you reconcile the ending with the overall journey of the characters, or does it leave too much unresolved?  
 - What role does obsession play in shaping the narrative, and how does it reflect societal views on love?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

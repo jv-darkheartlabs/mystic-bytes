@@ -47,5 +47,3 @@ The tension between expectation and resolution lingers throughout the narrative,
 - In what ways do the character dynamics reflect contemporary societal issues?  
 - Is the predictability of certain tropes a drawback or a deliberate choice to emphasize thematic elements?  
 - How does *The Queen of Nothing* compare to other fantasy romances in its treatment of power and desire?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #FolkOfTheAir

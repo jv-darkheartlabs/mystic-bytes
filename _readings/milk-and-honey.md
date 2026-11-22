@@ -6,7 +6,7 @@ dek: ""
 number: R1807
 sort_key: 1807
 date: 2026-07-10
-date_read: 2012-10-22
+date_read: 2014-10-22
 category: literary-fiction
 cover: /assets/readings/milk-and-honey.jpg
 content_warnings:
@@ -21,7 +21,6 @@ tags:
   - feminism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,4 +47,3 @@ The polarities in *Milk and Honey* might provoke a spectrum of opinion, as reade
 - Is the catharsis at the book's conclusion a genuine resolution, or does it gloss over the ongoing nature of trauma recovery?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #poetry #self-discovery #theorchidroom

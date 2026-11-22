@@ -7,7 +7,7 @@ dek: ""
 number: R1056
 sort_key: 1056
 date: 2026-04-26
-date_read: 2015-06-10
+date_read: 2023-06-10
 category: reverse-harem
 cover: /assets/readings/forced-bonds.jpg
 spice: 4
@@ -45,5 +45,3 @@ However, while the emotional resonance is strong, moments of dialogue occasional
 - Does the ending provide a satisfying resolution for the protagonist’s struggle, or does it shy away from a deeper confrontation of her choices?  
 - How does the use of first-person perspective impact your empathy for the protagonist?  
 - What elements of the reverse-harem trope resonate with you, and how do they shape your reading experience?  
-
-#TheOrchidRoom #reverseharem #darkromance #forced #literaryanalysis

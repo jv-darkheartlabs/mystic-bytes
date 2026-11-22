@@ -46,5 +46,3 @@ The interplay of love and ambition within *A Soul to Steal* presents a fertile g
 - What do you think of the balance between emotional intensity and plot progression in the novel?  
 - Is the depiction of sacrifice in love ultimately romanticizing a toxic narrative?  
 - How does the structure of alternating POVs affect your connection to the characters?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

@@ -1,0 +1,67 @@
+---
+layout: default
+title: About
+description: "About DarkHeartLabs, by Jennifer — senior creative writer and software engineer, author of What the Tide Keeps."
+permalink: /about/
+---
+{% assign career = site.data.career %}
+{% assign social = site.data.site.social %}
+<div class="container about-page">
+  <header class="signal-header">
+    <p class="page-eyebrow">About</p>
+    <h1 class="page-title">About</h1>
+    <p class="career-intro">DarkHeartLabs is a studio of one. Jennifer: senior creative writer, software engineer by training, and the author of a five-volume literary-supernatural series beginning with <em>What the Tide Keeps</em> — the technical work on one side of the desk, the fiction on the other.</p>
+    <p>For twenty-five years the job has been the same under different weather: make the hard thing readable — documentation, interfaces, systems people have to live inside — and keep the fiction for after hours. The practice is remote, asynchronous, documentation-centered. Accessibility is engineering here: keyboard navigation, practical usability, WCAG standards, not decoration.</p>
+  </header>
+
+  <section class="career-section" aria-labelledby="about-work">
+    <h2 id="about-work">The work</h2>
+    <p>Independent creative writer and contractor since 2015; before that, software development, systems administration, and IT support — the years that taught me where systems actually break. The writing covers developer documentation, READMEs, technical guides, incident reports, and outage communications, including plain-language explanations of DNS, email, hosting, deployment, and infrastructure failures, written for the people caught inside them.</p>
+    <p>The <a href="{{ '/projects/' | relative_url }}">projects</a> are the proof of work; the <a href="{{ '/journal/' | relative_url }}">Journal</a> is the rest of the writing — essays, reviews, poetry, and the films, with every book’s analysis kept on the book’s own page, where it belongs.</p>
+  </section>
+
+  <section class="career-section" aria-labelledby="about-resume">
+    <h2 id="about-resume">Résumé</h2>
+    <article class="career-entry">
+      <h3>DigitalSpellCraft LLC</h3>
+      <p class="career-meta">2015–2024 · Developer Programmer</p>
+      <p>Designed, built, tested, and maintained web and automation solutions in HTML/CSS/JavaScript and static-site tooling. Wired third-party services and infrastructure — DNS, email, hosting — into deployable client solutions, and ran version control and release workflows across client projects.</p>
+    </article>
+    <article class="career-entry">
+      <h3>365 Connect LLC</h3>
+      <p class="career-meta">2007–2015 · ICT Support Engineer</p>
+      <p>Advanced technical support for production systems and end users — fault diagnosis, service restoration, root-cause documentation. Ran email and domain support workflows, including DNS and deliverability troubleshooting, and wrote the user-facing and internal documentation that kept support consistent.</p>
+    </article>
+    <article class="career-entry">
+      <h3>Intradel Corporation</h3>
+      <p class="career-meta">2003–2007 · Systems Administrator</p>
+      <p>Kept business-critical systems running day to day — operations, maintenance, and access control; monitoring, issue resolution, preventive maintenance, and the backup and recovery practices that keep services available.</p>
+    </article>
+    <p><strong>Core capabilities:</strong> JavaScript · SwiftUI · front-end implementation · automation scripting · DNS, SPF/DKIM/DMARC · hosting setup · Docker · Git and GitHub · Tier 2–3 troubleshooting and incident handling · macOS, iOS, Linux, Windows.</p>
+    <p><a class="btn-outline" href="{{ '/assets/documents/DarkHeartLabs-Resume.pdf' | relative_url }}" download>Download résumé (PDF)</a></p>
+  </section>
+
+  <section class="career-section about-public-service" aria-labelledby="about-public-service">
+    <h2 id="about-public-service">A second track: public service</h2>
+    <p>{{ career.intro }}</p>
+    {% for entry in career.experience %}
+    <article class="career-entry">
+      <h3>{{ entry.title }}</h3>
+      <p class="career-meta">{{ entry.dates }} · {{ entry.context }}</p>
+      <p>{{ entry.summary }}</p>
+      {% if entry.bullets %}<ul>{% for bullet in entry.bullets %}<li>{{ bullet }}</li>{% endfor %}</ul>{% endif %}
+    </article>
+    {% endfor %}
+    <h3>Education and training</h3>
+    <ul>{% for item in career.training %}<li>{{ item }}</li>{% endfor %}</ul>
+    <p>{{ career.relocation }}</p>
+    <p><a class="btn-outline" href="{{ career.pdf | relative_url }}" download>Download public-service résumé (PDF)</a> <a href="{{ '/experience/' | relative_url }}">Fuller experience details →</a></p>
+  </section>
+
+  <section class="career-section about-contact" aria-labelledby="about-contact">
+    <h2 id="about-contact">Contact</h2>
+    <p><a href="mailto:{{ career.email }}">{{ career.email }}</a> · <a href="tel:{{ career.phone_href }}">{{ career.phone }}</a></p>
+    <p>{{ career.location }}</p>
+    <p><a href="{{ social.linkedin }}" target="_blank" rel="noreferrer">LinkedIn ↗</a> · <a href="{{ social.github }}" target="_blank" rel="noreferrer">GitHub ↗</a> · <a href="{{ '/contact/' | relative_url }}">Employment inquiry form →</a></p>
+  </section>
+</div>

@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R434
 sort_key: 434
 date: 2026-02-16
-date_read: 2009-05-07
+date_read: 2024-05-07
 category: historical
 cover: /assets/readings/the-briar-club.jpg
 content_warnings:

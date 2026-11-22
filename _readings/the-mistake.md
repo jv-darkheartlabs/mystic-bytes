@@ -44,5 +44,3 @@ Kennedy's ability to weave humor into heavy themes creates a fascinating dichoto
 - How does Kennedy's portrayal of college life contribute to the themes of love and mistake-making?  
 - In what ways does the narrative challenge or reinforce stereotypes associated with college romance?  
 - What might be the implications of the book's resolution on the portrayal of forgiveness in relationships?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #hockeyromance #literaryanalysis

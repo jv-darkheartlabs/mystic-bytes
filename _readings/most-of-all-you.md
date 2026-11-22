@@ -43,5 +43,3 @@ Sheridan's exploration of trauma and love invites diverse interpretations, parti
 - In what ways does the dual perspective enrich or complicate the narrative?  
 - Can the intense desire portrayed in the book be justified within the context of their healing journeys?  
 - How do you interpret the ending? Is it hopeful or cautionary?
-
-#TheOrchidRoom #forbiddenlove #darkromance #healing #literaryanalysis #darkheartlabs

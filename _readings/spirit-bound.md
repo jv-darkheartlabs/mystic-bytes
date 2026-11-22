@@ -45,5 +45,3 @@ The prose is rich yet accessible, capturing the gothic atmosphere while employin
 - Are the predictabilities in the plot a flaw or a comfort within the genre?  
 - How does Mead balance the gothic elements with character-driven storytelling?  
 - What unresolved themes do you feel linger beyond the last page?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

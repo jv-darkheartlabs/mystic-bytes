@@ -22,7 +22,6 @@ tags:
   - dark academia
   - circus
   - mystery
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -51,5 +50,3 @@ The novel’s exploration of ambition versus morality raises potent questions ab
 - In what ways does the setting of a prestigious university amplify the narrative’s themes of rivalry and desire?  
 - Are the psychological elements handled with enough nuance, or do they risk glorifying harmful behaviors?  
 - What is the significance of secrets in shaping the characters’ relationships, and do they ultimately serve a redemptive purpose?  
-
-#TheOrchidRoom #bullyromance #darkromance #darkacademia #mystery

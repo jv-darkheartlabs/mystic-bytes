@@ -51,5 +51,3 @@ The intricate dance of power, desire, and moral consequence creates polarizing v
 - In what ways does the setting of the spire enhance or detract from the themes of the novel?  
 - How do the elements of political intrigue shape the characters' relationships and motivations?  
 - What moral quandaries does Waechter present regarding immortality, and how do they resonate with contemporary issues?
-
-#TheOrchidRoom #fantasyromance #darkromance #immortalorders #BeneaththeAlabasterSpire

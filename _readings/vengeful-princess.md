@@ -51,5 +51,3 @@ Ava Summers' work invites fervent discussion on the ethics of love and revenge w
 - In what ways does the setting contribute to or distract from character development?
 - Do you believe that the tropes employed here are evolving, or are they merely recycling outdated narratives?
 - How does the emotional intensity of the writing affect your connection to the characters?
-
-#TheOrchidRoom #mafiaromance #darkromance #revenge #gothic

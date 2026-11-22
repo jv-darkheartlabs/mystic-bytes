@@ -42,5 +42,3 @@ The interplay of memory and desire in *The Ones We Remember* offers a fertile gr
 - Do you think the supporting characters add or detract from the main storyline?  
 - How does the novel challenge or conform to the typical tropes of forbidden love?  
 - Is the ending satisfying, or does it fall into the realm of cliché resolutions?
-
-#TheOrchidRoom #forbiddenlove #darkromance #secondchance #literaryanalysis

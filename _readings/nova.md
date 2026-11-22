@@ -43,5 +43,3 @@ This narrative invites a spectrum of interpretations regarding the relationship 
 - Do you find the portrayal of military life adds depth to the romance, or does it serve as a distraction?  
 - How does the book’s exploration of trauma shape your perception of love within the narrative?  
 - What do you think of the ending—does it reflect a realistic resolution for the characters, or does it lean towards romantic idealism?
-
-#TheOrchidRoom #militaryromance #darkromance #literaryanalysis #darkheartlabs

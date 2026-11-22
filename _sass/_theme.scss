@@ -1,0 +1,293 @@
+// Theme layer — DarkHeartLabs makeover foundation (Nov 2026)
+// ---------------------------------------
+// Design tokens as CSS custom properties (dark theme — the site's only
+// theme; a light mode was built, previewed, and dropped Nov 18, 2026).
+// Component-level conversion to these properties continues through the
+// staged page builds.
+
+@use "variables" as *;
+
+:root {
+  color-scheme: dark;
+  --bg: #{$void};
+  --surface: #{$surface};
+  --line: #{$line};
+  --text: #{$pale};
+  --muted: #{$muted};
+  --link: #{$bright-violet};
+  --link-card: #{$bright-violet-card};
+  --tagline: #{$bone-gold};
+  --gold: #{$bone-gold};
+  --accent: #{$shrine};
+  --red: #{$heart-red};
+  --on-red: #{$void};
+  --focus: #{$bright-violet};
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: $font-body;
+  transition: background-color $transition-base, color $transition-base;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-display;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+// Header / footer chrome rides the theme layer from day one.
+.site-header {
+  background-color: var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+
+.site-brand__tagline {
+  color: var(--tagline);
+}
+
+.site-footer {
+  background-color: var(--bg);
+  border-top: 1px solid var(--line);
+  color: var(--text);
+}
+
+.site-footer a {
+  color: var(--link);
+}
+
+// Richer motion (spec E1): the atmosphere blooms drift slowly.
+.atmosphere__bloom {
+  animation: dhl-drift 12s ease-in-out infinite alternate;
+}
+
+@keyframes dhl-drift {
+  from { transform: translate3d(0, 0, 0) scale(1); }
+  to   { transform: translate3d(-2rem, 1.3125rem, 0) scale(1.12); }
+}
+
+// Home (pages build, Nov 18, 2026): hero + phi split.
+// The hero headline is the site's single 67.8px line (4.2375rem),
+// clamped down to the 41.9px cap (2.618rem) on narrow screens.
+.home-hero {
+  padding: 2.618rem;
+  margin-bottom: 2.618rem;
+}
+
+.home-hero__title {
+  font-size: clamp(2.618rem, 6vw, 4.2375rem);
+  line-height: 1.1;
+  margin: 0 0 1rem;
+}
+
+.home-hero__sub {
+  font-size: 1.618rem;
+  color: var(--muted);
+  max-width: 38em;
+}
+
+.home-split {
+  display: grid;
+  grid-template-columns: 61.8fr 38.2fr;
+  gap: 2.618rem;
+  align-items: start;
+}
+
+.home-entry-list,
+.home-link-list {
+  list-style: none;
+  padding: 0;
+}
+
+.home-entry-list li {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.home-entry__dek {
+  color: var(--muted);
+}
+
+.home-entry__meta {
+  color: var(--muted);
+  font-size: 0.9em;
+}
+
+.home-project-card {
+  margin-bottom: 1.618rem;
+}
+
+.home-project-card a {
+  color: var(--link-card);
+}
+
+@media (max-width: 900px) {
+  .home-split {
+    grid-template-columns: 1fr;
+  }
+}
+
+// Journal + Media (pages build batch 2, Nov 18, 2026).
+.journal-block,
+.media-block {
+  margin-bottom: 2.618rem;
+}
+
+.journal-shelf {
+  margin: 1.618rem 0 0.25rem;
+}
+
+// Journal shelves (Nov 18, 2026): each area is a shelf section — covers
+// on a plank with a gold nameplate heading, its latest pieces beneath.
+.shelf-section {
+  margin-bottom: 4.236rem;
+}
+
+.shelf {
+  display: block;
+}
+
+.shelf:hover,
+.shelf:focus {
+  text-decoration: none;
+}
+
+.shelf__covers {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 4px;
+  height: 104px;
+  padding: 0 2px;
+  overflow: hidden;
+}
+
+.shelf__cover {
+  height: 96px;
+  border-radius: 2px 4px 4px 2px;
+  box-shadow: inset 3px 0 0 rgba(0, 0, 0, 0.25), 0 1px 2px rgba(0, 0, 0, 0.35);
+  transition: transform $transition-base;
+}
+
+img.shelf__cover {
+  width: 64px;
+  object-fit: cover;
+}
+
+.shelf__cover--blank {
+  width: 64px;
+  flex: none;
+  background: var(--spine, #{$line});
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+// Essay shelf covers are topic blocks: the essays' own cover art is a set
+// of landscape topic banners that crop to blank at shelf size, so the
+// shelf letters the topic and title onto a tinted block instead.
+.shelf__cover--topic {
+  width: 64px;
+  flex: none;
+  background: var(--spine, #{$line});
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 6px 5px;
+}
+
+.shelf__topic {
+  font-size: 0.58rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  text-align: center;
+}
+
+.shelf__cover-title {
+  font-family: $font-display;
+  font-size: 0.62rem;
+  line-height: 1.25;
+  text-align: center;
+}
+
+.shelf__cover--blank span {
+  font-family: $font-display;
+  font-size: 0.62rem;
+  line-height: 1.3;
+  padding: 4px;
+}
+
+.shelf:hover .shelf__cover,
+.shelf:focus .shelf__cover {
+  transform: translateY(-3px);
+}
+
+.shelf__plank {
+  display: block;
+  height: 7px;
+  border-radius: 2px;
+  background: linear-gradient(180deg, #4a3566, #{$line});
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.35);
+}
+
+.shelf__plate {
+  display: block;
+  margin: 6px 0 0.5rem;
+  text-align: center;
+  font-size: 1.618rem;
+  color: var(--gold);
+  letter-spacing: 0.05em;
+}
+
+.shelf:hover .shelf__plate,
+.shelf:focus .shelf__plate {
+  text-decoration: underline;
+}
+
+.media-embed {
+  margin: 1rem 0 1.618rem;
+  padding: 1rem;
+}
+
+.media-embed iframe {
+  border: 0;
+  border-radius: 12px;
+  max-width: 100%;
+}
+
+// Reduced motion is respected everywhere (spec E1).
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Letters to a Future Home (premise pass, Nov 19 2026) */
+.essay-letters { margin: 0.618rem 0 0; }
+.essay-badge--letters { color: var(--gold); border: 1px solid var(--gold); }
+.essay-headnote { color: var(--muted); margin: 0.382rem 0 0; }
+.travels-note { color: var(--muted); max-width: 38em; }
+.home-entry__thread { color: var(--gold); font-size: 0.85em; letter-spacing: 0.04em; text-transform: uppercase; margin: 0.25rem 0 0; }

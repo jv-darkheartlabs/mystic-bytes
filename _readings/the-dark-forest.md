@@ -49,5 +49,3 @@ The interplay between cosmic dread and human emotion is a fertile ground for deb
 - Can the romantic elements in the story be seen as a distraction from the overarching sci-fi themes?  
 - How do the content warnings influence your reading experience and interpretation of the narrative's moral dilemmas?  
 - What does Liu suggest about the nature of sacrifice in the face of an indifferent universe?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #hardSF

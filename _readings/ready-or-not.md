@@ -7,7 +7,7 @@ dek: ""
 number: R188
 sort_key: 188
 date: 2026-01-21
-date_read: 2023-11-25
+date_read: 2024-11-25
 category: motorcycle-club
 cover: /assets/readings/ready-or-not.jpg
 spice: 4
@@ -48,5 +48,3 @@ The novel evokes strong reactions, particularly around the ethical dimensions of
 - Does the resolution provide a satisfying conclusion to the themes of obsession and desire, or does it leave too much unresolved?  
 - How do the content warnings shape your reading experience, and do they enhance or hinder the emotional engagement with the characters?  
 - What elements of May's writing style stood out to you, and how did they contribute to or detract from your enjoyment of the story?  
-
-#TheOrchidRoom #mcromance #darkromance #romanticsuspense #literaryanalysis

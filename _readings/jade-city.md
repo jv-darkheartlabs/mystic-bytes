@@ -7,7 +7,7 @@ dek: ""
 number: R960
 sort_key: 960
 date: 2026-04-15
-date_read: 2015-09-19
+date_read: 2017-09-19
 category: fantasy-romance
 cover: /assets/readings/jade-city.jpg
 spice: 3
@@ -47,5 +47,3 @@ The novel's intricate portrayal of family loyalty against a backdrop of ambition
 - In what ways do the fantastical elements of jade serve as a metaphor for power dynamics in human relationships?  
 - Can the dual narrative structure enhance or detract from character development?  
 - How does **Jade City** compare to other works that navigate familial duty within a fantasy setting?  
-
-#TheOrchidRoom #fantasyromance #darkromance #jade #literaryanalysis

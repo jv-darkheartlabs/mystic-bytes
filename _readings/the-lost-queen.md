@@ -50,5 +50,3 @@ However, while the prose is often lush and evocative, there are moments where di
 - In what ways do the fae politics mirror real-world power struggles, and should fantasy engage with these themes?  
 - How do we interpret the ending — does it leave us hungry for more, or does it frustrate the narrative’s resolution?  
 - Is the use of forced proximity an effective device for character growth in this context?
-
-#TheOrchidRoom #fantasyromance #darkromance #fae #literaryanalysis

@@ -48,5 +48,3 @@ The interplay of desire and existential dread creates polarizing views on the ef
 - Do unresolved endings heighten the thematic significance, or do they frustrate your reading experience?  
 - How effective is the romantic tension in driving the plot forward?  
 - What does this book reveal about the relationship between violence and the pursuit of knowledge?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

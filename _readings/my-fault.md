@@ -44,5 +44,3 @@ The duality of desire and consequence permeates the narrative, inviting intense 
 - What does the ending suggest about the nature of love and redemption?  
 - How does the book's portrayal of step-sibling relationships challenge or reinforce societal taboos?  
 - Are there moments in the novel that felt particularly relatable or troubling? Why?
-
-#TheOrchidRoom #forbiddenlove #darkromance #Culpables #literaryanalysis

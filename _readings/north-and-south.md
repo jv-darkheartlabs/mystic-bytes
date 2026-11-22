@@ -20,7 +20,6 @@ tags:
   - social issues
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The tensions in *North and South* open multiple avenues for exploration, particu
 - Does the ending validate the struggles presented throughout the novel, or does it sidestep deeper issues?  
 - Can Gaskell's work still be relevant in today’s socio-economic climate, and if so, how?  
 - What role does setting play in shaping the characters' identities and conflicts?
-
-#TheOrchidRoom #gothic #horrorromance #classstruggle #romantictension

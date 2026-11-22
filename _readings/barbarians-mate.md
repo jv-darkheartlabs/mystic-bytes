@@ -53,5 +53,3 @@ The interplay of consent, desire, and survival in *Barbarian's Mate* creates a r
 - In what ways does Dixon's portrayal challenge or reinforce conventions in the fantasy-romance genre?  
 - Do you find the duality of danger and desire appealing or problematic?  
 - How does the setting contribute to the narrative’s emotional impact?  
-
-#TheOrchidRoom #fantasyromance #darkromance #alienromance #BarbariansMate

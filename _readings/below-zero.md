@@ -43,5 +43,3 @@ Hazelwood’s *Below Zero* invites lively debate over its thematic elements and 
 - In what ways does Hazelwood's portrayal of STEM culture resonate with contemporary audiences?  
 - How do you interpret the ending, and what does it leave unresolved for you?  
 - What role does humor play in balancing the darker themes of ambition and competition?
-
-#TheOrchidRoom #BelowZero #enemiestolovers #darkromance #STEMromance

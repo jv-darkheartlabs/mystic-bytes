@@ -48,5 +48,3 @@ The book’s exploration of ambition juxtaposed with human connection offers fer
 - Is the portrayal of ambition in this narrative ultimately empowering or cautionary?  
 - How do the content warnings enhance or detract from the reading experience?  
 - In what ways do you think Maas’s novellas compare to her full-length novels in depth and development?  
-
-#TheOrchidRoom #fantasyromance #darkromance #assassin #literaryanalysis

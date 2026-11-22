@@ -7,7 +7,7 @@ dek: "Everything we do is..."
 number: R204
 sort_key: 204
 date: 2026-01-22
-date_read: 2015-09-19
+date_read: 2023-09-19
 category: rockstar-romance
 cover: /assets/readings/for-the-fans.jpg
 spice: 4
@@ -48,5 +48,3 @@ The interplay of identity and desire within **For the Fans** raises several comp
 - In what ways does the portrayal of social media shape our understanding of intimacy?  
 - How does the duality of the protagonists' public versus private selves affect reader empathy?  
 - Is the resolution of their relationship earned, or does it simplify the complexities introduced earlier?
-
-#TheOrchidRoom #rockstarromance #darkromance #mmromance #literaryanalysis

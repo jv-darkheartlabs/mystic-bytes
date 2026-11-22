@@ -46,5 +46,3 @@ The interplay between power and vulnerability raises significant questions about
 - Can a romance built on such a precarious foundation be considered genuine?  
 - How do the content warnings shape your reading experience?  
 - Where do you see the line drawn between romantic fantasy and ethical reality in this narrative?  
-
-#TheOrchidRoom #mafiaromance #darkromance #literaryanalysis #TakeMeApart

@@ -7,7 +7,7 @@ dek: ""
 number: R675
 sort_key: 675
 date: 2026-03-15
-date_read: 2018-03-01
+date_read: 2019-03-01
 category: fantasy-romance
 cover: /assets/readings/master-of-sorrows.jpg
 spice: 4
@@ -45,5 +45,3 @@ The protagonist, whose journey is laden with moral ambiguity, is crafted with a 
 - In what ways does the romantic element enhance or detract from the fantasy narrative?  
 - What unresolved questions linger for you after the final chapter?  
 - How does the emotional intensity of the characters’ experiences affect your engagement with the story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #MasterOfSorrows

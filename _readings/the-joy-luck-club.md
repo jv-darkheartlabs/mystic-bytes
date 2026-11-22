@@ -22,7 +22,6 @@ tags:
   - immigration
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The novel invites significant debate on the balance between cultural specificity
 - How does the depiction of mother-daughter relationships resonate with contemporary readers?  
 - Is the ending satisfying, or does it gloss over deeper issues?  
 - How can we interpret the role of cultural heritage in shaping personal identity within the text?  
-
-#LiteraryAnalysis #darkthriller #family #culturalheritage #mother-daughterrelationships #theorchidroom

@@ -6,7 +6,7 @@ dek: "A Novel"
 number: R870
 sort_key: 870
 date: 2026-04-05
-date_read: 2021-09-19
+date_read: 2022-09-19
 category: enemies-to-lovers
 cover: /assets/readings/the-bodyguard.jpg
 spice: 3
@@ -42,5 +42,3 @@ Despite its strengths, *The Bodyguard* may evoke polarizing opinions regarding i
 - In what ways do you think the dual perspective impacts the reader’s connection to the characters?  
 - Are there moments where the narrative feels too predictable, and how does that affect your overall experience of the book?  
 - How does Center's portrayal of masculinity challenge or reinforce traditional gender roles in romance novels?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

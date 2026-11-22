@@ -6,7 +6,7 @@ dek: ""
 number: R852
 sort_key: 852
 date: 2026-04-03
-date_read: 2015-09-19
+date_read: 2022-09-19
 category: enemies-to-lovers
 cover: /assets/readings/happenstance.jpg
 spice: 3
@@ -42,5 +42,3 @@ Structurally, Bailey effectively employs a classic three-act format, but the pac
 - In what ways does the dual perspective enrich the narrative, and could it have been executed differently for stronger effect?  
 - Are the character motivations relatable, or do they feel overly dramatized?  
 - What role does vulnerability play in transforming antagonism into romance in this story?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #rom-com #literaryanalysis

@@ -6,7 +6,7 @@ dek: ""
 number: R1789
 sort_key: 1789
 date: 2026-07-08
-date_read: 2016-10-22
+date_read: 2024-10-22
 category: gothic-horror-romance
 cover: /assets/readings/we-used-to-live-here.jpg
 spice: 3
@@ -21,7 +21,6 @@ tags:
   - supernatural
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The novel's exploration of haunting—both literal and metaphorical—presents i
 - Can the portrayal of mental illness be considered empowering or exploitative in this context?  
 - How did the pacing impact your overall experience of the narrative?  
 - What lingering questions do you have about the characters' fates and the nature of their hauntings?
-
-#TheOrchidRoom #gothic #horrorromance #romance #supernatural

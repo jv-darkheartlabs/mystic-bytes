@@ -45,5 +45,3 @@ Abercrombie's narrative invites a myriad of polarizing themes, from the ethics o
 - In what ways does the non-linear structure impact our connection to the characters and their journeys?  
 - Are the emotional stakes raised to a point of exhaustion, or do they serve to deepen our investment in the narrative?  
 - How does the blend of dark fantasy and romance challenge or reinforce genre conventions?  
-
-#TheOrchidRoom #fantasyromance #darkromance #last #argument #literaryanalysis

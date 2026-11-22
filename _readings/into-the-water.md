@@ -6,7 +6,7 @@ dek: ""
 number: R1801
 sort_key: 1801
 date: 2026-07-09
-date_read: 2006-04-04
+date_read: 2017-04-04
 category: mystery-crime
 cover: /assets/readings/into-the-water.jpg
 content_warnings:
@@ -21,7 +21,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The novel invites a rich dialogue on the complexities of female friendships and 
 - What are the implications of the unresolved plot elements? Do they enhance or detract from the story?
 - In what ways does the narrative challenge or reinforce societal views on women?
 - Should the pacing be regarded as a flaw or a deliberate choice to mirror the themes?
-
-#LiteraryAnalysis #darkthriller #psychologicalthriller #suspense #theorchidroom

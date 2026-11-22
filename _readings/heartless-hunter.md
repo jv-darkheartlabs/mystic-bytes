@@ -45,5 +45,3 @@ Ciccarelli's handling of complex emotional landscapes can spark both admiration 
 - Does the resolution of the plot feel earned, or does it leave critical themes inadequately explored?
 - How does Ciccarelli balance the elements of danger and desire within her characters?
 - What gaps or biases do you see in the portrayal of emotional vulnerability in the narrative?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #heartlesshunter

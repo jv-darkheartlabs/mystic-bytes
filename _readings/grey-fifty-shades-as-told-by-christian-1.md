@@ -23,7 +23,6 @@ tags:
   - contemporary
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ The juxtaposition of desire and control in *Grey* invites potent discussions, es
 - How does the novel challenge or reinforce traditional romantic tropes in the context of consent?  
 - In what ways does the setting enhance or distract from the emotional stakes of the story?  
 - Does the reimagining of this narrative add depth or merely complicate the existing themes?
-
-#TheOrchidRoom #darkbillionaire #darkromance #literaryanalysis #E.L.James

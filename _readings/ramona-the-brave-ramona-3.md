@@ -18,7 +18,6 @@ tags:
   - family dynamics
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The duality of childhood—where innocence meets the shadows of fear—creates a
 - Are the themes of bravery and vulnerability adequately addressed by the conclusion?  
 - What role does family play in shaping Ramona's identity, and how does it reflect broader societal expectations?  
 - How do you interpret the gothic elements woven throughout a children's narrative?
-
-#TheOrchidRoom #gothic #horrorromance #childrensliterature #literaryanalysis

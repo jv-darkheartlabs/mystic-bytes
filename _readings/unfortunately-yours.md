@@ -6,7 +6,7 @@ dek: "a novel"
 number: R858
 sort_key: 858
 date: 2026-04-04
-date_read: 2021-06-10
+date_read: 2023-06-10
 category: enemies-to-lovers
 cover: /assets/readings/unfortunately-yours.jpg
 spice: 4
@@ -40,5 +40,3 @@ However, while the prose is often sharp and engaging, moments of exposition occa
 - In what ways does the resolution challenge or conform to the expectations of the enemies-to-lovers genre?  
 - Does the backdrop of a wedding enhance or detract from the central conflict?  
 - How do the characters’ flaws contribute to or complicate their romantic journey?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

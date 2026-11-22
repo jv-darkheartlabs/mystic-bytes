@@ -45,5 +45,3 @@ The novel’s exploration of hierarchy presents a fertile ground for debate, as 
 - How do the moral complexities faced by the characters reflect contemporary societal issues?  
 - What unresolved elements in the story left you craving more, and do they enhance or detract from the overall narrative?  
 - In what ways does the novel challenge or reinforce traditional fantasy tropes?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #epicfantasy

@@ -6,7 +6,7 @@ dek: "She wants three things. He isn't one of them."
 number: R472
 sort_key: 472
 date: 2026-02-21
-date_read: 2019-07-13
+date_read: 2024-07-13
 category: enemies-to-lovers
 cover: /assets/readings/under-your-spell.jpg
 spice: 3
@@ -43,5 +43,3 @@ Wood's work invites a spectrum of interpretations, particularly regarding the na
 - In what ways do the characters’ transformations challenge or reinforce traditional romantic tropes?  
 - Is the resolution of their conflict sufficient, or does it gloss over deeper issues?  
 - How does the setting influence the characters’ emotional journey throughout the narrative?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #British #literaryanalysis

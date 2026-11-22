@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R400
 sort_key: 400
 date: 2026-02-13
-date_read: 2005-07-13
+date_read: 2009-07-13
 category: mystery-crime
 cover: /assets/readings/the-truth-about-melody-browne.jpg
 content_warnings:

@@ -6,7 +6,7 @@ dek: "One of Us is Lying, #1"
 number: R1796
 sort_key: 1796
 date: 2026-07-09
-date_read: 2011-08-16
+date_read: 2014-08-16
 category: ya-fiction
 cover: /assets/readings/one-of-us-is-lying-one-of-us-is-lying-1.jpg
 content_warnings:
@@ -22,7 +22,6 @@ tags:
   - thriller
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ This novel presents several polarizing elements worthy of debate in the group. D
 - Can the ending be considered satisfying, or does it rely too heavily on genre expectations?
 - In what ways does McManus succeed or fail in addressing the themes of bullying and mental health?
 - What does this book reveal about the high school experience today, and how does it compare to earlier YA literature?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #youngadult

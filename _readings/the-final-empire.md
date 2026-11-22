@@ -46,5 +46,3 @@ Sanderson's work tends to polarize readers, particularly regarding its balance o
 - How do the romantic elements serve or detract from the overarching themes of power and rebellion?  
 - In what ways does the portrayal of a female protagonist in a traditionally male-dominated genre challenge or reinforce genre tropes?  
 - Does the narrative succeed in balancing high-stakes adventure with introspective character development?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #thefinalempire

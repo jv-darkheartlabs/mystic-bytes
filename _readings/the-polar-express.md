@@ -20,7 +20,6 @@ tags:
   - magical realism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The structure of *The Polar Express* is nonlinear, with its dream-driven timelin
 - In what ways do the illustrations impact your understanding of the narrative?  
 - Can a book aimed at children successfully convey themes of existential doubt without alienating its primary audience?  
 - How does the gothic undertone enhance or detract from the overall message of the story?  
-
-#TheOrchidRoom #gothic #horrorromance #children'sliterature #magicalrealism

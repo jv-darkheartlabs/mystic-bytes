@@ -21,7 +21,7 @@ brief:
 
 ## Context
 
-mystic-bytes is a Jekyll site: HTML, CSS, a little JS. I check pages in Firefox and a Chromium build on Fedora. I check Safari when I am on the Mac that also notarizes NeuroShell. Auckland in 2026 did not add a fourth engine. It added another laptop. I do not work at Google, Apple, or Mozilla. I live downstream of their parsers.
+mystic-bytes is a Jekyll site: HTML, CSS, a little JS. I check pages in Firefox and a Chromium build on Fedora. I check Safari when I am on the Mac that also notarizes NeuroShell. I do not work at Google, Apple, or Mozilla. I live downstream of their parsers.
 
 The industry conversation is full of framework names. The bug I actually hit is a cascade difference, a `position: sticky` quirk, a font metric, a form control that is a native widget in one engine and a CSS project in another. Those bugs do not live in React. They live in the thing that turns markup into a tree and a tree into paint.
 

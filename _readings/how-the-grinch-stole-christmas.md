@@ -18,7 +18,6 @@ tags:
   - children's literature
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -40,5 +39,3 @@ The interplay between joy and isolation, as explored through the Grinch's journe
 - In what ways does Seuss's playful language contrast with the darker themes of alienation?  
 - Does the ending genuinely redeem the Grinch, or does it gloss over the complexities of his character?  
 - How might the story resonate differently with adult readers compared to children?
-
-#TheOrchidRoom #gothic #horrorromance #Christmas #childrenliterature

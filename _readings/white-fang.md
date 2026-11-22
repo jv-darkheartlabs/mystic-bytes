@@ -20,7 +20,6 @@ tags:
   - coming-of-age
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The ending, while resonant, raises questions about the cyclical nature of violen
 - In what ways does White Fang's experience mirror human struggles for identity and belonging?
 - Can the anthropomorphism of White Fang serve as a critique of human societal norms?
 - How does this narrative compare to contemporary discussions about animal rights and welfare?
-
-#TheOrchidRoom #gothic #horrorromance #survival #nature

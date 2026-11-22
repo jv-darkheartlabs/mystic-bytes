@@ -7,7 +7,7 @@ dek: "A Lady of Darkness Novel"
 number: R1188
 sort_key: 1188
 date: 2026-05-10
-date_read: 2015-03-01
+date_read: 2025-03-01
 category: fantasy-romance
 cover: /assets/readings/lady-of-embers.jpg
 spice: 3
@@ -46,5 +46,3 @@ While **Lady of Embers** excels in creating an immersive fantasy world, its adhe
 - How do you interpret the role of secondary characters in shaping the protagonist's journey?
 - In what ways does the ending align or clash with your expectations based on genre conventions?
 - What aspects of power and desire resonate most strongly with you, and how do they inform your reading experience?
-
-#TheOrchidRoom #fantasyromance #darkromance #ladyofdarkness #literaryanalysis

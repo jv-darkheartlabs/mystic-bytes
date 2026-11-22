@@ -20,7 +20,6 @@ tags:
   - children's literature
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ While **Prince Caspian** presents an enchanting narrative, it also raises questi
 - In what ways does the book balance adventure with moral lessons, and does this balance enhance or detract from the narrative?
 - Can **Prince Caspian** be appreciated solely as a children's story, or does its deeper commentary resonate with adult readers as well?
 - How do the themes of legacy and heritage manifest through Caspian and the Pevensies’ journey?
-
-#TheOrchidRoom #fantasyromance #darkromance #children'sliterature #literaryanalysis

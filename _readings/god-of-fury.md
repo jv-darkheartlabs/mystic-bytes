@@ -47,5 +47,3 @@ However, this intensity occasionally unravels into melodrama, particularly in mo
 - Are the characters’ transformations believable, or do they rely too heavily on genre tropes? 
 - Does the ending provide satisfactory closure, or does it invite ambiguity regarding the characters' fates? 
 - What does this novel suggest about the nature of desire and power in relationships?
-
-#TheOrchidRoom #bullyromance #darkromance #literaryanalysis #GodOfFury

@@ -6,7 +6,7 @@ dek: "My game, my rules, my mask — Hollow Boys Book Two"
 number: R053
 sort_key: 053
 date: 2026-01-07
-date_read: 2020-11-25
+date_read: 2022-11-25
 category: bully-romance
 cover: /assets/readings/the-truths-we-burn.jpg
 spice: 4
@@ -47,5 +47,3 @@ While *The Truths We Burn* invites readers to explore the complexities of love i
 - What implications does the ending have for the characters' future relationships?  
 - How does this book compare to other narratives in the bully-romance subgenre?  
 - Can love ever truly exist without some form of deception?
-
-#TheOrchidRoom #bullyromance #darkromance #hollowboys #masks

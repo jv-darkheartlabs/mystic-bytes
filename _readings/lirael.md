@@ -46,5 +46,3 @@ The thematic success lies in its exploration of emotional intensity, particularl
 - How do we interpret the ending — is it a celebration of open-endedness or a frustrating lack of resolution?  
 - What role does emotional intensity play in your connection to the characters, and how does it compare to other works in the genre?  
 - Does the balance of fantasy elements detract from or enhance the romantic narrative?  
-
-#TheOrchidRoom #lirael #fantasyromance #darkromance #literaryanalysis

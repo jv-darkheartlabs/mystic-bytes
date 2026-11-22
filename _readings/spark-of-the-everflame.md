@@ -6,7 +6,7 @@ dek: "The Kindred's Curse Saga, Book One"
 number: R1143
 sort_key: 1143
 date: 2026-05-05
-date_read: 2018-03-01
+date_read: 2024-03-01
 category: fantasy-romance
 cover: /assets/readings/spark-of-the-everflame.jpg
 spice: 3
@@ -46,5 +46,3 @@ The novel’s exploration of duty versus desire presents fertile ground for disc
 - Does the familiarity of certain tropes serve the story, or does it hinder its originality?  
 - How does *Spark of the Everflame* compare to other works within the romantic fantasy genre in terms of thematic depth and character complexity?  
 - What are your thoughts on the ending—does it leave you eager for more or unsatisfied?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #kindredscurse

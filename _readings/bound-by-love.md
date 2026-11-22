@@ -50,5 +50,3 @@ The exploration of power dynamics in *Bound by Love* invites diverse interpretat
 - Does the book provide an adequate critique of power imbalances, or does it inadvertently reinforce them?  
 - How does the dual perspective affect your understanding of the characters’ motivations and desires?  
 - What role does violence play in shaping the characters' relationships, and how does it impact your engagement with the narrative?
-
-#TheOrchidRoom #mafiaromance #darkromance #arrangedmarriage #CoraReilly

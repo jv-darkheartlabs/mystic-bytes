@@ -22,7 +22,6 @@ tags:
   - psychological
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The complex interplay of trauma and justice raises polarizing questions. While s
 - In what ways does the setting of Sweden enhance or detract from the narrative?
 - Are the character arcs of Blomkvist and Salander satisfactorily resolved, or do they leave too many questions unanswered?
 - What is the impact of the novel's pacing on your overall engagement with the story?
-
-#LiteraryAnalysis #darkthriller #mystery #psychological #theorchidroom

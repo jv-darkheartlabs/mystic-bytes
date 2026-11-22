@@ -50,5 +50,3 @@ However, the narrative occasionally falters in its exploration of the secondary 
 - Does the book’s treatment of violence serve to deepen the narrative, or does it risk overshadowing the romance?  
 - How does the setting of organized crime serve as a backdrop for the emotional stakes of the relationship?  
 - What unresolved themes linger after the final chapter, and how do they shape your interpretation of the story?  
-
-#TheOrchidRoom #mafiaromance #darkromance #empireofcarnage #gothic

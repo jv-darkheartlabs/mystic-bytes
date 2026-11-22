@@ -50,5 +50,3 @@ The thematic exploration of captivity is particularly poignant, as it serves as 
 - What role does the masked hero play in shaping the reader's perception of desire and danger?  
 - In what ways does the ending align or conflict with the themes explored throughout the book?  
 - How do the content warnings influence your reading experience of the novel?  
-
-#TheOrchidRoom #mafiaromance #darkromance #beneaththemask #suspense

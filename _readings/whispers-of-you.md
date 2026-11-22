@@ -7,7 +7,7 @@ dek: "The Lost & Found Series"
 number: R1347
 sort_key: 1347
 date: 2026-05-27
-date_read: 2012-09-19
+date_read: 2023-09-19
 category: romantic-suspense
 cover: /assets/readings/whispers-of-you.jpg
 spice: 3
@@ -43,5 +43,3 @@ The world-building is steeped in the atmosphere of a small town, where secrets l
 - Are the characters’ journeys toward healing believable, or do they lean into fantasy?  
 - What role does violence play in shaping the narrative, and how does it impact reader empathy?  
 - Is the ending a true resolution, or does it leave too many threads unresolved?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

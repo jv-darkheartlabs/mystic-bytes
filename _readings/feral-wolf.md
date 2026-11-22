@@ -48,5 +48,3 @@ Peckham and Valenti's *Feral Wolf* unearths polarities that could ignite robust 
 - Can the familiar tropes of shifter romance still provide fresh insights into deeper human experiences?  
 - Do the darker elements of the narrative shift our understanding of consent, or do they risk trivializing it?  
 - What aspects of the authors' style contribute most significantly to the story's emotional impact?
-
-#TheOrchidRoom #fantasyromance #darkromance #shifter #feral

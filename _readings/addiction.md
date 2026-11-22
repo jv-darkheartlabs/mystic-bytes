@@ -51,5 +51,3 @@ Tessier’s *Addiction* ignites discussions about the nature of love and obsessi
 - Does the book adequately address the consequences of its themes, or does it risk romanticizing harmful behaviors?  
 - How effective is the non-linear structure in conveying the chaos of obsession?  
 - What unresolved questions linger after the final page, and how do they affect your reading experience?  
-
-#TheOrchidRoom #Addiction #DarkRomance #LiteraryAnalysis #Obsession

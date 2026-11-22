@@ -23,7 +23,6 @@ tags:
   - identity
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Stevenson’s exploration of identity and morality invites polarizing perspectiv
 - Can Jekyll’s transformation be viewed as a cautionary tale against the repression of desire?  
 - What role does the setting play in amplifying the psychological horror of the narrative?  
 - How might the themes of addiction and mental illness resonate in today’s context?
-
-#TheOrchidRoom #gothic #psychological #identity #horrorromance

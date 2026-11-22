@@ -47,5 +47,3 @@ The prose is sharp and evocative, painting vivid images of the college landscape
 - What role do you think the college setting plays in shaping the characters' conflicts?  
 - Can love truly exist in a relationship built upon manipulation and power imbalance?  
 - In what ways does Ryan's writing challenge or affirm your views on the bully-romance genre?  
-
-#TheOrchidRoom #bullyromance #darkromance #college #literaryanalysis

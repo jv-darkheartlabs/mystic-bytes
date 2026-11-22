@@ -24,7 +24,6 @@ tags:
   - classic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The polarities in *The Exorcist* are stark, inviting rich debate about faith, mo
 - Do you think the philosophical dialogues enhance or detract from the narrative's urgency?  
 - How does the duality of good and evil manifest in the characters’ journeys?  
 - What personal fears or beliefs does this story provoke in us as readers?  
-
-#TheOrchidRoom #gothic #horrorromance #psychological #religion

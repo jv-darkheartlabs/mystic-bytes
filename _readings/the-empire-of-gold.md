@@ -47,5 +47,3 @@ The intricate balance of personal and political in **The Empire of Gold** raises
 - In what ways does the ending reflect the overarching themes of identity and belonging? Is it a triumph or a tragedy?  
 - How does Chakraborty’s cultural backdrop influence the character motivations and conflicts?  
 - What does this series suggest about the cost of power and the complexities of human connection?
-
-#TheOrchidRoom #fantasyromance #darkromance #djinn #Daevabad

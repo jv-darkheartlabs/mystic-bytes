@@ -7,7 +7,7 @@ dek: "She changes everything."
 number: R415
 sort_key: 415
 date: 2026-02-14
-date_read: 2010-04-04
+date_read: 2022-04-04
 category: mystery-crime
 cover: /assets/readings/the-younger-wife.jpg
 content_warnings:
@@ -45,5 +45,3 @@ This novel sparks a multitude of polarizing topics, especially regarding the por
 - Do you think the multi-POV structure enhances or detracts from the narrative?
 - What were your thoughts on the resolution—was it satisfying or simply sensational?
 - How does *The Younger Wife* compare to other domestic thrillers you've read; does it stand out or blend in?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

@@ -7,7 +7,7 @@ dek: "A Crescent City Novel"
 number: R1133
 sort_key: 1133
 date: 2026-05-04
-date_read: 2020-11-25
+date_read: 2024-11-25
 category: fantasy-romance
 cover: /assets/readings/house-of-flame-and-shadow.jpg
 spice: 4
@@ -49,5 +49,3 @@ Maas's blend of romantic and dark elements invites a spectrum of opinions, parti
 - In what ways does the ending align with or subvert the reader's expectations of a fantasy-romance conclusion?  
 - How does the portrayal of grief enhance or detract from the romantic plot?  
 - What does this novel suggest about the nature of love as both a force for creation and destruction?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #crescentcity

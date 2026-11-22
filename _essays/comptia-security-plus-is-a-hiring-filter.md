@@ -21,7 +21,7 @@ brief:
 
 ## Context
 
-I write this from Auckland in 2026, on Fedora, with mystic-bytes as a Jekyll site on GitHub Pages. I do not hold this badge as a claim in this essay. I read the public objectives the way I read a job post: as an institution that decides who gets past the ATS.
+I write this from Louisiana in 2026, on Fedora, with mystic-bytes as a Jekyll site on GitHub Pages. I do not hold this badge as a claim in this essay. I read the public objectives the way I read a job post: as an institution that decides who gets past the ATS.
 
 The filter is not subtle. US contractor boards still treat Security+ as a baseline ticket. CompTIA publishes SY0-701 as a maximum of ninety mixed multiple-choice and performance-based items in ninety minutes, split across five weighted domains.[^1][^2] That is a map of what HR is allowed to ask. It is not a map of my disk.
 

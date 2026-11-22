@@ -19,7 +19,6 @@ tags:
   - classic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The nuances of Saint-Exupéry's approach to gothic elements and philosophical in
 - In what ways does the text challenge or reinforce your perceptions of desire and existential longing?  
 - How does Saint-Exupéry’s prose style enhance or detract from the emotional weight of the narrative?  
 - Can you identify moments where the gothic elements serve to uplift rather than confine the characters?  
-
-#TheOrchidRoom #gothic #horrorromance #philosophical #existential

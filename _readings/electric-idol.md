@@ -50,5 +50,3 @@ The thematic exploration of obsession and power imbalance is particularly well-e
 - Can the elements of dubcon be justified within the narrative framework, or do they overshadow the romantic elements?  
 - What role does the setting play in shaping the characters' motivations and desires?  
 - How does the ending influence your overall perception of the characters and their journey?
-
-#TheOrchidRoom #fantasyromance #darkromance #romantasy #ElectricIdol

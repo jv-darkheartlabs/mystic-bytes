@@ -44,5 +44,3 @@ The polarizing elements of *My Dark Vanessa* lie in its raw portrayal of love tw
 - Can a story centered on psychological trauma still be viewed as a love story? Why or why not?  
 - How effectively does the book address the nuances of consent, particularly in the context of power imbalances?  
 - What role does nostalgia play in Vanessa's recollection of her relationship with Mr. Strane?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

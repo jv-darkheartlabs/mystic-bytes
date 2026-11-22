@@ -46,5 +46,3 @@ This novel’s interplay of love and violence provokes a myriad of discussions a
 - Does the ending provide a satisfying conclusion to the themes presented, or does it fall short?
 - In what ways does the book challenge or reinforce your views on love and morality?
 - What role does the setting play in shaping the characters' desires and actions?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

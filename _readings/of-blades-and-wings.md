@@ -6,7 +6,7 @@ dek: ""
 number: R975
 sort_key: 975
 date: 2026-04-17
-date_read: 2018-06-10
+date_read: 2025-06-10
 category: fantasy-romance
 cover: /assets/readings/of-blades-and-wings.jpg
 spice: 4
@@ -46,5 +46,3 @@ Raine's work ignites debates on the nature of power dynamics within romantic rel
 - In what ways does the narrative explore the cost of loyalty and sacrifice?  
 - How effective is Raine's use of alternating perspectives in deepening emotional resonance?  
 - Do you believe the romantic elements overshadow the fantasy aspects, or do they complement each other?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

@@ -47,5 +47,3 @@ While *Trial of the Sun Queen* invites readers into a rich tapestry of fantasy a
 - What are your thoughts on the effectiveness of violence as a narrative device in romance?  
 - How does Tuli's portrayal of relationships challenge or reinforce traditional gender roles?  
 - In what ways does the ending invite speculation about future consequences of the protagonist’s choices?  
-
-#TheOrchidRoom #fantasyromance #darkromance #trials #sunqueen

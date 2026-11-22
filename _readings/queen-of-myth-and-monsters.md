@@ -46,5 +46,3 @@ This novel presents a captivating yet contentious exploration of love, power, an
 - Do you believe the ending was earned, or did it leave you wanting more?  
 - How does St. Clair's approach to romance differ from her genre peers, and what does that mean for reader expectations?  
 - What are the implications of depicting dark themes in romantic contexts, particularly for younger audiences?
-
-#TheOrchidRoom #fantasyromance #darkromance #gods #monsters

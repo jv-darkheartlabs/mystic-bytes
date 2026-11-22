@@ -6,7 +6,7 @@ dek: "a novel"
 number: R878
 sort_key: 878
 date: 2026-04-06
-date_read: 2017-08-16
+date_read: 2019-08-16
 category: enemies-to-lovers
 cover: /assets/readings/fix-her-up.jpg
 spice: 4
@@ -40,5 +40,3 @@ The thematic undercurrent of self-acceptance and the struggle for authenticity i
 - Does the predictable resolution detract from the overall impact of the story, or is it a necessary element of the genre?  
 - In what ways does the setting play an integral role in the character development and plot progression?  
 - Can the enemies-to-lovers trope still feel fresh and innovative in contemporary romance, or does it risk becoming stale?
-
-#TheOrchidRoom #enemiestolovers #darkromance #rom-com #literaryanalysis

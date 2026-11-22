@@ -6,7 +6,7 @@ dek: "The sequel to Fireborne"
 number: R1397
 sort_key: 1397
 date: 2026-06-01
-date_read: 2020-05-07
+date_read: 2021-05-07
 category: fantasy-romance
 cover: /assets/readings/flamefall.jpg
 spice: 2
@@ -49,5 +49,3 @@ Munda’s exploration of love and loyalty amidst chaos presents several polarizi
 - Are the characters’ actions justified given the political climate, or do they undermine their moral integrity?  
 - How does the dual perspective shape our understanding of loyalty and betrayal within the story?  
 - What gaps or biases do you perceive in the character development, particularly in relation to secondary characters?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

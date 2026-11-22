@@ -6,7 +6,7 @@ dek: "Throne Duet Book 2"
 number: R829
 sort_key: 829
 date: 2026-04-01
-date_read: 2016-04-04
+date_read: 2021-04-04
 category: dark-billionaire
 cover: /assets/readings/throne-of-vengeance.jpg
 spice: 5
@@ -46,5 +46,3 @@ The novel propels us into a discourse on the duality of love and hate, particula
 - What role does wealth play in shaping the characters' moral decisions?  
 - Do you find the portrayal of toxic relationships empowering or troubling?  
 - How does the dual perspective enhance or detract from the overall narrative experience?  
-
-#TheOrchidRoom #darkbillionaire #darkromance #throneduet #literaryanalysis

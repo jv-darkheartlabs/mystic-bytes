@@ -51,5 +51,3 @@ At the heart of *Promised in Blood* lies a tension that invites debate: the bala
 - Are the characters' flaws compelling enough to elicit sympathy, or do they remain too entrenched in their obsessions?  
 - How does the gothic aesthetic influence your reading of the narrative's darker elements?  
 - What unresolved themes or character arcs linger after the final page?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #gothic

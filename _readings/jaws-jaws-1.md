@@ -22,7 +22,6 @@ tags:
   - shark
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The polarities in *Jaws* can spark a heated debate around the nature of fear and
 - Is the ending satisfactory, or does it undermine the thematic depth?  
 - In what ways does *Jaws* reflect societal attitudes towards nature and violence?  
 - Can we consider the shark a tragic figure within the narrative framework?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #TheOrchidRoom #darkheartlabs

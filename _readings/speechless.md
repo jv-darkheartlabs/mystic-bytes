@@ -40,5 +40,3 @@ The pacing might falter at times, particularly in the middle sections where the 
 - Can a relationship founded on conflict ever be sustainable, or does it inherently carry the seeds of its own destruction?
 - How do the settings in the novel contribute to the emotional landscape of the characters?
 - What role does humor play in navigating dark themes of love and desire?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

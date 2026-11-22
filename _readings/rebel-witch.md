@@ -7,7 +7,7 @@ dek: ""
 number: R927
 sort_key: 927
 date: 2026-04-12
-date_read: 2018-03-01
+date_read: 2025-03-01
 category: fantasy-romance
 cover: /assets/readings/rebel-witch.jpg
 spice: 3
@@ -47,5 +47,3 @@ The central themes of power dynamics and emotional conflict provide a fertile gr
 - What role does the setting play in shaping the characters’ identities and choices?  
 - How does the dual perspective enhance or detract from the overall narrative?  
 - In what ways does *Rebel Witch* challenge or conform to traditional gender roles within fantasy romance?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #rebel

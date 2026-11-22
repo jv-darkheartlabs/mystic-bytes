@@ -43,4 +43,3 @@ Rowling’s craft shines in her exploration of character development and themati
 - Does the ending of the book feel earned, or does it leave too many loose ends unresolved?
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #harry #potter #darkheartlabs #schoolcanon #juvenile

@@ -7,7 +7,7 @@ dek: "Red Rising Saga Book Six"
 number: R709
 sort_key: 709
 date: 2026-03-19
-date_read: 2016-10-22
+date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/light-bringer.jpg
 spice: 4
@@ -47,5 +47,3 @@ Thematically, *Light Bringer* tackles the duality of light and darkness in human
 - What are your thoughts on the pacing — does it enhance or detract from the emotional impact?
 - Is the ending earned, or does it feel like a last-ditch effort to shock the audience?
 - How does the romantic element influence the overall narrative, and does it elevate or undermine the plot?
-
-#TheOrchidRoom #lightbringer #piercebrown #fantasyromance #literaryanalysis

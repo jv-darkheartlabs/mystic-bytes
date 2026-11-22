@@ -49,5 +49,3 @@ The tension between raw, gritty realism and the romantic idealism prevalent in *
 - Can the exploration of dark themes coexist with an uplifting narrative arc, or does it create cognitive dissonance?  
 - What role does the motorcycle club setting play in shaping the characters' identities and their choices?  
 - How does the author balance the tension of desire with the harsh realities of the characters' lives?
-
-#TheOrchidRoom #StonePrincess #DevneyPerry #mcromance #darkromance

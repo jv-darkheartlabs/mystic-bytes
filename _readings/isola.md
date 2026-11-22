@@ -6,7 +6,7 @@ dek: "A Novel"
 number: R440
 sort_key: 440
 date: 2026-02-17
-date_read: 2005-11-25
+date_read: 2025-11-25
 category: literary-fiction
 cover: /assets/readings/isola.jpg
 content_warnings:

@@ -49,5 +49,3 @@ The novel’s engagement with dark themes and obsessive love creates a fertile g
 - Are there moments where the pacing detracts from the character development, and how might that affect reader investment?  
 - How does the gothic atmosphere contribute to or detract from the overall themes of the novel?  
 - What unresolved questions linger about the world-building, and how could they influence future installments in the series?  
-
-#TheOrchidRoom #ForgedInBlood #vampire #darkromance #literaryanalysis

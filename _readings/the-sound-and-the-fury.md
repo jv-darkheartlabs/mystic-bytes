@@ -22,7 +22,6 @@ tags:
   - family saga
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ Faulkner's work inevitably polarizes readers, particularly regarding its challen
 - Do you find the ending to be ultimately tragic or a form of liberation for the characters?
 - How does the Southern Gothic backdrop enhance or detract from the story’s emotional weight?
 - What does this novel say about the nature of family and its inherent dysfunction?
-
-#TheOrchidRoom #gothic #SouthernGothic #literaryanalysis #theorchidroom

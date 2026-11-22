@@ -50,5 +50,3 @@ Ellis’s work is sure to ignite passionate debates, particularly around the eth
 - What are the implications of creating a world where such extreme relationships are normalized?  
 - How do the gothic elements enhance or detract from the central themes of desire and obsession?  
 - Can a story that navigates such dark themes still provide a sense of hope or redemption in the characters’ arcs?  
-
-#TheOrchidRoom #captive #darkromance #omegaverse #gothic

@@ -7,7 +7,7 @@ dek: "Monster Trilogy Book Two"
 number: R064
 sort_key: 064
 date: 2026-01-08
-date_read: 2019-04-04
+date_read: 2023-04-04
 category: captor-and-captive
 cover: /assets/readings/lies-of-my-monster.jpg
 spice: 5
@@ -52,5 +52,3 @@ The polarities in *Lies of My Monster* will undoubtedly ignite spirited discussi
 - Is the ending an authentic resolution or a mere shock tactic?  
 - In what ways does the exploration of obsession resonate beyond the confines of the plot?  
 - Can we separate the characters' actions from their motivations when judging their morality?
-
-#TheOrchidRoom #darkromance #captive #LiesOfMyMonster #literaryanalysis

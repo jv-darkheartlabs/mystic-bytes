@@ -6,7 +6,7 @@ dek: "The sequel to Flamefall"
 number: R570
 sort_key: 570
 date: 2026-03-03
-date_read: 2021-06-10
+date_read: 2022-06-10
 category: fantasy-romance
 cover: /assets/readings/furysong.jpg
 spice: 2
@@ -52,5 +52,3 @@ Munda's *Furysong* invites readers to wrestle with the moral complexities of lov
 - Does the dual perspective enhance or detract from the overall narrative impact?  
 - How effectively does the book address the consequences of political intrigue on personal relationships?  
 - What is the significance of dragons as symbols of power and freedom in the story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #epicfantasy #Furysong

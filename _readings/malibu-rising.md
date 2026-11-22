@@ -6,7 +6,7 @@ dek: ""
 number: R756
 sort_key: 756
 date: 2026-03-24
-date_read: 2015-03-01
+date_read: 2021-03-01
 category: forbidden-love
 cover: /assets/readings/malibu-rising.jpg
 spice: 3
@@ -44,5 +44,3 @@ Reid's handling of heavy themes juxtaposed with light-hearted moments creates a 
 - Do you feel the ending provided a satisfying resolution for the characters, or did it leave lingering questions?  
 - How does Reid’s portrayal of forbidden love challenge or reinforce your own views on family dynamics?  
 - What role does setting play in shaping the characters' identities and conflicts?
-
-#TheOrchidRoom #forbiddenlove #darkromance #family saga #literaryanalysis

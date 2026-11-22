@@ -7,7 +7,7 @@ dek: "Monster Trilogy Book One"
 number: R063
 sort_key: 063
 date: 2026-01-08
-date_read: 2018-03-01
+date_read: 2021-03-01
 category: captor-and-captive
 cover: /assets/readings/blood-of-my-monster.jpg
 spice: 5
@@ -50,5 +50,3 @@ The novel's provocative themes and character dynamics spark myriad discussions, 
 - Are the protagonists’ motivations relatable, or do they risk romanticizing toxic behavior?
 - How does the dual narrative structure affect your understanding of the characters' motivations?
 - What lingering questions do you have about the characters’ futures beyond the pages of the book?
-
-#TheOrchidRoom #darkromance #captorandcaptive #BloodOfMyMonster #RinaKent

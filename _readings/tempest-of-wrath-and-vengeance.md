@@ -48,5 +48,3 @@ The prose is rich with sensory detail, effectively crafting a gothic atmosphere 
 - Are the themes of revenge and redemption ultimately resolved, or do they leave the reader in moral ambiguity?  
 - In what ways does this novel challenge or conform to traditional vampire tropes?  
 - Can the emotional intensity of the book be seen as a strength or a weakness?
-
-#TheOrchidRoom #vampire #darkromance #gothic #legacyseries

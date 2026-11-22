@@ -48,5 +48,3 @@ The ending, steeped in tension and unresolved conflict, feels earned, compelling
 - In what ways do the character arcs challenge or reinforce traditional gender roles within the genre?  
 - How does the pacing of the narrative affect your engagement with the central themes?  
 - What is the impact of the unresolved tensions at the story’s conclusion on your overall interpretation of the characters’ journeys?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #Outlander

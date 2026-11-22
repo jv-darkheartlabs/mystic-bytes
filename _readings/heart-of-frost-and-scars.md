@@ -7,7 +7,7 @@ dek: "a dark romance"
 number: R080
 sort_key: 080
 date: 2026-01-10
-date_read: 2023-11-25
+date_read: 2024-11-25
 category: captor-and-captive
 cover: /assets/readings/heart-of-frost-and-scars.jpg
 spice: 4
@@ -50,5 +50,3 @@ This book invites a dichotomy of opinions, particularly around the ethics of des
 - Is the ending a true resolution, or does it leave us questioning the implications of its moral ambiguity?  
 - How does the emotional intensity impact your reading experience — does it enhance or detract from the story?  
 - In what ways does Godwin push the boundaries of dark romance, and are these pushes effective or problematic?  
-
-#TheOrchidRoom #DarkRomance #HeartOfFrostAndScars #LiteraryAnalysis #Captive

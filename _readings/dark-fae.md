@@ -21,7 +21,6 @@ tags:
   - ruthless boys
   - zodiac
   - reverse harem
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -48,5 +47,3 @@ The interplay of power and desire in "Dark Fae" raises significant questions abo
 - How does the portrayal of the harem challenge or reinforce traditional gender dynamics?  
 - In what ways do you think the authors balance genre expectations with character authenticity?  
 - What unresolved tensions or biases linger in the narrative for you?  
-
-#TheOrchidRoom #reverseharem #darkromance #ruthlessboys #zodiac

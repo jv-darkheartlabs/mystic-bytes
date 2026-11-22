@@ -49,5 +49,3 @@ The exploration of power dynamics and wealth in romantic relationships can ignit
 - Can we separate the allure of wealth from the ethical implications of the characters' relationships?  
 - Do you find the ending satisfying, or does it leave too many unresolved issues regarding character arcs?  
 - How effective is Nicole's use of setting in enhancing the themes of the novel?  
-
-#TheOrchidRoom #darkbillionaire #darkromance #billionaire #literaryanalysis

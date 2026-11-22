@@ -48,5 +48,3 @@ This novel leaves readers grappling with the dualities of love and vengeance, pr
 - In what ways does the dual POV enhance or detract from the reader’s connection to the characters?  
 - Can the resolution in *Burn* be considered a true victory for the protagonists, or is it a mere facade of happiness?  
 - How do the content warnings shape your expectations and interpretation of the narrative?
-
-#TheOrchidRoom #enemiestolovers #darkromance #revenge #literaryanalysis

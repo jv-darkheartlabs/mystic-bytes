@@ -52,5 +52,3 @@ The polarizing elements of this novel lie within its ethical considerations and 
   - How do we reconcile the romanticized depiction of obsession with the reality of stalking?  
   - What role does the setting play in amplifying the themes of control and captivity?  
   - Can a story that delves into such dark themes still provide a fulfilling romantic arc, or does it inherently undermine the notion of healthy relationships?  
-
-#TheOrchidRoom #darkromance #stalker #obsession #literaryanalysis

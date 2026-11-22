@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R1362
 sort_key: 1362
 date: 2026-05-28
-date_read: 2021-06-10
+date_read: 2023-06-10
 category: enemies-to-lovers
 cover: /assets/readings/love-theoretically.jpg
 spice: 3
@@ -44,5 +44,3 @@ Hazelwood's blend of academia and romance may polarize readers who appreciate tr
 - Does the ending feel earned given the characters' complexities, or does it lean too heavily on genre conventions?  
 - How does the theme of academic gatekeeping play into the larger narrative of love and success?  
 - Is the portrayal of STEM environments authentically rendered, or does it feel like a romantic fantasy?
-
-#TheOrchidRoom #enemiestolovers #darkromance #STEMromance #literaryanalysis

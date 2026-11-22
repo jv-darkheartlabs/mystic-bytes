@@ -51,5 +51,3 @@ This novel is bound to polarize readers, as its exploration of dark themes and p
 - In what ways does Ellis’s portrayal of power dynamics challenge or reinforce societal norms?  
 - Can the elements of captivity and forced proximity in the story be redeemed through character development and agency?  
 - How does the omegaverse framework affect the reader's interpretation of consent in this narrative?  
-
-#TheOrchidRoom #ReignToRavage #DarkRomance #Captive #Omegaverse

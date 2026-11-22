@@ -22,7 +22,6 @@ tags:
   - survival
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,4 +47,3 @@ Thematically, the book probes deeply into mental health issues, showcasing how t
   - Can the horror of *Cell* be considered a reflection of modern anxieties about technology?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #apocalyptic #zombies #theorchidroom

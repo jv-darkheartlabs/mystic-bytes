@@ -41,5 +41,3 @@ Moore’s exploration of ambition versus intimacy raises compelling questions ar
   - Are the character arcs satisfying in their resolutions, or do they fall prey to genre expectations?  
   - How does the dual POV impact our empathy for each character?  
   - What role do supporting characters play in enriching or limiting the main narrative?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #baseball #literaryanalysis

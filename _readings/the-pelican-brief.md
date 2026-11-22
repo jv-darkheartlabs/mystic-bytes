@@ -21,7 +21,6 @@ tags:
   - political intrigue
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -52,4 +51,3 @@ The following polarities could spark heated debate among readers:
 - How does the character of Darby Shaw challenge or conform to traditional tropes of female protagonists in thrillers?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #politicalintrigue #theorchidroom

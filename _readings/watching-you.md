@@ -45,5 +45,3 @@ However, while the structural choices serve the thematic exploration, certain ch
 - Does the use of multiple perspectives enhance or dilute the emotional impact of the story?  
 - How does Jewell's portrayal of obsession reflect broader societal anxieties about connection and isolation?  
 - What aspects of the ending felt satisfying or unsatisfying to you, and why?
-
-#TheOrchidRoom #darkromance #thriller #domesticsuspense #literaryanalysis

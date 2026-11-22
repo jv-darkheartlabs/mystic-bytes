@@ -51,5 +51,3 @@ The thematic exploration of power imbalance is particularly compelling, raising 
 - Does the portrayal of the villain archetype offer a fresh perspective on traditional narratives, or does it reinforce problematic tropes?  
 - How does the dual POV impact your understanding of love and rivalry in the story?  
 - Are there moments in the book that you found particularly jarring or enlightening regarding the themes of consent and agency?
-
-#TheOrchidRoom #enemiestolovers #darkromance #wickedvillains #literaryanalysis

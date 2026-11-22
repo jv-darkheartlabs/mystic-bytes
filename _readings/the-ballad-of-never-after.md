@@ -7,7 +7,7 @@ dek: ""
 number: R1166
 sort_key: 1166
 date: 2026-05-07
-date_read: 2017-08-16
+date_read: 2022-08-16
 category: fantasy-romance
 cover: /assets/readings/the-ballad-of-never-after.jpg
 spice: 1
@@ -48,5 +48,3 @@ Garber's **The Ballad of Never After** sparks intriguing polarities regarding th
 - In what ways does Garber's prose enhance or hinder the emotional depth of the characters?  
 - Is the abruptness of the ending a testament to the complexity of desire, or does it fall flat?  
 - How does the novel's approach to fantasy shape your expectations of the romance genre?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #onceuponabrokenheart

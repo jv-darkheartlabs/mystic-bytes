@@ -7,7 +7,7 @@ dek: "Kings of Sin — Book 3"
 number: R098
 sort_key: 098
 date: 2026-01-11
-date_read: 2017-11-25
+date_read: 2023-11-25
 category: dark-billionaire
 cover: /assets/readings/king-of-greed.jpg
 spice: 4
@@ -50,5 +50,3 @@ The ending, while satisfying, leaves some threads unresolved, prompting reflecti
 - In what ways does the narrative critique the allure of wealth, and is it effective?  
 - How do the dual perspectives enhance or detract from the overall experience of the story?  
 - Is the resolution earned, or does it leave too many questions unanswered?
-
-#TheOrchidRoom #darkbillionaire #darkromance #kings of sin #marriage in trouble

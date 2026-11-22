@@ -40,5 +40,3 @@ The intricate dance of love and loss in **The Light We Lost** invites readers to
   - In what ways do choices define our identities, and does the novel suggest that some choices are irrevocable?  
   - How effectively does Santopolo balance the elements of longing and grief without slipping into melodrama?  
   - Do you find Lucy's journey relatable, or does it feel too tied to the specific circumstances of her life?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #NYC #literaryanalysis

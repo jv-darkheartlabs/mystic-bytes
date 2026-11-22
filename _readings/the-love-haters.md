@@ -40,5 +40,3 @@ The novel's exploration of the enemies-to-lovers trope brings forth intriguing p
 - Are the protagonists relatable enough to evoke sympathy, or do they remain too caricatured?
 - In what ways does the setting contribute to the evolution of the characters' relationship?
 - How does the dual narrative perspective affect your engagement with the characters?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

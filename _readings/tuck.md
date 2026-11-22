@@ -46,5 +46,3 @@ The exploration of **Tuck** invites various polarities among readers, particular
 - In what ways does the emotional intensity serve the fantasy elements, and can it be too overwhelming?  
 - Are there moments where the pacing impacts your connection to the characters?  
 - How does the book's resolution shape your understanding of love and sacrifice in the context of legend?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #Tuck

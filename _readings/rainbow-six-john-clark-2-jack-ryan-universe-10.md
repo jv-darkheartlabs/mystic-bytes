@@ -19,7 +19,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ Clancy's *Rainbow Six* stirs polarizing debates about militarization in literatu
 - What gaps in character development felt most significant to you as a reader?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #espionage #military #JackRyan #TheOrchidRoom

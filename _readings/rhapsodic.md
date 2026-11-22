@@ -47,5 +47,3 @@ Thalassa’s prose is both lyrical and visceral, successfully evoking a haunting
 - In what ways does the structure enhance or hinder character development?  
 - Is the ending an authentic resolution or a concession to genre expectations?  
 - How does Thalassa's portrayal of fae culture reflect or subvert traditional fantasy tropes?  
-
-#TheOrchidRoom #fantasyromance #darkromance #Rhapsodic #LauraThalassa

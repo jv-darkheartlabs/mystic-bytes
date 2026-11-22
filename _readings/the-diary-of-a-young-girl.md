@@ -23,7 +23,6 @@ tags:
   - World War II
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,4 +49,3 @@ The juxtaposition of innocence and horror is central to debates about this book,
 - What role does the theme of isolation play in shaping your perception of the characters?
 
 #LiteraryAnalysis #GothicEdge
-#darkthriller #historical #memoir #theorchidroom

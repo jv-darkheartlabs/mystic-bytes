@@ -7,7 +7,7 @@ dek: "Edge of Collapse Series — Book Five"
 number: R362
 sort_key: 362
 date: 2026-02-08
-date_read: 2007-05-07
+date_read: 2020-05-07
 category: sff
 cover: /assets/readings/edge-of-defiance.jpg
 content_warnings:

@@ -7,7 +7,7 @@ dek: "The global bestseller and TikTok sensation"
 number: R612
 sort_key: 612
 date: 2026-03-08
-date_read: 2015-03-01
+date_read: 2025-03-01
 category: fantasy-romance
 cover: /assets/readings/deep-end.jpg
 spice: 4
@@ -47,5 +47,3 @@ The novel culminates in a conclusion that feels both inevitable and surprising, 
 - Does the ending provide a satisfying resolution, or does it leave too many threads unresolved?  
 - How does the depiction of desire in this novel compare to more traditional romance narratives?  
 - What role does the sports backdrop play in developing the characters' arcs and overall themes?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

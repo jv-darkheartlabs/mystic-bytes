@@ -43,5 +43,3 @@ The interplay of fantasy and romance in *Meet Me at the Anvil* invites a spectru
 - In what ways does the fantasy element enhance or detract from the romantic tension?  
 - How do societal norms within the story reflect contemporary issues of personal freedom?  
 - What lingering questions do you have about the characters' futures beyond the final page?
-
-#TheOrchidRoom #fantasyromance #darkromance #historical #regency

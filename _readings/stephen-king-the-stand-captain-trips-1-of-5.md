@@ -22,7 +22,6 @@ tags:
   - graphic novel
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The adaptation raises intriguing questions about the balance between loyalty to 
 - Are there moments in the adaptation that feel particularly resonant or hollow?  
 - How do the themes of survival and community in *Captain Trips* compare to current societal issues?  
 - Is the adaptation successful in bridging the gap between graphic novels and traditional literature?
-
-#LiteraryAnalysis #darkthriller #graphicnovel #StephenKing #TheOrchidRoom

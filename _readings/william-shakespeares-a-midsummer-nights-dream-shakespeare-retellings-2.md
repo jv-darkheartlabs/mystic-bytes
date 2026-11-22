@@ -19,7 +19,6 @@ tags:
   - romance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Coville’s blend of whimsy and darkness invites both admiration and critique, e
 - Is the darker interpretation of the characters' motivations more relatable or off-putting?  
 - What does this retelling suggest about the nature of choice versus manipulation in love?  
 - How do the structural choices impact your overall engagement with the text?  
-
-#TheOrchidRoom #gothic #horrorromance #retelling #Shakespeare

@@ -35,6 +35,10 @@ layout: default
       {% if page.dek %}
       <p class="essay-dek">{{ page.dek }}</p>
       {% endif %}
+      {% if page.thread == 'letters' %}
+      <p class="essay-letters"><span class="essay-badge essay-badge--letters">Letters to a Future Home</span></p>
+      <p class="essay-headnote"><em>Written before the fact — Louisiana, toward Auckland.</em></p>
+      {% endif %}
     </header>
 
     {% unless page.locked %}

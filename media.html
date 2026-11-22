@@ -1,9 +1,55 @@
 ---
 layout: default
-title: Personal media
-description: "Creative writing, reviews, poetry, podcast, music, video and design collections from Dark Heart Labs."
+title: Media
+description: "Music, podcast, video, and gallery from Dark Heart Labs — Jen the Dev, Transmissions, and the visual work."
 permalink: /media/
 ---
-<div class="container career-page"><header class="signal-header"><p class="page-eyebrow">Personal media</p><h1 class="page-title">Personal media</h1></header><ul class="career-work-list">
-<li><a href="{{ '/media/written/reviews/' | relative_url }}">Book reviews</a></li><li><a href="{{ '/media/written/literary/projection-room/' | relative_url }}">Film reviews</a></li><li><a href="{{ '/media/written/literary/verse/' | relative_url }}">Poetry</a></li><li><a href="{{ '/media/written/literary/analysis/' | relative_url }}">Literary analysis</a></li><li><a href="{{ '/media/written/journal/wellness/' | relative_url }}">Wellness journal</a></li><li><a href="{{ '/media/podcast/' | relative_url }}">Podcast</a></li><li><a href="{{ '/media/album/' | relative_url }}">Music</a></li><li><a href="{{ '/media/video/' | relative_url }}">Video</a></li><li><a href="{{ '/media/gallery/' | relative_url }}">Gallery</a></li><li><a href="https://jv-darkheartlabs.github.io/dark-heart-themes/">Dark Heart Themes — interactive theme gallery</a></li>
-</ul></div>
+{% assign spotify = site.data.site.spotify %}
+{% assign social = site.data.site.social %}
+{% assign youtube = site.data.youtube %}
+{% assign lab = youtube.inside_the_lab %}
+<div class="container media-page-new">
+  <header class="signal-header">
+    <p class="page-eyebrow">Media</p>
+    <h1 class="page-title">Media</h1>
+    <p class="career-intro">What Dark Heart Labs sounds and looks like — music, podcast, video, gallery. For the writing, there’s the <a href="{{ '/journal/' | relative_url }}">Journal</a>.</p>
+  </header>
+
+  <section class="media-block" aria-labelledby="media-music">
+    <h2 id="media-music">Music</h2>
+    <p>Dark electronic instrumentals, released as <strong>Jen the Dev</strong>. The album is <em>The Signal</em> (2026) — fourteen tracks of it.</p>
+    <div class="media-embed panel">
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/{{ spotify.album_id }}?utm_source=generator&theme=0" width="100%" height="480" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" title="The Signal by Jen the Dev on Spotify"></iframe>
+    </div>
+    <p><a href="https://open.spotify.com/artist/{{ spotify.artist_id }}" target="_blank" rel="noreferrer">Jen the Dev on Spotify ↗</a> · <a href="{{ '/media/album/' | relative_url }}">Album page and tracklist →</a></p>
+  </section>
+
+  <section class="media-block" aria-labelledby="media-podcast">
+    <h2 id="media-podcast">Podcast</h2>
+    <p>The podcast is <strong>Transmissions</strong> — Dark Heart Labs on technology and the work, in audio.</p>
+    <div class="media-embed panel">
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/{{ spotify.show_id }}?utm_source=generator&theme=0" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" title="Transmissions by Dark Heart Labs on Spotify"></iframe>
+    </div>
+    <p><a href="{{ social.spotify }}" target="_blank" rel="noreferrer">Transmissions on Spotify ↗</a></p>
+  </section>
+
+  <section class="media-block" aria-labelledby="media-video">
+    <h2 id="media-video">Video</h2>
+    <p><strong>Envoy Retry Protection: Focus Guard in Rust</strong> — a Rust-based Envoy dynamic module that enforces retry safety rules in live traffic, shown working rather than described. From <a href="{{ youtube.channel_url }}" target="_blank" rel="me noreferrer">@darkheartlabs on YouTube ↗</a>.</p>
+    <div class="media-embed panel">
+      {% include youtube-embed.html video="QPjwALe9WaU" title="Envoy Retry Protection: Focus Guard in Rust" %}
+    </div>
+    <p><a href="https://www.youtube.com/watch?v=QPjwALe9WaU" target="_blank" rel="noreferrer">Watch on YouTube ↗</a> · <a href="https://www.youtube.com/playlist?list={{ lab.id }}" target="_blank" rel="noreferrer">Inside the Lab playlist ↗</a> · <a href="{{ social.twitch }}" target="_blank" rel="me noreferrer">darkheartlabs on Twitch ↗</a></p>
+  </section>
+
+  <section class="media-block" aria-labelledby="media-gallery">
+    <h2 id="media-gallery">Gallery</h2>
+    <p>Design work and photography — the visual side of the lab, gathered in one place.</p>
+    <p><a href="{{ '/media/gallery/' | relative_url }}">Open the gallery →</a></p>
+  </section>
+
+  <aside class="media-crosslink panel">
+    <p class="media-crosslink__label">Written work</p>
+    <p>Essays, reviews, poetry, and the films live in the <a href="{{ '/journal/' | relative_url }}">Journal →</a></p>
+  </aside>
+</div>

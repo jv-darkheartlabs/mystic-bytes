@@ -6,7 +6,7 @@ dek: "Dark Olympus"
 number: R1456
 sort_key: 1456
 date: 2026-06-08
-date_read: 2019-10-22
+date_read: 2023-10-22
 category: fantasy-romance
 cover: /assets/readings/cruel-seduction.jpg
 spice: 5
@@ -52,5 +52,3 @@ Robert's exploration of desire raises polarizing questions around consent and po
 - Is the ending of the book satisfying, or does it leave too much unresolved?  
 - How does this retelling of mythology influence our understanding of the original tales, particularly around themes of desire and manipulation?  
 - Can we separate the romantic elements from their darker implications, and should we?
-
-#TheOrchidRoom #fantasyromance #darkromance #darkolympus #literaryanalysis

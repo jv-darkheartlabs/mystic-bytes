@@ -7,7 +7,7 @@ dek: "Souls Trilogy — Book Three"
 number: R307
 sort_key: 307
 date: 2026-02-02
-date_read: 2022-04-04
+date_read: 2024-04-04
 category: vampire-paranormal
 cover: /assets/readings/soul-of-a-witch.jpg
 spice: 5
@@ -50,5 +50,3 @@ The interplay of love and power within *Soul of a Witch* raises potent questions
 - In what ways do the themes of possession and emotional intensity resonate with our own perceptions of love?  
 - How does Laroux’s portrayal of witchcraft compare to traditional representations in literature?  
 - Can we separate the allure of power from its destructive consequences in the context of the characters’ choices?
-
-#TheOrchidRoom #vampire #darkromance #gothic #soulstrilogy

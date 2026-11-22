@@ -48,5 +48,3 @@ While Hoover successfully navigates the delicate subject of domestic abuse, her 
 - In what ways does the ending empower or undermine Lily’s journey?  
 - Should authors be held accountable for the emotional ramifications of their portrayals of abusive relationships?  
 - How does this book compare to other contemporary romances grappling with serious themes?
-
-#TheOrchidRoom #forbiddenlove #darkromance #domesticabuse #literaryanalysis

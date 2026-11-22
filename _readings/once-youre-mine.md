@@ -6,7 +6,7 @@ dek: "Possessing Her — Book 1"
 number: R255
 sort_key: 255
 date: 2026-01-28
-date_read: 2018-06-10
+date_read: 2023-06-10
 category: stalker-obsession
 cover: /assets/readings/once-youre-mine.jpg
 spice: 4
@@ -53,5 +53,3 @@ The tension between devotion and destruction is palpable in this narrative, rais
 - Can we separate the allure of the characters from their morally ambiguous actions, or do they become indistinguishable?  
 - How does the imagery of moths and skulls function within the narrative — what do they symbolize for you?  
 - Does the ending provide closure, or does it invite further contemplation on the nature of obsession?  
-
-#TheOrchidRoom #OnceYoureMine #DarkRomance #Obsession #LiteraryAnalysis

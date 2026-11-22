@@ -19,7 +19,6 @@ tags:
   - counterculture
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ Thompson's memoir invites a myriad of polarizing discussions, particularly aroun
 - Does the memoir's lack of resolution reflect a broader commentary on the human condition?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #SouthernGothic #memoir #TheOrchidRoom

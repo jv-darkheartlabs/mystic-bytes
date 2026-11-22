@@ -42,5 +42,3 @@ The novel creates a fertile ground for debate on the intersections of identity, 
 - Are the secondary characters sufficiently fleshed out to support the protagonist's journey, or do they feel underdeveloped?  
 - How does Corona balance elements of fantasy with the historical realities of persecution, and does this blend serve the narrative well?  
 - What does the ending suggest about the nature of love in the face of hardship?
-
-#TheOrchidRoom #fantasyromance #darkromance #historical #literaryanalysis

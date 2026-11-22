@@ -6,7 +6,7 @@ dek: ""
 number: R1081
 sort_key: 1081
 date: 2026-04-28
-date_read: 2016-04-04
+date_read: 2023-04-04
 category: vampire-paranormal
 cover: /assets/readings/romance-rules-for-werewolves.jpg
 spice: 3
@@ -46,5 +46,3 @@ The juxtaposition of romance and horror in *Romance Rules for Werewolves* presen
 - In what ways does the exploration of rules around love resonate with contemporary societal norms?
 - How do the content warnings shape our expectations of the narrative, and do they enhance or detract from the reading experience?
 - What unresolved questions linger after the ending, and how do they affect our interpretation of the characters' journeys?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

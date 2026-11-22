@@ -7,7 +7,7 @@ dek: ""
 number: R997
 sort_key: 997
 date: 2026-04-19
-date_read: 2016-10-22
+date_read: 2023-10-22
 category: fantasy-romance
 cover: /assets/readings/a-soul-to-guide.jpg
 spice: 4
@@ -45,5 +45,3 @@ The interplay of duty and desire creates a fertile ground for debate, with the r
 - Do the darker elements of the story serve to deepen the romantic arc, or do they detract from it?  
 - How does the pacing influence your emotional engagement with the characters?  
 - What unresolved questions linger for you about the characters’ choices and their implications?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #soul

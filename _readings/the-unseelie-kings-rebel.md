@@ -44,5 +44,3 @@ This novel invites a multitude of perspectives on themes of power, autonomy, and
 - In what ways does the emotional intensity serve the narrative, and where does it falter?  
 - Can the book's lingering plot threads be viewed as a deliberate choice to reflect the chaos of rebellion?  
 - How does the blend of romance and fantasy influence your connection to the characters?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

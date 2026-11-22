@@ -49,5 +49,3 @@ The interplay of survival and romance creates a fertile ground for debate, parti
   - How does the setting of an ice planet amplify or undermine the emotional stakes of the characters' relationships?  
   - What are the implications of using survival as a backdrop for romantic development?  
   - Can we reconcile enjoyment of dark romance tropes with the ethical considerations they provoke?
-
-#TheOrchidRoom #fantasyromance #darkromance #alienromance #romantasy

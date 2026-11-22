@@ -47,5 +47,3 @@ The interplay of power, love, and betrayal in *The Cruel Prince* raises intrigui
 - In what ways does the book challenge traditional notions of love and power in fantasy narratives?  
 - Are the violent elements necessary for the story, or do they overshadow the romantic arc?  
 - How do you interpret the ending, and what does it suggest about Jude's journey?
-
-#TheOrchidRoom #fantasyromance #darkromance #folkoftheair #literaryanalysis

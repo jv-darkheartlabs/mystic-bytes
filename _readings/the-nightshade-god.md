@@ -45,5 +45,3 @@ The interplay between desire and darkness will undoubtedly spark debate; does th
   - What role does consent play in a story that teeters on the edge of power dynamics?  
   - Can we separate the protagonist's desires from her vulnerabilities, and should we?  
   - How effectively does Whitten balance gothic aesthetics with emotional depth?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #TheNightshadeGod

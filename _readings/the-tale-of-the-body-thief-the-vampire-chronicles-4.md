@@ -24,7 +24,6 @@ tags:
   - identity
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -51,5 +50,3 @@ The duality of desire and autonomy resonates throughout the text, presenting pol
 - Do you find the shift in tone from previous installments effective or jarring?  
 - How does Rice's lush prose impact your engagement with the darker themes of the novel?  
 - What does this novel suggest about the nature of desire—can it lead to our downfall?
-
-#TheOrchidRoom #vampire #darkromance #identity #bodytheft

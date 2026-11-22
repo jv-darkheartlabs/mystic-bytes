@@ -45,5 +45,3 @@ The interplay between duty and desire in *The Duke Wins a Bride* invites rich de
 - What role does the setting play in shaping the characters’ motivations and desires?  
 - How do you interpret the ending — is it a true victory for love or a concession to duty?  
 - What tropes from the genre do you find most engaging or constricting in this narrative?  
-
-#TheOrchidRoom #fantasyromance #darkromance #regency #duke

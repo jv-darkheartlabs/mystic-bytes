@@ -6,7 +6,7 @@ dek: "They've loved each other in a thousand lifetimes. They've killed each othe
 number: R445
 sort_key: 445
 date: 2026-02-18
-date_read: 2016-07-13
+date_read: 2025-07-13
 category: enemies-to-lovers
 cover: /assets/readings/our-infinite-fates.jpg
 spice: 3
@@ -48,5 +48,3 @@ The interplay of love and violence presents a rich ground for debate. Readers ma
   - What are your thoughts on the cyclical nature of reincarnation in romantic narratives? Does it enhance or detract from the emotional stakes?  
   - How do the characters’ identities shape their choices across lifetimes, and do they evolve or repeat?  
   - What unresolved questions linger after the conclusion, and how might they influence your interpretation of the story?
-
-#TheOrchidRoom #enemiestolovers #darkromance #reincarnation #literaryanalysis

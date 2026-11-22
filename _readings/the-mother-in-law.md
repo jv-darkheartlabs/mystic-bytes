@@ -7,7 +7,7 @@ dek: "Everyone in this family is hiding something"
 number: R399
 sort_key: 399
 date: 2026-02-12
-date_read: 2014-06-10
+date_read: 2019-06-10
 category: mystery-crime
 cover: /assets/readings/the-mother-in-law.jpg
 content_warnings:
@@ -41,5 +41,3 @@ Hepworth’s exploration of motherhood and the hidden darkness within familial b
 - In what ways does the novel's conclusion impact your overall perception of the characters?  
 - Can the themes of loyalty and betrayal resonate beyond the family unit, or are they too insular?  
 - What role does societal expectation play in shaping the characters' actions, and how does it reflect contemporary familial struggles?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

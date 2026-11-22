@@ -7,7 +7,7 @@ dek: "A novel"
 number: R451
 sort_key: 451
 date: 2026-02-18
-date_read: 2022-04-04
+date_read: 2023-04-04
 category: enemies-to-lovers
 cover: /assets/readings/practice-makes-perfect.jpg
 spice: 2
@@ -45,5 +45,3 @@ The interplay of rivalry and romance in *Practice Makes Perfect* invites lively 
 - How did the dual perspective enhance or detract from your connection to the characters?
 - In what ways did you find the tension between ambition and intimacy relatable or exaggerated?
 - What did you think about the resolution — was it satisfying in terms of character development?
-
-#TheOrchidRoom #enemiestolovers #darkromance #romcom #literaryanalysis

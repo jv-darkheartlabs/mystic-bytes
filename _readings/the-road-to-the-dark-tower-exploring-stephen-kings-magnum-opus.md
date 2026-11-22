@@ -19,7 +19,6 @@ tags:
   - Fantasy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ Vincent’s exploration of King’s magnum opus opens the floor to various polar
 - How does this analysis compare to other literary critiques of King’s work?
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #darkthriller #StephenKing #DarkTower

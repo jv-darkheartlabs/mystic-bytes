@@ -50,5 +50,3 @@ This novel invites a myriad of polarizing discussions, particularly around the e
 - What are the implications of portraying obsessive love in contemporary romance?  
 - Are there moments in the novel where you felt the tension was either heightened or undercut? If so, how?  
 - How does *Catching Bianca* compare to other works in the dark romance genre you’ve encountered?  
-
-#TheOrchidRoom #CatchingBianca #IADice #DarkRomance #LiteraryAnalysis

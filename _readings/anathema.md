@@ -7,7 +7,7 @@ dek: "Only the banished know what lies beyond the woods."
 number: R276
 sort_key: 276
 date: 2026-01-30
-date_read: 2015-09-19
+date_read: 2024-09-19
 category: vampire-paranormal
 cover: /assets/readings/anathema.jpg
 spice: 4
@@ -49,5 +49,3 @@ Lake’s character development is particularly notable; the protagonists are lay
 - In what ways does the setting of the forest reflect the inner turmoil of the characters?  
 - Can the darkness of the narrative be reconciled with the notion of love, or are they inherently at odds?  
 - How does **Anathema** compare to other works in the vampire genre regarding its treatment of desire and morality?
-
-#TheOrchidRoom #Anathema #KeriLake #darkromance #gothic

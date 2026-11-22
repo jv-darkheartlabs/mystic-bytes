@@ -6,7 +6,7 @@ dek: "A Captain Hook, Crocodile, & Wendy Darling Reimagining"
 number: R1121
 sort_key: 1121
 date: 2026-05-03
-date_read: 2020-08-16
+date_read: 2024-08-16
 category: fantasy-romance
 cover: /assets/readings/devourer-of-men.jpg
 spice: 4
@@ -47,5 +47,3 @@ Thematically, the book explores the consequences of obsession, with its characte
 - Do you find the ending satisfactory, or does it leave too much unresolved?
 - How does the multi-POV structure affect your empathy toward the characters?
 - Can we separate the romantic elements from the darker themes, or are they inextricably linked?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #devourerofmen

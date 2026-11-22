@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R733
 sort_key: 733
 date: 2026-03-21
-date_read: 2016-07-13
+date_read: 2023-07-13
 category: forbidden-love
 cover: /assets/readings/pineapple-street.jpg
 spice: 1
@@ -47,5 +47,3 @@ The interplay of privilege and desire in *Pineapple Street* invites rich discuss
 - Do you believe the ending is a reflection of true growth for the characters, or is it merely a superficial resolution?  
 - How do the elements of classism in the book resonate with contemporary societal issues?  
 - Which character's journey resonated most with you, and why?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #familydysfunction #literaryanalysis

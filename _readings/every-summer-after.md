@@ -6,7 +6,7 @@ dek: "New York Times Bestseller"
 number: R737
 sort_key: 737
 date: 2026-03-22
-date_read: 2020-11-25
+date_read: 2022-11-25
 category: forbidden-love
 cover: /assets/readings/every-summer-after.jpg
 spice: 3
@@ -44,5 +44,3 @@ The interplay of nostalgia and regret in *Every Summer After* invites varying in
 - Do you believe the ending was earned, or did it undermine the story's emotional weight?  
 - How does the portrayal of addiction shape your perception of the romantic elements within the narrative?  
 - What role does grief play in shaping the characters' decisions, and how does it resonate with your own experiences of love?
-
-#TheOrchidRoom #forbiddenlove #darkromance #secondchance #literaryanalysis

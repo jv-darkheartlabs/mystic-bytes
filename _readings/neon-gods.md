@@ -50,5 +50,3 @@ The interplay of power and desire in **Neon Gods** will likely ignite passionate
 - Can we separate the themes of obsession and desire, or are they inextricably linked in this context?  
 - What are the implications of the character transformations — do they signify growth or complicity?  
 - How effective is the dual POV in deepening the emotional stakes of the story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #hadespersephone #literaryanalysis

@@ -7,7 +7,7 @@ dek: ""
 number: R1178
 sort_key: 1178
 date: 2026-05-08
-date_read: 2017-11-25
+date_read: 2021-11-25
 category: fantasy-romance
 cover: /assets/readings/these-hollow-vows.jpg
 spice: 3
@@ -48,5 +48,3 @@ The novel presents several polarities that could ignite passionate discussions a
 - Are the thematic messages about betrayal and loyalty nuanced, or do they fall prey to genre conventions?  
 - How does the dual perspective affect your connection to the characters?  
 - What elements of world-building could have been further explored to enhance the depth of the story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #fae #courtintrigue

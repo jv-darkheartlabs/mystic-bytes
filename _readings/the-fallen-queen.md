@@ -50,5 +50,3 @@ Marie’s work teeters on the edge of romantic idealism and the grotesque, promp
 - In what ways does the novel reflect or diverge from traditional gothic motifs?  
 - How do the content warnings shape your reading experience, and do they align with your expectations of the genre?  
 - What unresolved questions linger for you after the conclusion, and how do they affect your interpretation of the protagonist's journey?  
-
-#TheOrchidRoom #TheFallenQueen #gothic #horrorromance #darkromantasy

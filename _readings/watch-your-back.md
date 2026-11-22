@@ -6,7 +6,7 @@ dek: "Devil's Backbone — Chapter 2"
 number: R228
 sort_key: 228
 date: 2026-01-25
-date_read: 2015-06-10
+date_read: 2025-06-10
 category: stalker-obsession
 cover: /assets/readings/watch-your-back.jpg
 spice: 4
@@ -51,5 +51,3 @@ Character development is particularly strong; the protagonist’s internal confl
 - What role does the setting play in heightening the psychological tension of the narrative?  
 - How does the dual perspective influence our perception of morality in the characters?  
 - Can we sympathize with a character whose motivations stem from obsession, and what does this say about our own boundaries?
-
-#TheOrchidRoom #DarkRomance #PsychologicalSuspense #TateJames #WatchYourBack

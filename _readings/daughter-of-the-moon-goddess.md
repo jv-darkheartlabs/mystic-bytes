@@ -7,7 +7,7 @@ dek: "A retelling inspired by the Mid-Autumn legend"
 number: R1249
 sort_key: 1249
 date: 2026-05-16
-date_read: 2016-10-22
+date_read: 2022-10-22
 category: fantasy-romance
 cover: /assets/readings/daughter-of-the-moon-goddess.jpg
 spice: 1
@@ -51,5 +51,3 @@ This narrative opens the floor to various polarizing discussions, particularly a
 - Does the ending provide a sense of closure, or does it leave critical questions unanswered?  
 - How does the novel compare to other fantasy romances in its treatment of mythology?  
 - What role does the pacing play in shaping the emotional impact of the narrative?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #chinesemythology

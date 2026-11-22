@@ -7,7 +7,7 @@ dek: "Edge of Collapse Series — Book Seven"
 number: R372
 sort_key: 372
 date: 2026-02-09
-date_read: 2007-06-10
+date_read: 2021-06-10
 category: sff
 cover: /assets/readings/edge-of-valor.jpg
 content_warnings:

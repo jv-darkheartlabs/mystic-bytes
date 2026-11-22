@@ -46,5 +46,3 @@ The novel’s exploration of possessiveness and ethical boundaries invites heate
 - What are the implications of romanticizing trauma within the context of this relationship?  
 - How does Huang’s writing style influence your perception of the characters’ actions?  
 - In what ways does the ending challenge or conform to your expectations of the genre?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #TwistedLove

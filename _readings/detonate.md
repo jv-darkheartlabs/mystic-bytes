@@ -7,7 +7,7 @@ dek: "Beneath the Mask Series"
 number: R164
 sort_key: 164
 date: 2026-01-18
-date_read: 2023-05-07
+date_read: 2025-05-07
 category: mafia-boss-and-innocent
 cover: /assets/readings/detonate.jpg
 spice: 4
@@ -47,5 +47,3 @@ The interplay of power dynamics and the blurred lines of morality in *Detonate* 
 - Can the predictable elements in the plot undermine the overall impact of the narrative, or do they serve a purpose within the genre?  
 - How does the dual perspective shape our understanding of love and loyalty in the context of crime?  
 - What implications does the unresolved ending have for the characters' journeys beyond the page?
-
-#TheOrchidRoom #mafiaromance #darkromance #beneaththemask #darkheartlabs

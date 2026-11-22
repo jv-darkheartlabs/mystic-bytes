@@ -41,5 +41,3 @@ The juxtaposition of animosity and attraction raises compelling questions about 
 - In what ways does the resolution amplify or undermine the preceding tension?  
 - What role does humor play in addressing darker themes within the narrative?  
 - How do you view the balance between escapism and emotional realism in romance novels?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

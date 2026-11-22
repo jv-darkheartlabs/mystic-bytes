@@ -7,7 +7,7 @@ dek: "Grim Reaper — A Dark Military Romance"
 number: R109
 sort_key: 109
 date: 2026-01-12
-date_read: 2016-04-04
+date_read: 2023-04-04
 category: dark-military-romance
 cover: /assets/readings/see-you-soon.jpg
 spice: 4
@@ -48,5 +48,3 @@ The novel’s exploration of the intersection between love, death, and obsession
 - How effectively does Axelson handle themes of grief and loss, and do they resonate authentically?  
 - What implications does the novel's ending have for our understanding of love in the face of mortality?  
 - How does the book's treatment of obsession reflect broader societal themes?
-
-#TheOrchidRoom #militaryromance #darkromance #grimreaper #literaryanalysis

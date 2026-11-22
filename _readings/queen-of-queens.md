@@ -51,5 +51,3 @@ Yet, the ending, while climactic, risks feeling abrupt, leaving some plot thread
 - Do you find the portrayal of female power in the protagonist refreshing or problematic?  
 - How does the book handle the concept of desire as both a motivating force and a potential downfall?  
 - What are your thoughts on the ending—does it serve the story, or does it leave too much unresolved?
-
-#TheOrchidRoom #fantasyromance #darkromance #fae #royalty #literaryanalysis

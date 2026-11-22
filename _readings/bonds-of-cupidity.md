@@ -47,5 +47,3 @@ The ending, while satisfying, could be viewed as a double-edged sword; it ties u
 - Do you think the use of multiple perspectives enhances or detracts from the emotional impact of the story?  
 - How does Kennedy’s portrayal of desire compare to other authors in the genre?  
 - What unresolved themes do you think could have been explored further?
-
-#TheOrchidRoom #reverseharem #darkromance #bonds #literaryanalysis

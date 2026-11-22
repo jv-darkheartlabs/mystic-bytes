@@ -7,7 +7,7 @@ dek: ""
 number: R613
 sort_key: 613
 date: 2026-03-08
-date_read: 2016-04-04
+date_read: 2023-04-04
 category: fantasy-romance
 cover: /assets/readings/business-or-pleasure.jpg
 spice: 4
@@ -45,5 +45,3 @@ The interplay of ambition and desire in *Business or Pleasure* raises provocativ
 - How does Solomon’s use of dual perspectives enhance or detract from the central themes?
 - Are the fantasy elements a necessary device, or do they distract from the authenticity of the romantic journey?
 - What moments in the book most powerfully encapsulate the tension between personal ambition and romantic desire?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #darkheartlabs

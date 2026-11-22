@@ -7,7 +7,7 @@ dek: "New York Times Bestselling Author of All the Stars and Teeth"
 number: R650
 sort_key: 650
 date: 2026-03-12
-date_read: 2017-05-07
+date_read: 2022-05-07
 category: fantasy-romance
 cover: /assets/readings/belladonna.jpg
 spice: 4
@@ -46,5 +46,3 @@ The novel's exploration of love in the face of mortality invites diverse interpr
 - In what ways do the characters' relationships challenge or reinforce traditional romantic tropes?  
 - What role does the setting play in shaping the characters' destinies?  
 - How might the story change if told from a different character's perspective?  
-
-#TheOrchidRoom #fantasyromance #darkromance #belladonna #literaryanalysis

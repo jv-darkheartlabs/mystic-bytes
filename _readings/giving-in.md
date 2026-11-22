@@ -52,5 +52,3 @@ The novel invites a myriad of polarizing discussions, particularly around the et
 - Does the ending leave room for redemption, or does it reinforce the cycle of obsession?  
 - In what ways does the narrative challenge or conform to traditional notions of romance?  
 - How do the content warnings influence your reading experience and perception of the themes presented?
-
-#TheOrchidRoom #darkromance #psychologicalsuspense #LolaKing #GivingIn

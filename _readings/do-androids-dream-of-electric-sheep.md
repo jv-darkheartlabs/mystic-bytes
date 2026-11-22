@@ -22,7 +22,6 @@ tags:
   - philosophy
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The novel’s themes and its philosophical inquiries invite diverse interpretati
 - Does the emotional disconnect of the characters serve to enhance or detract from the story's impact?
 - How do the novel's existential themes resonate with current societal anxieties about technology?
 - Can we find solace in the idea of artificial beings achieving empathy, or does it underscore our own failures?
-
-#LiteraryAnalysis #darkthriller #sciencefiction #existentialthemes #theorchidroom

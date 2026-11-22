@@ -6,7 +6,7 @@ dek: ""
 number: R325
 sort_key: 325
 date: 2026-02-04
-date_read: 2016-04-04
+date_read: 2020-04-04
 category: captor-and-captive
 cover: /assets/readings/sea-of-ruin.jpg
 spice: 5
@@ -49,5 +49,3 @@ This novel will undoubtedly polarize readers, particularly concerning its explor
 - In what ways does the setting enhance or detract from the novel's themes?  
 - How do the ethical implications of the captor-captive dynamic resonate with contemporary societal issues?  
 - Are the character arcs satisfying, or do they reinforce problematic tropes?
-
-#TheOrchidRoom #SeaOfRuin #darkromance #literaryanalysis #PamGodwin

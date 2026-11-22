@@ -22,7 +22,6 @@ tags:
   - historical
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The dichotomy of *Angels & Demons* lies in its potential: a gripping thriller un
   - Does the rapid pacing enhance or detract from the reader's connection to the characters?  
   - Is it possible for a book focused on conspiracy to resonate on a more profound level?  
   - What role does the setting play in shaping the reader's experience of the narrative?  
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #mystery

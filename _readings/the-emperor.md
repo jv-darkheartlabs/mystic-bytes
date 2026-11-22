@@ -48,5 +48,3 @@ While **The Emperor** invites readers into its tangled web of desire and ambitio
 - Do you find the portrayal of obsession romantic or troubling?  
 - How successfully does RuNyx challenge or reinforce genre stereotypes within mafia romance?  
 - What unresolved themes linger for you after the conclusion?  
-
-#TheOrchidRoom #mafiaromance #darkromance #literaryanalysis #darkheartlabs

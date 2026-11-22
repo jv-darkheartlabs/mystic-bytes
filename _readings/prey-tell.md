@@ -47,5 +47,3 @@ Richardson's exploration of predator-prey dynamics and themes of captivity will 
 - In what ways does the novel challenge or reinforce traditional views of romantic relationships?  
 - How did the pacing affect your emotional engagement with the characters?  
 - Would you consider the ending satisfying, or did it leave too many unanswered questions?
-
-#TheOrchidRoom #gothic #horrorromance #darkromance #predatorprey

@@ -49,5 +49,3 @@ The interplay of light and dark in *The Call of the Void* raises fascinating pol
 - In what ways does the dark magic serve as a metaphor for personal ambition?  
 - Are the stakes high enough to justify the characters' actions?  
 - What unresolved themes linger after the final page?
-
-#TheOrchidRoom #fantasyromance #darkromance #shadowsandcrowns #literaryanalysis

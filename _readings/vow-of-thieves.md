@@ -7,7 +7,7 @@ dek: ""
 number: R913
 sort_key: 913
 date: 2026-04-10
-date_read: 2016-07-13
+date_read: 2019-07-13
 category: fantasy-romance
 cover: /assets/readings/vow-of-thieves.jpg
 spice: 3
@@ -47,5 +47,3 @@ The novel presents several polarities that can ignite passionate discussions amo
 - In what ways does Pearson challenge conventional tropes of the fantasy-romance genre?  
 - How do the emotional stakes influence your investment in the characters' fates?  
 - What unresolved questions linger after the conclusion, and how do they affect your view of the story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #vow

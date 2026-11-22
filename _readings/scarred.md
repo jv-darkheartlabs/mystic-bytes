@@ -44,5 +44,3 @@ The novel's exploration of love's darker facets might polarize readers, with som
 - Does the shifting perspective strengthen or weaken the thematic impact of the story?  
 - How does *Scarred* compare to other works in the dark romance category in terms of its treatment of obsession?  
 - What unresolved themes linger after the final page, and how do they resonate with your own perceptions of love?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

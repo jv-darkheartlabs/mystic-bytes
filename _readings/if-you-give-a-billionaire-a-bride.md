@@ -6,7 +6,7 @@ dek: ""
 number: R831
 sort_key: 831
 date: 2026-04-01
-date_read: 2018-06-10
+date_read: 2024-06-10
 category: juvenile-fiction
 cover: /assets/readings/if-you-give-a-billionaire-a-bride.jpg
 content_warnings:
@@ -40,5 +40,3 @@ This novel polarizes opinions on the moral implications of its character dynamic
 - What elements of the story felt authentic versus those that felt like fantasy?  
 - In what ways does the ending challenge or reinforce your views on the characters' journeys?  
 - Do you think the dual narrative technique enhances or detracts from our understanding of the protagonists?  
-
-#TheOrchidRoom #darkbillionaire #darkromance #billionaire #literaryanalysis

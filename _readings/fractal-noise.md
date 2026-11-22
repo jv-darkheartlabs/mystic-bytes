@@ -7,7 +7,7 @@ dek: "Humanity is not alone"
 number: R577
 sort_key: 577
 date: 2026-03-04
-date_read: 2016-04-04
+date_read: 2023-04-04
 category: fantasy-romance
 cover: /assets/readings/fractal-noise.jpg
 spice: 2
@@ -48,5 +48,3 @@ The ending, while hauntingly poignant, leaves questions lingering in the air—a
 - Do you find the unresolved aspects of the narrative more rewarding or frustrating, and why?
 - How effectively does the book bridge the gap between genre-specific tropes and general emotional truths?
 - What role does isolation play in the characters' development, and how does it resonate with contemporary societal themes?
-
-#TheOrchidRoom #fantasyromance #darkromance #fractalverse #literaryanalysis

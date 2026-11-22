@@ -47,5 +47,3 @@ Craft-wise, Tuli excels in her use of vivid imagery and evocative language, pain
 - In what ways does Tuli's depiction of the fae differ from traditional representations in other fantasy literature?  
 - How does the interplay of violence and romance affect your reading experience?  
 - Is the balance between dark themes and romantic elements well-executed, or does it lean too far in one direction?  
-
-#TheOrchidRoom #fantasyromance #darkromance #auroraking #literaryanalysis

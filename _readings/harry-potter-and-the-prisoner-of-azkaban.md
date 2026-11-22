@@ -7,7 +7,7 @@ dek: ""
 number: R939
 sort_key: 939
 date: 2026-04-13
-date_read: 1996-06-01
+date_read: 1999-06-01
 category: ya-fiction
 cover: /assets/readings/harry-potter-and-the-prisoner-of-azkaban.jpg
 content_warnings:

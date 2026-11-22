@@ -6,7 +6,7 @@ dek: "A Dark Reverse Harem Romance"
 number: R809
 sort_key: 809
 date: 2026-03-30
-date_read: 2020-11-25
+date_read: 2023-11-25
 category: reverse-harem
 cover: /assets/readings/ruthless-beauty.jpg
 spice: 5
@@ -48,5 +48,3 @@ The ending, while satisfying in its resolution of several arcs, raises questions
 - Do you think the novel's exploration of beauty and violence offers a new perspective or simply recycles existing tropes?  
 - How do the character arcs reflect the broader themes of mortality and desire?  
 - Is the ending a celebration of love's triumph or a cautionary tale about the consequences of desire?
-
-#TheOrchidRoom #RuthlessBeauty #darkromance #reverseharem #literaryanalysis

@@ -24,7 +24,6 @@ tags:
   - dark romance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ However, the ambitious thematic depth occasionally leads to mechanical flaws. Ce
 - In what ways does the novel's structure enhance or detract from its philosophical explorations?  
 - Are the character arcs satisfying, or do they leave too many questions unanswered?  
 - What does the relationship between Lestat and Memnoch reveal about the nature of desire?
-
-#TheOrchidRoom #MemnochTheDevil #AnneRice #TheVampireChronicles #GothicRomance

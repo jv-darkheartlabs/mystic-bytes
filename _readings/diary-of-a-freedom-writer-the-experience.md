@@ -6,7 +6,7 @@ dek: ""
 number: R2036
 sort_key: 2036
 date: 2026-07-25
-date_read: 2011-05-07
+date_read: 2013-05-07
 category: memoir-nonfiction
 cover: /assets/readings/diary-of-a-freedom-writer-the-experience.jpg
 content_warnings:
@@ -18,7 +18,6 @@ tags:
   - social-issues
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ This memoir invites a wealth of polarizing discussions about the nature of perso
 - Are the flaws in craft overshadowed by the thematic depth, or do they detract from the overall impact of the memoir?  
 - How does Garrett's experience resonate with contemporary social issues, and does he successfully bridge personal and collective narratives?  
 - What is the role of authenticity in memoir writing, and how does it shape our understanding of the author's journey?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #theorchidroom #darkheartlabs

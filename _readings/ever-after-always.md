@@ -6,7 +6,7 @@ dek: "There's trouble in paradise..."
 number: R745
 sort_key: 745
 date: 2026-03-23
-date_read: 2016-10-22
+date_read: 2021-10-22
 category: forbidden-love
 cover: /assets/readings/ever-after-always.jpg
 spice: 3
@@ -41,5 +41,3 @@ The interplay of family obligations and romantic desires presents a fertile grou
 - Do you find the ending to be a resolution or a mere pause in the ongoing struggle?  
 - How does the author's portrayal of dark romance enhance or detract from the narrative's emotional weight?  
 - What role does the setting play in shaping the characters’ emotions and choices?
-
-#TheOrchidRoom #forbiddenlove #darkromance #BergmanBrothers #literaryanalysis

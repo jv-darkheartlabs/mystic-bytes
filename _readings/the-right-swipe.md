@@ -41,5 +41,3 @@ However, certain character arcs could benefit from deeper exploration. For insta
 - What role does technology play in shaping the characters’ relationships—does it enhance or hinder their connection?  
 - In what ways does this novel challenge or reinforce the enemies-to-lovers trope?  
 - How do you feel about the portrayal of secondary characters—do they add to or detract from the main narrative?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

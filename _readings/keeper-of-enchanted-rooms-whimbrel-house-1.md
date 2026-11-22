@@ -21,7 +21,6 @@ tags:
   - romance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The novel presents several polarities that could ignite fervent debate among rea
 - Can the romantic elements coexist with the horror tropes, or does one diminish the impact of the other?  
 - How effective is the dual timeline in enhancing the reader's understanding of the characters?  
 - Does the open-ended conclusion enhance or detract from the story's overall impact?  
-
-#TheOrchidRoom #gothic #horrorromance #enchantment #mystery

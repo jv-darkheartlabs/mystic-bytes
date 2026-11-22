@@ -50,5 +50,3 @@ The exploration of power dynamics in relationships often splits opinions, partic
 - Can the themes of obsession and torment be reconciled with notions of love, or do they stand in opposition to it?  
 - How does the setting contribute to the overall gothic tone, and does it amplify or suffocate the characters' development?  
 - What implications do you see in the unresolved arcs of key characters at the novel's close?
-
-#TheOrchidRoom #captor #darkromance #eternalobsession #literaryanalysis

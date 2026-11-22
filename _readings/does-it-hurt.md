@@ -7,7 +7,7 @@ dek: "The beacon of light was supposed to save me..."
 number: R062
 sort_key: 062
 date: 2026-01-08
-date_read: 2017-11-25
+date_read: 2022-11-25
 category: captor-and-captive
 cover: /assets/readings/does-it-hurt.jpg
 spice: 4
@@ -49,5 +49,3 @@ The novel's polarities lie in its exploration of dark desires and the ethical im
 - What role does setting play in shaping the characters' psyches and their relationship dynamics?
 - Can we separate an appreciation for the craft from the discomfort of its themes? How does that impact readers' enjoyment?
 - What are the implications of the emotional intensity depicted in the relationship — does it elevate the narrative or detract from its authenticity?
-
-#TheOrchidRoom #DoesItHurt #HDCarlton #darkromance #psychologicalthriller

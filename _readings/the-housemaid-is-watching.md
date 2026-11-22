@@ -45,5 +45,3 @@ This novel ignites a complex web of polarities, challenging readers to confront 
 - Is the ending a satisfying resolution, or does it leave too many ethical dilemmas unresolved?  
 - How do the secondary characters' motivations shape our understanding of obsession within the narrative?  
 - To what extent does the author’s craft elevate the genre, and where does it falter?
-
-#TheOrchidRoom #TheHousemaidIsWatching #FreidaMcFadden #stalker #darkromance

@@ -46,5 +46,3 @@ The novel’s exploration of wealth and desire polarizes opinions, particularly 
 - In what ways do you think the theme of moral decay is portrayed, and is it effective?  
 - How did the settings contribute to or detract from the overall tone of the story?  
 - Is the ending satisfying in how it ties back to the themes of power and desire?
-
-#TheOrchidRoom #vampire #paranormal #darkromance #literaryanalysis

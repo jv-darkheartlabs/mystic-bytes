@@ -11,6 +11,7 @@ redirect_from:
 number: 910.06
 sort_key: 0910.06
 cover: /assets/images/cover-archive.svg
+thread: letters
 ---
 
 I wrote the hours on a sticky note and stuck it to the monitor: overlap, deep work, travel day. That was the whole SLA. Not a beach. Not a promise that I would "stay flexible." Flexibility without writing it down is just disappearing and hoping nobody notices.

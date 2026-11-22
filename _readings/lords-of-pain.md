@@ -7,7 +7,7 @@ dek: "Royals of Forsyth — Book 1"
 number: R052
 sort_key: 052
 date: 2026-01-07
-date_read: 2019-10-22
+date_read: 2021-10-22
 category: bully-romance
 cover: /assets/readings/lords-of-pain.jpg
 spice: 5
@@ -48,5 +48,3 @@ The polarities within *Lords of Pain* are palpable, particularly surrounding the
 - What are the implications of depicting consent in a narrative where power imbalances are central?  
 - How do you feel about the unresolved ending — is it a bold choice or a narrative failure?  
 - Which characters did you find empathetic, and how did that affect your reading experience?
-
-#TheOrchidRoom #bullyromance #darkromance #royalsofforsyth #literaryanalysis

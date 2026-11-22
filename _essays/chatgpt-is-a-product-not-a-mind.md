@@ -10,7 +10,7 @@ type: pillar
 read_time: 8
 tags: [ai]
 brief:
-  system: ChatGPT used for scratch thinking beside mystic-bytes drafts in Auckland
+  system: ChatGPT used for scratch thinking beside mystic-bytes drafts in Louisiana
   issue: chat UX, memory, and Plus/Pro seats treated as a colleague instead of a consumer SKU
   constraint: public product docs and pricing; no OpenAI employment; distinct from the OpenAI-as-vendor essay
 ---
@@ -21,7 +21,7 @@ brief:
 
 ## Context
 
-I open ChatGPT from Auckland when I want a scratch pad that talks back: a first outline I will throw away, a rubber-duck for a sentence that will not land, a second opinion I do not owe a merge. mystic-bytes still gets written in an editor. The chat window is not the repo. I do not work at OpenAI. There is a separate essay about the firm as a vendor of model SKUs and system cards. This one is the consumer object: chatgpt.com, the app, memory, custom GPTs, the monthly seat.
+I open ChatGPT from Louisiana when I want a scratch pad that talks back: a first outline I will throw away, a rubber-duck for a sentence that will not land, a second opinion I do not owe a merge. mystic-bytes still gets written in an editor. The chat window is not the repo. I do not work at OpenAI. There is a separate essay about the firm as a vendor of model SKUs and system cards. This one is the consumer object: chatgpt.com, the app, memory, custom GPTs, the monthly seat.
 
 The failure mode is architectural in the UX. A product that says "Assistant," remembers your city, and answers in complete paragraphs will be treated as a colleague. Colleagues do not have a downgrade button. This one does.
 
@@ -29,7 +29,7 @@ The failure mode is architectural in the UX. A product that says "Assistant," re
 
 **The chat is a relationship skin on a completion.** You type. Tokens come back. The UI adds threads, edits, voice, a canvas, and a name that implies continuity of self. Continuity is a product choice. Clear the thread and the "person" is gone. That should be liberating. Instead it trains people to keep one long chat so the vibe survives. I start a new thread when the task changes. The product would rather I stay. Retention is not a mind. It is a metric.
 
-**Memory is a feature with a settings page.** OpenAI shipped saved memory and a control to inspect or disable it.[^1] That is honest product work. It is also how a chat starts to feel like it knows you: Auckland, the studio name, a preference you typed once. I treat memory as a cookie I can see. Useful for "don't use em dashes in my drafts." Dangerous for "this is my colleague who remembers the Auckland move, so the next legal claim it invents must be true." Memory stores what you fed it and what it chose to keep. It does not store a self. Turn it off when the task is a stranger's text. Leave it on when you are tired of repeating house style. Those are settings, not intimacy.
+**Memory is a feature with a settings page.** OpenAI shipped saved memory and a control to inspect or disable it.[^1] That is honest product work. It is also how a chat starts to feel like it knows you: Louisiana, the studio name, a preference you typed once. I treat memory as a cookie I can see. Useful for "don't use em dashes in my drafts." Dangerous for "this is my colleague who remembers the Washington move, so the next legal claim it invents must be true." Memory stores what you fed it and what it chose to keep. It does not store a self. Turn it off when the task is a stranger's text. Leave it on when you are tired of repeating house style. Those are settings, not intimacy.
 
 **The subscription ladder is the real architecture.** Free, Plus, Pro, Team, Enterprise: different rate limits, different model pickers, different claims about thinking time and load during peak hours.[^2] When the reply gets smarter after you pay, you did not unlock a soul. You unlocked capacity. When a feature lands in Pro first, that is a roadmap, not a revelation. I have paid for a month and cancelled when I was mostly in the API or in Cursor anyway. The app wants a seat. The API wants a token bill. Confusing them is how a consumer tone ends up in a production path.
 
@@ -39,7 +39,7 @@ The failure mode is architectural in the UX. A product that says "Assistant," re
 
 ## Tradeoffs
 
-**Memory on vs memory off.** On buys less repetition and a creep of assumed context. Off buys a colder tool and fewer surprises in a shared browser. I keep memory thin: style, not biography. The Auckland 2026 fact does not need to live in a vendor profile.
+**Memory on vs memory off.** On buys less repetition and a creep of assumed context. Off buys a colder tool and fewer surprises in a shared browser. I keep memory thin: style, not biography. Where I live does not need to live in a vendor profile.
 
 **App seat vs API.** The app is right for thinking out loud. Anything you will have to explain later belongs on a model ID you can pin, or on no model at all. Do not build a workflow that dies when you cancel Plus.
 

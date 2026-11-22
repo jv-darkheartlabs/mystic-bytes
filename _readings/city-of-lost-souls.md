@@ -52,5 +52,3 @@ The interplay between love and identity in *City of Lost Souls* presents rich gr
 - Do you find the resolution of Clary and Jace's relationship satisfying, or does it undermine the book's emotional stakes?  
 - How does the use of supernatural horror inform the characters' internal conflicts?  
 - What biases might the portrayal of teen protagonists introduce, and how do they affect reader engagement?
-
-#TheOrchidRoom #fantasyromance #shadowhunters #darkromance #literaryanalysis

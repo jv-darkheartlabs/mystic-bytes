@@ -45,5 +45,3 @@ However, there are moments where the ambitious thematic explorations stumble. In
 - Which story resonated most with you, and why? What elements made it stand out?  
 - How does the use of unreliable narrators impact your reading experience?  
 - What themes remain unresolved or underexplored in these narratives, and how might they have been addressed?
-
-#TheOrchidRoom #gothic #horrorromance #anthology #darkheartlabs

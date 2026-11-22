@@ -42,5 +42,3 @@ The novel's examination of revenge as a means of identity formation raises polar
 - Does the gothic atmosphere enhance or detract from the emotional depth of the characters?  
 - What unresolved themes linger after the final pages, and how do they impact the overall message of the novel?  
 - How does Schwab's portrayal of vengeance complicate the reader's sympathies for her characters?  
-
-#TheOrchidRoom #gothic #horrorromance #vengeful #darkheartlabs

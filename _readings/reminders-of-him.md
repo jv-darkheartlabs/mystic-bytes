@@ -46,5 +46,3 @@ The prose is sharp yet poetic, with dialogue that feels genuine and raw, reflect
 - In what ways does Hoover challenge or reinforce the tropes of forbidden love and redemption?  
 - Do you see the protagonist's journey as ultimately redemptive, or does it leave lingering questions about accountability?  
 - How does the portrayal of grief shape the characters' relationships and decisions throughout the novel?
-
-#TheOrchidRoom #forbiddenlove #darkromance #motherhood #literaryanalysis

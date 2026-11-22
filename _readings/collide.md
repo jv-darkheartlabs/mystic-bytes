@@ -6,7 +6,7 @@ dek: ""
 number: R1504
 sort_key: 1504
 date: 2026-06-13
-date_read: 2019-04-04
+date_read: 2024-04-04
 category: enemies-to-lovers
 cover: /assets/readings/collide.jpg
 spice: 4
@@ -44,5 +44,3 @@ Khabra skillfully navigates the themes of ambition and desire, positioning the c
 - Are there moments in the dialogue that felt contrived, and how did that impact your connection to the characters?  
 - In what ways does the ending challenge traditional resolutions in romance?  
 - What does this novel say about the price of desire in the pursuit of personal goals?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #hockey #ballet

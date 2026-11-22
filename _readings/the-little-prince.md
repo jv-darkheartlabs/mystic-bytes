@@ -20,7 +20,6 @@ tags:
   - imagination
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The narrative structure of *The Little Prince*, conveyed through a first-person 
 - In what ways does the tone of the narrative shift between whimsy and darkness, and how does this affect your emotional response?  
 - What elements of the gothic aesthetic can be identified in the text, and do they serve the story’s larger themes?  
 - How does the ending challenge or fulfill the expectations set by the narrative’s progression?  
-
-#TheOrchidRoom #gothic #horrorromance #philosophical #imagination

@@ -7,7 +7,7 @@ dek: "He can't have her... but he's taking her anyway"
 number: R1479
 sort_key: 1479
 date: 2026-06-10
-date_read: 2018-06-10
+date_read: 2021-06-10
 category: forbidden-love
 cover: /assets/readings/twisted-games.jpg
 spice: 4
@@ -45,5 +45,3 @@ The rich themes and character complexities in **Twisted Games** invite a spectru
 - In what ways does the novel reflect contemporary societal issues surrounding consent and autonomy?
 - Is the emotional weight of the ending justified by the characters' arcs throughout the story?
 - How does Huang's writing style enhance or detract from the narrative's themes?
-
-#TheOrchidRoom #forbiddenlove #darkromance #bodyguardromance #literaryanalysis

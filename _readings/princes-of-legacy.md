@@ -7,7 +7,7 @@ dek: "Royals of Forsyth — Book 9"
 number: R020
 sort_key: 020
 date: 2026-01-03
-date_read: 2023-05-07
+date_read: 2024-05-07
 category: bully-romance
 cover: /assets/readings/princes-of-legacy.jpg
 spice: 5
@@ -48,5 +48,3 @@ The book’s intricate dance of desire and destruction invites a multifaceted di
 - In what ways does the dual perspective enhance or detract from the overall narrative?  
 - Can a story like this redeem its characters, or does it leave them irrevocably flawed?  
 - What role does the setting of academia play in amplifying the themes of power and entitlement?
-
-#TheOrchidRoom #bullyromance #darkromance #royalsofforsyth #literaryanalysis

@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R396
 sort_key: 396
 date: 2026-02-12
-date_read: 2011-03-01
+date_read: 2015-03-01
 category: mystery-crime
 cover: /assets/readings/the-girls-in-the-garden.jpg
 content_warnings:
@@ -42,5 +42,3 @@ The juxtaposition of suburban bliss against hidden darkness raises a multitude o
 - How does Jewell's portrayal of suburban life compare to other dark thrillers you've read?
 - Is the ending of the novel satisfying in its ambiguity, or does it leave too many questions unresolved?
 - What role does the garden play in the broader themes of the book—does it symbolize hope or despair?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #romanticsuspense

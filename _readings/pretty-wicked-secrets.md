@@ -50,5 +50,3 @@ However, some mechanical flaws arise in the dialogue, which occasionally veers t
 - Is the ending a redemption arc or a descent into further darkness?  
 - How does the dual perspective enhance or confuse the reader's sympathies?  
 - What role does the atmospheric setting play in shaping the characters' psyches?
-
-#TheOrchidRoom #PrettyWickedSecrets #CallieRose #DarkRomance #LiteraryAnalysis

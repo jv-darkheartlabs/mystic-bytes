@@ -10,7 +10,7 @@ type: pillar
 read_time: 8
 tags: [craft]
 brief:
-  system: Search, Chrome, and occasional Google Cloud use from an Auckland workstation
+  system: Search, Chrome, and occasional Google Cloud use from a Louisiana workstation
   issue: product names treated as separate firms when advertising still funds the machines people live in
   constraint: public 10-K and product docs; user of the stack, not an employee; not a Gmail review
 ---
@@ -21,7 +21,7 @@ brief:
 
 ## Context
 
-I use Search every day from Tāmaki Makaurau. I test mystic-bytes in Chromium. I have signed into Google Cloud for one API task and left when the invoice and the identity story got louder than the work. I do not work at Google. I have never claimed to. The documents that matter are the ones they file and the ones they ship: Alphabet's 10-K, Android's split between AOSP and Play, Chromium's public repo, Cloud's SKU list.
+I use Search every day from Louisiana. I test mystic-bytes in Chromium. I have signed into Google Cloud for one API task and left when the invoice and the identity story got louder than the work. I do not work at Google. I have never claimed to. The documents that matter are the ones they file and the ones they ship: Alphabet's 10-K, Android's split between AOSP and Play, Chromium's public repo, Cloud's SKU list.
 
 This is not a review of Gmail. Mail is a habit with a brand. The interesting machine is the one that turns attention and identity into ads, then spends some of that cash on browsers, phones, and compute so the attention does not leak.
 

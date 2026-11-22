@@ -6,7 +6,7 @@ dek: "A Drowned Empire Novella"
 number: R1422
 sort_key: 1422
 date: 2026-06-04
-date_read: 2021-03-01
+date_read: 2022-03-01
 category: fantasy-romance
 cover: /assets/readings/solstice-of-the-drowned-empire.jpg
 spice: 3
@@ -49,5 +49,3 @@ Mallis' novella raises intriguing questions about the nature of desire and the c
 - Does the nonlinear structure enrich the narrative, or does it impede emotional engagement?  
 - How effectively does the ending encapsulate the themes presented throughout the novella?  
 - What role do secondary characters play in shaping the protagonist's journey, and do they feel sufficiently developed?
-
-#TheOrchidRoom #fantasyromance #darkromance #drownedempire #literaryanalysis

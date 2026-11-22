@@ -6,7 +6,7 @@ dek: "A Dark Romance"
 number: R817
 sort_key: 817
 date: 2026-03-31
-date_read: 2016-10-22
+date_read: 2024-10-22
 category: stalker-obsession
 cover: /assets/readings/no-control.jpg
 spice: 4
@@ -47,5 +47,3 @@ Wild's exploration of obsession is likely to polarize opinions—does the novel 
 - What role does the setting play in amplifying the themes of obsession and control?  
 - In what ways does the narrative challenge societal norms surrounding love and possession?  
 - How do you interpret the use of polaroids as a motif—does it enhance the narrative or detract from it?
-
-#TheOrchidRoom #NoControl #stalker #obsession #darkromance

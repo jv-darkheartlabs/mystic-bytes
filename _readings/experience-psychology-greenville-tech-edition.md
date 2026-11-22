@@ -18,7 +18,6 @@ tags:
   - nonfiction
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -42,4 +41,3 @@ This book challenges readers to confront uncomfortable truths about human nature
 - Is the book's audience effectively defined, or does it falter in appealing to a wider readership?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #psychology #theorchidroom #darkheartlabs

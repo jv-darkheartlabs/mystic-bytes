@@ -18,7 +18,6 @@ tags:
   - middle-grade
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ The nuances of *Dear Mr. Henshaw* provoke thought around the balance of childhoo
 - Is the resolution of Leigh's struggles sufficiently earned, or does it feel oversimplified?  
 - How does Cleary's work compare with contemporary authors tackling similar themes?  
 - What might be the implications of Leigh’s reliance on an author for emotional support?
-
-#LiteraryAnalysis #darkthriller #epistolary #coming-of-age #theorchidroom

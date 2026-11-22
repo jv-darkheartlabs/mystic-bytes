@@ -6,7 +6,7 @@ dek: "To Die For Series"
 number: R1568
 sort_key: 1568
 date: 2026-06-18
-date_read: 2013-05-07
+date_read: 2025-05-07
 category: romantic-suspense
 cover: /assets/readings/one-killer-night-to-die-for-1.jpg
 spice: 3
@@ -23,7 +23,6 @@ tags:
   - romance
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,4 +49,3 @@ The dichotomy of love and violence in *One Killer Night* invites significant deb
 - Can we find merit in the clichés, or do they detract from the story's potential impact?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #TheOrchidRoom

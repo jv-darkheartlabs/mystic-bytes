@@ -25,7 +25,6 @@ tags:
   - teen drama
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ This pilot invites robust discussion on the duality of attraction and danger, bo
 - Is the relationship dynamic between Stefan and Elena genuinely compelling, or does it rely too heavily on cliché?  
 - How does the portrayal of violence enhance or detract from the romantic tension?  
 - Does the pilot succeed in creating a nuanced exploration of love and loss, or does it fall into melodrama?
-
-#TheOrchidRoom #vampire #darkromance #teen drama #literaryanalysis

@@ -7,7 +7,7 @@ dek: ""
 number: R350
 sort_key: 350
 date: 2026-02-07
-date_read: 2005-11-25
+date_read: 2006-11-25
 category: sff
 cover: /assets/readings/world-war-z.jpg
 content_warnings:

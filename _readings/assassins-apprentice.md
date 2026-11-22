@@ -47,5 +47,3 @@ The intricate dance of love and duty in **Assassin's Apprentice** opens up rich 
 - What does the novel suggest about the nature of love in a world filled with duty and violence?  
 - In what ways does the ambiguous ending influence your perception of Fitz as a character?  
 - How do the themes of betrayal and loyalty resonate with contemporary societal issues?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #assassinsapprentice

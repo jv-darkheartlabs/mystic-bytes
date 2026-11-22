@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R1482
 sort_key: 1482
 date: 2026-06-11
-date_read: 2021-09-19
+date_read: 2022-09-19
 category: forbidden-love
 cover: /assets/readings/it-starts-with-us.jpg
 spice: 3
@@ -43,5 +43,3 @@ The novel's interplay between love and trauma invites rich discourse, particular
 - Do you believe the ending truly honors the characters' journeys, or does it simplify their struggles for the sake of resolution?  
 - How does the dual perspective affect your empathy towards the characters? Does it add depth or create confusion?  
 - What role does societal perception of love play in the characters' decisions throughout the story?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #contemporaryromance #literaryanalysis

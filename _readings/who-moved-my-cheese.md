@@ -20,7 +20,6 @@ tags:
   - business
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,4 +46,3 @@ The polarities that emerge from Johnson's narrative are rooted in its juxtaposit
 - What are the implications of the book's ending — is it empowering or dismissive of the struggles faced?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #selfhelp #theorchidroom

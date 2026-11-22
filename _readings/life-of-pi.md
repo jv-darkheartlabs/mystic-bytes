@@ -19,7 +19,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ The dichotomy of belief versus empirical evidence raises questions that could po
 - Is the ambiguity of the ending a stroke of genius or a narrative flaw?
 - In what ways does the book challenge traditional genre boundaries?
 - How effectively does the dual narrative structure impact reader engagement?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #philosophy #theorchidroom

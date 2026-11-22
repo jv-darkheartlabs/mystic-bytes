@@ -45,5 +45,3 @@ Walt's exploration of captivity as a metaphor for emotional entrapment will undo
 - In what ways does the setting enhance or overshadow character development?  
 - Is the ending a satisfying culmination of the series, or does it leave too many questions unanswered?  
 - How does the balance of dark themes with romantic elements affect your overall reading experience?  
-
-#TheOrchidRoom #fantasyromance #darkromance #dragonsandfae #literaryanalysis

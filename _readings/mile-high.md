@@ -7,7 +7,7 @@ dek: ""
 number: R460
 sort_key: 460
 date: 2026-02-19
-date_read: 2019-04-04
+date_read: 2023-04-04
 category: enemies-to-lovers
 cover: /assets/readings/mile-high.jpg
 spice: 4
@@ -47,5 +47,3 @@ While **Mile High** presents a thrilling rollercoaster of emotions, certain pola
 - In what ways does the setting of professional sports enhance or detract from the romantic plot?
 - Are the secondary characters merely functional, or do they contribute meaningfully to the protagonists' arcs?
 - Does the treatment of body image resonate with contemporary issues, or is it a missed opportunity?
-
-#TheOrchidRoom #enemiestolovers #darkromance #hockeyromance #literaryanalysis

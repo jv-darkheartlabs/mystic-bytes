@@ -48,5 +48,3 @@ The interplay of love and power raises critical questions about human desire in 
 - Are the character arcs satisfying, or do they fall into predictable tropes?  
 - How effectively does Lu balance action and romance to maintain tension?  
 - What does the ending reveal about the potential for hope in dystopian settings?
-
-#TheOrchidRoom #fantasyromance #darkromance #youngadult #literaryanalysis

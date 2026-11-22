@@ -18,7 +18,6 @@ tags:
   - historical
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -41,5 +40,3 @@ Fleischman's novel invites rich discussion on the nature of friendship and sacri
 - In what ways does the narrative challenge or reinforce traditional tropes of the dark thriller genre?  
 - Can the story's appeal to both children and adults dilute its thematic depth?  
 - What unresolved questions linger after the final chapter?
-
-#LiteraryAnalysis #darkthriller #friendship #historical #theorchidroom

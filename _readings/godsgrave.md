@@ -48,5 +48,3 @@ The thematic exploration of power, loyalty, and the consequences of one’s choi
 - Does the emotional intensity enhance or detract from the overall narrative for you?  
 - How effectively does the non-linear structure serve the themes of vengeance and desire?  
 - What are the implications of presenting love as both a source of strength and a weapon in this narrative?
-
-#TheOrchidRoom #godsgrave #fantasyromance #darkromance #literaryanalysis

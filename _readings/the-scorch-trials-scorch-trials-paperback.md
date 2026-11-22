@@ -21,7 +21,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,4 +47,3 @@ Thematically, Dashner excels in evoking a sense of isolation and betrayal, parti
 - How does Dashner’s narrative style compare to other authors in the genre?
 
 #LiteraryAnalysis #GothicEdge 
-#darkthriller #dystopia #survivalsuspense #theorchidroom

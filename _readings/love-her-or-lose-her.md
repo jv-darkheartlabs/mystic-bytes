@@ -6,7 +6,7 @@ dek: "This relationship needs a full renovation..."
 number: R856
 sort_key: 856
 date: 2026-04-04
-date_read: 2019-04-04
+date_read: 2020-04-04
 category: enemies-to-lovers
 cover: /assets/readings/love-her-or-lose-her.jpg
 spice: 4
@@ -42,5 +42,3 @@ The tension between passion and stability in Bailey's narrative invites polarizi
 - In what ways does the novel challenge or reinforce traditional romantic tropes?  
 - Is the balance between chaos and intimacy successfully navigated, or does it skew too far in one direction?  
 - How does Bailey’s writing style enhance or hinder the emotional stakes of the story?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #marriage #literaryanalysis

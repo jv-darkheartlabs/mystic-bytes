@@ -7,7 +7,7 @@ dek: "Dare Series Book Three"
 number: R013
 sort_key: 013
 date: 2026-01-02
-date_read: 2016-07-13
+date_read: 2019-07-13
 category: bully-romance
 cover: /assets/readings/if-you-dare.jpg
 spice: 5
@@ -48,5 +48,3 @@ The book's exploration of complex power dynamics and the seductive nature of obs
 - In what ways does *If You Dare* challenge or reinforce societal perceptions of romance and consent?  
 - How do the themes of obsession and power dynamics resonate with contemporary societal issues?
 - Can we find redemption in characters whose actions are morally gray, or does this undermine the narrative's integrity?
-
-#TheOrchidRoom #bullyromance #darkromance #DareSeries #literaryanalysis

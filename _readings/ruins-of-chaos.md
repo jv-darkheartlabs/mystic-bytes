@@ -6,7 +6,7 @@ dek: "Legacy of the Nine Realms 3"
 number: R1417
 sort_key: 1417
 date: 2026-06-03
-date_read: 2016-07-13
+date_read: 2020-07-13
 category: fantasy-romance
 cover: /assets/readings/ruins-of-chaos.jpg
 spice: 4
@@ -50,5 +50,3 @@ The prose itself is rich and evocative, painting vivid imagery that immerses the
 - Do you believe the unresolved threads at the end serve the narrative, or do they detract from the reader's experience?
 - How effectively does Hutchins balance the elements of dark fantasy with romantic tension?
 - What are your thoughts on the series' accessibility for readers who are new to this fantasy-romance subgenre?
-
-#TheOrchidRoom #fantasyromance #darkromance #romantasy #legacyofnine realms

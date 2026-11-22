@@ -20,7 +20,6 @@ tags:
   - political-thriller
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Characterization is another area where Clancy excels. Jack Ryan emerges not just
 - To what extent does the technical detail enhance or detract from the overall narrative?  
 - What unresolved questions does the book leave regarding the loyalties of nations versus personal ethics?  
 - How do Clancy's themes resonate with current geopolitical tensions?
-
-#LiteraryAnalysis #darkthriller #military #espionage #cold-war #theorchidroom

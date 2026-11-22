@@ -7,7 +7,7 @@ dek: ""
 number: R1368
 sort_key: 1368
 date: 2026-05-29
-date_read: 2015-03-01
+date_read: 2024-03-01
 category: enemies-to-lovers
 cover: /assets/readings/fall-with-me.jpg
 spice: 4
@@ -42,5 +42,3 @@ The interplay of rivalry and romance raises intriguing questions about the natur
 - Can the predictability of the ending detract from the overall experience, or does it lend a comforting familiarity to the genre?  
 - What role does the sport of hockey play in shaping the characters and their relationship dynamics?  
 - In what ways does the book subvert or conform to traditional enemies-to-lovers tropes?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #hockeyromance #literaryanalysis

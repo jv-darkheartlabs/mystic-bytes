@@ -49,5 +49,3 @@ Kennedy's *Glint* invites polarizing discussions about the ethics of love and po
 - What role does the fantasy setting play in amplifying the story's darker themes?  
 - How do the characters' motivations reflect societal views on wealth and beauty?  
 - Is the ambiguous ending a triumph of storytelling or a frustrating narrative choice?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #RavenKennedy

@@ -7,7 +7,7 @@ dek: "Never, never let him take you."
 number: R258
 sort_key: 258
 date: 2026-01-28
-date_read: 2021-09-19
+date_read: 2022-09-19
 category: vampire-paranormal
 cover: /assets/readings/the-never-king.jpg
 spice: 4
@@ -49,5 +49,3 @@ The novel ignites passionate discussion, especially regarding the portrayal of o
 - Does the gothic aesthetic serve the story effectively, or does it hinder character development?  
 - How do you interpret the book’s ending — is it a satisfying conclusion or an unresolved tension?  
 - Can we separate the allure of vampire mythology from the often problematic behaviors it portrays?
-
-#TheOrchidRoom #TheNeverKing #NikkiStCrowe #vampire #darkromance

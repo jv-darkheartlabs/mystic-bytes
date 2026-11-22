@@ -45,5 +45,3 @@ The intricacies of Martin’s character dynamics can provoke polarizing reaction
 - In what ways does the book challenge or conform to the expectations of the fantasy-romance genre?  
 - How does the darker tone of the book affect your connection to its characters?  
 - Is the open-ended nature of the conclusion satisfying or frustrating for you as a reader?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

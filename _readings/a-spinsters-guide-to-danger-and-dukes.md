@@ -48,5 +48,3 @@ Collins' novel is a provocative exploration of societal constraints versus perso
 - Is the resolution of the mystery satisfying enough to justify the romantic arc, or does it feel like an afterthought?
 - How does Collins' portrayal of female autonomy challenge or conform to Regency norms?
 - Can the darker elements of the story be reconciled with its romantic aspirations?
-
-#TheOrchidRoom #enemiestolovers #darkromance #historicalromance #mystery

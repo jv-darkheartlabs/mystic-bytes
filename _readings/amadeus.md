@@ -19,7 +19,6 @@ tags:
   - music
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -42,5 +41,3 @@ The thematic exploration of envy versus admiration may polarize readers, with di
 - In what ways do the musical interludes enhance or detract from the play's emotional impact?  
 - Can Salieri’s narrative be seen as a critique of societal structures that favor certain types of genius over others?  
 - How does the portrayal of Mozart challenge or conform to the archetype of the tortured artist?  
-
-#LiteraryAnalysis #darkthriller #biographical #drama #theorchidroom

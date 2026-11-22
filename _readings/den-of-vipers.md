@@ -7,7 +7,7 @@ dek: "International Bestselling Author"
 number: R193
 sort_key: 193
 date: 2026-01-21
-date_read: 2016-07-13
+date_read: 2020-07-13
 category: reverse-harem
 cover: /assets/readings/den-of-vipers.jpg
 spice: 5
@@ -49,5 +49,3 @@ The layers of obsession and power dynamics in "Den of Vipers" present ripe oppor
   - In what ways do the gothic elements enhance or detract from the romance?  
   - Should the use of violent imagery in romance be more critically examined?  
   - What does this book say about the nature of choice in relationships when faced with power dynamics?  
-
-#TheOrchidRoom #reverseharem #darkromance #gothic #literaryanalysis

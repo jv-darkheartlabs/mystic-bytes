@@ -7,7 +7,7 @@ dek: ""
 number: R1167
 sort_key: 1167
 date: 2026-05-08
-date_read: 2018-09-19
+date_read: 2023-09-19
 category: fantasy-romance
 cover: /assets/readings/alpha-wolf.jpg
 spice: 4
@@ -44,5 +44,3 @@ The novel’s exploration of power dynamics invites a rich discussion on the nat
 - In what ways does *Alpha Wolf* challenge or reinforce traditional gender roles within its fantasy framework?  
 - Can the themes of violence and power dynamics be reconciled with romantic enjoyment, or do they create irreconcilable tensions?  
 - What implications does the ending have for the characters' future and the reader’s interpretation of their journey?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #shifter

@@ -23,7 +23,6 @@ tags:
   - series collection
   - alpha hero
   - contemporary
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -52,5 +51,3 @@ The intertwining of passion and peril in *Dare* invites lively debate, particula
 - What are the implications of the hero's characterization on the reader's perception of love and desire?  
 - How does the non-linear structure influence your engagement with the characters' journey?  
 - In what ways does this book challenge or reinforce your views on the bully-romance subgenre?  
-
-#TheOrchidRoom #bullyromance #darkromance #contemporary #darkheartlabs

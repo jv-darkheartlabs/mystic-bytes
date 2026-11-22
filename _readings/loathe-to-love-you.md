@@ -43,5 +43,3 @@ The interplay of intellect and emotion in "Loathe to Love You" raises compelling
 - How do you interpret the novella's resolution in terms of character development — is it earned?  
 - Do you find the dual POV effective in deepening the narrative, or does it dilute the tension?  
 - What does this story suggest about the nature of desire in professional environments, particularly within STEM fields?
-
-#TheOrchidRoom #enemiestolovers #darkromance #STEMromance #literaryanalysis

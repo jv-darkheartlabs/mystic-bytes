@@ -29,7 +29,7 @@ I maintain [accessibility-rails-components](https://github.com/jv-darkheartlabs/
 
 The library exists because "we will fix accessibility later" is a schedule that does not survive shipping pressure. Later is where focus order goes to die.
 
-mystic-bytes is a public Jekyll site. It still ships HTML to whoever shows up. I write it from Auckland in 2026, often on Fedora, often checking VoiceOver on a Mac when I am near one and keyboard-only when I am not. Bright Pacific light on a phone is a contrast test I do not have to invent. A dark theme that romanticizes low-contrast body text is a barrier with a mood board.
+mystic-bytes is a public Jekyll site. It still ships HTML to whoever shows up. I write it from Louisiana in 2026, often on Fedora, often checking VoiceOver on a Mac when I am near one and keyboard-only when I am not. Bright Gulf Coast light on a phone is a contrast test I do not have to invent. A dark theme that romanticizes low-contrast body text is a barrier with a mood board.
 
 The demo problem is social. If the people in the review share the same sensory profile, "done" tracks to their bodies. A default that is only a wiki page will lose to a launch date. A default that is a `button` in the component will not.
 

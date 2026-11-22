@@ -44,5 +44,3 @@ The interplay of duty versus desire is ripe for debate in **Scarlet**. Lawhead a
 - In what ways does the non-linear timeline shape your understanding of the characters?  
 - How does Lawhead's portrayal of emotional intensity resonate with contemporary themes in romance?  
 - What aspects of the supporting characters could have been further developed to enrich the narrative?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #scarlet #literaryanalysis #darkheartlabs

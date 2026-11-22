@@ -6,7 +6,7 @@ dek: ""
 number: R1441
 sort_key: 1441
 date: 2026-06-06
-date_read: 2016-04-04
+date_read: 2022-04-04
 category: fantasy-romance
 cover: /assets/readings/a-kingdom-of-blood-and-betrayal.jpg
 spice: 4
@@ -49,5 +49,3 @@ Renee’s novel presents polarizing elements that might lead to fervent debate a
 - Do the character motivations resonate authentically, or do they serve merely as vehicles for plot advancement?  
 - How effectively does the dual perspective enhance the themes of desire and betrayal?  
 - Is the balance between gothic elements and romantic tropes successful, or does it tip too far in one direction?
-
-#TheOrchidRoom #fantasyromance #darkromance #bloodandbetrayal #literaryanalysis

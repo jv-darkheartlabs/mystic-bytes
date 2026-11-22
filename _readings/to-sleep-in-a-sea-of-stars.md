@@ -49,5 +49,3 @@ The intersection of romance and war in Paolini’s narrative creates a fertile g
 - How do the narrative's pacing issues affect emotional engagement?  
 - In what ways do the tropes used resonate with or challenge expectations in the genre?  
 - What remains unaddressed in the exploration of alien contact and its impact on human relationships?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #spaceopera

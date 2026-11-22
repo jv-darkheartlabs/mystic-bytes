@@ -20,7 +20,6 @@ tags:
   - heartfelt
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The juxtaposition of enduring love against societal barriers provides fertile gr
 - In what ways does the ending challenge or affirm your beliefs about love and commitment?  
 - How do the characters' journeys reflect broader societal expectations of love?  
 - What elements of Sparks' prose resonate with or repel you in the context of romantic literature?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #secondchances #literaryanalysis

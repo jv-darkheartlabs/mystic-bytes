@@ -7,7 +7,7 @@ dek: "This perfect home has one rule. Don't look behind closed doors..."
 number: R419
 sort_key: 419
 date: 2026-02-15
-date_read: 2014-08-16
+date_read: 2023-08-16
 category: mystery-crime
 cover: /assets/readings/the-housemaids-secret.jpg
 content_warnings:

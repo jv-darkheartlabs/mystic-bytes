@@ -21,7 +21,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,4 +45,3 @@ Grisham’s exploration of moral ambiguity and manipulation serves as fertile gr
 - What role does empathy play in the reader's connection to the morally ambiguous characters?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #courtroomdrama #suspense #theorchidroom

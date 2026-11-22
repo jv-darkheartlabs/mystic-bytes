@@ -6,7 +6,7 @@ dek: "A Novel"
 number: R377
 sort_key: 377
 date: 2026-02-10
-date_read: 2012-11-25
+date_read: 2018-11-25
 category: mystery-crime
 cover: /assets/readings/something-in-the-water.jpg
 content_warnings:
@@ -38,5 +38,3 @@ Steadman’s work presents a rich tapestry for debate, especially around the nat
   - What role does the romantic element play in the ethical decay of the protagonists?  
   - Can readers sympathize with the characters despite their moral failings?  
   - How does Steadman’s prose style affect your emotional engagement with the narrative?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

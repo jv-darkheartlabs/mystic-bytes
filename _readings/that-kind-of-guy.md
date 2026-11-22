@@ -43,5 +43,3 @@ However, while the prose shines in its capacity to evoke desire and conflict, it
 - How does Archer’s approach compare to other authors you’ve read?  
 - In what ways do you think emotional turmoil can enhance romantic narratives?  
 - Do you believe the ending was earned, and why?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

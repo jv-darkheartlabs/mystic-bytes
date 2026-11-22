@@ -49,5 +49,3 @@ Halle’s narrative invites debate on the ethics of desire and the nature of con
 - Can the representation of sirens be seen as a metaphor for the complexities of desire?  
 - What role does the ocean itself play in shaping the characters' journeys?  
 - How does Halle balance the seductive allure of her premise with the darker elements of her narrative?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #OceanofSinandStarlight

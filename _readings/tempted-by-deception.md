@@ -49,5 +49,3 @@ The interplay of power and vulnerability creates a fertile ground for debate, es
 - Are the characters' transformations believable, or do they fall into cliché?  
 - What are the implications of the unresolved ending — does it enhance or detract from the overall experience?  
 - How do the content warnings influence your perception of the characters’ actions and the narrative's themes?  
-
-#TheOrchidRoom #mafiaromance #darkromance #deceptiontrilogy #literaryanalysis

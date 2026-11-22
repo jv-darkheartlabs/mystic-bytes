@@ -1,0 +1,85 @@
+---
+layout: default
+title: "Journal — Reviews"
+description: "Book reviews from Dark Heart Labs, grouped by shelf — each review carries its literary analysis on the book's own page."
+permalink: /journal/reviews/
+---
+{% assign cats = site.data.reading_categories.categories %}
+{% assign hidden_slugs = site.data.shelf_exclusions.hidden_slugs | default: "" %}
+{% assign literary = "" | split: "" %}
+{% assign romance = "" | split: "" %}
+{% assign genre = "" | split: "" %}
+{% assign juvenile = "" | split: "" %}
+{% for r in site.readings %}
+  {% if r.shelf == false %}{% continue %}{% endif %}
+  {% if hidden_slugs contains r.slug %}{% continue %}{% endif %}
+  {% assign lane = cats[r.category].lane %}
+  {% if lane == "canon" %}{% assign literary = literary | push: r %}
+  {% elsif lane == "romance" %}{% assign romance = romance | push: r %}
+  {% elsif lane == "genre" %}{% assign genre = genre | push: r %}
+  {% elsif lane == "juvenile" %}{% assign juvenile = juvenile | push: r %}
+  {% endif %}
+{% endfor %}
+{% assign literary = literary | sort: "date" | reverse %}
+{% assign romance = romance | sort: "date" | reverse %}
+{% assign genre = genre | sort: "date" | reverse %}
+{% assign juvenile = juvenile | sort: "date" | reverse %}
+<div class="container journal-page">
+  <header class="signal-header">
+    <p class="page-eyebrow"><a href="{{ '/journal/' | relative_url }}">Journal</a></p>
+    <h1 class="page-title">Reviews</h1>
+    <p class="career-intro">Book reviews, grouped by shelf. Each review carries its literary analysis with it, on the book's own page — the verdict first, then the deep-dive. Newest first within each shelf.</p>
+  </header>
+
+  <section class="journal-block" aria-labelledby="reviews-literary">
+    <h2 id="reviews-literary">Literary &amp; Classics</h2>
+    <ul class="home-entry-list">
+      {% for entry in literary %}
+      <li>
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+        {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+        <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="journal-block" aria-labelledby="reviews-romance">
+    <h2 id="reviews-romance">Dark Romance</h2>
+    <ul class="home-entry-list">
+      {% for entry in romance %}
+      <li>
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+        {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+        <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="journal-block" aria-labelledby="reviews-genre">
+    <h2 id="reviews-genre">Mystery, SFF &amp; Horror</h2>
+    <ul class="home-entry-list">
+      {% for entry in genre %}
+      <li>
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+        {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+        <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="journal-block" aria-labelledby="reviews-juvenile">
+    <h2 id="reviews-juvenile">Juvenile &amp; YA</h2>
+    <ul class="home-entry-list">
+      {% for entry in juvenile %}
+      <li>
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+        {% if entry.dek %}<p class="home-entry__dek">{{ entry.dek | escape }}</p>{% endif %}
+        <p class="home-entry__meta">{{ entry.date | date: "%B %-d, %Y" }} · {{ entry.content | number_of_words | divided_by: 200 | at_least: 1 }} min read</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>

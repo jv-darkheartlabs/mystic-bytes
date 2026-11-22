@@ -23,9 +23,9 @@ This is the ontology essay. Not how to read a migration chain, and not how to wr
 
 The mystic-bytes reading catalog started simple: titles, authors, covers, and a place for everything else. "Series" lived in tags and categories — a string you could filter in `reading-log.js` if you already knew the slug. That worked at a few hundred entries. At a larger shelf we needed reading order, duplicate detection across editions, and cover reconciliation when the same title arrived in more than one batch. The grid could not answer "book three of series X" without parsing strings in the browser, because we had never decided series was an entity. We had decided tags were enough. The catalog's opinion was showing.
 
-Nightbind's Postgres is the louder version of the same claim. Tables are nouns. Foreign keys are verbs. Until a `series` (or a `checkout`, or an `account`) is a row, the product can only shrug and ask the application to invent a convention. Cursor will invent one. It will look flexible. It will lie at scale.
+Nightbind's Postgres is the louder version of the same claim. Tables are nouns. Foreign keys are verbs. Until a `series` (or a `checkout`, or an `account`) is a row, the product can only shrug and ask the application to invent a convention. The model will invent one. It will look flexible. It will lie at scale.
 
-I write both from Fedora in the Auckland 2026 window. Neither store is a job title. Both are worldviews I have to defend when a query gets expensive.
+I write both from Fedora in Louisiana. Neither store is a job title. Both are worldviews I have to defend when a query gets expensive.
 
 ## Mechanism
 

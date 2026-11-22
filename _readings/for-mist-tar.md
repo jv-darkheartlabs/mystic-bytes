@@ -6,7 +6,7 @@ dek: "A Wrathos Novel"
 number: R1228
 sort_key: 1228
 date: 2026-05-14
-date_read: 2019-07-13
+date_read: 2022-07-13
 category: fantasy-romance
 cover: /assets/readings/for-mist-tar.jpg
 spice: 3
@@ -47,5 +47,3 @@ This novel provokes rich discussions on the interplay between love and trauma, a
 - How do you interpret the balance between fantasy elements and the harsh realities portrayed in the novel?
 - In what ways did the dual timeline affect your understanding of the characters’ motivations?
 - What parallels can you draw between the themes in this novel and contemporary societal issues?
-
-#TheOrchidRoom #fantasyromance #darkromance #wrathos #literaryanalysis

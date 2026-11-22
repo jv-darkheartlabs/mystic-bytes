@@ -6,7 +6,7 @@ dek: "The Legacy Series"
 number: R290
 sort_key: 290
 date: 2026-01-31
-date_read: 2017-05-07
+date_read: 2023-05-07
 category: vampire-paranormal
 cover: /assets/readings/rain-of-shadows-and-endings.jpg
 spice: 3
@@ -45,5 +45,3 @@ Roehrich’s exploration of dark themes and moral ambiguity can provoke varied i
 - Can the moral ambiguity of the characters be justified within the context of their choices, or does it undermine their journey?  
 - How does Roehrich’s portrayal of dark magic complicate the notion of agency within romantic relationships?  
 - What emotional responses did the ending evoke for you, and do you feel it aligns with the book's overall themes?  
-
-#TheOrchidRoom #vampire #darkromance #gothic #literaryanalysis

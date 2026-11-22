@@ -6,7 +6,7 @@ dek: "She can write the perfect murder mystery... But can she solve one in real 
 number: R382
 sort_key: 382
 date: 2026-02-11
-date_read: 2007-07-13
+date_read: 2023-07-13
 category: mystery-crime
 cover: /assets/readings/murder-at-the-bookstore.jpg
 content_warnings:

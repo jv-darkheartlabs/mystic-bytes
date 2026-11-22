@@ -47,5 +47,3 @@ Zander’s *Queen of Rot & Pain* invites readers to wade into the murky waters o
 - How does Zander's depiction of decay and violence serve the themes of desire and obsession?  
 - In what ways does the archetypal nature of the characters affect your engagement with the narrative?  
 - Does the ending provide a satisfying resolution to the tension built throughout the novel, or does it feel like a missed opportunity?
-
-#TheOrchidRoom #QueenOfRotAndPain #DarkRomance #VampireLiterature #GothicFiction

@@ -6,7 +6,7 @@ dek: ""
 number: R989
 sort_key: 989
 date: 2026-04-18
-date_read: 2020-11-25
+date_read: 2023-11-25
 category: fantasy-romance
 cover: /assets/readings/a-court-this-cruel-lovely.jpg
 spice: 4
@@ -43,5 +43,3 @@ The novel's exploration of love as a double-edged sword presents a ripe field fo
 - Does the portrayal of dark romance in this novel reflect real-world complexities of love and desire?
 - How do the characters’ choices reflect their growth, and do they ultimately serve the story’s thesis?
 - Are there moments where the emotional intensity risks overshadowing character development?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #romantasy

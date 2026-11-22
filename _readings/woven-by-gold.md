@@ -7,7 +7,7 @@ dek: "Beasts of the Briar — Book Two"
 number: R303
 sort_key: 303
 date: 2026-02-02
-date_read: 2018-09-19
+date_read: 2023-09-19
 category: vampire-paranormal
 cover: /assets/readings/woven-by-gold.jpg
 spice: 4
@@ -51,5 +51,3 @@ The interplay between desire and power is central to *Woven by Gold*, yet it rai
 - In what ways does the dual perspective enrich or complicate the reader's engagement with the themes of the book?  
 - Is the fae court a metaphor for contemporary societal structures, and if so, how effectively does it serve this purpose?  
 - What unresolved themes or character arcs left you pondering long after the last page?
-
-#TheOrchidRoom #vampire #darkromance #literaryanalysis #beastsofthebriar

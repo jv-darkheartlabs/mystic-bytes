@@ -7,7 +7,7 @@ dek: "New York State of Mafia — Book One"
 number: R175
 sort_key: 175
 date: 2026-01-19
-date_read: 2022-07-13
+date_read: 2025-07-13
 category: mafia-boss-and-innocent
 cover: /assets/readings/empire-of-temptation.jpg
 spice: 4
@@ -48,5 +48,3 @@ However, the pacing occasionally falters, particularly in moments of heightened 
 - Does the arranged marriage trope serve as a compelling narrative device or a cliched plot point?  
 - How do you interpret the use of blood imagery—does it heighten the tension or overshadow the romance?  
 - What unresolved questions linger for you about the characters’ motivations?  
-
-#TheOrchidRoom #mafiaromance #darkromance #forbiddenfruit #arrangedmarriage

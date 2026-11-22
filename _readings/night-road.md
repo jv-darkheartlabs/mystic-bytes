@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R413
 sort_key: 413
 date: 2026-02-14
-date_read: 2008-11-25
+date_read: 2011-11-25
 category: historical
 cover: /assets/readings/night-road.jpg
 content_warnings:

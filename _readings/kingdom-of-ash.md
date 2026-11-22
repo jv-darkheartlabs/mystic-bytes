@@ -51,5 +51,3 @@ While *Kingdom of Ash* wraps up the series with emotional heft, its blend of hig
 - Can the themes of grief and redemption resonate with those unfamiliar with the series?  
 - What role does the fantastical setting play in amplifying the emotional stakes?  
 - How do you perceive the evolution of the characters throughout the series, particularly in regards to their relationships?
-
-#TheOrchidRoom #fantasyromance #darkromance #epicfantasy #KingdomofAsh

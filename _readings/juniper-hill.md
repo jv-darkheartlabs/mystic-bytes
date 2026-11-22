@@ -7,7 +7,7 @@ dek: "The Edens"
 number: R1380
 sort_key: 1380
 date: 2026-05-30
-date_read: 2015-06-10
+date_read: 2022-06-10
 category: enemies-to-lovers
 cover: /assets/readings/juniper-hill.jpg
 spice: 3
@@ -42,5 +42,3 @@ Perry's prose is evocative yet grounded, painting vivid imagery of the small-tow
 - In what ways do you think the enemies-to-lovers trope serves the story's deeper themes of healing and redemption?  
 - Did you find the character arcs compelling enough to justify the pacing issues, or do they detract from the overall experience?  
 - How do you interpret the ending, and what might Perry be suggesting about the nature of love in the face of past scars?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #smalltown #literaryanalysis

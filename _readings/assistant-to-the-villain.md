@@ -46,5 +46,3 @@ The novel's interplay of desire and detachment creates a ripe ground for discuss
 - Are the emotional stakes high enough to justify the protagonist’s choices?  
 - What role does fantasy violence play in the development of the characters’ relationships?  
 - How might the ending influence your view of the novel's overall effectiveness?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

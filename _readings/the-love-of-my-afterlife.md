@@ -40,5 +40,3 @@ This novel’s exploration of love that transcends mortality invites varied inte
 - In what ways does the novel challenge or reinforce traditional views on love and loss?  
 - How do you perceive the balance between narrative tension and thematic resolution in the ending?  
 - What role does the setting play in shaping the characters’ experiences and desires?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #afterlife #literaryanalysis

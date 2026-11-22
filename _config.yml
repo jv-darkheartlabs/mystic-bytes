@@ -1,11 +1,11 @@
 # Dark Heart Labs — darkheartlabs.technology
 title: "Dark Heart Labs"
-tagline: "Practical experience · Selected work · Outdoor interests"
-description: "Jennifer Picado — based in Louisiana and seeking wildlife, fisheries and related public-service opportunities in coastal and island Washington."
+tagline: "code // creativity // the technical void"
+description: "Writing, selected work, and reviews from Dark Heart Labs — code, creativity, and the technical void."
 url: "https://darkheartlabs.technology"
 baseurl: ""
 email: jen.the.dev80@gmail.com
-author: Jennifer Picado
+author: Jennifer
 
 # Form backend (required). mailto is disabled — iCloud MX junks visitor Gmail/iCloud mail.
 # Use Resend via dhl-mail-intake Worker (free). Paste Worker URL after deploy.
@@ -18,7 +18,7 @@ form_access_key: ""
 # Test key (always passes): 1x00000000000000000000AA
 turnstile_site_key: "0x4AAAAAAEcKzdQzWdenLucK"
 
-asset_version: "20261029-navigation"
+asset_version: "20261118-raven"
 
 markdown: kramdown
 highlighter: rouge
@@ -140,5 +140,5 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-theme_color: "#0a0014"
+theme_color: "#0a0612"
 google_site_verification: "W5i_THdAkiwDrJEZlN4D4piB4XLHsMoFuCwz1Xll5hU"

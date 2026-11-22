@@ -50,5 +50,3 @@ This novel presents several polarities that could fuel an engaging discussion:
 - What are your thoughts on the balance of emotional intensity and action in Sanderson's writing?
 - How does *The Bands of Mourning* compare to other fantasy romances you've read?
 - What unresolved questions linger for you after finishing the book?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

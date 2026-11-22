@@ -7,7 +7,7 @@ dek: "A Thriller"
 number: R420
 sort_key: 420
 date: 2026-02-15
-date_read: 2005-09-19
+date_read: 2020-09-19
 category: mystery-crime
 cover: /assets/readings/when-no-one-is-watching.jpg
 content_warnings:

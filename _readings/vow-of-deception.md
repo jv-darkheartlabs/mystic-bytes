@@ -49,5 +49,3 @@ The thematic exploration of deception—both personal and systemic—resonates d
 - In what ways does the alternating POV affect our perception of the characters, and does it create sympathy or distance?
 - What are the implications of a narrative centered on deception for our understanding of love and trust?
 - How does this book compare to other works in the genre regarding the treatment of female agency?
-
-#TheOrchidRoom #mafiaromance #darkromance #deceptiontrilogy #literaryanalysis

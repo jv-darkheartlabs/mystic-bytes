@@ -7,7 +7,7 @@ dek: "Boys of Tommen #2"
 number: R316
 sort_key: 316
 date: 2026-02-03
-date_read: 2019-04-04
+date_read: 2020-04-04
 category: bully-romance
 cover: /assets/readings/keeping-13.jpg
 spice: 4
@@ -46,5 +46,3 @@ The novel's polarizing elements hinge on its moral ambiguity and portrayal of to
 - In what ways does the setting contribute to the overarching themes of obsession and possession?  
 - Can we separate the allure of dark romance from its more troubling implications?  
 - What responsibility do authors have in portraying relationships that blur ethical lines?
-
-#TheOrchidRoom #bullyromance #darkromance #BoysOfTommen #literaryanalysis

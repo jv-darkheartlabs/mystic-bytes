@@ -7,7 +7,7 @@ dek: ""
 number: R485
 sort_key: 485
 date: 2026-02-22
-date_read: 2020-11-25
+date_read: 2024-11-25
 category: fantasy-romance
 cover: /assets/readings/fate-breaker.jpg
 spice: 4
@@ -45,5 +45,3 @@ The novel challenges readers to weigh the complexities of fate against personal 
 - In what ways does the darker tone enhance or detract from the romantic elements?  
 - How does the dual perspective enrich or complicate the reader’s connection to the protagonists?  
 - What unresolved questions linger about the nature of fate and choice presented in the story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #fatebreaker

@@ -21,7 +21,6 @@ tags:
   - classic
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ Lewis's work invites a rich tapestry of discussion, particularly around its mora
 - Are the moral lessons conveyed in Narnia still relevant today, or do they feel outdated?
 - What aspects of Lewis's world-building resonate with you, and where do you think it falters?
 - How do the emotional stakes in Narnia compare with those in other fantasy series you’ve read?
-
-#TheOrchidRoom #fantasyromance #darkromance #children'sliterature #literaryanalysis

@@ -48,5 +48,3 @@ Thematically, White excels in depicting the tension between idealism and realism
 - How do the themes of power and desire manifest in the relationships within the narrative?
 - In what ways do you think White's commentary on chivalry remains relevant today?
 - Do you find the ending satisfying in its portrayal of fate, or does it feel like an abdication of agency?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

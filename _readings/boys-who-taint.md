@@ -47,5 +47,3 @@ Wild's ability to weave darkness into the fabric of romance raises significant q
 - Do you believe the novel romanticizes toxicity, or does it serve as a critique?  
 - How does the use of death imagery affect your perception of the characters' journeys?  
 - What lingering questions do you have about the characters' futures after the final page?  
-
-#TheOrchidRoom #bullyromance #darkromance #gothic #contemporary

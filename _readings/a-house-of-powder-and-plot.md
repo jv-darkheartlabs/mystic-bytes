@@ -20,7 +20,6 @@ tags:
   - darkromance
   - a
   - heart
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 redirect_from:
@@ -47,5 +46,3 @@ Beswick's novel presents polarizing themes that invite rich discussion. The inte
 - What is the significance of the gothic elements in shaping the tone of the story?  
 - How does the duality of desire and danger manifest in the characters’ choices?  
 - Is the resolution of the story reflective of the characters' growth, or does it lean towards convenience?
-
-#TheOrchidRoom #fantasyromance #darkromance #romantasy #AHouseOfPowderAndPlot

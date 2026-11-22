@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R385
 sort_key: 385
 date: 2026-02-11
-date_read: 2010-10-22
+date_read: 2023-10-22
 category: mystery-crime
 cover: /assets/readings/none-of-this-is-true.jpg
 content_warnings:
@@ -45,5 +45,3 @@ The sharp contrasts in *None of This Is True* present ripe grounds for debate, e
 - In what ways does the suburban setting amplify the book’s themes of deception?  
 - How do the craft choices impact your emotional response to the characters?  
 - Does the balance between suspense and character development ultimately serve or sabotage the overall narrative?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #domesticsuspense #TheOrchidRoom

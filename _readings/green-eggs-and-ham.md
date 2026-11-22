@@ -18,7 +18,6 @@ tags:
   - imagination
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ The interplay of fear and desire in Seuss's work leads to intriguing conversatio
 - In what ways can this book serve as a mirror to adult struggles with the unfamiliar?
 - Could the whimsical portrayal of green eggs and ham be interpreted as a critique of societal norms?
 - How does the book's structure influence its emotional impact on both children and adults?
-
-#TheOrchidRoom #gothic #horrorromance #children'sliterature #literaryanalysis

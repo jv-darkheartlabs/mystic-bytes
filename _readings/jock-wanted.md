@@ -42,5 +42,3 @@ The thematic exploration of vulnerability and trust is particularly resonant. Me
 - What do you think about the use of humor in the context of darker emotional themes?  
 - Are the character arcs resolved satisfactorily, or do they leave too many questions unanswered?  
 - How do you perceive the balance between character-driven moments and plot progression in this novel?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #hockey #literaryanalysis

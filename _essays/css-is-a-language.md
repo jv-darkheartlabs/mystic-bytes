@@ -25,7 +25,7 @@ This is not a Grid tutorial. Arrangement is a different essay. This one is the l
 
 ## Context
 
-mystic-bytes is Jekyll. Layouts are HTML. The look lives in CSS the browser will actually parse. I write it on Fedora, usually with Firefox's computed pane open, because that pane is the runtime. Cursor will happily complete a utility class or an `!important` before I have named why the previous rule lost. The Auckland 2026 move does not change what a reader’s browser does with those files.
+mystic-bytes is Jekyll. Layouts are HTML. The look lives in CSS the browser will actually parse. I write it on Fedora, usually with Firefox's computed pane open, because that pane is the runtime. The model will happily complete a utility class or an `!important` before I have named why the previous rule lost.
 
 The failure I keep repeating is social, not syntactic. A component in accessibility-rails-components needed a focus ring that survived a parent theme. I styled `button:focus-visible`. A later "cleanup" in a wrapper used `.btn { outline: none }` with a more specific class list Cursor had concatenated. The ring vanished. Visual review still passed if you used a mouse. Keyboard users got a control that looked inert. The stylesheet had executed correctly. I had written two programs that disagreed, and I had not stated the precedence.
 
@@ -41,7 +41,7 @@ Specificity is a tuple, not a vibe. IDs beat classes beat types. Inline beats ID
 
 Cascade layers (`@layer`) admit that specificity wars were a bad API. A later layer beats an earlier one even if its selector is weaker. mystic-bytes does not need twelve layers. It does need me to stop using ID selectors as a personality.
 
-Inheritance is the other half of defaulting. `color` inherits. `margin` does not. Custom properties cascade as specified values. When Cursor pastes `--accent` on `:root` and again on `.essay`, that is assignment in nested scopes. The computed value is the program’s output.
+Inheritance is the other half of defaulting. `color` inherits. `margin` does not. Custom properties cascade as specified values. When the model pastes `--accent` on `:root` and again on `.essay`, that is assignment in nested scopes. The computed value is the program’s output.
 
 Selectors are boolean expressions over the tree. Descendant, child, sibling, `:not()`, `:has()`: these are queries. A query language that paints boxes is still a query language. Pixels as output do not make the evaluation decorative.
 

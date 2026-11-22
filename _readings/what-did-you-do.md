@@ -6,7 +6,7 @@ dek: "The Infatuated Fae Book Two"
 number: R1219
 sort_key: 1219
 date: 2026-05-13
-date_read: 2022-07-13
+date_read: 2024-07-13
 category: fantasy-romance
 cover: /assets/readings/what-did-you-do.jpg
 spice: 3
@@ -47,5 +47,3 @@ This novel invites a multitude of polarizing discussions, particularly around th
 - In what ways does the use of magical manipulation affect your perception of the characters’ choices?  
 - Is the ending satisfactory in its ambiguity, or does it leave too much unresolved?  
 - How does this book compare to other works in the genre that tackle similar themes?  
-
-#TheOrchidRoom #fantasyromance #darkromance #infatuatedfae #literaryanalysis

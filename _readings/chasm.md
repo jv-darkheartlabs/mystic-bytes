@@ -48,5 +48,3 @@ The juxtaposition of love and ambition presents rich ground for debate in *Chasm
 - How does McEwan’s portrayal of female agency compare to other works in the genre?  
 - In what ways does the ending challenge or reinforce traditional narrative structures in fantasy romance?  
 - Are the characters’ motivations compelling enough to sustain interest throughout the series?
-
-#TheOrchidRoom #fantasyromance #darkromance #glaciantrilogy #literaryanalysis

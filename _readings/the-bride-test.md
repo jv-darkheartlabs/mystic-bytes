@@ -41,5 +41,3 @@ However, while the thematic exploration of cultural identity and the pressure of
 - Does the resolution of Khai and Esme's relationship feel authentic given their character arcs?  
 - What role does family play in shaping the characters’ decisions, and is this theme adequately addressed?  
 - How does the dual perspective enhance or detract from your understanding of the characters?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

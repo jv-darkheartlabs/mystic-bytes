@@ -6,7 +6,7 @@ dek: "A Novel"
 number: R378
 sort_key: 378
 date: 2026-02-10
-date_read: 2013-03-01
+date_read: 2023-03-01
 category: mystery-crime
 cover: /assets/readings/the-villa.jpg
 content_warnings:
@@ -43,5 +43,3 @@ The ending, while surprising, feels somewhat unearned; it raises questions about
 - Are the characters' arcs satisfactorily resolved, or do they leave too many loose ends?  
 - What does *The Villa* suggest about the nature of familial bonds in the context of darkness and betrayal?  
 - How does Hawkins' portrayal of the Italian landscape influence the story's gothic elements?  
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

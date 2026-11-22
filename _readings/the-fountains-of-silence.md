@@ -7,7 +7,7 @@ dek: ""
 number: R431
 sort_key: 431
 date: 2026-02-16
-date_read: 2006-11-25
+date_read: 2019-11-25
 category: historical
 cover: /assets/readings/the-fountains-of-silence.jpg
 content_warnings:

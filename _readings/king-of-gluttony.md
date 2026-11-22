@@ -7,7 +7,7 @@ dek: "Kings of Sin — Book 6"
 number: R096
 sort_key: 096
 date: 2026-01-11
-date_read: 2015-09-19
+date_read: 2026-09-19
 category: dark-billionaire
 cover: /assets/readings/king-of-gluttony.jpg
 spice: 4
@@ -48,5 +48,3 @@ This narrative's exploration of obsession and emotional neglect will undoubtedly
 - Does the emotional neglect depicted in the story resonate with contemporary societal issues surrounding intimacy?  
 - How effectively does the non-linear structure contribute to or detract from the overall emotional experience?  
 - Can we separate the allure of the dark billionaire trope from its ethical implications in love stories?
-
-#TheOrchidRoom #darkbillionaire #darkromance #literaryanalysis #KingsOfSin

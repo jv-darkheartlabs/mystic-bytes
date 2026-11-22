@@ -6,7 +6,7 @@ dek: "Die Brutalen Jungs der Everlake Prep Buch 2"
 number: R040
 sort_key: 040
 date: 2026-01-05
-date_read: 2019-07-13
+date_read: 2022-07-13
 category: bully-romance
 cover: /assets/readings/kings-of-lockdown.jpg
 spice: 4
@@ -46,5 +46,3 @@ This novel is poised to ignite a passionate debate, particularly around the ethi
   - Can readers separate the allure of the protagonists from the ethical dilemmas presented?  
   - How does the setting of lockdown amplify the themes of captivity and desire?  
   - What boundaries are crossed in the name of love, and should they be forgiven in fiction?
-
-#TheOrchidRoom #bullyromance #darkromance #everlakeprep #reverseharem

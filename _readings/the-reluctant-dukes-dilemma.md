@@ -45,5 +45,3 @@ Thematically, the exploration of identity against the backdrop of societal expec
 - In a genre often criticized for predictable endings, how does *The Reluctant Duke's Dilemma* challenge or conform to those expectations?  
 - What role does societal expectation play in shaping personal identity, and how does Messmer illuminate this theme through her characters?  
 - How do you perceive the balance between romantic tension and narrative pacing in the latter half of the book?  
-
-#TheOrchidRoom #fantasyromance #darkromance #regency #literaryanalysis

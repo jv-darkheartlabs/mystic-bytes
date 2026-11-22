@@ -51,5 +51,3 @@ The thematic exploration of obsession, as a double-edged sword, raises questions
 - Does the ending feel earned, or does it leave unresolved tensions that undercut the story's themes?  
 - How effectively does Nicole use gothic elements to enhance the emotional stakes of the narrative?  
 - What can we learn from the characters' struggles with their desires and moral choices?
-
-#TheOrchidRoom #vampire #darkromance #godsandmonsters #literaryanalysis

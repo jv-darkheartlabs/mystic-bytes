@@ -6,7 +6,7 @@ dek: ""
 number: R880
 sort_key: 880
 date: 2026-04-07
-date_read: 2019-10-22
+date_read: 2024-10-22
 category: enemies-to-lovers
 cover: /assets/readings/business-casual.jpg
 spice: 3
@@ -42,5 +42,3 @@ However, the novel is not without its mechanical flaws. Some secondary character
 - In what ways does the resolution align or clash with your expectations of the enemies-to-lovers trope?  
 - What themes resonate most with you—ambition versus love, or rivalry versus connection?  
 - Are the underdeveloped secondary characters a missed opportunity, or do they serve the narrative's focus effectively?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #smalltown #literaryanalysis #darkheartlabs

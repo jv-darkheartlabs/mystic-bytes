@@ -22,7 +22,6 @@ tags:
   - thriller
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Deaver’s novel provokes a spectrum of responses regarding its handling of sens
 - How effectively does Deaver balance graphic violence with character development?  
 - In what ways does the dual perspective shift reader empathy throughout the narrative?  
 - Is the resolution of the plot satisfying or does it leave too many moral questions unanswered?  
-
-#LiteraryAnalysis #darkthriller #suspense #detective #theorchidroom

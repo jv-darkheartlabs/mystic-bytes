@@ -10,7 +10,7 @@ type: pillar
 read_time: 8
 tags: [craft]
 brief:
-  system: Instagram and WhatsApp as a user in Auckland; mystic-bytes published off those apps
+  system: Instagram and WhatsApp as a user in Louisiana; mystic-bytes published off those apps
   issue: social products described as communities when ranking and ads are the business
   constraint: public 10-K, Community Standards, and platform-API history; no Meta employment claim
 ---
@@ -21,7 +21,7 @@ brief:
 
 ## Context
 
-I have an Instagram account and a WhatsApp install because other people already do. I do not publish mystic-bytes into a Meta feed as a growth strategy. The writing lives on a site I host. I use the apps the way a remote person in Auckland uses them in 2026: messages, a few accounts I actually wanted, a lot of ranking I did not ask for. I have never worked at Meta. The useful documents are the 10-K, the Community Standards, and the public wreckage of the old Platform API.
+I have an Instagram account and a WhatsApp install because other people already do. I do not publish mystic-bytes into a Meta feed as a growth strategy. The writing lives on a site I host. I use the apps the way a remote person in Louisiana uses them in 2026: messages, a few accounts I actually wanted, a lot of ranking I did not ask for. I have never worked at Meta. The useful documents are the 10-K, the Community Standards, and the public wreckage of the old Platform API.
 
 Calling these products "communities" is a category error. Communities do not run a ranking function whose job is dwell time. Advertisers do not buy communities. They buy impressions next to whatever the ranker decided you would not close.
 

@@ -7,7 +7,7 @@ dek: "Off-Campus — Book 5"
 number: R459
 sort_key: 459
 date: 2026-02-19
-date_read: 2018-03-01
+date_read: 2021-03-01
 category: enemies-to-lovers
 cover: /assets/readings/the-legacy.jpg
 spice: 4
@@ -46,5 +46,3 @@ The book's combination of rivalry and romance will certainly provoke conversatio
 - What role does setting play in shaping the characters’ dynamics and conflicts?  
 - Are Kennedy's character arcs believable given their initial animosity?  
 - How do the themes of vulnerability and bravado resonate with contemporary views on relationships?  
-
-#TheOrchidRoom #TheLegacy #enemiestolovers #darkromance #literaryanalysis

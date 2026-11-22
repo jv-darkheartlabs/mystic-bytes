@@ -40,5 +40,3 @@ The prose combines vivid imagery with understated poignancy, effectively buildin
 - In what ways does Han challenge or reinforce traditional romance tropes?  
 - How does the setting function as a character in its own right, influencing the emotional landscape of the story?  
 - What unresolved questions linger about the characters’ futures after the conclusion?
-
-#TheOrchidRoom #forbiddenlove #darkromance #YA #literaryanalysis

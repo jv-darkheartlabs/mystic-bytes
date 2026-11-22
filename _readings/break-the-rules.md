@@ -6,7 +6,7 @@ dek: "A Loveless Brothers Novel"
 number: R1035
 sort_key: 1035
 date: 2026-04-23
-date_read: 2018-03-01
+date_read: 2019-03-01
 category: forbidden-love
 cover: /assets/readings/break-the-rules.jpg
 spice: 3
@@ -40,5 +40,3 @@ However, the novel is not without its flaws; certain plot points feel rushed, pa
 - What role does setting play in amplifying the themes of desire and constraint?  
 - Does the resolution diminish the emotional complexity established earlier in the novel?  
 - Can we truly root for characters who defy societal norms, or does that complicate our moral compass?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

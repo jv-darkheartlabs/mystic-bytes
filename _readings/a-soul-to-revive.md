@@ -45,5 +45,3 @@ The interplay of desire and consequence in *A Soul to Revive* presents polaritie
 - Are the resolutions earned, or do they feel rushed in the context of character development?  
 - In what ways does the gothic aspect enhance the romantic elements, and does it ever overwhelm them?  
 - How does Reyne's use of dual narratives affect your connection to the characters?  
-
-#TheOrchidRoom #fantasyromance #darkromance #OpalReyne #literaryanalysis

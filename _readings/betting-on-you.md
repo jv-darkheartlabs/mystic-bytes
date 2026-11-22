@@ -7,7 +7,7 @@ dek: ""
 number: R457
 sort_key: 457
 date: 2026-02-19
-date_read: 2016-10-22
+date_read: 2023-10-22
 category: enemies-to-lovers
 cover: /assets/readings/betting-on-you.jpg
 spice: 3
@@ -42,5 +42,3 @@ Painter’s blend of humor and angst opens the floor to compelling debates about
 - In what ways does *Betting on You* challenge or reinforce traditional romantic tropes?  
 - How might the book resonate differently with readers who have experienced similar relational dynamics?  
 - Does the predictability of the narrative serve to comfort or frustrate the audience?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

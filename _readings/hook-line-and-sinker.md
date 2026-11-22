@@ -41,5 +41,3 @@ Bailey’s novel offers a tantalizing mix of charm and emotional complexity that
 - In what ways does the setting amplify the characters’ internal struggles?  
 - Can you separate the predictable elements of the plot from the emotional journey, or do they detract from the overall experience?  
 - How does Bailey’s portrayal of vulnerability inform your understanding of modern romance?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #Bellinger #literaryanalysis

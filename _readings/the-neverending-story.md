@@ -20,7 +20,6 @@ tags:
   - coming-of-age
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,5 +44,3 @@ Ende's novel prompts a tapestry of polarities that can ignite fervent discussion
 - What does the duality of Bastian and Atreyu reveal about identity and growth?  
 - In what ways does Ende challenge conventional storytelling through his structure?  
 - Does the novel serve as a criticism of escapism, or does it celebrate the power of imagination?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #comingofage

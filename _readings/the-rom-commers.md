@@ -6,7 +6,7 @@ dek: ""
 number: R889
 sort_key: 889
 date: 2026-04-08
-date_read: 2016-10-22
+date_read: 2024-10-22
 category: enemies-to-lovers
 cover: /assets/readings/the-rom-commers.jpg
 spice: 3
@@ -40,5 +40,3 @@ The interplay of humor and darkness in romantic relationships often elicits cont
 - What role does setting play in shaping the dynamics between the protagonists?  
 - In what ways does the novel challenge or reinforce the stereotypes present in the enemies-to-lovers trope?  
 - How does the Hollywood backdrop influence your perception of the characters and their motivations?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

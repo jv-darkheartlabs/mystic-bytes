@@ -54,5 +54,3 @@ This novel beckons conversation around the complexities of desire, agency, and t
 - In what ways do you see the themes of survival reflecting contemporary societal issues?  
 - Can a romance rooted in fated connections resonate authentically, or does it undermine personal agency?
 - How does the portrayal of gender dynamics influence your reading experience?
-
-#TheOrchidRoom #fantasyromance #darkromance #romantasy #barbarianlover

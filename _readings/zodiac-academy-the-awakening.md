@@ -47,5 +47,3 @@ The interplay of power and vulnerability in *Zodiac Academy: The Awakening* invi
 - Are the characters’ actions justified in the context of their world, or do they perpetuate harmful tropes?  
 - How effectively does the dual POV contribute to the tension and resolution of the story?  
 - What unresolved threads leave you questioning the authors’ intentions and the characters’ futures?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #literaryanalysis

@@ -45,5 +45,3 @@ The novel’s entanglement with themes of obsession raises questions about love 
 - Did you find the ending satisfying, or did it feel like a betrayal of the characters' journeys?
 - In what ways does *Haunted Love* challenge or reinforce stereotypes about love and obsession?
 - How do you view the balance between tension and pacing in the narrative?
-
-#TheOrchidRoom #HauntedLove #DarkRomance #LiteraryAnalysis #SheridanAnne

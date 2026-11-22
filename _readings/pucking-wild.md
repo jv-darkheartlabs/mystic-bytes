@@ -45,5 +45,3 @@ The polarities in *Pucking Wild* lie in its exploration of morality and desireâ€
 - What are the implications of blending dark romance tropes with sports settings?  
 - How effectively does the author handle the moral complexities surrounding consent and agency?  
 - Can the emotional depth of Rathâ€™s characters redeem them from the potential pitfalls of their relationship?
-
-#TheOrchidRoom #agegap #darkromance #hockeyromance #literaryanalysis

@@ -24,7 +24,6 @@ tags:
   - mystery
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ This novella invites debate on the complexities of loyalty and the thin line bet
 - How does Jackson’s treatment of mental illness inform our reading of the sisters’ relationship?
 - What role does the community play in reinforcing the Blackwoods' isolation — can they be blamed for their fate?
 - Does the novella's ending provide a sense of closure or amplify the feeling of dread?
-
-#TheOrchidRoom #gothic #horrorromance #psychological #sisters

@@ -46,5 +46,3 @@ However, while the thematic exploration of loyalty versus self-preservation is c
 - In what ways do Ryan's character choices reflect broader societal issues regarding loyalty and trust?  
 - Does the dual perspective enhance or dilute the suspense and emotional impact of the story?  
 - How does *These Twisted Bonds* compare to other works in the genre regarding its handling of darker themes?  
-
-#TheOrchidRoom #fantasyromance #darkromance #thesehollowvowssequel #fae

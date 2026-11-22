@@ -49,5 +49,3 @@ The novel's exploration of power dynamics and emotional intensity presents sever
 - Does the pacing serve the narrative arc effectively, or does it detract from character development?
 - How do you interpret the ending in relation to the overarching themes of the trilogy?
 - What role does the historical context play in shaping the characters' motivations and relationships?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #romantasy

@@ -24,7 +24,6 @@ tags:
   - friendship
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -51,5 +50,3 @@ Maguire’s *Wicked* offers fertile ground for debate, particularly regarding it
 - Do you feel the ending aligns with the themes of the book, or does it undermine its message?  
 - What role do friendships play in shaping Elphaba's identity, and how does this reflect real-life relationships?  
 - How does the book’s use of gothic elements enhance or detract from its themes?
-
-#TheOrchidRoom #gothic #horrorromance #fantasy #retelling

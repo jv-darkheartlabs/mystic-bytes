@@ -7,7 +7,7 @@ dek: "Don't Let Me Series — Book Five"
 number: R1488
 sort_key: 1488
 date: 2026-06-11
-date_read: 2015-06-10
+date_read: 2023-06-10
 category: forbidden-love
 cover: /assets/readings/dont-let-me-down.jpg
 spice: 3
@@ -45,5 +45,3 @@ The interplay between familial loyalty and romantic desire creates fertile groun
 - In what ways does Rae’s portrayal of desire challenge or conform to genre expectations?  
 - Are the characters’ dilemmas relatable, or do they fall into exaggerated melodrama?  
 - How does the dual perspective shape your understanding of the characters' motivations?
-
-#TheOrchidRoom #forbiddenlove #darkromance #brothersbestfriend #literaryanalysis

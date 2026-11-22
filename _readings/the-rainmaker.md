@@ -20,7 +20,6 @@ tags:
   - justice
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -43,5 +42,3 @@ While *The Rainmaker* masterfully intertwines themes of hope and despair, it pro
 - In what ways do the characters embody or challenge archetypes within legal thrillers?  
 - What does the resolution of Rudy’s journey suggest about the nature of justice in real life?  
 - How does the novel's pacing influence our emotional investment in the outcome?
-
-#LiteraryAnalysis #darkthriller #courtroomdrama #justice #theorchidroom

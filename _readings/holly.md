@@ -7,7 +7,7 @@ dek: ""
 number: R356
 sort_key: 356
 date: 2026-02-08
-date_read: 2011-08-16
+date_read: 2023-08-16
 category: horror
 cover: /assets/readings/holly.jpg
 content_warnings:
@@ -45,5 +45,3 @@ Character development shines in Holly’s portrayal as a flawed yet relatable fi
 - What role does the setting play in amplifying the themes of the novel?
 - Are there moments where the character's flaws detract from their relatability or deepen it?
 - How does this novel compare to other works in King’s catalog in terms of thematic depth and character exploration?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #psychologicalhorror

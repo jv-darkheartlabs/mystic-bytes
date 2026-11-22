@@ -7,7 +7,7 @@ dek: "A Thriller"
 number: R359
 sort_key: 359
 date: 2026-02-08
-date_read: 2014-11-25
+date_read: 2022-11-25
 category: mystery-crime
 cover: /assets/readings/run-on-red.jpg
 content_warnings:
@@ -47,5 +47,3 @@ The novel's exploration of obsession raises significant questions about the natu
 - Does the ending honor the build-up of psychological tension, or does it rely on shock value?  
 - How does the portrayal of female characters challenge or conform to traditional thriller archetypes?  
 - What role does setting play in shaping the psychological landscape of the narrative?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

@@ -46,5 +46,3 @@ The inherent tensions within **Master Artificer** provide ample fodder for discu
 - How does Call’s depiction of creation as both a source of power and vulnerability resonate with contemporary societal themes?
 - What did you think of the ending? Did it feel earned, or did it leave too much unresolved?
 - In what ways does the novel challenge traditional fantasy tropes, particularly in its handling of romance and emotional intensity?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #masterartificer

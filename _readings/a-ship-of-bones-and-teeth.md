@@ -50,5 +50,3 @@ Halle's work invites discussion on the nature of desire and its often destructiv
 - Do you find the ending satisfying in terms of character development, or does it feel unresolved?  
 - How does the dual timeline enhance or detract from your engagement with the characters?  
 - What role does the ocean play as a character in its own right throughout the narrative?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

@@ -18,7 +18,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -45,4 +44,3 @@ The interplay of ambition and ethical boundaries presents a rich ground for deba
 - Does the book's tension serve as a critique of the publishing industry, or does it merely indulge in its darker aspects?  
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #romanticsuspense #TheOrchidRoom

@@ -21,11 +21,11 @@ brief:
 
 mystic-bytes essays are Markdown with YAML frontmatter. Jekyll will render whatever you hand it. The typed picture of an essay lives in `scripts/content-data.ts`: `number`, `slug`, `title`, `dek`, an optional `brief`. That type is a claim. The files on disk are a rumor until something checks them.
 
-I have shipped a slug that was empty after a "validation" step because the comment above the function still said required and the last edit had not updated the comment. Unit tests mocked happy paths. Adding a discriminated union — valid entry versus rejected entry — made the hole a compile error the first time I ran the checker.[^1] Cursor is happy to keep the comment warm. It is less happy to keep the comment true.
+I have shipped a slug that was empty after a "validation" step because the comment above the function still said required and the last edit had not updated the comment. Unit tests mocked happy paths. Adding a discriminated union — valid entry versus rejected entry — made the hole a compile error the first time I ran the checker.[^1] The model is happy to keep the comment warm. It is less happy to keep the comment true.
 
 Nightbind's checkout paid the same lesson in production clothes. A status that could be `idle` and `submitting` at once was a double-submit waiting for a tired operator. Typing the impossible state out of existence was cheaper than another incident writeup.
 
-Dynamically typed code at scale grows runtime validation — Zod, Joi, manual guards — because the invariants were always there. They had nowhere to live until something failed. Types relocate those invariants upstream. Auckland 2026 does not change that. Fedora's `tsc` and a CI job agree more often than a comment and a future reader.
+Dynamically typed code at scale grows runtime validation — Zod, Joi, manual guards — because the invariants were always there. They had nowhere to live until something failed. Types relocate those invariants upstream. Fedora's `tsc` and a CI job agree more often than a comment and a future reader.
 
 ## Mechanism
 
@@ -53,13 +53,13 @@ Tests complement types. They do not replace them. Tests prove behavior for cases
 
 **Generics vs readability.** Power types help library authors. Application code often needs boring structs. Clever type-level programming is the same comprehension tax as clever runtime code. Pay it where reuse justifies it.
 
-**When types lie.** Assertions and casts bypass the checker. Overuse them and types become theater. If you cast, write why the invariant is true. You have reintroduced comment-based trust at a hot spot. Cursor loves a cast. I treat each one as a smell.
+**When types lie.** Assertions and casts bypass the checker. Overuse them and types become theater. If you cast, write why the invariant is true. You have reintroduced comment-based trust at a hot spot. The model loves a cast. I treat each one as a smell.
 
 ## Close
 
 Add types at the boundaries where bugs hurt. Let the compiler read the documentation your team will not maintain. Start with the functions that touch money, identity, or irreversible writes — and, on this site, with the metadata that decides whether a page is even a page.
 
-The cost is hours. The savings are strangers changing the module without fear, including you, later, on Fedora, after Cursor has been too helpful.
+The cost is hours. The savings are strangers changing the module without fear, including you, later, on Fedora, after the model has been too helpful.
 
 — JV · Dark Heart Labs.
 

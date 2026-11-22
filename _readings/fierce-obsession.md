@@ -6,7 +6,7 @@ dek: "He's a hockey god, and she's the one he never saw coming."
 number: R224
 sort_key: 224
 date: 2026-01-25
-date_read: 2023-11-25
+date_read: 2024-11-25
 category: stalker-obsession
 cover: /assets/readings/fierce-obsession.jpg
 spice: 4
@@ -50,5 +50,3 @@ The interplay of obsession and attraction in **Fierce Obsession** presents a fer
 - Can the characters' actions be justified through their emotional states, or do they transcend sympathy?  
 - How effective is the fragmented structure in portraying psychological distress?  
 - What unresolved themes linger after the conclusion, and how do they impact your view of the narrative?
-
-#TheOrchidRoom #stalker #obsession #darkromance #hockey

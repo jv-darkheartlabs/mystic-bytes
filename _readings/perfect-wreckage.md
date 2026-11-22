@@ -45,5 +45,3 @@ The themes of *Perfect Wreckage* pose questions about the nature of love and the
 - In what ways does the setting (or lack thereof) contribute to the theme of forbidden love?  
 - Do you think the ending did justice to the complexities of the characters’ journeys, or did it sidestep deeper issues?  
 - How does *Perfect Wreckage* compare to other works within the forbidden-love genre in terms of depth and relatability?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #wreckedseries #literaryanalysis

@@ -6,7 +6,7 @@ dek: "Legacy of Gods"
 number: R822
 sort_key: 822
 date: 2026-03-31
-date_read: 2021-06-10
+date_read: 2023-06-10
 category: bully-romance
 cover: /assets/readings/god-of-ruin.jpg
 spice: 5
@@ -43,5 +43,3 @@ The central conflicts in *God of Ruin* ignite discussions around morality in rom
 - How effectively does the dual perspective enhance or complicate the reader's connection to the characters?
 - In what ways does the setting of a college add to or detract from the themes of power and vulnerability?
 - What unresolved questions linger regarding the characters' futures, and how do they reflect on the themes of regeneration and ruin?
-
-#TheOrchidRoom #bullyromance #darkromance #GodofRuin #RinaKent

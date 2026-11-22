@@ -20,7 +20,6 @@ tags:
   - Middle Eastern folklore
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Housman's *The Arabian Nights* presents a fascinating juxtaposition of enchantme
 - Are the ambiguities in character motivations a strength or a weakness in the narrative?  
 - How do the illustrations contribute to or alter your perception of the stories?  
 - What do you think about the blend of cultural folklore within the context of gothic literature?
-
-#TheOrchidRoom #gothic #horrorromance #fairytales #classic

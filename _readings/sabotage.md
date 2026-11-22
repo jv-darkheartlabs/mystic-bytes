@@ -7,7 +7,7 @@ dek: "He ruins everything."
 number: R1116
 sort_key: 1116
 date: 2026-05-02
-date_read: 2015-03-01
+date_read: 2022-03-01
 category: enemies-to-lovers
 cover: /assets/readings/sabotage.jpg
 spice: 5
@@ -51,5 +51,3 @@ The complexities of love and revenge create rich ground for debate. The interpla
 - In what ways does Tessier's portrayal of the locker room setting enhance or detract from the overall themes?  
 - How do you view the representation of the 'bad boy' trope—does it empower or hinder character development?  
 - What does this book reveal about the nature of emotional sabotage in relationships?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #sabotage #literaryanalysis

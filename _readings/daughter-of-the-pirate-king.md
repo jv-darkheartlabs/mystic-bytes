@@ -49,5 +49,3 @@ Levenseller's *Daughter of the Pirate King* presents polarities that could ignit
 - In what ways does the world-building enhance or detract from the story's thematic depth?
 - Is the ending a true victory for Alosa, or does it come with unacknowledged costs?
 - How does this novel compare to other works in the genre that tackle similar themes of autonomy and desire?
-
-#TheOrchidRoom #fantasyromance #darkromance #pirate #literaryanalysis

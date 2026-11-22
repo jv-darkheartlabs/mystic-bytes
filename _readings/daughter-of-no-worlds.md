@@ -49,5 +49,3 @@ This novel presents rich polarities ripe for exploration. On one hand, the roman
 - What role does the gothic atmosphere play in shaping your engagement with the narrative?  
 - In what ways does the depiction of power dynamics challenge or reinforce traditional fantasy tropes?  
 - How do the content warnings shape your reading experience, and do they alter your interpretation of the romantic elements?
-
-#TheOrchidRoom #fantasyromance #darkromance #CarissaBroadbent #DaughterOfNoWorlds

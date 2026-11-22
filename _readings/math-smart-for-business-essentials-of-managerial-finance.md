@@ -18,7 +18,6 @@ tags:
   - managerial
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -42,5 +41,3 @@ The blend of educational elements with thriller aesthetics raises intriguing que
 - Can a book straddle the line between instructional and thrilling without losing its efficacy in either domain?  
 - What are the implications of character development in a finance-focused narrative?  
 - Is the conclusion of the book satisfying given its thriller framework, or does it leave the reader wanting more emotional depth?  
-
-#LiteraryAnalysis #darkthriller #finance #business #managerial #TheOrchidRoom

@@ -6,7 +6,7 @@ dek: ""
 number: R240
 sort_key: 240
 date: 2026-01-26
-date_read: 2015-09-19
+date_read: 2024-09-19
 category: stalker-obsession
 cover: /assets/readings/dirty-little-saint.jpg
 spice: 5
@@ -53,5 +53,3 @@ The novel invites polarizing discussions on the nature of obsession in relations
 - In what ways do you think Violet's writing style impacts your emotional response to the characters?
 - Does the resolution of the story feel earned, or does it leave unresolved tensions that undermine the narrative?
 - How do you reconcile the gothic elements with the contemporary setting in this tale of dark romance?
-
-#TheOrchidRoom #DirtyLittleSaint #darkromance #gothic #literaryanalysis

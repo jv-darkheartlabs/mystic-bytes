@@ -48,5 +48,3 @@ This novel offers fertile ground for debate, particularly in its portrayal of ra
 - Does the narrative’s resolution undermine or enhance the complexity of the characters’ struggles?  
 - How do Quinn and Rhimes’ stylistic choices influence your engagement with the story?  
 - What does this novel suggest about the nature of power in romance, especially for marginalized figures?
-
-#TheOrchidRoom #fantasyromance #bridgerton #darkromance #literaryanalysis

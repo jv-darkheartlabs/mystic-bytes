@@ -21,7 +21,6 @@ tags:
   - dystopian
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The novel's exploration of mental illness and institutional abuse invites polari
 - In what ways does McMurphy's rebellion resonate with contemporary struggles against authority?  
 - Is the ending of the novel a triumph or a tragedy for individualism?  
 - How does the narrative’s style affect your emotional engagement with the characters?  
-
-#LiteraryAnalysis #darkthriller #psychological #classic #theorchidroom

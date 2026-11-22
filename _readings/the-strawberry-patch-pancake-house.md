@@ -6,7 +6,7 @@ dek: "Love blossoms in the most unexpected places."
 number: R606
 sort_key: 606
 date: 2026-03-07
-date_read: 2021-06-10
+date_read: 2025-06-10
 category: fantasy-romance
 cover: /assets/readings/the-strawberry-patch-pancake-house.jpg
 spice: 2
@@ -43,5 +43,3 @@ While *The Strawberry Patch Pancake House* charms with its picturesque setting a
 - In what ways does the setting influence your perception of the characters’ relationships?  
 - Can a predictable plot still resonate if the prose is engaging enough?  
 - What role does food play in romantic narratives, and how effectively does this book use it as a metaphor for love?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #cozy

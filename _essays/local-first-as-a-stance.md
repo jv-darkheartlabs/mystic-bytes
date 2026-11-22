@@ -21,7 +21,7 @@ brief:
 
 I draft mystic-bytes essays as Markdown on disk. That sounds obvious until you remember how easy it is to live in a hosted editor. One evening a provider's auth degraded — not a clean outage, worse: intermittent 401s that looked like I had mistyped a password. The draft existed in a browser tab. I could not save. I could not export without signing in. The words were mine. The gate was not.
 
-That session split the pipeline for good. Files in the repo are the source of truth. I preview locally on Fedora. Cursor edits the buffer that git already sees. Publish is a git push and a Jekyll build, not a live tether to someone else's IdP. Auckland 2026 does not change the custody story. A laptop that works offline still has to work when the ferry Wi-Fi dies.
+That session split the pipeline for good. Files in the repo are the source of truth. I preview locally on Fedora. The model edits the buffer that git already sees. Publish is a git push and a Jekyll build, not a live tether to someone else's IdP. A laptop that works offline still has to work when the ferry Wi-Fi dies.
 
 The collection became local-first by accident of git. The philosophy caught up to the architecture. Ink & Switch had already named the stance. I had been practicing a thin version of it every time I refused to keep the only copy in a tab.
 
@@ -39,7 +39,7 @@ I keep Nightbind operational truth in Postgres I can dump. I keep theme tokens a
 
 Sovereignty is not anti-cloud. Sync is valuable. Offsite backups are valuable. Collaboration is valuable. The stance is default custody: the user agent owns the primary copy. The cloud is a replica you can inspect. If export requires a support ticket, you do not own the work. You rent a view of it.
 
-Cursor complicates the picture without changing the rule. A model in the loop can rewrite a file you still possess. That is fine. A model that only persists inside a vendor workspace is another landlord. I let Cursor touch mystic-bytes because the buffer is a file. I do not let a chat transcript become the only draft.
+The model complicates the picture without changing the rule. A model in the loop can rewrite a file you still possess. That is fine. A model that only persists inside a vendor workspace is another landlord. I let the model touch mystic-bytes because the buffer is a file. I do not let a chat transcript become the only draft.
 
 ## Tradeoffs
 

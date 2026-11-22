@@ -25,7 +25,7 @@ Python is the language I open when the job is to join two formats before morning
 
 mystic-bytes keeps inventory work in Python because YAML, dates, and path math are boring in the best way. `scripts/writing/assign-shelf-numbers.py` walks journal and wellness posts, writes `number` and `sort_key`, and stops. `scripts/writing/generate-manifest.py` stamps date bands onto a writing manifest from folder names and a handful of flagship paths. Neither started as a package. Both started as "just a script" with a shebang and a `from pathlib import Path`.
 
-The footgun was not syntax. It was the lie that a file with imports is not a module. I ran the shelf-number script from `_essays/` once, Cursor-complete in the loop, and watched it miss `ROOT` because `Path(__file__).resolve().parents[2]` assumed a layout the shell had left. A later pass added `from __future__ import annotations` and a docstring that claimed the script was the interface. Packaging would have made the layout explicit. A one-file operator on a Fedora box in the Auckland 2026 window did not want a `pyproject.toml` ceremony in the middle of a batch. So the constraint stayed: runnable from the repo, no silent `sys.path` hacks, document the cwd in the header.
+The footgun was not syntax. It was the lie that a file with imports is not a module. I ran the shelf-number script from `_essays/` once, Cursor-complete in the loop, and watched it miss `ROOT` because `Path(__file__).resolve().parents[2]` assumed a layout the shell had left. A later pass added `from __future__ import annotations` and a docstring that claimed the script was the interface. Packaging would have made the layout explicit. A one-file operator on a Fedora box did not want a `pyproject.toml` ceremony in the middle of a batch. So the constraint stayed: runnable from the repo, no silent `sys.path` hacks, document the cwd in the header.
 
 They call this pragmatism. It is, until the second script imports the first by copying functions instead of declaring a package.
 
@@ -33,7 +33,7 @@ They call this pragmatism. It is, until the second script imports the first by c
 
 The Python import system is the language's theory of how code finds code: `sys.path`, finders, loaders, `sys.modules` as the cache, packages as directories with `__init__.py` (or namespace packages without it). A script you execute as `__main__` is not on that chain the way an installed package is. If you pretend otherwise, you get the mystic-bytes class of bug: it works on your machine because you always run it from the directory the comment forgot to name.[^1]
 
-PEP 8 is a style guide, not a compiler. I follow it in these scripts because Cursor will invent a third import style in the same file if I do not pick one. The point is a shared grep surface so a one-file operator stays readable when the batch is fourteen hundred covers and you are tired.[^2]
+PEP 8 is a style guide, not a compiler. I follow it in these scripts because the model will invent a third import style in the same file if I do not pick one. The point is a shared grep surface so a one-file operator stays readable when the batch is fourteen hundred covers and you are tired.[^2]
 
 Library density is why the job ships. Dates, JSON, pathlib, argparse, and re live in the stdlib. PyPI fills the rest. That is why I did not write a YAML parser. It is also why a "small" script can grow a virtualenv you never declared. If the job is inventory, pin what you import. If you only need the stdlib, say so in the header so the next clone does not `pip install` folklore.
 
@@ -47,7 +47,7 @@ On Fedora I run these with `python3` and a shebang. No conda. No mystery `python
 
 **Stdlib vs PyPI.** Stdlib glue is boring and present. Third-party glue is faster until the pin drifts. mystic-bytes inventory scripts stay on stdlib on purpose. Vision and cover work can pull more; the writing numbers should not.
 
-**Cursor speed vs import hygiene.** Completions will add an import that pulls a library you do not own. Read the import block before you run.
+**Model speed vs import hygiene.** Completions will add an import that pulls a library you do not own. Read the import block before you run.
 
 **When "just a script" is correct.** One file, one job, stdlib only, documented cwd. The day it grows a sibling, you owe the import system a package.
 

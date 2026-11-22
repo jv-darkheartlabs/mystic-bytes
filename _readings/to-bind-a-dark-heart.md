@@ -49,5 +49,3 @@ The interplay of obsession and power dynamics presents intriguing polarities wit
 - Is the dual perspective effective, or does it dilute the intensity of the characters’ experiences?  
 - What does the treatment of obsession reveal about the nature of desire in this world?  
 - How do you feel about the unresolved plot threads at the end of the book?
-
-#TheOrchidRoom #fantasyromance #darkromance #sands_of_maioris #literaryanalysis

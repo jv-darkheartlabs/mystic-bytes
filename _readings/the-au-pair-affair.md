@@ -7,7 +7,7 @@ dek: "A Novel"
 number: R1478
 sort_key: 1478
 date: 2026-06-10
-date_read: 2017-05-07
+date_read: 2025-05-07
 category: forbidden-love
 cover: /assets/readings/the-au-pair-affair.jpg
 spice: 4
@@ -44,5 +44,3 @@ Tessa Bailey's **The Au Pair Affair** deftly navigates the intersections of love
 - Are the characters' actions justifiable within the framework of their emotional journeys, or do they perpetuate harmful stereotypes?  
 - How effective is the resolution in addressing the complexities of their relationship?  
 - What role does societal judgment play in shaping the characters' decisions and desires?
-
-#TheOrchidRoom #forbiddenlove #darkromance #hockeyromance #foundfamily

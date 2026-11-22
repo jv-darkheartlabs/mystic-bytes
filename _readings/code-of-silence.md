@@ -51,5 +51,3 @@ While *Code of Silence* offers a gripping narrative, it also presents polarities
 - In what ways does the book challenge or reinforce traditional tropes associated with arranged marriages?  
 - Is the ending a satisfying culmination of character arcs, or does it lean too heavily into fantasy?  
 - How do the content warnings shape your reading experience and interpretation of the narrative?
-
-#TheOrchidRoom #arrangedmarriage #darkromance #mafia #contractmarriage

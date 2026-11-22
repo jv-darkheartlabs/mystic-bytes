@@ -19,7 +19,6 @@ tags:
   - animal characters
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Potter’s **The Tale of Peter Rabbit** provokes a rich dialogue about the natur
 - Is the abrupt ending a flaw or a deliberate choice to provoke thought about consequences?
 - How do Potter's animal characters serve as a lens through which we can explore human behaviors and societal norms?
 - Can we consider Peter Rabbit a gothic figure, and what does that say about the nature of childhood stories?
-
-#TheOrchidRoom #gothic #horrorromance #childrensliterature #BeatrixPotter

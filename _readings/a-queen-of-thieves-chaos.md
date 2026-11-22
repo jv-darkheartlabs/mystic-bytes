@@ -44,5 +44,3 @@ The novel's moral complexity and the blurry moral compass of its characters will
 - How does Tucker's use of chaos as a theme reflect contemporary societal issues?  
 - In what ways does the romantic subplot enhance or detract from the overarching narrative of power and betrayal?  
 - How effective was the shifting perspective in enhancing or complicating character development?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #KATucker

@@ -7,7 +7,7 @@ dek: "Savage Lands Book Five"
 number: R282
 sort_key: 282
 date: 2026-01-30
-date_read: 2021-06-10
+date_read: 2022-06-10
 category: vampire-paranormal
 cover: /assets/readings/blood-lands.jpg
 spice: 4
@@ -51,5 +51,3 @@ The interplay of desire and survival presents a rich tapestry for discussion, pr
 - In what ways does Brown's portrayal of power dynamics challenge or reinforce traditional vampire tropes?  
 - Which character's arc resonated most with you, and why?  
 - How does the novel's atmosphere contribute to its thematic depth?
-
-#TheOrchidRoom #BloodLands #StaceyMarieBrown #vampire #darkromance #urbanfantasy

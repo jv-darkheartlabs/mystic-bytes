@@ -47,5 +47,3 @@ The book elicits strong feelings regarding the intersection of love and violence
 - Is the ending of **Noble Prince** an authentic reflection of the characters’ journeys, or does it feel like a concession to genre expectations?  
 - How do the themes of loyalty and betrayal resonate in today’s societal context?  
 - Do you find the balance between dark themes and romance satisfying, or does it lean too heavily in one direction?
-
-#TheOrchidRoom #mcromance #darkromance #NoblePrince #DevneyPerry

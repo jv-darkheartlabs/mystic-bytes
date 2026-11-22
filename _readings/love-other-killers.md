@@ -48,5 +48,3 @@ However, while the clever prose shines, certain character motivations occasional
 - In what ways does the juxtaposition of romance and suspense affect the reader's engagement with the characters?  
 - Is the resolution of the romantic tension satisfying, or does it leave you wanting more depth?  
 - How does the balance of dark humor influence your perception of love in the context of danger?
-
-#TheOrchidRoom #enemiestolovers #darkromance #romanticcomedy #thriller

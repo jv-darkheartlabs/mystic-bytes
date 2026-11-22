@@ -7,7 +7,7 @@ dek: ""
 number: R346
 sort_key: 346
 date: 2026-02-07
-date_read: 2011-07-13
+date_read: 2019-07-13
 category: sff
 cover: /assets/readings/recursion.jpg
 content_warnings:
@@ -41,5 +41,3 @@ Characterization excels in the depiction of the central figures, particularly Ba
   - In what ways does *Recursion* reflect contemporary anxieties about technology and identity?
   - Can the emotional journey of the characters redeem the mechanical flaws of the story, or do they overshadow them?
   - What lingering questions remain about the implications of memory manipulation on personal identity?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #romanticsuspense #TheOrchidRoom

@@ -43,5 +43,3 @@ However, the thematic exploration of trauma, while compelling, sometimes teeters
 - Does the ending undermine or reinforce the novel’s themes of redemption?  
 - How do the dual POVs enhance or complicate the reader’s engagement with the characters?  
 - What are the implications of presenting forbidden love as a path to healing?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #wreckedseries #literaryanalysis

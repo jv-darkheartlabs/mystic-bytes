@@ -22,7 +22,6 @@ tags:
   - struggle
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The novel's exploration of social issues through a dark lens raises significant 
 - What role does family play in the survival of the characters?
 - How does Steinbeck's perspective on societal responsibility resonate today?
 - In what ways can we interpret the violence depicted in the novel as reflective of the era's broader societal failings?
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #AmericanLiterature

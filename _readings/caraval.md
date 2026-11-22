@@ -46,5 +46,3 @@ The dichotomy of escapism versus the harsh realities of desire is ripe for debat
 - In what ways does the magical setting amplify or complicate the characters’ emotional journeys?  
 - Does the ending of *Caraval* offer a satisfying resolution, or does it leave unresolved questions about agency and consequence?  
 - How does the interplay between illusion and reality shape our understanding of the characters’ motivations?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #caraval

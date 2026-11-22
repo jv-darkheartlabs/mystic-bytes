@@ -48,5 +48,3 @@ This novel boldly confronts the intricacies of power dynamics in relationships, 
 - Are the violent elements justified by the narrative, or do they overshadow the romantic themes?  
 - How does the non-linear timeline affect your connection to the characters?  
 - What unresolved questions about the nature of desire and power linger after the last page?
-
-#TheOrchidRoom #vampire #darkromance #gothic #literaryanalysis

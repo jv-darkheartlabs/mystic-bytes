@@ -49,5 +49,3 @@ Mafi's blending of romance and political intrigue invites a diverse array of int
 - Are the resolutions in the narrative satisfying, or do they leave lingering questions about the characters’ fates?  
 - In what ways does Mafi’s cultural backdrop influence the reader's experience of the themes presented?  
 - How do you feel about the pacing and structure of the novel? Does it serve the story or hinder it?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #TheseInfiniteThreads

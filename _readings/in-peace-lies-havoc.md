@@ -47,5 +47,3 @@ The thematic explorations in *In Peace Lies Havoc* invite rich discussion, parti
 - Do you believe the structure of the narrative serves to heighten the emotional stakes, or does it detract from character development?  
 - How does Jones’s handling of dark themes compare to other authors in the genre?  
 - What unresolved questions or biases linger after the final page?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #AmoJones

@@ -7,7 +7,7 @@ dek: "Boys of Tommen #4"
 number: R318
 sort_key: 318
 date: 2026-02-03
-date_read: 2021-06-10
+date_read: 2023-06-10
 category: bully-romance
 cover: /assets/readings/redeeming-6.jpg
 spice: 4
@@ -42,5 +42,3 @@ The novel's structure is particularly noteworthy, employing a dual perspective t
 - In what ways does Walsh's writing style enhance or detract from the emotional weight of the story?  
 - Is the ending of *Redeeming 6* a true redemption, or does it gloss over the darker realities of the characters' experiences?  
 - How does this book compare to the author's previous works in terms of thematic depth and character development?
-
-#TheOrchidRoom #bullyromance #darkromance #boys of tommen #literaryanalysis

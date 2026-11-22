@@ -45,5 +45,3 @@ This novel invites a spectrum of interpretations, particularly around its portra
 - Are the secondary characters effective in enriching the protagonist’s journey, or do they serve merely as plot devices?  
 - How does the ending affect your overall perception of the narrative’s message?  
 - What lingering questions do you have about the protagonist's fate and the implications of her choices?
-
-#TheOrchidRoom #gothic #horrorromance #asylum #darkheartlabs

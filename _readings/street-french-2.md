@@ -18,7 +18,6 @@ tags:
   - suspense
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -41,5 +40,3 @@ The novel's interplay between crime and romance generates compelling discussions
 - Are the characters relatable, or do they fall into cliché?
 - In what ways does the urban setting contribute to or detract from the narrative tension?
 - Is the ending satisfying, or does it leave too many questions unanswered?
-
-#LiteraryAnalysis #darkthriller #romanticsuspense #crime #mystery #theorchidroom

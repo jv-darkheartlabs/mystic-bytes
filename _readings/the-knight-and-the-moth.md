@@ -6,7 +6,7 @@ dek: ""
 number: R950
 sort_key: 950
 date: 2026-04-14
-date_read: 2017-08-16
+date_read: 2025-08-16
 category: fantasy-romance
 cover: /assets/readings/the-knight-and-the-moth.jpg
 spice: 3
@@ -42,5 +42,3 @@ The interplay between light and dark in themes of love and sacrifice can polariz
 - Do the pacing and structure enhance or detract from the overall narrative experience?
 - What role does the fantasy setting play in shaping the characters' emotional landscapes?
 - How does the ending resonate with your own understanding of love's complexities?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #theknightandthemoth

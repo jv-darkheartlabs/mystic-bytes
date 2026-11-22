@@ -1,7 +1,7 @@
 ---
 layout: film
 title: "The Great Gatsby"
-dek: "2013 Luhrmann spectacle adaptation of Fitzgerald's Jazz Age tragedy."
+dek: "Luhrmann's Gatsby throws the party Fitzgerald only described — and loses the loneliness that was the point of it."
 number: F0012
 sort_key: 12
 date: 2026-03-04
@@ -16,7 +16,7 @@ screenwriters:
   - "Baz Luhrmann"
   - "Craig Pearce"
 cinematographer: "Simon Duggan"
-composer: "Various Artists"
+composer: "Craig Armstrong"
 cast:
   - "Leonardo DiCaprio"
   - "Tobey Maguire"
@@ -43,15 +43,13 @@ lane: canon
 ---
 
 ## Hook & thesis
-Baz Luhrmann's 2013 adaptation of *The Great Gatsby* seeks to distill the opulence of Fitzgerald’s Jazz Age tragedy into a visual feast that ultimately struggles to capture its deeper existential despair. **Verdict:** This film is a glittering façade that fails to unearth the dark heart of the American Dream.
+Luhrmann films the Jazz Age at full volume: hip-hop on the soundtrack, parties as demolition derbies of light, DiCaprio's Gatsby lit like a product launch. What the volume drowns is Nick — his reflective voice diluted until the critique becomes a toast. **Verdict:** A glittering façade with a real performance trapped inside it: spectacle that illustrates Fitzgerald's excess and evades his despair, ending in a hollow echo where the novel put a haunting.
 
 ## The contextual pivot
-Positioned amidst a resurgence of interest in Roaring Twenties aesthetics, Luhrmann's adaptation is layered with a modern sensibility that speaks to today's cultural obsessions with wealth and excess. As a director known for his lavish visual style in films like *Moulin Rouge!* and *Romeo + Juliet*, Luhrmann employs a frenetic energy that parallels the source text’s frenetic social milieu. Yet, the silent, invisible audience grappling with their own aspirations and disillusionments finds no solace in this retelling, as it often prioritizes spectacle over substance.
+*The Great Gatsby* opened Cannes in May 2013 as the most argued-about adaptation of the young century: Luhrmann, cinema’s maximalist, taking the most sentence-worshipped novel in American literature — a book whose reputation rests on prose so fine that any visualization is a demotion — and filming it in 3D, with a Jay-Z-produced hip-hop soundtrack, from a script that literalizes Nick’s narration as a sanatorium memoir. The argument around it was really about ownership: *Gatsby* belongs to the American classroom, and Luhrmann treated it as public property in the other sense — a party everyone was invited to enjoy rather than a text everyone was assigned to revere. It made its money, divided its critics into camps that are still standing, and became the definitive Gatsby for the generation that met it first — which is either the adaptation’s triumph or Fitzgerald’s final irony: the novel about the emptiness of the spectacle, surviving as spectacle.
 
 ## Deep-dive critique
-While the film's cinematography dazzles with its vibrant colors and dizzying camera work, a fundamental flaw lies in its pacing and structure, which often prioritize style over narrative clarity. The editing feels erratic, matching the rhythm of contemporary music—an audacious choice that clashes with the melancholic undertones of the original text. DiCaprio's portrayal of Gatsby is a magnetic performance, yet it borders on caricature, lacking the depth that Fitzgerald's prose bestowed upon the character's inner turmoil. Carey Mulligan’s Daisy is enchanting but rendered too ethereal, missing the complex emotional layers needed to ground her tragic fate.
-
-The score, infused with modern beats, enhances the film's vibrancy but can overshadow the poignant themes of love and loss that resonate deeply within the novel. The mise-en-scène, while visually arresting, often distracts from the core narrative—turning Gatsby's longing into a mere backdrop for excess rather than a reflection of lost dreams. The film's conclusion, though visually stunning, feels unearned; it fails to encapsulate the profound disillusionment that permeates the source material, leaving a hollow echo instead of a haunting resonance.
+Duggan’s cinematography and Luhrmann’s editing run the film at party tempo for its first half — whip pans, digital swoops across a CGI Long Island, parties staged as demolition derbies of light and confetti — and the technique is an argument: jazz-age excess rendered in the grammar of a music video, on the theory that jazz itself was 1922’s pop shock and deserves translating, not embalming. The theory works best in the parties and worst everywhere else, because Fitzgerald’s novel is mostly aftermath — mornings after, a valley of ashes, a man alone in a mansion — and the film has no tempo for aftermath until the final act forces one. DiCaprio’s Gatsby is the real performance trapped inside the spectacle: the ‘old sport’ as constructed persona, the famous first smile held a beat too long, the Plaza confrontation played as the constructed man cracking — longing visible precisely where the production design is loudest. Maguire’s Nick is the casualty the ledger predicts: narration diluted from judgment to admiration, the sanatorium frame literalizing what the novel keeps ambiguous, so the critique’s author becomes the hero’s memorialist. Mulligan’s Daisy is ethereal by design — a voice that sounds like money, and little else permitted — where the novel’s Daisy is careless in ways that kill people; Edgerton’s Tom, brutish and frightened, comes closest to the book’s moral weather. Armstrong’s score, threading period pastiche through the Jay-Z-curated songs, is better than its reputation: ‘Young and Beautiful’ alone does more for Daisy’s tragedy than her dialogue. The ending, though, lands hollow where the novel haunts, the green light rendered as an effect rather than a distance. Fitzgerald’s parties were indictments that read like invitations. Luhrmann sends the invitations, gorgeously, and loses the indictments in the mail.
 
 ## Adaptation ledger
 - **Narrative Perspective:** The film adopts Nick Carraway's first-person perspective but dilutes his reflective voice, diminishing the novel's introspective quality.
@@ -61,10 +59,12 @@ The score, infused with modern beats, enhances the film's vibrancy but can overs
 - **Use of Modern Music:** The contemporary soundtrack, while engaging, distracts from the period's authenticity and the novel's thematic depth.
 
 ## Discussion launchpad
-Luhrmann’s *The Great Gatsby* invites polarities around the nature of adaptation, particularly in how visual storytelling can both elevate and obscure narrative depth. The juxtaposition of the novel's subtle critique of wealth against the film's bold spectacle raises questions about fidelity and interpretation.
+The argument: whether *Gatsby* can survive being enjoyed. Fitzgerald's parties are indictments that read like invitations; Luhrmann simply sends the invitations. The room divides on whether the film exposes our appetite for the spectacle or just feeds it.
 
-**Questions for the room:**  
-- How does Luhrmann's modern aesthetic influence our interpretation of Gatsby’s tragedy?  
-- In what ways does the film’s emphasis on visual grandeur undermine the novel’s thematic intricacies?  
-- Can a film truly capture the essence of a literary work if it prioritizes spectacle over substance?  
-- What does this adaptation say about contemporary society’s relationship with wealth and aspiration?
+**Questions for the room:**
+
+- DiCaprio's Gatsby — longing or caricature, and where exactly is the line?
+- Mulligan's Daisy is simplified to ethereality. What does the film need her to be, and what does the novel need her to be?
+- The modern soundtrack: a translation of jazz's original shock, or noise laid over melancholy?
+- Nick's narration is diluted from reflection to admiration. What happens to a critique when the critic becomes a fan?
+- The ending lands hollow. Failure of nerve — or the most Fitzgerald thing in the film?

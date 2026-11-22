@@ -6,7 +6,7 @@ dek: "A Novel"
 number: R877
 sort_key: 877
 date: 2026-04-06
-date_read: 2016-07-13
+date_read: 2023-07-13
 category: enemies-to-lovers
 cover: /assets/readings/hello-stranger.jpg
 spice: 3
@@ -45,5 +45,3 @@ While *Hello Stranger* offers a compelling exploration of love, it is not withou
 - In what ways do you think comedic elements serve or hinder the emotional journey of the characters?  
 - Are there moments where you felt the tension between the enemies trope and the ultimate romantic resolution was particularly well-handled or poorly executed?  
 - How do you interpret the ending in relation to the characters’ development throughout the story?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

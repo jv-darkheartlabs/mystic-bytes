@@ -21,7 +21,6 @@ tags:
   - surrealism
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Kafka’s portrayal of transformation and alienation can ignite passionate discu
 - Which elements of the story best illustrate the struggle between individual desires and societal demands?  
 - How does the use of surrealism in **The Metamorphosis** influence your emotional response to Gregor’s plight?  
 - What aspects of Kafka's writing do you believe contribute most significantly to the novella's enduring impact?  
-
-#TheOrchidRoom #gothic #horrorromance #transformation #alienation

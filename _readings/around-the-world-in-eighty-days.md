@@ -19,7 +19,6 @@ tags:
   - exploration
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -44,5 +43,3 @@ The novel's balance of adventure and social commentary is likely to provoke dive
 - Can Verne's treatment of female characters be reconciled with his overall themes of autonomy and freedom?  
 - What role does the concept of time play in shaping the characters' journeys?  
 - How does the novel's adventurous spirit resonate with contemporary issues of exploration and travel?
-
-#LiteraryAnalysis #darkthriller #adventure #classic #theorchidroom

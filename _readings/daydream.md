@@ -45,5 +45,3 @@ The blend of light-hearted banter with darker themes creates a fertile ground fo
   - Are there moments where the dialogue slips into cliché, and how does that impact your overall enjoyment?  
   - How do the themes of ambition and emotional vulnerability resonate with your own experiences of love?  
   - Is the resolution satisfying enough, or does it leave too much unaddressed?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

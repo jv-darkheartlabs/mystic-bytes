@@ -22,7 +22,6 @@ tags:
   - society critique
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ The polarities in *The Running Man* lie in its commentary on entertainment cultu
 - Does the ending redeem or condemn Richards’ character arc?  
 - How effective is the first-person perspective in conveying the themes of survival and desperation?  
 - Can the societal critique in the novel be applied to contemporary issues in today's entertainment landscape?
-
-#LiteraryAnalysis #darkthriller #societycritique #survival #theorchidroom

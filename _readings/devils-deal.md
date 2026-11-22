@@ -7,7 +7,7 @@ dek: "Jaga and the Devil — Book 1"
 number: R140
 sort_key: 140
 date: 2026-01-16
-date_read: 2023-08-16
+date_read: 2024-08-16
 category: forbidden-love
 cover: /assets/readings/devils-deal.jpg
 spice: 4
@@ -44,5 +44,3 @@ Characterization is compelling, particularly in Jaga, whose internal conflict be
 - Can the pacing issues in the latter half of the book affect your overall perception of the characters’ arcs?  
 - How does *Devil's Deal* compare to other works in the forbidden love genre regarding its treatment of darker themes?  
 - What unresolved tensions linger after turning the final page?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

@@ -48,5 +48,3 @@ The exploration of power imbalance and the seductive lure of wealth positions "D
 - How do the characters' flaws contribute to or undermine their relationship?  
 - Does the ending offer a satisfying resolution, or does it leave too many ethical questions unresolved?  
 - In what ways does Nicole's writing challenge or conform to the expectations of dark-billionaire narratives?
-
-#TheOrchidRoom #darkbillionaire #darkromance #bostonbillionaires #literaryanalysis

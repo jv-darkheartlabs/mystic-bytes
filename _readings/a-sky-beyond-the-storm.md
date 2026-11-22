@@ -49,5 +49,3 @@ Tahir's exploration of the interplay between love and duty raises questions that
 - In what ways do the character's sacrifices challenge traditional notions of heroism?  
 - Can the blend of multiple perspectives enhance or detract from the emotional impact of the story?  
 - How does **A Sky Beyond the Storm** compare to other fantasy romances you’ve read in terms of depth and moral complexity?
-
-#TheOrchidRoom #fantasyromance #darkromance #epicfantasy #literaryanalysis

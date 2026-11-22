@@ -20,7 +20,6 @@ tags:
   - books about books
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Moers invites us to contemplate the duality of literature as both a sanctuary an
   - Do you find the ending satisfying, or does it leave too many threads unresolved?  
   - How do the book's themes resonate with contemporary issues surrounding literature and consumption?  
   - What role does the fantastical setting play in amplifying the tension between love and obsession?
-
-#TheOrchidRoom #gothic #horrorromance #literaryfiction #booksaboutbooks

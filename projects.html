@@ -1,11 +1,23 @@
 ---
 layout: default
-title: Selected work
-description: "Selected websites, practical tools and writing by Jennifer Picado."
+title: Projects
+description: "Projects from Dark Heart Labs — accessible components, practical tools, and software, by Jennifer."
 permalink: /projects/
 ---
-<div class="container career-page"><header class="signal-header"><p class="page-eyebrow">Selected work</p><h1 class="page-title">Selected work</h1><p class="career-intro">Writing, organizing information, and making practical tools easier to use.</p></header>
+<div class="container career-page"><header class="signal-header"><p class="page-eyebrow">Projects</p><h1 class="page-title">Projects</h1><p class="career-intro">Writing, organizing information, and making practical tools easier to use.</p></header>
 <section class="career-section"><article class="panel career-card"><h2>Dark Heart Labs website</h2><p>This site brings together writing, experience, a résumé and personal collections. The work includes organizing information, maintaining pages and navigation, and keeping the site usable across screen sizes.</p><p><a href="https://github.com/jv-darkheartlabs/mystic-bytes">Website source →</a> · <a href="{{ '/media/written/journal/essays/' | relative_url }}">Technical essay archive →</a></p></article></section>
+<section class="career-section" aria-labelledby="featured-work">
+  <h2 id="featured-work">Featured</h2>
+  <div class="career-grid">
+    {% for project in site.data.projects.featured %}
+    <article class="panel career-card">
+      <h3><a href="{{ project.demo | default: project.url | escape }}">{{ project.name | escape }}</a></h3>
+      <p>{{ project.text | escape }}</p>
+      <p>{% if project.demo %}<a href="{{ project.demo | escape }}">{% if project.demo_label %}{{ project.demo_label | escape }}{% else %}View demo{% endif %} →</a>{% if project.url %} · {% endif %}{% endif %}{% if project.url %}<a href="{{ project.url | escape }}">Source →</a>{% endif %}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
 <nav class="career-section" aria-label="Project topics">
   <p>Browse by topic: <a href="#software">Software</a> · <a href="#saas">SaaS</a> · <a href="#websites">Websites</a> · <a href="#informational">Informational</a></p>
 </nav>

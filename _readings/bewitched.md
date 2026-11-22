@@ -48,5 +48,3 @@ The thematic success lies in its exploration of the duality of love and control.
 - In what ways does the world-building serve or hinder the thematic exploration of love as both a source of strength and vulnerability?  
 - Can the cliffhanger ending be justified as a narrative strategy, or does it undermine the story's impact?  
 - How do the themes of power and desire resonate with your own perceptions of romance in literature?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #bewitched

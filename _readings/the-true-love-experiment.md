@@ -6,7 +6,7 @@ dek: ""
 number: R869
 sort_key: 869
 date: 2026-04-05
-date_read: 2020-08-16
+date_read: 2023-08-16
 category: enemies-to-lovers
 cover: /assets/readings/the-true-love-experiment.jpg
 spice: 4
@@ -40,5 +40,3 @@ While the novel excels in character development and thematic resonance, it raise
 - Do you find the ending satisfying, or does it reinforce the tropes it seeks to subvert?  
 - How does the portrayal of ambition in the characters impact your perception of their romantic choices?  
 - What does this novel say about the nature of love in the modern world?
-
-#TheOrchidRoom #enemiestolovers #darkromance #literaryanalysis #darkheartlabs

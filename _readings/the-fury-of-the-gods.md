@@ -7,7 +7,7 @@ dek: ""
 number: R724
 sort_key: 724
 date: 2026-03-20
-date_read: 2019-07-13
+date_read: 2024-07-13
 category: fantasy-romance
 cover: /assets/readings/the-fury-of-the-gods.jpg
 spice: 4
@@ -47,5 +47,3 @@ The juxtaposition of fierce romantic bonds against a backdrop of impending doom 
 - Do you find the unresolved threads at the end empowering or frustrating?  
 - How effectively do you think the emotional stakes are tied to the fantasy elements?  
 - Which moments of tension resonated most with you, and why?  
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #literaryanalysis

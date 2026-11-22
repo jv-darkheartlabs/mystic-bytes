@@ -44,5 +44,3 @@ The tension between romantic idealism and the sometimes harsh realities of fanta
   - Are the character arcs satisfying enough, or do they rely too heavily on genre tropes?  
   - What implications does the unresolved ending have for the characters and readers alike?  
   - How does the portrayal of emotional intensity affect your connection to the characters?
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #darkheartlabs

@@ -6,7 +6,7 @@ dek: "The Maze Runner Series"
 number: R1763
 sort_key: 1763
 date: 2026-07-06
-date_read: 2008-11-25
+date_read: 2010-11-25
 category: ya-fiction
 cover: /assets/readings/the-scorch-trials-the-maze-runner-2.jpg
 content_warnings:
@@ -22,7 +22,6 @@ tags:
   - action
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The balance between action and character development is a potential polarizer, a
 - How effectively does Dashner explore themes of trust and betrayal amidst chaos?  
 - In what ways does the depiction of violence influence your perception of the overall narrative?  
 - Can a sequel be as impactful if it prioritizes plot over character development?  
-
-#LiteraryAnalysis #darkthriller #youngadult #dystopian #TheOrchidRoom

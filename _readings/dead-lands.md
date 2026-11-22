@@ -49,5 +49,3 @@ However, the dialogue occasionally falters, sounding overly contrived in moments
 - Do you believe the ending provides a satisfying resolution, or does it leave too many questions unresolved?  
 - How do the content warnings shape your reading experience and interpretation of the themes?  
 - What role does the setting play in reflecting the characters’ internal struggles?
-
-#TheOrchidRoom #vampire #darkromance #literaryanalysis #urbanfantasy

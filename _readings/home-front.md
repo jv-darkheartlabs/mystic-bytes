@@ -46,5 +46,3 @@ Hannah’s prose is both lyrical and unflinching, capturing the beauty and bruta
 - Does the novel do justice to the experiences of military families, or does it risk sensationalizing their struggles?  
 - How does the ending reflect the realities of healing after trauma, and is it satisfying?  
 - What are the implications of the book's portrayal of deployment on the understanding of family dynamics in times of war?  
-
-#TheOrchidRoom #militaryromance #darkromance #literaryanalysis #darkheartlabs

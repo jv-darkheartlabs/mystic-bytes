@@ -7,7 +7,7 @@ dek: "Some doors are locked for a reason."
 number: R417
 sort_key: 417
 date: 2026-02-14
-date_read: 2012-06-10
+date_read: 2021-06-10
 category: mystery-crime
 cover: /assets/readings/the-locked-door.jpg
 content_warnings:
@@ -47,4 +47,3 @@ The tension in **The Locked Door** lies not only in its plot twists but also in 
 - What implications does the ending have on the themes of secrecy and revelation?  
 
 #LiteraryAnalysis #GothicEdge  
-#TheOrchidRoom #darkthriller #romanticsuspense #domestic

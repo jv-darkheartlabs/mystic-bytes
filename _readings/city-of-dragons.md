@@ -46,5 +46,3 @@ Hobb's *City of Dragons* invites rich discussion about the nature of sacrifice a
 - In what ways does Hobb challenge traditional gender roles through her characters, and how does this resonate with contemporary readers?  
 - Are the emotional stakes raised throughout the novel justified in the end, or do they feel contrived?  
 - Discuss the balance between character-driven narrative and plot in Hobb's writing. Does the pacing serve to enhance or detract from the urgency of the story?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #cityofdragons

@@ -7,7 +7,7 @@ dek: "Edge of Collapse Series — Book Four"
 number: R358
 sort_key: 358
 date: 2026-02-08
-date_read: 2013-10-22
+date_read: 2021-10-22
 category: sff
 cover: /assets/readings/edge-of-anarchy.jpg
 content_warnings:

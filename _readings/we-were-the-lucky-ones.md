@@ -7,7 +7,7 @@ dek: ""
 number: R407
 sort_key: 407
 date: 2026-02-13
-date_read: 2012-05-07
+date_read: 2017-05-07
 category: historical
 cover: /assets/readings/we-were-the-lucky-ones.jpg
 content_warnings:
@@ -47,5 +47,3 @@ The interplay between luck and survival poses a moral complexity that could igni
 - In what ways does the book challenge the reader's preconceived notions of family bonds amidst trauma?
 - What elements of the narrative do you think could have been developed further to deepen the impact?
 - How does Hunter's work compare to other Holocaust literature in terms of emotional resonance and historical accuracy?
-
-#LiteraryAnalysis #GothicEdge #darkthriller #familysaga #TheOrchidRoom

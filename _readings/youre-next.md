@@ -55,5 +55,3 @@ The polarizing element in *You're Next* lies in the intricate dance between roma
 - In what ways does the book challenge your understanding of consent and boundaries in relationships?  
 - What role does the setting play in amplifying the psychological tension throughout the narrative?  
 - How do the content warnings shape your reading experience — do they enhance the story's impact or overshadow it?
-
-#TheOrchidRoom #stalker #obsession #darkromance #psychologicalsuspense

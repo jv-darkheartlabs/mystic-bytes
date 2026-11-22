@@ -52,5 +52,3 @@ The intricacies of desire and power in *Princes of Ash* provoke rich discussion,
 - Does the portrayal of obsession provide insight or perpetuate harmful stereotypes?
 - To what extent do we hold authors accountable for the themes they explore?
 - Is the ending a true resolution, or does it reflect a failure to confront the consequences of the protagonists' actions?  
-
-#TheOrchidRoom #bullyromance #darkromance #PrincesOfAsh #literaryanalysis

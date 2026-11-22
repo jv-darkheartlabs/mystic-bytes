@@ -7,7 +7,7 @@ dek: "Royals of Forsyth"
 number: R019
 sort_key: 019
 date: 2026-01-03
-date_read: 2022-04-04
+date_read: 2025-04-04
 category: bully-romance
 cover: /assets/readings/barons-of-decay.jpg
 spice: 5
@@ -48,5 +48,3 @@ The juxtaposition of power and vulnerability in *Barons of Decay* invites intens
 - Is the ending satisfying enough to warrant the emotional investment in the characters, or does it undermine the narrative's complexity?  
 - Can we separate the allure of the characters' darkness from the morality of their actions, or do we risk normalizing harmful behaviors?  
 - What role does the gothic aesthetic play in shaping our understanding of the characters' desires and fears?  
-
-#TheOrchidRoom #bullyromance #darkromance #royals of forsyth #gothic

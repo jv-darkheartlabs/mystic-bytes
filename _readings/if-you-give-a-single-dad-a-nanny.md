@@ -41,5 +41,3 @@ The novel raises significant questions about love’s ability to transcend socie
 - Do you believe the ending offers a realistic portrayal of their future together?  
 - What are the implications of the power dynamics present in their relationship?  
 - How does Einerson balance romantic tension with ethical dilemmas?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

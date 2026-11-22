@@ -42,5 +42,3 @@ Zapata's novel raises several compelling polarities that could ignite a robust d
 - Did the resolution feel earned, or were there elements that left you wanting more?  
 - How effectively does Zapata balance humor with darker themes?  
 - What does the novel ultimately say about the nature of trust in relationships?
-
-#TheOrchidRoom #enemiestolovers #darkromance #slowburn #literaryanalysis

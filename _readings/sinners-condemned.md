@@ -7,7 +7,7 @@ dek: "Sinners Anonymous — Book Two"
 number: R159
 sort_key: 159
 date: 2026-01-18
-date_read: 2018-09-19
+date_read: 2022-09-19
 category: forbidden-love
 cover: /assets/readings/sinners-condemned.jpg
 spice: 4
@@ -46,5 +46,3 @@ The juxtaposition of love and violence in *Sinners Condemned* can stir intense d
 - In what ways does the backdrop of organized crime shape the narrative’s exploration of love?  
 - Are the characters' moral dilemmas relatable, or do they feel too far removed from reality?  
 - How does the ending challenge or conform to the expectations of the dark romance genre?  
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

@@ -7,7 +7,7 @@ dek: "Of Flesh & Bone Book One"
 number: R265
 sort_key: 265
 date: 2026-01-29
-date_read: 2016-07-13
+date_read: 2022-07-13
 category: vampire-paranormal
 cover: /assets/readings/what-lies-beyond-the-veil.jpg
 spice: 5
@@ -49,5 +49,3 @@ The novel’s exploration of obsession versus love raises compelling questions a
 - Does the ending provide a satisfying resolution, or does it leave too many threads unresolved?  
 - How do the content warnings shape your reading experience, and do they alter your perception of the characters?  
 - What role does the setting play in reinforcing the themes of power and desire?  
-
-#TheOrchidRoom #vampire #darkromance #gothic #literaryanalysis

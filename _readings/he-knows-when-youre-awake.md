@@ -53,5 +53,3 @@ Hensley's novel evokes significant polarities regarding the ethics of obsession 
 - How does the dual perspective shape our empathy (or lack thereof) for the characters?  
 - In what ways does the novel challenge or reinforce stereotypes around mental illness and obsessive behavior?  
 - Does the ambiguous ending enhance or detract from the overall impact of the story?  
-
-#TheOrchidRoom #stalker #obsession #darkromance #psychologicalsuspense

@@ -20,7 +20,6 @@ tags:
   - literary analysis
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ Friedman’s work raises compelling polarities around the nature of love and the
 - In what ways does the setting of Verona operate as more than just a backdrop?  
 - How does the notion of love letters contribute to the narrative's emotional weight?  
 - Can we separate the idealization of love from its darker realities in both Shakespeare's works and Friedman's analysis?
-
-#TheOrchidRoom #forbiddenlove #darkromance #Shakespeare #literaryanalysis

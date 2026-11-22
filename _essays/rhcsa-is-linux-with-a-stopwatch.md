@@ -21,7 +21,7 @@ brief:
 
 ## Context
 
-I daily-drive Fedora. mystic-bytes is markdown and Jekyll. I rebuild this laptop by hand when a disk dies or a country changes. Auckland 2026 is a relocation, not a license transfer. I do not hold RHCSA as a badge I am waving here. I look at EX200 as an institution that gates "can administer Linux": what it forces you to prove, and what a freshly imaged VM will never ask.
+I daily-drive Fedora. mystic-bytes is markdown and Jekyll. I rebuild this laptop by hand when a disk dies or a country changes. I do not hold RHCSA as a badge I am waving here. I look at EX200 as an institution that gates "can administer Linux": what it forces you to prove, and what a freshly imaged VM will never ask.
 
 The public page is blunt. EX200 is performance-based. Tasks without assistance. Configurations must persist after reboot. No internet. No notes. The documentation that ships with the product is available.[^1] You get man pages. You do not get Stack Overflow. The clock is the other examiner.
 

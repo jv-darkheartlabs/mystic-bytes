@@ -51,5 +51,3 @@ While *The Martian* is celebrated for its ingenuity and humor, it also provokes 
 - Are the technical aspects of the story accessible, or do they risk alienating some readers?
 - In what ways does *The Martian* challenge or conform to traditional survival narratives?
 - What is the role of hope in the face of insurmountable odds as depicted in the novel?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #sci-fi #literaryanalysis

@@ -7,7 +7,7 @@ dek: ""
 number: R1152
 sort_key: 1152
 date: 2026-05-06
-date_read: 2015-03-01
+date_read: 2019-03-01
 category: fantasy-romance
 cover: /assets/readings/the-wicked-king.jpg
 spice: 1
@@ -47,5 +47,3 @@ The novel beckons nuanced discussions around the complexity of its characters an
 - What role does betrayal play in shaping the relationships presented in the story, and how does it reflect real-world dynamics?  
 - How does the faerie setting enhance or detract from the emotional stakes at play?  
 - In what ways does Jude's journey resonate with contemporary themes of agency and autonomy?
-
-#TheOrchidRoom #fantasyromance #darkromance #FolkOfTheAir #literaryanalysis

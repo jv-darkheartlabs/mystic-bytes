@@ -1,90 +1,72 @@
+featured:
+  - name: Accessibility Rails Components
+    topic: informational
+    url: https://github.com/jv-darkheartlabs/accessibility-rails-components
+    text: Interface components for Rails, engineered for the eyes actually reading them — interactive color-vision simulations, palette comparisons, and clear status cues.
+    demo: https://accessibility-rails-components.onrender.com/
+  - name: NeuroShell
+    topic: software
+    url: https://github.com/jv-darkheartlabs/NeuroShell
+    text: A macOS terminal project with the documentation doing the guiding — user docs and practical task walkthroughs, kept beside the tool instead of buried under it.
+    demo: https://jv-darkheartlabs.github.io/NeuroShell/
+    demo_label: Illustrated preview
+  - name: Nightbind
+    topic: saas
+    url: https://github.com/jv-darkheartlabs/nightbind
+    text: A sandbox of the Nightbind writing workflow — sample manuscripts, simulated AI suggestions, and nothing to sign up for before you look around.
+    demo: https://nightbind.onrender.com/demo
 additional:
   - name: What Works for Us — A Guide to Life Together
     topic: websites
     url: https://github.com/jv-darkheartlabs/what-works-for-us
-    text: Compare how you’d handle everyday life and big decisions together, from routines and intimacy to long-term plans.
+    text: "Compare notes on the life you’re building: how each of you handles everyday routines, intimacy, and the long-term plans — side by side instead of assumed."
     demo: /demos/what-works-for-us/
     demo_label: Open What Works for Us
-  - name: Accessibility Rails Components
-    topic: informational
-    url: https://github.com/jv-darkheartlabs/accessibility-rails-components
-    text: Accessible interface components with interactive color-vision simulations, palette comparisons and clear status cues.
-    demo: https://accessibility-rails-components.onrender.com/
+    home_link: true
   - name: VECTOR
     topic: saas
     url: https://github.com/jv-darkheartlabs/cursor-vector-coding-architect
-    text: An interactive demonstration of coding architecture and workflow guidance.
+    text: "Coding architecture and workflow guidance, demonstrated interactively: the patterns, the order of operations, the reasoning between them."
     demo: https://vector.darkheartlabs.technology/demo/
-  - name: NeuroShell
-    topic: software
-    url: https://github.com/jv-darkheartlabs/NeuroShell
-    text: A macOS terminal project with user documentation and practical task guidance.
-    demo: https://jv-darkheartlabs.github.io/NeuroShell/
-    demo_label: Illustrated preview
+    home_link: true
   - name: Ask
     topic: websites
     url: https://github.com/jv-darkheartlabs/ask
-    text: An interactive date-proposal microsite with a step-by-step selection flow.
+    text: "A date-proposal microsite with a step-by-step selection flow: the question, asked properly, in stages."
     demo: https://ask.darkheartlabs.technology/demo/
+    home_link: true
   - name: Metal Menders
     topic: websites
     url: https://github.com/jv-darkheartlabs/metalmenders
-    text: A responsive business-information website with service, location and contact details.
+    text: "Services, location, contact details: a business website built responsive, so the information survives the trip from desktop to phone."
     demo: https://jv-darkheartlabs.github.io/metalmenders/
-  - name: Focus Guard
-    topic: saas
-    url: https://github.com/jv-darkheartlabs/focus-guard
-    text: Explore retry-attempt thresholds with fictional requests, pass or throttle decisions and session history. No real traffic is sent.
-    demo: https://jv-darkheartlabs.github.io/focus-guard/
-    demo_label: Interactive simulator
-  - name: PhotoSnail Intel
-    topic: software
-    url: https://github.com/jv-darkheartlabs/photo-snail-intel
-    text: Unofficial Intel-compatible build scripts for PhotoSnail, with practical setup documentation for local photo tagging.
-  - name: MTGA Collection Exporter
-    topic: software
-    url: https://github.com/jv-darkheartlabs/mtga-collection-exporter-options
-    text: Adjust a fictional sample collection and download TXT, JSON or CSV exports. No Arena connection or game-memory access is used.
-    demo: https://jv-darkheartlabs.github.io/mtga-collection-exporter-options/
-    demo_label: Collection simulator
-  - name: Nightbind
-    topic: saas
-    url: https://github.com/jv-darkheartlabs/nightbind
-    text: A fictional writing-workflow sandbox with sample content and simulated AI suggestions, available without an account.
-    demo: https://nightbind.onrender.com/demo
   - name: Service Desk
     topic: saas
-    text: A fictional support-ticket workspace for exploring triage, runbooks, status changes and simulated response-time tracking.
+    text: "A fictional support desk, fully wired for practice: triage, runbooks, status changes, and simulated response-time tracking — every ticket imaginary, the workflows real."
     demo: https://dark-heart-service-desk-demo.onrender.com/
+    home_link: true
   - name: Task Board
     topic: saas
-    text: A fictional project board with sample tasks, status controls, filters and reset. Changes last only for the current page.
+    text: A fictional project board — sample tasks, status controls, filters, and a reset button. Nothing you change outlives the page.
     demo: https://dark-heart-task-board-demo.onrender.com/
   - name: Sample Shop
     topic: websites
-    text: A fictional storefront with a working basket and clearly simulated checkout. No payments or personal details are collected.
+    text: A fictional storefront with a working basket and a clearly simulated checkout — browse, fill, abandon. No payments, no personal details, nothing collected.
     demo: https://dark-heart-shop-demo.onrender.com/
-  - name: Streaming Dashboard
-    topic: informational
-    text: Live charts of simulated readings, with pause, resume and connection-failure examples. No external data feed is used.
-    demo: https://dark-heart-streaming-demo.onrender.com/
   - name: Event Delivery Simulator
     topic: informational
-    text: Step through fictional deliveries, retries, duplicate prevention and failed events held for review. No real webhooks are sent.
+    text: Step through fictional deliveries — retries, duplicate prevention, and failed events held for review. No real webhooks are sent; the failures are all staged, the logic isn’t.
     demo: https://dark-heart-event-simulator.onrender.com/
-  - name: Traceability Explorer
-    topic: informational
-    text: Explore fictional requirements and their component connections, then identify gaps in the sample mappings.
-    demo: https://dark-heart-traceability-demo.onrender.com/
+    home_link: true
   - name: Pipeline QA Lab
     topic: informational
-    text: Follow fixed fictional records through processing stages, inspect rejected records and compare source summaries.
+    text: A pipeline you can audit — fixed fictional records through every stage, the rejected ones open for inspection, source summaries side by side.
     demo: https://dark-heart-pipeline-lab.onrender.com/
   - name: Roles and Permissions Lab
     topic: informational
-    text: Explore fictional roles, simulated session expiry and revocation, and an audit observer. No real accounts or permissions are changed.
+    text: Fictional roles, simulated session expiry and revocation, and an audit observer watching it all. No real accounts or permissions are changed — the kingdom is cardboard, the mechanics are real.
     demo: https://dark-heart-access-lab.onrender.com/
   - name: Linux Hardening Report Lab
     topic: informational
-    text: Review fictional hosts, baseline findings and patch priorities, then compare simulated outcomes. No changes are made to real systems.
+    text: Review fictional hosts against a baseline, rank the patch priorities, compare simulated outcomes — the lab takes the risk so real systems don’t.
     demo: https://dark-heart-hardening-lab.onrender.com/

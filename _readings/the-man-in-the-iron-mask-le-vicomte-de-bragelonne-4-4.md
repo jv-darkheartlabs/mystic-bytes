@@ -19,7 +19,6 @@ tags:
   - political intrigue
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -41,5 +40,3 @@ The novel’s exploration of identity and power dynamics raises significant ques
   - Does the novel's ending provide a satisfying conclusion, or does it leave too much unresolved?  
   - How does Dumas's writing style enhance or detract from the story's darker themes?  
   - What role does historical context play in shaping the characters' motivations throughout the narrative?  
-
-#LiteraryAnalysis #GothicEdge #TheOrchidRoom #darkthriller #historicalclassic

@@ -42,5 +42,3 @@ The interplay of desire and danger in *The Hemlock Queen* invites rich debate, p
 - What role does the setting play in shaping the emotional landscape of the story? Is it a mere backdrop or a character in its own right?  
 - How does Whitten’s use of dual perspective affect your empathy for the characters involved?  
 - Do you find the resolution of the plot satisfying, considering the emotional stakes established earlier in the narrative?
-
-#TheOrchidRoom #fantasyromance #darkromance #thehemlockqueen #literaryanalysis

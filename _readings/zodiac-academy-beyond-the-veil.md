@@ -46,5 +46,3 @@ This novel invites debate on the boundaries of attraction forged in pain and pow
 - In what ways does the dual POV enhance or detract from the overall narrative?  
 - Does the ending fulfill the emotional promises made throughout the book, or does it leave too many threads unresolved?  
 - How do the themes of violence and desire interplay to create tension, and do they ultimately serve or sabotage the narrative?
-
-#TheOrchidRoom #bullyromance #darkromance #zodiacacademy #literaryanalysis

@@ -50,5 +50,3 @@ The juxtaposition of love and decay in *Queen of Carrion* invites a rich discuss
 - How effective is the dual perspective in enhancing the emotional weight of the story?  
 - Are there moments where the narrative's tension falters due to exposition?  
 - How does the ending align with or challenge your expectations of gothic romance?  
-
-#TheOrchidRoom #gothic #horrorromance #darkfantasy #literaryanalysis

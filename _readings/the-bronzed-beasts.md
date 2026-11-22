@@ -49,5 +49,3 @@ The central tensions woven throughout *The Bronzed Beasts* invite a lively exami
 - In what ways does Chokshi's prose elevate or hinder character authenticity?  
 - How does the ending affect your overall perception of the narrative?  
 - Are the stakes of the heist compelling enough to anchor the emotional arcs?  
-
-#TheOrchidRoom #fantasyromance #darkromance #literaryanalysis #TheBronzedBeasts

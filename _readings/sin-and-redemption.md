@@ -46,5 +46,3 @@ Reilly's exploration of sin and redemption invites a myriad of polarizing discus
 - Can love coexist with betrayal in a meaningful way, or is it inherently flawed?  
 - How does the author balance the tension between innocence and corruption throughout the story?  
 - What were the most striking moments that highlighted the theme of obsession, and how did they affect your perception of the characters?  
-
-#TheOrchidRoom #mafiaromance #darkromance #temptation #chicago mafia

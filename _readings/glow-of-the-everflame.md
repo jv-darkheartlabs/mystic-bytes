@@ -48,5 +48,3 @@ The intertwining of magic and romance creates a fertile ground for debates about
 - Do you believe the romance overcame its challenges, or did it fall short in its portrayal of trust?  
 - How do the elements of magic enhance or detract from the romantic arcs?  
 - What themes do you believe are left unresolved, and how might they influence the next installment?
-
-#TheOrchidRoom #fantasyromance #darkromance #KindredsCurse #literaryanalysis

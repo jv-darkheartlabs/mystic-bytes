@@ -17,7 +17,7 @@ brief:
 
 CompTIA A+ is helpdesk as a syllabus. Hardware, operating systems, the printer that will not print, the sentence about whether it is plugged in: CompTIA split that first support year into Core 1 and Core 2 and sold the pair as the ticket HR already knows.
 
-I do not hold A+. I write from Auckland and I read job posts. mystic-bytes is Jekyll. NeuroShell is a Mac app. Neither needs a break-fix badge. The weather still arrives. Entry roles ask for A+ because CompTIA gave hiring a renewable screen that is not a vendor's product cert. Two sittings, a continuing-education clock, a checkbox that survives a template rewrite. Candidates buy a map of the desk before they have a badge that names a stack.
+I do not hold A+. I write from Louisiana and I read job posts. mystic-bytes is Jekyll. NeuroShell is a Mac app. Neither needs a break-fix badge. The weather still arrives. Entry roles ask for A+ because CompTIA gave hiring a renewable screen that is not a vendor's product cert. Two sittings, a continuing-education clock, a checkbox that survives a template rewrite. Candidates buy a map of the desk before they have a badge that names a stack.
 
 If the job is actually "troubleshoot the machine in front of you," a printed curriculum is a kindness. The tax is the posting that wants something else and still pastes A+ because nobody edited the requisition. CompTIA's own pages call A+ the industry standard for help desk and IT support.[^1] They are not hiding the product.
 

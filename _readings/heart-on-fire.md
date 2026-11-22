@@ -47,5 +47,3 @@ Bouchet’s bold explorations of desire juxtaposed with the harsh realities of w
 - In what ways do you think Bouchet’s portrayal of power dynamics reflects contemporary societal issues?  
 - How effectively does Bouchet use world-building to enhance character motivations?  
 - What elements of character growth resonated most with you, and why?
-
-#TheOrchidRoom #fantasyromance #romantasy #darkromance #kingmakerchronicles

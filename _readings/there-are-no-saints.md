@@ -48,5 +48,3 @@ Moreover, the use of snake symbolism throughout the text is particularly compell
 - In what ways does the ending challenge or conform to typical romance tropes?  
 - Can the relationship dynamics depicted be considered aspirational or purely cautionary?  
 - How does the dark thematic content influence your perception of the characters’ choices?
-
-#TheOrchidRoom #enemiestolovers #darkromance #brutalhearts #literaryanalysis

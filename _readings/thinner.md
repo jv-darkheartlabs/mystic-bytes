@@ -22,7 +22,6 @@ tags:
   - weight loss
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,4 +46,3 @@ The novel's structure, unfolding through the third-person perspective of protago
 - Can we view Billy as a sympathetic character, or does his journey strip him of moral complexity?
 
 #LiteraryAnalysis #GothicEdge  
-#darkthriller #bodyhorror #theorchidroom

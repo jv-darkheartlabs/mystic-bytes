@@ -19,7 +19,6 @@ tags:
   - dark themes
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Pounder’s *Wonka* invites rich discussions about the tension between whimsy an
 - Do you find the ending satisfactory, or does it leave too many threads unresolved?  
 - How does the interplay of humor and horror shape your perception of the protagonist’s journey?  
 - What does *Wonka* reveal about the nature of desire and its consequences in a fantastical context?  
-
-#TheOrchidRoom #gothic #horrorromance #fantasy #darkthemes

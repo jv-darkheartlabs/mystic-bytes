@@ -7,7 +7,7 @@ dek: ""
 number: R916
 sort_key: 916
 date: 2026-04-10
-date_read: 2019-10-22
+date_read: 2020-10-22
 category: fantasy-romance
 cover: /assets/readings/kingdom-of-the-wicked.jpg
 spice: 4
@@ -45,5 +45,3 @@ The interplay between romance and darkness creates a fertile ground for polarizi
 - In what ways does the gothic atmosphere enhance or detract from the romance?  
 - How effectively does the author depict emotional intensity without losing narrative momentum?  
 - What role does the supernatural play in shaping the characters' relationships?
-
-#TheOrchidRoom #fantasyromance #darkromance #kingdom #literaryanalysis

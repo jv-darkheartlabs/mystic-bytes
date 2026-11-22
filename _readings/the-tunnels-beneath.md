@@ -49,5 +49,3 @@ While *The Tunnels Beneath* successfully intertwines romance with darker themes,
 - Are the darker themes ultimately a strength or a hindrance to the romance?  
 - How does Wisehart's portrayal of violence influence your perception of the characters' relationships?  
 - What lingering questions do you have about the characters' futures beyond the page?
-
-#TheOrchidRoom #fantasyromance #darkromance #aldoranchronicles #literaryanalysis

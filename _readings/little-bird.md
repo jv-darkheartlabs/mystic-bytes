@@ -6,7 +6,7 @@ dek: "Underworld Kings"
 number: R1287
 sort_key: 1287
 date: 2026-05-20
-date_read: 2018-03-01
+date_read: 2022-03-01
 category: mafia-boss-and-innocent
 cover: /assets/readings/little-bird.jpg
 spice: 4
@@ -44,5 +44,3 @@ This novel raises critical questions about the ethics of romanticizing power imb
   - In what ways does Snow’s writing successfully evoke the tension between desire and danger?  
   - Are the character arcs in Little Bird ultimately fulfilling, or do they perpetuate harmful stereotypes?  
   - How does this book compare to other works in the dark romance genre regarding the handling of its themes?  
-
-#TheOrchidRoom #mafiaromance #darkromance #underworldkings #literaryanalysis

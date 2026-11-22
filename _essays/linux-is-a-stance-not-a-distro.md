@@ -12,7 +12,7 @@ tags: ['craft']
 brief:
   system: Fedora workstation as daily driver for mystic-bytes and studio work
   issue: distro choice treated as wallpaper and package count instead of policy
-  constraint: keep a rebuildable Linux install through the Auckland 2026 move; no vendor license transfer
+  constraint: keep a rebuildable Linux install through the Washington move; no vendor license transfer
 ---
 
 A distro war is usually a shopping argument: wallpaper, installer, which package manager feels friendlier. The interesting decision sits upstream of the ISO.
@@ -23,7 +23,7 @@ A distro war is usually a shopping argument: wallpaper, installer, which package
 
 ## Context
 
-I daily-drive Fedora. Not because it won a beauty contest. Because it sits close to upstream, ships a current kernel, and treats the workstation as something you can rebuild when a disk dies or a country changes. Auckland 2026 is a relocation, not a license transfer. I do not want the machine that holds mystic-bytes drafts to depend on a store account that might not follow me.
+I daily-drive Fedora. Not because it won a beauty contest. Because it sits close to upstream, ships a current kernel, and treats the workstation as something you can rebuild when a disk dies or a country changes. The Washington move is a relocation, not a license transfer. I do not want the machine that holds mystic-bytes drafts to depend on a store account that might not follow me.
 
 The fights people remember as "taste" were policy. systemd as pid 1. Pulse versus PipeWire. SELinux on by default. Those arguments were about who starts services, who owns logs, who may isolate a process, and whether "the Unix way" still means a pile of text files you can grep. Fedora picked sides. Debian wrote a lot of the culture down. Neither choice was a theme pack.
 
@@ -55,7 +55,7 @@ Rebuildability is the test I actually run. If the SSD fails in a hostel, can I r
 
 Pick a distro the way you pick a constitution: readable rules, a known update cadence, a story for disaster recovery that does not include a store chat. Fedora is my current vote. The kernel remains a commons either way. The stance is whether you treat that as a consumer detail or as the reason the machine is yours.
 
-When the Auckland move lands, I want the same kernel docs, the same unit files, the same git remotes. Wallpaper can change. Policy should travel.
+When the Washington move lands, I want the same kernel docs, the same unit files, the same git remotes. Wallpaper can change. Policy should travel.
 
 — JV · Dark Heart Labs.
 

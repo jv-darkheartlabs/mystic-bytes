@@ -39,5 +39,3 @@ The interplay of desire and societal pressure creates a fertile ground for debat
 - In what ways do the sports setting and character ambitions amplify the stakes of their relationship?  
 - Does the resolution of the story feel earned, or does it detract from the raw intensity built throughout?  
 - How do the characters’ personal journeys reflect broader societal themes, and do they resonate with contemporary issues?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

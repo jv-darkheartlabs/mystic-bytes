@@ -6,7 +6,7 @@ dek: ""
 number: R844
 sort_key: 844
 date: 2026-04-03
-date_read: 2009-10-22
+date_read: 2021-10-22
 category: mystery-crime
 cover: /assets/readings/the-last-thing-he-told-me.jpg
 content_warnings:

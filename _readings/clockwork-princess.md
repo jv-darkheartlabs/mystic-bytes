@@ -50,5 +50,3 @@ However, while the prose shines in its lyrical quality, certain moments feel ove
 - What role does the steampunk setting play in enhancing or detracting from the gothic romance elements?  
 - How does Clare navigate the themes of grief and loss without succumbing to melodrama?  
 - In what ways does *Clockwork Princess* redefine or reinforce the expectations of its genre?
-
-#TheOrchidRoom #fantasyromance #darkromance #steampunk #TheInfernalDevices

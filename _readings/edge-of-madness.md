@@ -7,7 +7,7 @@ dek: "Edge of Collapse Series — Book Two"
 number: R371
 sort_key: 371
 date: 2026-02-09
-date_read: 2006-05-07
+date_read: 2020-05-07
 category: sff
 cover: /assets/readings/edge-of-madness.jpg
 content_warnings:

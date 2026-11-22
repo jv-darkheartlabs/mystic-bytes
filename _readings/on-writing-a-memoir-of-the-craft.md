@@ -19,7 +19,6 @@ tags:
   - Stephen King
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -48,5 +47,3 @@ The ending, a reflective summation of King’s own evolution as a writer, feels 
 - What are the implications of King’s casual style for more formal writing guides?  
 - How do you perceive the balance between telling one’s own story and providing universal writing wisdom?  
 - In what ways does *On Writing* differ from other writing guides you’ve encountered?
-
-#LiteraryAnalysis #darkthriller #memoir #writing #craft #StephenKing #theorchidroom

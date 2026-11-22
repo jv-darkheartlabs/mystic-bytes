@@ -23,7 +23,6 @@ tags:
   - love story
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ The ending attempts to encapsulate a sense of hope and transformation; however, 
 - In what ways does this book reflect or critique societal norms surrounding wealth and power?
 - Do you believe James's resolution offers a hopeful perspective, or is it a superficial wrapping of complex issues?
 - What does this book suggest about the nature of love in the context of control and submission?
-
-#TheOrchidRoom #darkbillionaire #darkromance #FiftyShades #E.L.James

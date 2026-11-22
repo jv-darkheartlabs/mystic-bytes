@@ -6,7 +6,7 @@ dek: ""
 number: R1744
 sort_key: 1744
 date: 2026-07-05
-date_read: 2009-10-22
+date_read: 2013-10-22
 category: literary-fiction
 cover: /assets/readings/the-goldfinch.jpg
 content_warnings:
@@ -24,7 +24,6 @@ tags:
   - friendship
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -49,5 +48,3 @@ The polarities in **The Goldfinch** invite rich discussion about the nature of t
 - In what ways does the novel's portrayal of art influence our understanding of beauty and trauma?  
 - Is the ending satisfactory in its resolution, or does it fall short of the narrative's depth?  
 - How does the novel compare to other dark thrillers in its treatment of violence and morality?
-
-#LiteraryAnalysis #darkthriller #art #loss #coming-of-age #theorchidroom

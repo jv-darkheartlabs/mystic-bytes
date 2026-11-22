@@ -50,5 +50,3 @@ Ellis's work raises critical questions about agency and desire, intertwining the
 - In what ways does the ending challenge or reinforce traditional tropes associated with captor-and-captive dynamics?
 - Do the content warnings enhance or detract from the narrative experience, and how do they affect reader engagement?
 - How do we reconcile our emotional responses to the characters with the ethical implications of their actions?
-
-#TheOrchidRoom #captorandcaptivedynamics #darkromance #omegaverse #ZoeyEllis

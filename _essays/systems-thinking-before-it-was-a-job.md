@@ -19,7 +19,7 @@ brief:
 
 ## Context
 
-I run mystic-bytes from a Fedora box in the Auckland 2026 window: Markdown, Jekyll, a Python cover-preprocess script, GitHub Actions on `ubuntu-latest`. One operator. One terminal. When a build path stops being fast, there is no platform lead to page and no rollback window that is not `git revert`.
+I run mystic-bytes from a Fedora box in Louisiana: Markdown, Jekyll, a Python cover-preprocess script, GitHub Actions on `ubuntu-latest`. One operator. One terminal. When a build path stops being fast, there is no platform lead to page and no rollback window that is not `git revert`.
 
 Cursor offered a cache. Local builds went warm. CI stayed cold, then got slower, because the cache key omitted a dimension the preprocess still read. I did not open a stock-and-flow diagram. I asked what else changed when the flag flipped. Disable the cache: does latency recover? The answer implicated a loop between the script, the Actions cache, and Pagefind indexing that no README had drawn. That is systems thinking. I would have called it using my head.
 
@@ -37,7 +37,7 @@ What the formal discipline added is inspectability. Stocks and flows make invent
 
 When I teach this, I do not start with a diagram. I point at something in the room — the coffee machine, the deploy workflow, the cover script — and ask what would change if we removed it. Most people answer with second-order effects immediately. They have been doing the work. They were told it was intuition because it did not match a title.
 
-The mystic-bytes incident resolved when I drew a crude loop on paper: cache hit rate up, preprocess cache misses in CI, cover jobs rerun, Actions minutes up, patience down, another "optimization" from Cursor up. Formal method optional. Accurate loop required. Auckland weather does not change the topology. Fedora's `htop` just makes the memory side of the loop visible while Jekyll and the browser fight for RAM.
+The mystic-bytes incident resolved when I drew a crude loop on paper: cache hit rate up, preprocess cache misses in CI, cover jobs rerun, Actions minutes up, patience down, another "optimization" from Cursor up. Formal method optional. Accurate loop required. Louisiana weather does not change the topology. Fedora's `htop` just makes the memory side of the loop visible while Jekyll and the browser fight for RAM.
 
 Software compresses delay. Feature flags and CI turn quarterly loops into overnight ones. The cognitive move matters more, not less, because the second-order effect arrives before you have drafted the postmortem.
 

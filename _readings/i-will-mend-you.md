@@ -6,7 +6,7 @@ dek: ""
 number: R256
 sort_key: 256
 date: 2026-01-28
-date_read: 2019-07-13
+date_read: 2024-07-13
 category: stalker-obsession
 cover: /assets/readings/i-will-mend-you.jpg
 spice: 5
@@ -52,5 +52,3 @@ The unsettling nature of *I Will Mend You* invites a spectrum of interpretations
 - How effectively does Styx balance the themes of love and horror?  
 - In what ways does the use of first-person perspective enhance or hinder the narrative’s emotional depth?  
 - What societal critiques can be drawn from the portrayal of obsession and control in this story?
-
-#TheOrchidRoom #IWillMendYou #GigiStyx #darkromance #psychologicalhorror

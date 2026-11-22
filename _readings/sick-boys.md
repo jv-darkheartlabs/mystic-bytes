@@ -49,5 +49,3 @@ The intricacies of **Sick Boys** present a fertile ground for debate, particular
 - In what ways does the book challenge or reinforce stereotypes within the bully-romance sub-genre?  
 - Is the ending a satisfying culmination of the characters' journeys, or does it undermine the narrative's earlier tensions?  
 - What role does death imagery play in shaping the overall theme of desire and fear?  
-
-#TheOrchidRoom #bullyromance #darkromance #gothic #literaryanalysis

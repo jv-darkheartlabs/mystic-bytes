@@ -48,5 +48,3 @@ In *Gothikana*, the interplay of desire and the consequences of obsession offer 
 - What role does the gothic setting play in shaping the characters’ relationships?  
 - Does the resolution of the plot provide a satisfying conclusion, or does it intentionally leave readers wanting more?  
 - In what ways does RuNyx’s writing style serve to connect with or alienate the audience?
-
-#TheOrchidRoom #forbiddenlove #darkromance #literaryanalysis #darkheartlabs

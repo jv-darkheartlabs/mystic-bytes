@@ -23,7 +23,6 @@ tags:
   - love story
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -50,5 +49,3 @@ The pacing is deliberate, allowing emotional beats to resonate but occasionally 
 - Can we separate the romance from the context of trauma, or does it inherently shape our understanding of love in the narrative?  
 - How does the structure of alternating timelines enhance or detract from the emotional impact?  
 - What role does setting play in shaping the characters’ journeys, and could the story have worked in a different locale?
-
-#TheOrchidRoom #forbiddenlove #darkromance #romance #suspense

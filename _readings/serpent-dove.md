@@ -49,5 +49,3 @@ The setting, a world rife with witch hunts and religious zealotry, serves as bot
 - In what ways does Mahurin’s exploration of religious themes resonate with contemporary societal issues?  
 - Do you find the resolution of the characters' arcs satisfying given the groundwork laid by the earlier conflicts?  
 - What role does the setting play in shaping the protagonists’ identities, and does it resonate with real-world issues of persecution?
-
-#TheOrchidRoom #SerpentAndDove #darkromance #enemiestolovers #literaryanalysis

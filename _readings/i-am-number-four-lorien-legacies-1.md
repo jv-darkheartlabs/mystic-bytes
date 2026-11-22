@@ -22,7 +22,6 @@ tags:
   - adventure
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -47,5 +46,3 @@ While **I Am Number Four** offers a compelling blend of romance and action, the 
 - Does the romantic subplot serve as a meaningful counterpart to the main conflict, or does it feel like a distraction?
 - How does the world-building compare to other young adult series you've read, and what aspects stood out for you?
 - Is the ending satisfying within the context of the character's journey, or does it leave you wanting more?
-
-#TheOrchidRoom #fantasyromance #darkromance #youngadult #literaryanalysis

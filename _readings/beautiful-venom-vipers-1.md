@@ -6,7 +6,7 @@ dek: "Vipers Series Book 1"
 number: R1954
 sort_key: 1954
 date: 2026-07-23
-date_read: 2009-04-04
+date_read: 2025-04-04
 category: romantic-suspense
 cover: /assets/readings/beautiful-venom-vipers-1.jpg
 spice: 4
@@ -21,7 +21,6 @@ tags:
   - crime
   - goodreads-import
   - literaryanalysis
-  - theorchidroom
   - darkheartlabs
 review_format: book-club
 ---
@@ -46,5 +45,3 @@ Dialogue drives much of the characterization, but at times, it strays into clich
 - Does the resolution of the narrative offer a satisfying closure, or does it leave too many questions unanswered?
 - How do the darker themes affect your perception of the romantic elements in the story?
 - What role does the setting play in shaping the characters' choices and the overall tone of the novel?
-
-#LiteraryAnalysis #darkthriller #romanticsuspense #vengeance #theorchidroom

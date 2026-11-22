@@ -6,7 +6,7 @@ dek: "The #1 New York Times Bestseller"
 number: R475
 sort_key: 475
 date: 2026-02-21
-date_read: 2022-10-22
+date_read: 2024-10-22
 category: enemies-to-lovers
 cover: /assets/readings/just-for-the-summer.jpg
 spice: 3
@@ -41,5 +41,3 @@ The thematic success of the novel lies in its exploration of how love can arise 
 - In what ways does the dual POV serve to deepen or dilute the romantic tension?  
 - Are the characters’ transitions believable, or do they feel rushed at the conclusion?  
 - How does the use of light-hearted elements in an otherwise emotional narrative shape your reading experience?  
-
-#TheOrchidRoom #enemiestolovers #darkromance #fake dating #literaryanalysis

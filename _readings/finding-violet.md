@@ -47,5 +47,3 @@ The polarities in "Finding Violet" are ripe for debate, particularly surrounding
 - What role does death imagery play in shaping the themes of love and obsession?  
 - How does the author balance tension and resolution, and is the ending satisfying?  
 - In what ways does Dice's writing style enhance or detract from the overall impact of the story?  
-
-#TheOrchidRoom #FindingViolet #DarkRomance #StalkerObsession #LiteraryAnalysis
