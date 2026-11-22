@@ -14,6 +14,8 @@ brief:
   system: engineering work spanning the US Gulf Coast and the Pacific Northwest; relocation in progress
   issue: meeting sprawl erases focus blocks; async updates mistaken for disengagement
   constraint: build culture that survives a two-hour offset without always-on drift
+redirect_from:
+  - /p/how-to-work-remotely-across-oceania-time-zones/
 ---
 
 ## Thesis

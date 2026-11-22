@@ -13,6 +13,8 @@ brief:
   system: mystic-bytes Jekyll workspace, edited with Muse
   issue: agent output accepted as merge-ready because the editor framed it as a completion
   constraint: keep judgment local; no unpublished vendor internals as process
+redirect_from:
+  - /p/cursor-is-an-editor-with-a-model-in-the-loop/
 ---
 
 I write mystic-bytes with Muse. There is no editor in the loop at all. The agent has the repo mounted: it reads the files, drafts the patch, and waits for my signature before anything lands. That is the whole architecture. The failure mode is treating the proposal as a commit someone already signed.

@@ -21,6 +21,8 @@ tags:
   - schoolcanon
   - juvenile
 review_format: book-club
+redirect_from:
+  - /r/the-hobbit-or-there-and-back-again/
 ---
 
 ## Hook & thesis
