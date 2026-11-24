@@ -493,17 +493,17 @@
 
 /* Spins design album (Media page) — Nov 24, 2026 */
 .spins-group-title {
-  color: $bone-gold;
+  color: var(--gold);
   margin: 2rem 0 0.5rem;
 }
 
 .spins-type-title {
-  color: $pale;
+  color: var(--text);
   margin: 1.75rem 0 0.25rem;
 }
 
 .spins-genre-title {
-  color: $violet-pale;
+  color: var(--violet);
   letter-spacing: 0.06em;
   text-transform: uppercase;
   margin: 1.25rem 0 0.5rem;
@@ -518,8 +518,8 @@
 
 .spins-card {
   margin: 0;
-  background: $surface;
-  border: 1px solid $line;
+  background: var(--surface);
+  border: 1px solid var(--line);
   border-radius: 10px;
   overflow: hidden;
 
@@ -537,15 +537,15 @@
 
 .spins-brand {
   display: block;
-  color: $pale;
+  color: var(--text);
 }
 
 .spins-line {
   display: block;
-  color: $muted;
+  color: var(--muted);
   font-size: 0.85em;
 }
 
 .spins-shelf {
-  color: $bone-gold;
+  color: var(--gold);
 }
